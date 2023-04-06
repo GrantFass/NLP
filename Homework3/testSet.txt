@@ -1,8 +1,8 @@
-The program does what it should do.
-It functions adequately.
-The program sucks.
-This thing runs like a pregnant cow.
-It was a little slow, but not too bad.
-Slow. Slow. SLOW!
-Great software!
-Worth the trouble to install.
+POS The program does what it should do.
+NEU It functions adequately.
+NEG The program sucks.
+NEG This thing runs like a pregnant cow.
+NEU It was a little slow, but not too bad.
+NEG Slow. Slow. SLOW!
+POS Great software!
+NEU Worth the trouble to install.
