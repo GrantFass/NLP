@@ -1,3 +1,7 @@
+test.ft.txt
+train.ft.txt
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
