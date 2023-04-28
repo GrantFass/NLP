@@ -1,6 +1,10 @@
 test.ft.txt
 train.ft.txt
 *.zip
+dev.csv
+test.jsons
+train.csv
+train.jsons
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
