@@ -3,11 +3,7 @@ import structlog  # for event logging
 from dotenv import load_dotenv
 import os
 import pickle
-
-from pathlib import Path
-from collections import Counter, defaultdict
 import pandas as pd
-import random
 from tqdm import tqdm
 import nltk
 from nltk.util import ngrams
@@ -24,14 +20,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score
 from sklearn.metrics import f1_score, recall_score
 from sklearn.metrics import classification_report
-from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
-from sklearn.model_selection import StratifiedKFold
-from sklearn.feature_extraction.text import CountVectorizer
 import math
-import numpy as np
-import copy
-import seaborn as sns
-import matplotlib.pyplot as plt
 import json
 
 nltk.download([
