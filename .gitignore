@@ -5,6 +5,7 @@ dev.csv
 test.jsons
 train.csv
 train.jsons
+freq_dist.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
