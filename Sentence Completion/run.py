@@ -22,6 +22,8 @@ from sklearn.metrics import f1_score, recall_score
 from sklearn.metrics import classification_report
 import math
 import json
+from pathlib import Path
+import subprocess
 
 nltk.download([
 "names",
@@ -252,14 +254,15 @@ def determine_prediction_based_on_best_answer(best_answer, row, mask_indices):
             if result:
                 return col.replace(")", "")
 
-def from_pickle(filename='Sentence Completion\\freq_dist.pkl'):
+def from_pickle(filename='NLP/Sentence Completion/freq_dist.pkl'):
     model = {}
-    with open(filename, 'rb') as fp:
+    print(subprocess.run("ls", shell=True, check=True))
+    with open(Path(filename), 'rb') as fp:
         model = pickle.load(fp)
     return model
 
 def to_pickle(filename, model):
-    with open(filename, 'wb') as fp:
+    with open(Path(filename), 'wb') as fp:
         pickle.dump(model, fp)
         print("Saved %s to file %s" % ('freq_dist', filename))
 
@@ -272,7 +275,7 @@ def count_num_blanks(question, mask="___"):
             num_blanks += 1
     return num_blanks
             
-def predict(row, model_filepath='Sentence Completion\\freq_dist.pkl'):
+def predict(row, model_filepath='NLP/Sentence Completion/freq_dist.pkl'):
     # load the model
     model = from_pickle(filename=model_filepath)
     # parse the incoming question
@@ -291,7 +294,7 @@ def predict(row, model_filepath='Sentence Completion\\freq_dist.pkl'):
 
 @app.route('/metrics', methods=['GET'])
 def get_metrics_endpoint():
-    metrics = from_pickle(filename='Sentence Completion\\metrics.pkl')
+    metrics = from_pickle(filename=Path('NLP/Sentence Completion/metrics.pkl'))
     return json.dumps(metrics)
         
 @app.route('/predict', methods=['GET'])
