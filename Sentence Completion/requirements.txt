@@ -9,3 +9,5 @@ seaborn
 tqdm
 Unidecode
 ipywidgets
+numpy_ml
+gym
