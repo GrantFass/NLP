@@ -1,0 +1,75 @@
+Let's say that we have four
+siblings right over here. They're trying to decide how to pick who should do the dishes each night. The oldest sibling right
+over here he decides, "I'll just put all of our
+names into a bowl and then I'll "just randomly pick one of
+our names out of the bowl "each night and then that
+person is going to be -," so this is the bowl
+right over here and I'm going to put four sheets
+of paper in there. Each of them is going to
+have one of their names. He's just going to randomly
+pick it out each night and that's the person who's
+going to do their dishes. They all say, "That
+seems like a reasonably fair thing to do," so
+they start that process. Let's say that after the
+first three nights that he, the oldest brother here.
+Let's call him Bill. Let's say after three nights Bill has not had to do the dishes. At that point the rest of
+the siblings are starting to think maybe, just maybe
+something fishy is happening. What I want to think about is what is the probability of that happening. What's the probability of three nights in a row Bill does not get picked? If we assume that we were randomly taking, if Bill was truly randomly
+taking these things out of the bowl and not
+cheating in some way. What's the probability
+that that would happen? That three nights in a row
+Bill would not be picked. I encourage you to pause the
+video and think about that. Let's think about the probability that Bill's not picked on a given night. If it's truly random, so we're going to assume that Bill is not cheating. Assume truly random and
+that each of the sheets of paper have a one in four
+chance of being picked, what's the probability that
+Bill does not get picked? The probability that, I guess let me write this, Bill not picked on a night. Well, there's four equally
+likely outcomes and three of them result in
+Bill not getting picked, so there's a three fourths probability that Bill is not picked on a given night. What's the probability that Bill's not picked three nights in a row? Let me write that down. The probability Bill not
+picked three nights in a row. Well that's the probability he's
+not picked on the first night, times the probability that he's
+not picked on the third night. Times the probability that he's
+not picked on the third night. That's going to be three
+to the third power, or three times three times three, that's 27 over four to the third power. Four times four times four
+is 64 and if we want to express that as a decimal.
+Let me get my calculator out. That is 27 divided by
+64 is equal to, and I'll just round to the nearest
+hundredth here, 0.42. That is equal to 0.42. This
+doesn't seem that unlikely. It's a little less
+likely than even odds but you wouldn't question
+someone's credibility. There's a 42 percent,
+roughly a 42 percent chance that three nights in a row
+Bill would not be picked. This seems like if you're
+assuming truly random it's a reasonable, your hypothesis
+that it's truly random, there's a good chance that you're right. There's a 42 percent
+chance you would have the outcome you saw if your
+assumption is true. Let's say you keep doing this.
+You trust your older brother, why would he want to cheat
+out his younger siblings. Let's say that Bill's not
+picked 12 nights in a row. Then everyone's starting to get a little bit suspicious with Bill right over here. They say, "We're going to give
+him the benefit of the doubt." Assuming that he's
+being completely honest, that this a completely
+random process, what is the probability that he would not
+be picked 12 nights in a row? I'll just write that down.
+The probability Bill, it's really the same stuff
+that I wrote up here. I'll just say, Bill not
+picked 12 nights in a row. That's going to be, you're going to take 12 three fourths and
+multiply them together. It's going to be three
+fourths to the 12th power. What is this going to be equal to? I'll just write three divided four which is going to be 0.75 to the 12th power. This is a much smaller, this is now, this is going to be 0.3, I
+guess we could go to one more decimal place, 0.32 or we
+could say- 0.032 I should say, which is approximately
+equal to, let me write that, which is equal to 3.2 percent. Now you have every right to start thinking that something is getting fishy. You could say, "If there
+was --," this is what statisticians actually do,
+they often define a threshold. "If the probability of
+this happening purely by "chance is more than five
+percent then I'll say, "'Maybe it was happening
+by chance,' but if the "probability of this
+happening purely by chance," and the threshold that
+statisticians often use is five percent but that's
+somewhat arbitrarily defined. This is a fairly low probably
+that it would happen fairly by chance, so you might be
+tempted to reject the hypothesis that it was truly random, that
+Bill is cheating in some way. And you could imagine if
+it wasn't 12 in a row, if it was 20 in a row then this
+probability becomes really, really, really, really, really
+small, so your hypothesis that it's truly random starts
+really coming to doubt.

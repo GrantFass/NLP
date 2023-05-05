@@ -1,0 +1,141 @@
+I will now do a presentation
+on the center of mass. And the center mass, hopefully,
+is something that will be a little bit intuitive
+to you, and it actually has some very neat applications. So in very simple terms, the
+center of mass is a point. Let me draw an object. Let's say that this
+is my object. Let's say it's a ruler. This ruler, it exists,
+so it has some mass. And my question to you is
+what is the center mass? And you say, Sal, well, in order
+to know figure out the center mass, you have to tell me
+what the center of mass is. And what I tell you is the
+center mass is a point, and it actually doesn't have to even
+be a point in the object. I'll do an example soon
+where it won't be. But it's a point. And at that point, for dealing
+with this object as a whole or the mass of the object as a
+whole, we can pretend that the entire mass exists
+at that point. And what do I mean
+by saying that? Well, let's say that the
+center of mass is here. And I'll tell you why
+I picked this point. Because that is pretty close
+to where the center of mass will be. If the center of mass is there,
+and let's say the mass of this entire ruler is, I don't
+know, 10 kilograms. This ruler, if a force is applied at
+the center of mass, let's say 10 Newtons, so the mass
+of the whole ruler is 10 kilograms. If a force is applied
+at the center of mass, this ruler will accelerate the
+same exact way as would a point mass. Let's say that we just had a
+little dot, but that little dot had the same mass, 10
+kilograms, and we were to push on that dot with 10 Newtons. In either case, in the case of
+the ruler, we would accelerate upwards at what? Force divided by mass, so we
+would accelerate upwards at 1 meter per second squared. And in this case of this
+point mass, we would accelerate that point. When I say point mass, I'm just
+saying something really, really small, but it has a mass
+of 10 kilograms, so it's much smaller, but it has the
+same mass as this ruler. This would also accelerate
+upwards with a magnitude of 1 meters per second squared. So why is this useful to us? Well, sometimes we have some
+really crazy objects and we want to figure out exactly
+what it does. If we know its center of mass
+first, we can know how that object will behave without
+having to worry about the shape of that object. And I'll give you a really easy
+way of realizing where the center of mass is. If the object has a uniform
+distribution-- when I say that, it means, for simple
+purposes, if it's made out of the same thing and that thing
+that it's made out of, its density, doesn't really change
+throughout the object, the center of mass will be the
+object's geometric center. So in this case, this
+ruler's almost a one-dimensional object. We just went halfway. The distance from here to here
+and the distance from here to here are the same. This is the center of mass. If we had a two-dimensional
+object, let's say we had this triangle and we want to figure
+out its center of mass, it'll be the center in
+two dimensions. So it'll be something
+like that. Now, if I had another situation,
+let's say I have this square. I don't know if that's big
+enough for you to see. I need to draw it a
+little thicker. Let's say I have this square,
+but let's say that half of this square is made from lead. And let's say the other half
+of the square is made from something lighter than lead. It's made of styrofoam. That is lighter than lead. So in this situation, the center
+of mass isn't going to be the geographic center. I don't know how much denser
+lead is than styrofoam, but the center of mass is going to
+be someplace closer to the right because this object does
+not have a uniform density. It'll actually depend on how
+much denser the lead is than the styrofoam, which
+I don't know. But hopefully, that gives you a
+little intuition of what the center of mass is. And now I'll tell you something
+a little more interesting. Every problem we have done so
+far, we actually made the simplifying assumption that
+the force acts on the center of mass. So if I have an object, let's
+say the object that looks like a horse. Let's say that object. If this is the object's center
+of mass, I don't know where the horse's center of mass
+normally is, but let's say a horse's center of
+mass is here. If I apply a force directly on
+that center of mass, then the object will move in the
+direction of that force with the appropriate acceleration. We could divide the force by the
+mass of the entire horse and we would figure out the acceleration in that direction. But now I will throw in a twist.
+And actually, every problem we did, all of these
+Newton's Law's problems, we assumed that the force acted
+at the center of mass. But something more interesting
+happens if the force acts away from the center of mass. Let me actually take
+that ruler example. I don't know why I even
+drew the horse. If I have this ruler again and
+this is the center of mass, as we said, any force that we act
+on the center of mass, the whole object will move in the
+direction of the force. It'll be shifted by the
+force, essentially. Now, this is what's
+interesting. If that's the center of mass and
+if I were to apply a force someplace else away from the
+center of mass, let' say I apply a force here, I want you
+to think about for a second what will probably happen
+to the object. Well, it turns out that the
+object will rotate. And so think about if we're on
+the space shuttle or we're in deep space or something, and
+if I have a ruler, and if I just push at one end of the
+ruler, what's going to happen? Am I just going to push the
+whole ruler or is the whole ruler is going to rotate? And hopefully, your intuition
+is correct. The whole ruler will rotate
+around the center of mass. And in general, if you were to
+throw a monkey wrench at someone, and I don't recommend
+that you do, but if you did, and while the monkey wrench is
+spinning in the air, it's spinning around its
+center of mass. Same for a knife. If you're a knife catcher,
+that's something you should think about, that the object,
+when it's free, when it's not fixed to any point, it rotates
+around its center of mass, and that's very interesting. So you can actually throw random
+objects, and that point at which it rotates
+around, that's the object's center of mass. That's an experiment that you
+should do in an open field around no one else. Now, with all of this, and
+I'll actually in the next video tell you what this is. When you have a force that
+causes rotational motion as opposed to a shifting motion,
+that's torque, but we'll do that in the next video. But now I'll show you just a
+cool example of how the center of mass is relevant in everyday
+applications, like high jumping. So in general, let's say
+that this is a bar. This is a side view of a
+bar, and this is the thing holding the bar. And a guy wants to jump
+over the bar. His center of mass is-- most
+people's center of mass is around their gut. I think evolutionarily that's
+why our gut is there, because it's close to our
+center of mass. So there's two ways to jump. You could just jump straight
+over the bar, like a hurdle jump, in which case your center
+of mass would have to cross over the bar. And we could figure out this
+mass, and we can figure out how much energy and how much
+force is required to propel a mass that high because we know
+projectile motion and we know all of Newton's laws. But what you see a lot in the
+Olympics is people doing a very strange type of jump,
+where, when they're going over the bar, they look something
+like this. Their backs are arched
+over the bar. Not a good picture. But what happens when someone
+arches their back over the bar like this? I hope you get the point. This is the bar right here. Well, it's interesting. If you took the average of
+this person's density and figured out his geometric center
+and all of that, the center of mass in this
+situation, if someone jumps like that, actually travels
+below the bar. Because the person arches their
+back so much, if you took the average of the total
+mass of where the person is, their center of mass actually
+goes below the bar. And because of that, you can
+clear a bar without having your center of mass go as high
+as the bar and so you need less force to do it. Or another way to say it, with
+the same force, you could clear a higher bar. , Hopefully, I didn't confuse you,
+but that's exactly why these high jumpers arch their
+back, so that their center of mass is actually below the bar
+and they don't have to exert as much force. Anyway, hopefully you found that
+to be a vaguely useful introduction to the center of
+mass, and I'll see you in the next video on torque.

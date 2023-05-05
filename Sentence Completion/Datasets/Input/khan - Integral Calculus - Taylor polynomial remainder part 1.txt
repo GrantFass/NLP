@@ -1,0 +1,101 @@
+- [Voiceover] Let's say
+that we have some function f of x right over here. And let me graph an arbitrary f of x. So, that's my y-axis, that is my x-axis and maybe f of x looks
+something like that. And what I wanna do is I
+wanna approximate f of x with a Taylor polynomial centered around x is equal to a. So this is the x-axis, this is the y-axis. So I want a Taylor polynomial
+centered around there. And we've seen how this works. The Taylor polynomial
+comes out of the idea that for all of the derivatives up to and including the degree
+of the polynomial, those derivatives of that
+polynomial evaluated at a should be equal to the derivatives of our function evaluated at a. And that polynomial evaluated at a should also be equal to that
+function evaluated at a. So our polynomial, our Taylor polynomial approximation would look
+something like this. So, I'll call it P of x. And sometimes you might see
+a subscript, a big N there to say it's an Nth degree approximation and sometimes you'll
+see something like this. Sometimes you'll see
+something like N comma a to say it's an Nth degree
+approximation centered at a. Actually, I'll write that right now. Maybe we might lose it if
+we have to keep writing it over and over but you
+should assume that it is an Nth degree polynomial centered at a. And it's going to look like this. It is going to be f of a, plus f prime of a, times x minus a, plus f prime prime of a, times x minus a squared over-- Either you could write
+two or two factorial, they're the same value. I'll write two factorial. You could write a divided by one factorial over here, if you like. And then plus, you go to the
+third derivative of f at a times x minus a to the third power, I think you see where this is going, over three factorial. And you keep going, I'll
+go to this line right here, all the way to your Nth degree term which is the Nth derivative of f evaluated at a times x minus a to the N over N factorial. And this polynomial right over here, this Nth degree polynomial centered at a, f or P of a is going to be
+the same thing as f of a. And you can verify that
+because all of these other terms have an x minus a here. So if you put an a in the polynomial, all of these other terms
+are going to be zero. And you'll have P of a is equal to f of a. Let me write that down. P of a is equal to f of a. And so it might look something like this. And it's going to fit the curve better the more of these terms
+that we actually have. So it might look something like this. I'll try my best to show what it might look like. So this is all review,
+I have this polynomial that's approximating this function. The more terms I have, the
+higher degree of this polynomial, the better that it will fit this curve the further that I get away from a. But what I wanna do in
+this video is think about if we can bound how good it's fitting this function as we move away from a. So what I wanna do is
+define a remainder function. Or sometimes, I've seen some text books call it an error function. And I'm going to call this-- I'll just call it an error-- Just so you're consistent with all the different notations you
+might see in a book, some people will call
+this a remainder function and sometimes they'll
+write a remainder function for an Nth degree
+polynomial centered at a. Sometimes you'll see this
+as an error function. The error function is sometimes avoided because it looks like expected
+value from probability. But you'll see this often,
+this is E for error. E for error, R for remainder. And sometimes they'll also have the subscripts over there like that. And what we'll do is, we'll just define this function to be the difference between f of x and our approximation
+of f of x for any given x. So it's really just going to be, I'll do it in the same colors,
+it's going to be f of x minus P of x. Where this is an Nth degree polynomial centered at a. So for example, if
+someone were to ask you, or if you wanted to visualize. What are they talking
+about if they're saying the error of this Nth degree
+polynomial centered at a when we are at x is equal to b. What is thing equal to or how
+should you think about this. Well, if b is right over here. So the error of b is going to be f of b minus the polynomial at b. So f of b there, the
+polynomial's right over there. So it'll be this distance right over here. So if you measure the error at a, it would actually be zero. Because the polynomial and the
+function are the same there. F of a is equal to P of a, so the error at a is equal to zero. And let me actually write that down because that's an interesting property. It'll help us bound it
+eventually so let me write that. The error function at a. And for the rest of this
+video you can assume that I could write a subscript. This is for the Nth degree
+polynomial centered at a. I'm just gonna not write that everytime just to save ourselves a
+little bit of time in writing, to keep my hand fresh. So the error at a is equal to f of a minus P of a. And once again, I won't
+write the sub-N, sub-a. You can assume it, this is an Nth degree polynomial centered at a. And these two things
+are equal to each other. So this is going to be equal to zero. And we see that right over here. The distance between the
+two functions is zero there. Now let's think about something else. Let's think about what the derivative of the error function evaluated at a is. Well that's going to be the
+derivative of our function at a minus the first derivative of our polynomial at a. And if we assume that this is higher than degree one, we
+know that these derivates are going to be the same at a. You can try to take the
+first derivative here. If you take the first
+derivative of this whole mess-- And this is actually why Taylor
+polynomials are so useful, is that up to and including
+the degree of the polynomial when you evaluate the derivatives
+of your polynomial at a they're going to be the same as the derivatives of the function at a. And that's what starts to
+make it a good approximation. But if you took a derivative here, this term right here will
+disappear, it'll go to zero. I'll cross it out for now. This term right over here
+will just be f prime of a and then all of these other
+terms are going to be left with some type of an x minus a in them. And so when you evaluate it at a, all the terms with an x minus a disappear, because you have an a minus a on them. This one already disappeared and you're literally just left with P prime of a will equal f prime of a. And we've seen that before.
+So let me write that. So because we know that P prime of a is equal to f prime of a, when you evaluate the error function, the derivative of the error function at a, that also is going to be equal to zero. And this general property right over here, is true up to an including N. So let me write this down. So we already know that P
+of a is equal to f of a. We already know that P prime
+of a is equal to f prime of a. This really comes straight
+out of the definition of the Taylor polynomials. And this is going to be true all the way until the Nth derivative
+of our polynomial is going, evaluated at a, not everywhere,
+just evaluated at a, is going to be equal to the Nth derivative of our function evaluated at a. So what that tells us is
+that we can keep doing this with the error function all
+the way to the Nth derivative of the error function evaluated at a is going to be equal to, well that's just going
+to be the Nth derivative of f evaluated at a,
+minus the Nth derivative of our polynomial evaluated at a. And we already said that
+these are going to be equal to each other up
+to the Nth derivative when we evaluate them at a. So these are all going
+to be equal to zero. So this is an interesting property and it's also going to
+be useful when we start to try to bound this error function. And that's the whole
+point of where I'm going with this video and
+probably the next video, is we're gonna try to bound it so we know how good of an estimate we have. Especially as we go further and further from where we are centered. &gt;From where are approximation is centered. Now let's think about when we
+take a derivative beyond that. So let's think about what
+happens when we take the N plus oneth derivative. What's a good place to write? Well I have some screen
+real estate right over here. What is the N plus oneth derivative of our error function? And not even if I'm just evaluating at a. If I just say generally,
+the error function E of x, what's the N plus oneth derivative of it? Well it's going to be the
+N plus oneth derivative of our function minus the N plus oneth derivative of our-- We're not just evaluating
+at a here either. Let me write a x there. I'm literally just taking
+the N plus oneth derivative of both sides of this
+equation right over here. So it's literally the
+N plus oneth derivative of our function minus the
+N plus oneth derivative of our Nth degree polynomial. The N plus oneth derivative
+of our Nth degree polynomial. I could write a N here,
+I could write an a here to show it's an Nth degree centered at a. Now, what is the N plus onethe derivative of an Nth degree polynomial? And if you want some hints, take the second derivative
+of y is equal to x. It's a first degree polynomial,
+take the second derivative, you're gonna get zero. Take the third derivative
+of y is equal to x squared. The first derivative is 2x,
+the second derivative is 2, the third derivative is zero. In general, if you take
+an N plus oneth derivative of an Nth degree polynomial, and you could prove it for yourself, you could even prove it generally but I think it might make
+a little sense to you, it's going to be equal to zero. It is going to be equal to zero. So this thing right here, this
+is an N plus oneth derivative of an Nth degree polynomial. This is going to be equal to zero. Let me write this over here. The N plus oneth derivative
+of our error function or our remainder function,
+we could call it, is equal to the N plus oneth derivative of our function. And so, what we could do now and we'll probably have to
+continue this in the next video, is figure out, at least can we bound this? Can we bound this and if
+we are able to bound this, if we're able to figure out an upper bound on its magnitude-- So actually, what we want to do is, we wanna bound its overall magnitude. We wanna bound its absolute value. If we can determine that it is less than or equal to some value M, so if we can actually bound it, maybe we can do a little bit of calculus, we could keep integrating it and maybe we can go back
+to the original function and bound that in some way. If we do know some type of
+bound like this over here. So I'll take that up in the next video.

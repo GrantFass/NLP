@@ -1,0 +1,14 @@
+- So, we've seen two ways
+to calculate in-betweens: linear interpolation and Bézier curves. Now let's get into the math behind them. We're gonna build on
+some of what we learned in the environment modeling lesson, so if you need to review,
+click on this link. Let's start with the simpler
+version, linear interpolation. Let's focus on this segment. We know the value of y at frame 4 is 750 and the value at frame 8 is 190, but what's the value of
+y at frame 5, 6, or 7? The picture tells us
+that y can be represented as a linear function of x,
+where x is the frame number. Linear functions can be written
+in slope-intercept form: y = mx + b, where m is the slope and
+b is the y-intercept. Now we don't know the slope
+and intercept directly, but we do have two points on the line, which is enough information
+to calculate them. Now, once we have m and b, we can figure out y for any frame. Try out this next exercise
+to test your understanding of linear interpolation using
+the slope-intercept form.

@@ -1,0 +1,65 @@
+Voiceover:What I want to
+attempt to do in this video is figure out what the
+sine of seven pi over 12 is without using a calculator. And so let's just
+visualize seven pi over 12 in the unit circle. One side of the angle is going
+along the positive x-axis and then let's see, if we go straight up, that's pi over two, which is the same thing as six pi over 12, so then we essentially just
+have another pi over 12 to get right over there. This is the angle that we're talking about that is seven pi over 12 radians, and the sine of it, by the unit circle definition of sine, it's the y-coordinate of where this ray intersects the unit circle. This is the unit circle, has radius one where it intersects the unit. The y-coordinate is the sine. Another way to think about it, it's the length of this
+line right over here. I encourage you to pause
+the video right now and try to think about it on your own. See if you can use your
+powers of trigonometry to figure out what sine
+of seven pi over 12 is or essentially the length
+of this magenta line. I'm assuming you've given a go at it, and if you're like me, your first temptation might have been just to focus on this
+triangle right over here that I drew for you. The triangle looks like this. It looks like this, where that's what you're
+trying to figure out, this length right over here, sine of seven pi over 12. We know the length of
+the hypotenuse is one. It's a radius of the unit circle. It's a right triangle right over there. We also know this angle right over here, which is this angle right over here, this gets us six pi over 12, and then we have another pi over 12, so we know that that is pi over 12, not pi over 16. We know that this angle right
+over here is pi over 12. Given this information, we can figure out this, or we can at least relate
+this side to this other side using a trig function
+relative to this angle. This is the adjacent side. The cosine of pi over 12 is going to be this magenta side over one, or you could just say it's
+equal to this magenta side. You could say that this
+is cosine of pi over 12. We just figured out that
+sine of seven pi over 12 is the same thing as cosine of pi over 12, but that still doesn't help me. I don't know offhand what the cosine of pi over 12 radians is without using a calculator. Instead of thinking about it this way, let's see if we can compose this angle or if we can decompose it into some angles for which we do know the sine and cosine. What angles are those? Those are the angles in
+special right triangles. For example, we are very familiar
+with 30-60-90 triangles. 30-60-90 triangles look
+something like this. This is my best attempt
+at hand drawing it. Instead of writing 30-degree side, since we're thinking in radians, I'll write that as pi over six radians. The 60-degree side,
+I'm going to write that as pi over three radians, and of course, this is the right angle. If the hypotenuse here is one, then the side opposite the 30-degree side, or the pi over six radian side, is going to be half the hypotenuse, which, in this case is 1/2. Then the other side that's
+opposite the 60-degree side or the pi over three radian side, is going to be square root of
+three times the shorter side. It's going to be square
+root of three over two. We've used these types
+of triangles in the past to figure out the sine
+or cosine of 30 or 60, or in this case, pi over six or pi over three. We know about pi over
+six and pi over three. We also know about 45-45-90 triangles. We know that they're
+isosceles right triangles. They look like this, my best attempt at drawing it. That one actually doesn't
+look that isosceles, so let me make it a little bit more ... I don't know. That looks closer to being
+an isosceles right triangle. We know if the length of
+the hypotenuse is one, and this comes straight
+out of Pythagorean theorem, then the length of each
+of the other two sides are going to be square
+root of two over two times the hypotenuse, which, in this case, is the
+square root of two over two. Instead of describing
+these as 45-degree angles, we know that's the same
+thing as pi over four, pi over four radians. If you give me pi over six,
+pi over three, pi over four, I can use these triangles either using the classic definition, SOHCAHTOA definitions, or I could stick them
+on the unit circle here to use the unit circle
+definition of trig functions to figure out what the
+sine, cosine, or tangent of these angles are. Can I decompose seven pi
+over 12 into some combination of pi over sixes, pi over
+threes, or pi over fours? Think about that. Let me rewrite pi over six, pi over three, and pi over four with a denominator over 12. Let me write that. Pi over six is equal to two pi over 12, pi over three is equal to four pi over 12, and pi over four is equal
+to three pi over 12. Let's see. Two plus four is not seven, two plus three is not seven, but four plus three is seven. So I could use this and this. Four pi over 12 plus three pi over 12 is seven pi over 12. I could rewrite this. This is the same thing as
+sine of three pi over 12 plus 4 pi over 12, which, of course, is the same thing, sine of pi over 4, I'll do this in another color, sine of pi over 4 plus ... let me do this ... plus pi over three, Now we can use our angle
+addition formula for sine in order to write this
+as the sum of products of cosines and sines of these angles. Let's actually do that. This right over here is
+going to be equal to, this is going to be equal to the sine, the sine of pi over four times
+the cosine of pi over three plus the other way around, cosine of pi over four times
+the sine of pi over three, sine of pi over three. Now we just have to
+figure out these things, and I've already set up
+the triangles to do it. What is sine of pi over four? Sine of pi over four, well, let's think about ... This is pi over four right over here. Sine is opposite over hypotenuse. That's just going to be
+square root of two over two. This is square root of two over two, square root of two over two. What is cosine of pi over three? This is a pi over three
+radian angle right over here. Cosine is adjacent over a hypotenuse. It's adjacent over a hypotenuse, so this is going to be 1/2. What is cosine of pi over four? Go back to pi over four. It's adjacent over a hypotenuse. It's square root of two over two. It is also square root of two over two, square root of two over two. What's sine of pi over three? Sine is opposite over a hypotenuse, so square root of three over two over one. Square root of three
+over two divided by one, which is square root of three over two. Now we just have to simplify
+all of this business. This is going to be
+equal to the sum of this, or the product, I should say, is just square root of two over four, and then plus the product of these. Let's see. We could write that as
+square root of six over four, square root of six over four, or we could just rewrite
+this whole thing as, and we deserve a little bit
+of a drum roll at this point, this is equivalent to, let me just scroll over
+to the right a little bit. This is equivalent to square root of two plus square root of six, all of that over four. That's what sine of seven pi over 12 is, or cosine of pi over 12, what that is equal to.

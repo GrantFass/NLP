@@ -1,0 +1,56 @@
+- [Voiceover] Let's say that I've got two different data sets. The first data set, I have two, another two, a four, and a four. And then, in the other
+data set, I have a one. We'll do this on the
+right side of the screen. A one, a one, a six, and a four. Now, the first thing I
+wanna think about is, "Well, how do I ... "Is there a number that can give me "a measure of center of
+each of these data sets?" And one of the ways that
+we know how to do that is by finding the mean. So let's figure out the mean
+of each of these data sets. This first data set, the mean ... Well, we just need to sum
+up all of the numbers. That's gonna be two plus two plus four plus four. And then we're gonna divide by the number of numbers that we have. So we have one, two, three, four numbers. That's that four right over there. And this is going to be,
+two plus two is four, plus four is eight, plus four is 12. This is gonna be 12 over four, which is equal to three. Actually, let's see if
+we can visualize this a little bit on a number line. Actually I'll do kind of a ... I'll do a little bit of a dot plot here so we can see all of the values. If this is zero, one, two, three, four, and five. We have two twos. Why don't I just do ... So for each of these twos ... Actually, I'll just do it in yellow. So I have one two, then
+I have another two. I'm just gonna do a dot plot here. Then I have two fours. So, one four and another
+four, right over there. And we calculated that the mean is three. The mean is three. A measure of central
+tendency, it is three. So I'll just put three right over here. I'll just mark it with that dotted line. That's where the mean is. All right. Well, we've
+visualized that a little bit. That does look like it's the center. It's a pretty ... It makes sense. So now let's look at this
+other data set right over here. The mean, the mean over here is going to be equal to one plus one plus six plus four, all of that over, we still
+have four data points. And this is two plus six is eight, plus four is 12, 12 divided by four ... This is also three. So this also has the same mean. We have different numbers, but we have the same mean. But there's something about this data set that feels a little bit
+different about this. And let's visualize it, to see if we can see a difference. Let's see if we can visualize it. I have to go all the way up to six. Let's say this is zero, one, two, three, four, five, six, and I'll go one more, seven. So we have a one. We have a one, we have another one. We have a six. And then we have a four. And we calculated that the mean is three. So we calculated that the mean is three. So the mean is three. When we measure it by the mean, the central point, or
+measure of that central point which we use as the mean, well, it looks the same, but
+the data sets look different. How do they look different? Well, we've talked about notions of variability or variation. And it looks like this data
+set is more spread out. It looks like the data
+points are on average further away from the mean than these data points are. That's an interesting question that we ask ourselves in statistics. We just don't want a measure
+of center, like the mean. We might also want a
+measure of variability. And one of the more straightforward ways to think about variability is, well, on average, how far
+are each of the data points from the mean? That might sound a little complicated, but we're gonna figure out what that means in a second, (chortles) not
+to overuse the word "mean." So we wanna figure out, on average, how far each of these
+data points from the mean. And what we're about to calculate, this is called Mean Absolute Deviation. Absolute Deviation. Mean Absolute Deviation, or if you just use the acronym, MAD, mad, for Mean Absolute Deviation. And all we're talking about, we're gonna figure out how
+much do each of these points, their distance, so absolute deviation. How much do the deviate from the mean, but the absolute of it? So each of these points at two, they are one away from the mean. Doesn't matter if they're less or more. They're one away from the mean. And then we find the mean
+of all of the deviations. So what does that mean? (chuckles) I'm using the word "mean," using it a little bit too much. So let's figure out the
+Mean Absolute Deviation of this first data set. We've been able to figure
+out what the mean is. The mean is three. So we take each of the data points and we figure out, what's its absolute
+deviation from the mean? So we take the first two. So we say, two minus the mean. Two minus the mean, and we
+take the absolute value. So that's its absolute deviation. Then we have another two, so we find that absolute
+deviation from three. Remember, if we're just
+taking two minus three, taking the absolute value, that's just saying its absolute deviation. How far is it from three? It's fairly easy to
+calculate in this case. Then we have a four and another four. Let me write that. Then we have the absolute deviation of four from three, from the mean. Then plus, we have another four. We have this other four right up here. Four minus three. We take the absolute value, because once again,
+it's absolute deviation. And then we divide it, and then we divide it by the
+number of data points we have. So what is this going to be? Two minus three is negative one, but we take the absolute value. It's just going to be one. Two minus three is negative one. We take the absolute value. It's just gonna be one. And you see that here visually. This point is just one away. It's just one away from three. This point is just one away from three. Four minus three is one. Absolute value of that is one. This point is just one away from three. Four minus three, absolute value. That's another one. So you see in this case, every data point was exactly one away from the mean. And we took the absolute value so that we don't have negative ones here. We just care how far it
+is in absolute terms. So you have four data points. Each of their absolute
+deviations is four away. So the mean of the absolute deviations are one plus one plus one plus one, which is four, over four. So it's equal to one. One way to think about it is saying, on average, the mean of the
+distances of these points away from the actual mean is one. And that makes sense because all of these are exactly one away from the mean. Now, let's see how, what results we get for this
+data set right over here. And I'll do it ... Let me actually get some space over here. At any point, if you get inspired, I encourage you to calculate the Mean Absolute Deviation on your own. So let's calculate it. The Mean Absolute Deviation here, I'll write MAD, is going to be equal to ... Well, let's figure out
+the absolute deviation of each of these points from the mean. It's the absolute value
+of one minus three, that's this first one, plus the absolute deviation, so one minus three, that's the second one, then plus the absolute
+value of six minus three, that's the six, then we have the four, plus the absolute value
+of four minus three. Then we have four points. So one minus three is negative two. Absolute value is two. And we see that here. This is two away from three. We just care about absolute deviation. We don't care if it's to
+the left or to the right. Then we have another one
+minus three is negative two. It's absolute value, so this is two. That's this. This is
+two away from the mean. Then we have six minus three. Absolute value of that
+is going to be three. And that's this right over here. We see this six is three to the right of the mean. We don't care whether it's
+to the right or the left. And then four minus three. Four minus three is one,
+absolute value is one. And we see that. It is one to the right of three. And so what do we have? We have two plus two is four, plus three is seven, plus one is eight, over four, which is equal to two. So the Mean Absolute Deviation ... Let me write it down. It fell off over here. Here, for this data set, the Mean Absolute
+Deviation is equal to two, while for this data set, the Mean Absolute
+Deviation is equal to one. And that makes sense. They have the exact same means. They both have a mean of three. But this one is more spread out. The one on the right is more spread out because, on average, each of these points are two away from three, while on average, each of these points are one away from three. The means of the absolute
+deviations on this one is one. The means of the absolute
+deviations on this one is two. So the green one is more
+spread out from the mean.

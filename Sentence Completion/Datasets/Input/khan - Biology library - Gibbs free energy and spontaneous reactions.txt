@@ -1,0 +1,79 @@
+- [Voiceover] We're going
+to explore Gibbs Free Energy a little bit in this video. And, in particular, its
+usefulness in determining whether a reaction is going
+to be spontaneous or not, which is super useful in
+chemistry and biology. And, it was defined by
+Josiah Willard Gibbs. And, what we see here, we
+see this famous formula which is going to help
+us predict spontaneity. And, it says that the
+change in Gibbs Free Energy is equal to the change, and
+this 'H' here is enthalpy. So, this is a change in enthalpy which you could view as heat content, especially because this formula applies if we're dealing with constant
+pressure and temperature. So, that's a change in enthaply minus temperature times change in entropy, change in entropy. So, 'S' is entropy and it seems like this bizarre formula that's
+hard to really understand. But, as we'll see, it makes
+a lot of intuitive sense. Now, Gibbs Free, Gibbs,
+Josiah Willard Gibbs, he defined this to think about, well, how much enthalpy is going to be useful for actually doing work? How much is free to do useful things? But, in this video, we're
+gonna think about it in the context of how we can
+use change in Gibbs Free Energy to predict whether a reaction is going to spontaneously happen, whether it's going to be spontaneous. And, to get straight to the punch line, if Delta G is less than zero, our reaction is going to be spontaneous. It's going to be spontaneous. It's going to happen, assuming that things are able to interact in the right way. It's going to be spontaneous. Now, let's think a little bit
+about why that makes sense. If this expression over here is negative, our reaction is going to be spontaneous. So, let's think about all
+of the different scenarios. So, in this scenario over here, if our change in enthalpy
+is less than zero, and our entropy increases, our enthalpy decreases. So, this means we're going to release, we're going to release energy here. We're gonna release enthalpy. And, you could think about this as, so let's see, we're gonna release energy. So, release. I'll just draw it. This is a release of enthalpy over here. I end up with less enthalpy
+than I started with. But, entropy increases. Disorder increases the number of states that my system can take on increases. Well, this makes a lot of sense. This makes a lot of sense that this is going to
+happen spontaneously, regardless of what the temperature is. I have these two molecules. They are about to bump into each other. And, when they get close to each other, their electrons may be, say hey, "Wait, there's a better configuration here "where we can go into lower energy states, "where we can release energy "and in doing so, "these different
+constituents can part ways." And so, you actually
+have more constituents. They've parted ways. You've had energy released. Entropy increases. And, makes a lot of sense
+that this is a natural thing that would actually occur. This over here, this is spontaneous. Delta G is, not just Delta, Delta G is less than zero. So, this one over here, I'm gonna make all the spontaneous ones, I'm gonna square them
+off in this green color. Now, what about this one down here? This one down here, Delta
+H is greater than zero. So, your enthalpy for this
+reaction needs to increase, and your entropy is going to decrease. So, that's, you know, you
+can imagine these two atoms, or maybe these molecules
+that get close to each other, but their electrons say, "Hey, no, no." In order for us to bond, we would have to get to
+a higher energy state. We would require some energy, and the disorder is going to go down. This isn't going to happen. And so, of course, and
+this is a combination, if Delta H is greater than zero, and if this is less than zero, than this entire term
+is gonna be positive. And so, Delta G is going
+to be greater than zero. So, here, Delta G is going
+to be greater than zero. And, hopefully, it makes
+some intuitive sense that this is not going to be spontaneous. So, this one, this one does not happen. Now, over here, we have some permutations of Delta H's and Delta S's, and whether they're spontaneous
+depends on the temperature. So, over here, if we are dealing, our Delta H is less than zero. So, we're going to have
+a release of energy here, but our entropy decreases. What's gonna happen? Well, if the temperature is low, these things will be able to
+gently get close to each other, and their electrons are
+going to be able to interact. Maybe they get to a lower energy state, and they can release energy. They're releasing energy, and the electrons will
+spontaneously do this. But, the entropy has gone down. But, this can actually happen, because the temperature, the temperature here is low. And, some of you might be saying, "Wait, doesn't that violate "The Second Law of Thermodynamics?" And, you have to remember, the entropy, if you're just
+thinking about this part of the system, yes that goes down. But, you have heat being released. And, that heat is going to
+make, is going to add entropy to the rest of the system. So, still, The Second Law
+of Thermodynamics holds that the entropy of the
+universe is going to increase, because of this released heat. But, if you just look at
+the constituents here, the entropy went down. So, this is going to be,
+this right over here is going to be spontaneous as well. And, we're always wanting
+to back to the formula. If this is negative and this is negative, well, this is going to be a positive term. But, if 'T' low enough, this term isn't going to matter. 'T' is, you confuse it as the
+weighing factor on entropy. So, if 'T' is low, the entropy
+doesn't matter as much. Then, enthalpy really takes over. So, in this situation, Delta G, we're assuming 'T' is low enough to make Delta G negative. And, this is going to be spontaneous. Now, if you took that same scenario, but you had a high temperature, well now, you have these
+same two molecules. Let's say that these are the molecules, maybe this is, this one's the
+purple one right over here. You have the same two molecules here. Hey, they could get to a more kind of a, they could release energy. But over here, you're saying, "Well, look, they could." The change in enthalpy is negative. But, they're buzzing past each other so fast that they're
+not gonna have a chance. Their electrons aren't gonna have a chance to actually interact in the right way for the reaction to actually go on. And so, this is a situation
+where it won't be spontaneous, because they're just gonna
+buzz past each other. They're not gonna have a
+chance to interact properly. And so, you can imagine if 'T' is high, if 'T' is high, this term's
+going to matter a lot. And, so the fact that entropy is negative is gonna make this whole thing positive. And, this is gonna be more positive than this is going to be negative. So, this is a situation where our Delta G is greater than zero. So, once again, not spontaneous. And, everything I'm doing
+is just to get an intuition for why this formula for
+Gibbs Free Energy makes sense. And, remember, this is true
+under constant pressure and temperature. But, those are reasonable assumptions if we're dealing with, you know, things in a test tube, or if we're dealing with a
+lot of biological systems. Now, let's go over here. So, our enthalpy, our change in enthalpy is positive. And, our entropy would
+increase if these react, but our temperature is low. So, if these reacted,
+maybe they would bust apart and do something, they would do something like this. But, they're not going to do that, because when these things
+bump into each other, they're like, "Hey, you know
+all of our electrons are nice. "There are nice little
+stable configurations here. "I don't see any reason to react." Even though, if we did react, we were able to increase the entropy. Hey, no reason to react here. And, if you look at these
+different variables, if this is positive,
+even if this is positive, if 'T' is low, this isn't going to be able to overwhelm that. And so, you have a Delta G
+that is greater than zero, not spontaneous. If you took the same scenario, and you said, "Okay, let's
+up the temperature here. "Let's up the average kinetic energy." None of these things are going to be able to slam into each other. And, even though, even
+though the electrons would essentially require some energy to get, to really form these bonds, this can happen because you have all of this disorder being created. You have these more states. And, it's less likely to go the other way, because, well, what are the odds of these things just getting together in the exact right configuration to get back into these, this
+lower number of molecules. And, once again, you look
+at these variables here. Even if Delta H is greater than zero, even if this is positive, if Delta S is greater than zero and 'T' is high, this thing is going to become, especially with the negative sign here, this is going to overwhelm the enthalpy, and the change in enthalpy, and make the whole expression negative. So, over here, Delta G is
+going to be less than zero. And, this is going to be spontaneous. Hopefully, this gives you some intuition for the formula for Gibbs Free Energy. And, once again, you have to caveat it. It's under, it assumes constant
+pressure and temperature. But, it is useful for thinking about whether a reaction is spontaneous. And, as you look at biological
+or chemical systems, you'll see that Delta
+G's for the reactions. And so, you'll say, "Oh,
+it's a negative Delta G? "That's going to be a
+spontaneous reaction. "It's a zero Delta G. "That's gonna be an equilibrium." Or, you could say, "That's
+a positive Delta G. "That's not going to be spontaneous."

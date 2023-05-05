@@ -1,0 +1,145 @@
+Welcome back. We'll now use a little bit of
+what we've learned about work and energy and the conservation
+of energy and apply it to simple machines. And we'll learn a little bit
+about mechanical advantage. So I've drawn a simple
+lever here. And you've probably
+been exposed to simple levers before. They're really just kind
+of like a seesaw. This place where the
+lever pivots. This is called a fulcrum. Just really the pivot point. And you can kind of view this
+as either a seesaw or a big plank of wood on top of a
+triangle, which essentially is what I've drawn. So in this example, I have
+the big plank of wood. At one end I have this 10
+newton weight, and I've written 10 in there. And what we're going to figure
+out is one, how much force-- well, we could figure out
+a couple of things. How much force do I have
+to apply here to just keep this level? Because this weight's going
+to be pushing downwards. So it would naturally
+want this whole lever to rotate clockwise. So what I want to figure out is,
+how much force do I have to apply to either keep the
+lever level or to actually rotate this lever
+counterclockwise? And when I rotate the lever counterclockwise, what's happening? I'm pushing down on this
+left-hand side, and I'm lifting this 10 newton block. So let's do a little thought
+experiment and see what happens after I rotate this
+lever a little bit. So let's say, what I've drawn
+here in mauve, that's our starting position. And in yellow, I'm going to draw
+the finishing position. So the finishing position
+is going to look something like this. I'll try my best to draw it. The finishing position is
+something like this. And also, one thing I want to
+figure out, that I wanted to write, is let's say that the
+distance, that this distance right here, from where I'm
+applying the force to the fulcrum, let's say that
+that distance is 2. And from the fulcrum to the
+weight that I'm lifting, that distance is 1. Let's just say that, just for
+the sake of argument. Let's say it's 2 meters and 1
+meter, although it could be 2 kilometers and 1 kilometer,
+we'll soon see. And what I did is I pressed down
+with some force, and I rotated it through
+an angle theta. So that's theta and this
+is also theta. So my question to you, and
+we'll have to take out a little bit of our trigonometry
+skills, is how much did this object move up? So essentially, what
+was this distance? What's its distance in the
+vertical direction? How much did it go up? And also, for what distance did
+I have to apply the force downwards here-- so that's this
+distance-- in order for this weight to move up this
+distance over here? So let's figure out
+either one. So this distance is what? Well, we have theta. This is the opposite. This is a 90 degree
+angle, because we started off at level. So this is opposite. And this is what? This is the adjacent angle. So what do we have there? Opposite over adjacent. Soh Cah Toa. Opposite over adjacent. Opposite over adjacent. That's Toa, or tangent. So in this situation, we know
+that the tangent of theta is equal to-- let's call
+this the distance that we move the weight. soon. So that equals opposite over
+adjacent, the distance that we moved the weight over 1. And then if we go on
+to this side, we can do the same thing. Tangent is opposite
+over adjacent. So let's call this the distance
+of the force. So here the opposite of the
+distance of the force and the adjacent is this 2 meters. Because this is the hypotenuse
+right here. So we also have the tangent of
+theta-- now you're using this triangle-- is equal to
+the opposite side. The distance of the force
+over 2 meters. So this is interesting. They're both equal to
+tangent of theta. We don't even have to
+figure out what the tangent of theta is. We know that this quantity is
+equal to this quantity. And we can write it here. We could write the distance of
+the force, that's the distance that we had to push down on
+the side of the lever downwards, over 2, is equal to
+the distance of the weight. The distance the weight traveled
+upwards is equal to the distance, the weight,
+divided by 1. Or we could say-- this
+1 we can ignore. Something divided
+by 1 is just 1. Or we could say that the
+distance of the force is equal to 2 times the distance
+of the weight. And this is interesting, because
+now we can apply what we just learned here to figure
+out what the force was. And how do I do that? Well, when I'm applying a
+force here, over some distance, I'm putting energy
+into the system. I'm doing work. Work is just a transfer of
+energy into this machine. And when I do that, that
+machine is actually transferring that energy
+to this block. It's actually doing work on the
+block by lifting it up. So we know the law of
+conservation of energy, and we're assuming that this is a
+frictionless system, and that nothing is being lost to
+heat or whatever else. So the work in has to be
+equal to the work out. And so what's the work in? Well, it's the force that I'm
+applying downward times the distance of the force. So this is the work in. Force times the distance
+of the force. I'm going to switch colors
+just to keep things interesting. And that has to be the same
+thing as the work out. Well, what's the work out? It's the force of the weight
+pulling downwards. So we have to-- it's essentially
+the lifting force of the lever. It has to counteract the force
+of the weight pulling downwards actually. Sorry I mis-said it
+a little bit. But this lever is essentially
+going to be pushing up on this weight. The weight ends up here. So it pushes up with the
+force equal to the weight of the object. So that's the weight of the
+object, which is -- I said it's a 10 newton object -- So
+it's equal to 10 newtons. That's the force. The upward force here. And it does that for
+a distance of what? We figured out this object, this
+weight, moves up with a distance d sub w. And we know what the distance
+of the force is in terms of the distance of w. So we could rewrite this as
+force times, substitute here, 2 d w is equal to 10 d w. Divide both sides by 2 you d w
+and you get force is equal to 10 d w 2 two d w, which is
+equaled to, d w's cancel out, and you're just left with 5. So this is interesting. And I think you'll see where
+this is going, and we did it little complicated this time. But hopefully you'll realize
+a general theme. This was a 10 newton weight. And I only had to press down
+with 5 newtons in order to lift it up. But at the same time, I pressed
+down with 5 newtons, but I had to push down
+for twice as long. So my force was half as much,
+but my distance that I had to push was twice as much. And here the force is twice as
+much but the distance it traveled is half as much. So what essentially just
+happened here is, I multiplied my force. And because I multiplied
+my force, I essentially lost some distance. But I multiplied my
+force, because I inputted a 5 newton force. And I got a 10 newton force out,
+although the 10 newton force traveled for
+less distance. Because the work was constant. And this is called mechanical
+advantage. If I have an input force of 5,
+and I get an output force of 10, the mechanical
+advantage is 2. So mechanical advantage is equal
+to output force over input force, and that should
+hopefully make a little intuitive sense to you. And another thing that maybe
+you're starting to realize now, is that proportion of the
+mechanical advantage was actually the ratio of this
+length to this length. And we figured that out by
+taking the tangent and doing these ratios. But in general, it makes sense,
+because this force times this distance has
+to be equal to this force times this distance. And we know that the distance
+this goes up is proportional to the length of from the
+fulcrum to the weight. And we know on this side the
+distance that you're pushing down, is proportional to the
+length from where you're applying the weight
+to the fulcrum. And now I'll introduce you
+to a concept of moments. In just a moment. So in general, if I have, and
+this is really all you have to learn, that last thought
+exercise was just to show it to you. If I have a fulcrum here, and
+if we call this distance d 1 and we called this
+distance d 2. And if I want to apply
+an upward force here, let's call this f 1. And I have a downward force,
+f 2, in this machine. f 2 times d 2 is equal
+to d 1 times f 1. And this is really all
+you need to know. And this just all falls
+out of the work in is equal to the work out. Now, this quantity isn't
+exactly the work in. The work in was this force--
+sorry, F2-- is this force times this distance. But this distance is
+proportional to this distance, and that's what you
+need to realize. And this quantity right here is
+actually called the moment. In the next video, which I'll
+start very soon because this video is about to end. I'm running out of time. I will use these quantities to
+solve a bunch of mechanical advantage problems. See

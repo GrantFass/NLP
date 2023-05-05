@@ -1,0 +1,162 @@
+We're on problem 21. In the figure below, n
+is a whole number. All right. What is the smallest possible
+value for n? OK, both of these sides are n. And so this is something that's
+actually really good to get this intuition. Because this shows up on all
+sorts of standardized tests. And so let's think about how
+small can we make n. So the lower the top of
+this pyramid becomes, the smaller n becomes. If we pushed this top of the
+pyramid really high then n would have to be really big. For example, if we made the
+triangle into that. Then clearly, this length is
+shorter than that length. We want to keep lowering it to
+get as small a possible n. But what happens if we lowered
+it all the way? If we flattened this triangle. If we just flattened it
+all the way down. So essentially this would be the
+top of it and this would be n and this would be n. I hope you're visualizing
+that properly. I've flattened the triangle. So these two sides would just
+go flat with the base. And so this top if I
+were to do it in magenta, is right here. So this is as small
+as n could get. One could argue whether this is
+a triangle at all anymore. It's really a line now, because
+I've squished out all of the area in there. But even in this case, n would
+have to be, in the smallest case, it would be 7.5. Each n would be half
+of this 15. So, as we push this base down,
+that's kind of the limit that n approaches. n cannot be any smaller
+than 7.5. And they tell us that
+n is a whole number. So n has to be greater
+than 7.5 in order for this to be a triangle. And n is a whole number,
+so n is equal to 8. That's choice C. And that's an important
+intuition to have in general. That the third side of a
+triangle can never be bigger than two of the other
+sides combined. Then you're dealing with
+something else. You're not dealing
+with a triangle. Even if the third side is equal
+to the other two sides, then you're actually dealing
+with a line. Because you'd have to squish
+out all of the area of the triangle in order
+to get there. Anyway, I like that problem. Next question. I think, just eyeballing
+it, they want us to do the same thing. Same type of intuition. And I had my rant in the last
+video about how they weren't doing problems that give
+you intuition or that test your intuition. But I'll take that back, because
+I think that's what they are testing now. Which of the following sets of
+numbers could represent the lengths of the sides
+of a triangle. 2, and 2, and 5. So this is the same
+thing again. How can I have two sides of
+a triangle combined being shorter than the third side. If I had a side of length 2, and
+then I had another side of length 2, there's no way that
+this last side could be 5. Even if I completely flattened
+this triangle, 2 and 2, the longest that this last
+side, this third side, could be is 4. So that can't be a triangle. Same here, let's look
+at the other ones. 3, 3, and 5. That's no reason why that
+can't be a triangle. 3 and 3 is 6. So even if I flattened it out
+a lot, then this side can be as long as 6. And obviously I could squeeze
+them together like this. 3 and 3, and then this little
+third side could be something really small. Because it's anything
+in between 0 and 6. So obviously it can be 5. So that's going to
+be the answer. 4, 4 and 8. Same problem. I would have to squish
+the triangle so much. If those are two of the sides,
+4 and 4, this last side is still going to be less than 8. The only way to get it to 8 is
+if I push the top of this triangle all the way down and
+essentially make it a line. Once again, one side of a
+triangle can't be bigger than two of the other
+sides combined. In fact, it can't be
+equal to two of the other sides combined. Then we're dealing
+with a line. So they're really testing
+that same intuition. And the choice is B. 23. Copy and paste this. OK. I try to avoid talking when
+I'm copying and pasting because I think it slows
+down my computer. In the accompanying diagram,
+parallel lines L and M are cut by transversal T. So it's a classic parallel
+line with a transversal problem. And they're parallel. That's why I did those arrows. Which statements about angle
+1 and 2 must be true? I don't know if you've seen the
+Khan Academy videos of the angle game, but that's what
+we're going to play here, the angle game. So angle 1, if you want to
+look at its corresponding angle, its corresponding angle
+on the other parallel line, or with the transversal and
+the other parallel line, is right there. And they're going
+to be congruent. Those two angles are going
+to be congruent. So you could say this is equal
+to the measure of angle 1. I've picked up their terminology
+well, I think. So this is equal to the
+measure of angle 1. And this is obviously angle 2. You see immediately that they
+have to be supplementary. Because when you add them
+together you get 180 degrees. Together they go all the
+way around and they kind of form a line. So you know that if this angle
+and this angle are supplementary. And this angle is congruent to
+angle 1, then angle 1 and angle 2 must be supplementary. So what do they say? Angle 1 is definitely
+not necessarily congruent to angle 2. It's congruent to
+this angle here. Angle 1 is a complement
+of angle 2. Complement means you
+add up to 90. No, we're talking about
+supplement. So it's not that. Angle 1 is a supplement
+of angle 2. There you go. And there's nothing that says
+that they're right angles, that's silly. All right, next problem. Let me copy and paste it. OK. And paste it. Ready to go. What values-- let me pick a good
+color-- what values of A and B make the quadrilateral
+MNOP a parallelogram. For this to be a parallelogram,
+the opposite sides have to be equal. And I challenge you to
+experiment to draw a parallelogram where opposite
+sides are parallel where the opposite sides are
+also not equal. If you make two of the sides not
+equal, then the other two lines aren't going to
+be parallel anymore. And you can play with
+that if you like. But if opposite sides are going
+to be equal that means 4A plus B is equal to 21. Because they're opposite sides,
+so they should be equal to each other. Similarly, 3A minus 2B should be
+equal to 13 because they're opposite sides. So 3A minus 2B is equal to 13. And now we have two linear
+equations with two unknowns. So this is really an Algebra
+1 problem in disguise. So let's see, they want
+us to solve for both. Let's see if we can
+cancel out B. So let's multiply this
+top equation by 2. And I'm doing that to
+cancel out the B's. So you get 8A plus 2B
+is equal to 42. And I did that so that the 2B
+and the minus 2B cancel out. So let's add these two
+equations to each. The left-hand side,
+3A plus 8A is 11A. The B's cancel out; minus 2B,
+plus 2B, that's no B's. Is equal to 42 plus 13 is 55. That worked out well. Divide both sides by 11, you
+get A is equal to 5. Now if A is equal
+to 5, what's B? Let's substitute back into
+that first equation. Because you picked either. So 4 times 5 plus B
+is equal to 21. 20 plus B is equal to 21. So subtract 20 from both
+sides, B is equal to 1. So A is 5, B is 1. That is choice B. Problem 25. I think I have to
+clear this now. Quadrilateral ABCD is
+a parallelogram. If adjacent angles are
+congruent, which statement must be true? All right. So let me draw a
+parallelogram. Well, I'll do it quick
+and dirty. So a parallelogram says that
+opposite sides are parallel. That's parallel to that and
+that's parallel to that. But they give us another
+statement. They say if the adjacent
+sides are congruent. So they're saying that this
+is congruent to that. They are saying if adjacent
+angles are congruent. So I don't know if they're
+saying it's just one of them or all of them. But it's the same
+thing actually. If that angle is congruent
+to that angle, something interesting has to happen. They both have to
+be 90 degrees. And I want you to think about
+that a little bit. So let me just draw the kind
+of bottom part of that parellelogram. And I drew it more so if you say
+that this line right here is a transversal. And that since it's a
+parallelogram, we know that this line is parallel
+to that line. So we have a transversal
+between parallel lines. This angle is congruent
+to that angle, they're corresponding angles. And this angle is a supplement
+to this angle. They have to add up to 180. So this angle, this red angle
+and this brown angle have to be supplements. Or if we said angle
+1 and angle 2. They have to add up to 180. Measure of angle 1 plus measure
+of angle 2 have to be equal to 180. But then they tell
+us even more. They tell you that they're
+congruent. These are adjacent
+angles, right? That's angle 1 and
+that's angle 2. They're adjacent. So if both of these are
+congruent, if their measures equal each other, they both
+have to be equal to 90. So if adjacent angles
+are congruent in the parallelogram, then these
+angles are 90. And if these angles are 90,
+those are going to be 90 by the same argument. So now we're not dealing with
+just a parallelogram. Well, I did want to draw
+it all filled in. It looks tacky. It's a rectangle. They say quadrilateral
+ABCD is a square. It could be a square, but in
+order for it to be a square they'd have to tell us that
+all the sides are equal to each other. So it's not A. That could happen, it
+doesn't have to be. ABCD is a rhombus. No, in a rhombus all the
+sides have to be equal to each other. They didn't tell us that. ABCD is a rectangle. Sure. Because we know all the angles
+now are 90 degrees. And that is choice C. See you in the next video.

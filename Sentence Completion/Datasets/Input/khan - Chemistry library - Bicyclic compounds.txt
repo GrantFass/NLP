@@ -1,0 +1,175 @@
+In the last few
+videos, we looked at the different
+conformations of cyclohexane. And obviously, cyclohexane
+is just one ring, so it'd be a
+monocyclic compound. The official IUPAC way of
+telling how many rings you have is how many cuts does it take
+to make an open chain alkane? So if I just made a cut
+between those two carbons, I have an open chain alkane. And it took me one
+cut to get there. So obviously, cyclohexane
+is monocyclic. What about if I had
+a cyclohexane ring, and then I had another
+ring fused to it like that? Obviously, there
+are two rings here, so this would be a
+bicyclic compound. Once again, if you were to use
+the IUPAC way of figuring out how many rings you
+have, you would make a cut here and a
+cut here, and now you have an open chain alkane. So it took you two
+cuts to get there, so you would classify this
+as a bicyclic molecule. Now, these are very
+easy, simple compounds. But for more
+complicated compounds, you'll need to remember that
+IUPAC rule to figure out how many rings
+you actually have. Let's go ahead and redraw
+that second molecule here. And let's look at it
+in some more detail. So I had a cyclohexane
+ring, and then I had another ring
+fused to it like that. Now, the carbons that
+are shared by both of these rings, so this
+carbon and this carbon, those are called your
+bridgehead carbons. Let's go ahead and write that. The bridgehead carbons. And when you're numbering
+your bicyclic compounds, you want to start at the
+bridgehead carbon, then number along the longest path,
+then the second longest path, and then finally
+the shortest path. So let's go ahead and do that. Let's start with the
+top bridgehead carbon. We'll make that number 1. And we're going to number
+along the longest path, so the longest path
+would be going left. So that's 1, 2, 3, 4, 5, and 6. And now, the second
+longest path. Well, we can just continue,
+and there'd be 7 and 8 since that's the
+second longest path. The third path,
+the shortest path, is usually the one between
+your bridgehead carbons. And there are no carbons
+between our bridgehead carbons. So we're done in terms of
+numbering our compound. The general formula for naming
+a bicyclo compound-- we've already determined this
+is a bicyclo compound, so you would have bicyclo here. And then in brackets, you
+would put the number of carbons in the longest path excluding
+the bridgehead carbon, which I will represent here with x. And then y is the
+number of carbons of the second longest
+path, excluding the bridgehead carbon. And then z is the number of
+carbons in the shortest path, excluding the bridgehead carbon. And then you finish everything
+off with the alkane. So how many carbons are
+there in this molecule? So for this example, let's
+go ahead and name it. We've already determined that
+it's a bicyclic compound, so we'll go ahead and
+write bicyclo here. And x, again, is the number of
+carbons in the longest path, excluding the bridgehead carbon. So we're going to find
+the longest path, which is on the left here,
+and we're going to ignore the bridgehead carbon. How many carbons where there? 1, 2, 3, and 4. So we'll go ahead
+and put a 4 here. y was the number of carbons
+in the second longest path. Well, that was
+over here where we had this carbon and this carbon. Again, excluding the
+bridgehead carbon. So that would get a 2. And finally, the
+shortest path, which was how many carbons are there
+between my bridgehead carbons. And there are, of
+course, 0 carbons between my bridgehead carbons. So if there's 0 carbons between
+your bridgehead carbons, obviously your
+bridgehead carbons are bonded directly
+together, which we can see in the dot structure. Finally, how many
+carbons are there total? There are 8, and we
+know that means octane. So the final name
+for this molecule is bicyclo[4.2.0.]octane. Let's do another one following
+our general formula here for naming a bicyclo compound. So let's take a
+cyclohexane ring. And let's make this
+a bridgehead carbon. And we're actually
+going to put a carbon between our bridgehead
+carbons like that. Now, this is hard to see
+when it's drawn this way. So usually, you'll see it
+drawn a little bit differently. Usually you'll see it
+drawn with a little bit more three-dimensionality to it. So hopefully we
+can do that here. So it looks something like this. So let's find our
+bridgehead carbons here. So we know that this
+is a bridgehead carbon, this is a bridgehead carbon. Those correspond to
+these guys over here. And how many cuts would
+it take to turn this into an open chain alkane? Well, let's go ahead and look
+at the drawing on the left. And if we cut it right
+here, and we cut it here, we can see it's now an
+open chain compound. So it took two cuts,
+so it's bicyclo. Let's go ahead and put those
+bonds back in there like that. So it's a bicyclo compound. So we can go ahead
+and start naming it as a bicyclo compound. We need to go ahead
+and number it, so let's start with
+our bridgehead carbon. So we'll start with this
+is our bridgehead carbon. Find the longest path. Well, it doesn't matter if
+I go left or right here, since it's the same
+length each way around. So I'll just go to the right. So 1, 2, 3, 4. Second longest
+path, so I'm going to keep on going
+this way, so 5 and 6. And then finally,
+the shortest path, which is the one carbon
+in between my two bridgehead carbons,
+which would then get a 7, so seven total carbons. All right, so when
+I'm naming this, I need to put my
+brackets in here. And I put the number of
+carbons in the longest path, excluding the
+bridgehead carbon here. So how many carbons were
+my longest path, excluding the bridgehead? Here's 1 and here is 2, so I'm
+going to go ahead and put a 2 in here. And then I go to my
+second longest path. Well, that was
+over on this side. And there are also two carbons
+on my second longest path. Obvious, it's the same
+length as the other one. So it's 2, 2. And then my shortest path,
+how many carbons are there in my shortest path, not
+counting my bridgehead carbon? There's one. So I go ahead and put a 1 here. And so I have bicyclo[2.2.1]. And then my total
+number of carbons is 7. So this is a
+bicycloheptane molecules. So bicyclobicyclo[2.2.1]heptane would
+be the official IUPAC name for this molecule. This molecule turns
+up a lot in nature. So much so, that it actually
+has its own common name. This is also called norborane. So let's go ahead
+and write that here. So this is norborane,
+again, a structure found often in nature. All right, let's do
+one more example here. And let's make it look similar
+to that norborane molecule. So we'll have it go like this. So it definitely is
+a little bit tricky to draw these molecules here. So let's put some
+substituents on this molecule. So I'm going to attempt to draw
+the same molecule over here. And we're going to take a look
+at two different ways to number it and see which one
+turns out to be correct. So here I have the exact same
+molecule on both sides here. And let's see how to do this. So let's first find
+our bridgehead carbons. So here are my bridgehead
+carbons right here. Now, when I start
+numbering, I could start at either one of
+those bridgehead carbons. So if I identify my bridgehead
+carbons over on this one, I could start numbering with
+either of these be number one. So let's just make
+this number 1 here. So if that's number 1, I
+next go to my longest path. So that would be going
+to the right here. So this would give me a
+2 for this carbon, a 3 for this carbon, a 4 for this
+carbon, a 5 for this carbon. Next, the second longest path. Well, I can just keep going,
+make that a 6, make this a 7. And then finally,
+my shortest path, which is up here at the top. So that would be 8 total
+carbons for my parent name. On the dot structure
+on the left, again, the exact
+same dot structure. This time, I'm going to start
+with the opposite bridgehead carbons. So I'm going to start with
+this bridgehead carbon. And then follow the same rule. So the longest path, which
+would be to the right here. So 2, 3, 4, 5, 6, 7, and then 8. So which one of these numbering
+systems is the correct one? Remember, our goal
+is to get the lowest number possible for
+our substituents. And if I look at the
+example on the right, I have a methyl group
+in the 7 position and a methyl group
+in the 8 position. The example on the left has a
+methyl group in the 6 position and a methyl group
+in the 8 position. Since I want to give
+my lowest number possible to my substituent, I'm
+going to not number it the way on the right. So I'm going to go with
+the way on the left here. So let's go ahead
+and start naming it. We already know this
+is a bicyclo compound. And we have two methyl
+groups, one at 6 and one at 8. So we could start naming
+it by saying 6,8-dimethyl. And then we know this is a
+bicyclo compound, so bicyclo. And then in the
+brackets, we're going to do the longest
+path first, excluding the bridgehead carbon. So the longest path
+is on the right. How many carbons are
+there in the longest path? There are three excluding
+the bridgehead carbon, so we'll go ahead
+and put a 3 in here. Next, the second
+longest path, excluding the bridgehead carbon. Well, that was these
+two right here. So next, there'll be a 2. And then finally,
+the shortest path excluding our bridgehead carbon. There's only one carbon
+in our shortest path. So we put that in there. And then, there were 8 total
+carbons, so it is octane. So the final IUPAC name
+for this molecule is 6,8-dimethylbicyclo[3.2.1.]octane.

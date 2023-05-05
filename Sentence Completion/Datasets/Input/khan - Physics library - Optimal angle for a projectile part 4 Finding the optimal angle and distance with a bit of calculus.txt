@@ -1,0 +1,151 @@
+Now that we have distance
+explicitly as a function of the angle that we're shooting
+the object at, we can use a little bit of calculus to figure
+out the optimal angle, the angle that's going optimize
+our distance. And since we only care about
+angles from 0 degrees to really 90 degrees, let's
+constrain ourselves. So we're going to optimize
+things for angles between 0 degrees. So theta is going to be greater
+than or equal to 0 and less than or equal to 90. So let's see how we can do it. And just to get an idea of what
+we're even conceptually doing with the calculus,
+remember when you take a derivative, you are finding
+the slope of a line, an instantaneous slope of a line. And if you were to graph this--
+and I encourage you to graph it on your own, maybe with
+a graphing calculator-- it will look something like
+this over the interval. It will look like this where
+that is the distance as a function of theta axis
+and then this would be our theta axis. And we care about angles between
+0 and 90 degrees. So if you were to graph this
+thing, so this is 0 degrees, this is maybe 90 degrees
+right here. The graph of this function
+will look like this. It'll look something
+like this. It will look something
+like that. And what we want to do is find
+the angle, there's some angle here that gives us the
+optimal distance. So this is, right here, this
+is the optimal distance. And what we want to do
+is find that out. And when you look at the graph,
+and you could do it on a graphing calculator if you
+like, what happens to the instantaneous slope at that
+optimal distance? Well it's flat. The slope there is 0. So what we need to do is take
+the derivative of this function and then just figure
+out at what angle is the derivative or the instantaneous
+slope of this function equal to 0? And then we're done We will know
+this mystery angle, this optimal angle, to shoot
+the object at. So let's take the derivative. So the derivative, we'll just
+use our derivative rules here. The derivative of-- I will call
+it d prime I guess, or we could say the derivative of the
+distance with respect to theta is equal to-- we're
+assuming that s and g are constants, so we don't have to
+worry about them right now. We could just put them out front
+since we're assuming they're constants. And then we can do the product
+rule to take the derivative of this part with respect
+to theta. In the product rule, we take
+the derivative of the first function times the
+second function. So the derivative of
+cosine of theta is negative sine of theta. And we're going to
+multiply that times the second function. So that's times the
+sine of theta. And to that we're going to add
+the first function, which is cosine of theta times
+the derivative of the second function. The derivative of sine theta
+is cosine of theta. I know it's a little
+bit confusing. All we did is we took the
+derivative of the first one times the second one. And then we took the derivative
+of the second one times the first one. Let me make it even more
+explicitly clear. We took the derivative of this
+guy here, so this is the derivative with respect
+to theta. And we took the derivative of
+this guy over here with respect to theta. We took the derivative
+of cosine there and multiplied it by sine. Took the derivative
+of sine here and multiplied it by cosine. Just the product rule. Now what does this give us? We can simplify this
+a good bit. So we could write the derivative
+d prime is equal to-- we could keep this constant
+out there-- 2s squared over g-- times-- now
+negative sine of theta times sine of theta, that's
+just negative sine squared of theta. And then, cosine theta times
+cosine theta, that's just plus cosine squared of theta. Now, what we just said is we
+want to figure out the point, the angle at which this
+derivative or the instantaneous slope is 0. So let's set this thing
+equal to 0. So we just have to solve
+for theta now. Now the first thing I do to
+solve for theta is just divide both sides by 2s
+squared over g. If you divide the left-hand side
+by that, it cancels out with 2s squared over g. And if you divide 0 by that,
+assuming this isn't 0, which it shouldn't be, then
+you'll still get 0. So this equation simplifies to--
+I'll write it in blue-- negative sine squared of theta
+plus cosine squared of theta is equal to 0. Now, if we add sine squared of
+theta of both sides of this equation, let's add
+sine squared of theta to both sides. We are left with--
+these cancel out. Cosine squared of theta
+is equal to sine squared of theta. Now, both of these are going
+to be positive over the interval, so we're going to just
+take the positive square root of both of them, or the
+principal root of both sides of this equation. So let's do that. So you take the principal
+roots of both sides of this equation. You could do it that way. Actually, a more interesting way
+than doing it that way, is to divide both sides of this
+equation by cosine squared of theta assuming that it's not
+equal to 0 over this interval. So cosine squared of theta. You could also do it using the
+positive square root, the principal root, either
+one will work. But this is interesting because
+the left-hand side cancels out to 1, and the 1 will
+be equal to-- what's sine squared over cosine
+squared of theta? Well that's the same thing as
+sine of theta over cosine of theta squared. You have a square divided
+by another square. That's the same thing as the
+numerator divided by the denominator. That whole thing squared. And what's sine of theta divided
+by cosine of theta? Well that's just the
+tangent of theta. So we have 1 is equal to the
+tangent squared of theta. Or, we could take the positive
+square root of both sides of this equation. Tangent is positive over the
+interval from 0 to 90 degrees, so that's cool to do. So if you take the positive
+square root of both sides, you get the positive square
+root of 1 is 1. 1 is equal to tangent
+of theta. And then you take the inverse
+tan of both sides or the arc tan of both sides and you
+get the arc tan of 1 is equal to theta. And this is just a very fancy
+way of saying theta's the angle that if you were take
+its tangent, you get 1. And you could use a calculator
+to solve that or you might just know that by memory. This theta, the arc tangent
+of 1 is 45 degrees. Or if you are dealing
+in radians, it is pi over 4 radians. Either one of those
+is going to work. So our optimal angle when we
+shoot this thing is going to be at 45 degrees. Now, what is that optimal
+distance going to be when we shoot it off at 45 degrees? Well, we can just go back
+to our original formula. We just go back to our original formula that we derived. If we're shooting it off at 45
+degrees, what is the sine of 45 degrees? The sine of 45 degrees is
+equal to the square root of 2 over 2. You could use a calculator for
+that or maybe you know it from the unit circle. The cosine of 45 degrees is also
+square root of 2 over 2. And if you'd actually just taken
+the principal roots at this stage of the equation,
+you'd have gotten that the cosine of theta has to equal
+sine of theta over this interval, and that only
+happens at 45 degrees. But given this. We can put this back into the
+original expression right up here, our original function. So the optimal distance that
+we are going to travel, so distance as a function-- the
+distance we travel at 45 degrees is going to be equal
+to 2s squared over g times cosine of theta, which is
+square root of 2 over 2. Cosine of 45 is square root of
+2 over 2 time sine of theta, which is square root
+of 2 over 2. Well what's the square root of
+2 times the square root of 2? Well that's just 2. Let me simplify this. So the square root of 2
+times the square root of 2, that is 2. This 2 cancels out
+with that 2. And then, this 2 cancels
+out with this 2. So then the optimal distance you
+travel at 45 degrees, all we're left with is the
+s squared over g. Assuming no air resistance, kind
+of an ideal circumstance. No matter what planet you're
+on, how fast you do it, the best angle is always 45 degrees
+assuming no air resistance. And if you do it on that best
+angle, you're going to travel s squared over g. Going back to the original
+problem, if s is 10 meters per second. Let's say s was 10 meters
+per second. And let's say we're dealing with
+a world where let's say, gravity is equal to 10 meters
+per second squared, then according to what we've derived,
+your optimal distance is going to be s squared-- so
+it's going to be 100-- divided by gravity. It's going to be 10. And if you square meters per
+second, you're going to get meters squared per second
+squared divided by the acceleration of gravity, meters
+per second squared. Second squared's cancel out. You have a meter squared
+divided by meters. Your optimal distance
+would be 10 meters. Pretty neat.

@@ -1,0 +1,22 @@
+Construct a line perpendicular
+to the given line. So if I can pick two
+arbitrary points on this line, and if I can make a
+line that is always equidistant from
+those two points, then that line will
+be perpendicular. And actually, it will be
+a perpendicular bisector of the segment formed
+by those two points. Now, they don't care whether
+we're bisecting anything. But they do care about
+it being perpendicular. So let's do this. So I'm going to draw a
+circle with my compass. And so let's just pick that
+point right over there. I could adjust the
+radius if I like. But I might as well-- well, I'll
+just leave it right over there. Now let me draw another circle. And this time, I'm
+going to center it where the first circle
+intersects with my line. And then I'm going to
+adjust the radius to overlap with the first dot. And now, where these
+two circles intersect, those are points that
+are equidistant from both of these centers that
+I just constructed. So let me draw a line
+that connects those two. And that line is going
+to be perpendicular to our original line.

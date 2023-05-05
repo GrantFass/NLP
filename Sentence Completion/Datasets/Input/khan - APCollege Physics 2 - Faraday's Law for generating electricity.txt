@@ -1,0 +1,52 @@
+- [Voiceover] We're already looked at Faraday's law in some detail. It showed us that if we have some loop of conductor and we have a change in magnetic flux over
+time through the surface defined by that loop, it's going to induce an EMF through that loop which will cause a current to start to
+circulate through that loop and that current, of
+course, will be dependent on the actual resistance of the conductor. And there's many ways
+that we've already seen of having a change in magnetic flux. One, you can have a change
+in the magnetic field. It could be a change in its magnitude and, or it's orientation. You could have a change in the shape of the actual loop of conductor. If its area increases or decreases, that will change the flux. Remember, the flux is just your, the component of the magnetic field that is perpendicular to the surface. If you took the average of that times the area of the surface. And then the other way that we're going to study in this video is
+inducing an electromotive force by changing it, not the shape of the loop and not the magnetic field but by changing the orientation of the loop. And in particular, we're
+going to have the loop rotate. So let's think about this.
+So I have this loop here. It's connected to this axle
+and I'm going to rotate it in a, I'm going to rotate
+it in a clockwise direction through this constant magnetic field. You can see it's constant. All of the magnetic field vectors I've just sampled'em at
+different points in the field. They're all pointing straight
+up and I've drawn them so that they all have the same magnitude. Now we'd appreciate is as we rotate this, the angle between the magnetic field and the surface is changing
+and right from this point, as we rotated this clockwise direction, the component of the magnetic field that is perpendicular to the
+surface is going to increase. Now what am I talking about? Well, let's look at it
+from this point of view. Let's look at it from the point of view of the actual loop of wire,
+so from this point of view the magnetic field is at some angle. I can draw that angle here
+so, you know, whatever angle, it's a little hard to see,
+whatever angle this is, we could say that is that angle here and as we rotate the
+entire loop, it's attached to some type of an axle here,
+in a clockwise direction. What is going to happen to this angle? Well, after let's say delta
+T, let's say we're just rotating it a constant
+rate, we're going to have the magnetic, so after
+we've rotated a little bit, the magnetic field of vector is going to look something like that. So it's the component
+that is perpendicular to the surface was what
+we care about for flux, it's going to go from being
+like this, it's gonna go from being like that to going to being, to being like this, to being like this. So at least for this
+point of the rotation, for this point of the rotation till we get to the flat, until we
+get to the flat point, until we have our loop
+being completely flat, the component of our magnetic field that is perpendicular is going to increase which is going to have,
+so we're going to have an increase in flux over that time. So if we have an increase
+in flux over that time as we rotate up, at least
+until we get to the flat point, what is going to happen? Well, we're going to induce a current and then we just have to think about what is the orientation of the current? So we want to have a current that will induce a magnetic field that will go against the change
+in flux so the current should induce a magnetic field that is, if our flux, at least for
+that part of the rotation is increasing in the upwards direction, if we're from the point
+of view of this loop, then we need to create a magnetic field that is acting against that. So magnetic field that
+is acting against that or we need to, we're
+ready to induce a current that induces a magnetic field that acts against that change in flux. So, how do I, what type of current would induce a magnetic field like that? So I'll just use the
+right-hand rule, my fingers would go in the direction of these, of the magnetic field, so my fingers and I have to use my right hand, so my fingers are gonna
+go in that direction, so my right hand, my thumb, my thumb would go in this direction. So that is going to be the direction of the current that is induced. So the whole point of me showing you this, is that there's multiple ways to have a change in magnetic flux and there's multiple ways to induce a current. And this one is particularly interesting because it lets you or we
+can start to think about, wow, I could turn, I could
+turn a mechanical rotation into an induced current and
+this is, this basic principle although they wouldn't use
+such a simple loop like this, is exactly how electric generators work. They're actually, in some ways, the reverse of an electric motor. An electric motor has a current that causes something to rotate. Here, we're having something rotate causing a current to
+form and that's actually what we have happening when you look at something like windmills or when you look at hydroelectric generators. Right over here, this windmill, the wind is going to cause these
+blades to turn around and then inside, inside
+of this little place right over here, you're going
+to have a more fancy version of this rotating which is
+going to induce a current. The magnetic field isn't
+going to be exactly like this. It's going to be a more
+sophisticated mechanism but it's the same underlying principle. It's just Faraday's law at work. Same thing with hydroelectric generator, you're using the potential energy of the flowing water to turn an axle and then that helps us
+generate electricity by the exact same principle.

@@ -1,0 +1,130 @@
+- [Voiceover] In the last video we took a look at this function f of x, y equal x to the fourth minus four x squared plus y squared which has the graph that
+you're looking at on the left. And we looked for all of the points where the gradient is equal to zero. Which basically means
+both partial derivatives are equal to zero and we solved that and we found that there
+were three different points. The origin zero, zero,
+and then square root of two, zero and negative
+square root of two, zero which corresponds to this origin here which is a saddle point and
+then these two local minima. And it seemed like we had
+a reasonable explanation for why this is a saddle point and why both of those are local minima. 'Cause we took the
+second partial derivative with respect to x, that
+was kind of all over the board here, second partial derivative with respect to x, and found that when you evaluate it at x equals zero
+you get a negative number, kind of indicating a negative concavity so it should look like a maximum. And then when you do the same with the second partial derivative of y, man I always do this, I
+always leave out the squared on that lower term there, okay, so second partial
+derivative with respect to y you get two as a constant, a positive. And that kind of indicates that it looks like a minimum to y. So that's why, you know, this origin point looks like a saddle point
+'cause the x direction and y direction disagree
+and when you do this with the other points
+they kind of both agree that it should look like a minimum. But I said that's not enough, I said that you need to take into account the mixed partial derivative term. And to see why that's true let me go ahead and pull up another example for you here. So the graph of the function
+that you're looking at right now, it clearly has a saddle point at the origin that we can see visually, but when we get the
+equation for this function, the equation is f of x,
+y is equal to x squared plus y squared minus four times xy. Now let's go ahead and analyze the partial differential information of this function, we'll just take it's partial derivatives, so the partial with respect to x is equal to, so we've got, when we
+differentiate this term we get two x, two x, y
+looks like a constant, we do nothing, and then this last term looks like negative four times y 'cause y looks like a
+constant, so negative four y. And when we do the partial derivative with respect to y, very
+similarly we're gonna get two and when we differentiate y squared. Two y, and now we subtract minus four x 'cause x looks like the constant and y looks like the variable, minus four x. Now when we plug in x and
+y are each equal to zero, you know, we plug in the origin point to both of these functions, we see that they're equal to zero. 'Cause x is zero, y is
+zero, this guy goes to zero. Similarly over here, that goes to zero. So we will indeed get a flat
+tangent plane at the origin. But now let's take a look at
+the second partial derivatives. If we do the second
+partial derivatives purely in terms of x and y, so if we take the pure second partial derivative of f with respect to x squared what we get, we look at this expression,
+we differentiate it with respect to x and we
+get a constant positive two because that y does nothing for us. And then similarly, when
+we take the second partial derivative with respect to y,
+always forget that squared on the bottom, we also get
+a constant positive two because this x does nothing for us when we take the derivative
+with respect to y. So we get constant positive two. So this would suggest that, you know, there's positive concavity
+in the x direction, there's positive concavity
+in the y direction, so it would suggest that, you know, it looks like an upward smiley face from all directions and it
+should be a local minimum. But when we look at the
+graph this isn't true, it's not a local minimum,
+it's a saddle point. So what this tells us is that these two second partial derivatives aren't enough, we need more information. And what it kinda comes down to is that this last term here, minus four xy, oh, actually, I think I made a mistake, I think I meant to make this plus four xy. So let's see, plus four xy
+which would influence these. It actually won't make a difference, it still gives a saddle point, but anyway, we've got
+this plus four xy term that evidently makes a difference. That evidently kind of, influences whether this is a local
+minimum or a maximum. And just to give a loose intuition
+for what's going on here. If instead of writing four here, I wrote, I'm gonna write the variable P, okay, and P is just gonna be some number and I'm gonna move that variable around. I'm gonna basically let it
+range from zero up to four. So right now, as you're looking
+at it it's sitting at four. So I'm gonna pull it
+back and kind of let it range back to zero just to see how this influences the graph. And we see that once we
+pull it back to zero, we get something where it kinda reflects what you would expect,
+where from the x direction it's a positive smiley
+face, from the y direction it's also a positive smiley
+face and everything's good, it looks like the local minimum and it is. And even as you let P range more and more, and here P is around,
+I'm guessing right now it's around 1.5, you get something that's still a local minimum. It's a positive concavity
+in all directions, but there's a critical point here where as you're moving P, at some point it kind of passes over and
+turns it into a saddle point. And again, this is
+entirely the coefficient in front of the xy term,
+it has nothing to do with the x squared or the y squared. So at some point it kinda passes over and from that point on everything is going to be a saddle point. And in a moment it'll become clear that that critical point happens when P is equal to two. So right here it's gonna
+be when P equals two, it kinda passes from making
+things a local minimum to a saddle point. And let me show you the
+test which will tell us why this is true. So the full reasoning behind this test is something that I'll
+get to in later videos, but right now I just want to,
+kind of have it on the table and teach you what it
+is and how to use it. So this is called the second
+partial derivative test. Second partial derivative
+test, I'll just write deriv test since I'm a slow writer. And basically what it says is if you found a point where the
+gradient of your function at this point, and I'll write it kind of x not, y not is our point, if
+you found where it equals zero then calculate the following value. You'll take the second partial derivative with respect to x twice,
+so here I'm just using that subscript notation
+which is completely the same as saying, you know,
+second partial derivative with respect to x twice, just different choice in notation, and you evaluate it at this point, x not, y
+not, then you multiply that by the second partial
+derivative with respect to y evaluated at that same point, y not, and then you subtract off
+the mixed partial derivative, the one where first you
+do it with respect to x then with respect to y,
+or in the other order, it doesn't really matter as long as you take it with respect
+to both the variables. You subtract off that guy squared. So what you do is you
+compute this entire value and it's gonna give you
+some kind of number, and let's give it a name, let's name it H, and if it's the case that
+H is greater than zero then you have either a max or a min, you're not sure which one yet and it's a max or a min. And you can tell whether it's a maximum or a minimum basically by
+looking at one of these partial derivative with respect to x twice or with respect to y twice and kind of getting a feel for the
+concavity there, right. If this was positive it would indicate kind of a smiley face concavity and it would be a local minimum. And the fact that this entire value H is greater than zero is what you need to tell you that you can just do that, you can look at the concavity with respect to one of those guys and that'll tell you the information you need
+about the entire graph. But if H is less than zero,
+if H is less than zero, then you definitely have a saddle point. Saddle point. And if H is purely equal to zero, if you get that unlucky
+case, then you don't know, then the second partial derivative test isn't enough to determine. But almost all cases
+you'll find that either it's purely greater than zero
+or purely less than zero. So as an example let's
+see what that looks like in the case of the specific
+function we started with. Where P is some constant
+that I was letting kind of, range from zero to four when I was animating it
+here, but you should just think of P as being some number. Well in that case, this value H that we plug in, and let's
+say we're plugging it in at the origin, right, we're
+analyzing at the origin. Well we've already calculated
+the partial derivative with respect to x twice in
+a row and y twice in a row and both of those, when we computed those were just constants two, they
+were equal to two everywhere and in particular they're
+equal to two at the origin. So we can go ahead and just plug in those and we see that this is two times two and then now we need to subtract off the mixed partial derivative squared. So if we go ahead and compute that where we take the derivative
+with respect to x and then and or y and then x, let's
+say we started with the partial derivative with respect to x. When we take this
+derivative with respect to y we're gonna get this constant term that's sitting in front of the y. But really it's whatever this
+constant P happened to equal. And you might be able
+to see that just looking at this function, that when you take the mixed partial derivative it's gonna be the coefficient in front of the xy term, 'cause it's kind of like, first you do the derivative with respect
+to x and the x goes away and then with respect to
+y and that y goes away and you're just left with a constant. So what you end up getting here in the second partial derivative test, when we take that value which is P, which might equal four or zero or whatever we happen to have it
+as and we square that, we square that, that's gonna be the value that we analyze. So in the case where P
+was equal to zero, right, if we go over here and we scale so that P is completely equal to zero,
+then our entire value H, H would equal four, and
+because H is positive it's definitely a maximum or a minimum and then by analyzing one of those second partial derivatives
+with respect to x or y and seeing that it's positive concavity, we would see, oh, it's
+definitely a local minimum 'cause positive concavity
+gives local minimum. But in the other case where, let's say we let P range such that P
+is all the way equal to four, in formulas what that means for us when we let P equal four is we're taking two times two, minus four squared. We're taking two times two, minus 16. What that would imply,
+sorry about getting kinda scrunched on the board
+here, is that H is equal to, let's see four minus 16, negative 12. I'm just gonna erase this to
+kind of, clear up some room. So when P equals four,
+this is negative 12. And in fact, this kind of
+explains the crossover point for when it goes from being local minimum to a saddle point. It's gonna be at that point where this entire expression is equal to zero. And you can see that
+happens when P equals two. So over here the crossover point when it kind of goes from being a local minimum to a saddle
+point is at P equals two. And when P perfectly
+equals two, let's see, so about here, the second
+partial derivative test isn't gonna be enough to tell us anything. It can't tell us it's definitely a max and it can't tell us that
+it's definitely a saddle point and in this particular
+case that that corresponds to the fact that the
+graph is perfectly flat in one direction and a
+minimum in another direction. In other cases it might
+mean something different and I'll probably make a video just about that special case when this whole value is equal to zero. But for now all that I want to emphasize is what this test is
+where you take all three second partial derivatives and you kind of multiply together the two pure second partial derivatives where you do x and then x, and then one
+where you do y and then y, you multiply those together and then you subtract off that mixed
+partial derivative squared. And in the next video I'll try to give a little bit more intuition for, you know, where this
+whole formula comes from, why it's not completely random, why taking this and analyzing whether it's greater than zero or less than zero is a
+reasonable thing to do for analyzing whether a
+point that you're looking at is a local minimum or a local
+maximum or a saddle point. See you then.

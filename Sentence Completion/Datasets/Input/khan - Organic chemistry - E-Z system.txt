@@ -1,0 +1,97 @@
+- [Voiceover] If we look
+at the molecule on the left and try to use our cis-trans terminology, we quickly realize that we can't use it. To use cis or trans, we would need to have two identical groups to compare. And here we have four different groups attached to our double bond, so we need to use a different system to find the configuration
+of our double bond. We're going to use the E-Z system. So to use the E-Z system, you need to think about atomic number to assign priority to the groups attached to your double bond. So let's start with the
+carbon on the right side of our double bond. We look at the atoms directly
+bonded to that carbon. There's a hydrogen directly
+bonded to that carbon, and there's an oxygen directly
+bonded to that carbon. Next, you need to compare those atoms in terms of atomic number. Hydrogen has an atomic number of one, and oxygen has an atomic number of eight. The higher the atomic number,
+the higher the priority, so the group that contains oxygen is the higher priority group. So this is the higher priority group, and the hydrogen would be number two here. Now let's look at the left
+side of our double bond, so let's look at this carbon,
+and we look at the atoms directly bonded to that carbon. There's a bromine directly
+bonded to that carbon, and there's a carbon. We go over here, and we see that carbon has atomic number of six, and bromine has an atomic number of 35. The higher the atomic number,
+the higher the priority, so the bromine gets higher priority, so the bromine would get a number one, and we give a number
+two to the methyl group. Next, I like to draw a line to think about sides of our double bond. If our two higher priority groups are on opposite sides of our double bond, that is the E configuration,
+and the E comes from the German word for opposite. So if the two higher priority groups are on opposite sides of the double bond, it's the E configuration. Let's look at the example on the right. So it's very similar. If we start on the right
+side of the double bond, this carbon is still
+bonded to an H and an OH, and the OH group gets a higher priority because the oxygen has
+the higher atomic number, so this gets a one, and
+the hydrogen gets a two. So that's the same as
+the previous example. When we go to the left
+side of the double bond and we look at this carbon, now I've switched the methyl
+group and the bromine. We know the bromine gets higher priority because the bromine has
+the higher atomic number, and so the methyl group gets a number two. So when I draw a line
+here, it's easier to see that the two higher priority
+groups are on the same sides. The OH and the bromine
+are on the same side of our double bond. This is the Z configuration. Z comes from the German
+word meaning together, so the two higher priority
+groups are together. They're on the same side. A good way to remember
+this is to think about the two higher priority groups being on ze zame zide, and that's one way to remember that the two higher priority groups being on the same side is Z. So the E-Z system is more inclusive than the cis-trans terminology, so E-Z is often a better way to come up with the configuration of a double bond. Let's assign a configuration
+to this double bond, and let's start with the
+carbon on the left side. We look at the atoms directly
+bonded to that carbon. There's a bromine, and there's a chlorine. Since bromine has the
+higher atomic number, bromine gets the higher priority, so bromine gets a one,
+and chlorine gets a two. If we go to the right
+side of our double bond and we look at the atoms
+directly bonded to this carbon, we know that here's a carbon, and we know that here's a carbon, so we have a tie because obviously carbon has the same atomic number. So to break a tie, we need to keep going. So what I'm going to do
+is re-draw this molecule, and I'm going to do that
+over here on the right. So we have a carbon bonded
+to a bromine and a chlorine, and the carbon on the right
+is bonded to another carbon. And this carbon, let
+me change colors here, this carbon is this one, which is double bonded to an oxygen. So for the purpose of assigning priority, we're going to pretend like this carbon is bonded to two oxygens. Obviously, it has a double
+bond to only one oxygen, but this will help us to assign priority. And then we also have this
+carbon bonded to a hydrogen. What about this carbon down here? Well, this carbon is
+bonded to two hydrogens and directly bonded to an oxygen, and the oxygen is bonded to a hydrogen. So let's go back to
+thinking about priority. We started with the
+carbon on the right side, and we got to these two
+carbons, and then we had a tie. So, next, we need to
+think about what atoms are directly bonded to those carbons. So we'll start with this carbon up here. This carbon is directly bonded to an oxygen, an oxygen, and a hydrogen, so we write down oxygen, oxygen, hydrogen. Down here, this carbon is directly bonded to an oxygen and two hydrogens, so oxygen, hydrogen, hydrogen. To assign priority, we look for the first point of difference. So we start with the two
+oxygens, and we have a tie, so we go to the next atom, and we have an oxygen versus a hydrogen. Obviously, oxygen has
+a higher atomic number than hydrogen, so this is our tiebreaker. Right here is our first
+point of difference, and so this group gets higher priority, so this group gets a
+number one for priority, and this group gets a number two. Next, we draw a line
+here for our double bond, and we look at our two
+higher priority groups. Our two higher priority
+groups are on the same side, so ze zame zide. This is the Z configuration
+for our double bond. So how do we incorporate the E-Z system into IUPAC nomenclature? Well, let's say our goal
+is to name this alkene. Well, we'd find the longest carbon chain that includes our double
+bond, and we'd give our lowest number possible
+to our substituents, so that means starting
+from the right side here. So this would be carbon one,
+carbon two, carbon three, four, five, six, and seven. So what do we call a seven carbon alkene? That would be heptene. So over here I will write heptene. And our double bond
+starts at carbon three, so let me write 3-heptene. Next, we think about the substituents coming off of our carbon chain. We have a methyl group
+coming off of carbon two and an ethyl group coming
+off of carbon four. Now we need to put those
+in alphabetical order. So 4-ethyl would come first, so let me go ahead and
+put that right here, so 4-ethyl, and then we have 2-methyl 3-heptene. So that's the older way of naming it. You could've also have
+written here 4-ethyl 2-methyl hept-3-ene, so either one is accepted. Now we have to think
+about our double bonds. Is it an E configuration
+or is it a Z configuration? So let's start with the carbon on the right side of our double bond here. We know there's a hydrogen
+coming up this way, and so we are comparing
+the atoms directly bonded to that carbon in red. So we have a hydrogen here, and then we have a carbon right here. Carbon has the higher atomic number, so this group gets higher priority, so we get a number one for this group, and hydrogen would get a number two. For the left side, so we're
+thinking about this carbon, we think about the atoms
+directly bonded to that carbon. Well, there's a carbon
+here and a carbon here, so there's a tie, so I'm
+actually going to re-draw part of the molecule here
+to help us figure out the higher priority group
+to help us break that tie. So here's our double bond. Here's our hydrogen. Here's our carbon. That's the right side of our double bond. Again, only drawing in
+part of the molecule. On the left side of our double bond, we would have a carbon down here bonded to two hydrogens, and then this carbon has three hydrogens, so that's our ethyl group. And then up here, we would have a carbon bonded to two hydrogens
+bonded to another carbon with two hydrogens, and finally bonded to a carbon with three hydrogens. Now we have to figure out
+which of those two groups on the left side is the
+higher priority group. So, again, let's start with the carbon on the left side of our double bond. We look directly at the
+atom bonded to that, and it's a carbon, so
+we need to continue on. So this carbon is directly
+bonded to a carbon and then a hydrogen and then a hydrogen, so we have carbon, hydrogen, hydrogen. What about this carbon? That carbon's bonded to a
+carbon and two hydrogens, so we have carbon, hydrogen, hydrogen. We look for first point of difference. We have carbon versus carbon,
+hydrogen versus hydrogen, and hydrogen versus hydrogen,
+so we don't have anything. We still don't know which is
+the higher priority group, so we need yet another tiebreaker. So let's go to our next carbon. So that's this carbon right here versus this carbon down here. We'll go back up to this top carbon. This carbon is bonded to a carbon and then hydrogen, hydrogen, so we have carbon, hydrogen, hydrogen. Down here, let's look at this carbon. We have hydrogen, hydrogen, hydrogen, so hydrogen, hydrogen, hydrogen. Finally, we have our
+first point of difference because we're comparing
+a carbon to a hydrogen, so carbon has the higher atomic number, so this group gets higher priority. So this group gets the higher priority. Let's go back up to this drawing. We're talking about this
+group, higher priority, and our ethyl group
+gets a number two here. So, finally, we go ahead
+and draw in our line, so we can see which side
+our higher priority groups or which sides, I should say, our higher priority groups are on. So our higher priority
+groups are on opposite sides of our double bond, so we know that is E. So the configuration of
+the double bond is E, so we put that in our names. We put our E here, and
+we put it in parentheses. So the final name for our compound is (E)-4-ethyl-2-methyl-3-heptene, or you could say
+(E)-4-ethyl-2-methylhept-3-ene.

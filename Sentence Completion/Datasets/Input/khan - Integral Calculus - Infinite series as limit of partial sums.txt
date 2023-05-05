@@ -1,0 +1,25 @@
+- [Voiceover] Let's say that
+we have an infinite series S so that's the sum from n = 1 to infinity of a sub n. We could write it out a sub 1 plus a sub 2 and we're just going to go on
+and on and on for infinity. We're going to go on
+and on and on forever. So, let's say, and I've written
+it in very general terms let's say we have a formula
+for the partial sums of S. We know that S sub n is equal to 2n to the third over n plus 1 times n plus 2. Now, my question to you is,
+based on what I've just told you S is the sum in a very general way written this infinite series but
+I have the partial sum. The sum of the first n terms of S is given by this formula right over here does this series converge or diverge? Does this thing converge
+to some finite value or is it unbounded and does it diverge? Well, one way to think about this is the idea that our infinite series S is just the limit as n approaches infinity of our partial sums. So, what do we mean by that? Well, you could a sequence
+of partial sums here. You have S sub 1, S sub 2, S sub 3 and you keep going so this would be the sum of the first term. This would be the sum
+of the first 2 terms. This would be the sum of the first 3 terms and just think about what
+happens to this sequence as n right over here approaches infinity because that's what this series is. It's the sum of the first, I guess you could say the first, infinite terms. It's the sum of all, you have an infinite number of terms here. Well, let's think about what this. The limit is n approaches
+infinity of S sub n. That's just going to be the limit as n approaches infinity of this business right over here. 2n to the third power over n plus 1 times n plus 2 and there's several ways you could evaluate this. One way is you could just realize, "Hey, look in the bottom this is going "to be a second degree polynomial." On up here, you have a third degree so the numerator is gonna grow faster than the denominator so this
+is going to be unbounded. So that will immediately tell you well this is gonna approach infinity so S is going to diverge but if you wanna do it a little bit less hand wavy than that we can actually do a little bit more algebra. Limit as n approaches infinity, 2n to the third power over, let's multiply this out, n squared plus 3n plus 2 and, let's see, we can
+divide the numerator and the denominator by n squared. So, this is going to be the limit as n approaches infinity of, if we divide the numerator by n squared, you're going to have, actually, let's
+divide the numerator and, well yeah let's
+divide it by n squared so, if we divide the
+numerator by n squared, we're gonna have 2n and
+then the denominator divided by n squared you're gonna have 1 plus 3 over n plus 2 over n squared. Now, when you look at it like this, it becomes pretty clear this thing as n approaches infinity,
+this thing is gonna towards infinity but this thing down here the denominator this
+is gonna go towards 0. This is gonna go towards 0 so the denominator's gonna go towards 1. So, this whole thing, is the limit is gonna go to infinity
+and since the limit of the partial sums goes to infinity that mean that this infinite series is not going to be a finite value. It's just going to diverge. So, this character right over here is going to diverge. In order for it to have converged, this thing should have come, this limit should have been some finite value. So, hopefully, that makes sense. All we say is, "Look, infinite series, "we had a formula for the partial sum "of the first n terms
+and then we said oh look "the series itself, the infinite series, "you could view it as a limit of, "as n approaches infinity,
+of the partial sum "S sub n and we said hey,
+that approach infinity "this thing is diverging."

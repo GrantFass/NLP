@@ -1,0 +1,99 @@
+Voiceover: Now that we're
+familiar with the idea of allele frequency, let's build on that to develop the Hardy,
+do this in a new color, and actually, let me
+do it right over here, the Hardy Weinberg
+principle, which is a really useful principle for thinking through what allele frequencies might
+be, or what probability you would have if you found someone, what percentage of the population might be homozygous recessive,
+or homozygous dominant, or might be a heterozygote. And it really builds on the work we've already seen with
+allele frequencies. Now before we go into
+that, we're gonna make some assumptions, and these
+are all just assumptions that get us a stable allele
+frequency in the population from generation to generation. We're going to assume
+that there's no selection, no natural selection is, or
+even unnatural selection, is going on that would change
+the allele frequencies. So it's not like people with
+one of the alleles or another are going to be more or less likely to reproduce and have viable offspring. We're also going to assume no mutation, so we're going to assume that
+one of these alleles can't, isn't from generation to
+generation turning into another one, or turning
+into maybe a different, a new type of trait,
+whether it's green eyes, or whatever else it might be. And we're also going to
+assume large populations. So that would definitely
+throw out the example that we looked at in the last
+video, which I did just to understand the notion of allele
+frequencies, where we said, hey, look, one out of
+the four of the genes in this population, or
+one-fourth of the alleles in this population,
+are the dominant brown, while three-fourths, or 75
+percent, were the recessive blue. We're gonna assume large
+populations, so many, many, many, and so that's so that if you
+have very small populations, you can imagine that, depending
+on how these reproduce, it's very easy to get to
+changes in frequencies, but at larger populations, that
+helps us make the assumption that we have stable allele frequencies. So once again, this is also that we have stable allele frequencies. Now based on that,
+we've already seen if we take the frequency of the dominant trait, which we can denote with
+p, and to that we add the frequency of the recessive trait, of the recessive, I
+should say, allele, let me be very careful here, the frequency of the dominant allele, and to
+that we add the frequency of the recessive allele,
+what's that going to be? Well, you see in this case,
+it adds up to 100 percent, or one, and it's always going to
+add up to 100 percent, or one. Because we're assuming that there's only one of two alleles in the population, so you have 100 percent chance
+of getting one of these two, that whatever percentage is going to be, whatever the frequency here is, 100 percent minus that is
+going to be whatever q is. So these two things are going to be equal to 100 percent, or equal to one. And now we can start to do a little bit of interesting mathematics. It'll allow us to start thinking about things like homozygotes and heterozygotes, and so to do that,
+let's square both sides. So let's square both sides of this, a little bit of algebra in biology class. And so when you square the left-hand side, this is just squaring a
+binomial, you might want to review it if this looks like
+Latin to you, there's many algebra videos on Khan
+academy that go into this, this is going to be p
+squared, plus two times pq, plus q squared, and of course one squared is still going to be equal to one. Now what are each of these terms here? What are each of these terms? Well, let's just think about something. p squared is the same thing as p times p. Well, p is the frequency
+of your dominant allele. So this is the frequency
+of your dominant allele, the percentage of the
+allele population, I guess you could say, the allele
+frequency, that is dominant, and you're multiplying
+that times it again. Well, another way to
+think about p, is this is the probability, if you
+were randomly to pick one of these four genes,
+and here I'm using my over-simplified population, of course, the truths that we're about
+to surface to be true, you're going to have to
+assume a large population, but in this one right over
+here, one way to view p is what's the probability if I
+were to pick a gene at random, what's the probability
+that it is the variant, or it is the dominant allele,
+what is the probability that it represents the brown variant? So that's one way to view
+p, so, the probability of getting a, let's
+just write it that way, a capital B, a dominant brown allele. So what's p times p? That's the probability of
+getting two dominant alleles. Or another way of thinking about
+it, this is the probability for someone in the population
+to be homozygous dominant, so it's the probability of someone being capital B and capital B. And so by the same
+logic, what is q squared? Well, q squared, that's just q times q, q is the probability of
+getting one recessive allele, so this is the probability of
+getting two recessive alleles. One from your mother,
+and one from your father, so this is the probability of, if you were kind of randomly
+born into this population, of getting two recessive alleles. Now what is this middle
+term, right over here? Well, p times q, so pq, so
+one way to think about it, if you said, what's the
+probability that from your mother, you get, randomly, you
+know nothing about them, or if you pick a random
+mother and a random father, what's the probability, I
+have to be careful here, so if you're just
+randomly getting alleles, what's the probability
+that from on one side you're gonna get the dominant, and from the second side you're
+gonna get the recessive? So that would be pq,
+that would be p times q, so that's getting it from,
+say, from one parent, and then that's from the second parent, but what about the other way around? From the first parent,
+you have a q probability of getting the recessive one,
+and from the second parent, you have a p probability of
+getting the dominant one. So there's two ways of
+becoming a heterozygote. And so if you add these two
+probabilities, what do you get? These are both pq, I'm just changing the order of multiplication. You sum these two, you get two pq. So this is the probability
+of being a heterozygote. So this is a pretty neat result. Just by making a few assumptions, and reasoning through this
+notion of allele frequency, we're able to come up with this expression that actually is fairly
+powerful in thinking about allele frequency in
+a population, and actually, the different genotype
+frequencies in a population. You see it all makes sense,
+these all add up to one. The probability of someone
+being homozygous dominant, plus the probability of
+someone being a heterozygote, plus the probability of someone being a homozygous recessive, they're
+gonna add up to 100 percent, because someone's going to have to be one of these three things. Now I'm gonna leave you
+there in this video, and the next video,
+we're actually gonna use this Hardy Weinberg equation
+to actually come up with some very interesting
+results about a population.

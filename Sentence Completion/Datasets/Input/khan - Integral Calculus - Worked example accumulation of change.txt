@@ -1,0 +1,70 @@
+Voiceover: It took 20
+minutes before Jughead noticed that his hot
+tub had sprung a leak. Once he realized it, he
+opened the hot tub's drain and the rest of the water
+rushed out in 40 minutes. The rate at which the water
+drained from the hot tub in gallons per minute is shown. How many gallons of
+water were in the hot tub before it started to leak? So let's see what they have over here. So they've plotted gallons per minute versus time in minutes. So we see here, this blue line, this is the rate at which
+water drained from the hot tub. So at minute zero, the
+water wasn't really draining from the hot tub and then
+not just more drained but the rate at which the
+water was draining increased. So 10 minutes into his
+bath, the water was draining at a gallon per minute and
+then 20 minutes into his bath water was draining at
+two gallons per minute. Then he noticed it and he opens the drain. I guess he wants to accelerate
+the end of his bath. So he opens the drain
+and then all of a sudden water starts draining out
+at a much higher rate, at 20 gallons per minute,
+but then that decreases. So we could think about physically
+why that might decrease. Maybe there was just less
+pressure or whatever. We're not going to go
+into the physics of it, but we're just going to
+take this chart as fact. The rate at which the
+water drains decreases all the way to the 60th minute, which is 40 minutes after
+he opened the drain. At the 60th minute, all of the water was actually drained out. So given that, how do we think about how many gallons of
+water were in the hot tub before it started to leak? And I encourage you to pause the video and try to see if you could
+figure it out yourself before I work through it. Well, to answer this question: How many gallons of
+water were in the hot tub before it started to leak? That is answering the same question as How much total hot water drained out? So how much drained out? And to think about that,
+we can just kind of go back to what we knew before we
+learned about calculus. If I have something
+happening at a fixed rate, so let's say that this
+is gallons per minute. So this is still the same
+context, I guess you could say. This is time in minutes. Let's say things are draining
+out at a constant rate. If you wanted to figure
+out how much drains out over a certain interval of time, let's say this interval
+of time right over here, let's call that delta t, you would just multiply the
+rate over that interval of time, which we could represent by this orange height right over here, times the amount of time that passed by, which would give you the area under the curve over that interval. the area under the curve
+over that interval. This area would tell you the gallons that drained over that delta t. And this doesn't just apply
+when you have a constant rate. If your rate looked something like this, as we've seen in other videos, you could figure out the
+amount that has drained in a specific interval, let's say this interval right over here, by essentially figuring out
+the area under the curve over that interval,
+and the units work out. If you multiply gallons
+per minute times minute, this area is going to
+be in terms of gallons. Another way you could think about it, and this goes back to,
+well, how do you figure out the area of a trapezoid right over here. Well, the area of a trapezoid, you could find the average
+height of the trapezoid, which would be the average of the beginning and the end period, you take that average over there, and this would work for a line like this, if you take that average height and multiply by the change in time, you are going to figure out that area. And that is another way
+of thinking about it. You are taking the average
+rate over that interval times the interval, and
+that is going to give you the total number of gallons. And so we just have to
+apply that idea over here. We just have to literally figure out the area under the curve
+over the entire interval when the water was actually
+leaking or draining. So essentially the area under the curve between zero minutes and 60 minutes. And so it is going to be this area plus all of this area under this part as well. To help us think about that, I'm going to just split
+that up into some sections. So I'll have this
+triangular section up here. I could just think about
+this as a trapezoid, but I'm just going to split it up into a triangle and a rectangle. And then I have this section
+right over here in green. So what is the area of this entire thing? Well, the area right over here, we have 20 minutes times two
+gallons per minute times 1/2. This gives us the area
+under this triangle. So that's going to be 20 gallons. We see that the units work out nicely. So that is essentially
+how much has drained out in the first 20 minutes. And then this green area
+is going to be 40 minutes times 10 gallons per minute. And actually maybe you know the units, since I'm breaking it
+up in this strange way, I'll just figure out this
+area in a unit-less way. So 40 times 10, which is equal to 400. And then, finally, in blue,
+I have 40 times this height right over here between
+10 and 20 is another 10 but then I'm going to
+multiply that times 1/2. So it's going to be 40 times 10 times 1/2, which is going to be 200. And so when you add all
+of these areas together, you are going to get 400
+plus 200 is 600 plus 20. You are going to have 620 gallons. 620 gallons is how much
+water in total drained out or how much water was in the
+tub before it started to leak, or the hot tub, yeah this is
+quite big for a regular tub, bu this could be like a Jacuzzi
+or a hot tub or something.

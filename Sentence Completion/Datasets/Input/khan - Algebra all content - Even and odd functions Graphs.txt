@@ -1,0 +1,60 @@
+Which of these functions is odd? And so let's remind
+ourselves what it means for a
+function to be odd. So I have a function--
+well, they've already used f, g,
+and h, so I'll use j. So function j is odd. If you evaluate j at some
+value-- so let's say j of a. And if you evaluate that j at
+the negative of that value, and if these two things are
+the negative of each other, then my function is odd. If these two things
+were the same-- if they didn't have this
+negative here-- then it would be an even function. So let's see which of these
+meet the criteria of being odd. So let's look at f of x. So we could pick a
+particular point. So let's say when
+x is equal to 2. So we get f of 2 is equal to 2. Now, what is f of negative 2? f of negative 2
+looks like it is 6. f of negative 2 is equal to 6. So these aren't the
+negative of each other. In order for this to
+be odd, f of negative 2 would have had to be equal to
+the negative of this, would have had to be
+equal to negative 2. So f of x is definitely not odd. So all I have to do is
+find even one case that violated this
+constraint to be odd. And so I can say it's
+definitely not odd. Now let's look at g of x. So I could use the same-- let's
+see, when x is equal to 2, we get g of 2 is
+equal to negative 7. Now let's look at
+when g is negative 2. So we get g of negative 2
+is also equal to negative 7. So here we have a
+situation-- and it looks like that's the case for
+any x we pick-- that g of x is going to be equal
+to g of negative x. So g of x is equal
+to g of negative x. It's symmetric
+around the y-- or I should say the vertical
+axis-- right over here. So g of x is even, not odd. So which of these
+functions is odd? Definitely not g of x. So our last hope is h of x. Let's see if h of x seems
+to meet the criteria. I'll do it in this green color. So if we take h of 1-- and we
+can look at it even visually. So h of 1 gets us right
+over here. h of negative 1 seems to get us an equal amount,
+an equal distance, negative. So it seems to fit for 1. For 2-- well, 2
+is at the x-axis. But that's definitely h of 2
+is 0. h of negative 2 is 0. But those are the
+negatives of each other. 0 is equal to negative 0. If we go to, say, h of 4, h
+of 4 is this negative number. And h of negative 4 seems
+to be a positive number of the same magnitude. So once again, this is
+the negative of this. So it looks like this is
+indeed an odd function. And another way to visually
+spot an odd function is a function-- it's going
+to go through the origin, and you could essentially
+flip it over on both axes. So if you flip this, the right
+half, over the left half, and then flip that over
+the horizontal axis, you are going to get
+this right over here. So you see here we're
+going up and to the right. Here we're going to go
+down and to the left. And then you curve
+right over there. You curve up just like that. But the easiest way to test
+it is just to do what we did, look at a given x. So for example, when x
+is equal to 8, h of 8 looks like this
+number right around 8. h of negative 8 looks like it's
+pretty close to negative 8. So they seem to be the
+negative of each other. It sounds like a car crash
+just happened outside. Anyway, hopefully
+you enjoyed that. Not the car crash,
+the math problem.

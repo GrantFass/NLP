@@ -1,0 +1,16 @@
+For us to understand the genealogy, the
+relationships, among dinosaurs we use the same techniques and tools as other
+biologists use  to understand how different groups of organisms are
+related. The primary one that we use is a 
+technique called cladistics, and what cladistics is, is that we just look
+at number of attributes in the animal and then we try to find the shortest path
+through those attributes. When I say shortest path I mean the least evolutionary steps. I mean, for
+instance if we had, you know, three animals in the room with us now, and we had, say we
+had a human, say we had a mouse, and say we had a lizard.  Well one of the attributes that links
+the mouse and the human together is hair, so if you would say that the mouse and the
+lizard were most closely related, you would have to have two evolutionary steps,
+the independent origin of hair. But by saying that hair only originated once, it's  evidence for a preferential relationship
+between humans and mouse. So that's a very simple example, but we do that with
+hundreds of characters and hundreds of animals sometimes and then we have
+computer algorithms, which actually go through the matrix and find the shortest
+path through it, and it results in a family tree of these animals.

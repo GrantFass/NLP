@@ -1,0 +1,87 @@
+- [Voiceover] Let's now
+dig a little bit deeper into the Lorentz Transformation. In particular, let's
+put some numbers here, so that we're, we get a little bit more familiar manipulating and then we'll start to get a
+little bit more intuition on how this transformation
+or sometimes it's spoken of in the plural,
+the transformations behave. So let's pick the scenario in
+which our friend passes us by, and this is the same scenario
+that we've been doing in previous videos, with
+a relative velocity, from my frame of reference,
+at half the speed of light. So the magnitude of her velocity
+is half the speed of light. She is moving in the
+positive x direction and our space-time diagrams,
+they coincide at the origin. And so let's pick an event in space-time. And so let's say in my coordinate system, in my frame of reference,
+this event that we focused on in the last video, let's say that is at x is equal to one meter... Let's use the same color... X is equal to one meter and let's say that time or ct is also
+equal to one meter. And like we said in, I think
+it was several videos ago, we could do this as a light meter, the time it takes for
+light to go one meter. So we will also say this is one meter. So in my coordinate system,
+in my frame of reference, this would be the point one comma one. One meter in the x direction,
+one meter in the ct direction. Now, based on that, think about what would be the prime coordinates. What would be the coordinates
+in her frame of reference? And I encourage you to pause the video, evaluate the Lorentz Factor using v and c, and then evaluate what x
+prime and ct prime would be. All right, I'm assuming
+you've had a go at it. Now let's work through this together. So first let's figure out
+what the Lorentz Factor... Actually, let's first figure
+out what beta would be. That will simplify everything. So, beta, we'll do it in the blue color, beta in this case is going to
+be equal to zero point five c. That's her relative velocity
+in my frame of reference. The ratio between that
+and the speed of light, so that's just going to be
+equal to zero point five. You could just view beta as what fraction of the speed of light is that person traveling
+in my frame of reference since we're using that as kind of the non-primed frame of reference. And so let's now think about
+what gamma is going to be, the Lorentz Factor. The Lorentz Factor is going to be... We'll do it in that reddish
+color not the magenta... it is going to be, so gamma is going to be one over the square root
+of one minus beta squared. Beta squared is, zero point five squared is going to be zero point two five. Actually let me just write
+zero point five squared just so you can see what I'm doing. So this is zero point five squared and if we were to evaluate that... Let's see this is going to be
+one minus zero point two five. So that's going to be point seven five. This is going to be equal
+to one over the square root of point seven five,
+one over the square root of zero point seven five. Let me get my calculator out. We can at least approximate it. So point seven five, let's
+take the square root. And I'll just take the reciprocal
+of that, so approximately one point one five. So our Lorentz Factor is
+approximately one point one five. And now using that we can figure what x prime and ct prime are going to be. X prime is going to be
+equal to my Lorentz Factor which is approximately one point one five. So maybe I'll write it as approximately going to be equal to one,
+we'll do that same color, it's going to be one point,
+I'm having trouble switching colors today, one point one five. One point one five times, now we're saying x is one meter, so x is
+one meter minus beta, beta is zero point five,
+so zero point five. And ct we're also saying is one meter, so times one. And then t prime or I should say ct prime, ct prime is going to be
+approximately the Lorentz Factor one point one, I always have
+trouble switching colors for the Lorentz Factor,
+it's going to be approximate to one point one five times... Well, ct is one. I think you see a little
+bit of symmetry here. This one in particular because it had the same x and ct coordinates. So one minus beta, one minus beta, so zero point five times
+x, which is once again one. So times one. So in this particular
+case, it simplifies to half of the Lorentz Factor because
+this one minus zero point five times one that's just going
+to be zero point five. And same thing over here, zero point five. So these things are going
+to be approximately equal to zero point five times the Lorentz Factor. We already had the Lorentz
+Factor in my calculator, so let me just multiply
+by zero point five. And I get, it's approximately
+point five, I'll just say point five eight. So, zero point five eight,
+zero point five eight. And once again the units are in meters. So even though this is one meter and one meter, this over here x
+prime is zero point five eight, zero point five eight meters and ct prime is also zero
+point five eight meters. So this is also equal to
+zero point five eight meters. So one way to think about
+it, if right when our two, right as she was passing
+me at x equals zero, time equals zero in my frame of reference, If I were to shoot my lazer gun or I were to turn my flashlight on and that very first photon starts traveling and so I could think about
+it's path through space-time, it would look, that very first photon would look something like that. When I think that a, when
+I think that that photon has traveled one meter in
+the positive x direction and one light meter of time has passed, from my friend's frame of reference, she would say, "No, no, no, no." At exactly that moment,
+let's say it hits an asteroid at that moment, it lights up an asteroid. She would say, "No, no, no, no, no." That happened zero point
+five eight light meters after she passed me up. And it happened zero
+point five eight meters in the positive x direction. So something very, very,
+very interesting is going on. And I encourage you to think
+about what's actually going on with these different parts of
+the Lorentz Transformations. The most interesting is
+what's going on, well, actually it's all interesting. In fact, the symmetry's interesting. But the Lorentz Factor, think
+about what's happening here. Think about what's happening
+here for low velocities when v is a very, very, very small fraction of the speed of light. Well then beta is going to
+be pretty close to zero, and then the Lorentz Factor is going to be pretty close to one. And think about what happens when v approaches the speed of light. Well then this thing just booms. This thing gets larger and
+larger and larger as we see this denominator getting
+smaller and smaller and smaller. If v were actually equal
+to the speed of light, well then you're going
+to be dividing by zeros. Well, you know, that's when all sorts of silliness starts to happen. So I really encourage you to
+try out different numbers. We tried very high relative velocity, half the speed of light, incredibly, incredibly high velocity. Try it out for something more mundane like the speed of a bullet
+or something like that. But definitely get very
+familiar with this. And also manipulate it algebraically. In fact, maybe in the next
+video I'll manipulate this a little bit algebraically
+so that you can reconcile the way I've written the
+Lorentz Transformation or the Lorentz Transformations
+with the way that you might see it in your
+textbook or other resources.

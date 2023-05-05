@@ -1,0 +1,70 @@
+Now that we've set up
+our surface integral, we can attempt to
+parametrise the surface. And one way to think about
+is we want our x and y values to take on all of the
+values inside of the unit circle, what I'm shading
+in right over here. And that our z values can be
+a function of the y values. We can express this
+equation right here, z is equal to 2 minus y. And then we could figure
+out how high above to go to get our z value. And by doing that, we'll
+be able to essentially get to every point that
+sits on our surface. And so first let's think about
+how we can get every x in y value inside of the unit circle. So let's just focus
+on the xy plane. We're kind of rotated
+around a little bit, so it looks a little
+bit more traditional. So this is my x-axis and then
+my y-axis would look something like that. Let me draw it a
+little bit different. This is my y-axis. And then if I were
+to draw the unit circle, some kind of the base
+of this thing, or at least where it intersects
+the xy plane-- actually this thing would
+keep going down, if I wanted to
+draw the x squared plus y squared equals 1. But if I draw where it
+intersects the xy plane, we get the unit circle. So let me just draw it. That's my best attempt
+at drawing a unit circle. We get the unit
+circle and we need to think of using
+parameters so that we can get every x and
+y-coordinate that's inside of the unit circle. And to think about that,
+I'll introduce one parameter that's essentially the
+angle with the x-axis. And I'll call that
+parameter theta. So theta is the angle
+with the x-axis. And so theta will
+essentially sweep things all the way around. So theta can go
+between 0 and 2 pi. So theta will take on
+values between 0 and 2 pi. And if we just fix the
+radius at some point, say radius 1, that
+would only give us all of the points
+on the unit circle. But we want all the
+points inside of it too. So we need to vary
+the radius as well. So let's introduce
+another parameter, let's call it r,
+that is the radius. So for any given r, if
+we keep changing theta, we would essentially sweep
+out a circle of that radius. And if you change radius
+a little bit more, you'll sweep out another circle. And if you vary radius
+between 0 and 1, you'll get all of
+the circles that will fill out this entire area. So the radius is going
+to go between 0 and 1. Another way of thinking about
+it is for any given theta, if you keep varying
+the radius, you'll sweep out all of the
+points on this line. And then as you
+change theta, it'll sweep out the entire circle. So either way you
+think about it. So with that, let's actually
+define x and y in those terms. So we could say that x is equal
+to-- so the x value whatever r is, the x value is going
+to be r cosine theta. It's going to be
+that component, it's going to be r cosine theta. And then the y component-- this
+is just basic trigonometry-- is going to be r sine theta. And then the z
+component, we already said z can be expressed
+as a function of y. Right over here we can
+rewrite this as z is equal to 2 minus y. That'll tell us how high to
+go so we end up on that plane. So if z is equal to 2 minus
+y and if y is r sine theta, we can rewrite z as being
+equal to 2 minus r sine theta. So there, we're done. That's our
+parametrization, if we wanted to write this
+as a position vector with two parameters--
+I'll call it lowercase s, it's already used r. Lowercase s, this
+is our surface, and it's going to be
+parametrized with r and theta. We can write it as r cosine
+theta i plus r sine of theta j plus r plus 2 minus
+r sine of theta k.

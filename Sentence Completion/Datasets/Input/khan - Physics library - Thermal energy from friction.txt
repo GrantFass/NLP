@@ -1,0 +1,203 @@
+- [Voiceover] This is Walter the penguin. And Walter the penguin
+gets bored in Antarctica, so he likes to run, jump, and then slide across the ice to a stop. But Walter is a clever
+and curious penguin, so while he's sliding, he's thinking about energy conservation
+and he's confused, 'cause he knows that he
+starts off over here, with some amount of kinetic energy. But he knows that he ends over here with no kinetic energy
+since he slides to a stop. So he wonders, how can
+energy be conserved, when he seems to be losing kinetic energy? Now if you would have asked this question when we dealt with forces,
+you would have said, "Oh, well obviously, this
+penguin is coming to a stop "'cause there must be
+some amount of friction "between the penguin and the ice. "Maybe the ice is very slippery, "but it can't be
+frictionless, or this penguin "would probably keep sliding forever. "There might be some air resistance "causing the penguin to slow down "but it's probably mostly friction "between the penguin and the ice." But we're talking about
+conservation of energy here, so how can we put this
+idea in terms of energy? Well, the way we do it, is we just say that this force of friction is doing negative work on the penguin. And we know the work is negative because the force of friction is directed in the opposite direction
+to the penguin's motion. The other way we could see this is that, we could just use the formula
+for work done by any force. That formula's f d cosine theta. If we want to find the work
+done by the force of friction, we would plug in the force
+of friction for our force, the magnitude of it, times the distance the penguin slid to the
+right, and then this theta in cosine theta is always the angle between the force and
+the direction of motion. So this penguin's sliding to the right, the forces directed to the left, you might think that's
+zero, but that's not zero. Think about it, the angle between leftward and rightward is not zero, that's actually 180 degrees. So this angle would be 180
+right here, or pi radians. And cosine of 180 is going
+to give you a negative one, so the work done by the force
+of friction on this penguin is going to be negative f k d. Negative the force of friction, times the distance the
+penguin slid to the right. But this still doesn't
+answer Walter's question. Where did the kinetic energy go? Friction may have done
+negative work on this penguin, but where did that energy end up? And you probably have a good idea, 'cause when two surfaces rub together, some of that energy of
+motion is going to get transformed into thermal
+energy in those two surfaces. In other words, this sheet of ice is going to have a little
+more thermal energy, it's going to heat up just a little bit. And Walter's feathery
+coat is going to heat up just a little bit, and
+they're going to have more thermal energy to end with, than what they started with. Just like when you rub your
+hands together vigorously on a cold day to get warm, you're turning some of that kinetic
+energy into thermal energy that warms up your hands. And you might be like, "Alright,
+that's all well and good, "but how do we put this all together? "I mean I've got this
+idea of work over here, "I've got this idea of
+kinetic energy over here. "What unifying framework
+lets me think about this "all in one package?" And that would be the statement
+of conservation of energy, so we can say that the
+initial energy of any system plus any external work
+that's done on that system has to equal the final
+energy of that system. In other words we could
+say that Walter the penguin started with kinetic
+energy, so Walter starts with 1/2 m v squared, and
+we don't have to worry about gravitational potential energy 'cause Walter's not changing his height, he's just sliding straight along the ice at a horizontal level. And we can add the external
+work that was done, which we've just figured that out. We know the external
+work would be the work done by friction, so we'd have a minus, 'cause it was negative work, f k d, and it's negative again because this force is taking energy out of the system. We could set that equal
+to the final energy, but Walter ends with no
+kinetic energy, so we'd say that there's no final
+kinetic energy to end with, there's no energy in
+our system to end with, in which case we find out, something that might be
+obvious to you is that 1/2 m v squared, the
+initial kinetic energy that Walter started with, has to equal, if we add to both sides f k d, the magnitude of the
+work done by friction. But some people might
+object, they might say, "Wait a minute, we just said
+there was thermal energy "to end with, how come
+we didn't include that "in our final energy?" And the reason is, that
+in this calculation here, we assumed that Walter, and only Walter, was part of our energy system. In other words, Walter, and
+only his motional energy, his kinetic energy, was the only energy we were keeping track of,
+that's why we said that, initially, there was just
+Walter's kinetic energy. And this sheet of ice was
+external to our system, not part of our system,
+that's why it exerted a negative external
+work, removed the energy from the system, and Walter
+ended up with no kinetic energy. But there's an alternate way
+to go about this calculation. You could say, "Alright,
+instead of just considering "Walter and Walter alone
+to be part of our system, "let's go ahead and include
+the ice as part of our system." And all those places where
+the thermal energy can go, like Walter's feathery coat,
+if we include all the places energy can go, then there
+won't be any external work. So an alternate way to
+solve these problems, is to use this same formula, but now, Walter and the ice are
+both part of our system. Our system would still start
+with the kinetic energy that Walter had at the
+beginning, that doesn't change. But now there would be no external work, not because force of
+friction isn't acting, there's still a force of friction, but that's an internal force
+between objects in our system. 'Cause Walter and the ice
+are part of our system. So there's no external work done now. That might be a new or
+confusing idea to some people, so let me just say, if
+there's forces between objects within your system, then
+those forces cannot exert external work and they cannot change the total energy of your system. Only forces exerted on
+objects within your system from outside of your system, can change the total energy of your system. So when this ice was
+not part of our system, it was exerting an outside
+external force on Walter, and the energy of our system changed. We started with kinetic energy,
+we ended with no energy. But now that the ice and
+Walter are part of our system, this force of friction
+is no longer external. It's internal, exerted between
+objects within our system, and so it does not
+exert any external work. It's just going to transform energies between different objects
+within our system. So that's why we write this zero here, there'd be no external work
+done if we choose the ice and Walter as part of our system. And this would have to
+equal the final energy, and we know where this energy ends up. It started with kinetic
+energy, and it ends as this extra thermal energy in the snow, and Walter's feathery coat. So I could write that as e thermal. But I know how much thermal
+energy was generated, this just has to equal the
+amount of work done by friction. So even though this work
+done is not external, it still transfers energy between objects within our system, so when
+we write that the work was negative f k d down here, we mean that the force of friction
+took f k d from something and turned it into something else, and that's all we need up here. We need an expression for thermal energy. But if friction took f k d and turned it into something else, the
+thing it turned it into was the thermal energy
+so that value of f k d, that magnitude of the work
+done, was how much energy ended up as thermal energy. People might find that
+confusing, they might be like, "Wait a minute, why do we have this "with a positive here and not a negative?" Well in this work formula,
+this negative is just saying that the force of friction is
+taking energy from something. If you take energy from something, you're doing negative work on it. If I gave energy to something,
+I'd be doing positive work. So this negative sign in the work done, just means that the force of
+friction took this much energy from something, and turned
+it into thermal energy. So when we want to write
+down how much thermal energy did we end with, well, we ended with the amount that we took. So we took f k d, the thermal
+energy ended with f k d. And I can still set this
+equal to the kinetic energy that Walter started with,
+and I get the same formula I ended up with over
+here, because I had to. Because we're describing the same universe and the same situation, so no
+matter what story you tell, you should get the same
+physics in the end. And we do, but some people
+prefer one to the other. Some people like thinking of friction as a negative external
+work, and not including the energy within the surfaces
+as part of their system. And some people like
+including those surfaces as part of their energy
+system, and just including that thermal energy on the e final side. Which is fine, you can do
+either, you just can't do both. Either the surface is part of your system, and you include it in your final energy, or the surface is not part of your system, and you include it as external work. But you can't say it does external work and it gains some final energy over here because it's got to be
+either part of your system, or not part of your system. So long story short, you
+can basically just think about the thermal energy
+generated by friction, as f k d, this is a formula
+that'll let you solve for the amount of thermal energy generated when two surfaces rub against each other. And we can take this
+idea a little further. The force of kinetic friction
+is going to be equal to the coefficient of kinetic friction times the normal force
+between the two surfaces. So we could rewrite this. This thermal energy
+term can be rewritten as mu k times f n times d. And you might say, "Well
+that's not all that remarkable, "it just looks even worse
+than it did before." But if you keep going, you
+realize that the normal force for something just sitting on a surface, is just going to be m times g. And we still multiply by the d, but now that we've
+replaced the normal force with m g, we notice that the mass cancels. And this should blow your mind! This means, no matter what
+the mass of this penguin is, if he starts with the same
+speed as some other penguin that's more or or less massive, he'll slide the exact same distance. Now some people will
+object, they'll be like, "Wait, a really massive
+penguin's going to have "a lot of inertia, it
+really wants to keep moving, "it should slide farther." But other people would say, "No, no. "The less massive penguin
+should slide farther, "because it has less frictional force." But that's why it doesn't matter, these two confounding
+effects exactly cancel. In other words, the more massive penguin does have more inertia,
+and has more friction. And the less massive
+penguin has lass inertia, but it has less friction, so
+the mass ends up canceling, and all penguins, no
+matter what their mass are, slide the same amount if they
+start with the same speed. And this also means that two cars, a really tiny Smart Car and a huge SUV, if they've got the same tires, they'll have the same
+coefficient of friction, and if they start with the same speed and slam on their brakes,
+they'll both skid to a stop in the same distance. Again, a lot of people would think that the really massive
+SUV has to slide farther, but that massive SUV that has more inertia also has more friction, so
+it stops in the same distance as the smaller Smart Car,
+that has less inertia, and less frictional force. So even though the
+coefficients of friction would be the same for both cars, the force of friction's going to be
+bigger for the larger car. Alright, so to wrap this up,
+let's do an example problem. Let's get rid of all this. Let's say Walter steps it up, he's going to the extreme games of
+sliding and he's going to slide down, starting
+at the top of this ramp, that's completely icy,
+this ramp has no friction. But Walter has no fear
+so he goes to the top, it's four meters tall, he starts at rest. Walter slides down, speeds up, but now he hits a patch that does have friction so Walter slides across this patch, over some distance, d,
+and then comes to a stop. And if we know Walter
+started four meters high, and the coefficient of friction
+along this path is 0.2, we could figure out what
+was the distance Walter slid on this horizontal surface
+before coming to a stop. So let's do this, we're going to use conservation of energy,
+same formula we did before, the initial energy of our system plus any external work
+done, that is to say, energy added to or
+subtracted from our system, has to equal the energy that
+we end up with in our system. Now what do we want to pick as our system? Personally, I like choosing
+everything that could get energy as part of my system. That way, I never really
+have to worry about any external work, because every
+force will just be internal. So let's choose Walter, the
+Earth, the ice, the snow, the incline, everything's
+going to be part of our system. And let's consider our initial point to be when Walter started at rest
+at the top of this incline. And our final point over here,
+where Walter slid to a stop. So what kind of energy
+does our system start with? Well Walter was up here, he was at rest, so he had no kinetic
+energy, but he did have gravitational potential
+energy, so that's m g h. And again, there was no external work done 'cause even though there
+was friction down here, I'm going to include this surface
+and Walter's feathery coat as part of our system, so
+there was no external work done but, there will be
+thermal energy generated, and it'll end up in our system. So the thermal energy
+generated is going to be the force of friction, times
+the distance that Walter slid across the surface that had friction, so I'm not going to include
+this surface right here, 'cause there was no friction there. I'm only including this
+distance right here. And we know that the force of friction is going to be the coefficient of friction times the normal force,
+and then we still multiply by the distance that Walter slid. And because Walter was sliding
+over a horizontal surface, the normal force on Walter
+is just going to be equal to the force of gravity on Walter. So we can say m g h is going to equal the coefficient of
+kinetic friction and then f n, we're going to replace with m g, since the normal force
+is just equal to m g. And I still multiply by d. Again, something miraculous happens, the m's end up canceling,
+Walter could have been 100 kilograms or 2 kilograms. Would have slid the same amount. Finally I can solve this for d. I'm going to say that d is going to equal g h, oh, actually. Turns out the g's cancel too! Could have done this on the
+moon, wouldn't have mattered. Even if the g, the
+gravitational acceleration, was different, Walter would
+still slide the same amount. So I'm just going to get that d equals h, and then I divide both sides by this coefficient of kinetic
+friction, and there's my result. It's really simple, in other words, h was four meters, and then I divide by the coefficient of
+friction, which was 0.2, and I get that Walter's
+going to slide 20 meters before coming to a stop. So recapping, when there's
+a force of friction acting on an object, you can
+use conservation of energy by treating that frictional surface as part of your system, in which case, you would include it as a
+thermal energy on the final side. Or, not including that surface
+as part of your system. In which case, you would
+include the same term with a negative sign as
+the external work done on your system, regardless of what you do, the thermal energy generated
+in such a situation is going to be the force of friction multiplied by the distance
+through which the object slides.

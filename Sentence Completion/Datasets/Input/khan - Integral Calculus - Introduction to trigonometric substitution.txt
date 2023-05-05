@@ -1,0 +1,53 @@
+- [Voiceover] Let's say
+that we want to evaluate this indefinite integral right over here. And you immediately say hey,
+you've got the square root of four mins X squared in the denominator, you could try to use substitution, but it really doesn't simplify this in any reasonable way. How do you tackle this? And an insight that you might have is well this thing, this square root
+of four minus X squared, this looks like something that I might get if I'm dealing with the
+Pythagorean theorem, if I'm solving for non-hypotenuse sides of the Pythagorean theorem, especially if the length of the hypotenuse is two, this would be two squared and then the other side is X, then two squared minus X squared, this would be the length
+of the other side. Well let's just run with that then. So, if we have, if we have a, and if any of you didn't
+feel that inside immediately, it's okay. Because to be honest, I
+actually did not feel that inside probably the first
+time I saw things like this. So let's say you have a right triangle. So let's just visualize that
+insight that we talked about. So if the hypotenuse of the
+right triangle is of length two, the hypotenuse is of length two, hypotenuse is of length two and let's say this side, right over here. Actually, let me do this side. Let's say this side... Actually, I'm gonna go with this side. This side right over here is of length X. This side right over here is of length X. It's a little counter
+intuitive, because normally we associate this side over here with Y, but let's just go with it. This side right over here is of length X. Then what would this
+side right over here be? What would this other
+non-hypotenuse length be? Well, just if you solve for it
+using the Pythagorean Theorem you get that it is going to be the square root of the hypotenuse squared, two squared, which is just four, minus the other side squared. so minus X squared. Well that's interesting,
+that is this expression that insight, that intuition that we may have had when we saw
+this right over here, but still, how does that help us? Well this is where the
+trigonometry comes in. Because if we define, if this angle right over here, we say this is theta, then what is sine and
+cosine of theta going to be in terms of these sides? Well let's see, the sine of theta, sine of theta is equal to the opposite over the hypotenuse. Is equal to X over two. Or if you want to solve for X, we get X is equal to two sine theta. Well that's interesting. What about the cosine of theta? Cosine of theta is equal
+to the adjacent side, square root of four minus X squared over the hypotenuse. Or if you want to solve for this side, it's going to be, we could say that the square root of four minus X squared is going to be equal to the hypotenuse times the cosine of theta. So that's interesting. If X is equal to two sine theta, then this other side, then
+this entire expression simplifies to two cosine theta. And that seems pretty interesting now. So let's make the substitution. Let's say that X is
+equal to two sine theta. And if X is equal to two sine theta, then DX is going to be equal to two cosine theta D theta. And then if we have X as
+equal to two sine theta, then what is this thing right over here? Well we just figured out, this thing is two cosine theta. This thing is equal to two, actually, let me do it
+in that orange color. Two cosine theta. This is equal to two cosine theta. And we were able to do this, drawing this right triangle and using the sohcahtoa definition
+of these trig functions, and obviously we could use units circle, that's kind of an extension of these. But you could also do it if you say hey, look you know, if
+this is two sine theta you could use the Pythagorean identity, our trigonometric identities and you would see that this entire expression, if you did it that way, would
+simplify to two cosine theta. But now let's just run forward and let's see if we can evaluate it using this substitution. So this is going to be
+the indefinite integral, so DX, so one times DX, that's going to be DX is two cosine theta D theta. So let me right that, that is two cosine theta D, I'll right the D theta out here, and then what's the denominator? Square root of four minus X squared? Well that's two cosine theta again. So that is two cosine theta. Well this seems to work out quite nicely. If you two cosine theta
+over two cosine theta, that's just going to be one. This simplifies. This simplifies to D theta, which is, if
+you just evaluate this, this is just going to be equal to theta plus C. Well, this is kind of nice,
+but we're still not done. We want our indefinite integral in terms of X. So now let's just solve for X here. So if X is two cosine theta, sorry, if X is two sine theta, so X is equal to two sine, X is equal to two sine theta, then let's see, divide both sides by two. X over two is equal to sine theta. And then if you want to solve for theta, theta's the angle that if
+you take the sine of it you get X over two. So we could say, let's give ourselves a
+little bit more real estate, that theta is equal to the inverse sine, the inverse sine of this thing, X over two. We could write it that way, or we could write that theta is equal to the arcsine. The arcsine of, the arcsine of X over two. So this is going to be equal to the, theta is arcsine of X over two, so let's just do that. Arcsine of X over two plus C. And we're done. We've just evaluated
+that indefinite integral. Now some of you might
+have noticed something. I kind of brushed past it really fast just to give you the big, to see the forest for the trees, but there's some interesting details and it's, I think, worth digging into a little bit over here. So the first one is,
+you might see that look the restriction on X here is, or the domain here on this expression is restricted. So let's just keep track of that to make sure that we
+didn't do anything strange when we did that substitution. So the domain here, X has to be X has to be greater than negative two and less than two. If the absolute value
+of X were equal to two, then you would have a
+zero in the denominator. If the absolute value of
+X is greater than two, then you're gonna have a
+negative in the denominator and that's not defined. So this right over here is the domain. So let's make sure that our substitution didn't do anything weird with that. So if X has to be between
+negative two and two, and we're saying X is two sine theta, that means two sine theta would have to be between negative two and two. So negative two would have to be less than two sine theta. Two sine theta. Which would have to be less than two. We could divide all the
+different parts of this compound inequality by two and you're gonna get negative
+one is less than sine theta. Is less than sine theta, which is less than one. And the way we can do that is if theta is less than pi over two. At pi over two, sine of
+theta would be equal to one. And if theta is greater
+than negative pi over two. So if we restrict it in this way, if we say theta is going to be in this range right over here, then we are restricting our
+domain in a reasonable way. And this works out well
+because this typically is the range for the arcsine function. So we could feel good about that. Now another question that you might have is okay well look, you know we divided by cosine of theta here, but that's okay as long as cosine of
+theta does not equal zero, 'cause you don't want a
+zero in the denominator. And the good thing about
+this restriction on theta is as long as theta is greater than negative pi over two and
+less than pi over two, cosine of theta is going to be, it's not going to be zero, and actually it's going to be positive. If negative pi over two or
+pi over two were allowed, then you would get a zero down here and we would have to think about restricting things in some other ways. So it looks like everything is cool. We dug a little deeper. We said, okay we haven't done anything strange to the domain or to, unrestricted it some strange way, and so we can feel, we can feel good about, we can feel good about this, about this, this answer that we've gotten.

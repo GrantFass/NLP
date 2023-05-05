@@ -1,0 +1,36 @@
+(rock music) - Hi, my name is Madison Maxey. I have a company called
+Loomia, and we focus on making smart fabrics for smart clothing and smart soft-good products. The sky's the limit when
+it comes to textiles. - My name is Danielle Applestone, and I'm CEO of Other Machine Copmany. We build a desktop milling machine. A milling machine takes
+a rotating cutting tool and moves it through material
+to create a 3-D object. - Under the hood, all computers do the same four basic things. They input information, store, and process the information, and
+then output information. Each of these things is done by a different part of the computer. There are input devices that
+take input from the outside world and convert it
+into binary information. There's memory to store this information. There's a central processing unit, or CPU, where all the calculations are done. And finally, there are output devices that take information and
+convert it into physical output. - [Danielle] Let's talk about input first. Computers can take many
+different types of input, like the keyboard of a computer,
+the touch pad of a phone, a camera, a microphone, or a GPS, but even the sensors
+on a car, a thermostat, or a drone are also
+different input devices. Now, let's look at a simple
+example of how input travels through a computer and becomes output. When you press a key on your keyboard, let's say the letter B, the keyboard converts the letter to a number. That number is sent as binary, ones and zeros, into the computer. Starting from this
+number, the CPU calculates how to display the
+letter B pixel-by-pixel. The CPU requests step-by-step
+instructions from memory, which tell it how to draw the letter B. The CPU runs these instructions and stores the results
+as pixels in memory. Finally, this pixel information is sent in binary to the screen. The screen is an output
+device, which converts the binary signals into the tiny lights and colors that make up what you see. - This all happens so quickly
+it feels instantaneous, but to display each letter,
+a computer runs thousands of instructions, starting from the moment your finger presses the keyboard. - In that example, the
+output device was the screen, but there are many
+different types of output, which take a binary
+signal from the computer and do something in the physical world. For example, a speaker will play sound and a 3-D printer will print an object. Output devices can also
+control physical motion, like a robotic arm, the motor
+of a car, or the cutting tool of the milling machine
+that my company makes. New types of inputs and
+outputs let computers interact with the world
+in entirely new ways. This has been helped out by improvements to the speed and size
+of the memory and CPU. The more complicated
+a task is and the more information that's input or
+output, the more processing power and memory a computer needs. Typing letters on a screen may be easy, but to do complicated
+3-D graphics or record a high-definition movie, modern computers often have multiple CPUs to
+process all that information, and many gigabits of memory to store it. - No matter what it is you
+want to do with a computer, every single action is about inputting information from the physical world, storing and processing that information, and getting some output back
+into the physical world.

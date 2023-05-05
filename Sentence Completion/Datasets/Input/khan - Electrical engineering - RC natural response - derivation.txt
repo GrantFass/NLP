@@ -1,0 +1,83 @@
+- [Voiceover] Now what I want
+to to do for the RC circuit is a formal derivation of exactly what these two curves look like. And then we'll have a
+precise definition of the natural response. What I want to do now is
+draw our circuit again. There's R, there's C. And we have some initial voltage, we said, on the capacitor, which is V naught. And what we want to find is V of T. And there's R, and there's C. So let me also label the
+currents in these guys. This is the current in the resistor, and this is the current in the capacitor. So now I'm gonna write
+the two voltage current relationships for these two components. And Ohm's Law tells me
+that equals one over R times V. And the current in a
+capacitor, this is iR, current in a capacitor
+equals C times dv, dt. That's the two currents in our devices. Now, gonna use Kirchhoff's
+Current Law on this node right here, and that says
+that all the currents flying out of that node
+have to add up to zero. So let's do that. Let's say iC plus iR equals zero. This is KCL, Kirchhoff's Current Law. C dv, dt, plus one over
+R, times V, equals zero. Now I'm just gonna divide through by C just to be tidy. Dv, dt plus one over RC,
+times V, equals zero. So what we have here,
+this expression here is referred to as an ordinary
+differential equation. It has a derivative in it,
+and that's what makes it a differential equation,
+and you can go look up ODE and search for this in
+Khan Academy and elsewhere and in the mathematical
+videos, you'll find out different ways to solve this equation. Now we're gonna do the same thing here, and we're gonna try to find
+an expression for V of t. We're gonna define V of
+t in a way that makes this equation true. So we plug the function
+in here, whatever it is, and then we take its derivative
+and plug that in here and that has to make this
+whole expression true. There's a couple of different
+ways to do this, and the one that we're gonna use
+here is we're gonna guess at an answer. So what we need is, we need
+a function whose derivative looks kind of like
+itself, because this thing has to add up to zero. So that means that the function
+V and the function dv, dt they have to be of the
+same form so that they have a chance of adding up to zero. The function that I know
+whose derivative looks like itself is the exponential. So we're gonna propose that
+there's gonna be an exponential and the way we do it is say,
+we'll put in some constant here that we can adjust,
+and then we'll put some constant out here. So this is our guess. Our guess is gonna be that
+the solution for V of t is gonna be something of
+the form, some constant times e to another constant, s, times t. The way we test our guess
+is to put it back into the equation and see if it works. And if it does, then we made a good guess. If it doesn't work,
+then we have to go back and try something else. So one of the things we
+need, we're gonna plug v of t in right here. We're gonna need derivative
+of v with respect to time. So let's take a derivative here. Equals d dt of k, e to the st. And that equals K, and the S comes down. And e to the st remains. So we just took the derivative
+of our proposed solution and now we're gonna plug
+it into the equation and see what happens. So now I'm gonna plug in
+the derivative that we had, plus the proposed solution,
+and see if our equation comes out true. So dv, dt is sk, e to the st, plus one over RC stays here. And we plug in V, and V was ke to the st. And that'll all equal zero. Now I'm gonna factor out,
+here's the common term for each one of these, so
+we'll just factor that out. So now we get ke to the st,
+times S plus one over RC equals zero. Okay, now let's take
+a little peek at this. We have to make this
+zero by the way we pick K and S. How can we make this zero? There's three terms in
+here, there's three terms in the product. There's this, this, and that. Any three of these terms could be zero. The first one, K is
+zero, that's a boring one because it says if we have
+a circuit with no energy it sits there with no energy. So that's not so interesting. Now, e to the st, we
+can make that go to zero but that takes a long time
+because we have to let t go to infinity. S would have to be a negative
+number, and t would have to go to infinity, which
+is a long time to wait for something to happen,
+so that's not a very interesting solution either. So here's the interesting one. The interesting one is
+when S plus RC equals zero so the interesting solution
+is S plus one over RC equals zero, and that says that
+S equals minus one over RC. That makes this solution true. And if that's the case,
+now we can say v of t, we're making good progress here, k, some k, times e to the minus t over RC. Now something really
+interesting just happened here. Look up here where we
+have this RC term here. See this right here? This whole exponent has to
+have no units by the time we evaluate it. That means that RC has
+to have units of time. RC is a measure, it's in seconds. RC is the units of R times
+C, ohms times farads, is actually seconds. This whole exponent has to
+have no units by the time we evaluate it. And that means that RC
+has to have units of time. And it's actually ohms times farads, comes out to be seconds. Now we solve for S, and that means we only have to find K. Let's work on K now. K is a variable here, time is a variable, and voltage is a variable. If we knew V and T at
+the same time, we would be able to figure out K. And there's a time when we do know that. And that is t equals zero. At t equals zero we know that
+the battery was hooked up and there's a bunch of
+charge on the capacitor so we know that the
+voltage on the capacitor at time zero, is equal to V naught. So now we have a pair of variables here. We know v and t at the same time, so let's plug that into our
+proposed solution and see how k pops up. So we're gonna put these two
+into our proposed solution and see what happens to k. V, at time equals zero,
+is V naught, and that's equal to k times e to
+the minus t, minus zero at time zero, over RC. Now this whole expression
+is e to the zero, or one. So it drops out of the expression and all we get is k equals V naught. K is the starting
+voltage on the capacitor. And that gives us to our
+final answer, which is v of t equals V naught, starting voltage, e to the minus time over RC. We can go one small step
+further and find out what is i of t. Well, i of t is equal to v of t over R, that's just Ohm's Law, and so i of t equals V naught over R,
+e to the minus t over RC. That is the natural
+response of an RC circuit.

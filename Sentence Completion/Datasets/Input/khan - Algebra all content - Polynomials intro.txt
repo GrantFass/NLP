@@ -1,0 +1,82 @@
+- [Sal] Let's explore the
+notion of a polynomial. This seems like a very complicated word, but if you break it down
+it'll start to make sense, especially when we start to
+see examples of polynomials. The first part of this word, lemme underline it, we have poly. This comes from Greek, for many. You see poly a lot in
+the English language, referring to the notion
+of many of something. In this case, it's many nomials. Nomial comes from Latin, from
+the Latin nomen, for name. You could view this as many names. But in a mathematical context, it's really referring to many terms. We're gonna talk, in a little bit, about what a term really is. But to get a tangible sense
+of what are polynomials and what are not polynomials,
+lemme give you some examples. And then we could write some, maybe, more formal rules for them. So, an example of a polynomial could be 10x to the seventh power
+minus nine x squared plus 15x to the third plus nine. This is a polynomial. Another example of a polynomial. Nine a squared minus five. Even if I just have one number, even if I were to just
+write the number six, that can officially be
+considered a polynomial. If I were to write seven
+x squared minus three. Lemme do it another variable. Seven y squared minus three y plus pi, that, too, would be a polynomial. These are examples of polynomials. What are examples of things
+that are not polynomials? Well, if I were to
+replace the seventh power right over here with a
+negative seven power. If I were to write 10x to
+the negative seven power minus nine x squared plus 15x
+to the third power plus nine, this would not be a polynomial. So I think you might
+be sensing a rule here for what makes something a polynomial. You have to have nonnegative powers of your variable in each of the terms. I just used that word,
+terms, so lemme explain it, 'cause it'll help me explain
+what a polynomial is. A polynomial is something that
+is made up of a sum of terms. And so, for example, in
+this first polynomial, the first term is 10x to the seventh; the second term is
+negative nine x squared; the next term is 15x to the third; and then the last term, maybe you could say the
+fourth term, is nine. You can see something. Let me underline these. These are all terms. This is a four-term
+polynomial right over here. You could say: "Hey, wait,
+this thing you wrote in red, "this also has four terms." We have to put a few more rules for it to officially be a polynomial, especially a polynomial in one variable. Each of those terms are going to be made up of a coefficient. This is the thing that multiplies the variable to some power. So in this first term
+the coefficient is 10. Lemme write this word down, coefficient. It's another fancy word,
+but it's just a thing that's multiplied, in this case, times the variable, which
+is x to seventh power. The first coefficient is 10. The next coefficient. Actually, lemme be careful here, because the second coefficient
+here is negative nine. We are looking at coefficients. The third coefficient here is 15. You can view this fourth
+term, or this fourth number, as the coefficient because
+this could be rewritten as, instead of just writing as nine, you could write it as
+nine x to the zero power. And then it looks a little bit
+clearer, like a coefficient. So, in general, a polynomial is the sum of a finite number of
+terms where each term has a coefficient, which I could represent with the letter A, being
+multiplied by a variable being raised to a
+nonnegative integer power. So, this right over here is a coefficient. It can be, if we're dealing... Well, I don't wanna get too technical. Positive, negative number. Could be any real number. We have our variable. And then the exponent,
+here, has to be nonnegative. Nonnegative integer. So here, the reason
+why what I wrote in red is not a polynomial is because here I have an exponent that is a negative integer. Let's give some other examples of things that are not polynomials. So, if I were to change the second one to, instead of nine a squared, if I wrote it as nine a to
+the one half power minus five, this is not a polynomial
+because this exponent right over here, it is
+no longer an integer; it's one half. This is the same thing as nine times the square root of a minus five. This also would not be a polynomial. Or, if I were to write nine
+a to the a power minus five, also not a polynomial
+because here the exponent is a variable; it's not
+a nonnegative integer. All of these are examples of polynomials. There's a few more pieces of terminology that are valuable to know. Polynomial is a general term
+for one of these expression that has multiple terms, a finite number, so not an infinite number, and each of the terms has this form. But there's more specific terms for when you have only one term or
+two terms or three terms. When you have one term,
+it's called a monomial. This is a monomial. This is an example of a monomial, which we could write as six x to the zero. Another example of a monomial might be 10z to the 15th power. That's also a monomial. Your coefficient could be pi. Pi. Whoops. Could be pi. So we could write pi times
+b to the fifth power. Any of these would be monomials. So what's a binomial? Binomial's where you have two terms. Monomial, mono for one, one term. Binomial is you have two terms. This right over here is a binomial. Binomial. You have two terms. All these are polynomials but
+these are subclassifications. It's a binomial; you have one, two terms. Another example of a binomial would be three y to the third plus five y. Once again, you have two terms that have this form right over here. You'll also hear the term trinomial. Trinomial's when you have three terms. Trinomial. This right over here is an example. This is the first term; this is the second term; and this is the third term. Now, the next word that
+you will hear often in the context with
+polynomials is the notion of the degree of a polynomial. You might hear people say: "What is the degree of a polynomial?", or "What is the degree of a
+given term of a polynomial?" Let's start with the
+degree of a given term. Let's go to this polynomial here. We have this first term,
+10x to the seventh. The degree is the power that
+we're raising the variable to. So this is a seventh-degree term. The second term is a second-degree term. The third term is a third-degree term. And you could view this constant term, which is really just nine,
+you could view that as, sometimes people say the constant term. Sometimes people will
+say the zero-degree term. If people are talking about the degree of the entire polynomial,
+they're gonna say: "What is the degree of the highest term? "What is the term with
+the highest degree?" That degree will be the degree
+of the entire polynomial. So, this first polynomial, this is a seventh-degree polynomial. This one right over here is
+a second-degree polynomial because it has a second-degree term and that's the highest-degree term. This right over here is a third-degree. You could even say third-degree binomial because its highest-degree
+term has degree three. If this said five y to the
+seventh instead of five y, then it would be a
+seventh-degree binomial. This right over here is
+a 15th-degree monomial. This is a second-degree trinomial. A few more things I will introduce you to is the idea of a leading term
+and a leading coefficient. Lemme write this down. The notion of what it means to be leading. It can mean whatever is the
+first term or the coefficient. If you're saying leading
+term, it's the first term. If you're saying leading coefficient, it's the coefficient in the first term. But it's oftentimes associated with a polynomial being
+written in standard form. Standard form. Standard form is where you write the
+terms in degree order, starting with the highest-degree term. So, for example, what I have up here, this is not in standard form; because I do have the
+highest-degree term first, but then I should go to the next highest, which is the x to the third. But here I wrote x squared
+next, so this is not standard. If I wanted to write it in standard form, it would be 10x to the seventh power, which is the highest-degree
+term, has degree seven. Then, 15x to the third. So, plus 15x to the third, which
+is the next highest degree. Then, negative nine x squared is the next highest degree term. And then, the lowest-degree
+term here is plus nine, or plus nine x to zero. Now this is in standard form. I have written the terms in
+order of decreasing degree, with the highest degree first. Here, it's clear that your leading term is 10x to the seventh,
+'cause it's the first one, and our leading coefficient
+here is the number 10. So, there was a lot in that video, but hopefully the notion of a polynomial isn't seeming too
+intimidating at this point. These are really useful
+words to be familiar with as you continue on on your math journey.

@@ -1,0 +1,29 @@
+- So far, in this lesson, we've learned how to model curves in two dimensions. And, now, it's time to go
+back to the real problem that we wanna address:
+how to model the fun part, characters, using surfaces
+in three dimensions. And that is where
+subdivision really shines. The same ideas of splitting and averaging still apply
+in three dimensions. And that means that
+subdivision applies as well. For example, suppose
+that I start with a cube. I can look at the cube
+from different angles by clicking on the
+background and dragging. The splitting step is a little bit more complicated than for curves. In addition to adding new
+midpoints of edges, like this one, I also need to add midpoints
+of the facets, like this one. Midpoints of facets are computed by averaging all of the coordinates of the control points
+surrounding that facet. For instance, this midpoint is computed as the average of these four points. And this one, is the average
+of these four points. The averaging step is a
+little bit more complicated than the curve case, too. Each point is, again,
+repositioned using averaging, but, now, it isn't a straight average. We need to use the weighted
+average of all of the points next to the one that we are repositioning. We'll talk more about weighted
+averages in the next lesson. And, just like the curves, we can combine split and average into
+a subdivide operation. And, if we subdivide it enough times, the shape becomes a smooth surface. Now, let's try this on a doughnut shape. Subdividing once gives me this. Subdividing again gives me that. In practice, we subdivide
+as many times as we need to, to create a smooth image. Subdivision was first used to create the character named Geri, from the short film called "Geri's game". Here's Geri's hand before the subdivision. And here it is after subdivision. Since "Geri's game",
+we've used subdivision to create practically
+all of our characters. We even used subdivision for
+things besides characters, like the buildings in "The Incredibles", because subdivision surfaces
+are so easy for artists to use. Next up, we have a simplified 3D program for you to play with. Really. Go play! Try anything and everything
+you can think of. You can't break it and
+you can always restart. Once you start to feel comfortable with how the subdivision
+operation behaves, move on and we'll try the final exercise. After that, you can check
+out the next lesson, which goes a bit deeper into
+the mathematics of subdivision. Go do something awesome!

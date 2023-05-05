@@ -1,0 +1,40 @@
+Construct a circle
+circumscribing the triangle. So that would be a circle that
+touches the vertices, the three vertices of this triangle. So we can construct it using
+a compass and a straight edge, or a virtual compass and
+a virtual straight edge. So what we want to do is center
+the circle at the perpendicular bisectors of the sides,
+or sometimes that's called the circumcenter
+of this triangle. So let's do that. And so let's think
+about-- let's try to construct where
+the perpendicular bisectors of the sides are. So let me put a
+circle right over here whose radius is longer than
+this side right over here. Now let me get one
+that has the same size. So let me make it the same
+size as the one I just did. And let me put it
+right over here. And this allows us to construct
+a perpendicular bisector. If I go through that point and
+this point right over here, this bisects this
+side over here, and it's at a right angle. So now let's do that
+for the other sides. So if I move this over
+here-- and I really just have to do it for one
+of the other sides, because the intersection
+of two lines is going to give me a point. So I can do it for this
+side right over here. Let me scroll down so you
+can see a little bit clearer. So let me add another
+straight edge right over here. So I'm going to go
+through that point, and I'm going to go
+through this point. So that's the
+perpendicular bisector of this side right over here. And I could do the
+third side and it should intersect at that point. I'm not ultra, ultra precise,
+but I'm close enough. And now I just have to
+center one of these circles. Let me move one of these away. So let me just get
+rid of this one. And I just have to move this
+circle to the circumcenter and adjust its radius so that
+it gets pretty close to touching the three sides, the three
+vertices of this triangle. It doesn't have to be perfect. I think this exercise has
+some margin for error. But they really want
+to see that you've made an attempt at
+drawing the perpendicular bisectors of the sides,
+to find the circumcenter, and then you put a
+circle right over there.

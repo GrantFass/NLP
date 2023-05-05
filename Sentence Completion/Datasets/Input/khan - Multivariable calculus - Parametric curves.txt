@@ -1,0 +1,42 @@
+- [Voiceover] More
+function visualizations. So let's say you have a function that's got a single input t. And then it outputs a vector. And the vector's gonna depend on t. So the x component will be
+t times the cosine of t. And then the y component will
+be t times the sine of t. This is what's called
+a parametric function. And I should maybe say
+one-parameter parametric function. One parameter. And "parameter" is just kind
+of a fancy word for input. Parameter. So in this case, t is
+our single parameter. And what makes it a parametric function is that we think about
+it as drawing a curve and its output is multidimensional. So you might think, when you
+visualize something like this, ah, it's got, you know, a single input. And it's got a two-dimensional output. Let's graph it. You know, put those three
+numbers together and plot them. But what turns out to be even better is to look just in the output space. So in this case, the output
+space is two-dimensional. So I'll go ahead and draw
+a coordinate plane here. And let's just evaluate this function at a couple different points and see what it looks like, okay. So I might, maybe the easiest place to evaluate it would be zero. So f of zero is equal to, and then, in both cases,
+it'll be zero times something. So zero times cosine of zero is just zero. And then zero times sine
+of zero is also just zero. So that input corresponds to the output. You could think of it as a
+vector that's infinitely small or just the point at the origin, however you want to go about it. So let's take a different point, just to see what else could happen. And I'm gonna choose pi halves. Of course, the reason
+I'm choosing pi halves, of all numbers, is that
+it's something I know how to take the sine and the cosine of. So t is pi halves, cosine of pi halves. And you start thinking, okay, what's the cosine of pi halves? What's the sine of pi halves? And maybe you go off and
+draw a little unit circle while you're writing things out. Whoops. See the problem with
+talking while writing. Sine of pi halves. And you know it's, if you go off and scribble
+that little unit circle. And you say pi halves is gonna bring us a quarter of the way around. Over here. And cosine of pi halves is measuring the x component of that. So that just cancels out to zero. And then sine of pi halves is the y component of that. So that ends up equaling one. Which means that the vector as a whole is gonna be zero for the x component and then pi halves for the y component. And what that would look like, you know, the y component of pi halves is about 1.7 up there. There's no x component. So you might get a vector like this. And if you imagine doing this at all the different input points, you might get a bunch of different vectors off doing different things. And if you were to draw it, you don't want to just
+draw the arrows themselves. Because that'll clutter
+things a whole bunch. So we just want to trace the points that correspond to the output,
+the tips of each vector. And what I'll do here, I'll
+show a little animation. Let me just clear the board a bit. An animation where I'll let t range between zero and 10. So let's write that down. So the value t is gonna start at zero. And then it's gonna go to 10. And we'll just see what values, what vectors does that output. And what curve does the tip
+of that vector trace out? So there it goes. All of the values just kind
+of ranging, zero to 10. And you end up getting this spiral shape. And you can maybe think about why this cosine of t, sine of t
+scaled by the value t itself would give you this spiral. But what it means is that when you, you know, we saw that zero goes here. Evidently, it's the case
+that 10 outputs here. And a disadvantage of
+drawing things like this, you're not quite sure of
+what the interim values are. You know, you could kind of guess. Maybe one goes somewhere here. Two goes somewhere here. And you're kind of hoping
+that they're evenly spaced as you move along. But you don't get that information. You lose the input information. You get the shape of the curve. And if you just want, you know, an analytical way of describing curves, you find some parametric
+function that does it. And you don't really care about the rate. But just to show where it might matter, I'll animate the same thing again, another function that
+draws the same curve. But it starts going really quickly. And then it slows down as you go on. So that function is not quite
+the t cosine t, t sine of t that I originally had written. And in fact, it would mean that, let's just erase these guys. When it starts slowly, you can interpret that
+as saying, okay maybe... Well, actually, it started
+quickly, didn't it? So one would be really far off here. And then two, we kind
+of zipped along here. And three, you know,
+still going really fast. And then maybe by the
+time you get to the end, it's just going very slowly, just kind of seven is here, eight is here, and it's hardly making any
+progress before it gets to 10. So you can have two different functions draw the same curve. And the fancy word here is "parameterize." So functions will parameterize a curve if, when you draw just
+in the output space, you get that curve. And in the next video, I'll show how you can have functions with a two-dimensional input and a three-dimensional output draw surfaces in three-dimensional space.

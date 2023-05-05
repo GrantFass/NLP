@@ -1,0 +1,115 @@
+We're now going to learn a
+little bit about gravity. And just so you know, gravity is
+something that, especially in introductory physics or
+even reasonably advanced physics, we can learn how to
+calculate it, we can learn how to realize what are the
+important variables in it, but it's something that's really
+not well understood. Even once you learn general
+relativity, if you do get there, I have to say, you can
+kind of say, oh, well, it's the warping of space time and
+all of this, but it's hard to get an intuition of why two
+objects, just because they have this thing called
+mass, they are attracted to each other. It's really, at least to me,
+a little bit mystical. But with that said, let's learn
+to deal with gravity. And we'll do that learning
+Newton's Law of Gravity, and this works for most purposes. So Newton's Law of Gravity says
+that the force between two masses, and that's the
+gravitational force, is equal to the gravitational constant G
+times the mass of the first object times the mass of the
+second object divided by the distance between the two
+objects squared. So that's simple enough. So let's play around with this,
+and see if we can get some results that look
+reasonably familiar to us. So let's use this formula
+to figure out what the acceleration, the gravitational
+acceleration, is at the surface of the Earth. So let's draw the Earth,
+just so we know what we're talking about. So that's my Earth. And let's say we want to figure
+out the gravitational acceleration on Sal. That's me. And so how do we apply this
+equation to figure out how much I'm accelerating down
+towards the center of Earth or the Earth's center of mass? The force is equal to-- so
+what's this big G thing? The G is the universal
+gravitational constant. Although, as far as I know, and
+I'm not an expert on this, I actually think its measurement
+can change. It's not truly, truly a
+constant, or I guess when on different scales, it can be
+a little bit different. But for our purposes, it is a
+constant, and the constant in most physics classes, is this:
+6.67 times 10 to the negative 11th meters cubed per kilogram
+seconds squared. I know these units are crazy,
+but all you have to realize is these are just the units needed,
+that when you multiply it times a mass and a mass
+divided by a distance squared, you get Newtons, or kilogram
+meters per second squared. So we won't worry so much about
+the units right now. Just realize that you're going
+to have to work with meters in kilograms seconds. So let's just write
+that number down. I'll change colors to
+keep it interesting. 6.67 times 10 to the negative
+11th, and we want to know the acceleration on Sal, so
+m1 is the mass of Sal. And I don't feel like revealing
+my mass in this video, so I'll just leave
+it as a variable. And then what's the mass 2? It's the mass of Earth. And I wrote that here. I looked it up on Wikipedia. This is the mass of Earth. So I multiply it times the
+mass of Earth, times 5.97 times 10 to the 24th kilograms--
+weighs a little bit, not weighs, is a little
+bit more massive than Sal-- divided by the distance
+squared. Now, you might say, well, what's
+the distance between someone standing on the
+Earth and the Earth? Well, it's zero because they're
+touching the Earth. But it's important to realize
+that the distance between the two objects, especially when
+we're talking about the universal law of gravitation, is
+the distance between their center of masses. For all general purposes, my
+center of mass, maybe it's like three feet above
+the ground, because I'm not that tall. It's probably a little bit lower
+than that, actually. Anyway, my center of mass might
+be three feet above the ground, and where's Earth's
+center of mass? Well, it's at the center of
+Earth, so we have to know the radius of Earth, right? So the radius of Earth is--
+I also looked it up on Wikipedia-- 6,371 kilometers. How many meters is that? It's 6 million meters, right? And then, you know, the extra
+meter to get to my center of mass, we can ignore for now,
+because it would be .001, so we'll ignore that for now. So it's 6-- and soon. I'll write it in scientific
+notation since everything else is in scientific notation--
+6.371 times 10 to the sixth meters, right? 6,000 kilometers is
+6 million meters. So let's write that down. So the distance is going
+to be 6.37 times 10 to the sixth meters. We have to square that. Remember, it's distance
+squared. So let's see if we can simplify
+this a little bit. Let's just multiply those top
+numbers first. Force is equal to-- let's bring the
+variable out. Mass of Sal times-- let's
+do this top part. So we have 6.67 times 5.97
+is equal to 39.82. And I just multiplied this times
+this, so now I have to multiply the 10's. So 10 to the negative 11th times
+10 to the negative 24th. We can just add the exponents. They have the same base. So what's 24 minus 11? It's 10 to the 13th, right? And then what does the
+denominator look like? It's going to be the 6.37
+squared times 10 to the sixth squared. So it's going to be-- whatever
+this is is going to be like 37 or something-- times-- what's
+10 to the sixth squared? It's 10 to the 12th, right? 10 to the 12th. So let's figure out what
+6.37 squared is. This little calculator I have
+doesn't have squared, so I have to-- so it's 40.58. And so simplifying it, the force
+is equal to the mass of Sal times-- let's divide, 39.82
+divided by 40.58 is equal to 9.81. That's just this divided
+by this. And then 10 to the 13th divided
+by 10 to the 12th. Actually no, this isn't 9.81. Sorry, it's 0.981. 0.981, and then 10 to the 13th
+divided by 10 to the 12th is just 10, right? 10 to the first, times 10,
+so what's 0.981 times 10? Well, the force is equal to 9.81
+times the mass of Sal. And where does this get us? How can we figure out the
+acceleration right now? Well, force is just mass times
+acceleration, right? So that's also going to just be
+equal to the acceleration of gravity-- that's supposed to
+be a small g there-- times the mass of Sal, right? So we know the gravitational
+force is 9.81 times the mass of Sal, and we also know that
+that's the same thing as the acceleration of gravity
+times the mass of Sal. We can divide both sides by the
+mass of Sal, and we have the acceleration of gravity. And if we had used the units the
+whole way, you would have seen that it is kilograms meters
+per second squared. And we have just shown that, at
+least based on the numbers that they've given in Wikipedia,
+the acceleration of gravity on the surface of the
+Earth is almost exactly what we've been using in all the
+projectile motion problems. It's 9.8 meters per
+second squared. That's exciting. So let's do another quick
+problem with gravity, because I've got two minutes. Let's say there's another
+planet called the planet Small Earth. And let's say the radius of
+Small Earth is equal to 1/2 the radius of Earth and the mass
+of Small Earth is equal to 1/2 the mass of Earth. So what's the pull of gravity
+on any object, say same object, on this? How much smaller would
+it be on this planet? Well, actually let me save
+that to the next video, because I hate being rushed. So I'll see you

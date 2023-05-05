@@ -1,0 +1,176 @@
+A couple of videos ago, we
+learned that if we started with solid water or ice at a
+reasonably low temperature-- maybe this temperature
+right here is minus 10 degrees Celsius. And we can deal with Celsius
+when we're dealing with these phase changes, because we really
+just care about the difference in temperature, and
+not necessarily the absolute temperature. So one degree in Celsius is the
+same thing is one degree in Kelvin so the differences
+are the same whether you're dealing with Celsius
+or Kelvin. So we're starting with minus
+10 degree Celsius ice or solid water. And we learned that as you heat
+it up, as you add heat energy to the water, the
+temperature goes up. The molecules, at least while
+they're in that ice lattice network, they just
+start vibrating. And their average kinetic energy
+goes up until we get to zero degrees. Which is the melting
+point of water. And at zero degrees, we already
+learned something interesting happens. The added heat in the system
+does not increase the temperature of the
+ice anymore. At least over that little
+period right here. What's happening is that heat
+energy is being used to kind of break the lattice
+structure. To add potential energy
+to the ice. Or essentially melt it. So for it here, right
+here, we're ice. Right at this point, we're
+zero degree ice. And then as we add more and
+more heat we get to zero degree water. So at zero degrees, you can
+either have water or ice. And if you have water, to turn
+it into ice, you have to take heat out of it. And if you have ice, and you
+want to turn it into water, you have to put heat into it. And then the heat is used
+again to warm up the water at some rate. And then at 100 degrees, which
+is the boiling point of water, right here, a similar phase
+change happens. Where the increased heat is
+not used to increase the temperature of the water, it's
+used to put potential energy into the system. So the water molecules are
+forced away from each other. The same way that if I'm forced
+away from the planet Earth, I have potential
+energy because I can fall back to the earth. Similarly, they have the
+potential energy of falling back to each other. But this energy, right here
+is the energy necessary to vaporize the water. Right here you have 100 degree
+water, 100 degree liquid. And here you have 100 degree
+vapor, water vapor. And then as you add more and
+more heat, once again it increases the temperature. But you, Sal, I already learned
+this a few videos ago, I have the intuition. But I want to deal with
+real numbers. I want to know exactly how
+much heat is required for these different things
+to happen. And for that, we can
+get these numbers. And these are specific to the
+different states of water. If you looked up any other
+element or molecule, you would have different values for these
+numbers we're going to be dealing with right now. But this first number right here
+is the heat of fusion. And this is the amount of heat
+that's required to fuse 100 degree water into
+100 degree ice. Or the amount of energy you have
+to take out of the water. So this distance right
+here, or along this axis, is 333 joules. If you're going in the the
+leftward direction, you have to take that much out of the
+system to turn into ice. If you're going in the rightward
+direction, you have to add that much to
+turn into water. So heat of fusion. It's called the heat of fusion
+because when you fuse something together you
+make it solid. So it could also be considered
+the heat of melting. Just two different words for the
+same, thing depending on what direction you going. The important thing is
+the number, 333. Similarly, you have the
+heat of vaporization. 2257 joules per gram. That's this distance along
+this axis right here. So if you had one gram of 100
+degree liquid water and you wanted to turn it into
+one gram of 100 degree liquid vapor. And in all of this, we're
+assuming that nothing silly is happening to the pressure,
+that we're under constant pressure. You would have to put 2257
+joules into the system. If you had 100 degree vapor and
+you wanted to condense it, you would have to take that much
+energy out of the system. OK, fine, you know how much
+energy is required for the phase changes. But what about these
+parts right here? How much energy is required to
+warm up a gram of ice by one degree Celsius or Kelvin? And for that we look at
+the specific heat. It takes 2 joules of
+energy to warm up 1 gram 1 degree Kelvin. When water is in the
+solid state. When it's in the liquid state,
+it takes about double that. It takes about 4 joules
+per gram to raise it 1 degree Kelvin. And when you're in the vapor
+state, it's actually more similar to the solid state. So given what we know now, we
+can actually figure out how much energy it would take to go
+from minus 10 degree ice to 110 degree vapor. Let's work this out. So the first thing we're going
+to be doing is, we're going to be going from minus 10 degree
+ice to zero degree ice. So we're going to
+go 10 degrees. We have to figure out how much
+heat does it take to warm up ice by 10 degrees. So the heat is going to be
+equal to the change in temperature. So actually let me write the
+specific heat first. So 2.05 joules per gram Kelvin. Oh, and I should tell you, we
+can't different values for the amount of ice we're warming up
+to vapor, so let's say we're dealing with 200 grams. So it'll be the specific heat
+times the number of grams we're warming up of ice times
+the change in temperature that we're trying to get. So, times 10 degrees Kelvin. Le'ts just say it's a 10 degrees
+Kelvin change, it doesn't matter if we're using
+Kelvin or Celsius. I could have written
+a Celsius here. Let's put Celsius right there. So what is that equal to? Get the calculator. Clear it out. 2.05 times 200 times times 10
+is equal to 4,100 joules. Let me do this in a
+different color. This is 4,100 joules. Fair enough. Now, so what we've done is just
+this part right here. This distance right here
+is 4,100 joules. Now we have to turn that
+zero degree ice into zero degree water. And for that we use the
+heat of fusion. We're adding that
+amount of heat. It's 333.5 joules per gram. So that's equal to 335.55 joules
+per gram times, we have 200 grams of ice that we're
+trying to melt. So that is what? So let me get the
+calculator out. So I have 335.55 times 200
+is equal to 67,110. Let me do it in that color so
+can sum them up at the end. 67,110 joules to
+melt the water. Or take it from ice to water. Now, we have to go from, and
+this is the big one. We have to go from zero degree
+water to 100 degree water. Or liquid water. This is in the liquid state. So now we take the specific heat
+of water which was 4.178. For some reason I'm thinking
+it's 4.176 but it doesn't matter. So it's 4.178. I might off a little bit on that
+number, but that digit is not that significant. Joules per gram Celsius
+times 200 grams times 100 degrees Celsius. And notice, the Celsius and
+the Celsius cancel out. The grams and the grams
+cancel out. So we are left with joules,
+which is what we want. We want to know how much heat
+or how much energy we're adding to the system. Let me get the calculator out. So this stage is going to be
+4.178 times 200 times 100 is equal to 83,560 joules. Does that look about right? Let's see. 4 times 200 is 800, 800 times
+100; yeah, that's about right. Now, we're dealing with 100
+degree water vapor, and we have to turn that 100
+degree water vapor to 110 degree vapor. So we use the specific
+heat of vapor. 1.89 joules per gram Kelvin. Multiplied by the amount of
+vapor we're dealing with, 200 grams. That obviously
+doesn't change. We're not adding or taking away
+mass from the system. Times the temperature
+change, times 10. So what is that? Let me get the calculator
+out again. So we're dealing with
+a 10 degree change. 10 degree Celsius times 200
+times 1.89 is equal to 3,780. And I just realized, I made
+a horrible mistake. It's not an irrevocable mistake,
+otherwise I would rerecord the video. But I just figured out the
+amount of energy to take it from zero degree water to 100
+degree water, which is this energy right here. And now I just calculated how
+much energy to go from 100 degree vapor to 110
+degree vapor. Which is this right here, that
+distance right here. I forgot to figure out how much
+energy to turn that 100 degree water into 100
+degree vapor. So that's key. So I really should have done
+that up here before I calculated the vapor. But I'll do it down here. So to do 100 degree water
+to 100 degree vapor. That's this step right here,
+this is the phase change. I multiply the heat of
+vaporization, which is 2,257 joules per gram times
+200 grams. And this is equal to 451,400. I'll do it in that blue color. 451,400 joules. So this piece right here is
+451,000 for our sample of 200 grams. This piece right here
+was 83,000 joules. This piece right here
+was 3,780 joules. So to know the total amount of
+energy, the total amount of heat that we had to put in the
+system to go from minus 10 degree ice all the way to 110
+degree vapor, we just add up all of the energies we had to
+do in all of these steps. Let's see. And I'll do them in
+order this time. So to go from minus 10 degree
+ice to zero degree ice. Of course we have
+200 grams of it. It was 4,100. Plus the 67,000. I'm just doing this
+off the screen. So plus 67,110. Plus 83,000. That's to go from zero degree
+water to 100 degree water. Plus 83,560. So we're at 154,000 right
+now just to get to 100 degree water. And then we need to turn that
+100 degree water into 100 degree vapor. So you add the 451,000. So, plus 451,400 is
+equal to 606. And then finally, we're at 100
+degree vapor, and we want to convert that to 110
+degree vapor. So it's another 3,700 joules. So plus 3,780 is equal
+to 609,950 joules. So this whole thing when we're
+dealing with 200 grams, when you're going from
+minus 10 to 110. And remember, this is
+for 200 grams. It took us 609,950 joules. Or 609 kilojoules to do this. So that by itself is an
+interesting thing. You might think, wow, this
+is a huge number. But actually, it turns out
+joules isn't a lot of work. Kilojoules starts to become
+a little bit interesting. You might realize, 200 grams
+of ice, that's about half a pound of ice. So to take half a pound of ice
+and warm it up on your stove would take 609 kilojoules
+of heat to do that. So that's something that you
+probably could do on your stove at home.

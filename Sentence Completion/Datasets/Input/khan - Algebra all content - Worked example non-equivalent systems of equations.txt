@@ -1,0 +1,23 @@
+- Scarlett and Hansol's teacher gave them a system of linear equations to solve. They each took a few steps that lead to the systems shown in the table below. So this is the teacher system. This is what Scarlett got
+after taking some steps. This is what Hansol got. Which of them obtained a system that is equivalent to
+the teacher's system? And just to remind ourselves, an equivalent system is a system that has, or at least for our purposes, is a system that has the same solution, or the same solution set. So if there is a certain xy that satisfies this system in order for Scarlett's
+system to be equivalent it needs to have the same solution. So let's look at this. So Scarlett, let's see, let's see if we can match these up. So her second equation here, so this is interesting, her second equation 14x - 7y = 2 over here the teacher has an equation 14x - 7y = 7. So this is interesting because the ratio between x and y is the same, but then your constant term, the constant term is
+going to be different. And I would make the claim that this alone tells you
+that Scarlett's system is not equivalent to the teacher. And you're saying, well,
+how can I say that? Well, these two equations if you were to write them into slope intercept form, you would see because the ratio between x and y, the x
+and y terms is the same. You're going to have the same slope, but you're going to have
+different Y intercepts. In fact, we can actually solve for that. So this equation right over here we can write it as if we, let's see, if we subtract 14x from both sides you get -7y - 14, woops, -7y =, is equal to -14x + 7 and we could divide both sides by -7. You get y = 2x -1 so that's this... All I did is algebraically
+manipulate this. This is this line and I could even try to graph it so let's do that. So I'll draw a quick coordinate. This is just going to be very rough. Quick coordinate axis right over there, and then this line, this line would look something like this. So its y intercept is -1
+and it has a slope of 2. So let me draw a line with a slope of, a line with a slope of 2 might look something like that. So that's this line right over here or this one right over there, and let's see. This one over here is going to be, if we do the same algebra, we're going to have - 7y = -14x + 2, or y = , I'm just
+dividing everything by -7, 2x - 2/7 so this is going to look
+something like this. Its y intercept is -2/7 so
+it's like right over there. So this line is going
+to look something like, I'm going to draw my best, my best attempt at drawing it, it's going to look something... Actually that's not quite right. It's going to look something like... I'll actually just start
+it right over here. It's going to look something like, something like this. It's going to have the same slope, and obviously it goes in
+this direction as well. Actually, let me just draw that. So it's going to have the same slope, but at different y intercepts. That doesn't look right,
+but you get the idea. These two lines are parallel. So these two lines are parallel so any coordinate that satisfies this one is not going to satisfy this one. They have no points in common. They are parallel. That's the definition of parallel. Since this and this have
+no points in common, there's no way that some solution set that satisfies this would satisfy this 'cause any xy that satisfies this can't satisfy this or vice versa. They're parallel. There are no points. These two things will never intersect. So Scarlett does not have
+an equivalent system. Now what about Hansol? Well, we see Hansol has the same thing going on here. 5x - y, 5x - y, but then the constant term is different, -6, positive 3. So this and this also
+represent parallel lines. Any xy pair that satisfies this, there's no way that it's
+going to satisfy this. These two lines don't intersect. They are parallel. So Hansol's system is
+not equivalent either.

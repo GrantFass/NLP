@@ -1,0 +1,77 @@
+We've now laid the groundwork
+so we can express this surface integral, which is
+the right-hand side of the way we've
+written Stokes' theorem. We can now express this
+as a double integral over the domain of the
+parameters that we care about. And we're going to do
+that in this video. And then in the next
+series of videos, we'll do the same thing
+for this expression. We're actually going to do
+that using Green's theorem. What we're going to
+do is we're going to see we're going to get
+the same expressions, which will show us that
+Stokes' theorem is true, at least for this
+special class of surfaces that we are studying right here. But they're pretty general. Now let's now try to do that. So our surface
+integral-- I'm just going to rewrite it down here. It's the surface integral,
+so over our surface of the curl of f. Actually, let me go
+a little bit lower. So we have our surface integral
+of the curl of F dot ds. Well, we've already figured
+out what our curl of F is here two videos ago. And we've almost
+figured out what ds is. ds is the cross product of
+these two vectors times dA. The cross product
+of these two vectors is this right over here. So we could just
+write that ds is going to be equal to
+this thing times dA. This is the cross
+product of the partial of r with respect to x and the
+partial of r with respect to y. And then we have to multiply
+that times dA right over there. So this expression is
+just going to be the dot product of the curl of F, which
+is this stuff up here dotted with this stuff down here. And essentially, we're
+going to take the dot product of this
+vector and that vector and then multiply it times
+this-- we can actually consider this to
+be a scalar value. So let's do that. So this is going to
+be equal to-- and when we do this, all
+of these we are now going to start operating in
+the domain of our parameters. So it's going to turn
+from a surface integral into a double integral
+over that domain, over that region
+that we care about. This is the domain of our
+parameters, this region R. And this is how we've
+manipulated any of the surface integrals that we've
+come across so far. We've turned them
+into double integrals over the domain
+of the parameters. So this is going to turn into a
+double integral over the domain of our parameters, which is
+the region R. It's the region R in the xy plane right up here. And now we can take the dot
+product of the curl of F with dotted ds, which is all of
+this business right over here. And let me see if I
+can show both of them on the screen at the same time. There you go. So first let's think
+about the x components. So you have that
+right over there. And then you have
+this right over here. You multiply the two. The negative we can swap
+the order right over there. You have the partial of z
+with respect to x times-- and we're going to swap
+this order right over here. The partial of Q with respect
+to z minus the partial of R with respect to y. Now let's think about
+the j component. You have negative z sub y
+times all of this up here, at least the stuff that's
+multiplied times the j component. This negative can cancel out
+with that negative, so you have plus z sub y, the partial
+of z with respect to y, times the partial
+of R with respect to x minus the partial
+of P with respect to z. Let me make that clear, that
+is an R right over here. And then we have
+the k component. And the k component is actually
+the easiest because it's just 1 here. So it's just going
+to be 1 times-- and I'll just do it in
+that same color-- 1 times the partial of Q with respect
+to x minus the partial of P with respect to y. And then finally, we just
+have this dA over here. And this dA is
+multiplied by everything. So we'll put some parentheses,
+and we'll write dA. So we're done. We've expressed our surface
+integral as a double integral over the domain
+of our parameters. And what we're going to
+do in the next few videos is do the same thing with
+this using Green's theorem. And we're going to see that
+we get the exact same value.

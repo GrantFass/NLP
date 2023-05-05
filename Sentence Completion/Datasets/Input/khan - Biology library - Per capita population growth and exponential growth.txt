@@ -1,0 +1,74 @@
+- [Instructor] In a previous video, we started thinking about things
+like population growth rate and how it relates to the birth rate and the death rate within a population, and we related that to some of the seemingly complex formulas that you might see on an
+AP Biology formula sheet. Now we're going to
+extend that conversation to discuss some of the other
+formulas you might see, but to realize that they
+really are just intuition using a little bit of fancy math notation. So just as a little bit of review, we looked at an example where, in a population, the birth
+rate is 60 bunnies per year, we're talking about bunnies here, it's a population of bunnies, and the death rate is 15 bunnies per year, well, what's the population growth rate? Well, in a given year, you would expect 60 bunnies to be born, so that would add to the population. And you would expect 15 bunnies to die, so that would take away
+from the population, for a net increase of 49 bunnies per year. And to put that in the language of your AP Biology formula sheet, the notation they use for
+population growth rate, they use a fancy notation, so actually, let me
+just write it over here, they say N is equal to your population, N is equal to population, and then your population growth rate, they use calculus notation. So our change in population
+per change in time. This is really talking
+about something in calculus known as instantaneous change, but we don't have to get too bogged down with that just yet. But your population growth rate, which you could use this notation for, is equal to your birth
+rate, 60 bunnies per year, and the notation they use
+for birth rate is just B. They don't use the same
+rate notation for that. I probably would have, but that's fine, I'm just trying to make you familiar with what you might see. And then minus the death rate. Minus D. So this right over here is something that you would see on that formula sheet, but it makes fairly intuitive sense. Now the next idea we're
+going to think about is something known as a per capita growth rate of population. Let me write it out in words first. So, here we're going to think about a per capita growth rate, or population growth rate. Per capita population growth rate. Now per capita means you could view it as on average per individual. What is the average growth
+rate per individual? What is that going to be? Pause this video and
+try to think about it. Well, one way you could think about it, is the total population growth rate, divided by the population, divided by the number of people there are. So it's going to be our
+population growth rate, growth rate, divided by, divided by our population. Population. Now, let's say that we have
+a population of 300 bunnies. Actually, let's make the
+math a little bit simpler. Let's say we have a
+population of 450 bunnies. So what is going to be our per capita population growth rate? Pause this video and
+try to figure that out. Well, if we have a
+population of 450 bunnies, 450 bunnies. Our population growth rate
+per the number of people, or number of bunnies, I should say, is going to be equal to, our population growth rate is 45 bunnies, bunnies per year. And that's going to be for every 450 bunnies. 450 bunnies. Which will get us to, 45 divided by 450 is 0.1, and then the units, bunnies
+cancel with bunnies, so it's 0.1 per year. Now why is per capita population
+growth rate interesting? Well, it tells us just how likely, and in most populations, you need at least a male and a female in order to reproduce, but there are some organisms that can just split and
+reproduce asexually. But it tells on average
+per individual organism how much are they going to grow per year? So it gives you a sense of that. Now connecting it to the notation that you might see on an
+AP Biology formula sheet, it would look like this, the per capita population growth rate is usually denoted by
+the lowercase letter r, and then they would say that
+that is going to be equal to our population growth rate. Which, we've already seen that notation. The rate of change of our
+population with respect to time, dN dt, divided by our population, divided by our population. Now we can algebraically
+manipulate this a little bit, to get another expression. We could multiply both
+sides times our uppercase N, times our population. And we're going to get dN
+dt is equal to N times r, or r times N, let me rewrite it. We can rewrite this as dN dt is equal to our per capita
+population growth rate, times our population. Now, this once again makes sense. If you say, okay, this is how many people, how many individuals I have, and if in a given year, they
+grow by this much on average, well, if you multiply the two, you'll know how much the
+whole population has grown. So if we didn't know these
+numbers and someone said, hey, well, actually, we
+can think about this, let's think about now a
+population of 1000 bunnies. So if N was equal to 1000. And I'll say they're
+the same type of bunnies that have the same
+probability of reproducing, and the same likelihood, so we know that r is equal 0.1 per year. For this population of bunnies, what is going to be our
+population growth rate? Pause this video and
+try to figure that out. Well in this situation, dN dt is going to be our per
+capita population growth rate, so it's going to 0.1 per year, times our population. Times 1000 bunnies, bunnies, I'll keep my units here, bunnies, and so this is going to be equal to, 1000 times a tenth is 100, we're in that color. It's 100 bunnies, bunnies per year. So hopefully you're
+getting an appreciation for why these types of formulas, which are fairly straightforward, they're using just a fancy
+notation, are useful. Now, this is also an
+interesting thing to look at. Because even though this is
+in fancy calculus notation, and they're saying that our
+rate of change of population is equal to r times our population, this is actually a differential equation, if you were to think about
+what this population, the type of population
+this would describe, this would actually be a population that's growing exponentially. So this is often known as an
+exponential growth equation, let me write that down. Exponential, exponential growth. And, in other, in your math classes, in your calculus classes, or even in your precalculus classes, you will study exponential growth. In a biology class, you're
+really just thinking about how to manipulate this a little bit. But just to give you a little sense of what's going on with
+exponential growth, if you have a population of bunnies with this type of exponential growth, what is happening here, this is time, and this is your population, so you're going to have some
+starting population here, and it's just going to grow exponentially. And the higher the r is, the steeper this exponential
+growth curve is going to be. But this describes how
+populations can grow if they are not constrained
+by the environment in any way. They have just as much
+land, as much water, and as much food as they need, eventually, the bunnies will
+fill the surface of the earth, and the universe, and now, obviously, we know that that is not
+a realistic situation, that any ecosystem has some
+natural carrying capacity, there's only so much food,
+there's only so much land. At some point, there's
+just going to be bunnies falling from trees, and
+it's going to be much easier for predators to get them,
+and all these other things. And we will discuss
+that in the next video. How do we adapt the
+exponential growth equation right over here to factor
+in a little bit more of a real-world situation, where at some population,
+you're going to be hitting up against the carrying
+capacity of the environment?

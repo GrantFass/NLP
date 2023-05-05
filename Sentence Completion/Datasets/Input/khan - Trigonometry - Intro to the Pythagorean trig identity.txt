@@ -1,0 +1,69 @@
+So we've got a right
+triangle drawn over here where this base's length
+is a, the height here is b, and the length of
+the hypotenuse is c. And we already know when
+we see something like this, we know from the
+Pythagorean theorem, the relationship
+between a, b, and c, we know there's a
+squared plus b squared is going to be equal to
+the hypotenuse squared, is going to be
+equal to c squared. What I want to do
+in this video is explore how we can relate trig
+functions to, essentially, the Pythagorean theorem. And to do that, let's pick
+one of these non-right angles. So let's pick this angle
+right over here as theta, and let's just think about
+this what the sine of theta is and what the cosine
+of theta is, and see if we can mess with them a
+little bit to somehow leverage the Pythagorean theorem. So before we do that, let's
+just write down sohcahtoa just so we remember the definitions
+of these trig functions. So sine is opposite
+over hypotenuse. Cah, cosine is adjacent
+over hypotenuse. And toa, tan is
+opposite over adjacent, we won't be using tan,
+at least in this video. So let's think
+about sine of theta. I will do it, I'll do
+it in this blue color. So sine of theta is what? It is opposite over
+hypotenuse, so it is equal to the
+length of b or it is equal to b-- b
+is the length-- b over the length of the
+hypotenuse, which is c. Now what is cosine of theta? Well, the adjacent
+side, the side of this angle that is not the
+hypotenuse, it has length a. So it's the length
+of the adjacent side over the length
+of the hypotenuse. Now how could I
+relate these things? Well it seems like, if
+I square sine of theta, then I'm going to
+have sine squared theta is equal to b
+squared over c squared, and cosine squared
+theta is going to be a squared over c squared. Seems like I might be able
+to add them to get something that's pretty close to the
+Pythagorean theorem here. So let's try that out. So sine squared theta is equal
+to b squared over c squared. I just squared both sides. Cosine squared theta is equal
+to a squared over c squared. So what's this sum? What's sine squared theta
+plus cosine squared theta? Is going to be equal to what? Sine squared theta is b
+squared over c squared, plus a squared over
+c squared, which is going to be equal
+to-- Well we have a common denominator
+of c squared. And the numerator, we have
+b squared plus a squared. Now, what is b squared
+plus a squared? Well, we have it
+right over here, Pythagorean theorem tells
+us, b squared plus a squared or a squared plus b squared is
+going to be equal to c squared. So this numerator
+simplifies to c squared. And the whole expression is
+c squared over c squared, which is just equal to 1. So using the sohcahtoa
+definition, in a future video, we'll use the unit
+circle definition. But you see just
+using the units, just even using the sohcahtoa
+definition of our trig functions, we see probably
+the most important of all the trig identities. That the sine squared theta,
+sine squared of an angle, plus the cosine squared
+of that same angle-- I'm introducing
+orange unnecessarily-- is going to be equal to 1. Now you might probably
+be saying, OK Sal, that's kind of cool, but
+what's the big deal about this? Why should I care about this? Well, the big deal is now you
+give me the sine of an angle and I can solve this equation
+for the cosine of that angle, or vice versa. So this is actually a pretty
+powerful, powerful thing. And this is also part
+of the motivation even for the unit circle
+definition of trig functions.

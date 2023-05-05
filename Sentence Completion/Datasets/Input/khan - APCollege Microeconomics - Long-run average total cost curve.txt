@@ -1,0 +1,79 @@
+- [Narrator] We've talked about the idea of average total cost in
+several videos so far, where it was the sum of
+your average variable cost and your average fixed cost. But when we're talking about
+fixed costs, by definition, that means we're talking
+about things in the short run. Remember, the short run is
+defined as the amount of time over which at least one
+of your inputs is fixed. But if we talk about longer term, so let's say you're running a factory, and, in the short run,
+the short run would be how long it takes to build another factory or how long it takes to close
+down or sell another factory. But in the long run, you can always add more
+factories or shut down factories. So in the long run,
+everything is variable. So what we're gonna do in this video is think about how the average total cost that we've studied in previous videos, which were actually short-run
+average total costs, how those relate to the
+long-run average total cost. So let's imagine that we are trying to open up a food truck business. And let's say that each food truck, so each food truck, and let's
+say we're going to sell tacos, so these are taco food trucks. And so each food truck can optimally, optimally, I'll just write it like that, serve 100 tacos per day. And we haven't started our business yet, but we have to decide how
+many food trucks to buy. And we do some market research,
+and we feel pretty confident that we are going to be able
+to sell 200 tacos per day. So we're going to target, target 200 tacos, tacos per day. Now, in this world, what you would want to do
+is optimize your fixed cost to minimize your average total cost for 200 tacos per day. Remember, your fixed cost
+is essentially going to be, let's say it's just your food truck, and then you're going
+to have a variable cost. It might be the staff
+that's making the tacos. It might be the supplies for
+the tacos, things like that. And so you might have an
+average total cost curve that looks like this. So let me make some axes here. So this is going to be
+quantity of tacos per day, quantity of tacos. This is going to be per day. And then in the vertical axis, this is going to be cost per taco, cost per taco. And let's say since you're
+optimizing for 200 tacos today, you want to minimize your cost
+per taco, 200 tacos per day, that happens with two food trucks. So if we're at 200 tacos per day, let me put it right over
+there, 200 tacos per day, we get to a cost per taco, average total cost per taco. Let's say that is 50 cents. So that is 50 cents right over there. But the actual number of sales, the actual number of
+tacos that you might have to produce in a given
+day, might vary from that, and that will actually help construct your average total cost curve. And so your average total cost curve might look something like this. It might look, might look something like this. We've seen curves like this in the past, and we would have call this
+our average total cost. But now because we're differentiating between our short run and long run, let's make this very clear. This is our short-run average total cost, and this is a situation where we have two of our food trucks per day, two food trucks. Now, what if instead of 200 tacos per day, it ends up that we only have
+to produce 100 tacos per day because that's how many
+people are demanding? So let's say this is 100 right over here. Well, if we keep the number
+of trucks we have constant, so we don't change our fixed cost, well, then our cost per
+taco is going to be higher. Let's say that this right over here is, let's say this is 70 cents, 70 cents per taco. And then there's the other scenario. Let's say that our tacos
+sell better than expected. Let's say that we need to somehow
+produce 300 tacos per day. Well, if we can't change our fixed cost, which is, by definition,
+what the short run is, well, then we might be
+at, say, this point. It looks like it would be about, let's just call that 80 cents, 80 cents per taco as our short-run
+average total cost. Now, in either of these
+situations, let's say that we have the more pessimistic
+scenario actually happens, that there's only demand
+for 100 tacos per day. Well, in that world, the
+rational thing would be, hey, let's sell one of those trucks. We're only at 50% utilization
+at 100 tacos per day. Let's sell one of those trucks to lower our average total cost. And so in the long run, you
+can adjust your fixed cost, so with one truck, with a
+curve that looks like this. So at 100, at 100 tacos per day, our costs are 60 cents per taco. And the curve might look something like, something like this. So if things were to get
+even worse than that, our cost would go up. And if for some reason the
+market were to actually go back to what we expected or even beyond, then our cost would go even higher. So this cost curve, which
+is based on one truck, so let me call this our
+short-run average total cost, and this is for one truck, this would be suboptimal if
+we actually do have 200 sold, 200 units being produced a day or 300 units produced per day. But it is optimal for 100 units per day. Now, things could go the other way. Well, you might start
+with those two trucks that are optimal for 200 units
+per day, 200 tacos per day. But you're in the world where people want to
+buy 300 tacos per day, and 300 tacos with two
+trucks is not optimal. So in the long run, you
+order another truck, and maybe it takes a couple
+of months for it to show up and be outfitted and whatever. But once you get that third truck, now you can optimally
+serve 300 tacos per day. And so you might be in this situation. So at, if you get another truck, you could have another short-run
+average total cost curve that looks something like
+this right over here. So this is our short-run
+average total cost curve, and so this is when we have three trucks. And remember, the short run is when at least one of your inputs is fixed. And in this one, for the simplified model, we're assuming that input is the truck, that everything else
+is a variable expense. Now, when you look at this, it helps us think about a
+long-run average total cost. What would that be? Well, in the long run, we can change the number
+of trucks we have. And if we can, in the long run, we can change the number
+of trucks we have, we would always be picking
+the optimal number of trucks for the quantity we're producing. So in the long run, we would
+want to be at that point. So if there's only 100 that
+we need to produce a day, we would only use one truck. If there's 200 produced a day, we would use two trucks
+and be at that point. If we need to produce 300, we would have three trucks
+and be on that point. And so your long-run
+average total cost curve would be connecting these dots, and so it would look something, it would look something like this. And some of you might be thinking, well, but this situation right over here is where you have 1 1/2 trucks. What's the deal with that? But in the long run, you might be able to
+get a custom truck size that is 1 1/2 times as
+big as your typical truck or 2 1/2 times as big
+as your typical truck. But the big takeaway here is that your long-run
+average total cost curve you can view as the envelope
+of all of the minimum points of all of your various short-run
+average total cost curve. Because at any given,
+for any given quantity, you want to optimize your fixed cost, which puts you at the minimum point of one of these short-run
+average total cost curves.

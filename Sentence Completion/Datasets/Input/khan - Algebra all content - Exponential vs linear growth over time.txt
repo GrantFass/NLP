@@ -1,0 +1,54 @@
+- [Instructor] Company
+A is offering $10,000 for the first month and
+will increase the amount each month by $5,000. Company B is offering
+$500 for the first month and will double their payment each month. For which monthly payment
+will Company B's payment first exceed Company A's payment? So pause this video and
+try to work that out. All right, let's work this out together. So let me set up a little bit of a table. So this is going to be, the first column I'm gonna have is month. The first column is month. The second column is how much
+Company A is going to pay. And then third column,
+let's think about how much Company B is going to pay. Well, they tell us a few things. They say Company A is offering
+$10,000 for the first month. So in month one, Company
+A is offering $10,000, we'll assume, well, I'll
+just write the dollars there. And then Company B is offering
+$500 for the first month. $500 for the first month. But then they tell us
+Company A is offering, will increase the amount,
+each month by $5,000. So month two will be 5,000
+more, we'll get to $15,000. Month three we'll get to $20,000. Four, we'll get to $25,000. Five, I think you get the
+point, we'll get to $30,000. Six, we'll get to $35,000. Seven, we'll get to $40,000. Let me scroll down a little bit. Month eight, I'll stop there. Month eight, we will get to $45,000. Let me extend these lines a little bit. Now let's think about what's
+gonna happen with Company B. Company B is offering
+500 for the first month, but will double their payment each month. So the second month is
+gonna be double that. So that's going to be $1,000. Then we're gonna double
+that again, $2,000. Then we're gonna double
+that again, $4,000. Double that again, $16,000. Double that again, $32,000. Double that, oh, I skipped one. I went from 4,000 to 16,000. 4,000, $8,000. Then we double it again, $16,000. Again, 32, I sound like
+my two year old again. All right, $32,000. Then we get to $64,000. And at that point something
+interesting happens. It's actually good that I
+went to the eighth month because every month
+before the eighth month, Company A's payment was higher
+until that eighth month. In that eighth month, Company
+B is going to pay more. So first we can just
+answer their question. For which monthly payment
+will Company B's payment first exceed Company A's payment? Well, that is month eight, month eight. And there's a broader
+lesson going on here. You might recognize that the
+rate at which Company A's payment is increasing is linear. Every month it increases
+by the same amount. So plus 5,000, plus 5,000. It increases by 5,000 the same amount. Company B is increasing exponentially. It's increasing by the
+same factor every time, so we're multiplying by
+the same value every time. We're multiplying by two,
+we're multiplying by two, multiplying by two. And so there's actually a
+very interesting thing here that you can actually
+make the general statement that an exponential function
+will, we'll want something that is exponentially
+increasing, will eventually always surpass something
+that is linearly increasing. And it doesn't matter what
+the initial situation is, and it also doesn't even matter that rate of exponential increase,
+it will eventually always pass up something that's
+increasing linearly. And you can think about
+that visually if you like. If I were to draw a visual
+function, a linear function, so this is x-axis, this is the y-axis, a linear function, well, this is gonna be described by a line. So it could look something like this. A linear function is always
+gonna be a line of some slope. And an exponential function,
+even though it might start a little bit slower, it's eventually going to pass up the linear function. And this is going to be the
+case even if the linear function has a pretty high slope or a
+pretty high starting point, if it's something like that,
+and even if the exponential function is starting pretty
+slow, it will eventually, and even if it's compounding
+or growing relatively slow but exponentially, you know
+if it's going 2% or 3%, it still will eventually
+pass up the linear function which is pretty cool.

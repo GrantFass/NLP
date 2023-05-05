@@ -1,0 +1,249 @@
+In the last video I had this 2
+by 3 matrix A right here, and we figured out all of the
+subspaces that are associated with this matrix. We figured out its null space,
+its column space, we figured out the null space and column
+space of its transpose, which you could also call the left
+null space, and the row space, or what's essentially the space
+spanned by A's rows. Let's write it all in one place,
+because I realize it got a little disjointed, and see
+if we can visualize what all of these look
+like, especially relative to each other. So let me copy and paste
+my original matrix. Copy, and then let me scroll
+down here and paste it over here, and hit paste. Let me see if I can find
+our key takeaways from the last video. So our column space right here,
+of A, was this thing right here. Let me write this. This was our column space. It was the span of the
+R2 vector 2, 4. Let me copy that. Copy that and bring it down. Hit paste. This was our column space. Let me write that. This is the column space of A. It was equal to that
+right there. And now what other things
+do we know? Well, we know that the left null
+space was a span of 2, 1. Let me write that. So our left null space, or the
+null space of our transpose, either way, it was equal to the
+span of the R2 vector 2, 1, just like that. And then what was
+our null space? Our null space we figured
+out in the last video. Here it is. It's the span of these
+two R3 vectors. Let me copy and paste that. Hit copy. Let me go down here. Let me paste it. So that was our null
+space right there. And then finally, what
+was our row space? What was our row space or the
+column space of our transpose? So the column space of our
+transpose was the span of this R3 vector right there, So it
+was this one right here. So let me copy and paste it. Copy and scroll down, and we can
+paste it just like that. OK, let's see if we can
+visualize this now, now that we have them all in one place. So first of all, if we imagine
+a transformation, x, that is equal to A times x, our
+transformation is going to be a mapping from what? x would be
+a member of R3, so R3 would be our domain. So it would be a mapping from
+R3 and then it would be a mapping to R2 because we have
+two rows here, right? You multiply a 2-by-3 matrix
+times a 3-by-1 vector, and you're going to get a 2-by-1
+vector, so it's going to be a mapping to R2. So that's our codomain. So let's draw our domains
+and our codomains. I'll just write them very
+generally right here. So you could imagine
+R3 is our domain. And then our codomain is going
+to be R2 just like that. And our T is a mapping, or you
+could even imagine A is a mapping between any vector there
+and any vector there when you multiply them. Now, what is our column
+space of A? Our column space of A is the
+span of the vector 2 minus 4. It's an R2 vector. This is a subspace of R2. We could write this. So let me write this. So our column space of A, these
+are just all of the vectors that are spanned
+by this. We figured out that these guys
+are just multiples of this first guy, or we could have
+done it the other way. We could have said this guy and
+that guy are multiples of that guy, either way. But the basis is just one
+of these vectors. We just have to have one of
+these vectors, and so it was equal to this right here. So the column space
+is a subset of R2. And what else is
+a subset of R2? Well, our left null space. Our left null space is
+also a subset of R2. So let's graph them, actually. So I won't be too exact,
+but you can imagine. Let's see, if we draw the
+vector 2, 4-- let me draw some axes here. Let me scroll down
+a little bit. So if you have some vector--
+let me draw my-- do this as neatly as possible. That's my vertical axis. That is my horizontal axis. And then, what does the span of
+our column space look like? So you draw the vector 2, minus
+4, so you're going to go out one, two, and then you're
+going to go down one, two, three, four. So that's what that
+vector looks like. And the span of this vector
+is essentially all of the multiples of this vector, where
+you could say linear combinations of it, but you're
+taking a combination of just one vector, so it's just going
+to be all of the multiples of this vector. So if I were to graph it, it
+would just be a line that is specified by all of the linear
+combinations of that vector right there. This right here is a graphical
+representation of the column space of A. Now, let's look at the left null
+space of A, or you could imagine, the null space
+of the transpose. They are the same thing. You saw why in the last video. What does this look like? So the left null space
+is a span of 2, 1. So if you graph 2, and then you
+go up 1, it's the graph of 2, 1, and it looks like this. Let me do it in a
+different color. So that's what the vector
+looks like. The vector looks like that,
+but of course, we want the span of that vector, so it's
+going to be all of the combinations. All you can do when you combine
+one vector is just multiply it by a bunch of
+scalars, so it's going to be all of the scalar multiples
+of that vector. So let me draw it like that. It's going to be like that. And the first thing you might
+notice, let me write this. This is our left null space
+of A or the null space of our transpose. This is equal to the left
+null space of A. And actually, since we're
+writing, we wrote this in terms of A transpose. It's the null space of A
+transpose, which is the left null space of A. Let's write the column
+space of A also in terms of A transpose. This is equal to the row space
+of A transpose, right? If you're looking at the columns
+of A, everything it spans, the columns of A are the
+same things as the rows of A transpose. But the first thing that you
+see, when I just at least visually drew it like this, is
+that these two spaces look to be orthogonal to each other. It looks like I drew it in R2. It looks like there's a
+90-degree angle there. And if we wanted to verify it,
+all we have to do is take the dot product. Well, any vector that is in our
+column space, you could take an arbitrary vector that's
+in our column space, it's going to be equal
+to c times 2 minus 4. So let me write that down. I want this stuff up here. I'll scroll down a little bit. Let's say v1 is a member
+of our column space. And that means that v1 is going
+to be equal to some scalar multiple times the
+spanning vector of our column space, so some scale or
+multiple of this. So we could say it's equal
+to c1 times 2 minus 4. That's some member of
+our column space. Now, if we want some member of
+our left null space-- let's write it here. So let's say that v2 is some
+member of our left null space, or the null space of
+the transpose, then what does that mean? That means v2 is going to be
+equal to some scalar multiple of the spanning vector of our
+left null space of 2, 1. So any vector that's in our
+column space could be represented this way. Any vector in our left
+null space can be represented this way. Now, what happens if you take
+the dot product of these two characters? So let me do it down here. I want to save some space for
+what we're going to do in R3, but let me take the dot
+product of these two characters. So v1 dot v2 is equal to--
+I'll arbitrarily switch colors-- c1 times 2 minus
+4 dot c2 times 2, 1. And then the scalars, we've
+seen this before. You can just say that this is
+the same thing as c1, c2 times the dot product of 2
+minus 4 dot 2, 1. And then what is
+this equal to? This is going to be equal to
+c1, c2 times 2 times 2 is 4 plus minus 4 times 1: minus 4. Well, this is going to be equal
+to 0, so this whole expression is going
+to be equal to 0. And this was for any two vectors
+that are members of our column space and our
+left null space. They're orthogonal
+to each other. So every member of our column
+space is going to be orthogonal to every member of
+our left null space, or every member of the null space of our
+transpose, and that was the case in this example. It actually turns out this is
+always going to be the case, that your column space of
+a matrix, its orthogonal complement is the left null
+space, or the null space of its transpose. I'll prove that probably in the
+next video, either in the next video or the video after
+that, but you can see it visually for this example. Now let's draw the other two
+characters that we're dealing with here. So we have our null space, which
+is the span of these two vectors in R3. It's a little bit more difficult
+to draw it, these two vectors in R3 right there. But what is the span of
+two vectors in R3? All of the linear combinations
+of two vectors in R3 is going to be a plane in R3. So I'll draw it in just very
+general terms right here. If we draw it in just very
+general terms, let me see. So it's a plane in R3 that
+looks like that. Maybe I'll fill in the plane
+a little bit, give you some sense of what it looks like. This is the null space of A. It's spanned by these
+two vectors. Now, you could imagine these
+two vectors look something like-- I'm drawing it very
+general, but if you take any linear combinations of these two
+guys, you're going to get any vector that's along this
+plane that goes in infinite directions. And, of course, the origin
+will be in these. All of these are valid
+subspaces. Now, what does the row
+space of A look like? Or you could say the column
+space of A transpose? Well, it's the span of this
+vector in R3, but let's see something interesting about
+this vector in R3. How does it relate to
+these two vectors? Well, you may not see it
+immediately, although if you look at it closely, it might pop
+out at you, that this guy is orthogonal to both
+of these guys. Notice, if you take the dot
+product of 2 minus 1 minus 3, and you dotted it with 1/2, 1,
+0, what are you going to get? You're going to get 2 times 1/2,
+which is 1, plus minus 1 times 1, which is minus
+1, plus minus 3 times 0, which is 0. So that's when I dotted that guy
+with that guy right there. And then, when I take the dot
+of this guy with that guy, what do you get? You get 3/2, 0 and 1, dotted
+with-- let me scroll down a little bit. I don't want to write too
+small-- dotted with 1, dotted with 2 minus 1 minus 3. In the row space of A,
+I wrote the spanning vector there this time. I probably shouldn't have
+switched the order. But here, I'm dotting it with
+this guy, and then here, I'm dotting it with this
+guy right there. So if you take it, 3/2 times 2
+is equal to 3 plus 0 times minus 1 is 0, plus 1 times minus
+3 is minus 3, so it's equal to 0. So the fact that this guy is
+orthogonal to both of these spanning vectors, it also means
+that it's orthogonal to any linear combination
+of those guys. Maybe it might be useful
+for you to see that. So let's take some member
+of our null space. So let's say the vector v3 is
+a member of our null space. That means it's a linear
+combination of that guy and that guy. Those are the two spanning
+vectors. I'd written it up here. These are our two spanning
+vectors. I need the space down here,
+so let me scroll down a little bit. These are the two spanning
+vectors. So that means that v3 can be
+written as some linear combination of these two guys
+that I squared off in pink. So let me just write it as maybe
+A times 3/2, 0, 1 plus b times 1/2, 1, 0. Now, what happens if I take the
+dot product of v3 and I dot it with any member of
+my row space right here? So any member of my row space
+is going to be a multiple of this guy right here. That is the spanning vector
+of my row space. Just let me actually
+create that. So let me say that v4 is a
+member of my row space, which is the column space of
+the transpose of A. And that means that v4 is equal
+to, let's say, some scaling vector. I always use c a lot. Let me use d. Let's say it's d times
+my spanning vector. d times 2 minus 1, 3. So what is v3, which is just
+any member of my null space dotted with v4, which is any
+member of my row space? So what is this going
+to be equal to? This is going to be
+equal to this guy. So let me write it like this. A times 3/2, 0, 1 plus v times
+1/2, 1, 0 dotted with this guy, dot d times 2 minus 1, 3. Now, what is this going
+to be equal to? Well, we know all of
+the properties of vector dot products. We can distribute it and then
+take the scalars out. So this is going to be equal
+to-- I'll skip a few steps here, but it's going to be equal
+to-- ad times the dot product of 3/2, 0, 1, dot 2
+minus 1, 3-- just distribute it out to here-- plus bd times
+the dot product of 1/2, 1, 0, dotted with 2 minus 1, 3. This is the dot product. I just distributed this
+term along these two terms right here. And we already know what these
+dot products are equal to. We did it right here. This dot product right here
+is that dot product. I just switched the order,
+so this is equal to 0. And this dot product is that dot
+product, so this is also equal to 0. So you take any member of your
+row space and you dot it with any member of your null space,
+and you're going to get 0, or any member of your row space is
+orthogonal to any member of your null space. And I did all of that to
+help our visualization. So we just saw that any member
+of our row space, which is the span of this vector, is
+orthogonal to any member of or null space. So my row space, which is just
+going to be a line in R3 because it's just a multiple
+of a vector. It's going to look like this. It's going to be a line,
+and then it's going to maybe go behind it. You can't see it there. It's going to look like that,
+but it's going to be orthogonal. So let me draw it. So this pink line right here in
+R3, that is our row space of A, which is equal to the
+column space of A transpose because the rows of A are the
+same thing as the columns of A transposed, and the row space
+is just the space spanned by your row vectors. And then this is the null space
+of A, which is a plane. It's spanned by two
+vectors in R3. Or we could also call
+that the left null space of A transpose. And I never used this term in
+the last video, but it's symmetric, right? If the null space of A transpose
+is the left null space of A, then the null space
+of A is the left null space of A transpose, which is
+an interesting takeaway. Notice that you have here the
+row space of A is orthogonal to the null space of A. And here, you have the row
+space of A transpose is orthogonal to the null
+space of A transpose. Or you could say the left null
+space of A is orthogonal to the column space of A. Or you could say the left null
+space of A transpose is orthogonal to the column
+space of A transpose. So these are just
+very interesting takeaways, in general. And just like I said here, that
+look, these happen to be orthogonal. These also happen to
+be orthogonal. And this isn't just some
+strange coincidence. In the next video or two, I'll
+show you that this space, this pink space, is the orthogonal
+complement of the null space right here, which means it
+represents all of the vectors that are orthogonal
+to the null space. And these two guys
+are orthogonal complements to each other. They each represent all of the
+vectors that are orthogonal to the other guy in their
+respective spaces.

@@ -1,0 +1,134 @@
+We all hear the unemployment
+rate quoted all the time and it's obviously a very important
+economic indicator. But what I want to do in this
+video is dig a little bit deeper, and actually figure
+out how it's calculated. I'm going to draw a big
+diagram right here. Let's say that that big circle
+represents the entire U.S. population. I just looked it up on Google. It's 304 million people,
+give or take a couple. And then there's going to be a
+subset-- that's everybody, that includes my 10
+month old son. So obviously, if we're talking
+about unemployment, he at least shouldn't be relevant,
+not just yet. So there's a subset of people
+that the Bureau Of Labor Statistics considers at
+least kind of old enough to care about. So this is 16 years and older. And I'd looked that
+up as of November. That was about 237 million
+people in the U.S. But then there's a subset of
+that, because not everyone 16 years and older is necessarily
+employable or wants to work. They might be in school,
+or in the military, or they might be retired. So they look for a subset of the
+people old enough to work, and they call that
+the labor force. I'll do the labor
+force in pink. I never use that color. I'll do it in green. So that right there in green
+is the labor force. And, as of November, if those
+numbers I just saw are right, are 154 million people. And then there's some subset
+of the labor force that the Bureau Of Labor Statistics
+considers unemployed. I'll do it in orange. And the latest numbers
+are about 15 million. That's unemployed. So the very simple way that they
+actually calculate the number-- but we'll see there's
+a little bit more nuance than what the formula might speak
+to at first-- is that the unemployment rate, this color,
+is equal to the number of unemployed. I'll do it in that same
+orange color. So unemployed divided
+by the labor force. And the labor force is made up
+of the unemployed plus, as you would imagine, the employed. So in this example, to figure
+out the unemployment rate, there were 15 million who were
+unemployed, so they put 15 million up there in the
+numerator, and then the denominator would be this
+entire labor force. So it would be the 15 million
+who were unemployed and then whatever 154 minus 15 is. What is that? It's 139 million who are
+gainfully employed. This number right here is 139. This number right here is 15. You add them together you
+get the labor force. That's 154 million people. Now that seems straightforward
+enough. I think if you do the math here,
+you get something that's close to 10%. But what I want to focus on is
+the definitions of unemployed and the labor force, because
+they're a little different, at least from my point of view,
+than how the term is used. According to the Bureau Of Labor
+Statistics, unemployed is someone who essentially
+doesn't have a job but wants one. And the way they measure whether
+you want to have a job is, you've looked for a job
+in the past four weeks. So if I was trying to find a
+job, sending my resume around, and then I just got fatigue from
+interviewing and I took five weeks off, I would not
+be considered unemployed. And that's an important
+thing to think about. If the economy were to be so
+bad-- Let's say in week one I am part of the unemployed. I don't have a job but I'm
+looking for a job. So I'm sitting right there and
+I am part of the labor force. I'm not employed but I'm
+unemployed looking for a job. But let's say after
+several weeks of this, I just get tired. I'm like, you know what, I'm
+just going to take a few months off. I'm not even going to look for
+a job-- things are so bad-- until things get better. What happens is that I go and
+join a pool of people outside of the labor force. So instead of being part of the
+labor force, or part of this employed group right here,
+if I take more than a four week-- If I take
+essentially four and a half weeks where I don't look for a
+job, I go into a new bucket called marginally attached
+workers. And that's part of the people
+who aren't in the labor force. All of a sudden I'm not
+in the labor force. So just like that you're taking
+me out of the numerator and you're also taking me
+out of the denominator. So that actually could improve
+the unemployment rate. I want to make this very clear
+because this is a non intuitive idea. That the economy could be so
+bad, that because I jump out of the labor pool, the
+unemployment rate could actually improve. Let me do this with very simple
+numbers just to make it a little bit clear. Let's imagine a world where the
+entire potential working adult population has
+three people in it. So there's three adults. People old enough to work. And let's say the subset of that
+adult population, that we right now consider part of the
+labor force, let's say there's two people. Obviously these are extreme
+numbers, but I think it'll show you how the math
+can work out. Now let's say, out of those two
+people in the labor force, one of them is unemployed. Obviously if there's two people
+in the labor force, one is unemployed, then the other
+person is employed. And then there's one more adult
+out there who's maybe in school or is a homemaker or
+maybe a retiree, but we don't know exactly what they are. And let's say I'm this
+unemployed person right here. Let's say I keep looking for a
+job but at some point I've gotten rejected so much, and
+the news I hear is so dire, that I just decide to take a
+break, or take some rest, or I just become depressed about my
+lot in life and I just stop looking for a job. I become discouraged. What happens, according to the
+Bureau Of Labor Statistics, is I am no longer part--
+so this is before. This is while I'm trying. But if I give up. Essentially, if I become so
+discouraged that I stop looking for work for more than
+four weeks, then the new way that we would have to draw that
+diagram out-- our little three person country
+is, we would still have the three adults. But now, instead of being
+unemployed since I've given up, I'm now not part
+of the labor force. Because I'm not looking
+for work. So now the entire labor force
+is just going to be that one dude with the job. So one person. And there'll be no
+unemployment. Because there's no-one in
+the labor force who doesn't have a job. I would have jumped into
+this bucket right here. I would now be out here. This is me. Well, I meant to draw that as
+a set but I turned it into a frowny face. But this is me right here. So what actually happened
+over here? I had a 50% unemployment rate. 1 divided by 2. 1 divided by the entire
+labor force. That's 50% unemployment,
+which is obviously another extreme number. But now, in this situation,
+because I've dropped out of the labor force because I was
+so discouraged, I now don't get counted. So here you have 0%
+unemployment. And if you just superficially
+looked at the numbers-- and there are other scenarios you
+can think about, where either the numerator or denominator
+changes because people get encouraged or discouraged or
+decide to be a homemaker or go back to school or come
+out of the military, whatever it might be. I just want to show you
+that something very non intuitive happened. Because the economy was
+so bad, I jumped out of the labor force. And because I jumped out
+of the labor force, the unemployment rate looks
+superficially positive. It went from 50%, in this
+example, to 0%. Obviously in the real world
+you're not going to see this type of extreme behavior because
+you have more than three people, you have
+304 million people. But what I wanted to do is show
+you the nuance of how this is calculated. And I don't think anyone is
+trying to mislead anyone, but what is happening is that they
+have to draw some threshold of what it means to be part
+of the labor force. And that's this notion of
+looking for a job in the past four weeks. Your brother-in-law who's living
+in your basement, you might consider him to be
+unemployed, but the Bureau Of Labor Statistics considers him
+to be, if he hasn't looked for a job in the last four weeks,
+discouraged or perhaps marginally attached.

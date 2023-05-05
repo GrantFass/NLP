@@ -1,0 +1,36 @@
+Male voiceover: Let's say that the
+current market settlement price for a Futures Contract
+that specifies the delivery of a thousand pounds of
+apples on October 20th and just for the simplicity
+of the math in this example, let's assume that that is one year away and the current settlement
+price, the current market price on the future exchange for
+delivery on that date is $300. Let's also assume that
+the current market price, if you were to buy or sell
+apples today not on October 20th, which is a year away
+but today, let's assume that the current market price is $200. Let's also assume that if you
+were to take out a $200 loan that you would have to pay 10% interest. If you were to borrow $200 today, you would essentially have
+to pay back $220 in a year. Now, given all of the
+parameters that I've set up, is there a way to make risk-free profits? Is there way to kind of
+arbitrage this situation? And as you can imagine, there is and what we can do is, we can borrow $200, Let me list it all out. We can borrow $200 and then use that $200 to buy 1,000 pounds of apples. Then we buy 1,000 pounds of apples. We keep them in our garage
+or some place like that and then we also sell
+or I guess we could say, we become the seller on
+this Futures Contract or we sell the Futures short, I guess is another way to think about it. We also become the seller
+on the Futures Contract. Essentially, we are agreeing
+to sell 1,000 pounds of apples on October 20th, a year from now for $300. So I wanna show you is
+if we set it up this way, we are guaranteed to make money no matter what happens to the price of apples and that's why we're
+calling it an arbitrage because if you fast forward one year, so let's fast forward one year. In one year, we definitely
+have 1,000 pounds of apples and just for the sake of simplicity, let's assume that apples don't get bad that I've somehow freeze-dried
+them or I don't know. These are apples that never spoil. (chuckles) Let's say a year from now, I have the thousand pounds of apples so I give the apples to
+settle the Futures Contract. Give apples to settle the contract and then of course, I have my loan. I have my loan of $200 but guess what? When I settled the contract, when I settled the Futures
+Contract, I got $300. So, I get 300 dollars and what do I owe? Well, I owe $220 on my loan. Let me subtract that out. I owe $220 and so I made
+a guaranteed risk-free $80 of profit in one year
+and we're not thinking about how much money I might
+have had to set aside for margin but this essentially, just free money and if you think about it, if this settlement price is anything, if the settlement price
+is anything above the $220 then I'm going to make a risk-free profit. One way to think about
+Futures pricing is even if you think there's
+going to be a cold snap and apples are going to disappear and there's going to be
+the shortage of apples and so you might say, "Hey,
+maybe the apple prices "will go up." a year ago, there's always going to be a way to arbitrage it if the settlement price, if the growth in price
+is more than the cost of borrowing the same amount of money, the cost of borrowing $200. In this situation, the
+cost of borrowing is $20. The settlement price really shouldn't be, if we assume that there's
+no arbitrage opportunities, it really shouldn't be more than $220.

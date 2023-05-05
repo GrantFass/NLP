@@ -1,0 +1,42 @@
+- [Voiceover] So I have
+a finite series here expressed in sigma notation
+and I encourage you to pause the video and
+see if you can figure out what this evaluates to. This is going to evaluate to a number. So assuming you've had a go at it, let's work through this together. So this is a sum from k
+equals 1 to k equals 550, so we're going to have 550 terms here and it's the sum from k
+equals 1 to k equals 550 of 2k plus 50, so whenever I try to evaluate a series, I like to just expand
+out the sum a little bit just so that I can get a
+feel for what it looks like, so let's see. This is going to look like, when k is equal 1, this is going to be 2 times 1 plus 50. When k is equal to 2, it's going to be 2 times 2 plus 50. When k is equal to 3, it's going to be 2 times 3 plus 50. And we're going to keep
+going all the way until we get to the last term, when k is equal to 550, it's going to be 2 times 550 plus 50. So let's see. This first term is going to be, it evalutes to 52 plus, this next term is 2 times 2 plus 50 is going to be 54, plus the next term, 2 times 3 is 6 plus 50 is 56, and we're going to go all the way, all the way to our last term, 2 times 550 is 1100 plus 50 is going to be 1150. So that gives us a good feel for this sum, for this series. We're going to start 52, and
+we're just going to keep adding 2 for each successive term, all the way until we get to 1150, and we're going to take
+the sum of all of these, and since each successive
+term, we're increasing by the same amount, we're increasing by 2, we're increasing by 2,
+we can recognize this as an arithmetic series. We are increasing by the same amount each time. And there is a formula for the sum of an arithmetic series, and
+first we're just going to apply the formula, but then we're going to get
+a little bit of an intuitive sense for why that formula works, and actually, in other
+videos, we have proved this formula, but it's always
+good to get a sense that, you know, that this formula
+just doesn't come out of thin air, so the formula for the sum of an arithmetic series, so the sum of the first
+n terms is going to be the first term plus the nth term over 2, so it's really the, it's really the arithmetic
+mean of the first and the last terms, you could say the average, in, I guess, everyday language, average of the first and last terms and then times the number
+of terms you actually have, so if we were to try to
+apply it to this case, we're trying to take the sum, sum of the first 550 terms, I'll do this in a new
+color just for kicks. All right, so we're going to take the sum of the first 550 terms, and it's going to be
+equal to the first term, so that's 52 plus the last term, the nth term, 1150, it's really just the average of those two, the average of the first and the last term and then times the
+number of terms we have, times 550, so what is this going to be? Well, we could simplify this a little bit. If we're going to take 550 divided by 2, this is going to be, I could write this as times, actually, let me just, let me just simply this
+in a different way. So this is going to be the same thing as, I could write this, 52 divided, well, let me just add first. This is going to be 1,202 over 2. All right, did I do that right? Yeah, 1,202 over 2 times 550. Now, 1202 divided by 2 is going to be 601, so this is equal to 601 times 550. And let's see, I can multiply that out. So, let me just do 550 times 601, so 1 times 550 is 550, and then I have a zero here, but I just have a zero there, so zero times 550, I'm just going to get a bunch of zeros, and then I go to the hundreds place. 6 times zero is zero. 6 times 5 is 30. 6 times 5 is 30 plus 3 is 33. You add it all together, we get a zero, we get a 5, we get a 5, we get a zero, we get a 3, we get a 3. We get 330,550. That's what this whole thing, that's what this whole thing sums up to. Now, I just said that we'll
+get a little bit of intuition for why we were able to
+just apply this formula, and let's just think about what the sum of the first 550 terms is, and I just wrote it down up here. So, let me write it, I'm just going to switch colors again. So, we're going to have the
+sum of the first 550 terms, which is what we just wrote over here, we already said this is going to be 52 plus 54 plus 56 plus, and we're going to
+keep going all the way to 1150. I'm going to write it again, the sum of the first 550 terms, but I'm going to just write it in reverse. We can obviously swap the
+order in which we add. It's going to be 1150 plus 1150 minus 2, which is 1148, plus that minus 2, which is 1146, and we go all the way to the first term, all the way to 52. Now, what I want to do is just I want to add these two sums, so I'm just going to get 2
+times the sum of the first 550, so if I had the two left sides, I would have 2 times the
+sum of the first 550 terms, and we do this generally
+when we prove this formula in previous videos, but I always like to get a
+sense of where it comes from and so this is going to be equal to, well if I add these two
+terms right over here, I get what? I get 1202. That number should look familiar. And then if I add these
+two, right over here, what do I get? I get 1202. And then if I add, I think
+you see where this is going, and then if I add these two characters, what do I get? I get 1202, all the way to these last two characters. You add them together, what do you get? You get 1202, so how many 1202s do I have? Well I have 550 of them. There are 550 of these terms. So this is going to be equal to 550 times 1202. And so if you just wanted
+to solve for this sum, you just divide all
+these sides divided by 2, so you divide by 2. You divide by 2. You divide by 2, and that's
+exactly what we did over here. 550 times 1202, divided by 2. So hopefully that gives you
+an intuition for things.

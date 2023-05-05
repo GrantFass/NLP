@@ -1,0 +1,72 @@
+Solve the equation: x squared
+minus x squared minus 4 over x minus 2 is equal to 4. And they tell us that x won't
+or cannot be 2 because if it was 2, then this would
+be undefined. It would be dividing by 0. So let's see what x is. Let's see the x that actually
+satisfies this equation. So you might be tempted to try
+to express this with the common denominator of x minus
+2 and then add these two expressions. But the thing that jumps out
+at me initially is that we have x squared minus 4 on the
+numerator, which is a difference of squares. Or if you factor it out, it's
+x plus 2 times x minus 2. So we should be able to factor
+this x minus 2 out. So let's do that. So if we were to rewrite it,
+this is equivalent to x squared minus-- instead of
+writing x squared minus 4, we know that's a difference
+of squares. That is x plus 2 times
+x minus 2. All of that over x minus 2. And that is equal to 4. And this whole time we're
+assuming that x won't be equal to 2. And because x does not equal to
+2, x minus 2 divided by x minus 2 is going
+to be defined. And it will be 1. So those two will cancel out. And so we're left with x squared
+minus x plus 2 is equal to 4. We can distribute the
+negative sign. And I'll just arbitrarily
+switch colors here. We can distribute the negative
+sign, so we get x squared minus x minus 2 is equal to 4. And what we want to do is put
+this in the form ax squared plus bx plus c is equal to 0. That allows us to either
+factor it or apply the quadratic equation or complete
+the square, or any of the ways that we know how to
+solve quadratics. So let's do that. Let's get a 0 on the
+right-hand side. The best way to do that is to
+subtract 4 from both sides of this equation. Subtract 4 and we are left
+with x squared minus x. Negative 2 minus 4
+is negative 6. And then 4 minus 4 is 0. That was the whole point. So we have x squared minus
+x minus 6 is equal to 0. Let me write it up here. x squared minus x minus
+6 is equal to 0. And this looks factorable. We just have to think of two
+numbers that when we multiply them give us negative 6. So they're going to have
+different signs. When I add them I'll
+get negative 1. So it looks like negative
+3 and positive 2 work. So if we do x minus
+3 times x plus 2. It's a little bit of trial and
+error, but 6 doesn't have that many factors to deal with and
+3 and 2 are one apart. They have different signs, so
+that's how you can think of how we get to that conclusion. Negative 3 times 2
+is negative 6. Negative 3 plus 2
+is negative 1. So that is equal to 0. So we have two possible
+ways to get 0. Either x minus 3 is equal to 0
+or x plus 2 is equal to 0. And then if we take x minus 3 is
+equal to 0, if we add 3 to both sides of that equation, we
+get x is equal to 3 or, if we subtract 2 from both sides of
+this equation, we get x is equal to negative 2. So both of these
+are solutions. And let's apply them into
+this equation to make sure that they work. Because these are solutions to
+essentially, the situation where we got rid of
+the x minus 2. Maybe it had some type
+of side effects. So let's just make sure that
+both of these actually work in the original equation. So let's try x is equal
+to 3 first. So you get 3 squared minus
+3 squared over 4. Sorry, 3 squared minus
+4 over 3 minus 2. So this is equal to 9 minus--
+3 squared is 9 --minus 4, which is 5, over 1. So 9 minus 5, which
+is equal to 4. Which is exactly what we
+needed it to equal. And let's try it with
+negative 2. So if I take negative 2 squared
+and I have a minus negative 2 squared minus
+4, all of that over negative 2 minus 2. So negative 2 squared is 4. Minus negative 2 squared,
+which is 4. Minus 4. All of that over negative
+2 minus negative 2 over negative 4. Well 4 minus 4 is 0, so this
+whole thing is just going to become 0. So this whole thing is
+going to equal 4. So both of these
+solutions work. And that makes sense, because
+when we actually canceled this out, we actually didn't
+fundamentally change anything about the equation. Only if you had the situation
+where the x would have been equal to 2. That's the only thing that
+you're really changing. So that's why it makes
+sense that both of these solutions work.

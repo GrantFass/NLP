@@ -1,0 +1,41 @@
+Voiceover: So, I claimed in the last
+video that we made a $5 risk-free profit by spending $38 to buy a call and a bond and we got $43 by shorting a stock
+and essentially writing a put option. What I want to do in this video is verify that we really do have
+all of our basis covered. So let's just think about all
+of the different scenarios for the underlying stock
+price at option expiration because that's the date
+that we care about. So let's take this situation
+where the stock just becomes where the stock just goes to 0. In that situation the call
+that we own is worthless. The call is worthless. No reason why you'd want to
+exercise the option to buy it for $35 when the stock is worth 0. But the good thing is, is that when
+we now have to cover our short. Remember, when you short something
+you're borrowing the stock and selling it and in the future you have to buy
+the stock to cover your short. To buy the stock and return it
+to whomever you borrowed it from. So now, we can spend $0. We can now spend $0, $0 to buy stock and essentially give it back
+to whom we borrowed it from or should cover the short. To buy stock to cover or unwind short. To cover the short. The bad thing is, is that
+put option that we wrote. Remember, we wrote it. We sold the put option. We're giving someone
+else the right to sell to sell the stock to us for $35 and if the stock price is worth $0
+they're going to exercise that option. Because they can then, they
+can buy the stock for 0 and they can sell it to us for $35. So, we have to spend, we
+have to spend $35 to buy ... to kind of buy the stock from put holder. From put holder. But the good thing is, is
+that we have this bond, we own this bond that's now worth $35. We have a $35 bond, 35. We have a $35 bond. So we can use the $35
+bond to spend the $35 such to give the $35 to the holder of
+the put and everything cancels out. We can still keep our original $5. So, that's the situation where
+the stock price went to 0. What about the situation where the
+stock price goes to something crazy? Let's say the stock price goes to 70. So, the stock price goes up. We draw a column over here. So, now let's think about the scenario
+where the stock price goes to 70. Now all of a sudden the
+call option we have, remember it's an option
+to buy the stock at $35. The call, the call is worth, is worth $35. The call is worth $35. We have a bond that's
+going to be worth $35. A bond worth 35. The put option is worthless so the
+person who we wrote the put for they won't exercise it. So, the put is worthless. The put is worthless but we
+still have to cover our short. We have to buy back the stock and return the stock to
+whomever we borrowed it from and now to cover our short, to buy
+the stock is going to cost us $70. So, we're going to have to use this $70, the $35 from the call
+and $35 from the bond to actually cover our short positions. So $70 to buy stock and cover short. What you'll see is I just picked
+kind of a low, a low stock price and a high stock price but no
+matter what the stock price is you're going to be able to
+cover all of your obligations and break even at expiration and
+keep your original risk-free $5. Now the reality of the situation is that
+opportunities like this seldom exist because frankly people can
+write computer programs to find these arbitrage opportunities and just exploit them
+really, really, really fast.

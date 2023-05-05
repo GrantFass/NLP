@@ -1,0 +1,164 @@
+- [Instructor] There are
+unfortunately quite a few common misconceptions
+that many people have when they deal with
+centripetal force problems, so in this video, we're
+gonna go over some examples to give you some problem
+solving strategies that you can use as well as going over a lot of the common
+misconceptions that people have when they deal with these
+centripetal motion problems. So, to start with, imagine this example, let's say a string is causing
+a ball to rotate in a circle. And to make it simple, let's say this ball is tracing out a perfect circle, and let's say it's sitting on
+a perfectly frictionless table so this would be the bird's eye view. This is the view from above. What it would look like from the side would be something like this. You'd have the ball tied to the rope and then you nail some sort of stake in the middle of the table. You tie the rope to the stake, and then you give the ball a push. And the ball's gonna take this
+circular path on the table when we view it from the side. But when we view it from above, you see this path traced out. So this is a bird's eye view that you would see if
+you were looking down from above the table, and this would be the side view. So let me ask you this question. What force is causing this
+ball to go in a circle? Now, a lot of people want
+to answer that question with the centripetal force. They'd say that it's the centripetal force that points inward that causes
+this ball to go in a circle, and that's not wrong. It's the truth, but it's not the whole truth. And the reason is that when
+we say centripetal force, all we really mean is
+a force that's directed toward the center of the circle. So saying the force that causes
+this ball to go in a circle is the centripetal force is a little unsatisfying. It'd be like answering the question, what force balances the force of gravity while the ball's on the table with the answer, the upward force. I mean, yeah, we knew it
+had to be an upward force, but that really doesn't
+tell us what force it is. Similarly, just saying
+the centripetal force just tells us what
+direction the force points. It doesn't really tell us
+what type of force this is, so to answer this question
+over here in a better way, if someone asked you what
+force counteracts gravity that keeps the ball from
+falling through the table, instead of saying upward force, it'd be better to just say
+that's the normal force. And we can do better over here as well. Instead of just saying
+the centripetal force, we could say what kind of force this is. It's gotta be one of the forces
+that we already know about. I mean, it's gotta be
+either the force of friction or normal force or tension
+or the force of gravity. The centripetal force
+isn't a new type of force. It's just one of the
+forces we already know that happens to be pointing
+toward the center of the circle. And that's important
+because this is our first, big common misconception. People think the centripetal
+force is a new kind of force, but it's not. It's just one of the
+forces we already know that happen to be pointing
+toward the center of the circle and that happen to be causing
+an object to move in a circle. So in this case over
+here, what force is it? Well, there's a rope tied to this mass, and that rope's gonna pull on it. And when a rope pulls, we call
+that the force of tension, so I'm gonna call this the tension. So that's a little better. Now we know what kind of force is acting as the centripetal force. Now, be careful out there. Sometimes, people want to do this, they're like, oh yeah,
+there's a force of tension, and there's also a centripetal force. But that's just crazy because this tension is the centripetal force. I wouldn't draw it twice anymore than I'd come over here and say, yeah, there's a normal force, there's also upward force. The upward force is the normal force. I wouldn't draw it again. Similarly, over here, I'm not gonna draw the centripetal force twice. The tension was the centripetal force. I mean, it's possible you
+could have two forces inward. Maybe there's two ropes and you had a second tension
+over here pulling inward, but you'd better be able to
+identify what force it is before you draw it. Don't just call it F centripetal, so you might be like,
+yeah, yeah, I get it. The centripetal force is
+just an extra title we give to a force that happens to point toward the center of the circle, but how would I ever
+solve a problem like this? What strategy do I use? I've got forces that are up,
+that are down, that are in. So let me show you how
+to solve some problems and some things to keep in mind. So let me add some numbers in here. So let's say I told you this. Let's say the mass of the
+ball was two kilograms, the rope's length was 0.5 meters, and the ball is traveling
+around the circle at a constant speed of
+five meters per second. So what kind of question
+might you be asked if given a problem like this? A possible question would be, well, what's the force
+of tension in the rope? And so, now's a good time for me to let you in on a little secret. The secret to solving
+centripetal force problems is that you solve them
+the same way you solve any force problem. In other words, first, you
+draw a quality force diagram. And then you use Newton's second law for one of the directions at a time. And if the direction you chose to analyze Newton's second law for didn't get you to where you needed to be, just do it again. Use Newton's second law
+again for another direction, and that'll get you to
+where you need to be. So in other words, let's
+draw a quality force diagram. We've got forces, but they're
+kind of all over here. This side view's gonna better illustrate all the forces involved. So we've already got
+the normal force upward and the force of gravity downward. Now, I'm gonna draw this
+tension pointing inward, that's the force that's acting
+as the centripetal force. Now, we're gonna use Newton's second law for one of the directions. Which direction should we pick? Well, which force do we want to find? We want to find this force of tension, so even though I could if I wanted to use Newton's second law for
+this vertical direction, the tension doesn't even point that way, so I'm not gonna bother
+with that direction first. I'm gonna see if I can get
+by doing this in one step, so I'm gonna use this horizontal direction and that's gonna be the
+centripetal direction, i.e., into the circle. And when we're dealing
+with the centripetal force, we're gonna be dealing with
+the centripetal acceleration, so over here, when I use
+a and set that equal to the net force over mass, if I'm gonna use the centripetal force, I'm gonna have to use the
+centripetal acceleration. In other words, I'm gonna only plug forces that go into, radially
+into the circle here, and I'm gonna have the radial
+centripetal acceleration right here. And we know the formula for
+centripetal acceleration, that's v squared over r, so I'm gonna plug v squared over r into the left hand side. That's the thing that's new. When we used Newton's second
+law for just regular forces, we just left it as a over here, but now, when you're using this law for the particular direction that is the centripetal direction, you're gonna replace a
+with v squared over r and then I set it equal to the net force in the centripetal
+direction over the mass. So what am I gonna plug in up here? What forces do I put up here? I mean, I've got normal
+force, tension, gravity. A common misconception is that
+people try to put them all into here. People put the gravitational
+force, the normal force, the tension, why not? But remember, if we've selected
+the centripetal direction, centripetal just means pointing toward the center of the circle, so I'm only going to plug in forces that are directed in toward
+the center of the circle, and that's not the normal force
+or the gravitational force. These forces do not point inward toward the center of the circle. The only force in this case that points toward the
+center of the circle is the tension force, and like we already said, that is the centripetal force. So over here, I'd have v squared over r, and that would equal the only force acting
+as the centripetal force is the tension. Now, should that be positive or negative? Well, we're gonna treat
+inward as positive, so any forces that point
+inward are gonna be positive. Is it possible for a centripetal
+force to be negative? It is. If there was some force
+that pointed outward, if for some reason
+there was another string pulling on the ball outward, we would include that
+force in this calculation, and we would include it
+with a negative sign, so forces that are
+directed out of the circle, we're gonna count as negative and forces that are
+directed into the circle, we're gonna count as positive in here. And if they're not directed into or out, we're not gonna include them
+in this calculation at all. Now, you might object. You might say, wait a minute. There is a force out of the circle. This ball wants to go out of the circle. There should be a force this way. This is often referred to
+as the centrifugal force, and that doesn't really exist. So when people say that
+there's an outward force trying to direct this
+ball out of the circle, they're usually referring
+to this centrifugal force, but this doesn't exist. It turns out this is not a real thing if you're using a good reference frame. There is no natural outward force for something going in a circle. You might object. You might be like, wait a minute. If I let go of this ball, it flies out of the circle. Won't it go flying off this way? And no, it won't. If you let go of the string right now, for some reason the string broke, at this moment this ball
+would not veer off that way. There's no force pushing it to the right. The ball, if the string broke, would just follow Newton's first law. It says it would just
+travel in a straight line with constant velocity, and
+it would roll off the table. So the reason you have to pull on the rope to get the ball to go in a circle is not because there's an outward force but because this ball wants
+to maintain its velocity. It has inertia, it wants to
+keep moving in a straight line, but you have to keep pulling on it to keep changing the
+direction of this velocity. So even though many people think there's an outward centrifugal force that's just naturally occurring on an object going in a circle, there is not. So finally, we can come back over to here. I can put my mass here. I can finally solve for
+my force of tension. If I do this, I'll multiply
+both sides by mass, and I just get that
+the force of tension is mass times the speed squared
+over the radius of the circle, and if I plug in my values, the mass was two, the speed was five, and you can't forget to square it. You divide by the radius which was 0.5, and you get that the force of
+tension had to be 100 Newtons. So in this case, the force of tension, which is the centripetal
+force, is equal to 100 Newtons. Now, some of you might be thinking, hey, this was way too much work for what ended up being
+a really simple problem. Why did we have to go
+through all the trouble of stating all of this
+problem solving strategy? And I agree. This one was easy, but other problems won't be easy. And if you don't have some sort of problem solving framework to fall back on, you'll be shooting blind and that's a lonely, lonely place to be. So let's use this same procedure, but let's look at a new problem. Let's say, you have this. Let's say you were riding your bike over a circular hill. So this gray line represents the pavement, and it starts off flat. But then the pavement veers upward and it creates this concrete hill that you ride over and then down and you ride over to this side. And all this purple circle is representing is the fact that if you were to continue this crest of the hill
+around into a circle, it would form this shape, so that gives us a way to
+define what the radius is of this top part of the hill. So, let's put some numbers in here. Let's say the radius of
+this hill was eight meters. Let's say the mass of you
+and your bike together are about 100 kilograms. And let's say you're riding over this hill at six meters per second. And let's say I asked you, what's the size of the normal force exerted on you and your bike as you ride over the crest of this hill at six meters per second? Now, let me show you what you can't do because most people would try to do this. They really want to say
+that the normal force is just gonna be equal
+to the force of gravity. Therefore, since the
+force of gravity is mg, the normal force should just be mg, but that can't be right. If the forces on an object
+are balanced and they cancel, the object is just gonna
+maintain its velocity, size, and direction, so this object, since
+it's going to the right, this bike would just
+continue going to the right and it would just hover
+straight off this hill. That'd be awesome, but
+that doesn't happen. This bike moves downward. It accelerates downward after this moment since it rides down the hill, so the downward force
+has got to be bigger. The force of gravity's gonna
+be bigger than the normal force 'cause if it wasn't, this bike would just hover off into space. So how do you solve this problem? We use the same strategy we used before. We're gonna draw a force diagram, but we already did that. We're gonna use Newton's second law for one of the directions, and the direction we're gonna pick is the vertical direction. Now, is that vertical direction
+the centripetal direction? Yeah, it is because look at into the circle is downward. Because this bike is at
+the crest of the hill, down corresponds to pointing
+toward the center of the circle and upward corresponds to pointing away, radially away from the
+center of the circle. So, since I'm dealing with
+the centripetal direction, we plug in the formula for
+the centripetal acceleration, and the part where you
+have to be most careful is what you plug into
+the centripetal forces. Remember that into the
+circle counts as positive and out of the circle counts as negative. So both of these forces,
+normal and gravity, are gonna be included,
+but only one of them are gonna be included
+with a positive sign. Think about which one. Can you figure out which force would be included in here
+with a positive sign? If you said the force of gravity, you're right, which is weird. Usually, we treat the force
+of gravity as negative because it points down, but for centripetal forces,
+what we care about is into or out of the circle. So, I'm gonna treat gravity as
+a positive centripetal force. Gravity is the force pointing toward the center of the circle, and the normal force in this case is gonna be a negative centripetal force since it's directed out of
+the center of the circle. And then, we divide by our mass. And so, if we solve this
+for the normal force, if you do some algebra, we'll multiply both sides by m, we move over the F N and
+then move the m v squared to the other side and what
+we end up getting is that mg minus m times v squared over r is equal to the normal force, which if we plug in numbers, gives us 100 kilograms times 9.8 minus 100 kilograms
+times the speed squared, that's gonna be six
+meters per second squared, divided by the radius of the
+circle we're traveling in which is eight meters, and you end up getting 530 Newtons. So the normal force on you and your bike as you ride over this hill is 530 Newtons. That is not equal to your weight. This is less than your weight. The force of gravity on you is gonna be m times g, that would be about 980 Newtons. So you experience less normal force, and this is natural. This is what happens when
+you ride over a hill fast. You feel slightly weightless
+as you go over that hill. If you've ever gone with a car a little too fast over a hill, you feel that whoa in your stomach, and you're like, hey, that was cool. That was the weightlessness
+you felt for a moment. If you go too fast, if you go too fast, this normal force will become zero. You'll subtract so much
+m v squared over r here, the normal force becomes zero. When that happens, you do become airborne, so be careful driving over those hills. If you drive too fast,
+you'll become airborne since your normal force
+is gonna become zero. So, recapping, when you solve
+centripetal force problems, be sure to draw a quality force diagram. Then use Newton's second law for one of the directions at a time. If you use the centripetal direction, the direction pointed
+radially into the circle, you can say that the
+acceleration in that direction is v squared over r, but be sure to only plug in forces that are directed radially, that is to say, forces
+that are pointed into or out of the circle. If they point into the circle, they're gonna be positive forces, and if they point out of the circle, they're gonna be negative forces.

@@ -1,0 +1,91 @@
+- Our goal is to find the pH
+of different salt solutions, and we'll start with this
+solution of sodium acetate. So in solution, we're gonna
+have sodium ions, Na+, and acetate anions, CH3COO-, and the sodium cations aren't
+going to react with water, but the acetate anions will. So the acetate anion is the
+conjugate base to acetic acid. So, the acetate anion is
+going to react with water, and it's gonna function as a base: it's going to take a proton from water. So if you add an H+ to
+CH3COO-, you get CH3COOH. And if you take a proton away from water, if you take an H+ away from H2O, you get OH-, or the hydroxide ion. Alright, so let's go ahead and write our initial concentrations here. So our goal is to calculate
+the pH of our solution. And we're starting with .25 molar concentration of sodium acetate. And so that's the same
+concentration of our acetate anion, here, so we're gonna write: 0.25 molar, for the initial concentration of the acetate anion. And if we pretend like
+nothing has reacted, we should have a zero concentration for both of our products, right? So a zero concentration
+for our two products. Next, we think about the change. So CH3COO-, the acetate
+anion, when it reacts, is gonna turn into:
+CH3COOH, or acetic acid. So whatever concentration we
+lose for the acetate anion, we gain for acetic acid. So if we make the concentration of the acetate anion, X, that reacts... Alright, so, X reacts. If X concentration reacts,
+we're going to lose X, and we're going to gain
+X over here, alright? And it's the same thing for hydroxide. We'll be gaining X, a
+concentration for the hydroxide. So, at equilibrium, the
+concentration of acetate would be .25 - X, so
+we're assuming everything comes through equilibrium, here. The concentration of
+acetic acid would be X. The concentration of
+hydroxide would also be X. Alright, next we write our
+equilibrium expression, and since this is acetate
+functioning as a base, we would write "Kb" here;
+so we write: Kb is equal to concentration of our products over concentration of our reactives. So we have the concentration
+of CH3COOH times the concentration of hydroxide, so times the concentration of OH- this is all: over the
+concentration of our reactants, and once again, we ignore water. So we have only the concentration of acetate to worry about here. So we put in the concentration of acetate. Alright, so... Let's think about the concentration of acetic acid at equilibrium. Alright, so at equilibrium,
+the concentration is X. And so I go over here and put "X", and then for hydroxide,
+it's the same thing, right? The concentration of hydroxide
+at equilibrium is also X, and so I put "X" in over here. And then, for the concentration of acetate at equilibrium, concentration of acetate is zero point two five minus X. So, 0.25 - X. Next, we need to think about
+the Kb value for this reaction, and you will probably not be
+able to find this in any table, but you can find the Ka for acetic acid. So, acetic acid and acetate
+is a conjugate acid-base pair, and the Ka value for acetic acid is easily found in most text books, and the Ka value is equal to 1.8 x 10-5. And our goal is to find the Kb. What is the Kb for the conjugate base? Now, we know that for a
+conjugate acid-base pair, Ka times Kb is equal to Kw, the ionization constant for water. So we can go ahead and plug in: 1.8 x 10-5 x Kb is equal to, we know this value is 1.0 x 10-14. So we just need to solve for Kb. So we can get out the calculator here and take 1.0 x 1014,
+and then we divide by: 1.8 x 105; so we get: 5.6 x 10-10. So let's get some more space
+down here and let's write that. So Kb is equal to 5.6 x 10-10. And this is equal to X squared, equal to X2 over .25 - X. Next, to make the math easier, we're going to assume
+that the concentration, X, is much, much smaller than
+.25, and if that's the case, if this is an extremely small number, we can just pretend like
+it's pretty close to zero, and so .25 - X is pretty
+much the same thing as 0.25. So let's make that assumption, once again, to make our life easier. So this is 5.6 x 10-10 = X2 over 0.25 So now we need to solve for X. So we have: 5.6 x 10-10 and
+we're going to multiply that, we're going to multiply that, by .25... And so we get 1.4 x 10-10. So we now need to take the
+square root of that number and we get: X is equal to, this gives us: X is equal to 1.2 times
+10 to the negative five. So let's go ahead and write that here. So: X = 1.2 x 10-5 Alright, what did X represent? We have all these
+calculations written here, we might have forgotten what X represents. X represents the concentration
+of hydroxide ions. So X is equal to the
+concentration of hydroxide ions. So let's go ahead and write that down. X is equal to the; this is molarity, this is the concentration
+of hydroxide ions, and if we know that, we can
+eventually get to the pH. That was our original question: to calculate the pH of our solution. So, we could find the pOH from here. I know the pOH is equal
+to the negative log of the hydroxide ion concentration. So I could take the negative
+log of what we just got, so, the negative log of 1.2 x 10-5, and that will give me the pOH. So let's go ahead and do that. So: -log(1.2 x 10-5) is going to give me a pOH of 4.92 So I go ahead and write: pOH = 4.92 And finally, to find the pH,
+I need to use one more thing, 'cause the pH + the pOH is equal to 14. So I can plug in the pOH into here, and then subtract that from 14. So the pH is equal to 14 - 4.92 and that comes out to 9.08 So the pH = 9.08 So we're dealing with a
+basic solution for our salts. Let's do another one. Our goal is to calculate the pH of a .050 molar solution
+of ammonium chloride. So, for ammonium chloride,
+we have NH4+ and Cl- The chloride anions aren't
+going to react appreciably with water, but the ammonium ions will. So let's our reaction here. So NH4+ is going to function as an acid. It's going to donate a proton to H2O. So if H2O accepts a proton, that turns into hydronium ions, so H3O+ And if NH4+ loses a
+proton, we're left with NH3 So let's start with our
+initial concentrations. Well, we're trying to find the
+pH of our solution, and we're starting with .050 molar
+solution of ammonium chloride. So that's the same concentration
+of ammonium ions, right? So this is .050 molar. And if we pretend like this
+reaction hasn't happened yet, our concentration of our products is zero. Next, we think about the change, and since NH4+ turns into NH3, whatever we lose for NH4+ is what we gain for NH3. So if we lose a certain
+concentration of X for ammonium, if we lose a certain
+concentration of X for NH4+ we gain the same concentration, X, for NH3 And therefore, we've also gained the same concentration for hydronium as well. So at equilibrium, our
+concentration of ammonium would be: .050 - X; for the hydronium
+ion, it would be X; and for ammonia, NH3,
+it would be X as well. So we're talking about ammonium
+acting as an acid here, and so we're gonna write
+an equilibrium expression. We're gonna write Ka. So Ka is equal to: concentration
+of products over reactants, so this would be the concentration of: H3O+ times the concentration of NH3 all over, the concentration of NH4+ 'cause we're leaving water out, so, all over the concentration of NH4+ Alright, the concentration of
+hydronium ions at equilibrium is X, so we put an "X" in here. Same thing for the concentration of NH3 That would be X, so we
+put an "X" into here. This is all over, the
+concentration of ammonium, which is .050 - X. So over here, we put 0.050 - X. Next, we need to think about the Ka value. So finding the Ka for this
+reaction is usually not something you would find
+in a table in a text book. But we know that we're
+talking about an acid-base, a conjugate acid-base pair, here. So, NH4+ and NH3 are a
+conjugate acid-base pair. We're trying to find the Ka for NH4+ And again, that's not usually
+found in most text books, but the Kb value for NH3, is. It's: 1.8 times 10 to the negative five. So for a conjugate acid-base pair, Ka times Kb is equal to Kw. We're trying to find Ka. We know Kb is 1.8 x 10-5 This is equal to: 1.0 times
+10 to the negative 14. So we can once again find
+Ka on our calculator. So, 1.0 x 10-14... We divide that by 1.8 x 10-5 And so, the Ka value is: 5.6 x 10-10 So if we get some room down here, we say: Ka = 5.6 x 10-10 This is equal to: so it'd
+be X squared over here... And once again, we're
+going to assume that X is much, much smaller than .050 So we don't have to
+worry about X right here, but it's an extremely small number, .050 - X is pretty much the same as .050 So we plug this in and
+we have: .050, here. So we need to solve for X. We get out the calculator,
+and we're going to take 5.6 x 10-10, and we're
+going to multiply by .05 and then we're gonna take the square root of that to get us what X is. So X is equal to 5.3 times
+10 to the negative six. So: X = 5.3 x 10-6 X represents the concentration
+of hydronium ions, so this is a concentration, right? This is the concentration
+of hydronium ions, so to find the pH, all we have to do is take the negative log of that. So, the pH is equal to the negative log of the concentration of hydronium ions. So we can just plug that into here: 5.3 x 10-6, and we can
+solve; and let's take the - log(5.3 x 10-6) And so we get: 5.28, if we round up, here. So let me get a little more room... So we're rounding up to
+5.28 for our final pH. So pH = 5.28 So we got an acetic solution,
+which is what we would expect if we think about the salts that we were originally given for this problem.

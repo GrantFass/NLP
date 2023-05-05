@@ -1,0 +1,47 @@
+- [Instructor] Derrick
+is a political pollster tracking the approval rating of the prime minster in his country. At the end of each month, he obtains data from a random sample of adults on whether or not they currently approve of the prime minister's performance, using a separate sample each month. Derrick wants to test if the proportion of adults who approved
+was significantly lower in December than it was in November. Which of the following
+is an appropriate set of hypotheses for Derrick's
+significance test? Pause this video and
+see if you can figure it out on your own. Alright, so let's think about ways to write a null hypothesis first. So, remember, your null
+hypothesis is assuming that there's no news here. There's no difference. So, one way to say it is
+that the true proportion in December is equal to your
+true proportion in November. Another way to write
+that exact same thing is to say that your, the difference between the true proportion in December, and let's see. They say, Derrick wants
+to test if the proportion of adults who approved
+was significantly lower in December than it was in November. And so, you could write it as because he's wanting to
+see if November is higher or not, I'll put November first. So, another way to say
+this exact same thing is that the true proportion of November minus the true proportion in
+December is equal to zero. So, each of these would look,
+be legitimate null hypotheses and so, let's see, this one looks good. This one looks good. This one looks good. This one is not a
+legitimate null hypothesis for what we're trying to do. So, we could rule out D. And then, the other one it says, Derrick wants to test if the proportion of adults who approved
+was significantly lower in December than it was in November. So, the news here would be if this is, if this actually is the case. If we have evidence that the true propor, that the proportion of adults who approved was significantly lower in
+December than it was in November. So, that the alternative hypothesis could look something like this. That the proportion in December was less than the proportion in November. Or, it could be that the proportion in November is greater than
+the proportion in December. And, if we look at these choices, the proportion in December is less than the proportion in November. That's what I wrote right over here. So, that looks good as well. Here, they swap it. Here, they're saying our
+alternative hypothesis is that the true proportion
+December is larger, is more than the true
+proportion in November which is the opposite of what say here. So, we rule that one out. Here, they're just saying that
+we actually have a difference in the proportions. And, many times, you will
+see something like this, but here, Derrick wants
+to test if the proportion of adults who approved
+was significantly lower in December than in November. He's not interested in
+the other way around. If he said, if it said
+Derrick wants to test if the proportion of adults who approved was significantly different in December than November, then you would pick choice
+C instead of choice A. But, given the way it was phrased, I would pick choice A. Let's do another example. Here, it says that Kiley
+has a dime and a nickel and she wonders if they
+have the same likelihood of showing heads when they are flipped. She flips each coin 100 times to test if there is a significant difference in the proportion of flips that they each land showing heads. Which of the following
+is an appropriate set of hypotheses for Kiley's
+significance test? So, once again, pause the video. Try to do it on your own. Alright, well, your
+null hypothesis would be that there is no difference. So, that the proportion of getting heads with your dime is the
+same as your proportion of heads with your nickel. And then, your alternative hypothesis, so it says here she fl, she wants to test if there's
+a significant difference. She's not trying to say if the proportion of dimes coming up head
+is significantly lower or significantly larger. She just cares about the difference. If there's a significant difference in the proportion of slips. So, her alternative hypothesis is that there is a difference. That these two proportions
+are not equal to each other. And, so, if we look at the choices, so this null hypothesis looks good. This null hypothesis does not look good. Remember, you're null hypothesis, you're trying to assume that,
+man, there's no news here. So, all of these null hypotheses, these, A, B, and D's null
+hypotheses look good. And then, the alternative hypotheses is this is exactly what we
+wrote before is for choice D. Choice A's alternative
+hypothesis would work if here it said she
+flips each coin 100 times to test if there is, if the proportion of heads with the dime
+is significantly lower than the proportion of
+heads with the nickel or something like that. And then, if it was the reverse, then choice B would look good. But, she just wants to see
+if there's a difference, not if one is lower than the other. And, so I would pick choice D.

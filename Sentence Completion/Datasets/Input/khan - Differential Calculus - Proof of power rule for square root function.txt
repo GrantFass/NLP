@@ -1,0 +1,67 @@
+So I've been requested to do
+the proof of the derivative of the square root of x, so I
+thought I would do a quick video on the proof of the
+derivative of the square root of x. So we know from the definition
+of a derivative that the derivative of the function
+square root of x, that is equal to-- let me switch colors, just
+for a variety-- that's equal to the limit as delta
+x approaches 0. And you know, some people
+say h approaches 0, or d approaches 0. I just use delta x. So the change in x over 0. And then we say f of x
+plus delta x, so in this case this is f of x. So it's the square root of x
+plus delta x minus f of x, which in this case it's
+square root of x. All of that over the change
+in x, over delta x. Right now when I look at that,
+there's not much simplification I can do to make this come out
+with something meaningful. I'm going to multiply the
+numerator and the denominator by the conjugate of the
+numerator is what I mean by that. Let me rewrite it. Limit is delta x approaching
+0-- I'm just rewriting what I have here. So I said the square root
+of x plus delta x minus square root of x. All of that over delta x. And I'm going to multiply
+that-- after switching colors-- times square root of x plus
+delta x plus the square root of x, over the square root of x
+plus delta x plus the square root of x. This is just 1, so I could of
+course multiply that times-- if we assume that x and delta x
+aren't both 0, this is a defined number and
+this will be 1. And we can do that. This is 1/1, we're just
+multiplying it times this equation, and we get limit
+as delta x approaches 0. This is a minus b
+times a plus b. Let me do little aside here. Let me say a plus b times
+a minus b is equal to a squared minus b squared. So this is a plus b
+times a minus b. So it's going to be
+equal to a squared. So what's this quantity squared
+or this quantity squared, either one, these are my a's. Well it's just going
+to be x plus delta x. So we get x plus delta x. And then what's b squared? So minus square root of
+x is b in this analogy. So square root of x
+squared is just x. And all of that over delta
+x times square root of x plus delta x plus the
+square root of x. Let's see what
+simplification we can do. Well we have an x and
+then a minus x, so those cancel out. x minus x. And then we're left in the
+numerator and the denominator, all we have is a delta x here
+and a delta x here, so let's divide the numerator and the
+denominator by delta x. So this goes to 1,
+this goes to 1. And so this equals the limit--
+I'll write smaller, because I'm running out of space-- limit as
+delta x approaches 0 of 1 over. And of course we can only do
+this assuming that delta-- well, we're dividing by delta
+x to begin with, so we know it's not 0, it's just
+approaching zero. So we get square root
+of x plus delta x plus the square root of x. And now we can just
+directly take the limit as it approaches 0. We can just set delta
+x as equal to 0. That's what it's approaching. So then that equals one
+over the square root of x. Right, delta x is 0, so
+we can ignore that. We could take the limit
+all the way to 0. And then this is of course just
+a square root of x here plus the square root of x,
+and that equals 1 over 2 square root of x. And that equals 1/2x
+to the negative 1/2. So we just proved that x to the
+1/2 power, the derivative of it is 1/2x to the negative 1/2,
+and so it is consistent with the general property that the
+derivative of-- oh I don't know-- the derivative of x to
+the n is equal to nx to the n minus 1, even in this case
+where the n was 1/2. Well hopefully
+that's satisfying. I didn't prove it for all
+fractions but this is a start. This is a common one you
+see, square root of x, and it's hopefully not too
+complicated for proof. I will see you in
+future videos.

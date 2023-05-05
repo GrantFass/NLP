@@ -1,0 +1,44 @@
+- [Voiceover] Let's see if we
+can simplify this expression. So pause the video and have a try at it, and then we're gonna do
+it together right now. All right, so when you look at this, it looks like both the
+numerator and denominator, they might, you might
+be able to factor them, and maybe they have some common factors that you can divide the
+numerator and the denominator by to simplify it. So let's first try to
+factor the numerator. X to the fourth, plus eight
+x squared, plus seven. At first it might be
+a little intimidating, because you have an x to the fourth here. It's not a quadratic; it's a fourth degree polynomial, but like any, if you,
+like a lot of quadratics that we've seen in the past,
+it does seem to have a pattern. For example, if this said x squared plus eight x plus seven, you'd say, oh, well, this
+is pretty straightforward to factor. What two numbers add up to eight and when I take their product I get seven? Well, there's only two numbers
+where you take their product and you get positive seven
+that are going to be positive, and they need to be
+positive, if they're going to add up to positive eight,
+and that's one and seven. So this would be x plus seven times x plus one. Well, if you just think of, instead of thinking in
+terms of x and x squared, if you just think in terms of x squared and x to the fourth, it's going to be the exact same thing. So this thing can be written as x squared plus seven times x squared plus one. If you want, you can do
+some type of a substitution saying, saying that a
+is equaled to x squared, in which case, so if you said
+that a is equal to x squared, then this thing would become a squared plus eight a plus seven, and then you would factor this into a plus seven and a plus one, and then you would undo the substitution, and that's x squared plus seven and x squared plus one. But hopefully you see
+what's going on here; this is the higher order term, and then this is half the degree of that, so it fits this mold. And so you could do a substitution, or you could just recognize, oh okay, instead of dealing with x squared, I'm dealing with x to the fourth. All right, so that's the numerator. Now let's think about, let's think about the denominator. So the denominator, both of these terms are divisible by three x. So let's factor out a three x. So it's three x times, three x times, if you factor out a three x here, three divided by three is one, x to the fifth divided
+by x is x to the fourth, and then if you factor out a three x here, you're just gonna get one. And so far this doesn't seem too helpful. I don't see an x to the fourth minus one, or a three x in the numerator, but maybe I can factor this out further, x to the fourth minus one. And that's because it is
+a difference of squares. And you might say, wait, I'm always used to recognizing a difference of squares as something like a squared minus one, which you could write as a plus one times a minus one. Well, this would be a squared minus one if you say that a is equal to x squared. Then this would be a squared minus one. So let's rewrite all of this. So let's rewrite. So this is all going to be equal to, same numerator, let's see, let's do it in green. Same numerator: x squared plus seven, can't
+factor that out any more, times x squared plus one,
+can't factor that out any more, all of that over three x, but this I can view as
+a difference of squares. So this is x squared squared, and this is obviously one squared, so this is going to be x squared plus one times x squared minus, times x squared minus one. Now clearly have an x
+squared in the numerator, x squared minus one in the numerator, x squared, sorry, x squared
+plus one in the numerator, x squared plus one in the denominator, and so I could cancel them out, and I'm going to be left
+with, in the numerator, x squared plus seven, over three x times x squared minus one. Now, this looks pretty simple, and we want to be a little careful, because whenever we do this cancelling out we don't want, we want to make sure that we restrict the xes for which the expression's defined, if we want them to be
+algebraically equivalent. So this one, would this be, this would obviously be undefined, so x cannot be equal to zero, x cannot be equal to plus or minus one. Positive or negative one
+would make this expression right over here equal zero, so it cannot be equal to zero, x cannot be equal to, I'll
+write plus or minus one; that would make this part zero. But this right over here, this one, unless, we're assuming we're dealing only with real numbers, this
+one can't ever equal zero if you're dealing with real numbers, because x squared is always
+going to be non-negative and you're adding it to a positive value, and so this part, this
+factor, would have never made the entire thing undefined. So we can actually just factor it out, or cancel it out, without
+worrying much about it. And so this is actually
+algebraically equivalent to what we had originally. Now we could write these
+constraints on it, if we want. If someone were to ask me, you know, for what x is this expression not defined, well, it's clear it's not defined for x, that would make the denominator zero, dividing by zero not defined, or if x is plus or minus one, it would make the denominator equal zero. But that is, that comes
+straight of this expression, so this expression and
+our original expression are algebraically equivalent. Now if you wanted to, you
+could expand the bottom out a little bit, you could
+multiply it out if you like. That's equivalent to, so x squared plus seven over three x times x squared
+is three x to the third minus three x. So these are all, these are
+all equivalent expressions, and we are done.

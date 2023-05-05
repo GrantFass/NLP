@@ -1,0 +1,47 @@
+- [Voiceover] So we have two examples here of someone trying to find the
+derivative of an expression. On the left-hand side, it says "Avery tried to find the derivative, "of seven minus five x using
+basic differentiation rules. "Here is her work," and on the right-hand side it says "Hannah tried to find the derivative, "of negative three plus eight x, "using basic differentiation rules, "here is her work." And these are two different examples of differentiation rules
+exercise on Khan academy, and I thought I would
+just do them side by side, because we can kind of think
+about what each of these people are doing correct or incorrect. So these are similar expressions, we have a constant and then
+we have a first degree term, a constant and then first degree term. So they're gonna take the derivative, so let's see, step one for Avery. She took, she's separately
+taking the derivative of seven, and separately taking
+the derivative of five x. So this my spider senses
+already going off here, because what happened to this
+negative right over here? So it would've sense for
+her to do the derivative of seven, and she could've
+said minus the derivative, of five x, that's one possibility
+that she could've done. The derivative of a difference is equal to the difference of the derivatives, we've seen that property. Or, she could've said, the derivative, she could've
+said this was equal to the derivative of seven, plus the derivative with respect to x of negative five x. These two things would've
+been equivalent to this one. But for this one, she somehow forgot to, include the negative. So I think she had a
+problem right at step one. Now, if you just follow
+her logic after step one, let's see if she makes any more mistakes. So, she takes the
+derivative of a constant, so constant isn't going to
+change with respect to x. So that makes sense, that
+that derivative is zero. And so we still have the
+derivative of five x, and remember, it should've
+been negative five x, or minus the derivative of five x. And let's see what she does here. So that zero disappears, and now she takes the constant, she takes the constant out, and that's true, the derivative of a
+constant times something, is equal to the constant times the derivative of that something. And then, she finds the
+derivative with respect to x of x is one, and that's true, if the slope, if you had
+the graph of y equals x, the slope there is one, or what's the rate of change at which x changes with respect to x? Well, that's gonna be one for one. So that the slope here is one, so this is gonna be five times one. Which is equal to five, and at the end they just say, at what step did Avery make a mistake? So she clearly made a mistake at step one, this right of here,
+should've been a negative, that's a negative, then that
+would've been a negative. And this would've been a negative. And that would've been a negative. And then her final
+answer should have been, should have been a negative five. Now let's go back to Hannah. To see if she made any mistakes and where. So she's differentiating
+a similar expression, so first she takes the
+derivative of the constant, plus the derivative of
+the first degree term. Derivative of constant
+is zero, that looks good. So you get the zero, and then you have the derivative
+of the first degree term. That's what she's trying to figure out. And then, let's see, she's taking... Let's see, so this seems off. She is assuming that the
+derivative of a product is equal to the product
+of the derivatives. That is not the case. And especially, and if
+you have a constant here, there's actually a much simpler
+way of thinking about it. Frankly the way that
+Avery thought about it, Avery had made a mistake at step one, but this is actually going to be equal to the derivative of a
+constant times an expression, is equal to the same thing as the constant times the derivative of, of the expression. So this would've been
+the correct way to go, and the derivative of x with respect to x, well that's just going to be one. So this should've all simplified to eight. What she did is, she is assuming, she tried to take the derivative of eight and multiply that times
+the derivative of x, that is not the way it works. In the future you will learn something called the product rule, but you won't even have
+to apply that here, because one of these, one of these components
+I guess you could say, is a constant. So this is the wrong step. This is where Hannah makes a mistake. And you could see, instead of getting a
+final answer of eight, she is getting a final answer of, she assumes well the
+derivative of eight is zero, times the derivative of x is one, zero times one. And she gets zero, which
+is not the right answer. So she makes a mistake at step three, and Avery made a mistake at step one.

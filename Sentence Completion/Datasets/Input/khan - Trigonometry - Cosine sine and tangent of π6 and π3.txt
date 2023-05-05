@@ -1,0 +1,70 @@
+- [Instructor] In this video, we're going to figure out what
+the sine, cosine and tangent of two very important angles are. Angles that you will see a
+lot in your trigonometric and just in general in your regular life. So these are the angles, pi over 3 radians and pi over 6 radians. And sometimes it's useful to
+visualize them as degrees. pi over 3, you might remember
+pi radians is 180 degrees, so you divide that by three, this is equivalent to 60 degrees. And once again, 180 degrees, which is the same thing as
+pi radians divided by six is the same thing as 30 degrees. Now, I'm going to do it using
+the unit circle definition of trig functions. But to help us there, I'm going to give us a
+little bit of a reminder of what some of you might be familiar with as 30, 60, 90 triangles, which I guess we could
+also call pi over six, pi over three, pi over two triangles. And so let me just draw one because this is going to be really helpful in establishing these trig functions using the unit circle definition. So let me draw a triangle here, it's hand drawn, so it's not as neat as it could be. So this right over here is a right angle, and let's say that this one
+is pi over three radians which is the same thing as 60 degrees, and this one over here
+is pi over six radians which is the same thing as 30 degrees. Now, let's also say that the longest side, the hypotenuse here has length one. Now, to help us think about
+what the other two sides are, what I'm going to do is
+flip this triangle over this side right over here, and essentially construct a mirror image. So because this right over
+here is a mirror image, we immediately know a few things. We know that this length right over here is going to be congruent
+to this length over here. And let me actually finish
+drawing the entire triangle, it's going to look something like this. And since once again, it's a reflection, this length over here is
+going to have length one, this is going to be pi over six radians, this is going to be pi over three radians. So what else do we know about
+this larger triangle now? Well, we know it's an
+equilateral triangle. All the angles, pi over three radians, pi over three radians and if you add two pi over sixes together, you're going to get pi over three as well, so it's a 60 degree, 60
+degree, 60 degree triangle. And so all the sides are
+going to have the same length, so it's going to be one, one and one. And if these two sides are congruent of the smaller triangles, of the smaller right triangles, well then this right over
+here must be one half, and then this right over here
+must be one half as well. Now, that's going to be useful for figuring out what this
+length right over here is going to be. Because we have two right triangles, we could use either one, but if we just use this
+bottom right triangle here the Pythagorean theorem tells us that one half squared, let's call this B, so plus B squared, I'm just pattern matching, A squared plus B squared
+is equal to C squared where C is the length of the hypotenuse, is equal to one squared. And so we get that one
+fourth plus B squared is equal to one or subtracting one fourth from both sides. B squared is equal to three-fourths, and then taking the
+principle root of both sides, we get B is equal to the
+square root of three over two. So just like that, we have figured out what all the lengths of this
+30, 60, 90 triangle are. So B here is equal to square
+root of three over two. Now, I said this would
+be useful as we go into the unit circle definitions
+of sine, cosine and tangent. And we're about to see why. So here I have two different unit circles, I'm going to use one for
+each of these angles. So first, let's think about
+pi over three radians. And so pi over three, would look something like this, this is pi over three radians. And the cosine and sine can be determined by the X and Y coordinates of this point where this radius intersects
+the actual unit circle. The coordinates here
+are going to be cosine of pi over three radians and sine of pi over three radians. Or another way to think about it is, I can set up a 30, 60, 90 triangle here, so I'm going to drop a perpendicular. This would be 90 degrees
+or pi over two radians. And then this angle over here, this is 60, this is 90,
+this is going to be 30, or another way of thinking about it, it's going to be pi over six radians. It's going to be just like
+one of these triangles here. And so the X coordinate, which is going to be the
+same thing as the cosine of pi over three, is going to be the length of
+this side, right over here. Well, what's that going to be? Well, when your hypotenuse is one, we know that the shorter side, the side opposite the pi over
+six radians, is one half. So just like that, we have
+been able to establish that cosine of pi over three
+radians is equal to one half. This right over here is one half, that is the X coordinate where this radius
+intersects the units circle. Now, what about the Y coordinate? What is sine of pi over three going to be? Well, the Y coordinate is the same thing as the length of this side, and once again, it goes
+back to being this triangle. If this is one, this is one half, this is one, this is one half, this other side is going to be square root of three over two. So sine of pi over three is going to be square
+root of three over two, so let me write that down. Sine of pi over three is equal to square root of three over two. And these are good ones to know. I never say really memorize things, it's always good to know
+how to derive things in case you forget. But if you have to memorize them I would highly recommend memorizing these, and then of course from these
+we can figure out the tangent. The tangent is just going to
+be the sine over the cosine, so let me write it down here. The tangent of pi over three is going to be the sine, which is square root of three over two, over the cosine which is one half, got a little squanchy down there, and so this is just going to be square root of three over two times two is just going to be square root of three. So now let's just use that
+same logic for pi over six. And in fact, I encourage
+you to pause this video and see if you can do that on your own. All right, now let's draw a radius that forms a pi over six radian angle with a positive X axis,
+might look like that. So if that's going to
+be pi over six radians, you might imagine it's interesting to drop a perpendicular here and see what type of
+triangle we've constructed. So this has length one, this is pi over six radians, this is a right angle. So this again, is going to
+follow the same pattern. This will be pi over three radians. And so the sides are
+exactly the exact same as this top blue triangle here. So we know that this length over here is going to be one half. We know that this length over here is going to be square
+root of three over two. And that's useful because that tells us the coordinates here. The coordinates here, the X coordinate of this
+point where the radius intersects the unit circle is square root of three over two, and then the Y coordinate is one half. And that immediately tells us the cosine and the sine of pi over six, let's just write it down. So this tells us that
+cosine of pi over six is equal to square root of three over two. And sine of pi over six is equal to one half. Notice, we actually just
+swap these two things around because now the angle that we're taking the sine or cosine of, is a different angle on
+a 30, 60, 90 triangle, but we're essentially utilizing
+the same side measure, just one way to think about it. And then what's the tangent going to be? I'll write it down here. The tangent of pi over six is going to be the sine over the cosine square root of three over two, and so that's going to
+be equal to one half times two over the square root of three, which is equal to one over
+the square root of three. Now some people sometimes
+don't like radicals in the denominator and so you can multiply the
+numerator and the denominator by square root of three if you like to get something like this, you multiply the numerator and denominator by square root of three you get square root of three over three, which is another way of
+writing tangent of pi over six. But either way, we're done, it's very useful to know
+the cosine, sine and tangent of both pi over three and pi over six. And now you also know how to derive it.

@@ -1,0 +1,25 @@
+- [Instructor] What
+are all positive values of p such that the series converges? So let's see. We have the sum from n equals one to infinity of negative one to the n plus one, times p over six to the n. So there's a couple of things
+that might jump out at you. This negative one to the n plus one, as n goes from one to two to three, this is just going to
+alternate between positive one, negative one, positive one, negative one. So we're gonna have alternating signs. That might be a little bit
+of a clue of what's going on, and actually, let's just write it out. This is going to be,
+see when n equals one, this is going to be to the second power, so it's gonna be positive one. So it's gonna be p over
+six, and when n is two, this is gonna be to the third power, so it's gonna be minus p over six squared, then plus p over six to the third power. And I could even write to the
+first power right over here. Then minus p over six to the fourth power, and we're gonna just
+keep going plus, minus, on and on and on and on forever. This is clearly, this is a
+classic alternating series right over here, and we could actually apply our alternating series test. And our alternating series test tells us that if this part of our expression, the part that is not alternating in sign, I guess you could say, if this part of the expression is
+monotonically decreasing, monotonically decreasing, which is just a fancy way of saying that each successive term is less
+than the term before it, and if we also know that the limit of this as n approaches infinity, that
+also has to be equal to zero. So the limit as n approaches infinity of p over six to the nth power
+also has to be equal to zero. Under what conditions is
+that going to be true? Well, to meet either
+one of those conditions, p over six has to be less than one. If p over six was equal to one, if, for example, p was six, well then we wouldn't be monotonically decreasing. Every term here would just be one. It would be one to the one,
+one squared, on and on and on. And if p is greater than
+six, well, then every time we multiply by p over six again, we would get a larger
+number over and over again, and the limit for sure
+would not be equal to zero. We could say p over six
+needs to be less than one, and so multiply both sides by six and you get p needs to be less than six. And they told us, for what are
+all the positive values of p? So we also know that p has
+to be greater than zero. P is greater than zero and less than six, which is that choice right over here. Once again, we're not gonna
+say less than or equal to six because if p was equal to six, this term is gonna be one to the
+n, and so we're just gonna have, this would be one. It would be one minus one plus one, on and on and on and on forever. So definitely like that first choice.

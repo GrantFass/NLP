@@ -1,0 +1,64 @@
+- [Instructor] Phosphorus
+pentachloride will decompose into phosphorus trichloride
+and chlorine gas. Kp for this reaction is
+equal to .500 at 500 Kelvin. Let's say that this
+reaction is at equilibrium and a reaction vessel that
+has a volume of 2.0 liters and the equilibrium partial pressure, of PCl5 is equal to .980 atmospheres. The equilibrium partial pressure of PCl3 is equal to .700 atmospheres. And the equilibrium partial
+pressure of chlorine gas is equal to .700 atmospheres. If we add up those
+three partial pressures, we get the total pressure of
+the gas mixture at equilibrium, which is equal to 2.38 atmospheres. And we're gonna call
+this total pressure, P1. If we decrease the volume from two liters down to one liter, and we keep the temperature
+constant at 500 Kelvin, we decrease the volume by a factor of two, which means we increase the
+pressure by a factor of two. So, all of the partial
+pressures of our gases double, and there's a new total pressure, which is twice the
+original total pressure. And this new total pressure
+is equal to 4.76 atmospheres. And from now on, we'll call
+this total pressure, P2. So, when the volume was two liters, the reaction started out at equilibrium and by decreasing the volume to one liter, and by doubling the pressure, we've introduced a stress to the system. And so, at this moment in time, when these are the partial pressures, the reaction is not at equilibrium. Le Chatelier's principle
+says the net reaction will move in the direction
+that decreases the stress. So, if the stress is an
+increase in the pressure, the net reaction will
+move in the direction that decreases the pressure. Looking at the balanced equation, there's one mole of gas
+on the reactant side, and there are two moles of
+gas on the product side. So, if the net reaction goes from the products to the reactants, if the net reaction goes to the left, the net reaction is going to the side with the smaller number of moles of gas, which would decrease the
+pressure and relieve the stress. The net reaction keeps moving to the left until equilibrium is reestablished. And when equilibrium is reestablished, there'll be a new total
+pressure, which we'll call P3. So, our goal is to calculate P3, so we can compare it to P1 and P2. And we're gonna do this
+in a quantitative way and in a more qualitative way. Let's use an ICE table to help us figure out the
+final total pressure, P3. In an ICE table, I stands for the initial
+partial pressure in this case, C is the change and E is the
+equilibrium partial pressure. The initial partial pressure of PCl5, after the volume was reduced to one liter, was 1.96 atmospheres. And the partial pressures of PCl3 and Cl2 were both 1.40 atmospheres. We already used Le Chatelier's principle to realize the net reaction's
+going to go to the left, which means we're going to decrease in the amount of our products, and we're going to increase
+the amount of the reactants. So, if we're gonna increase
+the amount of PCl5, we don't know how much
+we're gonna increase, we're gonna call that x. But we know it's going to increase, so we write plus x under the
+change part on the ICE table. And since our mole ratio of
+PCl5 to PCl3 is one to one, if we're gaining x for PCl5, we must be losing x for PCl3. And the same goes for Cl2, since there's a coefficient of one. So, we write minus x in our ICE table. Therefore, the equilibrium
+partial pressure of PCl5 would be 1.96 plus x. The equilibrium partial pressure of PCl3 would be 1.40 minus x. And the equilibrium
+partial pressure of Cl2 would also be 1.40 minus x. Next, we can plug in the
+equilibrium partial pressures into our Kp expression. So, we can plug in 1.40 minus x for the equilibrium
+partial pressure of PCl3, 1.40 minus x for the equilibrium
+partial pressure of Cl2, and 1.96 plus x for the equilibrium
+partial pressure of PCl5. And we can also plug in the value for the equilibrium constant, Kp. Here's what our equilibrium
+constant expression looks like with everything plugged in. And next, we would need to solve for x, which would involve the use
+of a quadratic equation. And when you do all that math, you find that x is equal to .330. Now that we know x is equal to .33, we can solve for the
+equilibrium partial pressures. 1.96 plus .33 is equal to 2.29. Therefore, the equilibrium
+partial pressure of PCl5 is 2.29 atmospheres, for PCl3, it's 1.40 minus x, 1.40 minus 0.33 is equal to 1.07. Therefore, the equilibrium
+partial pressure of PCl3 is equal to 1.07 atmospheres. And it's the same math for Cl2. So, the equilibrium
+partial pressure of Cl2 is also 1.07 atmospheres. So, to find the total pressure, P3, we simply need to add up the
+individual partial pressures. So, 2.29 plus 1.07 plus 1.07
+is equal to 4.43 atmospheres. Therefore, P3 is equal
+to 4.43 atmospheres. Doing the math helps us realize that x is not a very large number. And the reason why x is
+not a very large number is because the Kp value is
+equal to .500 for this reaction. And when K is close to one, there's an appreciable amount of both reactants and
+products at equilibrium. And we can see that with our
+equilibrium partial pressures. There's an appreciable
+amount of both of them. And since there has to be a decent amount of both reactants and
+products at equilibrium, we're not gonna see huge change from these initial partial pressures. So, there will definitely
+be a shift to the left to decrease the pressure. And when these were the partial pressures, if you remember P2 was equal to 4.76, so there's gonna be a
+decrease of pressure. So, there's gonna be a decrease, so the pressure is going
+to go down from 4.76, but since there's not a large change, it's not gonna be a huge change. And that's why we saw P3 only
+dropped to 4.43 atmospheres. So, if you go back to
+the original problem, and our goal is to figure out P3 in relation to P1 and to P2, without doing all of that math, we could think to ourselves, okay, so, we decrease the
+volume by a factor of two, which doubled the total pressure. But then, the net
+reaction moves to the left to decrease the pressure. Since it's not gonna
+move much to the left, it's not gonna decrease
+the pressure by a lot. Therefore, the final pressure P3 is going to be a little less than 4.76, but greater than 2.38 atmospheres.

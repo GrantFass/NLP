@@ -1,0 +1,24 @@
+- Welcome back. Now that you're getting comfortable with the simple lens law,
+let's go a little deeper. In the previous exercise you
+found that the simple lens law can be written as i equals o
+times f, divided by o minus f. So if the image plane in
+our camera is at distance i, objects at distance o from the camera will come into crisp focus. But what about objects
+at some other distance? Well, they'll be blurry. They're not in crisp focus. For example, the in-focus
+leaves are at a distance that satisfies the simple lens equation. However, the objects in the
+background are blurred out. And notice how the blur is
+in the shape of a circle. Recall from the last lesson, we called this a circle of confusion. But how big is the circle? To answer that question,
+in the rest of this lesson we'll develop a formula that describes the size of the circle, given
+things like the focal length of the lens, the aperture, and
+the distance to the object. As before, let's look
+at this problem in 2-D and consider what happens to a point P with coordinates x zero, y zero, at a distance o from the lens. We can intersect the
+parallel and medial rays to find the point where
+P comes into focus. Let's call this A. And remember, every lens has an aperture, which restricts which rays
+make it into the camera. Let's put a point E at
+the center of our lens and a point D at the top of the aperture. In other words, DE is the
+radius of our aperture. So all light rays from
+P which pass through DE end up focusing at the same point A. And if the image plane
+is at this distance i, then P will be in sharp focus. But if the image plane is at
+a larger distance, i prime, say over here, then P's
+image gets blurred out, into the region denoted BC in the diagram. This distance BC defines the size of the circle of confusion, that is, BC is the radius of the blur. Okay, let's pause here so
+you can get comfortable with this diagram before
+we finish our calculation.

@@ -1,0 +1,45 @@
+- [Instructor] All right, let's get a little bit more practice taking limits of composite functions. Here, we want to figure
+out what is the limit as x approaches negative
+one of g of h of x? The function g, we see
+it defined graphically here on the left, and the function h, we see it defined graphically
+here on the right. Pause this video and have a go at this. All right, now your first
+temptation might be to say, all right, what is the limit
+as x approaches negative one of h of x, and if that limit
+exists, then input that into g. If you take the limit as
+x approaches negative one of h of x, you see that
+you have a different limit as you approach from the right than when you approach from the left. So your temptation might be
+to give up at this point, but what we'll do in
+this video is to realize that this composite limit actually exists even though the limit as
+x approaches negative one of h of x does not exist. How do we figure this out? Well, what we could do
+is take right-handed and left-handed limits. Let's first figure out what is the limit as x approaches negative
+one from the right hand side of g of h of x? Well, to think about that,
+what is the limit of h as x approaches negative one
+from the right hand side? As we approach negative one
+from the right hand side, it looks like h is
+approaching negative two. Another way to think about
+it is this is going to be equal to the limit as h of
+x approaches negative two, and what direction is it
+approaching negative two from? Well, it's approaching
+negative two from values larger than negative two. H of x is decreasing down to negative two as x approaches negative
+one from the right. So it's approaching from
+values larger than negative two of g of h of x. G of h of x. I'm color coding it to be
+able to keep track of things. This is analogous to
+saying what is the limit, if you think about it as
+x approaches negative two from the positive direction of g? Here, h is just the input into g. So the input into g is
+approaching negative two from above, from the right I should say, from values larger than negative two, and we can see that g
+is approaching three. So this right over here is
+going to be equal to three. Now, let's take the limit
+as x approaches negative one from the left of g of h of x. What we could do is first think
+about what is h approaching as x approaches negative
+one from the left? As x approaches negative
+one from the left, it looks like h is
+approaching negative three. We could say this is the limit as h of x is approaching negative three, and it is approaching negative three from values greater than negative three. H of x is approaching
+negative three from above, or we could say from values
+greater than negative three, and then of g of h of x. Another way to think about it, what is the limit as the input to g approaches negative three from the right? As we approach negative
+three from the right, g is right here at three, so this is going to be
+equal to three again. So notice the right hand
+limit and the left hand limit in this case are both equal to three. So when the right hand
+and the left hand limit is equal to the same thing,
+we know that the limit is equal to that thing. This is a pretty cool example, because the limit of, you
+could say the internal function right over here of h of x, did not exist, but the limit of the composite
+function still exists.

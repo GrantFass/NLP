@@ -1,0 +1,33 @@
+- [Voiceover] In this video
+we're gonna talk even some more about parallel resistors. Parallel resistors are resistors that are connected end to end, and share the same nodes. Here's R one and R two,
+they share the same nodes. That one and that one. And that means they
+share the same voltage. And we worked out an expression for how to replace that
+with a single resistor. R parallel, and we found
+that one over R parallel is one over R one plus one over R two. So in this video I'm gonna actually start working with this
+expression a little bit more. And we'll just change it around
+a little bit to an easier, an easy way to remember it, and then we're gonna do a special case, where R one and R two are the same value and we're gonna see what happens. So right now I wanna do
+just a little bit of algebra on that expression, one over R p is the same as one over R one plus one over R two. What I wanna end up with
+here is an expression that on this side says
+R p equals something, and on this side I just
+want one expression, not two fractions. So we're gonna go about that by combining these two fractions first. So the least common denominator here, LCD, equals R one times R two, and I'm gonna convert both these to convert this to that proper denominator I have to multiply it by R two over R two, so we'll do it. We'll do all the steps. We'll multiply it by R two over R two. This expression we have to
+multiply it by R one over R one. And this equals, of course, one over R p. Continuing on, one over R p equals R two over R one R two plus R one over R one R two, and now I can combine them together. Let's move up here. One over R p equals, we'll keep everything
+in numerical order, R one plus R two over R one R two. And now I'm gonna take the reciprocal of both sides of the expression so I get an expression in R p, R p equals, and just flip
+over this expression, R one R two over R one plus R two. That is a way you can remember how
+to combine parallel resistors. The parallel equivalent resistor, R p, is the product of the two
+resistors over the sum. So it's the product over the sum. That's how I remember it. Now this arithmetic, this expression, is exactly the same as the
+original one that we had, these are the same, and it's just a question of which one do you want to remember, which one's easier to remember and which one's easiest to calculate. I like to remember this one here. Let's do a quick example using it. I'll move the screen up a little bit. Let's leave that there so we can see it. Let's say we have two parallel resistors. And we'll say the first one is 1,000 ohms, and the second one is 4,000 ohms. And the question is, what
+is the parallel combination of those things. How can I replace these with one resistor so the same current flows. And we'll use this expression here. So R p equals a product which is 1,000 times 4,000 divided by the sum 1,000 plus 4,000 and that equals, oh my goodness there's a lot of zeroes here. Four and six zeroes, one, two, three, four, five, six over, that's easy, 5,000. All right? And let's say, let's take out three
+zeroes out of this one. Let's knock off three zeroes here, and three zeroes here. And I have 4,000 divided by five and that equals 800 ohms. So that is this and that's how we use this expression. Now just something to notice here, notice that R parallel, the
+equivalent parallel resistor, is smaller than both of these. And that happens every time,
+that happens every time. The parallel resistance is smaller than the smallest resistor. So here it was 1,000, it's
+gonna be smaller than that. And that's a property
+of parallel resistors. Because you have two current paths that allow current to
+go two different ways, the effective resistance is always smaller than the smallest original path, because there's a way for
+current to go around another way. So this is now the expression
+for two parallel resistors, and that's a good one to remember. Now I'm gonna show you one special case, and we'll do this in this color. What if R one equals R two? What is R p? And for this special case,
+we use the same expression, we say R p, we say R p is the product, we'll just use R because R is, it's the same value. R times R over R plus R, and that's multiplied. And so that is R squared over two R, and one of these Rs cancels, so let's cancel that R and that squared, and we end up with R over two. So for the special case, if R one equals R two, then R p equals R over two. It's just half, and
+that should make sense. If we do something like this, if we draw two resistors in parallel, like this. and we say this is 300 ohms and this is 300 ohms, that means the effective, the effective parallel resistor, 150 ohms. And that's got a very
+pleasing symmetry to it because these resistors are the same, they have the same voltage, they're going to have the same current, basically twice as much current is gonna flow in this
+circuit as would flow if there was just one of these guys, so that's where the
+divide by two comes from. So for two resistors in parallel, if the resistors are the same value, the effective parallel
+resistance is just half.

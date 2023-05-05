@@ -1,0 +1,50 @@
+- [Tutor] Rory suspects that
+teachers in his school district have less than five years
+of experience on average. He decides to test his null hypothesis is that the mean number of years
+of experience is five years and his alternative hypothesis
+is that the true mean of years of experience
+is less than five years, using a sample of 25 teachers. His sample mean was four years and his sample standard
+deviation was two years. Rory wants to use these sample data to conduct a t test on the mean. Assume that all conditions
+for inference have been met. Calculate the test
+statistic for Rory's test. So I always just like to remind
+ourselves what's going on, so you have your null hypothesis here, that the mean number
+of years of experience for teachers in the district is five and then the alternative hypothesis is that the mean years of
+experience is less than five for teachers in the district. So if this represents all
+the teachers in the district, the population, then what
+he did is he took a sample and says he used a sample of 25 teachers, so n here is equal to 25
+and then from that sample, he was able to calculate some statistics, he was able to calculate the sample mean, so that sample mean was four years, the sample mean was four years and then he was also able to calculate the sample standard deviation, the sample standard deviation
+was equal to two years. Now the whole point that we do, or the main thing we do when
+we do significance tests is we say alright, if we assume
+the null hypothesis is true, what's the probability of getting a sample mean this low or lower and if that probability is below a preset significance level, then we reject the null hypothesis and it suggests the alternative, but in order to figure
+out that probability, we need to figure out a test statistic, sometimes we use a z test, if we're dealing with proportions, but when we deal with means,
+we tend to use a t test and the reason why is if you wanted to figure out a z statistic, what you would do is you
+would take your sample mean, subtract from that the assumed mean from the null hypothesis, so mu and I'll just put a little
+zero, sub zero there, so this is the assumed mean
+from the null hypothesis and then you would want to divide by the standard deviation of
+the sampling distribution of the sample mean, so
+you'd wanna divide by that, but this, we don't know and so that's why instead,
+we do a t statistic, in which case, we take the difference between our sample mean and
+our assumed population mean, the population parameter
+and we try to estimate this and we estimate that with
+our sample standard deviation divided by the square
+root of our sample size and so if you're inspired,
+I encourage you right, even if you're not inspired, (laughs) I encourage you to pause this video and try to calculate this t statistic. Well, this is going to
+be equal to, let's see, our sample mean is four minus our assumed mean is five, our assumed population mean is five, our sample standard deviation is two, all of that over the square
+root of the sample size, all of that over the square root of 25, so this is going to be equal,
+our numerator is negative one, so it's negative one
+divided by two over five, which is equal to negative
+one times five over two and so this is going to be equal to, equal to negative five
+over two or negative 2.5 and then what we would do
+in this, what Rory would do is then look this t value up on a t table and say, so if look at a
+distribution of a t statistic, something like that and say, okay, we are negative 2.5 below the mean, so negative 2.5 and so what he would wanna do
+is figure out this area here, 'cause this would be
+the probability of being that far below the mean or
+even further below the mean and so that would give us our p value and then if that p value is below some preset significance level, that Rory should have set, maybe 5% or 1%, then he'll reject the null hypothesis, which would suggest his suspicion that the true mean of years of experience for the teachers in his
+district is less than five. Now another really important
+thing to keep in mind is they told us that assume all conditions for inference have been
+met and so that's the, assuming that this was
+truly a random sample, that each of the individual observations are either truly independent
+or roughly independent, then maybe he observed
+either with replacement or it's less than 10% of the population and he feels good that
+the sampling distribution is going to be roughly normal and we've talked about
+that in other videos.

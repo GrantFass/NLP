@@ -1,0 +1,229 @@
+In the video where I first
+introduced the concept of entropy, I just tried
+something out. I defined my change in entropy
+as being equal to the heat added to a system, divided by
+the temperature at which it was added to the system. And then I tested to
+see if this was a valid state variable. And when I did that, I looked
+at the Carnot cycle. And this is a bit of a review. Never hurts to review. Let me draw the PV
+diagram here. We saw that we start at this
+state here, and then we proceed isothermically. We removed little pebbles
+off the piston. So we increased the volume
+and lowered the pressure. Then we proceed adiabatically,
+where we isolated things and we moved like that. That was adiabatically. Then at this other isotherm,
+we added the pebbles back. And then we isolated
+the system again. So adiabatically, we continued
+to add more pebbles, and we got back to our original
+state. And I did a couple of videos
+where I show that if you take the heat added here-- so this is
+all being done at some high temperature, T1. This is being done at some
+low temperature, T2. There's some heat being added
+here, Q1, and that there's some heat being released
+here, Q2. And since these are adiabatic,
+there's no transfer of heat to and from the system. And when I looked at this, and
+when I looked at the Carnot cycle, and I used this
+definition of entropy, I saw that the total change in S, when
+I go from this point all the way around and got back, the
+change in S, was equal to Q1 over T1 plus Q2 over T2. And then I actually showed you
+that this was equal to 0, which is exactly the result
+that I wanted to see. Because in order for this to be
+a state variable, in order for S to be a state variable, it
+should not be dependent on how I got there. It should only be dependent
+on my state variables. So even if I go on some crazy
+path, at the end of the day, it should get back to 0. But I did something, I guess,
+a little bit-- what I did wasn't a proof that this is
+always a valid state variable. It was only a proof that it's
+a valid state variable if we look at the Carnot cycle. But it turns out that it was
+only valid because the Carnot cycle was reversible. And this is a subtle but super
+important point, and I really should've clarified this
+on the first video. I guess I was too caught up
+showing the proof of the Carnot cycle to put the
+reversibility there. And before I even show you why
+it has to be reversable, let me just review what
+reversibility means. Now, we know that in order to
+even define a path here, the system has to be pretty close to
+equilibrium the whole time. That's the whole reason why
+throughout these videos, I've been drawing this piston, you
+know, have the gases down here, and then always-- instead
+of having one big weight on top that I took off
+or took on, because it would throw the system out of
+equilibrium-- I did it in really small increments. I just moved grains of sand, so
+that the system was always really close to equilibrium. And that's called quasistatic. and I've defined that before. And that means that you're
+always in kind of a quasi-equilibrium. So your state variables
+are always defined. But that, by itself, does not
+give you reversability. You have to be quasistatic and
+frictionless in order to be reversible. Now, what do we mean
+by frictionless? Well, I think you know what
+frictionless means. Is that like you see in this
+system right here, if I make this piston a little bit bigger,
+that when this piston rubs against the side of this
+wall, in kind of our real world, there's always a little
+bit of friction. Those molecules start bumping
+against each other, and then they start making them vibrate,
+so they transfer some kinetic energy. From just by rubbing into each
+other, they start generating some kinetic energy,
+or some heat. So you normally have some heat
+generated from friction. Now, if you have some heat
+generated from friction, when I remove a pebble-- first all,
+when I remove that first pebble, it might not
+even do anything. Because it might not even
+overcome-- you can kind of view it as the force
+of friction. But let's say I remove some
+pebbles, and this thing moves up a little bit. But because some of the, I guess
+you could say, the force differential, the pressure
+differential between the pebbles and the gas inside, and
+the pressure of the gas, was used to generate heat as
+opposed to work, when I add the pebbles back, if I have
+friction, I'm not going to get back to the same point
+that I was before. Because friction is always
+resisting the movement. So in order for something to be
+reversible, when I remove a couple of pebbles, if I removed
+ten pebbles and add the ten pebbles back, I should
+be at the exact same state. But as, you know, you can just
+do the thought experiment. If there's friction, I won't
+be at the exact same state. My piston won't move as much as
+you would expect if it was frictionless. So this is a key assumption
+for reversability. Now, the Carnot cycle, by
+definition, is reversible. And that's why no one could
+actually really implement an engine that fully does
+the Carnot cycle. And we even showed that, that
+the Carnot cycle is the most efficient potential engine. That if anyone made a more
+efficient engine, you could have a perpetual motion
+machine, or a perpetual energy machine. And the reason why the Carnot
+engine is the most efficient engine-- and there's no secret
+here-- it's because it's frictionless. Any engineer who makes engines
+could tell you, wow, if I could just remove all of the
+friction from my system, I would get a lot more
+efficient. Now, with that said-- so I've
+told you that look. The definition doesn't have to
+be-- it happened to work, Q divided by T, because
+I was dealing with a reversible system. And just to hit the point home,
+let me show you that it would not have worked if I had
+just defined it Q divided by T on an irreversible system. So let's say that I have-- let
+me draw another PV diagram. And I'm going to do almost
+a very simple thought experiment. Now I'm going to have an
+irreversible system. And I start here at some
+point on my PV diagram. And you know, this could be some
+type of cylinder, and it has a piston on top, and I have
+my rocks, like always. But this time, there's a
+little bit of friction. When this thing moves, a
+little bit of heat is generated in this. And when it moves in
+either direction, some heat is generated. So we can call that the
+heat from friction. When it moves either up
+or when it moves down. So let's do something. Let's stick this on a big
+reservoir, like we tend to do. So it's an isothermal system. So let's call this T1. And let's just start
+removing pebbles. And we'll move along
+an isotherm. Maybe to that point there. And then we're going to-- and
+I want to make a very important point here. Because this is has friction,
+I'm not going to get quite as far along the isotherm than
+if I didn't have friction. If this was a frictionless
+system, I would've gotten a little bit further along
+the isotherm. So the number of rocks isn't
+going to be the same as it was frictionless. But let's just say I
+move from here to here on the PV diagram. And then we go and add a bunch
+of rocks back, and we want to go all the way back. And I'm not even saying whether
+we have the same number of rocks or
+different rocks. You're probably going to have to
+add a few more rocks to get back to this point. But the idea here is, is that
+we've gotten back to the same point on the state diagram. So our delta U total should be
+equal to 0, which is equal to the delta U of expansion. So the delta U of expansion is
+the delta u to go that way, delta U of expansion, plus the
+delta U of contraction, which is the delta U of going
+back like this. Those have to be equal to
+0 by definition, right? Because internal energy is a
+state variable, and if we get to that same point, our delta
+U has to be equal to 0. So what's our delta
+U of expansion? What's our change in internal
+energy as we expand? Our delta U of expansion is
+equal to the heat added to the system minus the work
+done by the system. And we know how much
+work was done, this whole area right there. And then plus the heat added
+by the friction. There's some heat added
+by the friction. Let me do that in brown. What's that? I was on some random website off
+the screen, and all of a sudden that cartoon
+sound started up. I have no idea what that was. But anyway, where was I? So I said our change in internal
+energy from expansion is going to be the heat added
+to the system from our reservoir minus the work done
+by the system, as we expand, plus the heat added to the
+system or generated by the system-- I guess you could say,
+it's not being added. The system is creating this heat
+itself, as it expands. There's this friction
+right there. Fair enough. So this is the one variation. Now that we're not dealing with
+the reversible process, we have this friction. Now what's our change in energy
+from contraction? So our change in internal energy
+from contraction is going to be the heat that leaves
+the system, that has to go back into the reservoir
+as we contract. Because otherwise, if we didn't
+have the reservoir, the temperature would go up. But we want to release heat. So we want to say, heat
+released-- and I'm going to do something. Let's just assume that all
+of the Q's are positive. So if I'm releasing heat, it's
+going to be a minus Q release. Let's just say that this is a
+positive number, and if I'm releasing it, it's going to
+be a minus right there. And I want to just do that, just
+to hopefully make things little bit clearer. Plus the work performed
+on the system. I'm assuming that work is always
+positive, so if we're doing work, it'll
+be minus work. If work is being done to
+us, it'll be plus work. But in this situation
+as well, we're still adding heat from friction. Or heat from friction is still
+being generated in the system. This is still positive. In either direction, when we
+move upwards or downwards, the system is generating friction. Now, we always said, we went all
+the way here, we went all the way back. So the sum of these has to be
+equal to 0, because this is a state variable. So if the sum of all of this
+has to be equal to 0, let's sum this up. So this gets us to
+Qa minus Qr. So the heat accepted minus
+the heat released. The W's cancel out. Plus-- let me see right here--
+plus 2 times the heat of friction in either direction. All of that has to
+be equal to 0. Let's see. What we can do is, we can
+rewrite this as the heat accepted minus the heat released
+is equal to minus 2 times the amount of heat
+generated from friction. And then if we just switch these
+around, we'll get the heat released minus the heat
+accepted is equal to-- well, I just wanted to get all positive
+numbers-- 2 times the heat of friction. Now why did I do all of this? Because I wanted to do
+an experiment with an irreversible system, and this
+was a very simple experiment with an irreversible system. Now, we said that delta S,
+which a long time ago I defined as Q divided by T-- and
+in this video, I said it had to be reversible. And I wanted to show you right
+now that what if I didn't make the constraint that this
+has to be reversible? Because if this doesn't have to
+be reversible, and I just use this definition right here,
+you'll see that your delta S here would be-- you just
+divide everything by T-- because our temperature was
+constant the entire time, we were just on a reservoir--
+you'll see that this is going to be your delta s. This is your total change in
+the, I guess you could say, your net heat added
+to the system. So this is, let me say,
+this is the heat added to the system. Let me do it this way. Heat added to the system,
+divided by the temperature at which it was added. Which is a positive number. Even though we got to
+the exact same place on this date diagram. So in an reversible system,
+this wouldn't be a valid state variable. So it's only a valid state
+variable if it's reversible. Now, does that mean that you
+can only talk about entropy for reversible reactions? No. You can talk about entropy
+for anything. But what you do is-- and this
+is another important point. So let's say that I have some
+irreversible reaction that goes from here to here. And I want to figure out
+its change in entropy. Right? And it might have done all
+sorts of crazy things. It's an irreversible reaction,
+its path might have gone like that. That's assuming it's
+quasistatic, if we can even look at its path like that. If we wanted to figure out its
+change in entropy, though, we wouldn't worry about the heat
+that was added to it and the different temperatures at
+which it was added. We wouldn't worry about that. We would just say, OK. What would it have taken for a
+reversible system to go from this state to this state? And then maybe a reversible
+system would have done something like this. Sorry, I want to make
+it a smooth curve. Maybe a reversible system
+might have done something like that. And this change, this heat added
+by the reversible system divided by the temperature for
+the reversible system, would be the change in entropy. And this change in entropy--
+we could call this S final, and this is S initial, it's
+going to be the same for both systems. It's just, we don't use
+the irreversible system to figure out our entropy. We would use the reversible heat
+and temperature to figure out the actual change. Hopefully that clarifies
+something else. It's, on some level, a subtle
+point, but on some level it's super important. Because you can't-- the
+thermodynamic definition of entropy has to be this. It has to be heat added to a
+reversible system divided by the temperature that
+was added. Not just heat to any system. It just happened to work when
+I did it, and I should have been clearer about it when I
+first explained it, that it worked only because it was
+a Carnot cycle, which is reversible.

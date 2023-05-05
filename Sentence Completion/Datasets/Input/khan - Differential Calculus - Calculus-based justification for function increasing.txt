@@ -1,0 +1,36 @@
+- [Instructor] We are told
+the differentiable function h and its derivative h prime are graphed and you can see it here, h is in blue and then its derivative h
+prime is in this orange color. Four students were asked to give an appropriate
+calculus-based justification for the fact that h is increasing when x is greater than zero. Can you match the teacher's
+comments to the justifications? So before I even look at
+what the students wrote, you might say, hey, look,
+I can just look at this and see that h is increasing
+when x is greater than zero but just by looking at the graph of h, that by itself is not a
+calculus-based justification. We're not using calculus. We're just using our knowledge of what it means for a
+graph to be increasing. In order for it to be a
+calculus-based justification, we should use calculus in some way. So maybe use the derivative in some way. Now, you might recognize that you know that a
+function is increasing if its derivative is positive. So before I even look at
+what the students said, what I would say, my
+calculus-based justification, and I wouldn't even have
+to see the graph of h, I would just have to
+see the graph of h prime is to say, look, h prime is greater than, h prime is positive when
+x is greater than zero. If the derivative is positive then that means that the slope of the tangent line is positive and that means that the graph
+of the original function is going to be increasing. Now, let's see whether one
+of the students said that or what some of the other students wrote. So can you match the teacher's comments to the justifications? So one student wrote, the
+derivative of h is increasing when x is greater than zero. So it is indeed the case that
+the derivative is increasing when x is greater than zero but that's not the justification
+for why h is increasing. For example, the derivative
+could be increasing while still being negative in which case h would be decreasing. The appropriate justification
+is that h prime is positive, not that it's necessarily increasing 'cause you could be increasing
+and still not be positive. So let's see. I would say that this doesn't
+justify why h is increasing. When x is greater than zero, as the x-values increase, the
+function values also increase. Well, that is a justification
+for why h is increasing but that's not calculus-based. In no way are you using a derivative. So this isn't a
+calculus-based justification. It's above the x-axis. So this one, what is it? Are they talking about h? Are they talking about h prime? If they were saying that h
+prime is above the x-axis when x is greater than zero
+then that would be a good answer but this is just what is above the x-axis and over what interval? So I would actually, let's
+scroll down a little bit, this looks like a good thing
+for the teacher to write. Please use more precise language. This cannot be accepted as
+a correct justification. And then finally, this last student wrote, the derivative of h is positive
+when x is greater than zero and it is indeed the case. If your derivative is positive, that means that your original function is going to be increasing
+over that interval. So kudos, you are correct.

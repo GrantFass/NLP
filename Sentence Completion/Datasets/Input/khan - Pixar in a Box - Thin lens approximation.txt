@@ -1,0 +1,31 @@
+- Now, it's time to add a
+lens to our pinhole camera. In the previous lesson,
+we explored how lenses bend or refract incoming
+parallel rays of light and focus them at a single
+point known as a focal point. We called the distance from the lens to the focal point the
+focal length of the lens. Now, if an object is
+really far from a lens, all the light rays leaving it are effectively parallel like this, and these rays focus at this point, which is distance f from the lens. We saw this relationship in lesson one, but now let's think about nearby objects. Where do they focus? That is, where would you
+have to put the image plane to make this image sharp? To get started, we need to
+introduce some new variables. As we say in lesson one, f is
+the focal length of the lens. Let o be the distance to the
+object we want to focus on, and let i represent the
+distance from the lens and when the object comes into focus. Let's call this the focus plane. So, we need to develop a formula that lets us compute i from f and o. Before we can do this, we
+need to look more closely at how lenses refract light. Refraction is actually
+a little complicated, and it's described by an
+equation called Snell's law, but we won't need it here
+because we'll make an important simplifying assumption called
+the thin lens approximation, which makes the math easier to solve. The thin lens approximation says that any ray that passes
+through the center of the lens doesn't get bent at all. It remains straight. These are called medial rays. And we know that parallel
+rays will refract as they pass through the lens and pass through the
+focal point of the lens. That point is at distance f
+from the lens on the x-axis. So, the focal length
+efines where a parallel ray crosses the x-axis. So, now we have a definition of two rays which leave our object,
+medial and parallel, and where the two rays intersect defines the distance i at which
+the object comes into focus. And the really cool part,
+the thin lens approximation says that all rays leaving this point will come into focus at the same place. And similarly, all points on
+the plane parallel to the lens and at a distance o will come
+into focus on the same plane on the other side, which is
+why we call it our focus plane. If we can find the intersection of those two rays, then
+we'll know where all rays from this object will come into focus. Pretty cool. Okay, let's pause here so
+you can build your intuition about this diagram
+using the next exercise.

@@ -1,0 +1,107 @@
+Where we left off
+in the last video, we'd actually set up
+our definite integral to figure out the
+volume of this figure. So now we just have
+to evaluate it. And really the
+hardest part is going to be simplifying that
+and that right over there. So let's get to it. So what is this thing squared? Well, looks like
+we're going to have to do a little bit of
+polynomial multiplication here. So I'll go into that
+same color I had. So we're going to have 4 minus x
+squared plus 2x times 4 minus-- actually, let me write that
+in the order of the terms, or the degree of the terms. It's negative x squared
+plus 2x plus 4-- I just switched the order of
+these things-- times negative x squared plus 2x plus 4. So we're just going to
+multiply these two things. I shouldn't even write
+a multiplication symbol, it looks too much like an x. So 4 times 4 is 16. 4 times 2x is 8x. 4 times negative x squared
+is negative 4x squared. 2x times 4 is 8x. 2x times 2x is 4x squared. And then 2x times
+negative x squared is negative 2x to
+the third power. And now we just have to multiply
+negative x times all this. So negative-- or
+negative x squared. Negative x squared times
+4 is negative 4x squared. Negative x squared times 2x is
+negative 2x to the third power. And then negative
+x squared times negative x squared is
+positive x to the fourth. So it's going to be
+positive x to the fourth. And now we just have to
+add up all of these terms. And we get, let's see,
+we get x to the fourth-- add these two-- minus
+4x to the third. And then this cancels
+with this, but we still have that, so minus 4x squared. You add these two right
+over here, you get plus 16x. And then you have plus 16. So that's this expanded out. And now if we want to-- 4
+minus x times 4 minus x. So if we just have 4
+minus x times 4 minus x, we could actually do
+it this way as well. But that's just going
+to be 4 times 4, which is 16, plus 4 times negative
+x, which is negative 4x, negative x times 4,
+another negative 4x, and then negative x times
+negative x is equal to plus x squared. So if we were to
+swap the order, we get x squared minus 8x plus 16. But we're going
+to subtract this. So if you have the
+negative sign out there, we're going to
+subtract this business. So let's just do
+it right over here since we already have it set up. So we have this minus this. We're going to
+subtract this, or we could add the negative of it. So we'll put negative x
+squared plus 8x minus 16. So I'm just going to add
+the negative of this. And we get-- and I'll
+do this in a new color-- let's see, we get x
+to the fourth minus 4x to the third power minus
+5x squared plus 24x, and then these cancel out. So that's what we are left with. And so that's the
+inside of our integral. So we're going to take the
+integral of this thing, just so I don't have to
+keep rewriting this thing, from 0 until, if I
+remember correctly, 3. Yup, from 0 to 3, of this, dx. And then we had a
+pi out front here. So I'll just take that
+out of the integral. So times pi. Well, now we just to
+take the antiderivative. And this is going to be equal
+to pi times antiderivative of x to the fourth is
+x to the fifth over 5. Antiderivative of
+4x to the third is actually x to the fourth. So this is going to be
+minus x to the fourth-- you can verify that. Derivative is 4x, and
+then you decrement the exponent, 4x to the third. So that works out. And then the antiderivative
+of this is negative 5/3 x to the third. Just incremented the
+exponent and divided by that. And then you have plus 24x
+squared over 2, or 12x squared. And we're going
+to evaluate that. I like to match colors
+for my opening and closing parentheses. We're going to evaluate
+that-- actually, let me do it as brackets. We're going to evaluate
+that from 0 to 3. So this is going to be
+equal to pi times-- let's evaluate all this business at 3. So we're going to get
+3 to the fifth power. So let's see, 3 to the
+third is equal to 27. 3 to the fourth is equal to 81. 3 to the fifth is going to be
+equal to-- this times 3 is 243. So it's going to
+be 243-- it's going to be some hairy math-- 243 over
+5 minus-- well, 3 to the fourth is 81. Minus 81. Minus, let's see, we're going
+to have 3 to the third times-- let's see, so it's going
+to be minus 5 over 3 times 3 to the third power. So times 27. Well, 27 divided by 3 is just 9. 9 times 5 is 45. So let's just simplify that. So this is going
+to be equal to 45. Did I do that right? Yeah. It's essentially going to
+be like 3 squared times 5, because you're
+dividing by 3 here. So it's going to have 45. And then finally,
+3 squared is 9. 9 times 12 is 108. So plus 108. These problems that
+involve hairy arithmetic are always the most
+stressful for me, but I'll try not to
+get too stressed. And then we're going to subtract
+out this whole thing evaluated at 0, but lucky for us,
+that's pretty simple. This evaluated is 0, 0, 0, 0, 0. So we're going to
+subtract out 0, which simplifies
+things a good bit. So now we just have to do some
+hairy fraction arithmetic. So let's do it. So what I'm going to do first
+is simplify all of this part. And then I'm going to
+worry about putting it over a denominator of 5. So let's see what we have. We have negative 81 minus 45. So these two right over
+here become negative 126. And then negative 126 plus 108. Well, that's just going to be
+the same thing as negative 26 plus 8, which is going
+to be negative 18. So this whole thing
+simplifies to negative 18. Did I do that right? So this is negative 126. And then negative 126-- yes. It will be negative 18. So now we just have to
+write negative 18 over 5. Negative 18 over 5 is the same
+thing as negative-- let's see, 5 times 10 is 50, plus 40. So that's going to be
+negative 90 over 5. So this whole thing
+has simplified to-- is equal to pi
+times 243 over 5 minus 90 over 5, which is
+equal to pi-- guys, I deserve a drum roll now. This was some hairy mathematics. So 243 minus 90 is
+going to be 153 over 5. Or we can write this
+as 153 pi over 5. And after all that
+math, you sometimes forget what we were
+doing in the first place. We were figuring out
+this right over here is the volume of
+this figure that had this little inside
+of it bored out.

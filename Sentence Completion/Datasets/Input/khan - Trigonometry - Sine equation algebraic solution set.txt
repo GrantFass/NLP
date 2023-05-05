@@ -1,0 +1,55 @@
+- [Instructor] The goal of this video is to find the solution set
+for the following equation. So all of the X values, and we're dealing with radians, that will
+satisfy this equation. So I encourage you, like
+always, pause this video and see if you can work
+through this on your own before we worked through it together. All right, now let's
+work through it together. Now your intuition, which
+would be correct, might be, let's see if we can isolate the sin of X over four algebraically. And the first step I
+would do is subtract 11 from both sides. And if you do that, you
+would get eight sin of X over four is equal to three,
+just subtracted 11, both sides. Now to isolate the sin, I would
+divide both sides by eight and I would get sin of X
+over four is equal to 3/8. Now, before I go further,
+let's think about whether this is the most
+general solution here or whether we're going to find
+all of the solution set here. Well, we have to remind ourselves, let me actually draw a little
+bit of a unit circle here. So that's my X axis. That's my Y axis. Then a circle. And if we have some angle
+theta right over here. So that's theta, we know that
+the sin of theta is equal to the Y coordinate of where this radius
+intersects the unit circle. And we also know that if we add an arbitrary
+number of two pies here or if we subtract an
+arbitrary number of two pis, we go all the way around the unit circle, back to where we began and so the sin of theta would be the same. So we know that sin of theta
+plus any integer multiple of two pi, that's going to
+be equal to the sin of theta. And so we can generalize
+this a little bit. We can instead of just
+saying, sin of X over four is equal to 3/8, we could
+write that sin of X over four plus any integer multiple of
+two pi is going to be equal to 3/8 where N is any integer. It could even be a negative
+one, a negative two or of course it could be
+zero, one, two, three, so on and so forth. So is this, if we solve now for X, is this going to give us the
+most general solution set? Well, we can also remind ourselves
+that if I have theta here and sin if theta gets there. There's one other point on the unit circle where I get the same sin. It would be right over here. The Y coordinate would be the same. And one way to think about it is if we start at pi radians,
+which would be right over there and we were to subtract theta, we're going to get the same thing. So this angle right over here, you could view as pi minus theta. And you could keep trying
+it out for any theta, even the theta that put
+you in the second quadrant, third quadrant or fourth quadrant,
+if you do pi minus theta, sin of pi minus theta, you're going to get the same sin value. So we also know that sin of pi minus theta is equal to sin of theta. And so let me write another
+expression over here. So it's not just sin of X over four is equal to 3/8. We could also write that
+sin of pi minus X over four, 'cause X over four is the theta here. Sin of pi minus X over
+four is equal to 3/8. And of course we can also
+use the other principle that we can add 2 pi or
+subtract two pi from this, an arbitrary number of times and the sin of that will
+still be equal to 3/8. So I could write it like this. Sin of pi minus X over four
+plus an integer multiple of two pi, that is going
+to be equal to 3/8. And if I solve both of these, the combination of them, the union of them would give me the broadest solution set. So let's do that. So over here, let me take the
+inverse sin of both sides. I get X over four plus two pi N is equal to the inverse sign of 3/8. Now I could subtract two
+pi N from both sides. I get X over four is equal to the inverse sin of 3/8, minus two pi N. And if you think about it,
+because N can be any integer, this sin here in front of the two, this negative really doesn't matter. It could even be a positive. And now let's multiply both sides by four. We get X is equal to four
+times the inverse sin of 3/8 minus eight pi N. And then if I work on this
+blue part right over here, same idea, take the
+inverse side of both sides. We get pi minus X over
+four plus two pi N is equal to the inverse sin of 3/8. And then let's see, I can
+subtract pi from both sides and subtract two pi N from both sides. And so I get negative X over four is equal to the inverse sin of 3/8
+minus pi minus two pi N. And I multiply both
+sides by negative four. I get X is equal to negative
+four times the inverse sin of 3/8 plus four pi plus eight pi N. And as I mentioned, the
+union of both of these give us the entire solution set to our original equation here.

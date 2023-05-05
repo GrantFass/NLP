@@ -1,0 +1,62 @@
+Let's explore a bit how the
+price of an option can vary, or how it can relate to
+the actual expiration date. So what I'm going to do is
+compare two similar options with the underlying stock
+being General Electric. And they're going to be
+the same in every way, except one is going to have a
+further out expiration date. So let's compare this
+call option right here. So this is a call option on
+GE with a $17 strike price. So it's the option to
+buy GE stock at $17. And it has an April,
+2011 expiration. So it's going to expire,
+or the last day of trading that you could
+trade this option, will be the third
+Friday in April. Let's compare that with an
+option that has the same strike price, but has a
+December, 2011 expiration. So we're going to look for $17
+strike price right over here. And you can see right when
+you compare the options that the one that has a further
+out expiration cost more. This one costs $3.25, while
+this one only cost $2.36. And the reason why
+it costs more is because you get to retain
+the option for longer. So you could imagine, $17. Let's say that $17
+is right over here. Let me draw a
+hypothetical stock chart. So let's say that $17
+is right over here. And so you could
+imagine, let's say, that you have both
+of those options. Or you have the option to have
+either one of those options. And let's say that the stock
+does something like that. Well, it's going
+to be in the money. You have the right, if you own
+either one of those options, you have the option to
+buy the stock at $17 and then sell it at
+whatever price this is. Maybe this price over here
+is like $20 something. So you would make money. But if you have the option
+with a closer expiration, with the April,
+2011 expiration, you have to exercise the
+option right now. You would have to
+exercise it right now and close out the option. If you had the longer dated
+option, you could do it. You could do the
+exact same thing that this owner of an
+April, 2011 option has. Or you can hold the
+option and maybe see if the stock continues to go up. Or you could imagine
+a downside scenario. Maybe the stock does
+something like this, where it goes out of the money. Someone who holds the closer
+dated option, the one that expires first, they'll be
+completely out of the money. The option would be
+worthless on this date. But if you have the
+longer expiration, if your option does not
+expire until December of 2011, then you could hold it. And maybe, maybe the stock
+will do something nice. There's some probability
+that it will one day become in the money. I want to make it clear. Even if you have
+this situation here, and you hold the
+longer dated option-- you have the option that's
+going to expire in December-- you still would not
+want to exercise it. Because there is
+someone who would still enjoy all of this
+optionality of the future. So what you're better off
+doing, instead of exercising the option, you're better off
+selling the longer dated option right over there. And you should be able to
+capture at least as much profit as you would from exercising the
+option, plus capturing whatever value the buyer sees in
+the future optionality.

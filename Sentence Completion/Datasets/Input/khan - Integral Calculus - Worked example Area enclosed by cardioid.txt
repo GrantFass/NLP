@@ -1,0 +1,54 @@
+- So this darker curve in blue is the graph of r is equal
+to 1 minus cosine of theta, of course we're dealing
+in polar coordinates here. And what I'm interested in is
+to see if we can figure out the area enclosed by this curve. And I encourage you to pause the video and try it on your own. Alright, let's work through it together. So we've already seen, we've
+already given ourselves the intuition for the formula, that the area enclosed by a polar graph is going to be equal to one
+half the definite integral from our starting theta
+to our ending theta, from alpha to beta, of r
+of theta squared d theta. And so we, essentially,
+just have to apply this to this function right over here. So in this case, the area
+is going to be equal to one half the definite integral. Now what's our alpha and what's our beta? Well, we're going from theta
+is equal to zero radians, and we're essentially going all the way-- When theta is equal to
+zero radians is 1 minus 1 we're right over there. And then we go all the way around to theta is equal to two pi radians. Notice when we're back at two
+pi, cosine of two pi is one, one minus one is zero again. So we get back to that point. So we're going from theta
+is equal to zero radians to theta is equal to two pi radians. Now what's r of theta squared? Maybe I'll color code this a little bit. R of theta squared. Well it's just going to be
+one minus cosine of theta. One minus cosine theta squared. And of course we have our d theta. We have our d theta. And now we just have to
+evaluate this integral. So once again, at any
+point you feel inspired, try to evaluate this. So let's do this, alright. So what I would do... So this is going to be equal to one half times the definite integral
+from zero to two pi. And let me expand this out. This is going to be one
+minus two cosine theta plus cosine squared theta, d theta. D theta. Now I know how to take the
+anti-derivative of one, I know how to take the anti-derivitive of negative cosine of theta,
+but cosine squared theta, this is a little bit... It doesn't jump out at you
+that you can just do this, use u-substitution or something like that, but lucky for us, we have
+our trigonometric identities, and so we know. We know that cosine squared of theta is just the same thing
+as one half times one plus cosine of two theta. You learned this in trigonometry class. If you didn't, we'll,
+you've learned it just now. And that's why this is
+one of the more useful trigonometric identities if
+you're finding any type of anti-derivative or if
+you're integrating anything. And so let's do that. Let's rewrite this right over here as one half times one plus
+cosine of two theta. And let's see, and maybe we could... Yeah, let's just do it like that. I guess we could, if we wanted... Well, we'll just do it like that. So this is going to be equal to one half, and then we are going to... One half, now let's just
+start taking anti-derivatives. One half. Now the anti-derivative of
+one, with respect to theta, is just going to be theta. The anti-derivative of
+negative two cosine of theta, well that's just going to be
+negative two sine of theta. Negative two sine theta. You can take the derivative, the derivative of sine is cosine and the negative two,
+it'll just multiple it times the derivative of sine of theta so it's negative two cosine of theta. And then we're going to have, let's see... So let me distribute this. This is the same thing
+as one half plus one half cosine of two theta. So let's just assume it's this way. So the anti-derivative of one half, so the anti-derivative of one-half. So I'm really looking at
+that right over there. It's going to be one half theta. One half theta. And then the anti-derivative of one half cosine of two theta, let's see... The derivative of sine of two theta is two cosine of two theta. So the anti-derivative of this is... The anti-derivative of
+cosine of two theta, and you can do u-substitution if you like, but you might be able
+to do this in your head, the anti-derivative of cosine
+of two theta is going to be one half sine of two theta. And then you have this
+one half right over here. So this is going to be... Let me show you what I'm
+finding the anti-derivative of. Of that right over there, of this, and I guess this right over here. So this is going to be plus
+one fourth sine of two theta. And I encourage you to
+find the derivative here if that last part was
+a little bit confusing. The derivative of sine of two theta is two cosine of two theta, two over one fourth is one half, you get to one half cosine of two theta. And we're going to
+evaluate that at two pi, at two pi, and at zero. So when you evaluate
+it, one thing that might jump out at you is when
+you evaluate this at zero, this whole thing,
+everything, every term here is just going to be zero, so
+that simplifies things nicely. So we really just have
+to take one half of... It evaluated at two pi. So this is going to be
+one half times two pi, two pi, and then sine of two pi is zero, so that's just going to be zero. And then plus one half times two pi, so that's going to be plus pi. And then sign of two times
+two pi sine of four pi, that's still going to be zero. So this is going to be zero as well, and we are almost done. So this is going to be
+one half times three pi or three halves, three
+halves pi is the area, is the area of this region.

@@ -1,0 +1,27 @@
+- Find the area of a
+square with side (6x-5y). Let me draw our square
+and all of the sides of a square are going
+to have the same length, and they're telling us that the length for each of the sides which is the same for all of them is (6x-5y). So the height would be 6x-5y, and so would the width, 6x-5y, and if we wanted to find
+the area of the square we just have to multiply
+the width times the height. So the area for this square
+is just going to be the width, which is (6x-5y) times the height, times the height which is also (6x-5y), so we just have to multiply
+these two binomials. To do this, you could either do FOIL if you like memorizing things or you could just remember
+this is just applying the distributive property twice. So what we could do is
+distribute this entire magenta, (6x-5y), distribute it over each of these terms, in the yellow (6x-5y). If we do that, we will get this 6x times this entire (6x-5y), so (6x-5y), and then we have -5y, - 5y times once again, the entire magenta, (6x-5y). And what does this give us? So we have, we have 6x times 6x, so when I distributed just this, I'm now doing the distributive
+property for the second time, 6x times 6x is 36x squared, and then when I take 6x times -5y, I get 6 times -5 is -30, and then I have an x times y, -30xy. And then I want to take, I'm trying to introduce many colors here, so I have this -5y times this 6x right over here so -5 times 6 is -30. - 30 and I have a y and
+an x or an x and a y, and then finally I have my
+last distribution to do, let me do that maybe in white, I have -5y times another -5y, so the negative times a
+negative is a positive so it is positive, 5 times 5 is 25, y times y is y squared. And then we are almost done. Right over here, we could say, we can just add these two terms in the middle right over here, - 30xy-30xy is going to be -60xy. So you get 36x squared -60xy +25y squared. Now, there is a faster way
+to do this if you recognize. If you recognize that if
+I'm squaring a binomial, which is essentially
+what we're doing here, this is the exact same thing as 6x-5y squared. So you might recognize a pattern. If I have (a+b) squared,
+this is the same thing as (a+b) times (a+b) and if you were to multiply it out this exact same way we just did it here, the pattern here is it's a
+times a which is a squared, plus a times b, +ab, plus b times a, which is also +ab, we
+just switched the order, plus b squared, +b
+squared so this is equal to a squared +2ab +b squared. This is kind of the fast way to look, if you're squaring any binomial,
+it will be a+b squared, it will be a squared +2ab + b squared. And if you knew this ahead of time, then you could have just applied that to this squaring of the
+binomial right up here so let's do it that way as well. So if we 6x, (6x-5y) squared, we could just say well, this
+is going to be a squared. It's going to be a squared in which in this case is 6x squared +2ab, so that's +2 times a which is (6x) times b which is (-5y), - 5y +b squared, which is +(-5y), everything is squared. And then this will simplify too, 6x squared is 36x squared plus, actually it's going to be a negative here because it's going to be 2 times 6 is 12 times -5 is -60, we have x and a y, x and a y, and the -5y squared is +25y squared. So hopefully you saw
+multiple ways to do this, if you saw this pattern immediately, and if you knew this pattern immediately, you could just cut to the
+chase and go straight here, you wouldn't have to do
+distributive property twice, although, this will never be wrong.

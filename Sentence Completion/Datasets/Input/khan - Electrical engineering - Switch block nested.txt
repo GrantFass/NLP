@@ -1,0 +1,54 @@
+Often you will need to
+define multiple states for your robot, which you could
+think of as behavior states. For example, if we had our
+ultrasonic sensor looking out in this direction, a
+simple object detector could be based on two states. So let's say this is
+20 centimeters away. State A is if it
+detects anything here, and state B is if it
+detects an object out here or no object at all. And in these states,
+you could do anything. State A could be playing tone
+A or turning on the motors or turning on a light or
+running a whole other program. And equivalently, state
+B could be anything. However, what happens if we
+need to introduce another state? Now, before I do this, remember
+to solve this object detector program we could just use a
+single switch statement, right? The switch statement
+is controlled by the ultrasonic sensor
+and it would say, oh, is it less than 20? Then go to do A. And if
+it's greater than 20, then go to do B. So what happens if there's
+state C, which is, let's say, anything which is greater
+than 40 centimeters away? So we have this
+intermediary region B here. We can't solve this with
+a single switch statement. So what we can do, and
+what's important to realize, is you can nest switch
+statements multiple times and it would look like this. And it's simply a
+cascading decision. So B and C are here. And let's think about
+how this might work. Our program begins here and
+first it will ask the question, is the object less than
+20 centimeters away? And if it is, it's going to
+do A. So A is this region. And if not, we go
+ask another question. And think of it as a divide
+and conquer approach. The second switch statement
+is just looking at this region now, because we've already
+taken care of state A. And now this switch
+statement, the solution would be to ask is the object
+greater than 40 centimeters away, which would take care
+of C. And if it's true, we'll go jump to state
+C. And if it's not true, we'll be left over at state B.
+Now, if we had another state D and we can best multiple
+switch statements, as many as you need. Now, to nest switch statements
+in the Mindstorms environment, it's very easy. It's just dragging and dropping. So for example, let's
+say I had this set up for the ultrasonic sensor here. Right now we have two states. I can drag another
+switch statement here. And now we have the three
+states, as you can see here. I'll put a sound block here
+just so it expands a little bit. See, here's A, B,
+and C. And if we needed to define four
+states, we could similarly drag another switch
+statement here. So now there is four
+different states our program could execute in. So it's as simple as that. The first step, though,
+is to really draw out how your switch statements
+will work and make sure you can just
+walk through it. And then you can just arrange
+your switch statements here and make sure your comparison
+settings are correct. And that is how you
+nest switch statements.

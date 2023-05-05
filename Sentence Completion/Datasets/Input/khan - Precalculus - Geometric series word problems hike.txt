@@ -1,0 +1,54 @@
+- [Instructor] We're told Sloan went on a four-day hiking trip. Each day, she walked 20%
+more than the distance that she walked the day before. She walked a total of 27 kilometers. What is the distance Sloan walked in the first day of the trip? And it says to round our final answer to the nearest kilometer. So, like always, have a go with this and see if you can figure out how much she walked on the first day. All right, well let's just call the amount that she walked on the first day a. And then using a, let's
+see if we can set up an expression for how
+much she walked in total. And then, that should be equal to 27. And then hopefully, we're going
+to be able to solve for a. So the first day, she walks a kilometers. Now, how about the second day? Well, they tell us that each
+day, she walked 20% more than the distance she
+walked the day before. So, on the next day, she's
+going to walk 20% more than a kilometers, so that's 1.2 times a. And what about the day
+after that, her third day? Well, that's just gonna be 1.2
+times this, the second day, and so that's going to be 1.2 times 1.2, or we can say 1.2 squared times a. And then how much on the fourth day? And that's, she went on
+a four-day hiking trip, so that's the last day. Well, that's gonna be
+1.2 times the third day. So, that's going to be 1.2
+to the third power times a. So, this is an expression in a on how much she walked over the four days. And we know that she walked
+a total of 27 kilometers, so this is going to be
+equal to 27 kilometers. Now, you could solve for a over here. You could factor out the a and you could say a times one plus 1.2 plus 1.2 squared plus
+1.2 to the third power is equal to 27. And then you could say
+that a is equal to 27 over one plus 1.2 plus 1.2 squared plus 1.2 to the third power, and we would need a
+calculator to evaluate this. But I'm gonna do a different technique, a technique that would work
+even if you had 20 terms here. You, in theory, could
+also do this with 20 terms but it gets a lot more complicated,
+or if you had 200 terms. So the other way to approach this is use the formula for a
+finite geometric series. What does it evaluate to? And just as a reminder, the sum of first n terms, it's going to be the first
+term, which we could call a, minus the first term
+times our common ratio. In this case, our common ratio is 1.2 because every successive
+term is 1.2 times the first. So our first term times our
+common ratio to the nth power, all of that over one
+minus the common ratio. In other videos, we explain
+where this comes from, we prove this, but here,
+we can just apply it. We already know what our a is,
+I used that as our variable. Our common ratio in this situation is going to be equal to 1.2. And our n is going to be equal to four. Another way I like to think about it is it's our first term, which
+we see right over there, minus the term that we did not get to. If we were to have a fifth term, it would have been that fifth
+term that we're subtracting because we aren't getting
+to a fourth power here, the fifth term would have
+been the fourth power, all of that over one
+minus the common ratio. And so, this left-hand
+side of our equation, we could rewrite as our first term minus our first term times
+our common ratio, 1.2, to the fourth power. All of that over one
+minus our common ratio. And then that could be equal to 27. Let me scroll down a little bit so we have some more
+space to then solve this. And so, let's see, I can
+simplify this a little bit. This is going to be equal to negative 0.2. Our numerator, we can factor out a. And so, this is going to be equal to a times one minus 1.2 to the fourth power. And let's see, we can multiply both the numerator and the
+denominator by negative one. And so, this would get us to a times, a times, and I'll put the
+a out of the fraction, a time, so I'll just swap the order here and get rid of this negative. 1.2 to the fourth power minus one over 0.2 is equal to 27. Again, all I did is I took
+the a out of the fraction so it's out here, and I multiplied the numerator and the
+denominator by negative. The numerator multiplied by
+negative would swap these two. And then multiplying
+negative 0.2 times negative is just positive 0.2. And so now, I can just multiply both sides times the reciprocal of this. So, I'll do up here. So, 0.2 over 1.2 to the fourth minus one. And then here, 0.2 over 1.2 to the fourth minus one. That cancels with that,
+that cancels with that, that's exactly why I did that. And we're left with a is equal to, it is equal to, I'll
+just write it in yellow, 27 times 0.2, all of that over 1.2 to
+the fourth minus one. And this expression should give us the exact same value as
+that expression we just saw, but this is useful even
+if we had a hundred terms, we could use this. And so, I'll get the calculator out. This will give us... So, actually, I'll evaluate
+this denominator first, so I'll have 1.2 to the fourth power, which is equal to minus one, is equal to, and that's in the denominator, so I could just take the reciprocal of it, and then multiply that, times 27 times 0.2 is equal to 5.029. Now, they want us to round our answer to the nearest kilometer, so this is going to be
+approximately equal to, approximately equal to five kilometers. That's how much approximately
+that she would have traveled on the first day of her hiking trip.

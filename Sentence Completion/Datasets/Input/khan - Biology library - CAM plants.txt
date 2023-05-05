@@ -1,0 +1,131 @@
+A couple of videos ago, we
+saw that in classic C-3 photosynthesis-- and once again
+it's called C-3 because the first time that carbon
+dioxide is fixed, it's fixed into a 3-carbon molecule. But we saw the problem with C-3
+photosynthesis is that the enzyme that does the carbon
+fixation, it can also react with oxygen. And when oxygen essentially
+reacts with ribulose biphosphate instead of your
+carbon, you get an unproductive reaction. Not only is it unproductive,
+it'll actually suck up your ATP and your NADPH and
+you'll go nowhere. So every now and then, when
+oxygen bonds here instead of a carbon dioxide, you get
+nothing produced, net. Everything becomes
+less efficient. And so in the last video, we
+saw that some plants have evolved a way to get
+around this. And what they do is, they fix
+their carbon on the outside, on cells that are actually
+exposed to the air. And then once they fix the
+carbon they actually fix it into a 4-carbon molecule, into
+oxaloacetate And then that gets turned into malate Then
+they pump the malate deeper within the leaf, where you
+aren't exposed to oxygen. And then they take the carbon
+dioxide off the malate, and this is where they actually
+perform the Calvin cycle. And even though you do have
+your rubiscos still there, your rubisco isn't going to
+have-- the photorespiration is not going to occur. Because it only has access
+to carbon dioxide. It does not have access to
+this oxygen out here. Now that's a very efficient
+way of producing sugars. And that's why some of the
+plants that we associate with being very strong sugar, or even
+ethanol producers, all perform C-4 photosynthesis. Corn, sugarcane,
+and crab grass. And these are all very, very
+efficient sugar producers. Because they don't have to
+worry too much about photorespiration. Now some plants have a slightly
+different problem. They're not so worried about the
+efficiency of the process. They're more worried
+about losing water. And you can imagine what
+plants these are. These are plants that
+are in the desert. Because these stomata, these
+pores that are on the leaves, they let in air, but they
+can also let out water. I mean, if I'm in the
+rainforest, I don't care about that. But if I'm in the middle of the
+desert, I don't want to let out water vapor through
+my stomata. So the ideal situation is, I
+would want my stomata closed during the daytime. This is what I want. So I want-- if I'm in
+the desert, let me make this clear. If I'm in the desert I want
+stomata closed during the day. For obvious reasons. I don't want all my water
+to vaporize out of these holes in my leaves. But at the same time, the
+problem is that photosynthesis can only occur during
+the daytime. And that includes the
+dark reactions. Remember, I've said multiple
+times, the dark reactions are badly named. They're more the light
+independent reactions. But they both occur
+simultaneously-- the light independent and light
+dependent-- and only during the daytime. And if your stomata is closed,
+you need to perform photosynthesis, especially the
+Calvin cycle, you need CO2. So how can you get
+around this? If I want to close my stomata
+during the day, but I need CO2 during the day, how can
+I solve this problem? And what desert plants, or
+many desert plants, have evolved to do, essentially
+does photosynthesis, but instead of fixing the carbon
+in outer cells and then pushing it in to inner cells and
+then performing the Calvin cycle, instead of outer and
+inner cells, they do it at the nighttime and in the daytime. So in CAM plants-- and these are
+called CAM plants because, I could tell you what
+it stands for. It stands for crassulacean
+acid metabolism. And that's because it was first
+observed in that species of plants, the crassulacean
+plant. But these are just called,
+you could call it CAM photosynthesis or CAM plants. They're essentially a subset
+of C-4 plants. But instead of performing C-4
+photosynthesis, kind of an outside cells and inside cells,
+they do it at the nighttime and the day. And what they do is, at night
+they keep their stomata open. And they perform, and they're
+able to fix-- and everything occurs in the mesophyll
+cells and the CAM cells, in the CAM plants. So at nighttime, when they're
+not afraid of losing water-- let's say this is a mesophyll
+cell right here-- my stomata is open. Let's say that this is my
+stomata right there. And so it lets in
+carbon dioxide. I'm not worried about
+losing water vapor. It's night time right now. So carbon dioxide
+comes in here. And then it fixes the
+carbon dioxide. It fixes it the exact same way
+that the C-4 plants do. So you have your CO2 come in. You have your PEP . It's all facilitated by PEP
+carboxylase That's the enzyme. That can only fix CO2, that can
+only react with CO2, not with oxygen. And then that is used to
+produce-- and we saw it here in our CAM-4 diagram in the last
+video, that is to used to produce malate. A 4-carbon molecule. And then the malate-- and then
+this is what's key-- the malate get stored in other
+organelles in the cell. In the vacuoles , which are, you
+can kind of view them as large storage containers
+in the cell. So I drew this as
+the whole cell. I mean, this is actually all
+occurring in your chloroplast. But you can imagine your cell
+having a big storage center where the malate gets
+stored at night. And you can view malate as
+almost a carbon dioxide store. Because later on we can
+access the malate and get the carbon dioxide. And that's exactly what these
+CAM plants are going to do. So this is nighttime. Then the sun comes up. So now we're in the daytime. This desert plant, well maybe
+it's a cactus, it doesn't want to lose its water vapor. So it closes its stomata. This particular stoma
+now is closed. It's now closed. And you say, oh boy, how
+is it going to perform photosynthesis? Well, it can perform
+photosynthesis in that very same cell. Because it stored up all of
+this malate at night. And so now the malate can be
+pumped out of the vacuoles into the stroma of our
+chloroplast. And then you can have pyruvate break off. But the more important thing
+is you have CO2 break off. So you have a ready
+supply of CO2. And now we can perform our
+standard Calvin cycle. And in an environment only
+with CO2, our stomata is closed, so we're ready to go. Our CO2 reacts with ribulose
+bisphosphate It is catalyzed by rubisco It's the whole
+Calvin cycle and we produced our sugar. So this is kind of a
+neat adaptation. In these high, very efficient
+sugar-producing plants that aren't worried about water, they
+perform carbon fixation on things that are exposed to
+the air and then they pump kind of a stored version of
+the carbon deeper into the leaf to actually perform the
+Calvin cycle so that it's not lossy, so that photorespiration doesn't occur. Because down here you
+have no oxygen. The desert plants benefit from
+that property as well, but their whole concern is, I don't
+want to keep my stomata open in the daytime. So what I do is, I fix
+my carbon at night. But I use the exact
+same process. I use PEP carboxylase
+And I store my carbon dioxide at night. And in the daytime, I can
+actually-- when my light-dependant reactions are
+occurring, they're producing my ATP and my NADH I can also
+perform my dark reactions in the daytime. As I said, the dark reactions
+always occur in the daytime. Or my light-independent
+reactions. Because even though my stomata
+is closed, I have a store of carbon dioxide in the
+form of malate.

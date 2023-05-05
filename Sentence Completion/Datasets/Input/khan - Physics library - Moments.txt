@@ -1,0 +1,190 @@
+Welcome to the presentation
+on moments. So just if you were
+wondering, I have already covered moments. You just may not have recognized
+it, because I covered it in mechanical
+advantage and torque. But I do realize that when I
+covered it in mechanical advantage and torque, I think
+I maybe over-complicated it. And if anything, I didn't cover
+some of the most basic moment to force problems that
+you see in your standards physics class, especially
+physics classes that aren't focused on calculus or going
+to make you a mechanical engineer the very next year. So we did that with-- why did
+I write down the word "mechanical?" Oh yeah,
+mechanical advantage. If you do a search for
+mechanical advantage, I cover some things on moments
+and also on torque. So what is moment of force? Well, it essentially is the
+same thing as torque. It's just another word for it. And it's essentially force times
+the distance to your axis of rotation. What do I mean by that? Let me take a simple example. Let's say that I have
+a pivot point here. Let's say I have some type
+of seesaw or whatever. There's a seesaw. And let's say that I were to
+apply some force here and the forces that we care about-- this
+was the exact same case with torque, because there's
+essentially the same thing. The forces we care about
+are the forces that are perpendicular to the distance
+from our axis of rotation. So, in this case, if we're here,
+the distance from our axis of rotation is this. That's our distance from
+our axis of rotation. So we care about a perpendicular
+force, either a force going up like that or a
+force going down like that. Let's say I have a force
+going up like that. Let's call that F, F1, d1. So essentially, the moment of
+force created by this force is equal to F1 times d1, or the
+perpendicular force times the moment arm distance. This is the moment
+arm distance. That's also often called the
+lever arm, if you're talking about a simple machine, and I
+think that's the term I used when I did a video on
+torque: moment arm. And why is this interesting? Well, first of all, this force
+times distance, or this moment of force, or this torque, if it
+has nothing balancing it or no offsetting moment or torque,
+it's going to cause this seesaw in this example to
+rotate clockwise, right? This whole thing, since it's
+pivoting here, is going to rotate clockwise. The only way that it's not going
+to rotate clockwise is if I have something keep-- so
+right now, this end is going to want go down like that, and
+the only way that I can keep it from happening is if I exert
+some upward force here. So let's say that I exert some
+upward force here that perfectly counterbalances, that
+keeps this whole seesaw from rotating. F2, and it is a distance d2
+away from our axis of rotation, but it's going in a
+counterclockwise direction, so it wants to go like that. So the Law of Moments
+essentially tells us, and we learned this when we talked
+about the net torque, that this force times this distance
+is equal to this force times this distance. So F1 d1 is equal to F2 d2, or
+if you subtract this from both sides, you could get F2 d2 minus
+F1 d1 is equal to 0. And actually, this is how we
+dealt with it when we talked about torque. Because just the convention with
+torque is if we have a counterclockwise rotation, it's
+positive, and this is a counterclockwise rotation
+in the example that I've drawn here. And if we have a clockwise
+rotation, it has a negative torque, and that's just the
+convention we did, and that's because torque is a
+pseudovector, but I don't want to confuse right now. What you'll see is that these
+moment problems are actually quite, quite straightforward. So let's do a couple. It always becomes a lot easier
+when you do a problem, except when you try to erase
+things with green. So let's say that --
+let me plug in real numbers for these values. Let me erase all of this. Let me just erase everything. There you go. All right, let me draw
+a lever arm again. So what we learned when we
+learned about torque is that an object won't rotate if the
+net torque, the sum of all the torques around it, are zero,
+and we're going to apply essentially that same
+principle here. So let's do it with masses,
+because I think that helps explain a lot of things and
+makes this seesaw example a little bit more tangible. Let's say I have a 5-kilogram
+mass here, and let's say that gravity is 10 meters
+per second squared. So what is the downward
+force here? What is the downward force? It's going to be the mass times
+acceleration, so it's going to be 50 Newtons. And let's say that the distance,
+the moment arm distance or the lever arm
+distance here, let's say that this distance right
+here is 10 meters. Let's say that I have
+another mass. Let's say it's a 25 kilogram--
+no, that's too much. Let's say it's 10 kilograms.
+Let's say I have a 10-kilogram mass. And I want to place it some
+distance d from the fulcrum or from the axis of rotation so
+that it completely balances this 5-kilogram mass. So how far from the axis of
+rotation do I put this 10-kilogram mass? This is the distance, right? Because we actually carry
+the distance to the center of the mass. Well, how much force
+is this 10-kilogram mass exerting downwards? Well, it's 10 kilograms times 10
+meters per second squared, it's 100 Newtons. This is acting what? This is acting clockwise,
+right? This one's acting clockwise
+and this one's acting counterclockwise, right? So they are offsetting
+each other. So we could do it a
+couple of ways. We could say that 50 Newtons,
+the moment in the counterclockwise direction, 50
+Newtons times 10 meters, in order for this thing to not
+rotate has to be equal to the moment in the clockwise
+direction. And so the moment in the
+clockwise direction is equal to 100 Newtons times some
+distance, let's call that d, 100 Newtons times d, and
+then we could just solve for d, right? We get 50 times 10 is 500. 500 Newton-meters is equal
+to 100 Newtons times d. That's 100. Divide both sides by 100, you
+get 5 meters is equal to d. So d is equal to 5. That's interesting. And I think this kind of
+confirms your intuition from playing at the playground that
+you can put a heavier weight closer to the axis of rotation
+to offset a light weight that's further away. Or the other way to put it is
+you could put a light weight further away and you kind of get
+a mechanical advantage in terms of offsetting the
+heavier weight. So let's do a more difficult
+problem. I think the more problems we
+do here, the more sense everything will make. So let's say that we have
+a bunch of masses. Actually, let's not
+do it with masses. Let's just do it with forces
+because I want to complicate the issue. So this is the pivot. And let's say I have a force
+here that's 10 Newtons going in the clockwise direction, and
+let's say it is at-- let's say if this is 0, let's say that
+this is at minus 8, so this distance is 8, right? Let's say that I have another
+force going down at 5 Newtons. And let's say that its
+x-coordinate is minus 6. Let's say I have another force
+that's going up here, and let's say that it
+is 50 Newtons. This might get complicated. 50 Newtons, and it's at minus
+2, so this distance right here is 2. Let's say that I need to figure
+out-- and I'm making this up on the fly. Let's say that I have another
+force here that is 5 Newtons. No, let's make it a weird
+number, 6 Newtons, and this distance right here
+is 3 meters. And let's say that I need to
+figure out what force I need to apply here upwards or
+downwards-- I actually don't know, because I'm doing this on
+the fly-- to make sure that this whole thing
+doesn't rotate. So to make sure this whole
+thing doesn't rotate, essentially what we have to
+say is that all of the counterclockwise moments or all
+of the counter clockwise torques have to offset all
+of the clockwise torques. And notice, they're not
+all on the same side. So what are all of the things
+that are acting in the counterclockwise direction? So counter clockwise
+is that way, right? So this is acting
+counterclockwise, this is acting counterclockwise,
+and that's it, right? So the other ones
+are clockwise. And we don't know this one. Let's assume for a second. We could assume either way. And if we get a negative, that
+means it's the opposite. So let's assume that this is a--
+all of the clockwise ones I'll do in this dark brown. Let's assume this is clockwise,
+let's assume that this is clockwise, and let's
+assume that our mystery force is also clockwise. All of the counterclockwise
+moments have to offset all the clockwise moments. So what are the counterclockwise
+moments? Well, this one's
+counterclockwise, so it's 10 Newtons, 10 times its distance
+from its moment arm. We said it's 8, because it's
+at the x-coordinate minus 8 from 0, so it's 10
+times 8, plus 50. This is also counterclockwise
+times 6, 50 times 6, and those are all of our counterclockwise
+moments and that has to equal the
+clockwise moments. So clockwise moments,
+let's see. We have 5 Newtons that's going
+clockwise times 6. 5 Newtons. Actually, was this 6? No, if this is 6, I must have
+written some other number here that I can't read now. How far did I say this was? Let's say that this is 2. So that 50, let's say this is
+2, it's negative 2, because that's what it looks like. I apologize for confusing you. So what were all the
+counterclockwise moments? This 10 Newtons times its
+distance 8, the 50 Newtons times this distance, 2. Don't get confused
+by the negative. I just kind of said we're in
+the x-coordinate axis or at minus 8 if this is 0, but it's
+8 units away, right? And this 50, its moment arm
+distance is 2 units. So that has to equal all of
+the clockwise moments. So the clockwise moments
+is 5 Newtons times 6. Its distance is 6 and it's
+5 Newtons going in the clockwise direction. And then we have plus
+6 Newtons times 3, plus 6 times 3. And then we're just assuming,
+we don't know for sure. Let's say we're applying
+the force. I should have told you
+ahead of time so you could do this problem. Let's say that we're applying
+the force at 10 meters away from our fulcrum arm. So force times 10. So now let's just solve
+for the force. We get 80 plus 100 is equal
+to 30 plus 18 plus 10F. We get 180 is equal
+to 48 plus 10F. What's 180 minus 48? It's 132 is equal to
+10F, or we get F is equal to 13.2 Newtons. So we guessed correctly that
+this is going to be a-- sorry, this is going to be a-- I keep
+mixing up all of the clockwise and counterclockwise. This is going to be
+a clockwise force. These were all of the-- sorry,
+this is going to be a counterclockwise force, right? A clock, this is
+counterclockwise. Let me label that because I
+think I said it wrong several times in the video. So these go clockwise. And it's this one
+and this one. And what were the
+counterclockwise? These go counterclockwise. So we have to apply a 13.10
+Newton force 10 meters away, which will generate 132
+Newton-meters moment in the counterclockwise direction,
+which will perfectly offset all of the other moments, and
+our lever will not move. Anyway, I might have confused
+you with all the counterclockwise/clockwise. But just keep in mind that all
+the moments in one rotational direction have to offset all
+the moments in the other rotational direction. All a moment is is the force
+times the distance from the fulcrum arm, so force times
+distance from fulcrum arm. I'll see you in the
+next video.

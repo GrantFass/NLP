@@ -1,0 +1,105 @@
+Welcome back. When I left off, I was hurrying
+a little bit. But we'd hopefully come to the
+conclusion that if I have a simple lever, like I have here,
+and I know the distances from where I'm applying
+the force, to the fulcrum, to the pivot. And I know the distance from the
+pivot to where the machine is essentially applying the
+force, the machine being the lever in this situation, I know
+the relationship between the two forces I'm applying. The input force-- so actually I
+shouldn't call this a force too, I should call this an
+input force-- anyway, the input force times the distance
+from the input force to the fulcrum is equal to the output
+force times the distance from the output force
+to the fulcrum. And that all fell out of what
+we did in the last video. The conservation of energy and
+that the work in has to equal the work out. And all work is, is a transfer
+of energy, so the transfer of energy in has to be the transfer
+of energy out, assuming we have no friction
+and none of the energy is lost. And how is this useful? Well we could do a bunch
+of problems with this. Let's say that I have
+a 100 newton object right here, 100 newtons. And let's say that I know, no
+matter what I do, my maximum strength that I could push--
+well let me draw this a little different-- let's say it's like
+this, cause of my goal is to lift the 100 newton object. So the 100 newton object
+is right here. That's a 100 newtons. And let's say I know that the
+maximum downward force that I'm capable of applying is
+only 10 newtons, right? So I want my force to
+be multiplied by 10 to lift this force. So let's figure out
+what would happen. My input force is 10. And I want to figure
+out the distance. So let's say my input
+force is 10. And let's call this the
+input distance. And I want the output force
+to be 100, right? And let's call this the
+output distance. So if I have a fulcrum here,
+this is the input distance and this is the output distance. Let me switch colors. This is getting monotonous. This is the output distance,
+from here to here. And let's figure out what the
+ratio has to be, for the ratio of the input distance to
+the output distance. Well, if we just divide both
+sides by 10, we get the distance input. It has to be 10 times the
+distance output, right? 100 divided by 10. So if the distance from the
+fulcrum to the weight is, I don't know, 5 meters, then the
+distance from where I'm applying the force to
+the fulcrum has to be 10 times that. It has to be 50 meters. So no matter what, the ratio of
+this length to this length has to be 10. And now what would happen? If I design this machine this
+way, I will be able to apply 10 newtons here, which is my
+maximum strength, 10 newtons downwards, and I will lift
+a 100 newton object. And now what's the
+trade off though? Nothing just pops
+out of thin air. The trade off is, is that I am
+going to have to push down for a much longer distance, for
+actually 10 times the distance as this object is going
+to move up. And once again I know that
+because the work in has to equal the work out. I can't through some magical
+machine-- and if you were able to invent one, you shouldn't
+watch this video and you should go build it and become a
+trillionaire-- but a machine can never generate work
+out of thin air. Or it can never generate
+energy out of thin air. That energy has to come
+from some place. Most machines actually you lose
+energy to friction or whatever else. But in this situation, if I'm
+putting in 10 newtons of force times some distance, whatever
+that quantity is of work, the work cannot change. The total work. It can go down if there is some
+friction in the system. So let's do another problem. And really they're all kind
+of the same formula. And then I'll move into a few
+other types of simple systems. I should use the line tool. We'll make this up on the fly. And you could always create
+problems where you can compound it further and et
+cetera, et cetera, using some of the other concepts
+we've learned. But I won't worry about
+that right now. So let's say that I'm going
+to push up here. Well no let me see what
+I want to do. I want to push down here with
+a force of-- let's say that this distance right here is 35
+meters, this distance is 5 meters-- and let's say I'm going
+to push down with the force of 7 newtons, and what
+I want to figure out is how heavy of an object
+can I lift here. How heavy of an object. Well, all we have to do is
+use the same formula. But the moments-- and I know I
+used that word once before, so you might not know what it is--
+but the moments on both sides of the fulcrum have
+to be the same. Or the input moment has to
+be the output moment. So what's the moment again? Well, the moment is just the
+force times the distance from the force to the fulcrum. So the input moment is 7 newtons
+times 35 meters. And realize that that does not
+work, because the distance this force is traveling
+is not 35 meters. The distance this force
+is traveling is something like, here. But this 35 meters is going
+to be proportional to the distance that this is traveling
+when you compare it to this other side. So this quantity, 7
+newtons times 35 meters, is the moment. And that is going to be equal
+to the moment on this side, the output moment. So that is equal to 5 meters
+times the force that I'm lifting, or the lifting force
+of the machine, times let's say the force out. So we can figure out the force
+out by just dividing both sides by 5. So let's see, 35 divided by 5
+is 7, so you get 7 times 7 equals the force out,
+or 49 newtons. And you can see that, because
+you can see that the length of this side of the lever is 7
+times the length of this side of the lever. So when you input a force of
+7, you output a force of 7 times that. And of course, in order to move
+the block 1 meter up in this direction, you're
+going to have to push down for 7 meters. And that's where we know that
+the input work is equal to the output work. Well anyway hopefully I didn't
+confuse you and you have a reasonable sense of
+how levers work. In the next couple of videos,
+I'll introduce you to other machines, simple machines like
+a wedge-- I've always had trouble calling a wedge
+a machine, but it is one-- and pulleys. I'll see you in the next video.

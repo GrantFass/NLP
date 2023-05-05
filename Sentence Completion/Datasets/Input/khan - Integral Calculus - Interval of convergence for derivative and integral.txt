@@ -1,0 +1,79 @@
+- [Instructor] Times in our
+dealings with powers series. We might wanna take the derivative, or we might want to integrate them. And in general, we can
+do this term by term. What do I mean by that? Well, that means that the derivative of f, f prime of x, is just
+gonna be the derivative of each of these terms. So that's gonna be the sum
+from n equals one to infinity. And let's see, the
+derivative of x to the n is n times x to the n minus one. So I could write this as n
+times x to the n minus one all of that over n. And these ns will cancel out, so this is just going to be, this is just going to
+be x to the n minus one. So this is taking the
+derivative with respect to x. Similarly, we could integrate, we could integrate and we could evaluate, we could evaluate the
+integral of f of x dx, and this is going to be
+equal to some constant plus, if we integrate this term by term. And so this is going
+to be equal to the sum from n equals one to infinity. And let's see, we increment the exponent, so x to the n plus one,
+and then we divide by that. So times n plus one times
+this n right over here. So this is a common
+technique that you will see when dealing with power series. And we're gonna go a little
+bit more into the details, because you can only do this for x values within the interval of
+convergence for the power series. And as we will see, the
+interval of convergence for these different series
+is slightly different. The intervals are very similar, but what happens at the
+endpoint is different. So I encourage you, pause this video, and see if you can figure out
+the interval of convergence for each of these series. This is the integral
+of our original series, and this is the derivative
+of our original series. So let's start with our original series. Let's figure out the
+interval of convergence. So we could do that using the ratio test. So the ratio test, we
+would want to do the limit, the limit as n approaches
+infinity of a sub n plus one, so that's gonna be x to the
+n plus one over n plus one, divided by a sub n, so
+that's x to the n over n. So we want to take the
+absolute value of that. That's gonna be the limit
+as n approaches infinity. Let's see, this is, if
+you divide this and this by x to the n, that's gonna be a one, and this is just going to be an x, and then this n is going to end up top. So this is going to be xn over n plus one. And this is equal to the limit
+as n approaches infinity of, let's see, if we divide the
+numerator and denominators here by one over, if we divide by both the numerator
+and the denominator by n, we're gonna get x over
+one plus one over n. And what is this going to be? Well, this term's gonna go to zero, so this is just gonna be equal
+to the absolute value of x. And the ratio test tells us
+that this series is convergent if this right over here is less than one, it's divergent if this
+is greater than one, and it's inconclusive if this equals one. So we know, let's write that down. We know we are convergent, convergent, convergent for the absolute value of x less
+than one when this thing, when it is less than one. We know that we are divergent when this thing is greater than one, when the absolute value
+of x is greater than one. But what about when the absolute
+value of x is equal to one? That's where the ratio test breaks down and we have to test that separately. So let's look at the scenario where x is equal to one. When x equals to one,
+this series is the sum from n equals one to infinity
+of one to the n over n. Well, that's just gonna be one over n. This is the harmonic
+series or the p-series where our p is one. And we've seen in multiple
+videos that this diverges. So when x equals one, we diverge. What about when x equals negative one. When x equals negative one,
+this thing becomes the sum from n equals one to infinity of negative one to the n over n. And this is often known as the
+alternating harmonic series. And this one by the
+alternating series test, this one actually converges. And we've seen that in multiple videos. So it turns out the
+interval of convergence for our original thing right over here, our interval of convergence, interval of convergence, convergence here, is we can, x can be, so it could be, x can be greater than or equal to negative one, or I could say negative one
+is less than or equal to x, because if x is negative
+one, we still converge, but then x has to be less than one, because right at one we diverge, so we can't say less than or equal to. So this is the interval of convergence for our original function. What about the interval of
+convergence for this one right over here when
+we take the derivative? Well, when we take the derivative, this is, this is the same
+thing as x to the zero plus x to the first, plus x to the second, and we go on and on and on. Now you might recognize this, this is a geometric series
+with common ratio of x. Geometric series, series, where our common ratio, often noted by r, is equal to x. And we know that a
+geometric series converges only in the situation where the, where our common ratio,
+where the absolute value of our common ratio, so converges, converges, only in the situation
+where the absolute value of our common ratio is less than one. So in this situation, when
+we took the derivative for f prime of x, our
+interval of convergence is almost the same. So here our interval of convergence is going to be x has to be between negative one and one, but it can't be equal to negative one. At negative one we would actually diverge, and at one we would diverge. So notice, these are almost the same. If we view these as
+series centered at zero, the radius of convergence is the same. We can go one above, one
+below, one above, one below. And that's in general truths. We take derivatives as integrals. But the endpoints of our interval of convergence can be different. And to continue to see this, I encourage you to use the ratio test to figure out one, what is the, well, use the ratio test plus
+using the boundary conditions, figure out what the
+interval of convergence is for the antiderivative,
+for the integral here. And what you will see is the radius of convergence is the same. We can go one above
+zero and one below zero. We have to be in that interval. But as you will see, this one converges for x equals negative one or x equals one. I'll just cut to the chase here. So, interval of, let me
+write that in yellow. The interval of convergence
+for this top one converges, converges for negative one is less than x, is less than or equal to one. So notice, they all have the
+same radius of convergence, but the interval of convergence,
+it differs at the endpoint. And if you wanna prove
+this one for yourself, I encourage you to use
+a very similar technique that we use for our original function. Use the ratio test, you're
+gonna come to this conclusion right over here, and then test the cases when x is equal to one and
+x is equal to negative one. And you will see when x
+is equal to negative one, you have an alternating p-series,
+so that's gonna converge. And then when x equals one,
+you're gonna have a p-series where the denominator has
+a degree larger than one, or something similar to a p-series. And you can establish
+that it will also converge in that scenario as well.

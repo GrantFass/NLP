@@ -1,0 +1,80 @@
+- [Voiceover] So, where we left off, we were looking at this,
+this parametric function for a three dimensional
+curve, and what it draws, I showed you, was a helix
+in three dimensional space. And, we're trying to find it's curvature, which...the way you think about that, you have a circle... You're thinking of the
+circle that most closely hugs that curve, or you could imagine you're flying a spaceship
+and all your instruments lock up when you're turning,
+and you're wondering what circle in space
+you're going to trace out, and you're looking for one
+divided by the radius of that. Or if you prefer my,
+you know, kindergartner drawing skills, you could
+just look at the helix over here while we work it through. And, the part where we left off, we had this tangent vector function. This unit tangent vector
+function for our curve. So at every given value, T, whatever point that corresponds to on the curve, this function is going
+to give us the vector that is of unit length
+and tangent to the curve. And the ultimate goal,
+for curvature, is to find the derivative of that
+unit tangent vector, with respect to arclength. And specifically we want it's magnitude. And what that typically
+requires, and I talked about this in the videos on the formula, is you take it's derivative, with respect to the parameter, T, because that's the thing you can actually do, and that might not correspond
+to unit length, right? If you nudge the parameter,
+T, that might not nudge you a corresponding
+length on the curve. But you correct that by
+dividing out, by the derivative of the parameterization
+function, with respect to T. And that's actually arclength, this magnitude of the derivative
+of the parameterization with respect to T. Boy, is that a hard word. So, with our given
+function, let's go ahead and start doing that. And I think first, given
+that we have this kind of fractions and fractions
+form, I'm just going to start by writing it a
+little bit more simply. So our unit tangent vector function, that first component,
+where we're dividing by the square root of 26 divided by five, instead I'm just going to write that as negative five times the sine of t. So, I'm just kind of moving
+that five up into the numerator, divided by the root of 26,
+and I'll do the same thing for cosine, where we move that
+five up into the numerator. Cosine of t, divided by
+the root of 26, and then the last part, one fifth
+divided by square root of 26 fifths, gives us just one divided by square root of 26. Alright, so the first step in
+using our curvature formula is going to be to take the
+derivative of this guy, right? We need the derivative of
+the tangent vector function. So, we go ahead and start doing that. We see that d big T, d little
+t, so tangent vector function parameter, is equal to, and
+we just take the derivative of each component. So, negative five sine goes
+to negative five cosine. And we divide out by the
+constant, square root of 26. Similarly, five cosine
+goes to negative five sine, since the derivative of
+cosine is negative sine. Negative five sine divided
+by 26, or square root of 26. And the last component is just a constant, so derivative is nothing, it's zero. Next step, we're going
+to take the magnitude of that vector that we just found. So we're trying to find the
+magnitude of the derivative of the tangent vector function. So we say alright. Magnitude of what we just found, d big T, d little t, involves... so this magnitude will
+be the square root of, make the little tic there,
+square root of the sum of the squares of these guys. So the square of that first
+component is going to be 25, multiply by cosine squared, cosine squared of t, all divided by 26, right, because the square of the square root of 26 is 26. And then we add to that
+25 times sine squared, sine squared of t, also divided by 26. And from that, we can factor out, factor out 25 over 26,
+inside that radical, because both terms involve
+multiplying by 25 and dividing by 26, and what
+we're left with is a nice, and friendly cosine/sine pair. The reason we love
+things involving circles. This always happens. Nice cancellation. This just becomes one, so what we're left with on the whole, is root 25 over 26. Pretty nice. Root 25 over 26. So for a curvature equation, we go up and we can start plugging that in. So we just found that
+numerator, and found that it was the square root of 25, divided by 26. The entire thing, 25 over 26. And we already found the magnitude of the derivative itself. That's one of the things we needed to do to find the tangent vector. That's where this 26 over five came from. I deleted it from where we
+did last video to make room, but if you look at the
+last video, you can see where we got the square
+root of 26 divided by five. And I'll actually write
+that as square root of 26 divided by 25, just
+that's how we originally found it, I'm just putting the
+five back under the radical. And it's tempting, if you
+aren't looking too closely, to think these guys cancel
+out, but it's actually they're the opposite of each other, right? One is 25 over 26 the other is 26 over 25. So if we put everything
+under the radical there it's going to say equals the square root. And we're going to have 25
+over 26, divided by 26 over 25 and when we flip that bottom and multiply, what we get is 25 squared
+divided by 26 squared. And the root of that whole
+thing, just gives us 25 over 26, and that is our curvature. That right there, is the answer. That is the curvature. So it's a little bit greater than one. No, no, sorry. So, it's a little bit less than one, which means that you're
+curving a little bit less than you would if it was
+a circle with radius one. Which kind of makes sense if
+we look at the image here, because if the helix were
+completely flattened out, right, if you imagine squishing
+this down onto the xy plane, you'd just be going around
+a circle with radius one. But by kind of pulling that spring and pulling it so that there's a z component, you're making it a
+little bit more straight. So, the curvature should
+go down a little bit, because it's becoming a
+little bit more straight. The radius of curvature will go up. So that's the curvature of a helix, and that's a pretty good
+example of how you can find the curvature by walking through directly, the idea of finding dt/ds. And you know, getting
+that unit tangent vector. Getting the little unit arclength. And in the next example, I
+think I'll go through one where you just use the formula. Where it's something a
+little bit more complicated than thinking about this and
+you turn to the formula itself. And I'll see you then.

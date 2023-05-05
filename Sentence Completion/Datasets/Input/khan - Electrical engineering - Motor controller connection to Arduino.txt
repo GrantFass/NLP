@@ -1,0 +1,41 @@
+In this video, we're going to
+connect our motor controller to our Arduino. We've run the wires from
+the motor controller underneath the Arduino. We just need to figure out
+which wires are which so we can determine what pins
+to connect those wires to. So, we're setting our
+multimeter to open, and this will allow us
+to test for continuity. [BEEPING] So when you hear
+the beep, it means that there's a continuous
+electrical flow there, and it'll allow us to
+identify which wire is which. So when we don't hear a beep,
+it means it's not the same wire. [BEEPING] But when we do, that means
+that wire is continuous. So we know which wire is which. So we can use our multimeter
+to tell us which wire is which. So we're going to take that wire
+there, which is our L1 wire, and we've already
+created a list of where we want our pin outs to go. So our L1 wire, we're saying,
+is going to go to pin D10. So when we create our
+code on our computer, we'll use this list to tell
+us which pin out is which in the code. And that'll help us
+make sure that we get all of our functionality
+all lined up correctly. OK, so we've got
+our first one done, and now we need to move
+on to the next one. We're going to use
+our multimeter again. And so we're just
+going to go to L2. And so we're going to
+connect L2 to digital pin 8. And so we'll turn our multimeter
+to open again, and we'll-- [BEEPING] OK, so we're going to go through
+and take a look at where L2 is, see if we can figure
+out which wire that is. [INTERMITTENT BEEPING] OK, so it's our second
+wire down there. That's where L2 is. And we determined in our
+list that we created, that L2 was going to be
+a D8, digital pin eight. So we'll finish connecting
+the rest of the wires using the same method, just
+checking your continuity, and then connecting
+them to the same pin out that is on our list. If you're going to use
+the same code is as us, make sure that you
+follow the same pin outs, and we'll post that online. The D9 pin out that's
+listed in this list here was actually inaccurate,
+so we crossed that out. Because we were using D9 as
+you can see at the top there. In the next video,
+we're going to show you how to wire up the camera
+and the sound card.

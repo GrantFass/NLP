@@ -1,0 +1,50 @@
+- [Voiceover] Hiro
+painted his room at a rate of eight square meters per hour. After three hours of painting, he had 28 square meters left to paint. So after three hours of painting, he had 28 square meters left to paint. So they're talking in terms of how much we have left to paint, not how much we have painted. Let A of t denote the area to paint, A measured in square meters
+as a function of time, t, measured in hours. So A of t, once again, this
+is how much we have to paint, not how much we have painted. Write the function's formula. So what I like to do is, let's just think about
+a couple points here. Let's just make it a
+little bit tangible for us. So, let me, I'll do this
+in a different color. So let's think about what A of t is at different times. So, this is time. This is A as a function of time. And they give us one of them. They say, "after three hours of painting, "after three hours of painting, he had 28, "28 square meters left to paint." And once again, A of t is how
+much we have left to paint, not how much we have painted. So I'm gonna leave some space here for some other values, maybe zero, one, two. Let's write three over here. After three hours, he had 28
+square meters left to paint. We're just assuming that this is going to be in square meters, and this is in hours. Now, they tell us that he painted his room at a rate of eight square meters per hour. So let's actually back up a little bit. Let's back up. Let's say after two hours, how much would he have had left to paint? What would A of t been? Would it have been more than 28 or would it have been less than 28? Well, he's painting eight square meters per hour, so every hour that goes by, he's painting more, but A of t isn't how much he has painted, it's how much he has left to paint. So he should have less to paint as time goes up. So as time goes up, as time increases, A of t should go down. So at two hours, he
+should have more to paint than at three hours, because remember, A of t is how much he has left to paint. So how much more would
+he have had to paint at two hours than at three hours? Well it tells us that he
+has eight square meters, he paints at a rate of eight
+square meters per hour. So between two and three hours, he would've painted eight square meters. So at two hours, he would've had eight square meters more to paint. So, if you add eight to
+this right over here, you would be at 36. So he would've had 36
+square meters to paint at two hours. And what about one hour? So at one hour, he would've
+had eight more square meters to paint. So 36 plus eight, that is 44. And at zero hours, what
+would he have had to paint? So, let me do this another
+color, at zero hours. Well he would've had to paint
+eight more square meters. So 44 plus eight is 52. Let's think about
+whether that makes sense. If right when he was starting, he had 52 square meters to paint. Then, an hour goes by, so your change in time is one hour, and then your change in how
+much he has left to paint, it goes down by eight. Change in A is equal to negative eight. That makes sense. His rate of change should be negative because the amount he has
+left to paint goes down as time goes forward. So this was pretty interesting. Now let's see if we can actually construct a formula, or the formula that
+describes this function. Well this is happening at a constant rate. Every time t goes up by one, we see A of t goes down by eight. t goes up by one, A of
+t goes down by eight. They tell us that, and that's because he paints it at a rate of
+eight square meters per hour. So whenever you're describing something that's happening at a constant rate, that can be described
+by a linear function. And a linear function will have the form A of t is equal to your
+rate of change times time, plus wherever you started, and m and b are just the
+letters that people tend to use for your rate of change, your slope, if you were graphing this, and b, where you started off, and this would be your vertical intercept, sometimes you call it your y-intercept, but in this case it would
+be your A-intercept, if we're thinking about the actual, it would help us find the A-intercept if we were graphing this thing. But we actually already
+know both of these things. We know what our rate of change is. It is negative eight. I mean, we could say,
+"well what's our slope?" Our slope is change of A over change in t. Change in A, let me write it this way, let me do it in a different
+color just for fun. So our, our slope is just our change in our dependent variable over our change in our
+independent variable, which is equal to negative eight. They tell us that. It's equal to negative eight. So this thing is equal to negative eight, and b is going to be equal to A of zero. A of zero, well when t is equal to zero, this term right here goes away and you're just left with b. A of zero is equal to b. And we know what A of zero is. It is equal to 52. So we know this right over here is 52. And we're done! We know that, I'll just
+rewrite it just for fun, A of t, the area that he has left to
+paint as a function of time, is equal to negative eight times time, plus 52. And you can confirm that
+the units make sense, because this negative eight, and actually let's let me write
+it one time with the units, just 'cause it is an important
+thing to think about. Area as a function of time, this is how much he has left to paint, is going to be equal to negative eight square meters per hour, so negative eight meters squared per hour, times t hours, maybe I'll write out "hours" so you don't think it's a variable, t hours, let me write the hours over here, t hours plus 52 square meters. Plus, let me do it right over here. Plus, I have trouble switching colors, plus 52 square meters. And you see hours divided
+by hours cancels out and you'll just be left
+with meters squared. You'd have negative eight t square meters plus 52 square meters, and so the A of t is
+going to be given to you in square meters. Now there's other ways that you might have wanted to tackle this. You might've immediately said, "Hey look, my rate of change " is eight square meters per hour." But you have to be very careful there. You might've said, "Oh my rate of change, "maybe it's going to be positive "eight square meters per hour." But you have to be clear that A is not how much he's painting, it's how much he has left to paint. So his rate of change of how
+much he has left to paint is decreasing at eight
+square meters per hour. So you might've said, "Okay, immediately, "my formula would look like this: "A of t is going to to be equal to "negative eight times t plus some b." And then you could've
+used this information right over here to solve for b. You say, "Hey, when t is equal to three, "A is equal to 28." You could've just used this information right over here and
+substituted right over here. So when t is equal to
+three, when this is three, A of t is 28. And you would've gotten 28
+is equal to negative eight times three, so negative 24, plus b. And then you would've
+added 24 to both sides. Whoops. You would've added 24 to both sides, and you would've gotten 28 plus 24 is 52. And then on the right side,
+you would just have b. You would get b is equal to 52, which is exactly what we got over there. I like to do it this way just to make sure that
+we really conceptualize, we really got what was going on.

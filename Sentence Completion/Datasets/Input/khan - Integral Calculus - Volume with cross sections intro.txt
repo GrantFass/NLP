@@ -1,0 +1,53 @@
+- [Instructor] You are
+likely already familiar with finding the area between curves. And, in fact, if you're not, I encourage you to review
+that on Khan Academy. For example, we could
+find this yellow area using a definite integral. But what we're going to do in this video is do something even more interesting. We're gonna find the volume of shapes where the base is defined in some way by the area between two curves. And, in this video, we're
+gonna think about a shape, and I'm gonna draw it in three dimensions. So let me draw this over again, but with a little bit of perspective. So, let's make this the y-axis. So that's the y-axis. This is my x-axis. That is my x-axis. This is the line y is equal to six right over there. Y is equal to six. This dotted line, we could
+just draw it like this, and so this would be
+the point x equals two. And then the graph of y is equal to four times the natural log of three minus x would look something like this, look something like this. And so this region is this region, but it's going to be the base of a three-dimensional shape
+where any cross section, if I were to take a cross
+section right over here, is going to be a square. So whatever this length is,
+we also go that much high, and so the cross section is
+a square right over there. The cross section right over
+here is going to be a square. Whatever the difference
+between these two functions is, that's also how high we are going to go. This length, which is six at this point, this is also going to be the height. It is going to be a square. It's going to be quite big, might have to scroll down so
+we can draw the whole thing, roughly at the right proportion. So it looks something like this. This should be a square. It's gonna look something like this. And so the whole shape would look, would look something like this, would look something like that, try to shade that in a
+little bit so that you can appreciate it a little bit more, but hopefully you get the idea. And some of you might be excited, and some of you might
+be a little intimidated. Well, hey, I've been dealing with the two dimensions for so long. What's going on with
+these three dimensions? But you'll quickly appreciate
+that you already have the powers of integration to solve this. And to do that, we just
+have to break up the shape into a bunch of these, you
+could view them as these little square tiles that have some depth to them. So let's make that into a
+little tile, this one into it, that also has some depth to it. You could even, I could
+draw it multiple places. You could view it as a, break it up into these things
+that have a very small depth, that we could call dx. And we know how to figure
+out what their volume is. What would be the volume
+of one of these things? Well, it would be the
+depth times the area, times the surface area of this cross section right over here. Let me do that in a different color. So what would be the area that I am shading in in
+pink right over here? Well, that area is going to
+be the base length squared. What's the base length? Well, it's the difference
+between these two functions. It is going to be six minus, our bottom function is four times the natural log of three minus x, and so that would just
+give us that length. But if we square it, we
+get this entire area. We get that entire area, you square it. And then you multiply it times the depth. You multiply it times the depth. Now you have the volume
+of just this little section right over here, and I think you might
+see where this is going. Now, what if you were
+to add up all of these from x equals zero to x equals two? Well, then you would have the
+volume of the entire thing. This is the power of
+the definite integral. So we could just integrate from x equals zero to x equals two, from x equals zero to x equals two. If you drew where these
+intersect our base, you would say all right,
+this thing right over here would be this thing right over here, where it's dx. And instead of just multiplying dx times the difference
+between these functions, we're going to square the
+difference of these functions 'cause we're visualizing
+this three-dimensional shape, the surface area of this
+three-dimensional shape, as opposed to just the height
+of this little rectangle. And if you were to evaluate this integral, you would indeed get the volume of this, this kind of pedestal horn-looking thing. This is not an easy definite
+integral to evaluate by hand, but we can actually use
+a calculator for that. And so, we can hit math and then hit choice number
+nine for definite integral, and then we just have to input everything. We're going from zero till two of, and then we have, let me open parentheses 'cause I'm gonna have
+to square everything. Six minus four times the natural log of x, or actually the natural
+log of three minus x. And so let me close the parentheses
+on the natural log part. And then, if I close the
+parentheses on this whole thing, I want to then square it. And then I'm integrating
+with respect to x. Enter, I got approximately 26.27. So approximately 26.27,
+and this is a volume here. So if we thought about units, it would be in our units
+cubed or cubic units.

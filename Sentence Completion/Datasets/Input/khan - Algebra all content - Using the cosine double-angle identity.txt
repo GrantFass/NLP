@@ -1,0 +1,45 @@
+We have triangle ABC here, which
+looks like a right triangle. And we know it's
+a right triangle because 3 squared plus 4
+squared is equal to 5 squared. And they want us to figure out
+what cosine of 2 times angle ABC is. So that's this angle-- ABC. Well, we can't
+immediately evaluate that, but we do know what the
+cosine of angle ABC is. We know that the cosine of
+angle ABC-- well, cosine is just adjacent
+over hypotenuse. It's going to be equal to 3/5. And similarly, we know what
+the sine of angle ABC is. That's opposite over hypotenuse. That is 4/5. So if we could break this
+down into just cosines of ABC and sines of ABC, then we'll
+be able to evaluate it. And lucky for us, we have a
+trig identity at our disposal that does exactly that. We know that the cosine
+of 2 times an angle is equal to cosine
+of that angle squared minus sine of that
+angle squared. And we've proved
+this in other videos, but this becomes very
+helpful for us here. Because now we know
+that the cosine-- Let me do this in
+a different color. Now, we know that the
+cosine of angle ABC is going to be equal
+to-- oh, sorry. It's the cosine of 2
+times the angle ABC. That's what we care about. 2 times the angle
+ABC is going to be equal to the cosine of angle ABC
+squared minus sine of the angle ABC squared. And we know what
+these things are. This thing right
+over here is just going to be equal
+to 3/5 squared. Cosine of angle a ABC is 3/5. So we're going to square it. And this right over here
+is just 4/5 squared. So it's minus 4/5 squared. And so this simplifies
+to 9/25 minus 16/25, which is equal to 7/25. Sorry. It's negative. Got to be careful there. 16 is larger than 9. Negative 7/25. Now, one thing that
+might jump at you is, why did I get a
+negative value here when I doubled the angle here? Because the cosine was
+clearly a positive number. And there you just have to
+think of the unit circle-- which we already know the unit circle
+definition of trig functions is an extension of the
+Sohcahtoa definition. X-axis. Y-axis. Let me draw a unit circle here. My best attempt. So that's our unit circle. So this angle right over here
+looks like something like this. And so you see its
+x-coordinate-- which is the cosine of that
+angle-- looks positive. But then, if you were
+to double this angle, it would take you out
+someplace like this. And then, you see-- by the
+unit circle definition-- the x-coordinate, we are now
+sitting in the second quadrant. And the x-coordinate
+can be negative. And that's essentially what
+happened in this problem.

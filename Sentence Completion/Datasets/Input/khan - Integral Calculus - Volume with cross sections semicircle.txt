@@ -1,0 +1,73 @@
+- [Voiceover] This right
+over here is the graph of x plus y is equal to one. Let's say the region
+that's below this graph but still in the first
+quadrant, that this is the base of a three dimensional figure. So this region right over here is the base of a three dimensional figure. What we know about this
+three dimensional figure is if we were to take cross
+sections that are perpendicular to the x axis, so cross
+sections I guess we could say that are parallel to the y
+axis, so let's say we were taking a cross-section like that, we know that this will be a semi-circle. If we take a slightly different view of the same three-dimensional, we would see something like this. I've laid the coordinate plane down flat and I'm looking at it from above. This cross-section, if we're
+looking at it at an angle, and if the figure were transparent, it would be this
+cross-section right over here. It would be that
+cross-section right over here, which is a semi-circle. If we were to take this cross
+section right over here, along the y axis, that
+would be this cross section. This larger semi-circle. Given what I've just told
+you, I encourage you to pause the video and see if you can figure out the volume of this thing that
+I've shaded in a little bit. The volume of this thing
+that I've just started. This three dimensional figure that we are attempting to visualize. I'm assuming you've had a go at it. One way to think about it
+is, well let's just think about each of these,
+let's split up the figure into a bunch of discs. If you figure out the volume
+of each of those discs, and sum them up then that would be a pretty good approximation for the volume of the whole thing. Then, if you took the limit
+as you get an infinite number of discs that are infinitely thin, then you're going to get the exact volume. Let's just take the
+approximating case first. Let's say that right over here at x, what is going to be the
+diameter of the disc at x. Well, to think about that
+we just have to re-express x plus y is equal to one. That's the same thing as
+saying that the function that F of x or y is equal to F
+of x is equal to one minus x. The diameter of this
+circle right over here, let me make it clear, the
+diameter of this circle is going to be this height,
+is going to be the difference between one minus x and the x axis, or between one minus x and x equals zero. This is just going to
+be, as a function of x, the diameter's going to be one minus x. Now, if you want to find the
+surface area for a circle, or if we want to find
+the area of a circle, we know that area is pi r-squared. For our semi-circle, you're
+going to divide by two. So what's the radius going to be? Just let me zoom in a little bit. What is the radius of one of
+these semi-circles going to be? The radius I could draw it like this. My best attempt to draw
+one of these things. It's gonna look something like this. I'm trying to draw it at an angle. The radius, what's gonna
+be half the diameter? The diameter is one minus x. The radius is going to
+be one minus x over two. Right, that distance is
+one minus x over two. That distance is one minus x over two. That distance is one minus x over two. So, that is one minus x over
+two is equal to the radius. What would be the area of of
+this side right over here? Well, if it was a full circle,
+it would be pi r-squared, but it's a semi-circle so
+it's pi r-squared over two. Let me write this, so the
+area is equal to pi r-squared over two 'cause it's a semi-circle. In terms of x, our area as a
+function of x right over there, let me write it that way,
+our area as a function of x, is gonna be pi over two. It's gonna be pi over two times one minus x over two squared. It's one minus x over two squared. If I wanted a volume of just
+this disc right over here, I, then, multiply that
+area times the depth. I just multiply the area
+times this depth here. We could call that d x or
+we could call that delta x. We could call the depth there delta x. Actually, let me be
+clear, that's the area. The volume of one of those
+shells is going to be equal to, and I'll just write this in one color, is gonna be pi over two times one minus x over two squared, times the depth. The area times the depth. This is volume of one of these half discs. The volume of the whole thing
+we can approximate is the sum of these, or we can take the
+limit is our delta x's get much, much, much, much,
+smaller and we have an infinite number of these things,
+which is essentially, if we're taking that limit, we're gonna take the definite integral. We could take the definite integral, so the volume that we care
+about, the volume of this figure, is going to be equal to
+the definite integral from x equals zero to x equals one. That's where we intersect the x axis. X equals zero to x equals
+one of, we're integrating an infinite number of these
+things that are infinitely thin. It's going to be pi over two times, what's one minus x-squared? Let me just expand it out
+for fun right over here. That's the same thing
+as x minus one squared. So it's going to be x
+squared minus two x plus one, and then two squared is four, over four. Instead of delta x, I'm
+going to right d x now. I'm gonna write d x because
+I'm taking the limit as these become infinitely small and I have an infinite nine. I'm summing an infinite number of them. The volume is just going
+to be, we just have to evaluate this definite integral. If you feel so inspired,
+feel free to pause and try to evaluate
+this definite integral. Let's just take some
+of these constants out. Let's take pi over eight out. Our volume is going to be
+equal to pi over eight times the definite integral from zero to one of x-squared minus two x plus one d x, which is equal to pi over eight. The antiderivative of this
+is x to the third over three minus x-squared plus x. We're going to evaluate
+that at zero and one. This is going to be
+equal to pi over eight. When you evaluate it at one, you get one third minus one plus one. It's going to be one third. When you evaluate at zero, you get zero minus zero plus zero. It's going to be minus zero so
+it's just pi over eight times one third which is equal to
+pi over 24 and we are done.

@@ -1,0 +1,98 @@
+- [Voiceover] So in that last video, I showed you how to get this equation using a lot of Physics, and so it's actually
+not necessary to watch the previous video, you can just start with this video if you want. And E one, we said, was
+the energy associated with an electron, and the lowest energy level of hydrogen. And we're using the Bohr model. And we calculated the
+value for that energy to be equal to negative 2.17 times 10 to the negative 18 joules. And let's go ahead and convert
+that into electron volts, it just makes the numbers
+easier to work with. So one electron volt is equal to 1.6 times 10 to the negative 19 joules. So if I take negative 2.17 times 10 to the negative 18 joules, I know that for every one
+electron volts, right, one electron volt is equal to 1.6 times 10 to the negative 19 joules, and so I have a conversion factor here. And so, if I multiply these two together, the joules would cancel and give me electron volts as my units. And so if you do that math, you get negative 13.6 electron volts. So once again, that's
+the energy associated with an electron, the lowest
+energy level in hydrogen. And so I plug that back
+into my equation here, and so I can just rewrite it, so this means the energy
+at any energy level N is equal to E one, which is
+negative 13.6 electron volts, and we divide that by N
+squared, where N is an integer, so one, two, three, and so on. So the energy for the
+first energy level, right, we already know what it is,
+but let's go ahead and do it so you can see how to use this equation, is equal to negative 13.6 divided by, so we're saying the energy
+where N is equal to one, so whatever number you have here, you're gonna plug in here. So this would just be
+one squared, alright? Which is of course just one, and so this is negative
+13.6 electron volts, so we already knew that one. Let's calculate the energy
+for the second energy level, so E two, this would
+just be negative 13.6, and now N is equal to two,
+so this would be two squared, and when you do that math you get negative 3.4 electron volts. And then let's do one more. So the energy for the third energy level is equal to negative 13.6,
+now N is equal to three, so this would be three squared, and this gives you negative
+1.51 electron volts. So, we have the energies for
+three different energy levels. The energy for the first energy level is equal to negative 13.6. E two is equal to negative 3.4, and E three is equal to
+negative 1.51 electron volts. So energy is quantized
+using the Bohr models, you can't have a value of energy
+in between those energies. And also note that your
+energies are negative, and so this turns out to
+be the highest energy, because this is the one
+that's closest to zero, so E three is the highest energy level out of the three that
+we're talking about here. Alright, let's talk about the Bohr model of the hydrogen atom really fast. And so, over here on the left, alright, just to remind you, I already showed you how to get these different
+radii for the Bohr model, so this isn't drawn perfectly to scale. But if we assume that we have
+a positively charged nucleus, which I just marked in red here, so there's our positively charged nucleus. We know the electron orbits
+the nucleus in the Bohr model. So I'm gonna draw an electron here, so again, not drawn to scale, orbiting the nucleus. So the positively charged nucleus attracts the negatively charged electron. And I'm saying that electron
+is orbiting at R one, so that's this first radius right here. So R one is when N is equal to one, and we just calculated that energy. When N is equal to one, that was negative 13.6 electron volts, that's the energy associated
+with that electron as it orbits the nucleus. And so if we go over here on the right, and we say this top line here represents energy is equal to zero, then this would be negative
+13.6 electron volts. So none of this is drawn
+perfectly to scale, but this is just to give you
+an idea about what's happening. So this is when N is equal to one, the electron is at a distance
+R one away from the nucleus, we're talking about
+the first energy level, and there's an energy of negative 13.6 electron volts associated with that electron. Alright, let's say the
+electron was located a distance R two from the nucleus. Alright, so that's N is equal to two, and we just calculated that energy is equal to negative 3.4
+electron volts, alright? And then let's say the
+electron was at R three from the nucleus, that's
+when N is equal to three, and once again we just
+calculated that energy to be equal to negative
+1.51 electron volts. And so it's useful to compare
+these two diagrams together, because we understand this
+concept of energy much better. For example, let's say we
+wanted to promote the electron that I drew, so this electron
+right here I just marked. Let's say we wanted to
+promote that electron from the lower energy level
+to a higher energy level. So let's say we wanted
+to add enough energy to cause that electron to go
+from the first energy level to the second energy level, so that electron is jumping up here to the second energy level. We would have to give that
+electron this much energy, so the difference in energy
+between our two energy levels, so the difference between
+these two numbers. And if you're thinking about
+just in terms of magnitude, alright, 13.6 minus 3.4, alright? So this is a magnitude
+of 10.2 electron volts. And so if you gave that
+electron 10.2 electron volts of energy, right, you
+could cause that electron to jump from the first energy level all the way here to the
+second energy level. But you would have to provide
+the exact right amounts of energy in order to get it to do that. Alright, let's say you
+wanted to cause the electron to jump, let's say, from
+the first energy level all the way to the third
+energy level, alright? So from the first energy level
+to the third energy level. So that would be, here's our electron in the first energy level, let's say we wanted to cause it to jump all the way up to here, alright? So once again, you would have to provide enough energy in order to do that. So, just thinking about
+the magnitudes, right? This was negative 1.51,
+this was negative 13.6, if we just take 13.6 minus 1.51, alright, we would get how much
+energy we need to put in in order to cause that transition, so this would be 12.09 electron volts. And so if you gave an
+electron 12.09 electron volts, you could promote it to
+a higher energy level. And then finally, the last situation, let's think about taking the electron, let me go ahead and draw
+it in here once more, in the first energy level. And let's say you provide
+it with enough energy to take it an infinite
+distance away from the nucleus, so again, not drawn to scale. So let's say we're at an infinite distance away from the nucleus. If the electron is infinitely
+away from the nucleus, it feels no attractive pull. So there's no force,
+there's no attractive force, we talked about Coulomb's Law earlier. So this is when R is
+equal to infinity here, and if there's no attractive force, there's no potential energy. So the way we define potential energy, electrical potential
+energy, it's equal to zero when R is equal to infinity. So the electrical potential
+energy is equal to zero, and if it's not moving, then it's kinetic energy is equal to zero, and therefore it's total
+energy is equal to zero. So this is what the diagram
+over here on the right means. So when E is equal to zero, we're talking about the electron being an infinite distance
+away from the nucleus, so we can say N is equal
+to infinity, alright? R is equal to infinity,
+and if it's not moving, it has a total energy equal to zero. So we've taken the
+electron completely away from the nucleus, we
+have ionized it, alright? So we've gone from a neutral hydrogen atom to the hydrogen ion, so
+this turns it into H plus, so we're going from H to H plus. And that amount of energy, let me use a different
+color here, so obviously it requires a lot of
+energy in order to do that, so that would be going
+from an electron here to an electron here, so
+what is the magnitude of that energy difference? That's 13.6 electron volts. So it takes 13.6 electron
+volts to take an electron away from the attractive
+pull in the nucleus, and to turn it into an ion. And this number, 13.6 electron volts, corresponds to the ionization
+energy for hydrogen. And so the Bohr model accurately predicts the ionization energy for hydrogen, and that's one of the
+reasons why it's useful to study it and to think about these different energy levels. So not only are the
+radii quantized, alright, just going back over here, not only are these radii quantized, but the energy levels are, too.

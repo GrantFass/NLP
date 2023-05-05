@@ -1,0 +1,77 @@
+- [Instructor] Imagine
+that I'm standing here holding the end of a rope. I'm over here on the left end,
+and while holding the rope, I rapidly moved my hand up, down, and back to the starting position. If we were to take a snapshot of the rope immediately after I finished my motion, we're going to see something like this. The rope has a squiggly disturbance that mirrors the motion
+I made with my hand, up, down, and back to the middle. And the rest of the rope is still flat. You might've seen something like this if you've ever played with a jump rope and wiggled it back and forth, or a slinky and you've seen that oscillate back and forth on the ground, or if you've been in the gym and seen somebody doing exercises
+with large battle ropes, slamming them up and down repeatedly. And we know that over
+time, this disturbance is actually going to make
+its way through the rope. If this is what we observe
+right after my hand motion, at some later point in time, we will observe that the
+beginning of the rope is back to its original shape,
+the squiggly disturbance has made its way further down the rope, and it will keep traveling
+in this direction until it reaches the end of the rope. This is exactly what a wave is in physics. A wave is a disturbance, in this case, the squiggle in the rope
+caused by my hand motion, and that disturbance can propagate, it can travel or move in
+a particular direction. So a wave is a disturbance
+that can propagate. This particular example is
+called a mechanical wave. It's called a mechanical
+wave because the disturbance is traveling through a medium,
+in this case, the rope. So mechanical waves
+travel through a medium. One important point about waves that is worth noting right now is that waves transfer energy
+without transferring matter. So what that means is that the disturbance
+that is moving here, this squiggly shape is
+moving through the rope, but it isn't moving the rope
+to a different position. Any part of the rope might go up and down as the wave travels through that section, but the rope itself is not going anywhere, rather it's the kinetic energy imparted to the rope by my hand that is transferring
+from particle to particle and making its way through the rope. So waves transfer energy, but not matter. So in my first example, I only jerked my hand up and down once, which created a single wave pulse that moved through my rope. If instead, I were to keep moving my hand up and down consistently, I would see a wave form that
+looks something like this. And when we model a wave, there are a few key characteristics
+that we need to know about that wave. First is the period. Period is measured in
+seconds and it tells us how long it takes for one
+wave cycle to complete. Next is the wavelength. Measured in units of distance like meters, the wavelength is the distance
+between identical points of adjacent waves. And finally there's frequency. So if the wave point that we've
+drawn here takes one second, there are four cycles in that one second, that means it has a frequency of 4hz or four cycles per second. So the frequency measured
+in cycles per second tells us how many wave cycles
+there are every second. Now using just these basic
+anatomical properties of a wave, we can start to pick out more interesting physical characteristics, like speed or distance over time. If we want to know how
+fast a wave is traveling, we can take its wavelength, which is the distance
+covered by a single cycle, and multiply that by the frequency, which is how many cycles
+are completed in a second, a given amount of time. The cycles cancel out and we're left with units
+of distance over time, the same as speed. And that's our equation
+for the speed of the wave. Wavelength times frequency. The standard units for
+speed are meters per second. There are a couple of factors that can affect the speed of a wave. The first is the wave type. So different types of waves
+move at different speeds. A relatable example of different waves moving at different speeds is lightning. Have you ever seen lightning strike or been in a thunderstorm? You know that the first thing you see is the flash of lightning,
+and then you hear the thunder associated with that lightning flash. So the lightning comes first
+and the thunder comes second. That's because those
+are two different waves that are part of the same phenomenon. When the lightning strike
+hits, you see the flash first because that's an
+electromagnetic wave, light. It travels much faster than the sound associated
+with the lightning strike. Electromagnetic waves are special not only because they travel really fast, but they also don't need a
+medium to travel through. The thunder on the other
+hand is a sound wave traveling slower than the light. So you'll see the lightning
+before you hear the thunder. Different wave types
+move at different speeds. The second key factor that
+can affect the speed of a wave is the medium through
+which the wave travels and we'll consider sound
+as an example here. So when someone is talking, right, we have this talking head
+creating some vibrations of the particles in front of their mouth, that's the sound wave. It's the vibration of those particles propagating through the air. When you speak, your
+vocal cords exert force on the particles just in front of you. They vibrate back and forth,
+creating a compression that transfers to the
+surrounding particles. As the vibrations continue to
+propagate, the sound travels. You can imagine that if these particles
+are packed closer together, those vibrations are going to
+transfer a lot more quickly because the particles
+are colliding much faster than if they're further apart. So sound travels much
+faster in water, a liquid, than it does in air,
+for that exact reason. The particles in the
+liquid are closer together. Since they're closer
+compacted, they collide more, and the propagation of
+the wave happens faster. So different ways move at different speeds and the medium through
+which a wave travels can also affect the speed of a wave. All right, so let's try to
+summarize all this information. We have waves, a wave, a
+disturbance that can propagate, and it has a few key characteristics. There's the period or how long it takes
+one cycle to complete, there's the wavelength, the distance between identical points on two waves that are next to each other, and the frequency, which is how many waves
+cycles complete in one second. In this case, we have
+two cycles in one second for a frequency of 2hz. Wave speed is found by multiplying
+wavelength and frequency, and that wave speed is
+affected by the type of wave and the medium through
+which the wave travels. Mechanical waves are ways
+that travel through a medium, so sound, a slinky or rope, ocean waves, and electromagnetic waves
+like light are special because they can travel through a vacuum. They don't have to have a
+medium in order to propagate. But all waves, no matter what type, transfer energy, not matter.

@@ -1,0 +1,101 @@
+The circle x squared plus y
+squared minus 8x equals 0, and the hyperbola x squared
+over 9 minus y squared over 4 equal 1
+intersect at the points A and B. Equation of a common
+tangent with positive slope to the circle as well so
+the hyperbola is-- so let's just visualize what
+they're asking first. And this is going to
+take us multiple videos, I have a feeling. But let's just
+visualize it just so we can get our head
+around the problem. So this circle, let me complete
+the square in terms of x. So this circle, as they wrote
+it, is x squared minus 8x. And then we have
+a plus y squared-- I left some space here
+so we can complete the square-- is equal to 0. And then let me add half of this
+8 term squared to both sides. So half of negative
+8 is negative 4, and negative 4 squared is 16. So add 16 to both sides. And that allowed me to turn the
+x-term into a perfect square. This is the same thing
+as x minus 4 squared. And then we have plus y squared. Plus y squared is equal to 16. So this is a circle. This right here is a circle
+with center at x equals 4. At x equals 4, y is equal to 0. And it has a radius
+of 4 as well. So let me graph
+this circle here. So let me draw the
+horizontal axis, my x-axis. Let me draw the y-axis. That is my y-axis over here. And let me draw its
+center, so 1, 2, 3, 4. 4 comma 0. That's it's center, and
+it has a radius of 4. So it's going to
+come out, and it's going to look something--
+I could draw a better circle than that. It's going to look something
+like-- that's the top half, and then the bottom
+half is going to look something like that. So that's our circle. Now let's think
+about the hyperbola. So if we just look at it, the
+x squared term is positive, so it's going to
+be a hyperbola that opens to the right and the left. We do this a bunch in
+the conic sections videos if you want to review of that. And we could just figure out
+where it intersects the x-axis. So then when y is equal to
+0, we have x squared over 9 must be equal to 1. Or x would be plus or minus 3. So the hyperbola is
+going to look like this. So this is at plus 3 comma 0. The hyperbola will
+open up like that. And then at 1, 2, 3,
+negative 3 comma 0, the hyperbola is going
+to open up to the left. And so in the problem when they
+describe the points A and B, they're probably talking about
+that point A and that point B. Now, let's think about what
+this question is asking us. Equation of a common tangent
+with positive slope-- so it has to have a positive
+slope-- to the circle as well as to the
+hyperbola-- a common tangent. So let's just think
+about this a little bit. So it's going to have
+a positive slope, so it won't be
+tangent to the circle anywhere where the circle
+has a negative slope. So it can't be
+tangent over here. It can't be tangent over there. And then we could
+say, well, if it was tangent to the circle
+over here, what would happen? Well , it wouldn't be able to
+be tangent to the hyperbola. So it has to be
+tangent to the circle someplace in this blue
+region right over here. And then how can it be
+tangent to the hyperbola? It might be tempting
+to say that it would be tangent to the hyperbola
+in this way somehow, but what you need to
+realize is the hyperbola is asymptoting
+towards some line. And we could figure
+out what that line is. Its asymptoting
+towards some line. So let me draw that line. The hyperbola is always
+going to have a higher slope than that line, a
+very slightly higher slope. It's slowly
+approaching that line. So if you go out
+here, the hyperbola is going to have a higher
+slope than the asymptote line. And so if you had
+to be tangent to it, you would have to
+have a higher slope. And anything that's
+coming from this part of the circle towards anything
+out here on the hyperbola is going to have to have a lower
+slope than the tangent line, right? Because it's going
+to have to catch up. The tangent line
+is going to have to catch up to
+whatever-- let me draw it again-- to whatever
+we draw over here. I want to make this clear. The hyperbola, as
+you go out here, actually this whole period, this
+whole part of the hyperbola, is going to have a
+higher slope than what it is asymptoting towards. That's what allows it to get
+closer and closer to that line. So any tangent is going
+to have to have a higher slope out here. Anything tangent
+to the hyperbola is going to have
+to have a higher slope than this actual line. It's going to have to have
+a slightly higher slope. So if we take something
+out here and we try to draw a tangent from this
+part of the circle out there, it wouldn't work. Because this tangent,
+by definition, in order to meet
+the hyperbola, is going to have to have a lower
+slope than this asymptote. So this can't be tangent to
+that part of the hyperbola. So what else can we do? Well, the only other
+part of the hyperbola that we might be able
+to work something out is this part of the
+hyperbola right over here. So if we find a line that's
+tangent maybe there and there on the hyperbola, then we might
+have found our common tangent with positive slope. So let me draw that. So our common tangent
+with positive slope, I'll do that in pink. Our common tangent with positive
+slope could look like that. So now that we have
+the visualization down, in the next video
+let's try to figure out what that line might look like,
+especially when we constrain it to having to be
+tangent to the circle and having to be tangent
+to this hyperbola.

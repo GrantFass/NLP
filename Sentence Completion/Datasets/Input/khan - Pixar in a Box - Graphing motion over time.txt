@@ -1,0 +1,26 @@
+- In this lesson, we'll revisit
+our ping pong ball simulator but this time from a mathematical or quantitative perspective. By the end of the lesson, you'll learn everything you need to code up your own
+ping pong ball simulator and much more. Specifically, we are going to develop mathematical formulas to do three things. One. Describe how particles move based on laws of physics. Two. Control how
+particles collide with the walls of the container
+and with each other. Three. Create a method
+to track particle motion forward in time. To begin to understand how particles move let's draw different kinds of motion. By motion, we mean how
+the position of particles will change over time. We got an idea of how things
+move in our animation lesson. In that lesson, we animated a ball by drawing it in different
+positions over time using each frame indicated
+at the bottom of the screen. If we draw the ball
+moving an equal distance between each frame, it looks like it's sliding
+along a friction-less surface. The speed isn't changing. It's constant. If we plot the position
+of the ball over time, we get a straight line. Here, time is expressed
+on the horizontal axis and the distance the ball has moved is plotted on the vertical axis. The slope of the line tells us how fast it's moving. A steeper slope means a higher speed. The slope is a change in position divided by the change in time. Now, what if we wanted to plot the ball's speed over time? If the ball speed doesn't change at all, we get a plot like this: A straight horizontal line. A harder challenge is animating the ball so it actually looks like
+it is being acted upon by gravity. To do that, we have to
+increase the distance that the ball travels between each frame. This is because the ball
+needs to speed up as it falls. When we plot the ball's position over time we get a curve. This is because at each
+frame we are changing the slope of the line. Now, if we plot the speed
+of the ball over time, we get a non-horizontal line. That's telling us that the ball speed is no longer constant. The slope of the line
+is telling us how fast the ball's speed is changing. Just like we plotted
+the change in position to get the ball speed, we can plot the change in speed to get acceleration of the ball. Here is the plot of
+the ball's acceleration versus time. Notice it is a straight line which means the acceleration isn't changing and that's because the acceleration due to gravity is constant. To summarize, speed is
+the slope of the ball's position versus time curve. Similarly, acceleration is the slope of the speed versus time curve. As shown in these equations, speed is equal to change in position divided by change in time. And acceleration is
+equal to change in speed divided by change in time. But let's pause here. In the next exercise, we'll challenge you to think about how the motion of
+objects changes over time in terms of position,
+speed and acceleration.

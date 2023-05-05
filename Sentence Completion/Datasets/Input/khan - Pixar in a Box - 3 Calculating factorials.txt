@@ -1,0 +1,12 @@
+- Nice work! Suppose we wanted four-segment Snake Bots as in the previous exercise. How many of those are there? Well, we have four choices
+for the first segment, three choices for the second segment, two choices for the third segment, and one choice for the fourth segment. So that's four times
+three times two times one, which multiplies out to 24. Isn't it interesting that
+you can make 24 different Snake Bots using only
+four different objects? And it gets better! Suppose you wanted a
+ten-segment Snake Bot. Then you could make ten times nine times eight times seven times
+six times five times four times three times two times
+one different combination! Which amounts to a whopping 3,628,800 different ten-segment Bots! And you only have to build
+ten different objects! These kinds of calculations
+appear all the time in combinatorics, so of
+course mathematicians invented a name and a shorthand for them. They're called factorials, and they're represented with an exclamation point. For instance, four exclamation point, or four factorial, stands for four times three times two times one. So four factorial is 24, five factorial is 120, and 10 factorial is over three million! Wow! That's a combinatorial
+explosion of choices! (glass-shattering blast) Let's pause now and practice this concept in the next exercise.

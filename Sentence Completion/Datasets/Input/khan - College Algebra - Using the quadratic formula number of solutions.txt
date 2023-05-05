@@ -1,0 +1,68 @@
+Determine the number of
+solutions to the quadratic equation, x squared plus 14x
+plus 49 is equal to 0. There's a bunch of ways
+we could do it. We could factor it and just
+figure out the values of x that satisfy it and
+just count them. That will be the number
+of solutions. We could just apply the
+quadratic formula. But what I want to do here is
+actually explore the quadratic formula, and think about how we
+can determine the number of solutions without even maybe
+necessarily finding them explicitly. So the quadratic formula tells
+us that if we have an equation of the form ax squared plus bx
+plus c is equal to 0, that the solutions are going to be-- or
+the solution if it exists is going to be-- negative b plus or
+minus the square root of b squared minus 4ac. All of that over 2a. Now the reason why this can be
+2 solutions is that we have a plus or minus here. If this b squared minus 4ac is
+a positive number-- so let's think about this a little bit. If b squared minus 4ac
+is greater than 0, what's going to happen? Well, then it's a
+positive number. It's going to have
+a square root. And then when you add it to
+negative b you're going to get one value for the numerator, and
+when you subtract it from negative b you are going
+to get another value in the numerator. So this is going to lead
+to two solutions. Now what happens if b squared
+minus 4ac is equal to 0? If this expression under the
+radical is equal to 0, you're just going to have the
+square root of 0. So it's going to be negative
+b plus or minus 0. And it doesn't matter whether
+you add or subtract 0, you're going to get the same value. So in that situation, the
+actual solution of the equation is going to be
+negative b over 2a. There's not going to be this
+plus or minus, it's not going to be relevant. You're only going to
+have one solution. So if b squared minus 4ac
+is equal to 0, you only have one solution. And then what happens if
+b squared minus 4ac is less than 0? Well if b squared minus 4ac is
+less than 0, this is going to be a negative number right here
+and you're going to have to take the square root
+of a negative number. And we know, from dealing with
+real numbers, you can't take the square root. There is no real number
+squared that becomes a negative number. So in this situation there is
+no solutions, or no real-- when I say real I literally
+mean a real number-- no real solution. So let's think about it
+in the context of this equation right here. And just in case you're curious
+if whether this expression right here,
+b squared minus 4ac, has a name, it does. It's called the discriminant. This is the discriminant. That's that part of the
+quadratic equation. It determines the number
+of solutions we have. So if we want to figure out the
+number of solutions for this equation, we don't have
+to go through the whole quadratic equation, although
+it's not that much work. We just have to evaluate
+b squared minus 4ac. So what is b squared
+minus 4ac? So b is right here, it's 14. So it's 14 squared minus 4 times
+a, which is 1, times c, which is 49. That c, right there, times 49. What's 14 times 14? Let me do it over here. 14 times 14. 4 times 4 is 16. 4 times 1 is 4. Plus 1 is 56. Put a 0. 1 times 14 is 14. It is 6, 9, 1. It's 196. So this right here is 196. And we can ignore the 1. What's 4 times 49? So 49 times 4. 4 times 9 is 36. 4 times 4 is 16 plus
+3 is 190-- or is 19, so you get 196. So this right here is 196. So b squared minus 4ac
+is 196 minus 196. So 196 minus 196
+is equal to 0. So we're dealing with a
+situation where the discriminant is equal to 0. We only have one solution. And if you want, you could try
+to find that one solution. This whole part is going to
+be the square root of 0. It's just going to be 0. So the solution is going to
+be negative b over 2a. And negative b is-- we
+could just solve it. Negative b is negative 14 over 2
+times a. a is just 1 over 2. So it's equal to negative 7. That's the only solution
+to this equation. But if you just wanted to know
+how many solutions, you just have to find out that b squared
+minus 4ac is 0. So it's only going to
+have one solution. And there's other ways. You could have actually factored
+this pretty easily into x plus 7 times x plus 7
+and gotten the same result.

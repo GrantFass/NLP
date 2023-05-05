@@ -1,0 +1,25 @@
+Find the probability
+of flipping exactly two heads on 3 coins. So to figure out this
+probability, a good place to start is just to think about all
+of the different possible ways that we can flip 3 coins. So we could get all tails. Tails, tails, tails. We could get tails,
+tails, heads. We could get tails,
+heads, tails. We could get tails,
+heads, heads. We could get heads,
+tails, tails. We could get heads,
+tails, heads. We could get heads,
+heads, tails. And then we could
+get all heads. We could get all heads
+over here. So there are 1, 2, 3, 4, 5,
+6, 7, 8 possible outcomes. 8 possible outcomes. Now how many of the
+outcomes involve flipping exactly 2 heads? Let's see, that's all tails. That's 1 head, 1 head. This has 2 heads right there. That's 1 head. This is 2 heads right
+over there. Then this is 2 heads
+right over here. And then this is 3 heads,
+so that doesn't count. So there are 3 outcomes
+with exactly 2 heads. So, let me spell
+heads properly. 2 heads. So the probability of flipping
+exactly 2 heads-- And the word exactly is important, because
+if you didn't say exactly, then maybe 3 heads, when you
+flip 2 heads, so we have to say exactly 2 heads. So you don't include
+the situation where you get 3 heads. So the probability of flipping
+exactly 2 heads is equal to the 3 outcomes with 2 heads
+divided by the 8 possible outcomes, or 3/8. So it is equal to 3/8. And we are done.

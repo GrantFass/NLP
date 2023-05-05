@@ -1,0 +1,117 @@
+So you might be wondering why I
+went off into permutations and combinations in the probability
+playlist, and I think you'll learn in this video. So let's say I want to figure
+out the probability-- I'm going to flip a coin eight times
+and it's a fair coin. And I want to figure out
+the probability of getting exactly 3 out of 8 heads. So I say 3/8 heads, but 3 of my
+flips are going to be heads and the rest are going to be tails. So how do I think about that? Well, let's go back to one
+of the early definitions we used for probability. And that says, the probability
+of anything happening is the probability of the number of
+equally probable events into which what we're
+stating is true. So in which the number of
+events-- I guess trials or situations-- in which we
+get 3 heads, and exactly 3 heads, we're not saying
+greater than 3 heads. So 4 heads won't count and 2
+heads won't count, 5 heads won't-- only 3 heads. And then, over the total number
+of equally probable trials-- not trials, total number of
+equally possible outcomes. I should be using
+the word outcomes. So just with the word outcomes
+it should be the total number of outcomes in which what
+we're saying happens. So we get 3 heads over the
+total possible outcomes. So let's do the
+bottom part first. What are the total possible
+outcomes if I'm flipping a fair coin eight times? Well, the first time I flip
+it I either get heads or tails, so I get 2 outcomes. And then when I flip it
+again I get 2 more come for the second one. And then, how many
+total outcomes? Well, that's 2 times 2 because
+I could have got 2 in the first, 2 in the second flip. And then essentially we
+would multiply 2 times the number of flips. So that's 5, 6, 7, 8, and
+that equals 2 to the eighth. So the number of outcomes is
+just going to be 2 to the total number of flips. And hopefully that
+make sense to you. If not, you might want
+to re-watch some of the earlier videos. But that's the easy part. So there's 2 to the eighth
+possible outcomes when you flip a fair coin eight times. So how many of those outcomes
+are going to result in exactly 3 heads? Let's think of it this way. Let's give a name to
+each of our flips. Let's give a name to them. So let me make a little column,
+we'll call these the flips. This is my flips column. And I could name them anything. I could name them
+Larry, Curly, Moe. I could name them-- well, I
+would need 5 more names for them, but I could name them the
+7 dwarfs or the 8 dwarfs really because I have 8 flips. I'll number the flips. Flip 1, 2, 3, 4, 5, 6, 7, 8. And I'm the god of probability. And essentially, I need to just
+pick 3 of these flips that are going to result in heads. So another way to think about
+it is, these could be 8 people and I could pick which of
+these-- how many ways can I pick 3 of these people
+to put into the car? How many ways can I pick 3 of
+these people to sit in chairs. And it doesn't matter the
+order that I pick them in. It doesn't matter if I say the
+people that are going to get in the car are going to
+be people 1, 2, 3 3. Or if I say 3, 2, and 1,
+or if I say 2, 3, and 1. Those are all the
+same combination. So similarly, if I'm just
+picking flips and I have to say, OK, 3 of these
+flips are going to get into the heads car. Heads is like they're sitting,
+they're people sitting down. I don't want to
+confuse you too much. But essentially I'm
+just going to choose 3 things out of the 8. So I'm essentially just saying,
+how many combinations can I get where I pick 3 out of these 8. And so that should immediately
+ring a bell that we're essentially saying, out of 8
+things we're going to choose 3. How many combinations of 3
+can we pick of 8 and that we went over in the last video. And let's do it with
+the formula first. So let me write the formula up
+here just so you remember it, but I also want to give you the
+intuition again, for the formula. So in general, we said, n
+choose k, that is equal to n factorial over k factorial
+times n minus k factorial. So in this situation that
+would equal 8 factorial over 3 factorial times what? 8 minus k-- times 5 factorial. Or another way of writing this,
+this would be 8 times 7 times 6 times 5 times 4 times 3 times 2
+times 1 over-- I'll just write 3 factorial for a second. Then times 5 times 4
+times 3 times 2 times 1. And of course, that and that
+cancel out and all you're left with is 8 times 7
+time 6 over 3 factorial. And I did this for reason
+because I want you to re-get the intuition at least for
+this part of the formula. That's essentially just saying,
+how many permutations can I-- how many ways can I pick
+3 things out of 8? And that's essentially saying,
+well, before I pick anything I could pick 1 of 8. Then I have 7 left to pick
+from for the second spot. And then I have 6 left to
+pick for the third spot. And so that's essentially
+the number of permutations. But since we don't care what
+order we picked them in, we need to divide by the number of
+ways we can rearrange 3 things, and that's where the 3
+factorial comes from. And so hopefully I didn't
+confuse you, but if I did you can go back to this formula
+for the binomial coefficient. But it's good to
+have the intuition. And then once we're
+at this point we can just calculate this. Well, what's this? This is 8 times 7 times
+6 over 3 factorial of 3 times 2 times 1. So that's 6. The 6 cancels out,
+so it's 8 times 7. So there's 8 times
+7, or what is that? 56. That's equal to 56. So there's 56 different ways
+to pick 3 things out of 8. Or if I have 8 people there's
+56 ways of picking 3 people to sit in the car or however
+you want t view it. But if I have 8 flips there's
+56 ways of picking 3 of those flips to be heads. So let's go to our original
+probability problem. What is the probably that
+I get 3 out of 8 heads? Well, it's the number of ways
+I can pick 3 out of those 8, so it equals 56, over the
+total number of outcomes. The total number of outcomes
+is 2 to the eighth. Another way I could write
+that-- 56, let me unseparate. That's 8 times 7 over
+2 to the eighth. 8 is 2 to the third. Let me erase some of this. Not with that color. Let me erase that. Let me erase all of
+this just so I space. And I will switch
+colors for variety. Let me use the small pen. OK, so I'm back. All right, so 8 is the same
+thing as 2 to the third times 7-- this is all just
+mathematical simplification, but it's useful-- over
+2 to the eighth. And so, if we just divide both
+sides-- the numerator and the denominator by 2 to the
+third, this becomes 1. This becomes 2 to the fifth. And so it becomes 7/32. Is that right? So if I were to pick 3 out of
+8-- yep, I think that is right. And so what does that
+turn out to be? Let me get my calculator. [INAUDIBLE] to make careless mistakes. Let's see. My calculator seems
+to have disappeared. Let me get it back. There it is. OK. 7 divided by 32 is
+equal to 0.21875. Which is equal to 21.-- you
+know, if I were to round roughly-- 21.9% chance. So there's a little bit better
+than 1 in 5 chance that I get exactly 3 out of the
+8 flips as heads. Hopefully I didn't confuse you
+and now you can apply that to pretty much anything. You could say, well, what is
+the probability of getting-- if I flip a fair coin-- of getting
+exactly 7 out of 8 heads? Or you could say, what's
+the probability of getting 2 out of 100 heads? And you could use it the exact
+same way we did this problem. I'll see you in the next video.

@@ -1,0 +1,161 @@
+Welcome back. Well, in the last presentation,
+we described a situation where you had
+a bunch of borrowers. They needed $1 billion
+collectively, because there's 1000 of them and they each
+needed $1 million to buy their house. And they borrowed the money
+essentially from a special purpose entity. They borrowed it from their
+local mortgage broker, who then sold it to a bank, or to
+an investment bank, who created the special purpose
+entity, and then they IPO the special purpose entity and raise
+the money from people who bought the mortgage-backed
+securities. But essentially what happened
+is the investors in the mortgage-backed securities
+provided the money to the special purpose entity to essentially loan to the borrowers. And then the reason why we call
+it a security is because, not only are these people
+getting this 10% a year, but if they want to -- let's say
+that you had one of these mortgage-backed securities and
+you paid $1000 for it. And you're getting this 10%
+a year, but then all of a sudden, you think that the whole
+mortgage industry is about to collapse, a bunch of
+people are going to default, and you want out. If you just gave someone
+a loan, there'd be no way to get out. You'd have to sell that
+loan to someone else. But if you have a
+mortgage-backed security, you can actually trade the security
+with someone else. And they might pay you, who
+knows, they might pay more than $1000. They might pay you less. But there will be at least some
+type of a market in the security, so you could have what
+you could call liquidity. Liquidity just means that
+I have the security and I can sell it. I could trade it just like I
+could trade a share of IBM or I could trade a share
+of Microsoft. But like we said before, this
+security, in order to place a value on it, you have to do some
+type of analysis of what you think it's worth. Or what you think the real
+interest will be after you take into account people
+pre-paying their mortgage, people defaulting on their
+mortgage, and other things like short-term interest rates,
+et cetera, et cetera. And there is only maybe a small
+group of people who are sophisticated enough to be able
+to figure that out to make some type of models and
+who knows if even they're sophisticated enough. There might be a whole other
+class of investors here, say this guy. He would love to kind of invest
+in insecurities, but he thinks this is too risky. He'd be willing to take a lower
+return as long as he was allowed to invest in less
+risky investments. Maybe by law, maybe he's a
+pension fund or he's some type of a mutual fund, that's forced
+to invest in something of a certain grade. And say that there's another
+investor here, and he thinks that this is boring. You know, 9%, 10%. Who cares about that? He wants to see bigger
+and bigger returns. So there's no way for him to
+invest in this security and to get better returns. So now we're going to take this
+mortgage-backed security and introduce one step further
+kind of permutation or derivative of what this is. That's all derivatives are. You've probably heard the term
+derivatives and people do a lot of hand-waving saying, oh,
+it's a more complicated form of security. All derivative means is you take
+one type of asset and you slice and dice it in a way to
+spread the risk, or whatever. And so you create a
+derivative asset. It's derived from the
+original asset. So let's see how we could use
+this same asset pool, the same pool of loans, and satisfy
+all of these people. Satisfy this guy, who wants
+maybe a lower return but lower risk, and this guy, who's
+willing to take a little bit higher risk in exchange
+for higher return. So now in this situation, we
+have the same borrowers. They borrowed $1 billion
+collectively, right, because there's 1000 of them, et
+cetera, et cetera. And they're still a special
+purpose entity, but now, instead of just slicing up the
+special purpose entity a million ways, what we're going
+to do is we're going to split it up first into three, what
+we could call, tranches. A tranche is just a bucket,
+if you will, of the asset. And we're going to call the
+three tranches: equity, mezzanine, and senior. These are the words
+that are commonly used in this industry. A senior just means, if this
+entity were to lose money, these people get their money
+back first. So it's the least risk out of all of
+the tranches. Mezzanine, that just means
+the next level or middle. And these guys are some
+place in between. They have a little bit more
+risk, and they still get a little bit more reward than
+senior, but they have less risk than this equity tranche. Equity tranche. These are the people who
+first lose money. Let's say some of these
+borrowers start defaulting. It all comes out of the
+equity tranche. So that's what protects the
+senior tranche and the mezzanine tranche
+from defaults. So in this situation what we did
+is we raised -- out of the $1 billion we needed -- $400
+million from the senior tranche, $300 million from the
+mezzanine tranche, and then $300 million from the
+equity tranche. The $400 million senior tranche
+we raised from soon. 1000 senior securities,
+collateralized debt obligations. These are these, right here. Say there were 400,000 of these
+and these each cost $1000, right? Let's say these cost $1000. And we issued 400,000
+of these. So we raised $400 million. Let's say we give these
+guys a 6% return. And you might say, 6%,
+that's not much. But these guys, it is pretty low
+risk, because in order for them to not get their 6%, the
+value of this $1 billion asset or these $1 billion loans, would
+have to go down below $400 million. Maybe I'll do a little bit more
+math in another example. But I think it'll start
+making sense to you. For example, every year we said
+there's going to be $100 million in payments, right? Because it's 10%. $100 million in payments. Of that $100 million in
+payments, 6% on the $400 million, that's $24 million
+in payments. Right? So $24 million in payments will
+go to the senior tranche. Similarly we issued 300,000
+shares at $1000 per share on the mezzanine tranche. This is also 1000. This is the mezzanine tranche. And let's say they get 7%,
+a slightly higher return. And these percentages are
+usually determined by some type of market or what people
+are willing to get. But let's just say it's
+fixed for now. Let's say it's 7%. So 300,000 shares, seven 7%. These guys are going
+to get $21 million. Right? So out of the $100 million every
+year, $24 million is going to go to these guys, $21
+million is going to go to these guys, and then whatever's
+left over is going to go to the equity tranche. So the $300 million from equity,
+they're going to get $55 million assuming that
+there are no defaults or pre-payments or anything shady
+happens with the securities. But these guys are going
+to get $55 million. Or on $300 million, that's
+a 16.5% return. And I know what you're
+thinking. Boy, Sal, that sounds amazing. Why wouldn't everyone want
+to be an equity investor? I don't know. My pen has stopped working. But anyway, I'll try to move
+on without my pen. So you're saying, why wouldn't
+everyone want to be an equity investor? Well, let me ask
+you a question. What happens if -- let's go to
+that scenario where we talked before -- 20% of the borrowers
+just say, you know what? I can't pay this mortgage
+anymore. I'm going to hand you back
+the keys to these houses. And of that 20%, you only
+get a 50% return. So for each of those $1 million
+houses, you're only able to sell it for $500,000. So then instead of getting $100
+million per year, you're only going to get $90
+million per year. I wish I could use my pen. Something about my computer
+has frozen. So instead of $100 million a
+year, you're now only going to get $90 million a year. Right? And all of a sudden,
+these guys are not going to be cut off. This guy is still going to get
+$24 million, this guy is still going to get $21 million, but
+now this guy is going to get $45 million. But he's still getting
+above average yield. Now let's say it gets
+even worse. Let's say a bunch of
+borrowers start defaulting on their loans. And instead of getting $90
+million per year, you start only getting $50 million
+in per year. Now you pay this guy
+$24 million. You pay this guy $21 million
+-- or this group of guys or gals -- $21 million. And then all you have left is
+$5 million for this guy. And $5 million on $300 million,
+now he's getting less than a 2% return. So this guy took on higher
+risk for higher reward. If everyone pays, sure,
+he gets 16.5%. But then if you start having a
+lot of defaults, if, let's say, the return on what you get
+every month goes in half, this guy takes the entire hit. So his return goes to 0%. So he had higher risk,
+higher reward, while these guys get untouched. Of course, if enough people
+start defaulting, even these people start to get hurt. So this is a form of a
+collateralized debt obligation. This is actually a
+mortgage-backed collateralized debt obligation. You can actually do this type
+of a structure with any type of debt obligation that's
+backed by assets. So we did the situation with
+mortgages, but you could do it with a bunch of assets. You could do it with
+corporate debt. You could do it with receivables
+from a company. But what you read about the
+most right now in the newspapers is mortgage-backed
+collateralized debt obligations. And to some degree, that's
+what's been getting a lot of these hedge funds in trouble. And I think I'll do another
+presentation on exactly how and why they have gotten
+in trouble. Look forward to talking to you

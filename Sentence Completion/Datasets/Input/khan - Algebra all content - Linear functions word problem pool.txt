@@ -1,0 +1,20 @@
+- Omojobi is 220 centimeters tall. He wanted to fill up his pool so that the water level would be as high as he is tall. So that the water level, I guess, would be 220 centimeters tall. The water level rose by
+six centimeters each minute and reached the desired height after 20 minutes. Graph the pool's water
+level, in centimeters, as a function of time, in minutes. Well, they do tell us
+one interesting thing. They say that the water level reached the desired
+height after 20 minutes. And we know what the desired height is, the desired height is to be as tall as, or to be as deep as he is tall, or as high as he is tall. And that is 220 centimeters tall. So they're telling us essentially that the water level of the pool after 20 minutes is 220 centimeters, so we can plot that. So after 20 minutes, so we can plot that point right there. After 20 minutes, we
+are at 220 centimeters. So we would be right there. Now the other question is where would we put this point? We need another data point
+in order to define a line. And so they tell us that the water, you might be tempted to say, "Okay, maybe the water level was "at zero to begin with," but
+they didn't tell us that. Maybe when he started filling the pool there was already some water in there. So we have to be a
+little bit more careful. But they do give us some information. The water level rose by six
+centimeters each minute, it rose by six centimeters each minute. So at 20 minutes, we know we're at 220. And if we rose six
+centimeters each minute, where would we have been, let's say 10 minutes ago? So, where would we have been at time 10? So, every 10 minutes, if the water level is rising six centimeters a minute, it would be rising 60
+centimeters every 10 minutes. So 10 minutes ago, we would
+be 60 centimeters less. So 60 centimeters less than 220. That's 20 centimeters less, that's 40 centimeters less, that's 60 centimeters less. So, if you go back in time 10 minutes, you would be 60 centimeters shallower, or less high, and 220 minus 60 is 160. Now, I think I'm done. I
+think this describes it. Now let's see if it makes sense. This is telling us that at time zero there was, before he started filling it, there was already 100
+centimeters in his pool. And then after 20 minutes, he's done. And is that consistent with
+six centimeters a minute? Well, based on this,
+it took him 20 minutes to get to 220, but that's
+an incremental 120. To go from 100 to 220
+is 120 more centimeters. So in 20 minutes, he got 120 centimeters. Well 120 centimeters divided by 20 minutes is six centimeters per minute. So this is looking good
+and we got it right.

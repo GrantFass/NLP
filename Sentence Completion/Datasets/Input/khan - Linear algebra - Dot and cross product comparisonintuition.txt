@@ -1,0 +1,276 @@
+We've known for several videos
+now that the dot product of two nonzero vectors, a and b,
+is equal to the length of vector a times the length of
+vector b times the cosine of the angle between them. Let me draw a and b just
+to make it clear. If that's my vector a and
+that's my vector b right there, the angle between
+them is this angle. And we defined it in this way. And actually, if you ever want
+to solve-- if you have two vectors and you want to solve
+for that angle, and I've never done this before explicitly. And I thought, well, I might
+as well do it right now. You could just solve
+for your theta. So it would be a dot b divided
+by the lengths of your two vectors multiplied by each
+other is equal to the cosine of theta. And then to solve for theta
+you would have to take the inverse cosine of both sides,
+or the arc cosine of both sides, and you would get theta
+is equal to arc cosine of a dot b over the magnitudes or
+the lengths of the products of, or the lengths of each of
+those vectors, multiplied by each other. So if I give you two arbitrary
+vectors-- and the neat thing about it is, this might be
+pretty straightforward. If I just drew something in two
+dimensions right here, you could just take your protractor
+out and measure this angle. But if a and b each have a
+hundred components, it becomes hard to visualize the
+idea of an angle between the two vectors. But you don't need to visualize
+them anymore because you just have to calculate
+this thing right here. You just have to calculate
+this value right there. And then go to your calculator
+and then type in arc cosine, or the inverse cosine that are
+the equivalent functions, and it'll give you an angle. And that, by definition, is the
+angle between those two vectors, which is a
+very neat concept. And then you can start
+addressing issues of perpendicularity and
+whatever else. This was a bit of a tangent. But the other outcome that I
+painstakingly proved to you in the previous video was that
+the length of the cross product of two vectors is equal
+to-- it's a very similar expression. It's equal to the product of the
+two vectors' lengths, so the length of a times the length
+of b times the sine of the angle between them. Times the sign of the
+angle between them. So it's the same angle. So what I want to do is take
+these two ideas and this was a bit of a diversion there just
+to kind of show you how to solve for theta because I
+realized I've never done that for you before. But what I want to do is I want
+to take this expression up here and this expression up
+here and see if we can develop an intuition, at least in R3
+because right now we've only defined our cross product. Or the cross product of two
+vectors is only defined in R3. Let's take these two ideas in
+R3 and see if we can develop an intuition. And I've done a very similar
+video in the physics playlist where I compare the dot product
+to the cross product. Now, if I'm talking about--
+let me redraw my vectors. So the length of a--
+so let me draw a. b, I want to do it
+bigger than that. So let me do it like that. So that is my vector b. So this is b. That is a. What is the length of a times
+the length of b times the cosine of the angle? So let me do that right there. So this is the angle. So the length of a if I were to
+draw these vectors is this length right here. This is the length of a. It's this distance right
+here, the way I've drawn this vector. So this is, literally, the
+length of vector a. And I'm doing it in R3 or maybe
+a version of it that I can fit onto my little
+blackboard right here. So it'll just be the length
+of this line right there. And then the length of
+b is the length of that line right there. So that is the length of b. Let me rewrite this
+thing up here. Let me write it as b, the length
+of b times the length-- and I want to be careful. I don't want to do the dot there
+because you'll think it's a dot product. Times a cosine of theta. All I did is I rearranged
+this thing here. It's the same thing
+as a dot b. Well what is a times the
+cosine of theta? Let's get out our basic
+trigonometry tools-- SOH CAH TOA. Cosine of theta is equal to
+adjacent over hypotenuse. So if I drop, if I create a
+right triangle here, and let me introduce some new colors
+just to ease the monotony. If I drop a right triangle
+right here and I create a right triangle right there, and
+this is theta, than what is the cosine of theta? It's equal to this. Let me do it another color. It's equal to this,
+the adjacent side. It's equal to this little
+magenta thing. Not all of b, just this
+part that goes up to my right angle. That's my adjacent. I want to do it a little
+bit bigger. It's equal to the adjacent
+side over the hypotenuse. So let me write this down. So cosine of theta is equal to
+this little adjacent side. I'm just going to write
+it like that. Is equal to this adjacent side
+over the hypotenuse. But what is the hypotenuse? It is the length of vector a. It's this. That's my hypotenuse
+right there. So my hypotenuse is the
+length of vector a. And so if I multiply both sides
+by the length of vector a I get the length of vector a
+times the cosine of theta is equal to the adjacent side. I'll do that in magenta. So this expression right here,
+which was just a dot b can be rewritten as-- I just told you
+that the length of vector a times cosine of theta is equal
+to this little magenta adjacent side. So this is equal to
+the adjacent side. So you can view a dot b as being
+equal to the length of vector b-- that length-- times
+that adjacent side. And you're saying, Sal, what
+does that do for me? Well what it tells you
+is you're multiplying essentially, the length of
+vector b times the amount of vector a that's going in the
+same direction as vector b. You can kind of view this as
+the shadow of vector a. And I'll talk about projections
+in the future. And I'll more formally define
+them, but if the word projection helps you, just
+think of that word. If you have a light that shines
+down from above, this adjacent side is kind of like
+the shadow of a onto vector b. And you can imagine, if these
+two vectors-- if our two vectors looked more like this,
+if they were really going in the same direction. Let's say that's vector a and
+that's vector b, then the adjacent side that I care about
+is going to-- they're going to have a lot
+more in common. The part of a that is going in
+the same direction of b will be a lot larger. So this will have a larger
+dot product. Because the dot product is
+essentially saying, how much of those vectors are going
+in the same direction? But it's just a number, so it
+will just be this adjacent side times the length of b. And what if I had vectors that
+are pretty perpendicular to each other? So what if I had two vectors
+that were like this? What if my vector a looked
+like that and my vector b looked like that? Well now the adjacent, the way
+I define it here, if I had to make a right triangle
+like that, the adjacent side's very small. So you're dot product, even
+though a is still a reasonably large vector, is now much
+smaller because a and b have very little commonality
+in the same direction. And you can do it
+the other way. You could draw this down like
+that and you could do the adjacent the other way, but it
+doesn't matter because these a's and b's are arbitrary. So the take away is the fact
+that a dot b is equal to the lengths of each of those times
+the cosine of theta. To me it says that the dot
+product tells me how much are my vectors moving together? Or the product of the
+part of the vectors that are moving together. Product of the lengths of the
+vectors that are moving together or in the
+same direction. You could view this adjacent
+side here as the part of a that's going in the
+direction of b. That's the part of a that's
+going in the direction of b. So you're multiplying
+that times b itself. So that's what the
+dot product is. How much are two things going
+in the same direction. And notice, when two things are
+orthogonal or when they're perpendicular-- when a dot b is
+equal to 0, we say they're perpendicular. And that makes complete sense
+based on this kind of intuition of what the dot
+product is doing. Because that means that
+they're perfectly perpendicular. So that's b and that's a. And so the adjacent part of a,
+if I had to draw a right trianlge, it would come
+straight down. And if I were to say the
+projection of a and I haven't draw that. Or if I put a light shining down
+from above and I'd say what's the shadow of a onto b? You'd get nothing. You'd get 0. This arrow has no width, even
+though I've drawn it to have some width. It has no width. So you would have
+a 0 down here. The part of a that goes in
+the same direction as b. No part of this vector
+goes in the same direction as this vector. So you're going to have this 0
+kind of adjacent side times b, so you're going to get
+something that's 0. So hopefully that makes
+a little sense. Now let's think about
+the cross product. The cross product tells us well,
+the length of a cross b, I painstakingly showed, you is
+equal to the length of a times the length of b times the sin
+of the angle between them. So let me do the same example. Let me draw my two vectors. That's my vector a and
+this is my vector b. And now sin-- SOH CAH TOA. So sin of theta, let
+me write that. Sin of theta-- SOH CAH TOA-- is
+equal to opposite over the hypotenuse. So if I were to draw a little
+right triangle here, so if I were to draw a perpendicular
+right there, this is theta. What is the sin of theta equal
+to in this context? The sin of theta is
+equal to what? It's equal to this
+side over here. Let me call that just
+the opposite. It's equal to the opposite
+side over the hypotenuse. So the hypotenuse is
+the length of this vector a right there. It's the length of
+this vector a. So the hypotenuse is the length
+over my vector a. So if I multiply both sides of
+this by my length of vector a, I get the length of vector a
+times the sin of theta is equal to the opposite side. So if we rearrange this a little
+bit, I can rewrite this as equal to-- I'm just
+going to swap them. I have to do the dot
+product as well. This is equal to b, the length
+of vector b, times the length of vector a sin of theta. Well this thing is just the
+opposite side as I've defined it right here. So this right here is just
+the opposite side, this side right there. So when we're taking the cross
+product, we're essentially multiplying the length of vector
+b times the part of a that's going perpendicular
+to b. This opposite side is the
+part of a that's going perpendicular to b. So they're kind of
+opposite ideas. The dot product, you're
+multiplying the part of a that's going in the same
+direction as b with b. While when you're taking the
+cross product, you're multiplying the part of
+a that's going in the perpendicular direction to
+b with the length of b. It's a measure, especially when
+you take the length of this, it's a measure of
+how perpendicular these two guys are. And this is, it's a measure of
+how much do they move in the same direction? And let's just look at
+a couple of examples. So if you take two
+right triangles. So if that's a and that's-- or
+if you take two vectors that are perpendicular to each other,
+the length of a cross b is going to be equal to-- if we
+just use this formula right there-- the length of a
+times the length of b. And what's the sin
+of 90 degrees? It's 1. So in this case you kind of have
+maximized the length of your cross product. This is as high as it can go. Because sin of theta, it's
+a maximum value. Sin of theta is always less
+than or equal to 1. So this is as good as you're
+ever going to get. This is the highest possible
+value when you have perfectly perpendicular vectors. Now, when is-- actually, just to
+kind of go back to make the same point here. When do you get the maximum
+value for your cosine of-- for your dot product? Well, it's when your two
+vectors are collinear. If my vector a looks like that
+and my vector b is essentially another vector that's going
+in the same direction, then theta is 0. There's no angle between them. And then you have a dot b is
+equal to the magnitude or the length of vector a times the
+length of vector b times the cosine of the angle
+between them. The cosine of the angle between
+them, the cosine of that angle is 0. Or the angle is 0, so the
+cosine of that is 1. So when you have two vectors
+that go exactly in the same direction or they're collinear,
+you kind of maximize your dot product. You maximize your cross product
+when they're perfectly perpendicular to each other. And just to make the analogy
+clear, when they're perpendicular to each other
+you've minimized-- or at least the magnitude of your
+dot product. You can get negative dot
+products, but the absolute size of your dot product, the
+absolute value of your dot product is minimized
+when they're perpendicular to each other. Similarly, if you were to take
+two vectors that are collinear and they're moving in the same
+direction, so if that's vector a, and then I have vector b that
+just is another vector that I want to draw them
+on top of each other. But I think you get the idea. Let's say vector
+b is like that. Then theta is 0. You can't even see it. It's been squeezed out. I've just brought these two
+things on top of each other. And then the cross product in
+this situation, a cross b is equal to-- well, the length of
+both of these things times the sin of theta. Sin of 0 is 0. So it's just 0. So two collinear vectors, the
+magnitude of their cross product is 0. But the magnitude of their dot
+product, the a dot b, is going to be maximized. It's going to be as high
+as you can get. It's going to be the length of
+a times the length of b. Now the opposite scenario
+is right here. When they're perpendicular to
+each other, the cross product is maximized because it's
+measuring on how much of the vectors-- how much of the
+perpendicular part of a is-- multiplying that times
+the length of b. And then when you have two
+orthogonal vectors, your dot product is minimized,
+or the absolute value of your dot product. So a dot b in this case,
+is equal to 0. Anyway, I wanted to make all
+of this clear because sometimes you kind of get into
+the formulas and the definitions and you lose the
+intuition about what are all of these ideas really for? And actually, before I move on,
+let me just make another kind of idea about what the
+cross product can be interpreted as. Because a cross product tends
+to give people more trouble. That's my a and that's my b. What if I wanted to figure
+out the area of this parallelogram? If I were to shift a and have
+that there and if I were to shift b and draw a line parallel
+to b, and if I wanted to figure out the area of this
+parallelogram right there, how would I do it just using
+regular geometry? Well I would drop a
+perpendicular right there. This is perpendicular and this
+length is h for height. Then the area of this, the area
+of the parallelogram is just equal to the length of my
+base, which is just the length of vector b times my height. But what is my height? Let me just draw a little
+theta there. Let me do a green theta,
+it's more visible. So theta. So we know already that the sin
+of this theta is equal to the opposite over
+the hypotenuse. So it's equal to the height
+over the hypotenuse. The hypotenuse is just the
+length of vector a. So it's just the length
+of vector a. Or we could just solve for
+height and we'd get the height is equal to the length
+of vector a times the sin of theta. So I can rewrite this here. I can replace it with that and
+I get the area of this parallelogram is equal to the
+length of vector b times the length of vector a sin theta. Well this is just the length
+of the cross product of the two vectors, a cross b. This is the same thing. I mean you can rearrange
+the a and the b. So we now have another way of
+thinking about what the cross product is. The cross product of two
+vectors, or at least the magnitude or the length of the
+cross product of two vectors-- obviously, the cross product
+you're going to get a third vector. But the length of that third
+vector is equal to the area of the parallelogram that's defined
+or that's kind of-- that you can create from
+those two vectors. Anyway, hopefully you found this
+a little bit intuitive and it'll give you a little bit
+more of kind of a sense of what the dot product and cross
+product are all about.

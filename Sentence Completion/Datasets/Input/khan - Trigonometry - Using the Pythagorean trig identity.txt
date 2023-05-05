@@ -1,0 +1,88 @@
+Let's say that we're told
+that some angle theta, which is going to be
+expressed in radians, is between negative 3 pi
+over 2 and negative pi. It's greater than
+negative 3 pi over 2 and it's less than negative pi. And we're also told that sine
+of theta is equal to 1/2. Just from this
+information can we figure out what the tangent of
+theta is going to be equal to? And I encourage you to pause the
+video and try this on your own. In case you're stumped,
+I will give you a hint. You should use the Pythagorean
+identity, the fact that sine squared theta, plus cosine
+squared theta is equal to 1. So let's do it. So we know the Pythagorean
+identity, sine squared theta, plus cosine squared
+theta is equal to 1. We know what sine
+squared theta is. Sine theta is 1/2. So this could be
+rewritten as 1/2 squared, plus cosine squared
+theta, is equal to 1. Or we could write this as
+1/4 plus cosine squared theta is equal to 1. Or we could subtract
+1/4 from both sides, and we get cosine squared
+theta is equal to-- let's see. You subtract 1/4 from
+the left hand side, then this 1/4 goes away. That was the whole point. 1 minus 1/4 is 3/4. So what could
+cosine of theta be? Well, when I square
+it, I get positive 3/4. So it could be the positive or
+negative square root of 3/4. So cosine of theta
+could be equal to the positive or negative
+square root of 3 over 4, which is the same thing as
+the positive or negative square root of 3, over the
+square root of 4, which is 2. So it's the positive or negative
+square root of 3 over 2. But how do we know which
+one of these it actually is? Well, that's where this
+information becomes useful. Let's draw our unit circle. If you're saying,
+well, why am I even worried about cosine of theta? Well, if you know sine of
+theta you know cosine of theta. Tangent of theta is just sine
+of theta over cosine theta. So then you will know
+the tangent of theta. But let's look at
+the unit circle to figure out which value
+of cosine we should use. So let me draw it,
+the unit circle. That's my y-axis. That is my x-axis. And I will draw the
+unit circle in pink. So that's my best attempt
+at drawing a circle. Please forgive me for its
+lack of perfect roundness. And it says theta is greater
+than negative 3 pi over 2. So where is negative
+3 pi over 2? So let's see. This is negative pi over 2. So this is one
+side of the angle. Let me do this in a color. So this one side of
+the angle is going to be along the positive x-axis. And we want to figure out
+where the other side is. So this right over here
+that's negative pi over 2. This is negative pi. So it's between negative pi,
+which is right over here. So let me make that clear. Negative pi is right over here. It's between negative pi
+and negative 3 pi over 2. Negative 3 pi over 2
+is right over here. So our angle theta is going
+to put us someplace over here. And the whole reason I did
+this-- so this whole arc right here-- you
+could think of this as the measure of angle
+theta right over there. And the whole
+reason I did that is to think about whether
+the cosine of theta is going to be
+positive or negative. We clearly see it's in
+the second quadrant. The cosine of theta
+is the x-coordinate of this point where our angle
+intersects the unit circle. So this point right
+over here-- actually let me do it in
+that orange color again-- this right over here,
+that is the cosine of theta. Now is that a positive
+or negative value? Well it's clearly
+a negative value. So for the sake of this
+example, our cosine theta is not a positive 1. It is a negative 1
+So we could write the cosine theta is equal to
+the negative square root of 3 over 2. So we figured out cosine
+theta, but we still have to figure out
+tangent of theta. And we just have
+to remind ourselves that the tangent
+of theta is going to be equal to the sine of
+theta over the cosine of theta. Well they told us the
+sine of theta is 1/2. So it's going to be 1/2
+over cosine of theta, which is negative square
+root of 3 over 2. And what does that equal? Well that's the same thing
+as 1/2 times the reciprocal of this. So times negative 2 over
+the square root of 3. These twos will cancel out and
+we are left with negative 1 over the square root of 3. Now some people don't like a
+radical in the denominator, like this. They don't like an
+irrational denominator. So we could rationalize
+the denominator here by multiplying by square root
+of 3 over square root of 3. And so this will be equal
+to negative square root of 3 over 3 is the tangent of
+this angle right over here. And that actually makes
+sense, because the tangent of the angle is the
+slope of this line. And we see that it is
+indeed a negative slope.

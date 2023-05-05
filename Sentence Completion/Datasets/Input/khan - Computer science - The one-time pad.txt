@@ -1,0 +1,45 @@
+For over 400 years,
+the problem remained. How could Alice design a cipher
+that hides her fingerprint, thus stopping the
+leak of information? The answer is randomness. Imagine Alice rolled
+a 26 sided die to generate a long
+list of random shifts, and shared this with Bob
+instead of a code word. Now, to encrypt
+her message, Alice uses the list of
+random shifts instead. It is important that
+this list of shifts be as long as the message,
+as to avoid any repetition. Then she sends it to Bob, who
+decrypts the message using the same list of random
+shifts she had given him. Now Eve will have a problem,
+because the resulting encrypted message will have
+two powerful properties. One, the shifts never fall
+into a repetitive pattern. And two, the encrypted message
+will have a uniform frequency distribution. Because there is no frequency
+differential and therefore no leak, it is now
+impossible for Eve to break the encryption. This is the strongest
+possible method of encryption, and it emerged towards the
+end of the 19th century. It is now known as
+the one-time pad. In order to visualize the
+strength of the one-time pad, we must understand the
+combinatorial explosion which takes place. For example, the Caesar
+Cipher shifted every letter by the same shift, which was
+some number between 1 and 26. So if Alice was to
+encrypt her name, it would result in one of
+26 possible encryptions. A small number of possibilities,
+easy to check them all, known as brute force search. Compare this to the one-time
+pad, where each letter would be shifted by a different
+number between 1 and 26. Now think about the number
+of possible encryptions. It's going to be 26 multiplied
+by itself five times, which is almost 12 million. Sometimes it's
+hard to visualize, so imagine she wrote her
+name on a single page, and on top of it stacked
+every possible encryption. How high do you
+think this would be? With almost 12 million
+possible five-letter sequences, this stack of paper
+would be enormous, over one kilometer high. When Alice encrypts her
+name using the one-time pad, it is the same as picking
+one of these pages at random. From the perspective of
+Eve, the code breaker, every five letter
+encrypted word she has is equally likely to
+be any word in this stack. So this is perfect
+secrecy in action.

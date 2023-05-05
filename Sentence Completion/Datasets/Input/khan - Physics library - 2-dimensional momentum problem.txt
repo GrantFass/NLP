@@ -1,0 +1,145 @@
+Welcome back. We will now do a momentum
+problem in two dimensions. So let's see what
+we have here. So we have this ball A and we
+could maybe even think of it as maybe what's going on on the
+surface of a pool table. We have ball A and it's moving
+with its 10 kilograms. So these numbers are the
+mass of the balls. This is a 10 kilogram ball and
+it's moving to the right at 3 meters per second. And then it hits this ball, B,
+which is a 5 kilogram ball. And then we know that ball A,
+ball A kind of ricochets off of ball B and gets set onto
+this new trajectory. Now, instead of going due right,
+it's going at a 30 degree angle to, I guess we
+could say, horizontal. It's going in a 30 degree angle
+at 2 meters per second. And the question is, what is
+the velocity of ball B? So velocity is both magnitude
+and direction. So we need to figure
+out essentially, what is ball B doing? Ball B is going to be going--
+We can just think about it. If you ever played pool, we
+could guess that ball B is going to go roughly
+in that direction. But we need to figure out
+exactly what the angle is and exactly what its velocity is. So let's do this problem. So at first you're saying, oh,
+Sal, this looks confusing. You know, I know momentum
+should be conserved and all that. But now we have these vectors
+and there's two dimensions and how do I do that? And the key here is that there's
+just really one more step when you're working on it
+in two dimensions or really three dimensions or an
+arbitrary number of dimensions. When we did one dimension, you
+made sure that momentum was conserved in that
+one dimension. So when you do two dimensions,
+what you do is you figure out the initial momentum in each
+of the dimensions. So you break it up into the
+x and y components. And then you say the final
+momentum of both objects are going to equal the initial x
+momentum and are going to equal the initial y momentum. So let's figure out the
+initial x momentum. So P for momentum. Because the m is for mass. So let's say the initial
+momentum in the x direction-- And we don't have to write
+initial or final because really, the total momentum in
+the x direction is always going to be the same. So let's say what the initial--
+Actually, let me write initial just so it hits
+the point home that initial and final don't change. So the initial momentum
+in the x direction. So i for initial, x-- I should
+do something better than keep writing these subscripts
+--is equal to what? Well ball B has no
+initial velocity, so it has no momentum. Ball A is 10 kilograms. And what is its velocity
+in the x direction? Well all of its velocity
+is in the x direction. So it's 3. I mean, this is only moving
+in the x direction. So the momentum in the x
+direction is 30 kilogram meters per second. Mass times velocity, kilogram
+meters per second. And what's the initial momentum
+in the y direction? Well B isn't moving at
+all, so it has no momentum in any direction. And A, all of A's movement
+is in the x direction. It's not moving at an angle
+or up at all, so it has no momentum in the y direction. So we immediately know that
+after the collision, the combined momentum of both of
+these balls in the x direction has to be 30, and the combined
+momentum of both of these balls in the y direction
+has to be 0. So let's figure out what A's
+momentum in the x and y directions are. So to figure out what A's
+momentum is, we just have to figure out what A's velocity in
+the x and y directions are and then multiply that
+times the mass. Because mass doesn't
+have any direction. So let's figure out the x and y
+components of this velocity. Let's do the x component
+of the vector first. So the x is just this vector. Change colors to keep
+things interesting. The y is this vector. That is the y component. And so, what are those? And this hopefully, is going to
+be almost second nature to you if you've been watching
+all of the other videos on Newton's laws. This is just our trigonometry
+and we can write out our SOH-CAH-TOA again. And I reassure you, this is
+the hardest part of any of these multi-dimensional trig
+problems-- Multi-dimensional physics problems, which really
+are just trig problems. So if we want to figure out
+the x component, so the velocity of A in the
+x direction, what is it equal to? Well this is adjacent
+to the angle. We know the hypotenuse. So we know VA sub x or the
+velocity of A in the x direction over the hypotenuse,
+over 2 meters per second, is equal to what? Adjacent over hypotenuse. Cosine. Is equal to cosine
+of 30 degrees. Or the velocity of A in the x
+direction is equal to 2 cosine of 30 degrees. What's cosine of 30 degrees? It's square root of 3 over 2. This is square root
+of 3 over 2. And square root of 3 over
+2 times 2 is equal to square root of 3. So this is equal to the square
+root of 3 meters per second. And what is the velocity of
+A in the y direction? Well hopefully, this second
+nature to you as well. But since opposite over
+hypotenuse is equal to the sine of 30. So VA in the y direction is
+equal to 2 times the sine of 30 degrees. The sine of 30 degrees is 1/2. So this is 1/2. 1/2 times 2 is equal to
+1 meter per second. So after the collision,
+A is moving at 1 meter per second up. One meter per second in
+the upwards direction. And it's moving at square root
+of 3 meters per second in the rightwards direction. So what is going to be A's
+momentum in each of the directions? Well, we figured out its
+velocity, so we just multiply each of the velocities
+times the mass. So A has a mass of 10 kilograms.
+And this is going to be the final momentum. Momentum of A in the x direction
+is going to equal square root of 3 times 10. Square root of 3 is the
+velocity, 10 is the mass. So it's 10 square roots of 3
+kilogram meters per second. And the momentum of A in the y
+direction is going to be-- and since it's going up, we'll say
+its positive --it's 1 meters per second is the velocity
+times the mass. So 10 times 1 is 10 kilogram
+meter per second. So now let's figure out B. Let's do the y direction first
+because they add up to 0. I'm going to switch colors. We know that the momentum
+of-- and this is after the collision. The momentum of A in the y
+direction plus momentum of B in the y direction have
+to equal what? What was the initial momentum
+in the y direction? Right, it was 0. There was no movement in the
+y direction initially. We know the momentum of
+A in the y direction. It's 10. 10 kilogram meters per second
+plus the momentum of B in the y direction is equal to 0. So solving for this, just
+subtract 10 from both sides. So the momentum of B in the
+y direction is equal to 10 kilogram meters per second. You know the units. So if its momentum is 10 in the
+y direction, what is its velocity in the y direction? Well, momentum is equal to
+mass times velocity. So we know that 5 times the
+velocity in the y direction-- that's its mass --is
+equal to 10. 10 is its momentum. So the velocity of the y
+direction of B must be 2 meters per second. So there we go. We figured out B's velocity. And so let's say this is B's
+velocity vector in the y direction is-- And this is
+a minus because this is equal to minus 10. So it's going down. It was a velocity of positive
+1 going up and then the minuses carry through and this
+is a velocity of minus 2 meters per second for B
+in the y direction. So now let's figure
+out the velocity of B in the x direction. And I'm running out of space
+and it's getting messy. But we just have to remember
+that the momentum of B in the-- The momentum of A in the
+x direction, which is 10 square root of 3, plus momentum
+of B in the x direction has to equal what? It has to equal the initial
+momentum in the x direction, which is 30. So to figure out the momentum
+of B in the x direction, we just subtract 10 square
+root of 3 from 30. And let's do that. So let's figure out 3 square
+root times 10 equals. And then subtract
+that from 30. And we get let's
+just say 12.7. So we know that the momentum
+of B in the x direction is equal to 12.7, 12.7 kilogram
+meters per second. And we know the momentum, so we
+just divide by the mass and we get its velocity in
+the x direction. So 12.7 divided by 5. So velocity of B in
+the x direction is 12.7 divided by 5. 12.7 divided by 5 is equal to
+2.54 meters per second. So its velocity in the
+x direction is 2.54 meters per second. So it's going faster
+in both directions. I'm not going to figure out the
+angle here because I've actually run out of time. But if you were to add these
+two vectors, you'd get an angle something like this. And you could figure out the
+angle by taking the arc tan. Well, I won't go into the--
+that's a complexity right now. Actually, I'll do that in the
+next video just so I won't leave you hanging. But we know what the x and y
+components of B's velocity is. See you in the next video.

@@ -1,0 +1,57 @@
+- [Instructor] We're
+told that a metal ball lies on a flat, horizontal surface. It is attracted by two
+magnets placed around it. We're told that the first
+magnets force on the ball is 5 N. We're then told the second
+magnets force on the ball is 3 N in a direction that is 100 degree rotation
+from the first magnets force. And we can see that drawn here. This is the first magnets force, it's 5 N. And then the second magnets force is 3 N at 100 degree angle, 100 degree rotation from the first magnets force. Now they're asking us a
+few interesting questions. What is the combined strength
+of the magnets' pulls? And then they also say, what is the direction of
+the magnets' combined pulls, relative to the direction
+of the first magnets pull? So I encourage you, pause this video and have a go at this on your own before we work through this together. All right, now let's work
+through this together. So they're really saying, if I take the sum of these two vectors, what is gonna be the
+resultant force vector? What is going to be the magnitude of that result in force vector? And what is its direction going to be? There's two ways we could approach this. We could break it down
+each of these vectors into their respective components, and then add the respect of components, and then from that figure
+out what the magnitude and direction is. And we do that in other videos, or we could take the geometric approach. So that's what we're gonna do here. And to help us with that, we're gonna use what we've
+called the Parallelogram rule which is really the same idea as the head to tail addition of vectors. I can take the 3 N vector, I can shift it over, so its tails at the
+head of the 5 N vector. It would look something like this. So this is 3 N right over there. And then I could also
+go the other way around. I could take the 3 N vector first, and take the tail of the 5 N vector at the head of the 3 N vector
+and shift it like this. You can add an either direction and either way you look at it, when you start at the tails
+and you get to the head of the second vector, you're going to have a resultant force that looks like this, which is the diagonal
+of this parallelogram. So there we go. And let me just call that our
+force vector right over there. So if we can figure out
+the length of this line of this diagonal right over here, that would be the magnitude
+of this force vector. Now, how can we do that? Well, let's just think geometrically what else we can figure out
+about what's going on over here? This is a parallelogram. So if this is 100 degree
+angle right over here, this angle right over here is
+also going to be 100 degree. And we also know that
+these two opposite angles are also gonna have the same
+measure right over here. And we also know that the
+sum of all of the angles in a quadrilateral are
+going to be 360 degrees. So these two make up 200 degrees, we have 160 degrees left
+that have to be split between that one and that one. So we know that this is 80 degrees, and we know that this is 80 degrees. Well, how does that help us? So we know the length of this brown side, we know the length of
+this side right over here. We know the angle between them, and what we're trying to do, is figure out the length of
+the side opposite this angle, opposite this 80 degree angle. And some of you might remember
+the Law of Cosines here. And the Law of Cosines I always imagine it as an adaptation of the
+Pythagorean theorem, so that we can deal with
+non-right triangles. And the Law of Cosines will tell us that the magnitude, I'll
+just write it over here, the magnitude of this vector, which is the length of this diagonal, is going to be equal
+to the square root of, we're going to have this side squared, so let me write 3 squared, plus this side squared, plus 5 squared minus 2 times this side. So times 3 times that side. So times 5 times the cosine of 80 degrees. And so let's get our calculator
+out to calculate that. I'll start with taking
+the cosine of 80 degrees, then I'm just gonna multiply
+that times looks like 30. So times 30 is equal to that. Let's put it a little negative there. And then to that, I'm going
+to add 25 and 9, which is 34. So plus 34 is equal to that. And now I just take the
+square root of all of that. And they tell us to round our
+answer to the nearest tenths. So I can round this to approximately 5.4. So this is approximately 5.4 N. Now they say, what is the direction of the magnets combined poles relative to the direction
+of the first magnets pole? So really what we want to do, is figure out this angle right over here, let's call that data. Well, we know what the length
+of the side opposite is. So maybe we could use the Law of Sines. The Law of Sines would tell us that the sine of theta over the length of the side opposite to it is going to be equal to, let's
+pick another angle we know, sine of this angle. Sine of 80 degrees over the length of the
+side opposite to it. And so this is approximately 5.4. And so if we wanna solve a for theta, we can multiply both sides by 3. So we're going to get sine of theta, I'll just stay in this
+purple color for simplicity, is equal to 3 times sine of 80 degrees divided by 5.4. And then we could say that theta is equal to the inverse sine
+of all of this business. Three sine of 80 degrees over 5.4. So we're going to take 80
+degrees, take the sine of it, we're going to multiply that by 3, divide that by 5.4, that equals that, and then I'm going to take the
+inverse sine of all of that. And they want us to round
+to the nearest integer. So that's approximately 33 degrees. When you do the Law of Sines, it's possible that you're also
+dealing with an obtuse angle. And when you do all of
+this, you get the acute one, and then you would have
+to make an adjustment. But that's not what we're dealing here, so we know that this data is approximately equal to 33 degrees. So we know the magnitude of the force and we know that it forms an angle of approximately 33 degrees with the direction of the
+force of that first magnet.

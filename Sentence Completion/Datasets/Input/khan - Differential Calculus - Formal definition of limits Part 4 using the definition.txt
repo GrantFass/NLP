@@ -1,0 +1,139 @@
+In the last video, we
+took our first look at the epsilon-delta definition
+of limits, which essentially says if you claim that the limit
+of f of x as x approaches C is equal to L, then that
+must mean by the definition that if you were given any
+positive epsilon that it essentially tells us how close
+we want f of x to be to L. We can always find
+a delta that's greater than 0, which is
+essentially telling us our distance from C such that
+if x is within delta of C, then f of x is going to
+be within epsilon of L. If we can find a
+delta for any epsilon, then we can say
+that this is indeed the limit of f of x
+as x approaches C. Now, I know what
+you're thinking. This seems all very abstract. I want to somehow
+use this thing. And what we will do in
+this video is use it and to rigorously prove that
+a limit actually exists. So, right over here, I've
+defined a function, f of x. It's equal to 2x everywhere
+except for x equals 5. So it's 2x everywhere for
+all the other values of x, but when x is equal to
+5, it's just equal to x. So I could have
+really just written 5. It's equal to 5 when
+x is equal to 5. It's equal to itself. And so we've drawn
+the graph here. Everywhere else, it
+looks just like 2x. At x is equal to 5, it's
+not along the line 2x. Instead, the function
+is defined to be that point right over there. And if I were to ask you
+what is the limit of f of x as x approaches
+5, you might think of it pretty intuitively. Well, let's see. The closer I get
+to 5, the closer f of x seems to
+be getting to 10. And so, you might fairly
+intuitively make the claim that the limit of f of x
+as x approaches 5 really is equal to 10. It looks that way. But what we're
+going to do is use the epsilon-delta definition
+to actually prove it. And the way that most of
+these proofs typically go is we define delta
+in the abstract. And then we essentially
+try to come up with a way that given any epsilon, we can
+always come up with a delta. Or another way is
+we're going to try to describe our delta as
+a function of epsilon, not to confuse you too much. But maybe I shouldn't
+use f again. But delta equals
+function of epsilon that is defined for
+any positive epsilon. So you give me an
+epsilon, I just put into our little formula
+or little function box. And I will always
+get you a delta. And if I can do that for any
+epsilon that'll always give you a delta, where this is true,
+that if x is within delta of C, then the corresponding f of x
+is going to be within epsilon of L. Then the limit
+definitely exists. So let's try to do that. So let's think about being
+within delta of our C. So, let's think about this
+right over here is 5 plus delta, this is 5 minus delta. So that's our range we're
+going to think about. We're going to think about
+it in the abstract at first. And then we're going
+to try to come up with a formula for delta
+in terms of epsilon. So how could we describe all of
+the x's that are in this range but not equal to 5 itself? Because we really
+care about the things that are within delta of 5,
+but not necessarily equal to 5. This is just a
+strictly less than. They're within a range
+of C, but not equal to C. Well, that's going to be all of
+the x's that satisfy x minus 5 is less than delta. That describes all of
+these x's right over here. And now, what we're going to
+do, and the way these proofs typically go, is
+we're going to try to manipulate the left-hand
+side of the inequality, so it starts to look
+something like this, or it starts to look
+exactly like that. And as we do that,
+the right-hand side of the inequality is going to
+be expressed in terms of delta. And then we can
+essentially say well, look. If the right-hand
+side is in terms of delta and the
+left-hand side looks just like that, that really defines
+how we can express delta in terms of epsilon. If that doesn't make
+sense, bear with me. I'm about to do it. So, if we want x minus 5 to
+look a lot more like this, when x is not equal to 5-- in all
+of this, this whole interval, x is not equal to 5--
+f of x is equal to 2x, our proposed limit
+is equal to 10. So if we could somehow get
+this to be 2x minus 10, then we're in good shape. And the easiest
+way to do that is to multiply both sides
+of this inequality by 2. And 2 times the absolute
+value of something, that's the same thing as the
+absolute value of 2 times that thing. If I were to say 2 times
+the absolute value of a, that's the same thing as
+the absolute value of 2a. So on the left-hand
+side right over here, this is just going to be the
+absolute value of 2x minus 10. And it's going to be less
+than on the right-hand side, you just end up with a 2 delta. Now, what do we have here
+on the left-hand side? Well, this is f of x as
+long as x does not equal 5. And this is our limit. So we can rewrite this as f of
+x minus L is less than 2 delta. And this is for x
+does not equal 5. This is f of x, this
+literally is our limit. Now this is interesting. This statement right
+over here is almost exactly what we want
+right over here, except the right sides
+are just different. In terms of epsilon, this
+has it in terms of delta. So, how can we define delta
+so that 2 delta is essentially going to be epsilon? Well, this is our chance. And this is where we're defining
+delta as a function of epsilon. We're going to make 2
+delta equal epsilon. Or if you divide
+both sides by 2, we're going to make delta
+equal to epsilon over 2. Let me switch colors just
+to ease the monotony. If you make delta
+equal epsilon over 2, then this statement
+right over here becomes the absolute
+value of f of x minus L is less than,
+instead of 2 delta, it'll be less than 2
+times epsilon over 2. It's just going to
+be less than epsilon. So this is the key. If someone gives you any
+positive number epsilon for this function, as long as
+you make delta equal epsilon over 2, then any x
+within that range, that corresponding
+f of x is going to be within epsilon
+of our limit. And remember, it has to be
+true for any positive epsilon. But you could see how
+the game could go. If someone gives
+you the epsilon, let's say they want to be
+within 0.5 of our limit. So our limit is up here,
+so our epsilon is 0.5. So it would literally be the
+range I want to be between 10 plus epsilon would be 10.5. And then 10 minus
+epsilon would be 9.5. Well, we just came
+up with a formula. We just have to make
+delta equal to epsilon over 2, which is equal to 0.25. So that'll give us a range
+between 4.75 and 5.25. And as long as we pick an
+x between 4.75 and 5.25, but not x equals 5, the
+corresponding f of x will be between 9.5 and 10.5. And so, you give
+me any epsilon, I can just apply this
+formula right over here to come up with the delta. This would apply
+for any real number. I mean, especially
+any positive number. For any epsilon
+you give me, I just get a delta defined
+this way, and then I can go through this arc. If the absolute value of x
+minus 5 is less than delta, if delta is defined
+in this way, which I could define for
+any epsilon, then it will be the case
+that f of x will be within epsilon of our limit.

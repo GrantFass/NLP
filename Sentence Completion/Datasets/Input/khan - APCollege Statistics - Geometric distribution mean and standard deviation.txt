@@ -1,0 +1,53 @@
+- [Instructor] So let's say
+we're going to play a game where on each person's turn, they're going to keep rolling
+this fair six sided die, until we get a one. And we just want to see how
+many rolls does it take. So let's say we define
+some random variable, let's call it X, and let's call it the number
+of rolls until we get a one. So what's the probability
+that X is equal to one. Pause this video and think about it. All right, the probability
+that X is equal to one means that it only takes us
+one roll to get a one. Well, that's going to be
+a one sixth probability. Well, what's the probability
+that X is equal to two? Well, that means that
+we on the first roll, we get something other than a one. So that is going to be five sixths, and then on the second roll, we get a one. So that has a one sixth probability. And we could keep going. What's the probability
+that X is equal to three? Pause the video and think about that. Well, that means we miss on the first two. So we have a five sixth
+chance of getting something other than a one on the first two rolls. So we could say that's
+five sixth times five six, so we could write five sixth squared. And then on the third roll we have the one in six
+chance of getting the one. So times one sixth. And I think you see a pattern here, and you might recognize what type of random variable this is. This is a geometric variable. Now how do we know that? Well each trial or each roll is either a success or a failure. Every time we roll, we
+either get a one or we don't. We have the same probability of success of rolling a one each trial. These are independent trials. And that there's no set number of trials. It could take us an arbitrary number of trials to get the first success. So that's what tells us that we're dealing with the geometric random variable. Now one question is, is
+what is going to be the mean of this geometric random variable? Well, we prove it in
+another video where we talk about the expected value of
+a geometric random variable. We're really talking about the mean of a geometric random variable. And it is a little bit intuitive. If you were to just
+guess, what is the mean of a geometric random
+variable where the chance of success on each roll is one sixth. You might say, well, maybe on average it takes you about six tries,
+and you would be correct. The mean of a geometric random variable is one over the probability
+of success on each trial. So in this situation the mean is going to be one over this probability
+of success in each trial is one over six. So it's equal to six. So one way to think
+about it is on average, you would have six trials
+until you get a one. Now another question is
+what's a measure of the spread of a geometric random variable? And we don't prove this in another video, maybe I'll do it eventually. That the standard deviation of a geometric random
+variable is the mean times the square root of one minus
+P, or you could just write this as a square root of one minus P over P. Now in this situation, what would this be? Well, the standard deviation
+of this random variable, it's a geometric random variable. It's going to be the square
+root of one minus one sixth, all of that over one sixth. So this is going to be
+equal to the square root of five sixth over one sixth, which is equal to six times
+the square root of five sixth. And this is going to
+be approximately equal to five divided by six is equal to that. We'll take the square root of that. And then multiply that times
+six, gets us to about 5.5. So approximately equal to 5.5. And what's interesting about
+a geometric random variable, obviously the lowest value
+here in this case is one, two, three, can go higher,
+higher, but you can go arbitrary. You could get really unlucky
+and it might take you a thousand rolls in order to get that one. It could take you a million rolls, very low probability, but it
+could take you a million rolls in order to get that one. And so another thing to realize about a geometric random
+variables distribution, it tends to look something like this where the mean might be over here. And so you have a very long tail to the right of your mean, and this is classic right skew. And so all geometric random
+variables distributions are right skewed. They have a long tail of values, an infinitely long tail
+of values they can take to the right. Now one last question, instead of dealing with a six sided die, what would be the situation
+if we were dealing with a 12 sided die? What would then be the mean
+of our random variable? And what would be the standard deviation of our random variable? Pause this video and think about that. Well, the mean would be one over one 12th, because you have a probability
+of one 12th every time of getting it one. We're assuming we're playing the same game now with the 12 sided die. So one over one 12th would be 12. So on average it would take 12
+rolls to get that first one. And then our standard deviation is going to be essentially
+this times the square root of one minus one 12th. Or let me write it this way. It's one minus one 12th, over one over 12, which is the same thing as
+12 times the square root of 11 12ths. 11 divided by 12 is equal to, take the square root and
+then multiply that times 12. And you get about 11.5. 11.5. And so you can see with a 12 sided die, it has the same pattern, where you have your mean
+of your random variable, and then you have a standard deviation that goes a reasonable bit
+on either side of the mean, it's almost equal to the mean in actually in both situations. It's a little bit lower than the mean. But then there's many, many, many values that go far to the right of your mean. And so you have this classical right skew for a geometric random variable.

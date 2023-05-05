@@ -1,0 +1,77 @@
+- [Voiceover] What I would
+like to tackle in this video is what I consider to be a particularly interesting limits problem. Let's say we want to figure out the limit as X approaches zero from
+the positive direction of sine of X. This is where it's about
+to get interesting. Sine of X to the one over the natural log of X power and I encourage you to pause this video and see if you can have a go at it fully knowing that this is a little bit of a tricky exercise. I'm assuming you have attempted. Some of you might have
+been able to figure out on the first pass. I will tell you that the first time that I encountered something like this, I did not figure it out at the first pass so definitely do not feel bad if you fall into that second category. What many of you all probably did is you said okay, let me think about it. Let me just think about
+the components here. If I were to think about the limit, if I were to think about the
+limit as X approaches zero from the positive direction of sine of X, well that's pretty straightforward. That's going to be zero, so you could think of like this part of it is going to approach
+zero but then if you say, and you could say, I guess I should say. The limit as X approaches zero from the positive direction of one over natural log of X and this is why we have to think about it from the positive direction. It doesn't make sense to approach it from the negative direction. You can't take the natural log of a negative number. That's not in the domain
+for the natural log but as you get closer and closer to zero from the negative direction, the natural log of those values, you have to raise E to more larger and larger negative values. This part over here is going to approach negative infinity. It's going to go to negative infinity. One over negative infinity, one divided by super large or large magnitude negative numbers, well, that's just going to approach zero. You could say that this right over here is also going to be, is also going to be equal to zero. That doesn't seem to help us much because if this thing is going to zero and that thing is going to zero, it's kind of an implication that well maybe this whole thing is going to zero to the zero power but we
+don't really know what zero, let me do the some, those color. Zero to the zero power but this is one of those great fun things to think about in mathematics. There's justifications
+why this could be zero, justifications why this could be one. We don't really know what to make of this. This isn't really a satisfying answer. Something at this point might be going into your brain. We have this thing that we've been exposed to called L'Hopital's rule. If you have not been exposed to it, I encourage you to watch the video, the introductory video
+on L'Hopital's rule. In L'Hopital's rule, let
+me just write it down. L'Hopital's rule helps us out with situations where when we try to superficially
+evaluate the limit, we get indeterminate forms things like zero over zero. We get infinity over infinity. We get negative infinity
+over negative infinity and we go into much more
+detail into that video. It seems this is kind of, it feels like we're
+getting a zero to a zero. It's kind of we're
+getting the strange beast and at least evokes the
+notion of L'Hopital's rule. You will not be, as we'll
+see in a few seconds, you're not wrong to, for that L'Hopital's rule neuron to
+be triggering in your brain although you can't apply it directly to this right over here. L'Hopital's rule does not apply to or directly apply to the
+zero to the zero form but what we can do is construct a problem where L'Hopital's rule will apply and then use that to solve, to figure out what this is going to be. This was essentially the
+tricky part of this exercise. Well what do I mean? Well if we set Y equal to Y of and maybe let me write it this way. If we set, and I'll write Y, I could just write Y but I'll say Y is clearly a function of X. If we say Y of X is going to be sine of X, sine of X to the one over natural log of X. This thing right over
+here is essentially saying what's the limit as X approaches zero from the positive direction of Y and once again we don't know. Maybe it's zero to the zero but we don't know what
+zero to zero actually is. What we could do, what we could do and this is a trick that you see a lot and anytime you get kind of
+weird things with exponents and whether you're doing
+limits or derivatives, as you'll see it's often times useful to take the natural log of both sides. Well what happens if
+you take the natural log of both sides here? On the left-hand side you're going to have the natural log, the natural log, and whenever
+I think of natural log and E the way I always think about them, the color green for some bizarre reason but we'll say the natural log of Y is equal to. If you take the natural log of this thing, actually let me just, I
+don't want to skip steps here because this is interesting. This is going to be the natural log of all of this business of sine of X, let me write this way. Sine of X, sine, I want to do this
+in that orange color. The natural log of sine of X to the one over the natural log of X. Well we know from our exponent prior our logarithm properties, the logarithm of something to a power, that's the same thing as the power. One over natural log of X times the logarithm, this
+case the natural logarithm of whatever taking the sine of X here. Sine of X or we could say the natural log of Y. Want to keep, stay color consistent for at least one more step. The natural log of Y is equal to, if we just rewrite this this is going to be the natural log of sine of X, the natural log of sine of X over the natural log of X. Well this is all interesting but why do we care about this? Why did I do this? Well instead of thinking
+about what is the limit? What is the limit as X approaches zero from the positive direction of Y? Let's think about what
+the natural log of Y is approaching as we approach, as X approaches zero from
+the positive direction. Let's figure out what the
+limit of this expression right over here is as X approaches zero from the positive direction. What is a natural log of Y? What is this whole thing? Not Y, what is the natural
+log of Y approaching? Let's think about that scenario. Let me write, do this in a new color. We want to figure out what is the limit as X approaches zero from
+the positive direction of this business and I'll
+just write it in one color. The natural log of sine of X over the natural log of X. I don't know, I wrote one time in print, one time in cursive. I'll just be consistent right over there. Now why is this interesting? Let's see in the numerator here, this thing's going to approach zero, natural log of zero
+you're going to approach negative infinity. This thing right over here natural log of, as you approach it from
+the positive direction. Once again you're going to
+approach negative infinity. This gives you that indeterminate form. This is giving you that indeterminate form
+of negative infinity over negative infinity which is neat because this triggers or at least tells us that L'Hopital's rule
+may be appropriate here. We could say that this
+is going to be equal to the limit as X approaches zero from the positive direction. Let me give myself a little bit more real estate to work up with and I can take the
+derivative of the numerator and the derivative of the denominator. Derivative of the numerator, so the derivative of the numerator, I'm going to apply the chain rule here. Derivative of sine of X is cosine of X and then the derivative, the natural log of sine of X with respect to sine of X is going to
+be one over sine of X. This is going to be over sine of X, so that's the derivative of the numerator. Then the derivative of the denominator is just going to be one over X, one over X. This is all going to be equal to, this is equal to the limit as X approaches zero from
+the positive direction of I could write this as cosine of X, cosine of X. Let's see, if I'm dividing by X. I'm dividing by X, I am going to get, this is going to be X over sine of X, X over sine of X. When I apply and when I try to take the limit here I'm going to get a zero, once again we got a zero over zero. This doesn't feel too satisfying but once again this is
+where our limit properties might be useful. As you can tell, this is not the most trivial of problems but this is going to be the same thing and this will take a little
+bit of pattern recognition. This is the same thing as because we know that
+the limit of the product of two functions is equal to the product of their limits, this is the same thing as the limit, the limit as X approaches zero from the positive direction of, if we take this part, let me do this in a different color. If we take this part, that's not a different color. If we take this part right over here, so that's going to be X over sine of X and then times the limit. Let me put parenthesis here times the limit, the limit as X approaches zero from
+the positive direction of cosine of X, of cosine of X. Now this thing right over here is pretty straightforward. You can just evaluate it at zero, you get one. This thing right over here is equal to one but what's this thing? This might ring a bell. You might have seen the
+limit as X approaches zero, of sine of X over X. This is just the reciprocal of that. This is X over sine of X but when you just superficially
+try to evaluate it. You get zero over zero
+so you can then apply L'Hopital's rule to this thing. Once again this is quite
+an interesting scenario we find ourselves in. This is going to be the
+same thing as the limit as X approaches zero from
+the positive direction. Derivative at the top is one, derivative at the bottom, is cosine of X. Well, this is just going to be one over cosine of zero is one, so this is just going to be equal to one. We got to apply L'Hopital's rule again and realize that this limit
+is going to be equal to one. One times one is one so this thing right over
+here is equal to one. This thing right over here, this thing right over here is going to be, this thing right over here
+is going to approach one which tells you that this
+thing is approaching one. What do we now know? We now know and I'll
+write it out in language. We now know that the limit of the natural log of Y, the limit of the natural log of Y as X approaches zero from
+the positive direction is equal to one. If the natural log of
+Y is approaching one, what is Y approaching? Well in order for the
+natural log, so once again we just know this thing right over here. We know this thing is one and this thing is a natural log of Y. We now know that this thing, the limit as X approaches
+zero of this thing is one and that's the
+same thing as a limit as X approaches zero from
+the positive direction of the natural log of Y. These things are
+equivalent, is equal to one. Well the natural log
+of Y is approaching one so if the natural log of Y is approaching, let me write it this way. The natural log of Y is approaching one. Well what must Y be approaching? Well to get the natural log of something that gets you one, well
+Y must be approaching E because natural log of E is one. Then Y must be approaching E and we are done because
+that's what we cared about. We cared about what is
+Y, this is Y, remember, we defined this whole thing as Y. We said what is Y approaching as X approaches zero from
+the positive direction? Well we figured out that
+the natural log of Y is approaching one as X approaches zero from the positive direction. That means that Y must be approaching E. This tells us that this thing, this thing right over here is equal to E which is somewhat mind blowing. We seen other, the E is popping up and it's involving sine of X and of course natural log of X, you expect E to be involved somehow. It is a pretty fascinating
+problem in my mind.

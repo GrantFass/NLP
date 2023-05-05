@@ -1,0 +1,28 @@
+- [Instructor] There are
+170 deer on a reservation. The deer population is increasing at a rate of 30% per year. Write a function that gives
+the deer population P of t on the reservation t years from now. All right, let's think about this. And like always, pause this video, and see if you can work
+it out on your own. Well, let's think about what P of zero is. P of zero, this is going to be the initial population of deer, the population at time zero. Well, we know that, that's
+going to be the 170 deer that we start on the reservation. Now, let's think about what P of one is. What's going to be the
+population after one year? Well, it's going to be our
+original population, 170, but then it increases at
+a rate of 30% per year. So it's going to be 170
+plus another 30% of 170. So I could write that as 30% times 170. Or I could write this as 170 plus 0.3 times 170. 30% as a decimal is the same
+thing as 30/100 or 3/10. Or I could write this as, if I factor out 170, I would get 170 times one plus 0.3, which is the same thing as 170 times 1.03. And this is a really good
+thing to take a hard look at 'cause you'll see it a lot when we're growing by a certain rate, when we're dealing with what turns out to be
+exponential functions. If we are growing, well, I almost made a
+mistake there, it's 1.3. So here you go, 1.3. One plus 0.3 is 1.3. So once again, take a hard
+look at this right over here because it's going to be something that you see a lot with
+exponential functions. When you grow by 30%, that means you keep your
+100% that you had before, and then you add another 30%. And so you would multiply your
+original quantity by 130%, and 130% is the same thing as 1.3. So if you are growing by 30%, you are growing by 3/10, you would multiply your
+initial quantity by 1.3. So let's use that idea to keep going. So what is the population after two years? Well, you would start that second year with the population at
+the end of one year. So it's going to be that 170 times 1.3. And then, over that year,
+you're going to grow by another 30%. So if you're gonna grow by another 30%, that's equivalent to
+multiplying by 1.3 again. Or you could say that this
+is equal to 170 times 1.3 to the second power. And so I think you see
+where this is going. If we wanted to write a general P of t, so if we just want to
+write a general P of t, it's going to be whatever
+we started with, 170, and we're going to multiply that by 1.3 however many times, however
+many years have gone by. So to the t power because, for every year, we grow by 30%, which is equivalent mathematically
+to multiplying by 1.3. So after 100 years, it would be 170 times
+1.3 to the 100th power.

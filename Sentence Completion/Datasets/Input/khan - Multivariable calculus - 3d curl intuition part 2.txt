@@ -1,0 +1,144 @@
+- [Voiceover] So where we left off, I had this two-dimensional vector field V, and I have it pictured here as
+kind of a yellow vector field and I just stuck it in three dimensions in kind of an awkward way
+where I put it on the XY plane and said pretend this
+is in three dimensions. And then when you describe the rotation, around each point what we
+were familiar with is 2D curl, that's where you get this
+vector field, it's not quite a 3D vector field because
+you're only assigning points on the XY plane to
+three dimensional vectors, rather than every point
+in space to a vector, but we're getting there. So here let's actually
+extend this to a fully three dimensional vector field, and first of all let me just kind of clear up the board from the computations we did in the last part. And as I do that kind
+of start thinking about how you might want to
+extend the vector field that I have here that's
+pretty much two dimensional into three dimensions. And one idea you might, we'll
+kind of get rid of the circles and the plane, is to
+take this vector field and then just kind of copy
+it to different slices. So, you might get something
+kind of like this. And then, I've drawn each
+slice a little bit sparser than the original one, so
+technically that original one if you look on the XY plane I've pictured many more vectors, but it's really the same vector field, and all I've done here is
+said at every slice in space, just copy that same vector field. So if you look from above,
+you can maybe see how really it's just the same vector
+field kind of copied a bunch, and if you look at it each
+slice, you know in the same way that in the XY plane,
+you've got this vector field sitting on the slice,
+every other part of space will have that. And even though there's only
+what, like six or seven slices displayed here, in principal
+you're thinking that every one of those infinitely
+many slices of space has a copy of this vector field. And in a formula, what does that mean? Well what it means is
+what it means is that we're taking not just X
+and Y as input points, But we're gonna start taking Z in as well. So if I go, I'm gonna say that
+Z is an input point as well. And I want to be considering these as vectors in three dimensions, so rather than just saying
+that that it's got X and Y components, I'm gonna pretend
+like it has a Z component that just happens to
+be zero for this case. And the fact that you
+have a Z in the input, but the output doesn't depend on the Z, corresponds to the fact that
+all the slices are the same, as you change the Z direction the vectors won't change at all, they're just carbon copies of each other. And the fact this output
+has a Z component, but it just happens to be
+zero is what corresponds to the fact that it's very flat looking, you know, none of them point
+up or down in the Z direction, they're all purely X and Y. So, as three dimensional vector fields go, this one is only barely a
+three dimensional vector field, it's kind of phoning it in
+as far as three dimensional vector fields are concerned, but it'll be quite good
+for our example here, because now if we start
+thinking of this as representing a three dimensional fluid
+flow, so now rather than just kind of the fluid
+flow like the one I have pictured over here, where
+you've got water molecules moving in two dimensions
+and it's very easy to understand clockwise rotation,
+counter clockwise rotation, things like that, whereas
+over here it's a very kind of chaotic three
+dimensional fluid flow, but because it's so flat
+if you view it from above it's still loosely the same just kind of counter clockwise over here on the right, and clockwise like there above, so if I were to draw like a column, you could think of this column as being, having a tornado of fluid flow, right, where it's, everything is
+kind of rotating together in that same direction. So if you were to assign a
+vector to each point in space to describe the kind of rotation happening around each one of those points in space, you would expect that
+those inside this column, inside this sort of counter
+clockwise rotating tornado, and I say counter
+clockwise, but if we viewed it from below it would look clockwise, so that's the tricky part
+about three dimensions and why we need to
+describe it with vectors, but you expect these using
+your right hand rule, where you curl the
+fingers of your right hand around the direction of rotation here, you would expect vectors that
+point up in the Z direction, the positive Z direction,
+and if I do that, if I show what all of the
+rotation vectors look like, you'll get this, and maybe
+this is kind of a mess because there's a lot of things
+on the screen at this point. So for the moment I'll kind of remove that original
+vector field and remove the XY plane, and just
+kind of focus on this new vector field that
+I have pictured here. Inside that column where we
+have that tornado rotation I was describing, all of the vectors point in the positive Z direction, but if we were to view it elsewhere, like over in this region, those are pointing in
+the negative Z direction, and if you stick your
+thumb in the direction of all of these vectors in
+the negative Z direction, that tells you the direction
+of, that tells you how the fluid, maybe you're
+thinking of it as air kind of rushing about the room, how that fluid rotates
+it in three dimensions. So what curl is gonna
+do, here I'll kind of clear things up, I have
+the formula from last time, that hopefully hasn't looked too in the way while I've been doing this, that described curl for a
+two dimensional vector field if we imagine that's
+not just taking X and Y as its inputs because it's a
+three dimensional vector field, but if we imagine it taking X, Y and Z, so it's a proper three
+dimensional vector field, the output is gonna tell
+you at every point in space what the rotation that
+corresponds to that point is. And in the next video I'm
+gonna give you the formula and tell you how you
+actually compute this curl given an arbitrary function, but for right now we're just
+getting the visual intuition, we're just trying to understand what it is that curl
+is going to represent. And in this vector field,
+this one that was just kind of copies of a 2D put above,
+it's almost contrived because all of the rotation
+happens in these perfect tornado-like patters that
+doesn't really change as you move up and down
+in the XY direction, but more generally you might
+have a more complicated looking vector field, so I'll go ahead and finally erase this since it's
+been a little bit in the way for a while, and erase this guy too, and if you think about just arbitrary three dimensional vector
+fields, like let's say this one that I have here,
+so I don't know about you, but for me it's really hard
+to think about the fluid flow associated with this, I have
+a vague notion in my mind that okay, like fluid is
+flowing out from this corner and kind of flowing in here, but it's very hard to
+think about it all at once, and certainly if you start
+talking about rotation, it's hard to look at
+a given point and say, oh yeah there's gonna be
+a general fluid rotation in some certain way and I can
+give you the vector for that. But as a more loose and
+vague idea, I can say, okay, given that there's
+some kind of crazy air current fluid flow
+happening around here, I can maybe understand
+that at a specific point, you're gonna have some kind of rotation, and here I'll picture it
+as if there's like a ball or a globe sitting there
+in space, and maybe you're imagining your new vector field and saying what kind of rotation is it kind of induce in that ball that's just
+floating there in space? Maybe you're imagining this
+as like a tennis ball that you're sort of holding in
+place in space using magnets or magic or something like that,
+and you're letting the wind sort of freely rotate
+it, and you're wondering what direction it tends to rotate, and then when it does and
+when you have this rotation, you can describe that 3D rotation
+with some kind of vector, and in this case it would
+be a vector that points out in that direction because we're
+kind of curling our fingers, curling our right hand fingers
+over in that direction, and if you don't understand
+how we describe 3D rotation with a vector, I have a
+video on that, maybe go back and check out that video,
+but the idea here is that when you have some sort
+of crazy fluid flow that's induced by some
+sort of vector field, and you do this at every point and say, hey what's the rotation
+at every single point, that's gonna give you the
+curl, that is what the curl of a three dimensional vector
+field is trying to represent. And if this feels confusing,
+if this feels like something that's hard to wrap your
+mind around, don't worry we've been there, 3D curl is
+one of the most complicated things in multivariable calculus
+that we have to describe. But I think the key to
+understanding it is to just kind of patiently think through and
+take the time to think about what 2D curl is instead of
+thinking about how you extend that to three dimensions
+and slowly say, okay, okay, I kind of get it, tornados of rotation, that sort of makes sense,
+and if you understand how to represent three
+dimensional rotation around a single point with a
+vector, then understanding three dimensional curl
+comes down to thinking about doing that at every single point in space according to whatever rotation the wind flow around
+that point would induce. Like I said, it is complicated,
+and it's okay if it doesn't sink the first
+time, it certainly took me awhile to really wrap my head
+around this 3D curl idea, and with that I'll see you next video.

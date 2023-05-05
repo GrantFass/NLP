@@ -1,0 +1,33 @@
+- [Instructor] The binary number system works the same way as the
+decimal number system. The only difference is what
+each of these places represents. This is a four digit binary number 1010. Each of these digits can
+also be called a bit, since a bit represents zero or one. Now this four digit number
+equals the decimal number 10. And we're going to see why. This first place, this is the ones place, just like in decimal. Now there's zero here, so that means we're gonna multiply zero times one, get the very exciting value of zero. The second place, the second bit here, that's where things get more interesting. This is actually the twos
+place, not the tens place, and there's a one here, so we're gonna multiply one times two. So so far, this number equals two. The third place, the third bit, this is zero and this is the fours place. So we're going to
+multiply zero times four, which is once again just zero. And we're still looking at the number two. Finally, this fourth bit here,
+this is the eights place, and there's a one here. So we're gonna multiply one times eight. Add that to everything else, we end up having eight plus two, which equals decimal 10. In the decimal system, each of these places
+represented a power of 10. But in the binary system, each place represents a power of two. The first bit is two to
+the zero power, it's one. The second bit is two to the
+power of one, the first power, which is two. The third bit is two squared,
+two to the power of two, which is four. And this fourth bit is two cubed, two to the power of three, that's eight. That's the only difference
+between decimal and binary, what each place represents. Once we know that, we see
+what digit is in each place, we multiply them together,
+and we get our final value. Now let's try to convert another binary number to decimal. We can erase this work here. And then for the number,
+let's just flip the bits. Zero becomes one, one becomes
+zero, zero becomes one, and one becomes zero. What do you think this equals and decimal? I'll give you a second to think about it. (hums) All right. Now let's figure it out together. There's a one in the ones place. So this so far equals one times one, that's one. There's a zero in the twos place. So we add zero times two, that's zero. There's a one in the fours place. So we add one times four, that's four. So so far, we've got four plus one, and then there's a zero
+in the final place, the eights place, that's
+zero times eight or zero. So we've got zero plus
+four plus zero plus one, which equals five in decimal. Let's try converting a bigger
+binary number to decimal. We know that this equals five. What happens if we add four more digits to the left of these four digits? Let's start by figuring out
+what each place represents. One way of doing that is just
+to double the previous places. So this place here is 16, this place is 32, this place is 64, and this place is 128. Another way of doing this is
+to calculate the powers of two. So this place is two to
+the fourth, which is 16. This is two to the fifth, which is 32. This is two to the sixth, 64. And this is two to the seventh, 128. Okay, so now we know what
+each place represents. Now we can add these numbers up. We know already that
+these one's equal five. We already did that. Now, let's add in what we've added here. So we have a one in the 16. So that means we're going
+to add 16 to the number. Then there's a zero in the 32. So that's just gonna be zero. There's a one in the 64,
+so that's going to be 64. And there's a zero in the
+128, so that'll be zero. So now we've got 64 plus 16 plus five. So that's 80 plus five, which is 85 in decimal. So it took us eight bits
+to represent a number that only takes two digits to represent in the decimal system. That's because each bit
+represents less information, just zero or one instead of zero to nine. But it's easier for computer hardware to store binary values. So binary numbers and
+the binary number system are the foundation of all computing.

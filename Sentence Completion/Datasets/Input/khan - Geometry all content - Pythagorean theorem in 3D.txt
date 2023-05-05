@@ -1,0 +1,43 @@
+- [Voiceover] So we have an interesting shape right over here. The base is a rectangular prism. And the dimensions of
+that rectangular prism, it's three units I
+guess we could say tall, four units wide, and then four units long. And then on top of that, on top of that, we have what you could
+call a right pyramid, where the height of this right pyramid, so if you start at the center
+of its base right over here, and you go to the top, this height right over here is one unit. And this hasn't been
+drawn completely to scale, and kind of the perspective
+skews a little bit. But our goal here, our goal here, is to figure out what is the length? What is the length of one of
+these edges right over here? So either that one, or
+this one right over here. What is that length? And we will call that,
+we will call that x. And so I encourage you to pause this video and try to think about it on your own. Remember, this is a right,
+this is a right pyramid. So what that tells us
+is that this red line, that's one unit long, it is perpendicular, it is perpendicular to this entire plane. It's perpendicular to the top of the rectangular prism. So with that in mind, I encourage you to pause the video and see
+if you can figure it out. And I will give you a hint. You will have to use
+the Pythagorean theorum, maybe more than once. Alright, so I am assuming
+you've at least given it a shot. So let's work through it together. So the key here is to
+realize, well okay this point, this base right over here,
+this point right over here it's half way in this direction and half way in this direction. So we can figure out,
+well this entire length right over here is length four. So half way, this is going to be, I'll write it with perspective. That's going to be two,
+and that's going to be two. Just like that. And then the other
+thing we can figure out, we can figure out what
+this length is going to be. 'Cause once again it's
+half way in that direction. So if this whole thing is two, and we see it right over here. This is a rectangular
+prism, so this length is going to be the same
+thing as this length. So if this whole thing is
+two, then each of these, this is going to be one, and this is going to be
+one right over there. Well how does that help us? Well using that information,
+we should be able to figure out this length. Actually, I'll keep it in this color 'cause this color's easy to see. We should be able to
+figure out this length. Well why is this length interesting? Well if we know that length, that length forms a right triangle. That length and the one are the two non-hypotenuse sides of a right triangle. And then the x would be the hypotenuse. So we could just apply
+the Pythagorean theorem. So if we can figure out
+this, we can figure out x. So let's do one step at a time. How do we figure out, how do we figure out I dunno, let me call this length. How do we figure out length a? Well let's just take it out and look at it in two dimensions. So if we look at it in two dimensions, If we look at it in two dimensions, it would look something like this. So that's our length a. We know that this length is half of this side right over here, so that's going to be one. And actually let me do
+it in the same colors. So this right over here is the same thing as this right over here. And it is going to be of length one. And then this right over here is going to be the same
+as this right over here, which is going to be of length two. And so we can just use the
+Pythagorean theorem here. We know that the hypotenuse squared is going to be equal to one squared, one squared plus two squared. One squared plus two squared, which of course, is
+equal to one plus four, which is equal to five. So we could write a... Let me do this in the magenta color. We can write a squared is equal to five, or we could say that a is equal to the principal root of five. So this length right over here is the square root of five,
+the principal root of five. And now we can use that
+information to solve for x. So let's take this right triangle. And it takes a little bit
+of visualization practice to visualize this right. But notice, this is a right triangle. This height right here of
+length one is perpendicular to this entire plane. So let's see if I can draw it. So we have this side is the square root of five. And then we have a height, Let me do it, looks like it's in a... Well, I'd say we're talkin' about this height right over here is length one. So I'll draw that, that is of length one. And we are trying to figure out x. We are trying to figure out x in orange. So we're trying to figure out this x. And once again, we know
+this is a right triangle. This is a right triangle, so we can apply the Pythagorean theorem again. So we will have x squared
+is equal to one squared. Which is just, I'll just write it one squared plus square
+root of five squared, plus square root of five squared. Well, that gets us x squared is equal to one plus five, right? Square root of five squared is just five. So one plus five is equal to six. So we get x is equal to
+the square root of six. And we're done! We figured out the length of
+this side right over here.

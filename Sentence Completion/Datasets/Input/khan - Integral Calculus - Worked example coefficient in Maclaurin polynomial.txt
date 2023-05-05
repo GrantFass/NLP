@@ -1,0 +1,35 @@
+- [Instructor] Nth derivative
+of g at x equals zero is given by, so the nth derivative
+of g evaluated x equals zero is equal to square root of n
+plus seven over n to the third for n is greater than or equal to one. What is the coefficient for
+the term containing x squared in the Maclaurin series of g? Let's just think about the
+Maclaurin series for g. If I were to have my function g of x. The Maclaurin series, I could
+say approximately equal to especially if I'm not gonna
+list out all of the terms, is going to be equal to,
+well it's going to be equal to g of zero plus g prime of zero times x plus g prime prime of zero divided by, I could say two factorial
+but that's just two, times x squared, and that's
+about as far as we go. Because we just have to think
+about what is the coefficient for the term containing x squared. If they said what's the coefficient for the term containing x to
+the third, I would keep going. I'd go g prime. I would take the third
+derivative evaluated at zero over three factorial. I could do this as a factorial too, but that just evaluates to two. I could do this as one factorial. I could do this as zero
+factorial just so you see it's a consistent idea here. I could, of course, keep on
+going, but we just care about, they're just asking us
+what is the coefficient for the term containing x squared? They just want us to figure out this. What is this thing right over here? To know that, we need to figure out what is the second derivative
+of g evaluated x equals zero? Well they tell us that over here. It's a little bit unconventional where they give us a
+formula, a general formula for any derivative
+evaluated x equals zero, but that's what they're telling us here. So in this case, the n isn't zero. The n is the derivative we're
+taking, and that's going to be our second derivative, so this is, so if I wanted to figure out g. If I am figuring out
+the second derivative, and I could write it
+like that evaluated zero, or I could write it like this just so the notation is consistent. I could write it like that. The second derivative evaluated
+x equals zero is going to be equal to, well our n is two, so this is going to be the square root of two plus seven over
+two to the third power. Two plus seven is nine, take
+the principle root of that. It's gonna give us positive
+three over two to the third which is eight, so this
+part right over here is 3/8, so the whole coefficient
+is going to be 3/8, that's this numerator,
+divided by, divided by two. Which of course is equal
+to 3/16, and we're done. They didn't want us to
+figure out a couple of terms of this which we could call
+the Maclaurin polynomial and nth degree Maclaurin polynomial. They didn't want us to
+find the entire, you know, keep going with this series. They just wanted to find
+one coefficient right here. The coefficient on the second degree term which we just figured out is 3/16.

@@ -1,0 +1,35 @@
+- [Voiceover] A factory has
+machines that produce toys, which are then packed by
+the factory's workers. One day, each machine produced 14 toys and each worker packed two toys, so that a total of 40
+toys remained unpacked. Additionally, the number of
+workers that day was eight less than seven times the number of machines. How many machines and workers were there? I encourage you to pause the video. This is a good little problem over here. All right, so let's define some variables. So let's say M is equal to the number of machines, and let's say that W is equal to the number of workers. Those seem like reasonable variables. So what does the first sentence tell us? It tells us one day each
+machine produced 14 toys. So if each machine produced 14 toys, what is the total number of toys that are going to be produced? Well, the total number
+of toys that are going to be produced is going to
+be the number per machine times the number of machines. So this is 14M toys produced. So this is what is produced.
+Produced, right over there. And then how many toys
+are going to be packed? Well, if each worker packed two toys, they tell us there, each
+worker packed two toys, so the total number that's
+going to be packed is going to be two toys per worker
+times the number of workers. So that right over there, that's
+the number of toys packed. And then they tell us the
+number of toys that remain, the total that remains unpacked. So the total that remains
+unpacked, we know that that is 40. Let me do that in a neutral color. So 40, for 40, so that we could view the 40
+as produced, but not packed. Produced, not packed. That's the number, the
+total the remain unpacked. Well, how do we relate produced and packed to the produced that are not packed? Well, if we take the
+total that were produced, we subtract out the
+number that were packed, we're gonna be left with
+the total that are unpacked. So just like that, we're able to set up a linear
+relationship between M and W. Well, just one isn't enough
+to solve for M and W, but we have another relationship. They say, additionally, the
+number of workers that day, so the number of workers that day. I could say W. I'll write it over here. W, the number of workers that day, was eight less than seven
+times the number of machines. Or you could say it was equal
+to seven times the number of machines minus eight. That would be eight less
+than seven times the number of machines. 7M minus eight. And now we have two
+equations with two unknowns. If things work out well, we might be able to actually solve for W and M. So there is a bunch of ways to do it. Since this equation already
+has W explicitly solved for, we can do some substitution here. We can take this W and
+substitute it in for this W. Or, actually I should say,
+we could take 7M minus eight and substitute it in for this W, since the M and W, the
+pair that we wanna find, need to satisfy both equations. And so we are going to get, we're going to get 14M minus, minus two, minus two times, let me do that in a, so minus two times, and instead of a W, I can write the 7M minus eight. So 7M minus eight, and we get that equals 40, is equal to 40, so we get, now it's just a little bit of algebra. 14M and then, let's see, I'll do everything in a neutral color now. So negative two times 7M is negative 14M, and then negative two times negative eight is plus 16, and then that's going to be equal to 40. Now, 14M minus 14M, that's
+just going to be zero, and we're left that 16 is equal to 40. Well, that's never going to be true. 16 is never going to be equal to 40. Doesn't matter what M and W are. In fact, M and W have been
+eliminated from this equation. This is impossible. This right over here is impossible, for 16 to be equal to 40, and because of that, there
+are no solutions to this. There's no M and W pair that matches the constraints they gave us, so there is no solution. No solution. I'll put that in a little square there.

@@ -1,0 +1,147 @@
+- [Instructor] I found that when students have to do problems involving
+the force of tension, they get annoyed maybe more
+than any kind of force problem, and we'll talk about why in a minute. We'll go over some
+examples involving tension to try to demystify this force, make you more comfortable with finding it so it's not so annoying when
+you get one of these problems. And at the same time we'll talk about the misconceptions that a lot
+of people have about tension so that you don't make
+those mistakes as well. All right, so to make
+this a little more clear, what is tension? That's the first good question
+is what is this tension? Well, tension is the
+force exerted by a rope or a string or a cable
+or any rope-like object. If you had a box of cheese
+snacks and we tied a rope to it. We tie a rope over to here and we figure out how much
+force do I have to pull with since the force is being
+transmitted through a rope, we'd call that tension. I mean, it's a force just
+like any other force. I'm gonna call this T one because we're gonna add
+more ropes in a minute. It's a force exerted just
+like any other force. You treat it just like any other force. It just is a force that happens
+to be transmitted by a rope. What's happening here in this rope? Ropes are typically composed of fibers that have been braided together or wound around each other so that when I exert a force at this end, right, when I exert a force
+down here in this end, I pull on this end of the rope, that force gets transmitted
+through the rope all the way to this other end and it'll exert a force on this box. And the way that works is
+I pull on the fibers here. They're braided around each other so these fibers will now
+pull on this fibers here which pull on the fibers here, and this could be parts of the same fiber. But the same idea holds. Once this force is exerted here it pulls on the ones behind them. Keeps pulling on the ones behind them, eventually that force gets transmitted all the way to this other end. And so, if I pull on
+this end with a force, this end gets pulled with a force. Tension is useful, ropes are useful because they allow us to transmit a force over some large distance. And so, what you might hear, a typical problem might say this. Typical problem might say all right, so let's say there's a
+force of tension on this box and it causes the box to accelerate. With some acceleration a zero, and the question might say, how much tension is required in order to accelerate this box of mass m with this acceleration a zero? What tension is required for that. Now, a lot of the problems will say assuming the rope is massless and you might be like what? First of all, how can
+you have a massless rope? Second of all, why
+would you ever want one? Well, the reason physics
+problem say that a lot of times is because imagine if the
+rope was not massless. Imagine the rope is heavy, very massive. One of those thick massive ropes. Well then, these fibers here at this end would not only have to be pulling the box, it also be pulling all of
+the rope in between them so they don't have to be pulling all this heavy rope in between them. Whereas, the fibers right
+here would have to be pulling this amount of rope, half of it. All right, the fibers
+here would have to pulling this amount of rope which is heavy. Not as heavy as all of
+the rope and the box. And then, so the tension
+here would be a little less than the tension at this end. And then the tension over at this end, well, these fibers would
+only be pulling the box. They don't have to pull
+any heavy rope behind them. Since they're not dragging
+any heavy rope behind them, the tension over here would be less than the tension over here. You'd have a tension
+gradient or a tension, a varying amount of tension where the tension is big at this end, smaller, smaller, smaller, smaller. That's complicated. We don't have to deal with that. Most of these physics problems don't wanna have to deal with that so what we say is that
+the rope is massless but we don't really mean
+the rope is massless. The rope's got to be
+made out of something. What we mean is that the
+rope's mass is negligible. It's small compared to any mass here so that even though there is some small variation within
+this rope of the tension, it really doesn't matter much. In other words, maybe the
+tension at this end is 50 newtons and the tension at this
+end is like 49.9998. Okay, yeah they're a little different. The tension here is a little greater but it's insignificant,
+that's what we're saying. So let's try to do this problem. Let's get rid of that. Let me get rid of all of these and let's ask, what is this
+required tension right here in order to pull this box with
+an acceleration of a zero? To do these problems, we're
+gonna draw a force diagram the way you draw any force diagram. You draw the forces on the object. So we're gonna say that
+the force of gravity is equal to mg. Force of gravity is wonderful. Force of gravity has its own formula, mg. I just plug right in and
+I get the force of gravity and if you're near the earth there's always a force
+of gravity pulling down. Since this box is in
+contact with the floor there's gonna be a normal force because the floor is a surface, the box is a surface. When two surfaces are in contact you'll have this normal force. And then you're gonna have this tension. Here's the first big misconception. People look at this line of this rope and they say, well, it looks
+like an arrow pushing that way. So they think that this
+rope's pushing on this box and that doesn't make any sense. You can't push with the rope. If you don't believe me, go right now, go. Pause this video, tie a rope to something and try to push on it and you'll realize, oh, yeah, if I try that
+the rope just goes slack and I can't really push. But you can pull on things with a rope. Ropes cause this tension
+which is a pulling force. Tension's a pulling force because this rope gets taut, it gets tight and now I can pull on things. Normally force is a pushing force, right? Force is the two surfaces
+push on each other, the ground pushes out to keep
+the box out of the ground. But ropes, tension is a pulling force so I have to draw this force this way. This tension T one,
+I'm in my force diagram would point to the right. I'd call this T one. Those are all my forces. I could have friction here but let's say this cheese snack
+manufacturing plant has made transporting their cheese
+snacks as efficient as possible. They've made a frictionless ground and if that sounds unbelievable maybe there's ball bearings under here to prevent there from being
+basically any friction. We'll just keep it simple to start. We'll make it more
+complicated here in a minute but let's just keep this simple to start. Now, how do I solve for tension? The reason people don't like
+solving for tension I think is because tension doesn't have
+a nice formula like gravity. Look at gravity's formula. Force of gravity's just mg. You could just find it
+right away, it's so nice. But to find the force of tension, there's no corresponding
+formula that's like T equals and then
+something analogous to mg. The way you find tension
+in almost all problems is by using Newton's Second Law. Newton's Second Law says
+that the acceleration equals the net force over the mass. Now if you don't like Newton's Second Law that's probably why you don't
+like solving for tension because this is what you have
+to do to find the tension. Since there's no formula dedicated to just tension itself. What's the acceleration? We'll have to pick a direction first. Do I wanna treat the vertical direction or the horizontal direction? I'm gonna treat the horizontal direction because my tension that I wanna find is in the horizontal direction. My acceleration in this
+horizontal direction is a zero. That's gonna equal my net force and in the x direction,
+I only have one force. I've got this tension force. Only force I have is T
+one in the x direction. And since that points right and I'm gonna consider
+rightward as positive. I'm gonna call this positive T one even though that's pretty much implied. But positive because
+it points to the right and I'm gonna assume
+rightward is positive. You could call leftward positive
+if you really wanted to. It'd be kind of weird in this case. Now I divide by the mass, I can solve for T one now. I just do a little algebra. I get the T one, the tension
+in this first rope right here. It's gonna equal the mass
+times whatever the acceleration of this box is that we're
+causing with this rope. Don't draw acceleration as a force. This is a no-no. People try to draw this sometimes. Acceleration is not a force. Acceleration is caused by a force. Acceleration itself is not a
+force so don't ever draw that. Okay, so we found tension, not too bad but this is probably
+the easiest imaginable tension problem you
+could ever come up with. Let's step it up. You're probably gonna face problems that are more difficult than this. Let's say we made it harder, let's say over here someone's
+pulling on this side with another rope. Let's say there's another T two so people are fighting
+over these cheese snacks. People are hungry. And someone's pulling on this end. What would that change? Let's say I steal this person over here. He's like, uh-uh, you're not
+gonna get my cheese snacks. Say they pull with a force to maintain this
+acceleration to be the same. All right, they're gonna
+pull whatever they need to even with this new force here so that the acceleration just
+remains a zero to the right. What would that change
+appear in my calculation? Well, my force diagram
+I've got another force but I can't, I don't draw
+this force pushing on the box. Again, you can't push with tension, you can only pull with tension. This rope can pull to the left, so I'm gonna draw that as T two. And how do I include that here. Well, that's the force to
+the left so I'd subtract it because leftward forces we're
+gonna consider negative. And now I do my algebra, I multiply both sides by m to get ma but then I have to add T two to both sides and this makes sense. If I'm gonna pull over here, if I want my T one to compensate and make it so that this box
+still accelerates with a zero, even though this people over
+here are pulling to the left, this tension has to increase in order to maintain the same
+acceleration to the right. And I'll step it up even more. Let's say it's about to,
+war's about to breakout over these cheese snacks right here. Let's say someone pulls this way. Someone pulls that way
+with a force T three. We'll call this T three, someone's pulling at an angle this time. Let's say this force is at an angle theta. Now what does that change? Again, let's say this T
+one has to be such that you get the same acceleration. But with that change up
+here you're gonna have a tension force up into the
+right in my force diagram. So you get a tension force this way. This is T three at an angle theta. Now I can't plug all of T
+three into this formula. This formula was just for
+the horizontal direction so I have to plug only
+the horizontal component of this T three force. This component right here. Only that component of
+T three do I plug in, I'm gonna call that T three x. T three x is what I plug in up here. T three y, this isn't gonna get plugged into this formula at all. The T three y does not affect
+the horizontal acceleration. It will only affect the
+vertical acceleration and maybe any forces that
+are exerted vertically. I'll call this T three y. How do I find T three x? I have to use trigonometry, the way you find
+components of these vectors is always trigonometry so I'm gonna say cosine theta and I'm
+gonna use cosine because I know this side, T three x is adjacent to this angle that I'm given. Since this is adjacent
+to the angle I'm given I use cosine because
+the definition of cosine is adjacent over hypotenuse and my adjacent side is T three x. My hypotenuse is this side
+here which is the entire tension T three. If this tension was like 50 newtons at an angle of 30 degrees, I couldn't plug the
+whole 50 newtons in here. I'd say that 50 newtons times
+if I solve this for T three x. I get T three x equals. I'm gonna multiply both sides by T three so that would be like our 50 newtons. T three, the entire magnitude
+of the tension force times the cosine theta,
+whatever that theta is. If it was 30 degrees
+I'd plug in 30 degrees. This is what I can plug in up here. Now I can plug this into
+my Newton's Second Law. I couldn't plug the whole force in because the entire force
+was not in the x direction. The entire force was
+composed of this vertical and horizontal component and the vertical component does not affect the acceleration in the
+horizontal direction, only the horizontal
+component of this tension which is this amount. If I plug this in up here, I'll put a plus because
+this horizontal component points to the right, plus T three times cosine theta. And again, the way I'd solve for T one is I'd multiply both sides by m so I'd get ma knot and then
+I'd add T two to both sides and then I'd have to
+subtract T three cosine theta from both sides in order to
+solve for this algebraically. And this makes sense. My tension T one doesn't
+have to be as big anymore because it's got a force
+helping it pull to the right. There's someone on its
+side pulling to the right so it doesn't have to exert as much force that's why this ends
+up subtracting up here. T one decreases if you
+give it a helper force to pull on the same
+direction that it's pulling. Conceptually that's why this tension might increase or decrease. That's how you would deal with it if there were forces involved. You can keep adding
+forces here even friction if you had a frictional force to the left, you would just have to include
+that as a force up here. You'd keep doing it
+using Newton's Second Law and then solve algebraically for the tension that you wanted to find. To recap, remember the
+way you solve for tension is by using Newton's Second Law, carefully getting all the signs right and doing your algebra to solve for that tension that you wanna find. Also, remember the force of
+tension is not a pushing force. The force of tension is a pulling force. You can pull with the rope but you can't push with the rope. And in this problem, the
+tension throughout the rope was the same because we assumed that either the rope was massless or the mass of the rope
+was so insignificant compared to the mass of this box that any variation didn't matter. In other words, the tension at every point in this rope was the same and that could have made a difference because if we were asking the question how hard does this person over here have to pull on this rope
+to cause this acceleration? If the rope itself was massive this person would have to not only pull on this massive box but
+also on this massive rope and there'd be a variation in tension here that honestly, we often don't
+wanna have to deal with. So we assume the rope is massless and then we can just assume that whatever force this person pulls with because tension's a pulling force, is also transmitted here undiluted. If this person pulled with 50 newtons then this point of the
+rope would also pull on the box with 50 newtons.

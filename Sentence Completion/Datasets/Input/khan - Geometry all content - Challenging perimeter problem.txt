@@ -1,0 +1,134 @@
+Here's an interesting
+problem involving perimeter from the 2000 American
+Invitational Mathematics Exam. So it says the diagram
+shows a rectangle that has been dissected into
+nine overlapping squares. So one, two, three, four,
+five, six, seven, eight, nine overlapping squares. Given that the width and
+the height of the rectangle are positive integers with
+greatest common divisor 1-- so they're talking about
+the width and the height of the rectangle. And the reason why they're
+saying greatest common divisor 1 is they're saying that they
+don't have a common divisor that you can divide them both by
+to get a more simplified ratio. And to think about
+that is, we might be faced with two choices,
+one where maybe it's this side over here is-- let me
+draw it like this-- 5 and 15. But over here, our greatest
+common divisor isn't 1. They're both divisible
+by 5 over here. So what you'd want
+to do is say, no. Instead of 5 and 15,
+they need to be 1 and 3. Now you have the
+same ratio of sides, but now their greatest
+common divisor is 1. You kind of have it in the
+simplified form or the most simplified form if you divide
+both this height and this width by 5. So that's why they're saying
+greatest common divisor 1. And then they say, find the
+perimeter of the rectangle. So let's see what
+we can do here. And I encourage you to pause
+it and try to do it on your own before I bumble my way
+through this problem. So let's start in the beginning. Let's start at this square right
+over here, the center square. And they did tell us
+that they're all squares. So let's say that that square
+right over here has a length x and a height x. It's an x by x square. So let me write it. So this is an x,
+and that is an x. So this is an x by x
+square right over there. And then you have this
+square right over here. And we don't know
+its measurements. So let's say that this square
+right over here is y by y. So it has y width, and
+it also has y height. Now, what is this
+square over here? Well, this is an x
+plus y by an x plus y square, because the width
+of these two squares combined made the width of
+this larger square. So what I'm going
+to do is-- actually, this might be an
+easier way to write it. Since these are all
+squares, I'm going to write the dimension of
+that square inside the square. So this is going to
+be an x by x square. Kind of a
+non-conventional notation, but it'll help us keep
+things a little bit neat. This is going to
+be a y by y square. So I'm not saying the area is y. I'm saying it's y by y. This over here is going
+to be an x plus y times-- an x plus y is going to
+be each of its dimensions. So it's going to be x plus
+y height and x plus y width. Then this one over here-- well,
+if this dimension is x plus y and this dimension
+right over here is x, then this whole side or
+any of the sides of the square are going to be the sum of that. So x plus x plus y is 2x plus y. You can imagine that
+I'm just labeling the left side of each
+of these squares. The left side of this
+square has length y. Left side of this one, x. This one has x plus y. And then this is 2x plus y. And then we can go
+do this one up here. Well, if this distance
+right over here is 2x plus y and this distance right
+over here is x plus y, you add them together to
+get the entire dimension of one side of the square. So it's going to be 3x plus 2y. I've just added the 2x
+plus the x and the y plus the y to get 3x plus 2y
+is the length of one dimension or one side of this square. And they're all the same. Now let's go to
+this next square. Well, if this length is
+3x plus 2y and this length is 2x plus y, then this
+entire length right over here is going to be 5x plus 3y. 5x plus 3y is going to be that
+entire length right over there. And we can also go to
+this side right over here where we have this length--
+let me do that same color. This length is 3x plus 2y. This is x plus y. And this is y. So if you add 3x plus
+2y plus x plus y plus y, you get 4x plus-- what
+is that-- 4y, right? 2y, 3y, 4y. And then we can express
+this character's dimensions in terms of x and y because
+this is going to be 5x plus 3y. Then you're going
+to have 2x plus y. And then you're going to have x. So you add the x's together. 5x plus 2x is 7x, plus x is 8x. And then you add the
+y's together, 3y plus y, and then you don't
+have a y there. So that's going to be plus 4y. That's the dimensions
+of this square. And then finally, we have
+this square right over here. Its dimensions are going to
+be the y plus the 4x plus 4y. So that's 4x plus 5y. And then if we think
+about the dimensions of this actual
+rectangle over here, if we think about its
+height right over there, that's going to be 5x
+plus 3y plus 8x plus 4y. So 5 plus 8 is 13. So it's 13x plus 3 plus 4 is 7y. So that's its height. But we can also think
+about its height by going on the
+other side of it. And maybe this will give
+us some useful constraints because this is
+going to have to be the same length
+as this over here. And so if we add 4x
+plus 4x, we get 8x. And then if we add 4y
+plus 5y, we get 9y. So these are going to have
+to be equal to each other, so that's an
+interesting constraint. So we have 13x plus 7y is going
+to have to equal 8x plus 9y. And we can simplify this. If you subtract 8x from
+both sides, you get 5x. And if you subtract
+7y from both sides, you get 5x is equal to 2y. Or you could say x
+is equal to 2/5 y. In order for these to
+show up as integers, we have to pick integers here. But let's see if we have any
+other interesting constraints if we look at the bottom
+and the top of this, if this gives us any
+more information. So if we add 5x plus 3y plus
+3x plus 2y plus 4x plus 4y, this top dimension-- 5
+plus 3 is 8 plus 4 is 12. You get 12x. And then you get
+3y plus 2y plus 4y. So that's 5 plus 4. That's 9y. Plus 9y. That's this top dimension. And if you go down here,
+you have 8 plus 4 is 12x. Let me do that same color. And then you have 4
+plus 5 is 9y, plus 9y. So these actually ended up to
+be the same in terms of x and , so they're not giving
+us any more information, no more constraints. Obviously, 12x plus 9y is going
+to be equal to 12x plus 9y. So our only constraint
+on this problem is what we got by setting
+this left-hand side to this right-hand side, is that
+x needs to be equal to 2/5 y. So let's just pick
+some numbers so that we get nice
+integers for x and y and then we figure
+out the perimeter. We want to make sure
+that the dimensions don't have any common divisors. So if we pick y to be 5, so
+let's pick y to be equal to 5, then looking at this
+constraint, what is x? Well, then x is 2. It's going to be 2/5 times 5. So then x is equal to 2. So let's see what we get for
+the dimensions of this rectangle then. So the height of
+this rectangle is going to be 13 times 2 is
+26, plus 7 times 5 is 35. So 26 plus 35 gets us what. That gets us to 61. This is equal to 61. Did I do that right? You see the 55 plus 6 is 61. And then when you
+look at its width, you have 12x, which
+is 24, plus 9y. y Is 5, so plus 45. 24 plus 45 is what? That is 69. And 61 and 69 do not share any
+common divisors other than 1. So it looks like we're
+done, or we're almost done. We know the dimensions
+of the rectangle. It is a 61 by 69 rectangle. And if you want its
+actual perimeter, you just add them all up. So the perimeter
+here is going to be-- we could have a drum roll now. The perimeter is
+going to be 61 plus 69 plus 61 plus 69, which is equal
+to-- well, 61 plus 69 is 130. That's another 130 right there. 130 plus 130 is 260. So it actually wasn't
+too bad of a problem if we just started at the middle
+and just built up from there, built up the dimensions in terms
+of the dimensions of these two smallest squares. And then we were able
+to find the perimeter.

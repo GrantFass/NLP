@@ -1,0 +1,65 @@
+- [Instructor] So, let's start looking at a short sequence of DNA, and the letters I'm going to use, these are the shorthands for
+the various nucleotide bases that make up a sequence of DNA. So, let's say that I have some thymine, thymine, cytosine,
+guanine, cytosine, thymine, adenine, thymine, thymine, and let's throw another thymine in there. So, that would be our sequence of DNA, and what would be the
+corresponding sequence of RNA that it would be transcribed into? If you remember this from previous videos, pause this video and
+try to figure that out. Well, the key thing to appreciate is, if we're talking base pairs in DNA, adenine pairs with thymine, cytosine pairs with guanine, but if we're talking
+about pairing into RNA, well then, instead of thymine in the RNA, you would have uracil. So, the RNA here is, well, the thymine in
+the DNA would correspond to an adenine in the RNA, adenine, guanine, cytosine, guanine, adenine, and now, since this is an RNA strand, instead of having a
+thymine right over here, this would be a uracil,
+adenine, adenine, adenine. So, this process that we just did, this is transcription. Transcription, transcription from DNA, DNA to RNA. Now, the next step, if we're talking about the whole process of, how
+does this information actually have an effect on the
+body, is we're gonna go from the RNA and translate that into a protein. And the way we do that, we've
+seen this in previous videos, is every three of these
+bases, that's a codon, and it codes for a particular amino acid. Now, to figure out what
+amino acid it codes for, we look at an amino
+acid translation table, and there's different
+types that you might see. This is the most typical type, so the first base is A, second base is A, third base is G. First base, A, second base, A, we're in this cell, third base is G, and so that will code for
+the amino acid, lysine, so we could write l-y-s,
+short for lysine here. And we could've also gotten that from a different type
+of translation table. For example, you might see a circular
+one that looks like that, but we would've gotten the same result. AAG, start at the center, AAG codes for lysine. Then, the next codon,
+and if you're getting as excited about this as I am, I encourage you to pause this video and try to keep translating this. The next codon is CGA. CGA, arginine. Arginine, and then the next one is UAA. UAA. Well here, they have this
+little black, circular dot, what does that mean? Well, that means stop codon, and sometimes they'll just
+write the word stop there. So, this is stop. There is not an amino acid called stop, this actually signals
+to, and this is happening at a ribosome, this is signaling for the translation process to stop, this is the end of our amino acid chain, of our polypeptide chain. And so, we will stop right over there. But now, let's do some interesting things. Let's think about situations where there are mutations,
+where some of these bases, maybe something gets inserted, maybe something gets deleted, maybe something gets swapped out. And so, let's start with what's known as a point mutation, so let's say this C gets swapped out for an A. Well, if that happened,
+then on the RNA strand, all of a sudden this would be a uracil, and if that is a uracil, this
+AAG would still be there, coding for lysine, but this
+second codon is now different. What would it now code for? Well, CUA. CUA, it'll now code for
+leucine instead of arginine. Leucine, l-e-u. This is fairly typical for
+a substitution mutation. It might change a particular amino acid, but sometimes, it could
+be more significant. For example, if this G was swapped out for an A, then this C on the RNA would then be a U, and then what would happen? Well, this first codon
+would still code for lysine, but the second one would be UGA. UGA. Now, all of a sudden, it
+codes for a stop codon, and so, the actual translation
+process would stop, which could be a very, very big deal if this DNA sequence, if the normal, non-mutated polypeptide had to keep going on, and on, and on. Over here, it just happened
+to have a stop codon next, but you could imagine, if
+they had just, you know, another thousand codons before the end, but all of a sudden, you had a
+point mutation to stop early, that would significantly
+affect the protein that it's coding for. Now, another type of
+mutation that typically has a fairly significant affect is a frameshift mutation,
+and that's where something gets inserted or deleted
+and shifts everything. So, for example, instead of the A being swapped in for the G, what if the A got inserted here? So then, our sequence
+would look like this. T-T-C, and then we have A, and
+then you have G-C-T, G-C-T-A-T-T-T. So, what just happened here, this was our original sequence,
+but the A got inserted here, it didn't replace the G, and so everything got shifted to the right. Now, what are we coding for? Well, when we transcribe
+to RNA, this will be A-A-G-U-C-G-A-U-A-A-A, and now this first codon
+still codes for lysine, we've seen that multiple times. But, what about this second codon? This second codon over here, UCG. UCG, that's serine, we got a different amino acid. And what's interesting is, it's not just that one amino acid is changing, we're gonna see that keeps happening. So now, we have AUA. AUA. Here, we have isoleucine. So, isoleucine, right over here, which is different than what we had before, we
+don't have a stop codon anymore, and we would keep going on and on. And so, you could imagine
+a frameshift mutation where you either insert something or you take it out so that
+the whole frame gets shifted, can have a dramatic impact on what it will transcribe and then translate for. Now, lucky for us, even though mutations are always going on, there are
+many proofreading mechanisms in biological systems to
+make them less frequent than they otherwise would be, and people are still understanding how these proofreading
+mechanisms fully happen. Another thing to appreciate is, we often associate a mutation as being equal to a bad thing, and often times, it is a bad thing. What used to be a functional protein may no longer be a functional protein because the amino acids,
+the coding got stopped short or there was a frameshift mutation that's just coding for
+completely different things. So, sometimes it could be very bad, and some diseases actually are caused by strange mutations
+like that, that show up. Often times, the mutation
+might not be a big deal. Maybe something gets swapped out, maybe only one amino acid changes and it doesn't really change the ability of the protein to do its job, in which case it doesn't matter, but every now and then,
+a mutation can actually be a good thing. In fact, we need the mutation in order to have variation in a population, and variation is what natural selection and evolution run off of. If you don't have variation, then you're not going
+to have different things that get selected in
+different environments and you're not going to have
+that gradual change over time. So, a big picture, hopefully
+you got a better appreciation for how transcription,
+and then translation, let me write that down. And then, so that's
+transcription from DNA to RNA, and then this is translation. Translation from RNA to protein, to protein. We have appreciation of how that happens, we got appreciation of how to
+use these translation tables, but also how either a point mutation or a frameshift mutation
+can eventually affect the protein that gets coded for.

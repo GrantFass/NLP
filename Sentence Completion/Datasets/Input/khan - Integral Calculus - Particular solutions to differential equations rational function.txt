@@ -1,0 +1,37 @@
+- [Voiceover] So we're told
+that F of two is equal to 12, F prime of X is equal to
+24 over X to the third and what we want to figure out
+is what is F of negative one. Alright, so they give us the
+derivative in terms of X. So maybe we could take the anti-derivative of the derivative to find
+our original function. So let's do that. So we could say that F of X, F of X is going to be equal
+to the anti-derivative or we could say the indefinite
+integral of F prime of X, which is equal to 24 over X to the third. I could write it over like
+this, 24 over X to the third. But to help me process
+it a little bit more, I'm gonna write this as
+24 X to the negative three 'cause then it'll become how
+to take that anti-derivative. D, DX. And so what is the anti-derivative of 24X to the negative three? Well we're just going to do
+the power rule in reverse. So what we're going to do is we're going to increase the exponent. So let me just rewrite it. It's going to be 24X to the, we're going to increase
+the exponent by one, so it's gonna be X to the
+negative three plus one and then we're going to divide
+by that increased exponent. So negative three plus one and so that is going to be negative three plus one
+is X to the negative two and then we divide by negative two and if you're in doubt
+about what we just did where we're kind of doing
+the power rule in reverse, now take the derivative of
+this using the power rule. Negative two times 24 over negative two is just gonna be 24 and then
+you decrement that exponent, you go to negative three. So are we done here, is this F of X? Well F of X might involve a constant. So let's put a constant out here because notice if you were to take the derivative of this thing here, the derivative of 24X to the
+negative two over negative two we already established is
+24X to the negative three. But then if you take the
+derivative of a constant, well that just disappears. So you don't see it when
+you look at the derivative. So we have to make sure that
+there might be a constant and I have a feeling based
+on the information that they've given us, we're going
+to make use of that constant. So let me rewrite F of X. So we know that F of X can be expressed as 24 divided by negative two. It's negative 12X to the
+negative two plus some constant. So how do we figure out that constant? Well they have told us what F of two is. F of two is equal to 12. So let's write this down. So F of two is equal to 12, which is equal to well we
+just have to put two in everywhere we see an X. That's going to be negative two times two to the negative two power plus C and so 12 is equal to, what is this, two to the negative two. Two to the negative two is
+equal to one over two squared, which is equal to 1/4. So this is negative 12 times 1/4. Negative 12 times 1/4 is negative three. So it's negative three plus C. Now we can add three to
+both sides to solve or C. We get 15 is equal to C. So or C is equal to 15. That is equal to 15. And so now we can write our F of X as we get F of X is equal to negative 12 and I could even write that as negative 12 over X squared if we like. Negative 12 over X squared plus 15 and now using that we can
+evaluate F of negative one. F of negative one. Everywhere we see an X we
+put a negative one there. So this is going to be
+negative one squared. So F of negative one is
+equal to 12 divided by, negative 12 divided by
+negative one squared. Well negative one squared is just one. So it's gonna be negative 12 plus 15, which is equal to three and we're done. This thing is equal to three.

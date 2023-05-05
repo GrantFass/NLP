@@ -1,0 +1,56 @@
+- [Voiceover] In this
+video, we're gonna begin the derivation of the LC Natural Response, the response of an
+inductor capacitor circuit. This is a difficult derivation, but it really pays off in the end. There's a really fun surprise at the end, and that is, this is
+where sine waves are born. We're gonna end up with sine
+waves at the end of this. And that's a really nice
+result because these are everywhere in electronics,
+and in the natural world. We're gonna start out by saying, we're gonna put some charge
+on this capacitor here. And we're gonna have the
+current in this circuit, i, we're gonna have that start at zero. So i zero is zero, but this is the current through the circuit, and
+that means that current exists over here as well. Let's put a switch in this circuit. And we're gonna close that
+switch at t equals zero. So we have one variable as
+i, and the other variable we're gonna use is v, and
+v is this voltage here, after the switch closes. So we wanna find i and v. And for this we're gonna
+focus on finding i. Once we find i it's
+straightforward to find e. So this is gonna be our
+independent variable, is the current. So let's begin the analysis. At the moment, t equals zero,
+the charge that exists here is gonna start flowing in the circuit, and both voltage and current
+are gonna start to change. So let's write some expressions, let's start out by writing
+some things that we know are true about our two components. And we'll start with the capacitor. So we'll start by writing an
+expression for our capacitor, and there's a little sign
+flip that happens here, so we gotta be a little bit careful. So if I have v on a capacitor,
+and i in a capacitor, I would say that i
+capacitor equals c, dv, dt. Now if we look here, vc
+is the same as v here, positive sign at the top,
+positive sign at the top, negative sign at the bottom,
+so vc and v are the same. But i, we have to be careful,
+i is in the opposite direction of the current that I picked
+for independent variable, so that's upside down. So i, there's a negative
+sign we get to flip here, equals negative c, dv, dt. So that's the IV equation
+for our particular circuit. We have that little extra negative sign. And now I wanna write the
+integral form of the capacitor IV equation, which is v equals one over c times the integral of idt. And remember our minus sign. This is the important
+minus sign to bring along. Okay so let's do the
+voltage across the inductor, the inductor voltage is same
+variable v, is L, di, dt. So there's no extra minus sign here. This is assigned according
+to the sign convention for passive components. So now we have an expression
+for v on the capacitor, and we have an expression
+for v on the inductor, and we know that that's the same voltage. So let's set these two things together, so we can say that L, di, dt, equals minus one over c, times
+the integral of idt. All we did was set the
+two identical voltages equal to each other. And now I'm gonna manipulate this a bit, it says that L, di, dt, plus one over c, the integral of idt equals zero. We just gathered terms on one side, and we said the other side became zero. Now since I'm not used to having integrals inside equations, I'd
+rather have derivatives, since I have some experience
+with differential equations, let's, if we take a derivative
+of this whole equation, so here's what we're gonna do. We're gonna take a derivative
+with respect to time, of this whole thing here, and that gives us, we
+get the second derivative of the first term, so we get L, second derivative of i
+with respect to time, plus one over c, and then, the derivative of the integral of idt, turns into just i, and
+the derivative of zero, on this side, is zero. So this is now the differential
+equation for the LC circuit. And it's called, it has a name, it's called a second order homogeneous ordinary differential equation. It's a differential
+equation because it has derivatives in it, it's
+homogeneous because it only has derivatives of i with
+respect to t and nothing else. The indicator is that this
+side is equal to zero, there's no forcing term
+over here on this side. So when you can write
+the equation this way, we say it's homogeneous. And it's called a second order equation, because it has this second
+derivative right here. So now we've set up our
+second order homogeneous ODE, and in the next video,
+we'll go about solving this. We're gonna go through it step by step.

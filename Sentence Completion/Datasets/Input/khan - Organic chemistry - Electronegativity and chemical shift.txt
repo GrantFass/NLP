@@ -1,0 +1,119 @@
+- [Voiceover] If we look at methane we have four equivalent
+protons, so we would expect one signal on an NMR spectrum, and here's the signal for the protons on methane. So this signal occurs at
+approximately one part per million. And remember from the first
+few videos on proton NMR, what that signal is talking about. It's talking about the energy difference between the alpha and
+the beta spin states. So if this is the alpha spin state and this is the beta spin state, there's an energy difference between those two spin states, right? And this energy difference
+corresponds to a frequency because e is equal to h nu. And the energy difference also corresponds to the effective magnetic
+field felt by a proton. So if I draw in a magnetic
+field here, right. So the effective magnetic field, right, controls the energy difference. So let's think about this. If I have a certain
+effective magnetic field, I get a certain difference in energy between the alpha and
+the beta spin states. The energy corresponds to
+a frequency that's absorbed and so this signal is a certain frequency. We said before this is a lower frequency. This is a lower frequency
+signal right here, so this is a lower frequency signal, and in an earlier video,
+we talked about how to compare frequency to chemical shift. So a low frequency gives
+a low chemical shift. So one is a low chemical shift, here. And so the protons in methane are shielded compared to the protons in chloromethane. So let's look at
+chloromethane next, down here. So for chloromethane, we have
+three equivalent protons, so one signal on our NMR spectrum and this signal occurs just past three, so approximately three
+point one parts per million. And let's see if we can
+understand why this occurs. So, we now have an
+electronegative atom, right? Chlorine is much more
+electronegative than carbon so chlorine is going to
+withdraw some electron density, and so the chlorine
+gets partially negative. We give the carbon a
+partial positive, here. So the chlorine's withdrawing electron density from these protons. So, these protons are deshielded from the applied magnetic field. All right, so here we
+have deshielded protons. So deshielding protons, right? If the protons are
+deshielded from the applied magnetic field, that means those protons experience a greater
+effective magnetic field. Let me go ahead and draw this in. I'm just going to exaggerate
+to get the point across. So, a greater effective
+magnetic field for a proton means a greater difference
+in energy between your alpha and your beta spin states. So, the alpha and beta spin states here. Now, since we have a
+deshielded proton, right? We have a greater difference in energy between our spin states
+and energy corresponds to frequency, so a greater
+effective magnetic field means a greater energy difference which means a larger frequency, right? So a higher frequency absorbed. And so this, right, this
+would be a higher frequency compared to the previous example. So everything is relative here. So a higher frequency signal compared to the protons in methane. And therefore, we get a higher
+value for the chemical shift. So let's just sum this up really quickly. So, a shielded protons,
+right, are gonna give you a lower frequency signal and therefore a lower value for the chemical shift. A deshielded proton is going to give you a higher frequency signal
+and a higher chemical shift. All right, so once again, just
+comparing these two things, that's what electronegativity does, right? So the more, here we have
+an electronegative atom that's deshielding the protons, giving a higher chemical shift. So that's the idea and let's apply this to a chart that has a bunch of different functional groups, here. And let's think about the
+different chemical shifts for protons in different environments. All right, so we just said that if you deshield a proton, right,
+you're gonna get a higher frequency signal and therefore a higher chemical shift, and this
+is called downfield. So the left side of this
+NMR spectrum, right, these are more deshielded protons. To the right side of the NMR spectrum, we're talking about more shielded protons. Therefore, a lower frequency signal, therefore a lower chemical shift and you could use the older term, upfield, if you wanted to as well. so we just talked about
+methane, all right, so we're talking about an
+alkane type environment, here. So the proton on a carbon in
+an alkane type environment, the chemical shift, this is
+a shielded proton, right? So we would expect a low frequency signal or a low chemical shift, so somewhere in the range of point five to two is where we would expect
+the signal for a proton in an alkane type environment,
+so somewhere in that range. All right, so those are more shielded. Next, we talked about
+chloromethane, right? And chloromethane we had
+an electronegative atom on a carbon that was bonded to our proton. So that's this situation. Let me use that, I'm
+gonna use yellow for this. So here we have y is an
+electronegative atom, so you could think about something like chlorine or fluorine, so
+a halogen, or you could think about oxygen, also
+electronegative, right? So if y is an electronegative
+atom, y withdraws electron density from this
+carbon and that deshields this proton that's
+directly on that carbon. So deshielding the
+proton gives you a higher chemical shift, and so
+you'd expect this shift to be approximately two point
+five to four point five. So if you see a signal
+in the two point five to four point five range,
+right, it could be a proton that's on a carbon that's directly bonded to an electronegative atom,
+like a halogen or like oxygen. All right, so in between
+those two examples. So the signal for this proton right here, this proton would show
+up approximately two to two point five and so
+this proton is directly bonded to a carbon, but
+this carbon is not directly bonded to an electronegative atom. But it is bonded to this carbon,
+which is a carbonyl, here. So this oxygen, right,
+is more electronegative. This oxygen withdraws
+some electron density, but not quite as much as in this example with this electronegative
+atom directly on this carbon and so the signal, the chemical
+shift is in between here. So a proton that's on a carbon
+that's next to a carbonyl look for that approximately
+two to two point five. Again, all of these are just
+approximate ranges here. So I try to give nice,
+easy numbers to remember. Next, let's look at the
+proton on an alcohol. So, right here. Well, alcohols have hydrogen bonding and hydrogen bonding has
+a deshielding effect. So increased hydrogen bonding,
+increased deshielding. The problem is, the
+amount of hydrogen bonding depends on things like
+concentration and temperature and since those things can vary, right, you get different amounts
+of hydrogen bonding. You get different amounts of deshielding. You get a different range, you know, a pretty broad range here
+for your possible signals. So, approximately two
+to five for the signal on an alcohol, but it might
+not even be in that range, so just think about two
+to five for the proton on an alcohol as an approximate region. Next, let's look at the
+proton on a double bond, here. So, proton, right, bonded to a carbon. Proton on a double bond,
+the shift is approximately four point five to six point five. So let's see if we can understand why. One way to think about it
+is using electronegativity and so if we think about this carbon here, this carbon is s p two hybridized and if we compare that
+carbon to this carbon, this carbon is s p three hybridized. Remember from hybridization videos that an s p two hybrid orbital has more s character than an s p
+three hybridized orbital. Therefore, the electrons are
+held closer to the nucleus. So you can say that an s
+p two hybridized carbon is more electronegative than
+an s p three hybridized carbon. So if you wanna think about it that way, that's one way to think about it. And so, this s p two hybridized carbon is withdrawing more electron
+density from this proton. Let me use a different color, here. So this s p two hybridized
+carbon is withdrawing more electron density,
+deshielding this proton and giving you a higher chemical shift than for a proton bonded to an
+s p three hybridized carbon. So that's one way to explain this, but it doesn't, that line
+of reasoning isn't exactly, doesn't hold up completely because if we next look at a proton
+on a triple bond, here. So if I draw a triple bond
+and this proton right here. So, you might think,
+okay, well, this carbon is s p hybridized and I know
+that s p hybridized carbon, an s p hybridized orbital
+has even more s character than an s p two hybridized orbital, so therefore, you can think
+about an s p hybridized carbon being more
+electronegative and these electrons are closer to this carbon. And so you might think,
+oh, that's going to deshield, right, that's going to deshield this proton and we would expect a signal that's an even higher chemical
+shift than for this proton. And that's not what we observe. So, the proton on a triple bond actually this shows up somewhere in this range, so somewhere around two to
+two point five approximately. And so it's not just electronegativity that you have to think about. So there's another effect that's causing the chemical shift for this proton that we'll talk about in the next video. And it's the same thing, it's actually the same thing for the
+proton on a benzene ring. So, we'll save that
+discussion for the next video. So we'll talk about this and we'll talk about this in the next video. If we move on to an aldehyde,
+right, so for an aldehyde we have this carbonyl here, the oxygen's withdrawing electron density, right, away from the proton on the aldehyde and so it's deshielding
+that proton, right, therefore, we'd expect
+the signal for that proton to occur at a higher chemical shift. So, somewhere around nine to ten is where we'd expect the shift for this proton. Finally, let's look at a carboxylic acid. So, the signal for this proton,
+approximately ten to 12. So once again, we have this carbonyl here withdrawing electron density. We have another oxygen here withdrawing some electron density,
+so you could think about electronegativity effects, you could also think about resonance effects and you could also think about, there's some hydrogen bonding effects. So there's all kinds
+of things going on here with the carboxylic acid and pretty much, if you're just looking
+in the ten to 12 region and you see a signal, think the
+proton on a carboxylic acid.

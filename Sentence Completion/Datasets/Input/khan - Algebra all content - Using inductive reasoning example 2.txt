@@ -1,0 +1,87 @@
+We're asked how many toothpicks
+will be needed to form the 50th figure
+in this sequence? And they've drawn the first four
+figures in the sequence. This is the first, the
+second, the third. Now, let's see what's
+happening here. So in this first figure, we have
+this nice little house that they've made out of
+toothpicks, and it has one, two, three, four, five,
+six toothpicks. So the first figure in our
+sequence has six toothpicks. Now, what happens in the
+second figure here? Well, it looks just like
+our first figure. We have our one, two, three,
+four, five, six toothpicks, but then they add
+some toothpicks. It looks like they added one,
+two, three, four, five, toothpicks. So it's 6 plus 5 or
+11 toothpicks. So let me write this down. It is the 6 toothpicks plus 5
+more, which is equal to 11 toothpicks. And then when we go to the third
+figure, it looks just like the second figure, so it
+has the 11 toothpicks, so the 11 toothpicks are one, two,
+three, four, five, six, seven, eight, nine, ten, eleven, just
+like the second figure. And then they add some more. They add one, two, three,
+four, five. So it looks like every time,
+when you draw part of a another house, because it can
+share a wall with the previous house or share a toothpick
+with the previous set of houses, you add five
+toothpicks. So for the third term in our
+sequence, we had 11 and when we had our second term,
+or our two houses, and then we add five more. So to our 50th term, so 11
+plus 5 is going to be 16. And then for the fourth term,
+it's going to be 16 plus 5, which is equal to 21. Now, there's a couple of
+ways to think about it. You can think about however
+many more you are than 1. So let's say you are in the
+nth term of the sequence. If you are in the nth term,
+however more you are than 1, so if you're the nth term,
+you're going to be n minus 1 more than 1. If that is confusing, we'll do
+it with real numbers, so it gets a little bit
+more tangible. So the nth term, you are n minus
+1 more or greater than-- I'll just say more-- than 1. For example, if n is 2,
+you are 1 more than 1. If n is 3, you are 3 minus 1,
+which is 2 more than 1. So however much more
+you are than 1, you multiply that by 5. We're 2 more than 1, so we add
+10 to the number of toothpicks we have here. We're 3 more than 1 here, so
+we add 15 to the number of toothpicks we have there. So you could say that for the
+nth term, the number of toothpicks is equal to the
+number you're more than 1, < n minus 1 times 5. That's how much you're going
+to add above and beyond the amount of toothpicks
+in just the first sequence, so times 5. n minus 1 times 5 plus the
+number of toothpicks that you would just have in the
+first sequence or just this one house. And we already counted
+that: plus 6. So that's one way to
+think about it. And if this looks complicated,
+you just say, well, look, if I put a 4 here, I'm 3 more than
+1, so 4 minus 1 is 3, so that'll be 3 times
+5, which is 15. And then you add the number
+of toothpicks in 1 and then you get 6. Now another way, and many of you
+all might find this easier to think about, is even in 1,
+you could imagine a term here-- let me do it this way. You can imagine a term here
+that they didn't draw. You can imagine a 0th term. Let me just draw it here. Imagine a 0th term, and the 0th
+term would just be kind of a left wall of the house, or
+in this case, the left toothpick of a house. And then the first one, you're
+adding 5 toothpicks to that. In the second one, you're adding
+5 toothpicks to that. And when you think about it this
+way, it actually becomes a little simpler to think
+in terms of n. Here, you could say, well, the
+nth term-- let me do this in a different color. You could say that the nth term
+is going to have-- or maybe we should say number of
+toothpicks in nth figure is going to be equal to 1. So in the 0th figure, which I
+just made up, you have at least 1 toothpick, and then
+whatever term in the sequence you are, you multiply that times
+5 and you add that to the number of toothpicks in the
+0th figure, so it's 1 plus 5 times n, which is actually a
+simpler way to think about. The first figure is going to
+be that 1 in the 0th figure plus 5: 6 toothpicks. Even in the 0th figure,
+it works out. If you put a 0 here,
+0 plus 1 is 1. If you put the fourth figure
+here, 5 times 4 is 20 plus 1 is 21. Now let's answer
+their question. We need to figure out the
+toothpicks in the 50th figure in the sequence. Well, we just put
+50 for n here. So for the 50th figure, we
+could use either formula. We have 1 plus 5 times 50. 5 times 50 is 250 plus
+1 is equal to 251. And now I said you could use
+either formula because they should reduce to each other, if
+we did our math right or if we deduced properly. So this one up here, let's just
+verify this is the same thing as this over here. If we multiply 5 times n minus
+1, we get 5n minus 5, right? We just distributed the 5. And then we have that plus 6. Negative 5 plus 6 is plus 1. So it's 5n plus 1
+or 1 plus 5n. Either way, your 50th figure
+is going to have 251.

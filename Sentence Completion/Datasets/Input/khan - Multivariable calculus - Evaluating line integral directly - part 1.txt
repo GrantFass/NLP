@@ -1,0 +1,123 @@
+In the last few videos, we
+evaluated this line integral for this path right over here
+by using Stokes' theorem, by essentially saying that
+it's equivalent to a surface integral of the curl
+of the vector field dotted with the surface. What I want to do
+in this video is to show that we didn't have
+to use Stokes' theorem, that we could have just
+evaluated this line integral. And the thing to
+keep in mind is, in this case, it's
+kind of a toss up which one is
+actually simpler to do. But Stokes' theorem is
+valuable because sometimes, if you're faced with
+the line integral, it's simpler to
+use Stokes' theorem and evaluate the
+surface integral. Or sometimes, if you're faced
+with the surface integral, it's simpler to
+use Stokes' theorem and evaluate the line integral. So let's try to figure
+out this line integral. And hopefully, we're going
+to get the same answer if we do everything correctly. So the first thing we want to
+do is find a parametrization for our path right over here,
+this intersection of the plane y plus z is equal to 2. And essentially, you can
+imagine this hollow pipe that intersects the xy-axis
+at the unit circle that goes up and down forever. And we get this path right over
+here with this orientation. And since we're only
+parameterizing a path, it's only going to deal
+with one parameter. And so let's think
+about it a little bit. We've done this
+many times before, but it doesn't hurt to go
+through the exercise again. So that is our y-axis. This is our x-axis. That is our x-axis. And the x and y values
+are going to take on every value on
+the unit circle. And then the z value
+is going to tell us how far above the
+unit circle we needed to be to actually
+be on this path. So x and y are going to take
+on all the values on the unit circle. And we've done that
+many times before. The easiest way to think
+about that is let's introduce a parameter called
+theta that essentially measures the angle with the
+positive x-axis. And theta, we're just going
+to sweep it all around, all the way around
+the unit circle. So theta is going to
+go between 0 and 2 pi. So 0 is less than theta, which
+is less than or equal to 2 pi. And in that situation,
+x is just going to be-- this is just the unit
+circle definition of trig functions-- it's just going to
+be equal to cosine of theta. y is going to be sine of theta. And then z, how
+high we have to go, we can use this constraint
+to help us figure it out. y plus z is equal
+to 2, or we could say that z is
+equal to 2 minus y. And if y is sine
+theta, then z is going to be equal to
+2 minus sine theta. And so we're done. That's our parametrization. If we wanted to write it as
+a position vector function, we could write r, which is
+going to be a function of theta, is equal to cosine of
+theta i plus sine of theta j plus 2 minus sine of theta k. And now we're ready
+to at least attempt to evaluate this line integral. We need to figure
+out what F dot dr is. And to do that, we need
+to figure out what dr is. And we just have to
+remind ourselves, dr is the same thing as
+dr/d theta times d theta. So if you take the derivative
+of this with respect to theta, derivative of cosine theta
+is negative sine theta i. Derivative of sine
+theta is cosine theta plus cosine theta j. And the derivative
+of 2 minus sine theta is going to be negative
+cosine theta k. And then all of that
+times-- we still have this d theta
+to worry about. This is dr/d theta. Let me write this down. So then we still have to write
+our d theta just like that. And now we're ready to take
+the dot product of F with dr. So let's think about
+this a little bit. I'll write dr in this color. F dot dr is going to be
+equal to-- so we look first at our i components. We have negative y squared
+times negative sine of theta. That's going to be--
+well, the negatives are going to cancel out. So you're going to get-- So you're going to get y
+squared times sine theta, that's from the i component,
+plus-- now we're going to have x
+times cosine theta And then we're going
+to have plus z squared times negative cosine theta. So that's going to be negative
+z squared times cosine theta. And then all of
+that times d theta. All of that business
+times d theta. And if we're actually going
+to evaluate the integral, if we're going to
+evaluate it over that path that we care about, now we
+have it in our theta domain. So we could just say this is
+a simple integral from theta going from 0 to 2 pi. Actually, we're not fully in
+our theta domain just yet. We still have it expressed
+in terms of y, x's, and z. So we have to express
+those in terms of theta. So let's do that. So that's going to be equal to
+the integral from 0 to 2 pi. And actually, let me give
+myself some more space because I have a feeling
+this might take up a lot of horizontal real estate. This is going to be the
+integral from 0 to 2 pi. y squared, well, y
+is just sine theta. So it's going to be sine squared
+theta times another sine theta. So this is going to
+be sine cubed theta. Let me write it in a new color. I'll write it in blue. So this is sine squared theta
+times another sine theta, so this is going to
+be sine cubed theta. Let me color code it. So that's sine cubed theta. Put some parentheses here. And then x is cosine theta
+times a cosine theta. So this is going to be
+plus cosine squared theta. And then z squared,
+this is actually going to get a
+little bit involved. So let's think about
+it, what z squared is. I'll do it up here. z squared is just going
+to be 4 minus 4 sine theta plus sine squared theta. There's going to be negative
+z squared times cosine theta. So negative z squared is going
+to be equal to negative 4 plus 4 sine theta minus
+sine squared theta. So that's negative
+z squared, and we're going to multiply that
+times cosine theta. And I'll do it in orange. So all of this business
+right over here is going to be equal to cosine
+theta times all of this, cosine theta times all
+of this right over here. So it's going to be negative
+4 cosine theta plus 4 cosine theta sine theta and
+then minus cosine theta sine squared theta. And looks like we're done, at
+least for this step, d theta. And so now we just have
+to evaluate this integral. So we saw actually setting up
+our final integral, getting to a simple one-dimensional
+definite integral, is actually much
+simpler in this case. But the actual integral
+we have to evaluate is a little bit
+more complicated. We might have to break out a
+few of our trig identity tools in order to solve it
+properly, but we can solve it. But I'll leave you there. In the next video,
+we'll just work on actually evaluating
+this integral.

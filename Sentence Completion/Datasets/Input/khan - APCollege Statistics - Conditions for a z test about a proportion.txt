@@ -1,0 +1,64 @@
+- [Instructor] Jules works on
+a small team of 40 employees. Each employee receives an annual rating, the best of which is exceeds expectations. Management claimed that 10%
+of employees earn this rating, but Jules suspected it
+was actually less common. She obtained an anonymous
+random sample of 10 ratings for employees on her team. She wants to use the sample
+data to test her null hypothesis that the true proportion is 10% versus her alternative hypothesis
+that the true proportion is less than 10%, where p is
+the proportion of all employees on her team who earned
+exceeds expectations. Which conditions for
+performing this type of test did Jules' sample meet? And when they're saying which conditions, they are talking about
+the three conditions, the random condition,
+the normal condition, and we've seen these before,
+and the independence condition. So I will let you pause the video now and try to figure this out on your own and then we will review
+each of these conditions and think about whether
+Jules' sample meets the conditions that we need to feel good about some of our significance testing. All right, now let's work
+through this together. So let's just remind ourselves
+what we're going to do in a significance test. We have our null hypothesis. We have our alternative hypothesis. What we do is we look at the population. The population size, there's
+40 employees on staff at this company. We take a sample, in Jules' case she took
+a sample size of 10, and then we calculate a sample statistic, in this case it is a sample proportion which is equal to, let's
+just call it p hat sub one. And then we want to calculate a p-value. And just as a bit of review,
+a p-value is the probability of getting a result at
+least as extreme as this one if we assume our null hypothesis is true. And in this particular
+case, because she suspects that not 10% are getting
+the exceeds expectations, this would be the probability
+of your sample statistic being less than or equal to the
+one that you just calculated for a sample size of n equals 10, given that your null hypothesis is true. And if this p-value is less than your predetermined
+significance level, maybe that's 5% or 10%, but you'd want to decide
+that ahead of time, then you would reject your null hypothesis because this, the probability
+of getting this result, seems pretty low, in which case it would suggest the alternative. But then if the p-value
+is not less than this, then you wouldn't be able to
+reject the null hypothesis. But the key thing, and
+this is what this question is all about, in order to feel
+good about this calculation, we need to make some assumptions about the sampling distribution. We have to assume that
+it's reasonably normal, that it can actually be used
+to calculate this probability, and that's where these
+conditions come into play. The first is the random condition, and that's that the data
+points in this sample were truly randomly selected. So pause this video. Did she meet the random condition? Well, it says she obtained
+an anonymous random sample of 10 ratings of employees on her team. They don't say how she did
+it, but we'll take their word for it that it was an
+anonymous random sample, so she meets the random condition. Now what about the normal condition? The normal condition tells
+us that the expected number of successes, which
+would be our sample size times the true proportion,
+and the number of failures, sample size times one minus p, need to be at least equal to 10. So they need to be greater
+than or equal to 10. Now what are they for
+this particular scenario? Well, n is equal to 10, and our true proportion,
+remember we're going to assume when do the significance test, we assume the null hypothesis is true, and the null hypothesis tells us that our true proportion is 0.1. So this is 0.1, this is
+one minus 0.1 which is 0.9. Well, 10 times 0.1 is one,
+so that's not greater than or equal to 10. So just off of that, we don't
+meet the normal condition. But even the second one,
+10 times 0.9 is nine. That's also not greater
+than or equal to 10, so we don't meet this normal condition. We can't feel good that
+the sampling distribution is roughly normal,
+which we normally assume when we're trying to make
+this type of calculation. And then last but not least, independence. Independence is to feel good
+that each of the data points in your sample are independent. The results of whether they
+are a success or a failure is independent of each other. Now if she was surveying
+these people with replacement, if each data point was with replacement, you would definitely meet
+this independence condition. But she didn't do it with replacement, but there's another way to go about it. You could use your 10% rule. If your sample size is less than 10% of the population size, then it's okay, it's
+considered roughly okay, that you didn't do it with replacement. But her sample size here is
+25%, clearly greater than 10%, and so she does not meet the
+independence condition either. And so if she went and
+tried to calculate this, assuming a indicative
+sampling distribution that is roughly normal,
+I would not feel so good about her results 'cause she didn't meet two of these three conditions.

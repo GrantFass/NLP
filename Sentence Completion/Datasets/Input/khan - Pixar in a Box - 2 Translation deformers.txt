@@ -1,0 +1,32 @@
+(clinking)
+(clicking) - The area I'm posing in
+is our drawing classroom. We call it Big Art because
+it is a really big space. This is where artists
+practice drawing models in different poses. The artists want to draw not
+only the shape of the character but the emotions they are expressing. Typically, the pose is
+only held for a minute, so you have to draw quickly and loosely. We call this style of
+drawing gesture drawing and it's a great way to capture
+the idea behind a drawing without worrying about
+capturing all the little details within the drawing. Speaking of posing, I hope you enjoyed how expressive your lamp could
+be with just a few controls. Now, we're going to add
+action to the emotion and make a lamp jump. Think about what you do when
+you jump from standing still. First, you bend and squash down. Then you jump, stretching out. These are two different poses
+we're gonna need for our lamp: Squash and stretch. So we need to add controls to the lamp so it can move to a new location. We can do this by adding rotation and translation deformers
+to the base of the lamp. One thing we need to be aware
+of when we add deformers, is that some deformers need
+to operate in a certain order. This might be a little hard to
+picture, so let me show you. If we rotate before we translate,
+we get a different effect than if translate and then rotate. Notice that we can arrange
+the order of these deformers by clicking and dragging like this. And the order in which the
+operate flows in this direction. The animators who use this
+are moving to a position, and then posing of rotate, moving to another position
+and posing of rotate again, and so on. So they should be able
+to rotate about the base no matter where they translate it. But if our deformers are
+played in the wrong order, translate then rotate, we
+will run into a problem. The rotation of the lamp will move away from the pose like this. That's because we moved the lamp away from the axis of rotation, which is the initial position of the base. We solve this problem by
+having our deformers upright in the opposite order. First, we rotate about
+the origin of the base and then we move the base. This dependence of ordering
+is called non-communitativty (snare drum) Well, you can learn more about this in the set and staging lesson. (dinging)
+(giggling) In this next exercise, our goal is to move our lamp into place and then pose and move rotations. So you will need to pay
+attention to the ordering of your translation and
+rotational deformers. Have fun! (laughs)

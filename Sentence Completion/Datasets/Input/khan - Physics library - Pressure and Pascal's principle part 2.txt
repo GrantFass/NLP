@@ -1,0 +1,131 @@
+Welcome back. To just review what I was doing
+on the last video before I ran out of time, I said that
+conservation of energy tells us that the work I've put into
+the system or the energy that I've put into the system--
+because they're really the same thing-- is equal to the
+work that I get out of the system, or the energy that
+I get out of the system. That means that the input work
+is equal to the output work, or that the input force times
+the input distance is equal to the output force times the
+output distance-- that's just the definition of work. Let me just rewrite this
+equation here. If I could just rewrite this
+exact equation, I could say-- the input force, and let me just
+divide it by this area. The input here-- I'm pressing
+down this piston that's pressing down on this
+area of water. So this input force-- times
+the input area. Let's call the input 1, and
+call the output 2 for simplicity. Let's say I have a piston
+on the top here. Let me do this in a good color--
+brown is good color. I have another piston here, and
+there's going to be some outward force F2. The general notion is that I'm
+pushing on this water, the water can't be compressed, so
+the water's going to push up on this end. The input force times the input
+distance is going to be equal to the output force times
+the output distance right-- this is just the law of
+conservation of energy and everything we did with
+work, et cetera. I'm rewriting this equation, so
+if I take the input force and divide by the input area--
+let me switch back to green-- then I multiply by the
+area, and then I just multiply times D1. You see what I did here-- I just
+multiplied and divided by A1, which you can do. You can multiply and divide by
+any number, and these two cancel out. It's equal to the same thing
+on the other side, which is F2-- I'm not good at managing
+my space on my whiteboard-- over A2 times A2 times D2. Hopefully that makes sense. What's this quantity right here,
+this F1 divided by A1? Force divided by area, if you
+haven't been familiar with it already, and if you're just
+watching my videos there's no reason for you to be, is
+defined as pressure. Pressure is force in a given
+area, so this is pressure-- we'll call this the
+pressure that I'm inputting into the system. What's area 1 times
+distance 1? That's the area of the tube
+at this point, the cross-sectional area,
+times this distance. That's equal to this volume
+that I calculated in the previous video-- we could
+say that's the input volume, or V1. Pressure times V1 is equal to
+the output pressure-- force 2 divided by area 2 is the output
+pressure that the water is exerting on this piston. So that's the output
+pressure, P2. And what's area 2 times D2? The cross sectional area, times
+the height at which how much the water's being displaced
+upward, that is equal to volume 2. But what do we know about
+these two volumes? I went over it probably
+redundantly in the previous video-- those two volumes are
+equal, V1 is equal to V2, so we could just divide both
+sides by that equation. You get the pressure input is
+equal to the pressure output, so P1 is equal to P2. I did all of that just to show
+you that this isn't a new concept: this is just the
+conservation of energy. The only new thing I did is I
+divided-- we have this notion of the cross-sectional area,
+and we have this notion of pressure-- so where
+does that help us? This actually tells us-- and
+you can do this example in multiple situations, but I like
+to think of if we didn't have gravity first, because
+gravity tends to confuse things, but we'll introduce
+gravity in a video or two-- is that when you have any external
+pressure onto a liquid, onto an incompressible
+fluid, that pressure is distributed evenly throughout
+the fluid. That's what we essentially just
+proved just using the law of conservation of energy, and
+everything we know about work. What I just said is called
+Pascal's principle: if any external pressure is applied to
+a fluid, that pressure is distributed throughout
+the fluid equally. Another way to think about it--
+we proved it with this little drawing here-- is, let's
+say that I have a tube, and at the end of the
+tube is a balloon. Let's say I'm doing this
+on the Space Shuttle. It's saying that if I increase--
+say I have some piston here. This is stable, and
+I have water throughout this whole thing. Let me see if I can use that
+field function again-- oh no, there must have been a
+hole in my drawing. Let me just draw the water. I have water throughout this
+whole thing, and all Pascal's principle is telling us that
+if I were to apply some pressure here, that that net
+pressure, that extra pressure I'm applying, is going to
+compress this little bit. That extra compression is
+going to be distributed through the whole balloon. Let's say that this right here
+is rigid-- it's some kind of middle structure. The rest of the balloon is going
+to expand uniformly, so that increased pressure I'm
+doing is going through the whole thing. It's not like the balloon will
+get longer, or that the pressure is just translated
+down here, or that just up here the balloon's going to get
+wider and it's just going to stay the same length there. Hopefully, that gives you a
+little bit of intuition. Going back to what I had drawn
+before, that's actually interesting, because that's
+actually another simple or maybe not so simple machine
+that we've constructed. I almost defined it as a
+simple machine when I initially drew it. Let's draw that weird thing
+again, where it looks like this, where I have
+water in it. Let's make sure I fill it, so
+that when I do the fill, it will completely fill, and
+doesn't fill other things. This is cool, because this is
+now another simple machine. We know that the pressure in is
+equal to the pressure out. And pressure is force divided
+by area, so the force in, divided by the area in, is equal
+to the force out divided by the area out. Let me give you an example:
+let's say that I were to apply with a pressure in equal
+to 10 pascals. That's a new word, and it's
+named after Pascal's principle, for Blaise Pascal. What is a pascal? That is just equal to 10 newtons
+per meter squared. That's all a pascal is-- it's
+a newton per meter squared, it's a very natural unit. Let's say my pressure in is 10
+pascals, and let's say that my input area is 2 square meters. If I looked the surface of the
+water there it would be 2 square meters, and let's say
+that my output area is equal to 4 meters squared. What I'm saying is that I can
+push on a piston here, and that the water's going to push
+up with some piston here. First of all, I told you what my
+input pressure is-- what's my input force? Input pressure is equal to input
+force divided by input area, so 10 pascals is equal to
+my input force divided by my area, so I multiply
+both sides by 2. I get input force is equal
+to 20 newtons. My question to you is what
+is the output force? How much force is the
+system going to push upwards at this end? We know that must if my input
+pressure was 10 pascals, my output pressure would
+also be 10 pascals. So I also have 10 pascals is
+equal to my out force over my out cross-sectional area. So I'll have a piston here,
+and it goes up like that. That's 4 meters, so I do 4
+times 10, and so I get 40 newtons is equal to
+my output force. So what just happened here? I inputted-- so my input force
+is equal to 20 newtons, and my output force is equal to 40
+newtons, so I just doubled my force, or essentially I had a
+mechanical advantage of 2. This is an example of a
+simple machine, and it's a hydraulic machine. Anyway, I've just
+run out of time. I'll see you in the next video.

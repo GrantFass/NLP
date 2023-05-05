@@ -1,0 +1,58 @@
+- [Voiceover] Okay, now
+we're going to work on our first Op-amp circuit. Here's what the circuit's
+going to look like. Watch where it puts the plus
+sign is on the top on this one. And we're going to have a
+voltage source over here. This will be plus or minus V in, that's our input signal. And over on the output, we'll have V out, and it's hooked up this way. The resistor, another resistor, to ground, and this goes back to the inverting input. Now we're going to look at this circuit and see what it does. Now we know that connected up here the power supply's hooked up to these points here, and the ground symbol is zero volts. And we want to analyze this circuit. And what do we know about this? We know that V out equals some gain, I'll write the gain right there. A big, big number times V minus, sorry V plus minus V minus, and let's label that. V plus is this point right here, and V minus is this point right here. And we also know that the currents, let's call them i plus and i minus, equals zero, and that's
+the currents going in here. This is i minus here, and that's i plus, and we know those are both zero. So now what I want to do it describe what's going on inside this
+triangle symbol in more detail by building a circuit model. Alright, and a circuit
+model for an amplifier looks like this. We have V minus here, V plus here, so this is V in, and over on this side we have an, here's a new symbol that
+you haven't seen before. It's usually drawn as a diamond shape, and this is a voltage source, but it's a special kind of voltage source. It's called a voltage-dependent voltage source. And it's the same as a
+regular ideal voltage source except for one thing, it says that the V, in this case V out, equals gain times V plus minus V minus. So the voltage here depends
+on the voltage somewhere else, and that's what makes
+it a voltage-dependent, that's what that means. So, we've just taken our
+gain expression here, added, drawn circuit
+diagram that represents our voltage expression for our circuit. Now, specifically over here we've drawn an open circuit on V plus, and V minus so we know that
+those currents are zero. So this model, this circuit sketch represents our two
+properties of our Op-amp. So I'm going to take a second here and I'm going to draw
+the rest of our circuit surrounding this model, but I need a little bit more space. So let's put in the rest
+of our circuit here. We had our voltage source, connected to V plus, and that's V in, and over here we had V out. Let's check, V out was
+connected to two resistors, and the bottom is connected to ground, and this was connected there. So what our goal is right now, we want to find V out
+as a function of V in. That's what we're shooting for. So let's see if we can do that. Let's give our resistors some names. Let's call this R1, and R2, our favorite names always, and now everything is labeled. Now and we can label this point here, and this point we can call V minus, V minus. So that's our two unknowns. Our unknowns are V not, V out, and V minus, so let's
+see if we can find them. So what I'm going to do is just start writing some expressions for
+things that I know are true. For example, I know that V out equals A times V plus minus V minus. Alright, that's what this
+Op-amp is telling us is true. Now what else do I know? Let's look at this resistor chain here. This resistor chain actually looks a lot like a voltage divider, and it's actually a very
+good voltage divider. Remember we said this current here, what is this current here? It's zero. I can use the voltage divider
+expression that I know. In that case, I know that V minus, this is the voltage divider equation, equals V out times what? Times the bottom resistor remember this? R2 over R1 plus R2, so the voltage divider
+expression says that when you have a stack
+of resistors like this, with the voltage on the top
+and ground on the bottom, this is the expression for
+the voltage at the midpoint. Kay, so what I'm going to do next is I'm going to take this expression and stuff it right in there. Let's do that. See if we got enough room, okay now let's go over here. Now I can say that V out equals A times V plus minus V out times R2 over R1 plus R2, alright so far so good. Let's keep going, let's
+keep working on this. V not equals A times V plus minus A V not, R2 over R1 plus R2. Alright, so now I'm going
+to gather all the V not terms over on the left hand side. Let's try that. So that gives me, V not plus A V not, times R2 over R1 plus R2 and that equals A times V plus, and actually I can change that now V plus is what? V plus is V in. Okay let's keep going I
+can factor out the V not. V not is one plus A R2 over R1 plus R2 and that equals AV in. Alright so we're getting close, and our original goal, we want to find V out in terms of V in. So I'm going to take this
+whole expression here and divide it over to the other side, so then I have just V not on this side, and V in on the other side. Make some more room. I can do that, I can say V not equals A V in divided by this big old expression, one plus A R2 over R1 plus R2. Alright so that's our answer. That's the answer. That's V out equals some function of V in. Now I want to make a really
+important observation here. This is going to be a
+real cool simplification. Okay, so this is the point where Op-amp theory gets really cool. Watch what happens here. We know that A is a giant number. A is something like 10 to the fifth, or 10 to the sixth, and it's whatever we have here, if our resistors are sort
+of normal-sized resistors we know that a giant number
+times a normal number is still going to be a very
+big number compared to one. So this one is almost
+insignificant in this expression down here, so what I'm going to do, bear with me, I'm going to cross it out. I'm going to say no, I
+don't need that anymore. So if this, if this number
+here, if A is a million, 10 to the sixth, and this expression here
+is something like one half then this total thing is
+one half 10 to the sixth or a half a million, and that's huge compared to one. So I can pretty safely ignore the one, it's very, very small. Now when I do that, well look what happens next, now I have A top and
+bottom in the expression, and I can cancel that too. So the A goes away, now this is pretty astonishing. We have this amplifier circuit and all of a sudden I
+have an expression here where A doesn't appear, the gain does not appear, and what does this turn into? This is called V not equals V in, times what? Times R1 plus R2, divided by R2. So our amplifier, our
+feedback circuit came down to V out is V in multiplied by
+the ratio of the resistors that we added to the circuit. This is one of the really cool
+properties of using Op-amps in circuits, really high-gain amplifiers. What we've done is we have chosen the gain of our circuit based on the components that we picked to add to the amplifier. It's not determined by
+the gain of the amplifier as long as the amplifier
+gain is really, really big. And for Op-amps, that's a good assumption, it is really big. So this expression came out
+with a positive sign, right? All the R's are positive values, so this is referred to as a non-inverting Op-amp circuit amplifier. So just to do a quick example, if R1 and R2 are the same, then we end up with an
+expression that looks like this V out equals R1 plus R2, R
+plus R over R is equal to two so the gain is two times V in. So just to do a quick sketch just to remind ourselves
+what this looks like, this was V in, and we had what out here? We had a resistor, we had a resistor to the ground, and this is V out. So this is the configuration
+of a non-inverting amplifier built with an Op-amp, the two resistors in this
+voltage divider string connected to the negative input. So that's what non-inverting
+Op-amp circuit looks like, and it's going to be one of the familiar patterns that you see over and over again as you read schematics and
+you design your own circuits.

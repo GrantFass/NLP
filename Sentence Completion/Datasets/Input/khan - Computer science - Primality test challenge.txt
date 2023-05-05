@@ -1,0 +1,8 @@
+Voiceover: We begin with
+a very simple question. Or not a question, a challenge. We need to build a machine
+which takes an input and that input is some integer X, and all that machine needs to do is output true or false. That is the first step. Now we will use the computer science tool to actually build this machine together. One of the questions
+that we will be asking is two things, two
+aspects to this machine. How much time that a clock, how much time does it
+take to give the solution and how much space does it need? When I say space, I mean, for in the case of this
+mechanical calculator physical space, how many rooms do we need to hold our machine? Or if we're using a computer, how much memory does it need? We will be returning to
+this two ideas as we go.

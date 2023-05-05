@@ -1,0 +1,65 @@
+- [Voiceover] What I have
+attempted to draw here in yellow is a parabola, and as we've already
+seen in previous videos, a parabola can be defined
+as the set of all points that are equidistant
+to a point and a line, and the point is called
+the focus of the parabola, and the line is called the
+directrix of the parabola. What I want to do in this video, it's gonna get a little
+bit of hairy algebra, but given that definition, I want to see, and given that definition,
+and given a focus at the point x equals a, y equals b, and a line, a directrix, at y equals k, to figure out what is the equation of that parabola actually going to be, and it's going to be based
+on a's, b's, and k's, so let's do that. So let's take a arbitrary
+point on the parabola. Let's say we take this
+point right over here, and its x-coordinate is x,
+and its y-coordinate is y, and by definition, in order
+for this to be a parabola, it has to be equidistant to
+its focus and its directrix, so what does that mean? That means that the
+distance to the directrix, which I'm drawing here in blue, has to be the same as the
+distance to the focus, which I am drawing in magenta, and when we take the
+distance to the directrix, we literally just drop a perpendicular, I guess you could say say, that is, that's going to be the shortest distance to that line, but the distance to the focus, well we see that's at a bit of an angle, and we might have to use
+the distance formula, which is really just
+the Pythagorean Theorem. So let's do that. This distance has to be
+the same as that distance. So, what's this blue distance? Well, that's just gonna
+be our change in y. It's going to be this y, minus k. It's just this distance. So it's going to be y minus k. Now we have to be careful. The way I've just drawn it, yes, y is greater than k, so this is going to give
+us a positive value, and you need a non-negative value if you're talking about distances, but you can definitely
+have a parabola where the y-coordinate of the focus is lower than the y-coordinate
+of the directrix, in which case this would be negative. So what we really want is
+the absolute value of this, or, we could square it, and then we could take the square root, the principle root,
+which would be equivalent to taking the absolute value of y minus k. So that's this distance right over here, and by the definition of a parabola, in order for (x,y) to be
+sitting on the parabola, that distance needs to be
+the same as the distance from (x,y) to (a,b), to the focus. So what's that going to be? Well, we just apply the distance formula, or really, just the Pythagorean Theorem. It's gonna be our change in x, so, x minus a, squared, plus the change in y, y minus b, squared, and the square root of that whole thing, the square root of all of that business. Now, this right over here is
+an equation of a parabola. It doesn't look like it,
+it looks really hairy, but it IS the equation of a parabola, and to show you that, we
+just have to simplify this, and if you get inspired, I encourage you to try to
+simplify this on your own, it's just gonna be a little
+bit of hairy algebra, but it really is not too bad. You're gonna get an
+equation for a parabola that you might recognize, and it's gonna be in terms
+of a general focus, (a,b), and a gerneral directrix, y equals k, so let's do that. So the simplest thing to start here, is let's just square both sides, so we get rid of the radicals. So if you square both sides,
+on the left-hand side, you're gonna get y minus k, squared is equal to x minus a, squared, plus y minus b, squared. Fair enough? Now what I want to do
+is, I just want to end up with just a y on the left-hand side, and just x's, ab's, and
+k's on the right-hand side, so the first thing I might want to do, is let's expand each of these expressions that involve with y, so this blue one on the left-hand side, that is going to be y squared minus 2yk, plus k squared, and that is going to be equal to, I'm gonna keep this first one the same, so it's gonna be x minus a, squared, and now let me expand, I'm gonna find a color, expand this in green, so plus y squared, minus
+2yb, plus b squared. All I did, is I multiplied
+y minus b, times y minus b. Now let's see if we can simplify things. So, I have a y squared on the left, I have a y squared on the right, well, if I subtract y
+squared from both sides, so I can do that. Well, that simplified things a little bit, and now I can, let's see what I can do. Well let's get the k squared on this side, so let's subtract k
+squared from both sides, so, subtract k squared from both sides, so that's gonna get rid of
+it on the left-hand side, and now let's add 2yb to both sides, so we have all the y's
+on the left-hand side, so, plus 2yb, that's gonna give us a
+2yb on the left-hand side, plus 2yb. So what is this going to be equal to? And I'm starting to run into my graph, so let me give myself a little bit more real estate over here. So on the left-hand side, what am I going to have? This is the same thing as 2yb minus 2yk, which is the same thing, actually let me just write that down. That's going to be 2y-- Do it in green, actually,
+well, yeah, why not green? That's going to be-- Actually, let me start
+a new color. (chuckles) That's going to be 2yb minus 2yk. You can factor out a 2y, and it's gonna be 2y times, b minus k. So let's do that. So we could write this as 2 times, b minus k, y if you factor out a 2 and a y, so that's the left-hand side, so that's that piece right over there. These things cancel out. Now, on our right-hand side, I promised you a little
+bit of hairy algebra, so hopefully you see that I'm
+delivering on that promise. On the right-hand side, you have x minus a, squared, and then, let's see, these
+characters cancel out, and you're left with b
+squared minus k squared, so these two are gonna be
+b squared minus k squared, plus b squared minus k squared. Now, I said all I want is
+a y on the left-hand side, so let's divide everything
+by two times, b minus k. So, let's divide everything, two times, b minus k, so, two times, b minus k. And I'm actually gonna
+divide this whole thing by two times, b minus k. Now, obviously on the left-hand side, this all cancels out,
+you're left with just a y, and then it's going to be y equals, y is equal to one over, two times, b minus k, and notice, b minus k is the difference between the y-coordinate of the focus, and the y-coordinate,
+I guess you could say, of the line, y equals k, so it's one over, two times that, times x minus a, squared. So if you knew what b minus k was, this would just simplify to some number, some number that's being multiplied times x minus a, squared, so hopefully this is starting
+to look like the parabolas that you remember from
+your childhood, (chuckles) if you do remember parabolas
+from your childhood. Alright, so then let's see if we could simplify this thing on the right, and you might recognize,
+b squared minus k squared, that's a difference of squares, that's the same thing as b plus k, times b minus k, so the b minus k's cancel out, and we are just left with, and we deserve a little
+bit of a drum roll, we are just left with 1/2 times, b plus k. So, there you go. Given a focus at a point (a,b), and a directrix at y equals k, we now know what the
+formula of the parabola is actually going to be. So, for example, if I had a focus at the point, I don't know, let's say the point (1,2), and I had a directrix at y is equal to, I don't know, let's make it y is equal to -1, what would the equation
+of this parabola be? Well, it would be y is equal to one over, two times, b minus k, so two minus -1, that's the same thing as two plus one, so that's just three, two minus -1 is three, times x minus one, squared, plus 1/2 times, b plus k. Two plus -1 is one, so one, and so what is this going to be? You're gonna get y is equal to 1/6, x minus one, squared, plus 1/2. There you go. That is the parabola with a focus at (1,2) and a directrix at y equals -1. Fascinating.

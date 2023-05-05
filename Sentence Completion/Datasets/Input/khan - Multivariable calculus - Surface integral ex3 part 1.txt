@@ -1,0 +1,147 @@
+Let's try another
+surface integral. And the surface that
+we're going to care about, s, is this shape, the outside
+of this shape right over here. And you can see we can
+kind of decompose it into three separate surfaces. The first surface is its
+base, which is really the filled-in unit
+circle down here. The second surface,
+which we have in blue, is you can kind of view
+it as the side of it. You can view it as kind of
+like the side of a cylinder, but the cylinder has been
+cut by a plane up here. And the plane that cuts
+it is the plane z is equal to 1 minus x. And obviously, the plane itself
+goes well beyond this shape. But where that plane
+cuts the cylinder kind of defines this shape. So the blue surface is above
+the boundary of the unit circle and below the plane. And then the third
+surface is the subset of the plane, of that
+purple plane, of z equals 1 minus x, that
+overlaps, that kind of forms the top of this cylinder. And so we can rewrite
+this surface integral as the sum of three
+surface integrals. It's the surface
+integral of z over s1 plus the surface
+integral of z over s2 plus the surface
+integral of z over s3. And we can just tackle each
+of these independently. So let's start with surface 1. And you might immediately want
+to start parameterizing things and all the rest, but there's
+actually a very fast way to handle this surface integral,
+especially because we're taking the surface
+integral of z. What value does z take on
+throughout this surface, throughout this filled-in
+unit circle right over here? Well, that surface
+is on the xy plane. When we're on the xy
+plane, z is equal to 0. So for this entire surface,
+z is going to be equal to 0. You're essentially
+integrating 0. 0 times dS is just
+going to be 0. So this whole thing is
+going to evaluate to 0. So that's about as simple as
+evaluating a surface integral can get. But it's always important
+to least keep a look out for things like that. And it'll keep you from kind
+of going down this wild goose chase-- that wouldn't
+be a wild goose chase. You would eventually
+get the answer anyway. But you don't have
+to waste so much time in parameterizing
+things and all the rest. Now let's tackle the
+other two surfaces, and we'll focus on surface 2. So the x and y-values,
+the valid x and y-values, are the x and y-values along
+the unit circle right over here. So we can really
+parameterize it the way that we would parameterize
+a traditional unit circle. So we could set x is
+equal to-- let's set it-- and our radius is 1,
+so x is equal to cosine of-- I'll use the parameter u. x is equal to cosine of u. And then let's say y
+is equal to sine of u. And then u is the angle
+between the positive x-axis and wherever we are essentially
+on that unit circle. So that right over there, that
+angle right over there is u. And so this would
+give us for u-- so as long as u is
+between 0 and 2 pi, that we're essentially going
+around this unit circle. So those are all the
+possible x and y-values that we can take on. And then the z-value is what
+takes us up above that boundary and gets it someplace
+along the surface. But this is interesting,
+because the z-value, it can take on obviously a
+bunch of different values, but it always has to be below
+this plane right over here. So for this z-value, I'm going
+to introduce a new parameter. Let's call it z v. That's
+the second parameter. And v is definitely going
+to be greater than 0. z and v, they're the same thing. They're always going
+to be positive, so they're definitely going to
+be greater than or equal to 0. But it's not less than or
+equal to some constant thing. This has kind of a
+variable roof on it. And so it's always
+going to be less than or equal to this
+plane right over here. And so we could say is less
+than or equal to 1 minus x. We could have said-- so we
+know that z is less than or equal to 1 minus x, but if we
+use the new parameters, v is z, and 1 minus x is the same
+thing as 1 minus cosine u. And so now we have
+our parameterization. We are ready to actually
+evaluate the surface integral. And to do that, first
+let's do the cross product. We want to figure
+out what dS is, and we have to take the
+magnitude of the cross product of the partial of
+our parameterization with respect to u, crossed
+with the partial with respect to v. Actually, let me just
+write all this stuff down instead of trying
+to do shortcuts. So dS, and this is all--
+let me do it in blue still because we're talking
+about surface 2. dS is going to be equal to the
+magnitude of the cross product of the partial of our
+parameterization with respect to u, crossed with our partial
+of our parameterization with respect to v, du dv. So let's write the partial
+of our parameterization with respect to u. And you might say, wait,
+where's our parameterization? Well, it's right over here. I just didn't write it in
+the traditional ijk form, but I can. I could write r is
+equal to-- maybe I call it r2 because we're
+talking about surface 2. I shouldn't use
+that orange color because I used
+that for surface 1. I'll use that in a
+still bluish color. So r for surface 2
+is equal to cosine of ui plus the
+sine of uj plus vk. And this is the range that the
+u's and the v's can take on. If I want to take the partial
+of r with respect to u, I would get-- let's
+see, the derivative of cosine u with respect
+to u is negative sine ui. The derivative of sine of u with
+respect to u is plus cosine uj. And the derivative of v
+with respect to u is just 0. So that's our partial
+with respect to u. Our partial-- let' me do
+this in a different color just for the sake of it. Our partial with respect
+to v is equal to-- well, this is going to be 0,
+this is going to be 0, and we're just
+going to have one k. So it's just going
+to be equal to k. And so now we're ready
+to at least evaluate this cross product. So we'll evaluate
+the cross product, and then we'll take
+the magnitude of that, so just this part, so
+just the cross product, the inside of that, before
+we take the magnitude. So copy and paste. So just that is going to be
+equal to the determinant, the 3 by 3 determinant. Let me write my
+components, i, j, k. And then for r sub
+u, we have this. Our i component is
+negative sine of u. Our j component is cosine of u. And it has no k component,
+so we'll put a 0 right there. And then r sub v, no i
+component, no j component, and it has 1 for
+its k coefficient. And so we can just
+evaluate this. And so first, we think
+about the i component. Well, we ignore that
+column, that row. It's going to be
+cosine of u minus 0. So it's going to
+be cosine of ui. And then we'll have minus
+j times-- ignore column, ignore row-- negative
+sine of u times 1 minus 0. So it's negative j times
+negative sine of u. So it's just going to
+be plus sine of uj. And then for the k, we have
+this times 0 minus this times 0. So we're just going to have 0. So this is the cross product. And if we want to take
+the magnitude of this, if we just take the
+magnitude of this-- so now we're ready to take
+the magnitude of this. It's going to be equal
+to-- the magnitude of this is going to be equal to
+the square root of cosine of u squared plus
+sine of u squared. There is no k component. And from the unit circle,
+this is the most basic trig identity. This is just going
+to be equal to 1. And so we have this part right
+over here just simplifies to 1, which is nice. And dS simplifies to du dv
+for at least this surface. And so now we are
+ready to attempt to evaluate the integral. But I'm almost
+running out of time, so I will do that
+in the next video.

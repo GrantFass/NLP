@@ -1,0 +1,42 @@
+- [Instructor] What we're
+going to do in this video is get some practice applying u-substitution
+to definite integrals. So let's say we have the integral, so we're gonna go from x
+equals one to x equals two, and the integral is two x times x squared plus one to the third power dx. So I already told you that we're
+gonna apply u-substitution, but it's interesting to be able
+to recognize when to use it. And the key giveaway here is, well I have this x
+squared plus one business to the third power, but then I also have the
+derivative of x squared plus one which is two x right over here. So I can do the substitution. I could say, u is equal to x squared plus one, in which case the derivative
+of u with respect to x is just two x plus zero or just two x. I could write that in differential form. A mathematical hand waving
+way of thinking about it is multiplying both sides by dx. And so you get du is equal to two x dx. And so at least this part of the integral I can rewrite. So let me at least write, so this is going to be, I'll write the integral. We're going think about
+the bounds in a second. So we have u to the third power, u, the same orange color, u to the third power. That's this stuff right over here. And then two x times dx. Remember you could just view this as two x times x squared plus one to
+the third power times dx. So two x times dx, well two x times dx, that is du. So that and that together, that is du. Now an interesting question, because this isn't an indefinite integral, we're not just trying to
+find the antiderivative. This is a definite integral. So what happens to our
+bounds of integration? Well there's two ways that
+you can approach this. You can change your bounds of integration. Because this one is x
+equals one to x equals two. But now we're integrating
+with respect to u. So one way if you want to keep
+your bounds of integration, or if you wanna keep
+this a definite integral I guess you could say, you would change your bounds
+from u is equal to something to u is equal to something else. And so your bounds of integration, let's see when x is
+equal to one, what is u? Well when x is equal to one, you have one squared plus one, so you have two, u is equal
+to two in that situation. When x is equal to two, what is u? Well you have two squared which is four plus one, which is five, so u is equal to five. And you won't typically
+see someone writing u equal two or u equals five. It's often just from two to five because we're integrating
+with respect to u, you assume it's u equals
+two to u equals five. And so we could just rewrite
+this as being equal to the integral from two to five of u to the third du. But it's really important to realize why we changed our bounds. We are now integrating with respect to u, and the way we did it is
+we used our substitution right over here. When x equals one, u is equal to two. When x is equal to two, two squared plus one, u is equal to five. And then we can just evaluate
+this right over here. Let's see this is going to be equal to, the antiderivative of u to the third power is u to the fourth over four. We're gonna evaluate that at five and two. And so this is going to be
+five to the fourth over four minus two to the fourth over four. And then we can simplify this if we like, but we've just evaluated
+this definite integral. Now another way to do it is to think about the, is to try to solve the
+indefinite integral in terms of x and use u-substitution as an intermediate. So one way to think about this is to say, well let's just try to evaluate what the indefinite integral of two x times x squared plus one
+to the third power dx is. And then whatever this expression ends up being algebraically, I'm going to evaluate it at x equals two and at x equals one. And so then you use the
+u-substitution right over here, and you would get. This would simplify using
+the same substitution as the integral of u,
+u to the third power, the du, u to the third power du, and once again you're going to evaluate this whole thing from x equals two and then subtract from that it evaluated at x equals one. And so this is going to be equal to, well let's see this is
+u to the fourth power over four. And once again evaluating
+it at x equals two and then subtracting from
+that at x equals one. And then now we can just back-substitute. We can say hey look, u is equal to x squared plus one, so this is the same thing
+as x squared plus one to the fourth power over four, and we're now going to evaluate that at x equals two and at x equals one. And you will notice that you will get the exact same thing. When you put x equals two here, you get two squared plus one which is five to the fourth power over
+four, that right over there. And then minus one squared plus one is two to the fourth power over four, that right over there. So either way you'll get the same result. You can either keep it a definite integral and then change your bounds of integration and express them in terms of u. That's one way to do it. The other way is to try to evaluate the indefinite integral, use u-substitution as
+an intermediary step, then back-substitute
+back and then evaluate at your bounds.

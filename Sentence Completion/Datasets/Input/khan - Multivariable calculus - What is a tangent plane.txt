@@ -1,0 +1,61 @@
+- [Voiceover] Hi everyone. Here and in the next few videos
+I'm gonna be talking about tangent planes of graphs,
+and I'll specify this is tangent planes of graphs
+and not of some other thing because in different context
+of multivariable calculus you might be taking a tangent plane
+of say a parametric surface or something like that but here
+I'm just focused on graphs. In the single variable
+world a common problem that people like to ask in calculus
+is you have some sort of curve and you wanna find at a
+given point what the tangent line to that curve is,
+where the tangent line is. You’ll find the equation
+for that tangent line and this gives you various
+information how to, let's say you wanted to approximate
+the function around that point and it turns out to be
+a nice simple approximation. In the multivariable world
+it's actually pretty similar in terms of geometric intuition
+it's almost identical. You have some kind of graph of a function, like the one that I have
+here, and then instead of having a tangent line,
+because the line is a very one-dimensional thing and here
+it's a very two-dimensional surface, instead you’ll have
+some kind of tangent plane. This is something where it's
+just gonna be barely kissing the graph in the same way
+that the tangent line just barely kisses the function
+graph in the one-dimensional circumstance, and it could be
+at various different points rather than just being at that point. You could move it around and
+say that it will just barely be kissing the graph of this
+function but at different points. Usually the way that a problem
+like this will be framed if you're trying to find such
+a tangent plane is first, you think about the specified
+input that you want. In the same way that over
+in the single variable world what you might do is say,
+"What is the input value here?" Maybe you'd name it like x
+sub 0, and then you're gonna find the graph of the
+function that corresponds to just kissing the graph
+at that input point. Over here in the multivariable
+world, move things about, you'll choose some input
+point like this little red dot and that could be at
+various different spots, it doesn’t have to be where I put it, you could imagine putting
+it somewhere else. Once you decide on what
+input point you want, you see where that is on the graph, so we go and say, "That
+input point corresponds to such and such a height,"
+so in this case it actually looks like the graph is
+about zero at that point so the output of the
+function would be zero. What you want is the plane that's tangent right at that point. You’ll draw some kind of plane that's tangent right at that point. If we think about what this
+inner point corresponds to it's not x sub 0, a single variable input like we have in the single variable world, but instead that red dot
+that you're seeing is gonna correspond to some kind of
+input here, x sub 0, y sub 0. The ultimate goal over
+here in our multivariable circumstance is gonna be to
+find some kind of new function, so I'll write it down here,
+some kind of new function that I'll call L, for linear,
+that's gonna take in x and y, and we want the graph of that
+function to be this plane, and you might specify that this
+is depended on the original function that you have and
+maybe also specify that it's depended on this input point
+in some way, but the basic idea is we're gonna be looking
+for a function whose graph is this plane tangent at a given point. In the next couple of videos
+I'm gonna talk through how you actually compute that. It might seem a little intimidating
+at first because how do you control a plane in
+three dimensions like this? It's actually very similar
+to the single variable circumstance, and you just
+take it one step at a time. See you in next video.

@@ -1,0 +1,69 @@
+- [Instructor] Here we
+have a pair of enantiomers. On the left we have (R)-Carvone, and on the right we have (S)-Carvone. Both of these compounds
+have the same Melting point, the same Boiling points,
+and the same Density. However there are a few
+important differences. (R)-Carvone is the major
+component of spearmint oil. So (R)-Carvone smells like spearmint. (S)-Carvone is the major
+component of caraway oil. And this smells like caraway. So it's pretty amazing that our noses can tell the difference
+between these two enantiomers. And the science of smell is a really, really fascinating topic. Another important difference
+between these two enantiomers is their optical activity. So enantiomers exhibit different
+behavior when exposed to plain polarized light. So let's examine what I mean by that. So here we have our un-polarized light. Which is usually from a sodium lamp. And normally we're talking
+about the D-line of sodium, with a wavelength of 589 nanometers. So this un-polarized light tries to pass through our filter. And this filter here, if you look at it, notice we have these slits. These vertical slits. And so not all of the un-polarized
+light can pass through. Only this vertical plane
+of light can pass through one of our vertical filters. And so we now have a
+plane of polarized light. And this plane of polarized
+light comes to a tube. So this is the tube of the polarimeters, so that's what this device is called. So let me go ahead and write this down. So this is our tube. And in our tube, we have a solution of an optically active compound. So let me go ahead and draw
+in some of our compound here. So imagine a solution so this compound is dissolved in something. Our plane of polarized light rotates when it hits our compound. So imagine this plane here,
+which starts off up and down, it starts to rotate. And the more molecules it hits
+here, the more it rotates. And so by the time it leaves our tube, it's at a different angle
+from how it entered. Next we have the analyzer portions. So this is our analyzer. And imagine that you are right here. So your eye is here
+looking at the analyzer. And the analyzer let's say, started off with the slits up and down. So just like we had on the filter here. But that wouldn't allow this
+plane of light to pass through. So we would have to rotate
+the analyzer to allow our plane of light to pass through. And you can see I've already
+shown that with this drawing. So the slits are now
+going in this direction, to allow our plane to pass through. So we had to rotate our
+analyzer to the right to allow that plane to get through. And that's called, this angle here, alpha, is called the observed rotation. So this is the observed rotation. And in this case we had to
+rotate the analyzer to the right. So let's start up here, let's
+say we started vertically. And the plane of light
+was rotated to the right when it ran into our compound here. So that means that we rotated
+the analyzer to the right. And that's said to be an observed
+rotation that is positive. That's a positive rotation,
+that's a clockwise rotation. This is also called dextrorotatory. So let me write that down here. So this is dextrorotatory. What if our plane was rotated to the left? So what if the light
+was rotated to the left? So let's say we started off vertical. And our light was rotated
+in this direction this time. So we had to rotate the
+analyzer to the left. The observed rotation
+is said to be negative. So this is a negative rotation, a counter-clockwise rotation. And this is called levorotatory. So let me write that in here. So this is levorotatory. The observed rotation, the observed rotation
+alpha depends on the number of molecules that are hit
+by our polarized light. So let's say we increase
+the concentration. So I'm going to go ahead and draw some more red dots in here to indicate increasing the concentration
+of our compounds. Well that means that our light
+is going to rotate even more. Alright, so our light starts off vertical, it runs into more molecules,
+it rotates even more, it exits our tube at a different angle. So that changes our observed rotation. Turns out if you double the concentration, you double the observed rotation. You can also change the observed rotation by changing the path link,
+by changing the length of this tube here. So I'll call that length L. So if you hold the concentration constant, and you double the path link, you double the observed rotation. Because that means that your light is running into more molecules
+because your tube is longer. So let's take these ideas
+of observed rotation and concentration and path length, and let's turn them into an equation here. So if we take the observed
+rotation, which is alpha. And this is measured in degrees. In degree, so something could rotate, you know you could have
+an angle in here, right? So think about an angle in degrees for your observed rotation. If you divide your observed
+rotation by the concentration of what's in your tube, and the concentration is in grams per ML, and then concentration is
+multiplied by the path length, L, which is in decimeters. So this is in decimeters. You'll get something called
+the specific rotation. So that would be alpha in brackets. So this is the specific rotation. And the nice thing about
+the specific rotation, is this is a constant, this is a constant. Your observed rotation
+might change, alright, depending on what concentration your using depending on what your path length is. But if you take the observed rotation, you divide it by the concentration
+times the path length, you get the specific rotation. And having this as a physical
+constant is very useful because you can look up
+the specific rotations for specific compounds. So for example, you could look
+up the specific rotation for, we talked about (S)-Carvone earlier. So that would be the specific rotation. And this can also change depending on temperature and wavelength. So you need to specify
+the temperature here, and the wavelength here. So for (S)-Carvone at 20 degrees, let me write this up here. So the specific rotation of (S)-Carvone at 20 degrees Celsius, and using the D-line of sodium, this is equal to positive 61. So that's the specific
+rotation of (S)-Carvone. And for specific rotation
+is normally unit-less. So normally you don't see
+anything with this number. However a lot of times you do. I've seen a degrees sign
+here for a lot of things. I'm going to take it off right here. Because usually the degrees sign is left for the observed rotation. So that's how you would
+see a specific rotation. We just saw the (S)-Carvone has a specific rotation of positive 61. So this enantiomer is dextrorotatory. We have a positive rotation. So we put a positive sign up here. (R)-Carvone has a specific
+rotation of negative 61. So this enantiomer is levorotatory. So we have a negative rotation. So we put a negative sign up here. Notice the difference in
+the specific rotations for our pair of enantiomers. Enantiomers have specific rotations that are equal in magnitude. So this one's 61 and this one's 61. But opposite in sign. This one's negative and
+this one is positive. Louis Pasteur was the first one to realize this relationship. So pretty amazing that he
+was able to figure this out. Also wanted to point out
+that R and S have nothing to do with negative and positive. So the fact that this is
+(S)-Carvone has nothing to do with the fact that this is positive. R and S are used to assign a configuration to a chiral center. And the negative and positive
+of specific rotations, have to be determined experimentally. So we've seen that chiral
+compounds are optically active, but achiral compounds are not.

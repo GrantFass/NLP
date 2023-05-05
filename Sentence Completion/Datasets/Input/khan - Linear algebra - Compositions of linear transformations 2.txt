@@ -1,0 +1,198 @@
+In the last video, we started
+with a linear transformation S, that was a mapping between
+the set x, that was a subset of Rn to the set y. And then we had another
+transformation that was a mapping from the set
+y to the set z. And we asked ourselves,
+given these two linear transformations, could
+we construct a linear transformation that goes all
+the way from x to z? What we did was we made
+a definition. We said let's create something
+called the composition of T with S. What that is, is first you apply
+S to some vector in X to get some vector in Y. And that's your vector
+right there. And then you apply T to
+that, to get to z. And so we defined it that way. And our next question was, was
+that a linear transformation? We show that it was. It met the two requirements
+for them. And because it is a linear
+transformation, I left off in the last video saying that
+it should be able to be represented by some matrix
+vector product. Where this will have to
+be an l by n matrix. Because it's a mapping from an n
+dimensional space, which was x-- it was a subset of Rn--
+to an l dimensional space. Because z is a subset of Rl Now
+in this video, let's try to actually construct
+this matrix. So at the beginning of the last
+video, I told you that T of x could be written as some
+matrix product, B times x. Let me write that and rewrite
+it down here. So I told you that the linear
+transformation T applied to some vector x, could be written
+as the matrix vector product, B times a vector x. And since it was a mapping from
+an m dimensional space to an l dimensional space, we know
+this is going to be in l by m matrix. Now similarly, I told you that
+the transformation S can also be written as a matrix
+vector product. Where we can say A is its
+matrix representation times a vector x. And since S was a mapping from
+an n dimensional space to an m dimensional space, this will
+be an m by n matrix. Now by definition, what was the
+composition of T with S? What is this? By definition, we said that this
+is equal to-- you first apply the linear transformation
+S to x. And I'll arbitrarily
+switch colors. So you first apply the
+transformation S to x. And that essentially gets you
+a vector right there. This is just a vector in Rm. Or it's really a vector in y,
+which is a subset of Rm. And then you apply the
+transformation T to that vector to get you into z. Given this we can use our matrix
+representations to replace this kind of
+transformation representation. Although they're really
+the same thing. What is a transformation
+of S applied to x? Well this right here is just
+A times x, where this is an m by n matrix. So we can say that this is equal
+to the transformation applied to A times x. Now, what is the T
+transformation applied to any vector x? Well that's the matrix B
+times your vector x. So this thing right here is
+going to be equal to B times whatever I put in there. So the matrix B times the matrix
+A times the vector x right there. This is what our composition
+transformation is. The composition of T with S
+applied to the vector x. Which takes us from the set x
+all the way to the set z is this, if we use the matrix
+forms of the two transformations. Now at the end of last video I
+said I wanted to find just some matrix that if I were to
+multiply times this vector, that is equivalent to
+this transformation. And I know that I can
+find this matrix. I know that this exists because
+this is a linear transformation. So how can we do that? Well, we just do what we've
+always done in the past. We start with the identity matrix,
+and we apply the transformation to every column
+of the identity matrix. And then you end up with your
+matrix representation of the transformation itself. So first of all, how
+big is the identity matrix going to be? Well, these guys that we're
+inputting into our transformation, they are subsets
+of x, or they're members of x, which is
+an n dimensional space, a subset of Rn. So all we do to figure out C
+is we start off with the identity matrix. The n dimensional identity
+matrix, because our domain is Rn. And of course we know what
+that looks like. We have 1, 0 all the way down. It's going to be an n by n
+matrix, and then 0, 1 all the way down 0's. These 0's right here, and then
+you have 1's go all the way down the columns and everything
+else is 0. We've seen this multiple times
+that's what your identity matrix looks like, just 1's down
+the column from the top left to the bottom right. Now to figure out C, the matrix
+representation of our transformation, all we do is we
+apply the transformation to each of these columns. So we can write that our matrix
+C is equal to the transformation applied
+to this first column. What is the transformation? It is the matrix B times the
+matrix A times whatever you're taking the transformation of. In this case we're taking the
+transformation of that. We're taking the transformation
+of 1, 0, 0 all the way down. There's 1 followed by
+a bunch of 0's. That's going to be our
+first column of C. Our second column of C is going
+to be B times A times the second column of our
+identity matrix. And, of course, you remember
+these are each the standard basis vectors for Rn. So this is going to be times
+E2, which is a 0, 1, 0 all the way down. And then we're going to keep
+doing that until we do get to the last column, which is B
+times A times a bunch of 0's all the way down
+until get a 1. The nth term is just
+a 1 right there. Now what is this going
+to be equal to? It looks fairly complicated
+right now. But all you have to do is make
+the realization-- and we've seen this multiple times. If we write our vector A or we
+write our matrix A as just a bunch of column vectors. So this is a column vector A1,
+A2, all the way to An. We already learned that this
+was and n buy m matrix. Then what is the vector A times,
+for example, x1, x2 to all the way down to xn. We've seen this multiple
+times. This is the equivalent to x1
+times A1 plus x2 times A2, all the way to plus xn times An. We've seen this multiple
+times. It's a linear combination of
+these column vectors where the waiting factors are the terms
+in our vector that we're taking the product of. So given that, what is this
+guy going to reduce to? This is going to be A1 times
+this first entry right here, times x1, plus A2 times a second
+entry, plus A3 times a third entry. But all these other
+entries are 0. The x2's all the way
+to the xn are 0's. So you're only going to end
+up with 1 times the first column here in A. So this will reduce to--
+let me write this. So the first column is going
+to be B times-- now A times this E1 vector, I guess we could
+call it, right there is just going to be 1 times the
+first column in A plus 0 times the second column in A plus
+0 times the third column. So it's just 1 times the
+first column in A. So it's just A1. That simple. Now what is this one going
+to be equal to? It's going to be 0 times the
+first column in A, plus 1 times a second column in A, plus
+0 times a third column in A, and the rest are
+going to be 0's. So it's just going to be 1 times
+the second column in A. So the second column in our
+transformation matrix is just going to be B times A2. And I think you get
+the idea here. The next one is going to be B
+times A3 and all the way until you get B times An. So that's how you would
+solve for your transformation matrix. Remember what we were
+trying to do. We were trying to find some--
+let me write down and summarize everything that
+we've done so far. We had a mapping S, that was
+a mapping from x to y. But x was a subset of Rn. Y was a subset of Rm. And so we said that this linear
+transformation could be represented as some matrix A
+where A is an m by n matrix times a vector x. Then I showed you another
+transformation, we already called it T, which was a
+mapping from y to z. z is a subset of Rl. And of course, the
+transformation T applied to some vector in y, can be
+represented as some matrix B times that vector. I shouldn't have drawn
+parentheses there, but you get the idea. And this, since it's a mapping
+from a subset of our Rm to Rl, this will be an l by m matrix. And then we said, look, if
+we actually just take the composition of T with S,
+of some vector in x, this reduced to B. So first we applied the
+S transformation. We multiplied the matrix
+A times x. And then we applied the T
+transformation to this. So we just multiplied
+B times that. Now we know this is a linear
+transformation, which means it can be represented as a
+matrix vector product. And we just figured out what the
+matrix vector product is. So this thing is going to be
+equal to C times x, which is equal to this thing right there,
+which is equal to that thing right there. Which is equal to-- let me write
+it this way-- B, A1, where A1 is the first column
+vector in our matrix A. And then the second column
+here is going to be B. And then we have A2, where
+this is the second column vector in A. And you can keep going all the
+way until you have B times An times x, of course. Now this is fair enough. We can always do this if you
+give me some matrix. Remember this is an
+l by m matrix. And you give me another matrix
+right here that is an m by n matrix, I can always do this. And how do I know I can
+I always do that? Because each of these
+A's are going to have m entries, right? They're going to be Ai. All of them are going to
+be members of our Rm. So this is well-defined. This has m columns. This has m entries. So each of these matrix vector
+products are well-defined. Now, this is an interesting
+thing, because we were able to figure out the actual matrix
+representation of this composition transformation. Let's extend it a little
+bit further. Wouldn't it be nice if this
+were the same thing as the matrices B times A. All of that times x. Wouldn't it be nice if these
+were the same thing? Because then we could say that
+the composition of T with S of x is equal to the matrix
+representation of B times a matrix representation of S. And you take the product
+of those two. And that will create a new
+matrix representation which you can call C. That you can then multiply
+times x. So you won't have to do it
+individually every time, or do it this way. And I guess the truth of the
+matter is there is nothing to stop us from defining this
+to be equal to B times A. We have not defined what a
+matrix times a matrix is yet. So we might as well. This is a good enough motivation
+for us to define it in this way. So let's throw in
+this definition. So if we have some matrix B. B is an l by m matrix. And then we have some other
+matrix A-- and I'll actually show what A looks like, where
+these are its column vectors. A1, A2, all the way to An. We're going to define
+the product. So this is a definition. We're going to define the
+product BA as being equal to the matrix B times each of
+the column vectors of A. So it's B times A1. That's going to be
+its first column. This is going to
+be B times A2. All the way to B times An. And you've seen this before in
+algebra two, but the reason why I went through almost two
+videos to get to here, is to show you the motivation for
+why matrix products are defined this way. Because it makes the notion
+of compositions of transformations kind
+of natural. If you take the composition of
+one linear transformation with another, the resulting
+transformation matrix is just the product, as we've just
+defined it, of their two transformation matrices. For those of you who might not
+have a lot of experience taking products of matrices, and
+who think this is fairly abstract to look at, in the next
+video I'll actually do a bunch of examples and show you
+that this definition is actually fairly straightforward.

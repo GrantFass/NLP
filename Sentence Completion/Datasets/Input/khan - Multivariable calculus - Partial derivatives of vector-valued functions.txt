@@ -1,0 +1,141 @@
+Let's have the vector valued
+function r of s and t is equal to-- well, x is going to
+be a function of s and t. So we'll just write it as x of
+s and t times the x unit vector, or i, plus y of s and t
+times the y unit factor, or j, plus x of s and t times
+the z unit vector, k. So given that we have this
+vector valued function, let's define or let's think about
+what it means to take the partial derivative of this
+vector valued function with respect to one of the
+parameters, s or t. I think it's going to be
+pretty natural, nothing completely bizarre here. We've taken partial derivatives
+of non-vector valued functions before, where we only vary
+one of the variables. We only take it with
+respect to one variable. You hold the other
+one constant. We're going to do the
+exact same thing here. And we've taken regular
+derivatives of vector valued functions. The path in those just ended up
+being the regular derivative of each of the terms. And we're going to see, it's
+going to be the same thing here with the partial derivative. So let's define the
+partial derivative of r with respect to s. And everything I do with
+respect to s, you can just swap it with t, and you're going to
+get the same exact result. I'm going to define it as being
+equal to the limit as delta s approaches 0 of r
+of s plus delta s. Only finding the limit
+with respect to a change in s comma t. We're holding t, as you can
+imagine, constant for given t, minus r of s and t. All of that over delta s. Now, if you do a little bit of
+algebra here, you literally, you know-- r of s plus delta s
+comma t, that's the same thing as x of s plus delta s
+t i, plus y of s plus delta s t j, plus z. All that minus this thing. If you do a little bit of
+algebra with that, and if you don't believe me, try it out. This is going to be equal to
+the limit of delta s approaching 0-- and I'm going
+to write it small because it'd take up a lot of space-- of x
+of s plus delta s comma t minus x of s and t, I think you
+know where I'm going. This is all a little bit
+monotonous to write it all out, but never hurts. Times s or divided by delta s
+times i-- and then I'll do it in different colors, so it's
+less monotonous-- plus y. Where every-- those limited
+delta s [? approaches ?] 0 applies to every term
+I'm writing out here. y of s plus delta s comma t
+minus y of s comma t, all of that over delta s times j. And then finally, plus z of s
+plus delta s comma t minus z of s and t, all of that over delta
+s times the z unit vector, k. And this all comes out
+of this definition. If you literally just put s
+plus delta s in place for s-- you evaluate all this, do a
+little algebra-- you're going to get the exact same thing. And this, hopefully, pops out
+at you as, gee, we're just taking the partial derivative
+of each of these functions with respect to s. And these functions right here,
+this x of s and t, this is a non-vector valued function. This y, this is also a
+non-vector valued function. z is also a non-vector
+valued function. When you put them all together,
+it becomes a vector valued function, because we're
+multiplying the first one times a vector. The second one times
+another vector. The third one times
+another vector. But independently,
+these functions are non-vector valued. So this is just the
+definition of the regular partial derivatives. Where we're taking the limit
+as delta s approaches 0 in each of these cases. So this is the
+exact same thing. This is equal to-- this is the
+exact same thing as the partial derivative of x with respect to
+s times i plus the partial derivative y with respect to s
+times j plus the partial derivative of z with
+respect to s times k. I'm going to do one more thing
+here and this is pseudo mathy, but it's going to come out--
+the whole reason I'm even doing this video, is it's going to
+give us some good tools in our tool kit for the videos that
+I'm about to do on surface integrals. So I'm going to do one thing
+here that's a little pseudo mathy, and that's really
+because differentials are these things that are very hard to
+define rigorously, but I think it'll give you the intuition
+of what's going on. So this thing right here, I'm
+going to say this is also equal to-- and you're not going to
+see this in any math textbook, and hard core mathematicians
+are going to kind of cringe when they see me do this. But I like to do it because
+I think it'll give you the intuition on what's going
+on when we take our surface integrals. So I'm going to say that this
+whole thing right here, that that is equal to r of s plus
+the differential of s-- a super small change in s-- t minus r
+of s and t, all of that over that same super
+small change in s. So hopefully you understand
+at least why I view things this way. When I take the limit as delta
+s approaches 0, these delta s's are going to get super
+duper duper small. And in my head, that's how
+I imagine differentials. When someone writes the
+derivative of y with respect to x-- and let's say that they say
+that that is 2-- and we've done a little bit of math with
+differentials before. You can imagine multiplying
+both sides by dx, and you could get dy is equal to 2dx. We've done this
+throughout calculus. The way I imagine it is super
+small change in y-- infinitely small change in y-- is equal to
+2 times-- though, you can imagine an equally
+small change in x. So it's a-- well, if you have a
+super small change in x, your change in y is going to be
+still super small, but it's going to be 2 times that. I guess that's the
+best way to view it. But in general, I view
+differentials as super small changes in a variable. So with that out of the way,
+and me explaining to you that many mathematicians would
+cringe at what I just wrote, hopefully this gives you a
+little-- this isn't like some crazy thing I did. I'm just saying, oh, delta
+s as delta approaches 0, I kind of imagine that as ds. And the whole reason I did
+that, is if you take this side and that side, and multiply
+both sides times this differential ds,
+then what happens? The left hand side, you get the
+partial of r with respect to s is equal to this times ds. I'll do ds in maybe pink. Times ds-- this is just
+a regular differential, super small change in s. This is a kind of a partial,
+with respect to s. That's going to be equal to--
+well, if you multiply this side of the equation times ds, this
+guy's going to disappear. So it's going to be r of s,
+plus our super small change in s, t minus r of s and t. Now let me put a little
+square around this. This is going to be valuable
+for us in the next video. We're going to actually think
+about what this means and how to visualize this on a surface. As you can imagine, this
+is a vector right here. You have 2 vector valued
+functions and you're taking the difference. And we're going to visualize
+it in the next video. It's going to really help
+us with surface integrals. By the same exact logic, we
+can do everything we did here with s, we can do
+it with t, as well. So we can define the partial--
+I'll draw a little-- I can define the partial of r with
+respect-- let me do it in a different color, completely
+different color. It's orange. The partial of r with respect
+to t-- the definition is just right here. The limit as delta t approaches
+0 of r of s t plus delta t minus r of s and t. In this situation we're
+holding the s, you can imagine, in constant. We're finding its change in
+t, all of that over delta t. And the same thing falls out. This is equal to the partial of
+x with respect to ti plus y with respect to tj, plus
+z with respect to tk. Same exact thing, you just kind
+of swap the s's and the t's. And by that same logic,
+you'd have the same result but in terms of t. If you do this pseudo mathy
+thing that I did up here, then you would get the partial of r
+with respect to t times a super small change in t. dt, our
+t differential, you could imagine, is equal to r of st
+plus dt minus r of s and t. So let's box these
+two guys away. And in the next video,
+we're going to actually visualize what these mean. And sometimes, when you kind of
+do a bunch of like, silly math like this, you're always like,
+all right, what is this all about? Remember, all I did is I said,
+what does it mean to take the derivative of this with
+respect to s or t? Played around with it a little
+bit, I got this result. These 2 are going to be very
+valuable for us, I think, in getting the intuition for
+why surface integrals look the way they do.

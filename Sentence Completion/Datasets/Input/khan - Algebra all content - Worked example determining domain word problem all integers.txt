@@ -1,0 +1,36 @@
+- [Voiceover] This right
+over here is a screenshot from a Khan Academy exercise, and it says, "Mason stands on the 5th
+step of a vertical ladder. "The ladder has 15 steps,
+and the height difference "between consecutive steps is 0.5 meters. "He is thinking about moving
+up, down, or staying put." Let me draw this ladder that Mason is on. It's a vertical ladder, that's one side of the ladder, this is the other side of the ladder, and it has 15 steps. Let me see if I can draw that. This is the first one, two, three, four. I'm gonna run out of space, I need to make 'em closer together. It's gonna be one, two, three, four, five, six, seven, eight, nine, 10, 11, 12, 13, 14, and 15. 15 steps. Let me make sure it's even. The top and the bottom, and the distance between each of these, I guess you could say, steps,
+or the rungs of the ladder, are half a meter. This distance right
+over here is 0.5 meters. And it says that he's on the 5th step of this vertical ladder. He's on the 5th step, One, two, three, four, five. This is where he is right
+now. He's on this 5th step. And he's thinking about moving up, or down, or staying put. "Let h of n denote the
+height above the ground h "of Mason's feet (measured in meters) "after moving n steps (if Mason went "down the ladder, n is negative.)" All right, h of n. Denote the height above the ground after moving n steps. Make sure we understand this. If I were to say h of zero, what is that going to be? Well, h of zero means that
+he's moved zero steps. He's moved zero steps,
+he's still going to be on this 5th step of the ladder. And so how high is he going to be? If he's on the 5th step
+of a vertical ladder... I'm assuming that there's
+0.5 from the ground. This is the ground right over here. He is one, two, three, four, five steps, each of 'em is half a meter. Five times 0.5 is going to give us 2.5 meters, so h of zero is 2.5 meters. If I said h of one, that means he goes up. H of one means he goes up one step. Here, n would be equal to one. If he goes up one step, h of one, he's going to half a meter higher, so it's going to be equal to three meters. We could keep doing that for
+a bunch of different inputs. Let me write that, that's going
+to be equal to three meters. But anyway, that's not what
+they're asking us about. They're saying, "Which number
+type is more appropriate "for the domain of the function?" The domain, just as
+reviewed, that's the set of numbers that we could
+input into the function and get a valid output. And it's clear here, see, we have to pick between integers or real numbers. Well, n, which is our input, that's the number of
+steps he goes up or down. It could be positive or negative, but we're not gonna talk about half steps. Then he'll put his foot
+in the air, right over. He has to take integer
+valued steps up or down. Or, I guess, he's taking
+integer valued steps, if it's positive it's up,
+if it's negative it's down, if it's zero that means he's staying put. If n is zero, that means he's staying put. It's not real numbers. He can't move pi steps from where he is. He can't move square root of
+two steps from where he is. He can't even move 0.25 steps, then he'd put his foot in the air. This is definitely going
+to be about the integers, not the real numbers. This function right over
+here, the valid inputs, I want to be able to input an integer. In fact, it's not even all integers, because he can't go down
+an arbitrary amount. In fact, he can't go up an
+arbitrary amount either. The domain is going to
+be a subset of integers. Then they say, "Define the
+interval of the domain." And we have these little toggles here... to define the interval of the domain. And let's see, the lowest value for n, he can go as far as one, two, three, four, five steps down. In that case, n would be
+equal to negative five. And then the highest value for n is if he takes one, two,
+three, four, five, six, seven, eight, nine, 10 steps up. And so that would be n is equal to 10. The interval of the domain, and actually I just copy and pasted this onto my scratch pad, n can be as low as negative
+five, and as high as 10, and it can include them as well, so I'm gonna use brackets. My domain would include negative five. If it didn't include negative five, I would put a parentheses,
+but I could put brackets here, and I could put brackets there as well. Just for fun, let me actually input it into the actual exercise. I'm saying integers, and I'm as low, and I can go down five steps, and I can go up 10 steps, and 10 is also included in my interval. Then I can check my
+answer, and I got it right.

@@ -1,0 +1,72 @@
+Find the difference. Express the answer as a
+simplified rational expression, and state
+the domain. We have two rational
+expressions, and we're subtracting one from
+the other. Just like when we first learned
+to subtract fractions, or add fractions, we have to
+find a common denominator. The best way to find a common
+denominator, if were just dealing with regular numbers, or
+with algebraic expressions, is to factor them out, and
+make sure that our common denominator has all of the
+factors in it-- that'll ensure that it's divisible by the
+two denominators here. This guy right here is
+completely factored-- he's just a plus 2. This one over here, let's see if
+we can factor it: a squared plus 4a plus 4. Well, you see the pattern that
+4 is 2 squared, 4 is 2 times 2, so a squared plus 4a plus 4
+is a plus 2 times a plus 2, or a plus 2 squared. We could say it's a plus 2 times
+a plus 2-- that's what a squared plus 4a plus 4 is. This is obviously divisible
+by itself-- everything is divisible by itself, except, I
+guess, for 0, is divisible by itself, and it's also divisible
+by a plus 2, so this is the least common multiple of
+this expression, and that expression, and it could be
+a good common denominator. Let's set that up. This will be the same thing as
+being equal to this first term right here, a minus 2 over
+a plus 2, but we want the denominator now to be a plus 2
+times a plus 2-- we wanted it to be a plus 2 squared. So, let's multiply this
+numerator and denominator by a plus 2, so its denominator is
+the same thing as this. Let's multiply both the
+numerator and the denominator by a plus 2. We're going to assume that a
+is not equal to negative 2, that would have made this
+undefined, and it would have also made this undefined. Throughout this whole thing,
+we're going to assume that a cannot be equal to negative 2. The domain is all real numbers,
+a can be any real number except for negative 2. So, the first term is that--
+extend the line a little bit-- and then the second term doesn't
+change, because its denominator is already the
+common denominator. Minus a minus 3 over-- and we
+could write it either as a plus 2 times a plus 2, or
+as this thing over here. Let's write it in the factored
+form, because it'll make it easier to simplify later on:
+a plus 2 times a plus 2. And now, before we-- let's set
+this up like this-- now, before we add the numerators,
+it'll probably be a good idea to multiply this out right
+there, but let me write the denominator, we know what
+that is: it is a plus 2 times a plus 2. Now this numerator: if we have
+a minus 2 times a plus 2, we've seen that pattern
+before. We can multiply it out if you
+like, but we've seen it enough hopefully to recognize that this
+is going to be a squared minus 2 squared. This is going to be
+a squared minus 4. You can multiply it out, and the
+middle terms cancel out-- the negative 2 times a cancels
+out the a times 2, and you're just left with a squared minus
+4-- that's that over there. And then you have this: you have
+minus a minus 3, so let's be very careful here-- you're
+subtracting a minus 3, so you want to distribute the negative
+sign, or multiply both of these terms
+times negative 1. So you could put a minus a here,
+and then negative 3 is plus 3, so what does
+this simplify to? You have a squared minus a
+plus-- let's see, negative 4 plus 3 is negative 1, all
+of that over a plus 2 times a plus 2. We could write that as
+a plus 2 squared. Now, we might want to factor
+this numerator out more, to just make sure it doesn't
+contain a common factor with the denominator. The denominator is just 2a
+plus 2 is multiplied by themselves. And you can see from inspection
+a plus 2 will not be a factor in this top
+expression-- if it was, this number right here would be
+divisible by 2, it's not divisible by 2. So, a plus 2 is not one of the
+factors here, so there's not going to be any more
+simplification, even if we were able to factor this thing,
+and the numerator out. So we're done. We have simplified the rational
+expression, and the domain is for all a's, except
+for a cannot, or, all a's given that a does not equal
+negative 2-- all a's except for negative 2. And we are done.

@@ -1,0 +1,108 @@
+- [Voiceover] In the
+video on the second law of thermodynamics I talk
+about how the entropy of the universe is constantly increasing, that it's not going to decrease. And another way of thinking
+about it is that the energy in the universe, more and more of
+it is going towards entropy, it's becoming less and less useful. And the argument that I
+use, even in our every day, I talk about hey, while I'm
+making this video, my body's generating heat, and that
+heat is leading to entropy, it's leading to more
+entropy in the universe. And a reasonable question is,
+how does heat lead to entropy? Remember heat is a
+transfer of thermal energy, and entropy, this is
+a state of the system, it's the number of, it's the amount of disorder
+we have, it's the number of states that a system
+could actually take on. So let's have an example here,
+let's assume that this is an ideal, closed system, this
+little white square here. And these molecules are bouncing
+around at some temperature, so they have some average
+kinetic energy, each molecule will be doing different things,
+and I always draw it as this translational kinetic energy,
+but they could be rotating and oscillating, and doing
+all sorts of other things. So they could be doing
+other things as well, but the translational kinetic
+energy is a little bit easier to actually visualize. But now let's transfer
+some heat into the system. So we have a transfer of thermal
+energy, which we call heat, let me pick a color for
+that, I will use orange, and we use the letter Q to denote heat. So we have a heat
+transfer coming into this, and then because of this, the
+temperature of this system goes up, the average
+kinetic energy goes up, these things start bouncing
+around with more momentum, with more velocity. So why does this system have entropy? You might say, well
+look, you know there's, they have the same number of molecules, I have the same amount of volume, I'm looking at a
+two-dimensional, looks like area, but we could imagine the
+same amount of volume that it's filling up, it
+feels like there's the same number of places that the
+actual molecules could be. But our state is not
+dictated purely by position, not purely by where the
+different things are. The state is everything
+about the system that you could use to predict
+what's going to happen next to the system, so
+the state also includes the various velocities of these particles. So when you have a higher temperature, you have a larger number
+of potential velocities that you might be able
+to actually take on. And also when you have
+this higher kinetic energy, remember all of these molecules,
+at the end of the day, they're made up of atoms that have nuclei and they have electrons
+buzzing around them. And as they, if they don't
+have much kinetic energy, they might not be able to get too close. So let's say this is the
+outer electrons of one, I'll just say atom, and
+let's say that this is another one right over here. If they're going with only
+a reasonable kinetic energy, if they go with a
+reasonable kinetic energy, they might be able to get, maybe they're going to be able to get that close. But if they were running, if
+they were hitting each other much faster, they might be able
+to get a little bit closer, they might kind of smush into each other, if you imagine kind of two
+balls hitting each other much faster, they're going
+to push on each other a little bit harder, and
+so there's actually more possible states you can take on when you have higher kinetic energy. So this is, these things came in really, really fast and smushed into each other, while these were nice and polite, and came it at a nice gentle velocity. So you could actually even
+have more positional states, more different configurations
+in three-dimensional space. So that's why heat is
+actually leading to entropy. Now I know what some
+of you might be saying, well heat doesn't only
+cause disorder, in fact, heat can be used to do work. In fact, that's the whole basis, in fact, a lot of the basis of the
+Industrial Revolution, steam engines, combustion engines, the combustion engine in
+your car that uses heat, uses a combustion reaction to expand, to push up a piston, which
+is used to do actual work. And that is, of course, true. And over here we have an
+example of that happening. So I have some molecules
+in here buzzing around with some temperature, and
+then I'm going to apply, I'm going to add some heat to the system. So let's add some heat to the system. And in this system, I don't
+have just a closed boundary, these things start buzzing around more, they can take on more states
+and all of that type of thing, but they can also use
+to expand the container. So what we see happening here
+is they push this piston, they push this piston open,
+you actually have work, let me do work in a different color. You actually have work being done. I'll do it smaller. You actually have some work being done, and how is that work being done? Well as these things bounce around, we're talking about a lot of molecules, every now and then one of these molecules is going to bump there
+and then bounce off, but that's going to provide
+some force for a very small amount of time, that's going
+to push it up a little bit and but you have so
+many of these molecules, I've only drawn a handful
+of them, but in any real thermodynamic system,
+you're going to be talking about many millions and
+millions and millions, you're talking about things on the, multiples of Avogadro's
+number, number of molecules. And so at any given moment,
+a lot of them are going to be bouncing right off this
+thing, and they're going to be doing work, they're going to be pushing, they're going to be displacing
+this piston in the direction of the force, or part, a
+component of their force is going to be pushing this piston
+actually up, and doing work. But no heat-based, I guess you could say, system or engine can be 100% efficient. So some of this can be used to do work, but a lot of it is going to
+be used to add to the disorder of the system, to increase
+the number of states that the system could take on. One way to think about it,
+and this has always helped me, is heat is transfer of thermal energy, that happens at the
+boundary of the system, this heat could be you
+know, maybe there's a, maybe there's a flame down here, and at the boundaries this
+thing might be able to, if this wasn't a fully-closed
+system, it could release heat at the boundaries of the system. But within the system, the
+heat is just leading the increased thermal energy is
+just leading to more entropy. Now work also happens at
+the boundary of the system, so up here, there's probably
+some heat being released, but it's also able to do work. So heat and work, these
+are happening at the boundaries of the system,
+but a lot of that energy goes into the inside of the
+system, and that is just, things are just gonna, you
+know, it's like a big mosh pit, these things are going to run
+into each other much faster, and way more states
+that they could take on. And so that's why, when
+I talk about you know, if I move around and I'm
+walking on the floor, just the friction of the carpet
+is going to generate heat. That's going to contribute
+to entropy in the universe. Just me existing, the
+cellular processes in my body that generate heat, it
+increases the entropy of the universe that makes the
+total energy of the universe less useful, that's why it's happening.

@@ -1,0 +1,70 @@
+- [Tutor] So, a lot of the concepts that you learn about in
+multi-variable calculus, are really all about
+ideas that you originally might've learned in linear algebra, and then transferring those to
+apply to nonlinear problems. So for example, I'm gonna
+give you a function, some kind of function that
+takes in a 2D vector, xy, and it's also going to
+spit out a 2D vector, and the specific one I have in mind, this is just kind of
+arbitrary, is x plus sin of y, and then, because I'm
+a sucker for symmetry, I'm gonna make it y plus sin of x. Though of course, this could
+be any arbitrary function, you don't need that kind of symmetry. So, in the last video, I
+gave a little refresher on how to think about
+linear transformations and ideas from linear algebra, and how you encode a linear
+transformation using a matrix, and kind of visualize it, I use this grid, and here, I wanna show what
+this function looks like as a transformation of space. As in, I'm gonna tell the computer, take every single point
+on this blue grid here, and if that point is xy, I want you to move it over to the
+point x plus sin of y, y plus sin of x. And here's what that looks like. Alright, so things get
+really wavy, really curly, this is not at all a
+linear transformation, all of the lines don't remain lines, they're no longer nice grid
+lines that are parallel and evenly spaced, in some sense, there is much, much more information that goes into nonlinear functions than into linear functions. And because this is rather complicated, I think it might be easy
+to see what's going on if we just focus on a
+single individual point. So let me look at a point
+like, hmm, let's say, pi/2 and zero, okay? So if that's what I'm
+plugging in, x is pi/2, so at the top here, x
+stays the same, it's pi/2, and then sin of y would be sin of zero, so that x component is gonna
+completely stay the same. And then for the bottom,
+y, or y is also zero, plus sin of x, sin of
+pi/2 is one, and just, I'll go ahead and write sin of pi/2, sin of pi/2, but you can think
+of that as just being one. So what that means on the
+transformation over here, is if we look at the point
+that's at pi/2, zero, and pi/2 is a little about 1.5, so that's gonna be around here, we expect it to move
+to the point pi/2, one. So it should just move
+vertically by one unit, and if you just focus on that one point during the transformation,
+notice that's exactly what happens, it just
+moves vertically one point. And of course, things
+are quite complicated because every point is doing that, right? The computer's taking in every point and moving it to where it should go. So, after having given the refresher on thinking about linear transformations and encoding them with matrices last time, something like this might
+feel completely intractable. You certainly have to
+store much more information than just four numbers to
+record where everything goes. But this function has a nice property, a property that we deal with all the time in multi-variable calculus. It's what we call locally linear. Locally linear. And what that means is if I
+was to take our initial setup, and then zoom in on a given point, so I'm gonna zoom in around
+this point on the left here, and this box, kind of in the upper right, just shows the zoomed-in version of that. And first of all, I'm gonna
+add some more grid lines, so they're really very close grid lines, we can see from the zoomed-out picture, but this just makes it so
+that when we're zoomed in, we can see a little bit
+more of what's going on. And now, when I play the animation, I'm gonna have this yellow
+box that's doing the zooming follow the point at its center,
+so this box will be moving, and we're always just gonna
+look at what it zoomed in on, 'kay? So it's gonna be following
+what's going on around that point during the transformation. And we can see, inside
+this zoomed version, it's still not linear, the
+lines get a little bit curved, but this looks a lot more
+like a linear function, it looks a lot more like the grid lines that started off horizontal and vertical, are remaining parallel and evenly spaced. And in fact, let's say
+I zoom in even further, to an even smaller yellow
+box here, and again, I'm gonna add in some more
+grid lines right around it, so they're very, very densely packed. And this is purely an artifact
+of visualizing things, I could choose to put
+points or lines or anything wherever I want, and I just
+think showing the grid lines and only the grid lines
+and where they move, gives sort of a feel for
+what the function is doing. So this time, when I play
+it, and that zooming-in box kind of tracks the point
+that we're looking at, as it goes, the neighborhood around it, all of the points around
+it, really, really do look like a linear function. And the more you zoom
+in, the more it looks precisely like a certain linear function. Oh, I guess I should've
+written an r over here. Locally linear. So this raises the question,
+if we're looking around some specific point, which I'll
+call x nought and y nought, this should correspond in some way to the linear transformation
+that it looks like around it. There should be some kind of matrix, some two-by-two matrix, that represents the linear transformation
+that this function, this much more complicated
+function, looks like around that point. So this idea of zooming in
+is what we mean by local, and in the next video, I'm gonna show you what this matrix looks like in
+terms of partial derivatives for our original function. See you then!

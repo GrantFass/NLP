@@ -1,0 +1,81 @@
+- [Voiceover] So continuing
+on with where we were in the last video, we're looking for this unit tangent vector function
+given the parameterization. So the specific example
+that I have is a function that parameterizes a circle
+with radius capital R, but I also wanna show in parallel what this looks like more abstractly. So here, I'll just write
+down in the abstract half what we did here, what we did
+for the unit tangent vector. So we actually have the
+same thing over here where the unit tangent vector should be the derivative function, which we know gives a tangent. It's just it might not be unit. But then we normalize it. We take the magnitude of
+that tangent vector function. And in our specific case with the circle, once we did this and we kinda
+took the x-components squared, y-components squared, and
+simplified it all out, we got the function R. But in general case, we
+might not be so lucky. Because the magnitude of this derivative is gonna be the square root of x-prime of t-squared. Right? This is the
+x-component of the derivative. Plus y-prime of t-squared. Just taking the magnitude
+of a vector here. So when we take the entire
+function and divide it by that, what we get doesn't simplify as it did in the case of a circle. Instead, we have that x-prime
+of t, which is the x-component of our s-prime of t, and we have to divide it by that entire magnitude, which was this whole expression, right? You have to divide it by that
+whole square root expression, and I'm just gonna write
+"..." with the understanding that this square root expression
+is what goes up there. And similarly, over here, we
+have y-prime of t, divided by that entire expression again, right? So simplification doesn't always happen. That was just kind of a lucky happenstance of our circle example. Now what we want, once we have the unit tangent vector as a function of that same parameter, what we're hoping to
+find is the derivative of that unit tangent vector
+with respect to arc length, the arc length s, and
+to find its magnitude. That's gonna be what curvature is. But the way to do this is to take the derivative with respect to the parameter
+t; so d big T, d little t, and then divided out by the derivative of our function s with respect to t, which we already found. And the reason I'm doing this,
+you know, loosely if you're just thinking of the
+notation, you might say, oh, you can kinda cancel
+out the dt's from each one. But another way to think
+about this is to say, when we have our tangent vector
+function as a function of t, the parameter t, we're not
+sure of what it changes with respect to s, right? That's something we don't know directly. But we do directly know
+its change with respect to a tiny change in that parameter. So then if we just kind
+of correct that by saying, hey, how much does the
+length of the curve change? How far do you move along the curve as you change that parameter? And maybe if I go back
+up to the picture here, this ds/dt is saying for a
+tiny nudge in time, right, what is the ratio of the
+size of the movement there with respect to that tiny time? So the reason that this comes
+out to be a very large vector, it's not a tiny thing, is
+because you're taking the ratio. Maybe this tiny change was just
+an itty-bitty smidgen vector but your dividing it by 1/1,000,000 or whatever the size of
+dt that you're thinking. And in this specific case for our circle, we saw that the magnitude of this guy, if we took the magnitude of that guy, it's gonna be equal to R. Which is a little bit poetic, right? That the magnitude of the derivative is the same as the
+distance from the center. And what this means in our specific case, if we want to apply this
+to our circle example, we take dT, the tangent vector fuction, and i'll go ahead and write it here, we have the derivative
+of our tangent vector with respect to the parameter, and we go up and look
+here and we say okay, the unit tangent vector has the formula -sin(t) and cos(t). So the derivative of -sin(t) is -cos. So over here, this guy
+should look like -cos(t). The other component, the y component, the derivative of cos(t),
+as we're differentiating our unit tangent vector
+function, is -sin, -sin(t). And what this implies
+is that the magnitude of that derivative of the
+tangent vector with respect to t, well what's the magnitude of this vector? you've got a cosine, you've got a sine. There's nothing else in there. You're going to end up with
+cosine squared plus sin squared. So this magnitude just equals one. And when we do what we're
+supposed to do over here and divide by the magnitude
+of the derivative. We take this and we
+divide it by the magnitude of the derivative ds/dt. Well we've already computed the
+magnitude of the derivative. That was R. That's how we got this R, is
+we took the derivative here and took it's magnitude and found it. So we find that in the
+specific case of the circle the curvature function that we want is just constantly equal to 1/R. Which is good and
+helpful, because I said in the original video on curvature that it's defined by one divided
+by the radius of the circle that hugs the curve most closely. And if your curve is actually a circle, it's literally a circle. Then the curve that hugs it
+most closely is its self. So I should hope that its curvature ends up being one divided by R. And in the more general case, if we take a look at what this ought to be you can maybe imagine just how
+horrifying it's going to be to compute this. We've got our tangent vector function, which itself is almost too
+long for me to write down. I just put these dot dot
+dots where you're filling in x prime of t squared
+plus y prime of t squared and you're gonna have to take this, take it's derivative with respect to t. It's not going to get any simpler when you take it's derivative. Take the magnitude of that
+and divide all of that by the magnitude of the derivative of your original function. And I think what I'll do, I'm not going to do all of that here. It's a little bit much and
+I'm not sure how helpful it is to walk through all those steps. But for the sake of having
+it, for anyone whose curious, I think I'll put that into an article, and you can go through
+the steps at your own pace and see what the formula comes out to be. And I'll just tell you right now, maybe kind of a spoiler alert, what that formula comes out to be is x prime, the derivative
+of that first component, multiplied by y double prime,
+the second derivative of that second component, minus y prime, the first derivative of
+that second component, multiplied by x double prime. And all of that is divided by the the magnitude component, the x prime squared plus y prime squared. That whole thing to the three halves. And you can maybe see why you're going to get terms like this, right, cause when you're taking the derivative, when you're taking the derivative of the unit tangent vector function you have the square root term in it, the square root that has
+x primes and y primes, so that's where you're going to get your x double
+prime, y double prime. As the chain rule takes you down there. And you can maybe see why this whole x prime squared, y prime squared term is going to maintain
+itself and it turns out it comes in here as a three halves power. And what I'm going to do in the next video I'm going to go ahead and
+describe kind of an intuition for why this formula isn't random. Why if you break down what this is saying it really does give a
+feeling for the curvature. The amount that the curve curves that we want to try to measure. So it's almost like this is a third way of thinking about it. The first one, I said you have whatever circle most
+closely hugs your curve and you take 1 divided by its radius. And then the second way
+you're thinking of this dt/ds, the change in the unit tangent vector with respect to arc length
+and taking its magnitude. And of course all of these are the same, they're just kind of three different ways to think about it or things
+that you might plug in when you come across a function. And I'll go through an example, I'll go through something
+where we're really computing the curvature of something
+that's not just a circle. But with that, I'll see you next video.

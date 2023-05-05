@@ -1,0 +1,38 @@
+- [Instructor] Function g can
+be thought of as a translated or shifted version of f of
+x is equal to x squared. Write the equation for g of x. Now, pause this video, and see if you can work
+this out on your own. All right, so whenever I think
+about shifting a function, and in this case, we're
+shifting a parabola, I like to look for a distinctive point. And on a parabola, the vertex is going to be our most distinctive point. And if I focus on the vertex of f, it looks like if I shift that to the right by three, and then if I were to shift that down by four, at least our vertices would overlap. I would be able to shift the vertex to where the vertex of g is. And it does look, and we'll validate this, at
+least visually, in a little bit, so I'm gonna go minus four
+in the vertical direction, that not only would it
+make the vertices overlap, but it would make the
+entire curve overlap. So we're going to make,
+we're gonna first shift to the right by three. And we're gonna think about how
+would we change our equation so it shifts f to the right by three, and then we're gonna shift down by four. Shift down by four. Now, some of you might
+already be familiar with this, and I go into the intuition in a lot more depth in other videos. But in general, when you shift to the right by some value, in this case, we're shifting
+to the right by three, you would replace x with x minus three. So one way to think about this
+would be y is equal to f of x minus three, or y is equal to, instead
+of it being x squared, you would replace x with x minus three. So it'd be x minus three squared. Now, when I first learned this,
+this was counterintuitive. I'm shifting to the right by three. The x-coordinate of my vertex
+is increasing by three, but I'm replacing x with x minus three. Why does this make sense? Well, let's graph the shifted version, just to get a little
+bit more intuition here. Once again, I go into much more
+depth in other videos here. This is more of a worked example. So this is what the shifted
+curve is gonna look like. Think about the behavior that we want, right over here, at x equals three. We want the same value
+that we used to have when x equals zero. When x equals zero for the original f, zero squared was zero. Y equals zero. We still want y equals zero. Well, the way that we can do that is if we are squaring zero, and the way that we're gonna square zero is if we subtract three from x. And you can validate that at other points. Think about what happens
+now, when x equals four. Four minus three is one squared. It does indeed equal one. The same behavior that you used to get at x is equal to one. So it does look like we have
+indeed shifted to the right by three when we replace
+x with x minus three. If you replaced x with x plus three, it would have had the opposite effect. You would have shifted
+to the left by three, and I encourage to think about why that actually makes sense. So now that we've shifted
+to the right by three, the next step is to shift down by four, and this one is little bit more intuitive. So let's start with our
+shifted to the right. So that's y is equal to
+x minus three squared. But now, whatever y value we were getting, we want to get four less than that. So when x equals three, instead
+of getting y equals zero, we want to get y equals
+four less, or negative four. When x equals four,
+instead of getting one, we want to get y is
+equal to negative three. So whatever y value we were getting, we want to now get four less than that. So the shifting in the vertical direction is a little bit more intuitive. If we shift down, we subtract that amount. If we shift up, we add that amount. So this, right over here,
+is the equation for g of x. G of x is going to be equal
+to x minus three squared minus four. And once again, just to review, replacing the x with x
+minus three, on f of x, that's what shifted, shifted right by three, by three. And then, subtracting the four, that shifted us down by four, shifted down by four, to give us this next graph. And you can visualize, or
+you can verify visually, that if you shift each of these
+points exactly down by four, we are, we are indeed going to overlap on top of g of x.

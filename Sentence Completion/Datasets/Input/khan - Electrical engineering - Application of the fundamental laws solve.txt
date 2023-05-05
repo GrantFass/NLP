@@ -1,0 +1,24 @@
+- So in the last video, we
+did our circuit analysis. We set up the four
+equations that we needed to solve in order to
+figure out all the voltages and currents in our example circuit. And so now, we're gonna solve it. This is a matter of doing the algebra to solve a set of four
+simultaneous equations. What I wanna do now is just
+write my equations down here and tidy them up a little bit. So the first one we're gonna bring down is the voltage statement here, which I can write as V1 plus V2 equals Vs. I'm gonna bring down the
+i equation over here. It's gonna be i1 minus i2 equals Is. And now I have to pick. I have four variables here. I'm gonna start doing substitutions based on these expressions up here. These are my Ohm's law expressions. So we're gonna use those to
+substitute for the voltages, and we're gonna solve the whole
+thing in terms of currents. So the first equation becomes V1 is R1 i1 plus R2 i2 equals Vs. Second equation stays the same. i1 minus i2 equals Is. The next step in the solution is gonna be to figure out how to eliminate
+one of these currents. Now I think what I'll do is I'll eliminate i2, and I can do that if
+I multiply this equation by R2 and add these equations together. So let's do the
+multiplication by R2 first. We'll rewrite the first equation up here. R1 i1 plus R2 i2 equals Vs, and then
+down, the bottom equation is gonna be R2 i1 minus R2 i2 equals R2 Is. We're gonna add these equations together. And we can see these
+terms nicely cancel out, and so I'm gonna end up with R1 plus R2 times i1 equals Vs plus R2 Is. And I can get the solution
+in symbolic terms for i1. I1 equals Vs plus R2 Is over R1 plus R2. What I wanna do now is actually put in the original real values
+and solve this circuit all the way through. So we'll move up and keep going. So let me sketch the circuit again, the real circuit again. We had a voltage source
+with fifteen volts. It went to a 4k resistor, that was R1. We had a 2k resistor here and a current source, and that was 3 milliamps. And we want to discover... This was i1, and this was i2. Those are the two unknown currents. Let's see if we can find those. So i1 equals Vs, 15 plus R2 is 2k times Is, three milliamps divided by 4k plus 2k. So let's solve this. That equals 15 plus 2k times three
+milliamps is six volts. This is volts, and that's divided by 6k equals 21 volts over 6k equals 3.5 milliamps. So that's this value right here, 3.5 milliamps is i1. So we have one of our unknown currents, and we wanna find the other one. That's sitting right here. We can figure out i2. Minus i2 equals Is minus i1 equals three milliamps minus 3.5 milliamps equals minus .5. Let's get rid of the minus signs. i2 equals 0.5 milliamps. That's that value right there. Let's put some boxes around
+our answers we have so far. Here's one. And here's another one, there's i2 and i1. And now let's finish up by
+figuring out the voltages. We can use Ohm's law to
+figure out the voltage across the 4k resistor, and that's V1. So V1 equals i, which is 3.5 milliamps times 4k. 4k ohms and that equals,
+three and a half times four is 14 volts. Whenever you multiply
+milliamps times k ohms, those units cancel, and you get volts. So V1 equals 14 volts. And our last current,
+sorry, our last voltage is V2, is the voltage right here. And V2 equals i2 which we decided was .5 milliamp times two thousand ohms, 2k. And V2 equals one volt. And now we've solved our circuit. That's a complete circuit analysis using the fundamental laws.

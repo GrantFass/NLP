@@ -1,0 +1,79 @@
+- [Teacher] What we're
+going to do in this video is explore the sampling
+distribution for a difference in sample means, and we'll use
+this example right over here. So it tells us a large bakery makes thousands of cupcakes
+daily in two shifts: shift A and shift B. Suppose that, on average,
+cupcakes from shift A weigh 130 grams with a
+standard deviation of 4 grams. For shift B, the mean
+and standard deviation are 125 grams and 3 grams, respectively. Assume independence between shifts. Every day, the bakery takes
+a simple random sample of 40 cupcakes from each shift. They calculate the mean
+weight for each sample, then look at the difference, A minus B, between the sample means. Find the probability that the
+mean weights from the samples are more than 6 grams
+apart from each other. So I'm actually not gonna
+tell you immediately to pause this video and try to work through this on your own. First I'm gonna think about
+how we could break this down, and then I'll ask you to pause and try to tackle each
+of those parts by itself. So in order to tackle
+this eventual question, we're going to have to
+think about the mean of the sampling distribution for the difference in sample means. So sample mean from group A
+minus sample mean for group B. We're gonna have to think
+about the standard deviation of the sampling distribution for the difference in sample means. And we're going to have to think about is this distribution normal? If we're able to figure
+out these three things, then we just have to figure out, well, how many standard
+deviations away from the mean is this? And we could use your standard z-table to figure out the probability. So now I encourage you to pause this video and try to tackle this first part. What is the mean of the
+sampling distribution for the difference in sample means? All right, now let's work
+through this together. So the mean of the sampling distribution for the difference in sample means, and we have seen this before, this is going to be
+equal to the difference between the means of the
+sampling distribution for each of the sample means. So that mean minus this mean. And we also know that the mean
+of the sampling distribution for each of these sample means, that's just going to be
+the mean of the population that we are sampling from. So this mean right over here is just going to be the
+mean, the population mean, for shift A, which is gonna be 130 grams. I'll just write that there. And then the mean of the
+sampling distribution for the sample means from shift B, we can see that that's just
+going to be the population mean for shift B, which is right over here. So minus 125 grams. And of course, this is just
+going to be equal to 5 grams. So we have answered the first part. We know the mean of the
+sampling distribution of the difference in sample means. Now what about the standard deviation? So for that, let's think
+actually about variances 'cause the math's a little
+bit easier with variances. And then from that, we can
+derive standard deviations. So we know that the variance
+of the sampling distribution for the difference in sample means, assuming that your two
+samples are independent and you're sampling with replacement, if you're sampling with replacement, it's actually going to be
+the sum of the variances of the sampling distribution
+for each of the sample means. So it's going to be that
+plus this right over here. Now you might be saying, "Wait, we're not sampling
+with replacement." Well, we also know that if
+each of the sample sizes are less than 10% of the population, then the difference is negligible, and so we could still use this formula. And so you could see that
+the simple random sample here is 40 from each shift. And they say that a large bakery makes thousands of cupcakes
+daily in two shifts. So even if it was a thousand,
+10% of that would be 100, this is less than 10%. So we meet that condition, so
+we can use this same formula that you would use if you were
+sampling with replacement. So this first variance right over here of the sampling distribution for the sample means from shift A, this is going to be equal
+to the variance of shift A, the population variance of shift A divided by your sample size. And then this over here, it's gonna be the same thing for shift B. It's going to be the variance of shift B divided by your sample size. And so this is going to be equal to what? Well, the variance from shift A is going to be the square of
+the the standard deviation from shift A. The standard deviation's right over there. And so that's going to be 16. We could write grams squared if we wanna keep the units there. And then we're going to
+divide by the sample size. We know that the sample size in each case, 40 cupcakes at a time for each sample. And then for shift B, we know
+that the standard deviation, the population standard
+deviation for shift B is 3 grams. You square that, and
+you get 9 grams squared. A gram squared is kind
+of an interesting idea, but that's what the units are
+working out to be right now. And our sample size is still equal to 40. And so this is going to be equal to, let's see, 16 plus 9 is 25. Common denominator, 40. So it's 25 over 40, which
+is the same thing as 5/8, 5/8 of a gram squared, which
+is a little bit strange unit, but this now tells us what the standard deviation is going to be because it's going to be the square root of all of this business. So the standard deviation
+of the sampling distribution for the difference in
+sample means over here is going to be the square root of 5/8. And now of course, the
+units are back to grams, which makes sense. And this is approximately
+going to be equal to, get my calculator out,
+5 divided by 8 equals, and then we take the square root of that, and it's going to be approximately 0.79. 0.79. So the next question, before we try to figure
+out the probability is, is are we dealing with a
+normal distribution here when we think about the
+sampling distribution for the difference in sample means? And so I encourage you
+to pause the video again and think about that. So there's two ways that we can assume that the sampling distribution
+for the difference in sampling means is normal. If the original populations
+that each of the sample means are being calculated from are normal, then that means that the
+sampling distribution for each of the sample
+means is gonna be normal. And that means that the difference of the sampling distributions
+are going to be normal. Now we don't know for a fact that the weights of the cupcakes from each shift are normal distributions, but we also know that
+the sampling distribution of the sampling means can be modeled as being
+approximately normal if the two sample sizes are
+greater than or equal to 30. And we know that each of these samples are definitely greater than
+or equal to 30, they are 40. So that tells us that
+the sampling distribution of the difference in sample
+means is also normal. So we've established
+the things that we need to then calculate the probability. So I encourage you, pause the video, and see if you can use that information to calculate that probability, and we will then do
+that in the next video.

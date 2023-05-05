@@ -1,0 +1,75 @@
+Using the-- I guess we
+could call it the washer method or the ring
+method, we were able to come up with
+the definite integral for the volume of this solid
+of revolution right over here. So this is equal to the volume. And so in this
+video, let's actually evaluate this integral. So the first thing that we could
+do is maybe factor out this pi. So this is going to be equal to
+pi times the definite integral from 0 to 1. And then let's square this
+stuff that we have right here in green. So 2 squared is going to be 4. And then we're going to have
+2 times the product of both of these terms. So 2 times negative
+y squared times 2 is going to be
+negative 4 y squared. And then negative
+y squared squared is plus y to the fourth. And then from that, we are going
+to subtract this thing squared. We're going to subtract
+this business squared, which is going to be 4 minus
+4 square roots of y plus-- well, square root of y
+squared is just going to be y. And all of that dy. Let me write that
+in that same color. And so this is going
+to be equal to pi times the definite
+integral from 0 to 1. And let's see if we
+can simplify this. We have a positive
+4 here, but then when you distribute
+this negative, you're going to have a negative
+4, so that cancels with that. And let's see. The highest-degree
+term here is going to be our y to the fourth. So we have a y to the fourth. I'll write it in
+that same color. And so the
+next-highest-degree term right here is this
+negative 4 y squared. So then you have negative--
+let me do that same color. We have negative 4 y squared. That's that one
+right over there. And then we have this y. But we have to remember we
+have this negative out front. So it's a negative y. So this one right over
+here is a negative y. And then we have a
+negative times a negative, which is going to give us a
+positive 4 square roots of y. So this is going to end up being
+a positive 4 square roots of y. And actually, just
+to make it clear when we take the antiderivative,
+I'm going to write that as 4 y to the 1/2 power. And we're going to multiply
+all that stuff by dy. Now we're ready to take
+the antiderivative. So it's going to be equal to pi
+times the antiderivative of y to the fourth is y
+to the fifth over 5. Antiderivative of negative 4
+y squared is negative 4/3 y to the third power. Antiderivative of negative y
+is negative y squared over 2. And then the antiderivative
+of 4 y to the 1/2-- let's see. We're going to
+increment, so it's going to be y to the
+3/2 multiplied by 2/3. We're going to get 8/3
+plus 8/3 y to the 3/2. And let's see. Yep. That all works out. And we're going to evaluate
+this at 1 and at 0. And lucky for us, when
+you evaluate at 0, this whole thing
+turns out to be 0. So this is all going to be
+equal to pi times evaluating all this business at 1. So that's going to
+be 1/5 minus 4/3-- I'll do that in a green
+color-- minus 4/3 minus 1/2-- so whenever you
+evaluate it at 1, it's just going to
+be-- so plus 8/3. And let's see. What's the least common
+multiple over here? Let's see, a 5, a 3, and a 2. It looks like we're going
+to have a denominator of 30. So we can rewrite
+this as equal to pi, and we can put everything
+over a denominator of 30. 1/5 is 6/30. 4/3 is 40 over 30,
+so this is minus 40. That's the different
+shade of green. Well, actually, let me make
+it another shade of green. So this is minus 40/30. Negative 1/2,
+that's minus 15/30. And then finally, 8/3 is
+the same thing as 80/30, so that's plus 80. So this simplifies
+to-- so let's see. We have 86 minus
+50-- oh, actually, let me make sure I'm doing
+the math right over here. So 80 minus 40 is going to get
+us 40, plus 6 is 46, minus 15 is 31. So this is equal to 31 pi 30. I have a suspicion that I
+might have done something shady in this last part
+right over here. So this is going
+to be, let's see, negative 36,
+negative 51, plus 80. I think that seems right. I'm going to do
+it one more time. Let's see. 80 minus 40 is 40, 46, 46
+minus 10 is 36, minus another 5 is 31. So, yes, we get 31 pi
+over 30 for our volume.

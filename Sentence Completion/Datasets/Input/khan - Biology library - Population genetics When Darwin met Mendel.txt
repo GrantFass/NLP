@@ -1,0 +1,69 @@
+- Hey, look! It's our friend, Gregor Mendel, the super monk who discovered the basic principles of genetics. And hopefully, you remember all of this. Both parents contribute one version of each of their genes called an allele to their offspring, and
+some of those alleles are dominant or always expressed, while others are recessive
+and only expressed when they're not paired
+with a dominant one. Oh! And here's our old friend, Chucky D. He lets me call him that. All this information
+that Mendel figured out would have been really quite interesting to him because Darwin spent his whole life defending his ideas of natural selection as the primary force for evolution. But Darwin had no idea
+how traits were passed on to their offspring, even though these two guys were living and working at the same time. Both Mendel and Darwin died not knowing how their ideas fit together. So today, we're going to introduce them and their ideas to one another through the science of
+population genetics, which demonstrates how genetics and evolution influence each other. And I have good news! It involves a lot of math. (upbeat music) Population genetics, on the surface, is not a complicated idea. It's the study of how populations of a species changed
+genetically over time, leading to a species evolving. So I start out by defining
+what a population is. It's simply a group of
+individuals of a species that can interbreed. And because we have a whole bunch of fancy genetic testing gadgets, and because, unlike Darwin, we know a whole lot about heredity, we can now study the genetic change in populations over just
+a couple of generations. This is really exciting and really fun because it's basically like scientific instant gratification. I can now observe evolution happening within my lifetime, so cross that off the old bucket list. Now part of population
+genetics or pop gen, I know, we've got fancy abbreviations for everything now, involves the study of factors that cause changes in what's called allele frequency, which is just how often certain alleles turn up within a population. And those changes are at the heart of how and why evolution happens. So there are several factors that change allele frequency within a population. And just like Fast and Furious movies, there are five of them. And unlike Fast and Furious movies, they're actually very, very important and are the basic reason
+why all complex life on earth exists. The main selective pressure is simply natural selection itself, Darwin's sweet little baby, which he spent a lot of his career defending from haters. Obviously, we know this natural selection makes the alleles that make animals their strongest and most virile and least likely to die, more frequent in the population. Now most selective pressures are environmental ones, like food supply, predators, or parasites. But at the population level, one of the most important
+evolutionary forces is sexual selection. And population genetics gets its special attention, particularly when it comes to what's called nonrandom mating, which is a lifestyle that I encourage in all of my students,
+do not mate randomly. Sexual selection is the idea that certain individuals will be more attractive mates than others because of specific traits. This means they'll be
+chosen to have more sex, and therefore, more offspring. The pop gen spin on things is that sexual selection
+means mating isn't random. There are specific traits
+that are preferred, even though they may not make the animals, technically, more fit for survival. So sexual selection
+changes the genetic makeup of a population because the alleles of the most successful
+maters are gonna show up more often in the gene pool. Maters gonna mate! Another important factor here, and another thing that Darwin wished he had understood, is mutation. Sometimes when eggs and sperm are formed through miosis, a mistake happens, and the copying process of DNA, bad errors in the DNA,
+could result in the death or deformation of offspring, but not all mutations are harmful. Sometimes these mistakes
+can create new alleles that benefit the individual
+by making it better at finding food, or avoiding predators, or finding a mate. These good errors and
+the alleles they made are then passed to the next generation and into the population. Fourth, we have genetic drift, which is when an allele's
+frequency changes due to random chance. A chance that's greater if the population is small. And thus, happens much more quickly if the population gets knocked way back by a tornado or something. Genetic drift does not cause individuals to be more fit, just different. Finally, when it comes
+to allele game changers, you gotta respect the gene flow, which is when individuals
+with different genes find their way into a population and spread their alleles
+all over the place. Immigration and emigration
+are good examples of this, and as with genetic drift, its effects are most easily seen in small populations. Again, our factors, natural selection, alleles for fitter organisms become more frequent. Sexual selection,
+alleles for more sexually attractive organisms become more frequent. Mutation, new alleles popping up, due to mistakes in DNA. Genetic drift, changes in allele frequency due to random chance. And gene flow, changes in allele frequency due to mixing with new genetically different populations. Now that you know all that, in order to explain, specifically, how these processes influence populations, we're going to have to completely forget about them. This is what's called the Hardy-Weinberg principle. Godfrey Hardy and Wilhelm Weinberg were two scientists in
+1908, who independently, at the same time, came up with the exact same equation that describes how under the right circumstances,
+Mendelian genetics works at the scale of a whole population. But those right circumstances assume that none of the factors I just mentioned are at play. Hardy and Weinberg's
+simple equation shows us the frequency with which you could expect to find different alleles within a hypothetical population that's not evolving. This weird, hypothetical state is called the Hardy-Weinberg Equilibrium, in which the frequency of
+alleles in a population remains constant from
+generation to generation. And to make sure that happens, no funny stuff is allowed to go on! To wit, the Hardy-Weinberg
+Equilibrium requires no natural selection,
+which means that no alleles are more beneficial than any other. So the better alleles will not be selected within a population. No sexual selection,
+which means that mating within the population
+must be completely random. No individual can have a better chance of getting it on than any other. No mutations, because mutations modify the gene pool. Hardy-Weinberg demands a
+gigantic population size because the smaller the population, the more likely you are
+to get genetic drift. And finally, no gene flow. That means that nobody can bring over their hot cousin
+from the next island over because that would significantly mess with the allele frequencies, if you know what I mean. So clearly, no fun and lots of rules. Hardy and Weinberg, they figured this out at the exact same time. So it can't be that complicated, because it wasn't some kind of stroke of like Einsteinian inspiration, they just figured out a thing that was pretty simple. So the question is, can we do the same thing right now? Can we figure it out on our own? What we're looking for is the relationship between the phenotype
+and the actual frequency of the genes in the population. So how do we proceed from here? Alas, ear wax. The consistency of ear
+wax is a Mendelian trait. Wet ear wax is a big W
+because it's dominant, and dry ear wax is recessive,
+so it's a little w. Now let's go to the frequency of the dominant wet allele
+in the population, P, and the frequency of the recessive, dry allele, q, which if
+you've never noticed, q is kind of a backwards p. So since there are only two alleles for this gene in the entire population, p plus q is going to equal one. So the frequency of p is 75%, the only other thing it could be is q, so that's gonna be 25%, which is 1. So imagine we go this hypothetical, no fun Hardy-Weinberg island
+and there are 100 people and we poke every single
+one of them in the ear, and nine of them have dry ear wax. So that's nine over a
+hundred, or 9%, or 0.09. You know math. But this is not q. It's not the frequency of the little w, it's the frequency of ww, homozygous ww. So this is the expressed phenotype, it's not the genotype. We don't know that yet. We know the frequency of ww. But you know that there's
+going to be a bunch of other w alleles hanging around in heterozygous pairs. So how do we figure out where those are? How many of those there are? Well I have no idea! I now am stuck. I do not know, I am lost. When I'm stuck in situations like this, what I do, is I go back to what I do know. And what I know is that
+the frequency of big W, plus the frequency of
+little w, equals one. But that's the entire population. In each individual, we want to know their genotype. So two different alleles. So what's happening, is that this is happening twice in every individual. So what we need to do, is square it. And when we square that equation, if you remember algebra at all, you get p squared plus 2pq, I have excellent handwriting, plus q squared equals one. And that, my friends, is what Hardy and Weinberg did, and it is the Hardy-Weinberg equation. So p squared is the odds of it being a ww, This 2pq here is the heterozygotes, and the q squared is the
+homozygous recessive. Well good news! We know ww, we know the
+homozygous recessive is 0.09, so we already
+have that information. So we know what q squared is, it's .09, and in order to get what q is, we just take the square root of that, that was a horrible square root symbol, which is .30 or 30%. 30% frequency of the q
+allele in the population. And then we just use the simplest equation in the world to figure out what p is, this minus one, and that's .70. Now using our Hardy-Weinberg equation, we can go beyond the
+frequency of the alleles, and actually talk about the frequency of the genotypes. So the frequency of the
+WW, homozygous dominant, is the p squared. So we have p, so we just
+have to square this, and that equals 0.49 or
+49% of the population is homozygous dominant. And now the math gets even easier because we know p and q, so to figure out how many heterozygotes there are, we just do two times p,
+which is .7 times .3, which is q, and that equals 0.42, which is math that I did beforehand, no, I didn't just know that. So 9% of the population,
+homozygous recessive, 49% homozygous dominant,
+and 42% heterozygous, displaying wet ear wax
+but with that little w in there, as well. What's awesome about all of this is that we can see Mendel's ideas at work in a big population. And when things aren't lining up with this equation, we
+know that they are one of those five factors at work, probably more than one. Like for example, a
+bunch of hot surfers move to the island, they all happen to have dry ear wax, and they start spreading their hot surfer genes all over the place. (surfing music) Nonrandom mating, it
+always goes out the window whenever the hot surfers get involved!

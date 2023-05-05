@@ -1,0 +1,81 @@
+- Alright, let's tackle part b, now. Derive the magnitude of the
+acceleration of block 2. Express your answer in
+terms of m1, m2, and g. And like always, try to pause the video and see if you can work
+through it yourself. We already worked through
+part 1, or part a, I should say, based on this diagram above, and there's a previous video. So, now we're ready to do part b. And we've already drawn
+the free-body diagrams, which will help us determine
+the acceleration of block 2. Let's just think about what
+the acceleration is, first. We know it's going to
+accelerate downwards, because, there's a couple
+ways you can think about it, the weight of block 2 is larger
+than the weight of block 1, they're connected by the
+string, so we know we're gonna accelerate downwards on
+the right-hand side and upwards on the left-hand side. The other way to think about it, is the weight of block 2 is
+larger than the upward force of tension. And the weight of
+block 1 is less than the tension pulling upwards. So, you're gonna accelerate upwards on the left-hand side, accelerate
+downwards on the right-hand side and a key realization is, the magnitude of the acceleration
+is going to be the same because they're connected by that string. So, the acceleration, I'll
+just draw it a little bit away from the actual dot, so
+the acceleration, here, has a magnitude a, it's gonna
+go in the downward direction the acceleration on the left-hand
+side is gonna be the same magnitude, but it's gonna
+go in the upwards direction. So that just gives us a sense of things. They say, derive the magnitude
+of acceleration of block 2 Alright, so this is, let me leave the labels up there, so this is block 2 up here. And we know, from Newton's 2nd Law, that if we pick a direction,
+and the direction that matters here, is the vertical direction. All the forces are acting in either the upwards or downwards direction. So, the magnitude of our net forces, we care about the vertical dimension here, is going to be equal to the
+mass times the acceleration, in that, in that dimension,
+in that direction, I guess you could say. And so let's just think about block 2. Block, Block 2. And since the acceleration,
+we know is downwards, and we wanna figure out what a is, let's just assume that positive, positive magnitude specifies downwards. So what are the net forces? Well, the net forces are going
+to be the force of weight minus the tension, and
+that's going to be positive. If we think about it in
+the downward direction. The downward direction being positive. So we're gonna have m2g, the weight, minus the tension, tension is going against the weight, minus the tension is going
+to be equal to the mass. Is going to be equal to m2
+times, times our acceleration, and we need to figure out
+what that acceleration is going to be. So, we do that same blue color. Times the acceleration. Now, we could divide both sides by m2, but that's not going to
+help us too much, just yet. Because then, we would've
+solved for acceleration in terms of m2g and T. We don't have any m1s here, so
+we're not solving in terms of m1, m2, and g. We're solving in terms of m2, T, and g. So, somehow, we have to get rid of this T. And what we can do to get rid of the T, is set up a similar equation for block 1. Block 1, Block 1 Here, since we're concerned
+with magnitude and especially the magnitude
+of acceleration, and here the acceleration is
+going in the upward direction, we could say that the upward direction is the positive direction. And so, we could say that T minus, we know that the tension is larger than the weight, T minus m1g is going to be equal to is equal to m1, is going to be equal to
+m1 times the magnitude of the acceleration. And to be clear, these
+magnitudes are the same. And we already know that the
+magnitudes of the tension are the same. And now we have two equations with two unknowns, and so, if we can eliminate the tension, we can solve for acceleration. And we can acutally do that by just adding the left-hand side
+to the left-hand side, and the right-hand side
+to the right-hand side. You learned this probably
+first in algebra 1. If, if this is equal to that
+and that is equal to that, if we add the left side to the left side and the right side to the right side, well, we're still gonna
+get two things that are equal to each other. So when you add the left-hand sides, what are you going to get? So, you're gonna get m2g, m2g minus m1g, minus m1g, and then you're gonna get T minus T. These two are going to cancel out. So, let me just cross them out. So that was convenient. Is going to be equal to m2a, is going to be equal to m2a plus m1a, plus m1 times a. And now, we just need to solve for a. And how do we do that? Well, we can factor out an a
+out of this right-hand side here, so this going to be m2g minus m1g is equal to let's factor out an a, a times, times m2 plus m1, and now to solve for a, we just divide both sides by m2 plus m1. m2 plus m1, m2 plus m1, and there you have it, we get a is equal to a is equal to this. And, notice, we have solved it, we have solved for a in terms of we have solved for a in terms of m1, m2, and g. And this is the magnitude of
+the acceleration of either block 1 or block 2. Now, some of you might be thinking, wait, there might be an
+easier way to think about this problem, and I went straight
+from the free-body diagrams which is, ya know, it's
+implied that this is the way to tackle it, using the tension. But, another way to tackle it, you could've said, well, this would be analogous, it's not the exact same thing, but
+it would be analogous to imagine, two, these two
+blocks floating in space. So, this is m2, here, and I'm not gonna use pulleys here, so that's m2. And it's connected by a massless string, to m1, which has a smaller mass, m1. And let's say that you
+are pulling on, pulling in the rightward direction, now we're just drifting in space. With a force of m2g, we're not, we just care about the magnitude here, and I know you might be saying, wait, okay, is this is the gravitational
+field or whatever else, but I'm saying, let's
+just say you're pulling in this direction with a force that happens to be equal to,
+that has a magnitude of m2g, and let's say you're
+pulling in this direction, with a force that has
+a magnitude of m1, m1g. Now, this isn't exactly the
+same as our, as where we started where we started, we saw what
+I have just kind of drawn, but I have it in the presence
+of a gravitational field, and I have it wrapped
+around those pulleys, and then the gravitational
+field is providing these forces. But let's just assume,
+just for simplicity that that you're drifting in space and you're pulling on m2 to the
+right with a force that's equivalent to m2g, and you
+are pulling to the left on m1, with a force of m1g. Well, you could just view this as one big, you could just view the m1,
+the string, and m2 as just one combined mass. You could just view this
+as one combined mass, of m1 plus m2, and you could say, alright, well from that one combined mass, I am, whoops, that one combined mass, I am I am pulling to the right
+with a magnitude of m2g, and I am pulling to the left let me make that a
+slightly different color so you can see it. And I am pulling to the
+left with a magnitude of m1g and now, this becomes a
+pretty straight-forward thing. What would be the acceleration here? Well, you could say the net, the net magnitude of the force, or the magnitude of the net force would be m2g, we'll take the rightward direction as the positive direction, m2g minus m1g minus m1g, and then, so
+that's the net force, in the right direction, the magnitude of the net force
+in the rightward direction and then you divide it by its mass, and you're gonna get acceleration. Force divided by mass
+gives you acceleration. So, you divide that by our
+mass, which is going to be which is going to be m1 plus m2, that's going to give
+you your acceleration. So, you could view this as a simpler way of thinking about it. But they, notice, either of them give
+you the exact same answer. That's one of the fun
+things about science, as long as you do logical things, you get to the same point.

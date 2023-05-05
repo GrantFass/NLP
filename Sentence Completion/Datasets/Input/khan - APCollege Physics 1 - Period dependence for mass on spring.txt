@@ -1,0 +1,88 @@
+- [Instructor] So, we saw that for a mass oscillating on a spring, there's a certain amplitude and that's the maximum
+displacement from equilibrium. But there's also a certain period, and that's the time it takes
+for this process to reset. In other words, the time it takes for this mass to go
+through an entire cycle. But what do these things depend on? We know the definitions of them, but what do they depend on? Well, for the amplitude,
+it's kind of obvious, the person pulling the mass back. Whoever or whatever is
+displacing this mass is the thing determining the amplitude. So if you pull the mass back far, you've given this oscillator
+a large amplitude, and if you only pull it back a little bit, you've given it a small amplitude. But it's a little less obvious
+in terms of the period. What does the period depend on? Who or what determines the period? Maybe it depends on the amplitude, so let's just check. If I asked you, if I asked you, if I pulled this back farther, if I increase the amplitude farther, will that change the
+period of this motion? So, let's think about it. Some of you might say, yes, it should increase the period because look, now it has
+farther to travel, right? Instead of just traveling
+through this amount, whoa that looked horrible, instead of just traveling
+through this amount back and forth, it's gotta travel through
+this amount back and forth. Since it has farther to travel, the period should increase. But some of you might
+also say, wait a minute. If we pull this mass farther, we know Hooke's law says that
+the force is proportional, the force from the spring, proportional to the amount
+that the spring is stretched. So, if I pulled this mass back farther, there's gonna be a larger force that's gonna cause this mass
+to have a larger velocity when it gets to you, a larger speed when it gets
+to the equilibrium position, so it's gonna be moving
+faster than it would have. So, since it moves faster, maybe it takes less time for
+this to go through a cycle. But it turns out those two
+effects offset exactly. In other words, the fact that this mass has farther to travel and the fact that it will
+now be traveling faster offset perfectly and it doesn't
+affect the period at all. This is kinda crazy but something you need to remember. The amplitude, changes in the amplitude do not affect the period at all. So pull this mass back a little bit, just a little bit of an amplitude, it'll oscillate with a certain period, let's say, three seconds, just to make it not abstract. And let's say we pull
+it back much farther. It should oscillate
+still with three seconds. So it has farther to travel, but it's gonna be traveling faster and the amplitude does not affect the period for a mass
+oscillating on a spring. This is kinda crazy, but it's true and it's
+important to remember. This amplitude does not affect the period. In other words, if you were
+to look at this on a graph, let's say you graphed this,
+put this thing on a graph, if we increase the amplitude, what would happen to this graph? Well, it would just
+stretch this way, right? We'd have a bigger amplitude, but you can do that and
+there would not necessarily be any stretch this way. If you leave everything else the same and all you do is change the amplitude, the period would remain the same. The period this way would not change. So, changes in amplitude
+do not affect the period. So, what does affect the period? I'd be like, alright, so the
+amplitude doesn't affect it, what does affect the period? Well, let me just give
+you the formula for it. So the formula for the
+period of a mass on a spring is the period here is gonna be equal to, this is for the period
+of a mass on a spring, turns out it's equal to two pi times the square root of the mass that's connected to the spring divided by the spring constant. That is the same spring constant that you have in Hooke's law, so it's that spring constant there. It's also the one you
+see in the energy formula for a spring, same spring
+constant all the way. This is the formula for the
+period of a mass on a spring. Now, I'm not gonna derive this because the derivations
+typically involve calculus. If you know some calculus and you want to see how this is derived, check out the videos we've
+got on simple harmonic motion with calculus, using calculus, and you can see how this
+equation comes about. It's pretty cool. But for now, I'm just gonna quote it, and we're gonna sort of just
+take a tour of this equation. So, the two pi, that's
+just a constant out front, and then you've got mass here and that should make sense. Why? Why does increasing the
+mass increase the period? Look it, that's what this says. If we increase the mass, we
+would increase the period because we'd have a larger
+numerator over here. That makes sense 'cause a larger mass means that this thing
+has more inertia, right. Increase the mass, this
+mass is gonna be more sluggish to movement, more
+difficult to whip around. If it's a small mass, you can
+whip it around really easily. If it's a large mass,
+very mass if it's gonna be difficult to change its
+direction over and over, so it's gonna be harder
+to move because of that and it's gonna take longer to
+go through an entire cycle. This spring is gonna
+find it more difficult to pull this mass and then slow it down and then speed it back up
+because it's more massive, it's got more inertia. That's why it increases the period. That's why it takes longer. So increasing the period
+means it takes longer for this thing to go through a cycle, and that makes sense in terms of the mass. How about this k value? That should make sense too. If we increase the k value, look it, increasing the k would
+give us more spring force for the same amount of stretch. So, if we increase the k value, this force from the
+spring is gonna be bigger, so it can pull harder and
+push harder on this mass. And so, if you exert a
+larger force on a mass, you can move it around more quickly, and so, larger force means
+you can make this mass go through a cycle more quickly and that's why increasing this
+k gives you a smaller period because if you can whip this
+mass around more quickly, it takes less time for
+it to go through a cycle and the period's gonna be less. That confuses people sometimes, taking more time means it's
+gonna have a larger period. Sometimes, people think if this mass gets moved around faster, you should have a bigger period, but that's the opposite. If you move this mass around faster, it's gonna take less time to move around, and the period is gonna decrease if you increase that k value. So this is what the period of
+a mass on a spring depends on. Note, it does not depend on amplitude. So this is important. No amplitude up here. Change the amplitude, doesn't matter. Those effects offset. It only depends on the mass
+and the spring constant. Again, I didn't derive this. If you're curious, watch
+those videos that do derive it where we use calculus to show this. Something else that's important to note, this equation works even if
+the mass is hanging vertically. So, if you have this mass
+hanging from the ceiling, right, something like this, and this mass oscillates
+vertically up and down, this equation would
+still give you the period of a mass on a spring. You'd plug in the mass that
+you had on the spring here. You'd plug in the spring
+constant of the spring there. This would still give you the period of the mass on a spring. In other words, it does not depend on the gravitational constant, so little g doesn't show up in here. Little g would cause this
+thing to hang downward at a lower equilibrium point, but it does not affect the
+period of this mass on a spring, which is good news. This formula works for horizontal masses, works for vertical masses, gives you the period in both cases. So, recapping, the period
+of a mass on a spring does not depend on the amplitude. You can change the amplitude, but it will not affect how
+long it takes this mass to go through a whole cycle. And that's true for
+horizontal masses on a spring and vertical masses on a spring. The period also does not depend on the gravitational acceleration, so if you took this mass on
+a spring to Mars or the moon, hung it vertically, let it oscillate, if it's the same mass and the same spring, it would have the same period. It doesn't depend on what the
+acceleration due to gravity is but the period is affected
+by the mass on a spring. Bigger mass means you
+would get more period because there's more inertia, and it's also affected
+by the spring constant. Bigger spring constant
+means you'd have less period because the force from the
+spring would be larger.

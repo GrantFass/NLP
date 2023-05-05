@@ -1,0 +1,32 @@
+- [Instructor] Let's
+say that X is a function of the parameter T and
+it's equal to cosine of T and Y is also defined as a function of T and it's equal to sin of T and we wanna find the arc length of the curve traced out, so length of curve from T is equal to zero to T is equal to pi over two. So, pause this video and
+see if you can work that out based on formulas that we
+have seen in other videos. Alright, so first, I'm
+gonna look at the formula and then we're gonna visualize it and appreciate why what
+we got from the formula actually makes sense. So, the formula tells us that arc length of a parametric curve, arc length is equal to the integral from our starting point of our parameter, T equals A to our ending
+point of our parameter, T equals B of the square
+root of the derivative of X with respect to T squared plus the derivative of Y with
+respect to T squared DT, DT. This could also be
+rewritten as this is equal to the integral from A to B of the square root of DX/DT squared plus DY/DT squared DT but either way we can now
+apply it in this context. What is DX/DT? So, DX/DT is equal to
+the derivative of cosine of T is equal to negative sin of T, negative sin of T and what is DY/DT? The derivative of Y with respect to T. The derivative of sin of T
+is cosine of T, cosine of T. So, our arc length up
+here is going to be equal to the integral from T is equal to zero to pi over two, that's what we care about, our parameter's going from zero to pi over two of the square root of the derivative of X
+with respect to T squared. That's a negative sin of T squared, well, if you square it the
+negative's gonna go away, we're gonna have negative
+sin times negative sin is positive sin squared, so I could write this as sin squared of T and then DY/DT squared, that's just cosine squared T, plus cosine squared T and then we have our DT out here. Now lucky for us, sin
+squared plus cosine squared of some variable is always
+going to be equal to one. So, that's one of our most
+basic trig identities, comes straight out of the
+unit circle definition of sin and cosine and so, we have the square root of one, the principle root of one which is just going to be one, so everything here has just simplified to the integral from
+zero to pi over two DT. Well, this is going to be equal to, so you could view it, this is a one here, the antiderivative of
+one with respect to T is just gonna be T and we're gonna evaluate
+that from pi over two. We're gonna evaluate that at pi over two and then subtract. It evaluated at zero, so this is gonna be equal to pi over two minus zero, that's going to be equal to pi over two. Now let's think about why
+that actually does make sense. Let's plot this curve. So, that is my Y axis
+and this is my X axis right over here. When T is equal to zero, you have X of zero is cosine of zero, X is equal to one, X is equal to one, and Y, sin of zero is just zero, so Y is equal to zero, so we're at this point right here at T is equal to zero and then as T increases up to pi over two, we trace out the top right corner of the unit circle and we end up right over here when T is equal to pi over two. You could view T in this case as some type of an angle in radians. And so, the arc length
+is really just the length of quarter of a quarter of a unit circle. Well, we know what the circumference of a circle is, it is two pi R. In the unit circle
+case, the radius is one, so the circumference of the
+entire circle is two pie. One fourth of that is
+going to be pi over two. So, it's nice when we this fancy thing that we feel good about it in calculus is consistent with what we
+first learned in basic geometry.

@@ -1,0 +1,61 @@
+In the last video,
+we saw that if we were to take the sum from i
+equals 0 to n of i squared, that this could be equal to--
+and we did it in two videos. It was a little bit hairy,
+but we powered through. This is equal to 1/3
+n to the third power. Let me write it a little
+cleaner than that. n to the third power plus
+1/2 n squared plus 1/6 n. And that is absolutely
+true, but you might have seen a
+different formula for this that doesn't
+look like that. And so what I want to do is now
+manipulate this a little bit algebraically to come up
+with another formula that's typically seen for this sum. So the first thing
+that we might realize is, well, what happens
+if we factor out a 1/6 n? So this is going to
+be equal to-- let's factor out this right over here. So that would be equal to
+1/6 n times-- so let's see. 1/3 divided by 1/6, that's
+the same thing as 1/3 times 6. So this right over here is going
+to be equal to 2 n squared. And you can verify it. 1/6 times 2 is 2/6 or 1/3. n times n squared is
+n to the third power. Now, 1/2 divided by
+1/6 is the same thing as 1/2 times 6, which is 3. So this term right over here
+is going to be plus 3 times n. And then finally, you
+have this term right over here, which is just
+going to be equal to 1. And now we're faced with
+factoring this thing right over here. Now, you could to do
+this-- well, let's factor by grouping this. And remember, when you
+factor by grouping, you want to
+essentially break this into two numbers where the
+product of those two numbers is equal to the
+product of 2 times 1. And the obvious thing
+is, well, 2 times 1 is 2. If I break this into 2 and 1,
+if I break this 3 into 2 and 1, well, 2 times 1 is
+definitely 2 times 1. So let me rewrite this. I'm just factoring by grouping
+here, nothing super fancy. So if I rewrite this as 2 n
+squared plus n plus 2n plus 1-- so this is all the stuff
+in this parentheses right over here-- well,
+this part right over here we can factor out an n. So this is going to be equal
+to-- let me just write the 1/6 n here so you know
+what I'm doing. So if we factor out
+an n right over here, we would have n times 2n plus 1. So that's what's in
+green right over here. That's this part
+right over here. And then what I have
+here, I could write this as plus 1 times 2n plus 1. Let me do it in that same
+color, so 1 times 2n plus 1. And so now, you can
+factor out a 2n plus 1. And this thing simplifies
+to 1/6 n times 2n plus 1. I'm just factoring
+out a 2n plus 1. And then if you factor a 2n plus
+1 out of each of these terms, you're going to
+just an n and a 1. So 1/6 times n times 2n
+plus 1 times n plus 1. And if this was a little bit
+confusing what I did here, I encourage you to
+review the videos on factoring by grouping. And another way we
+can rewrite this, we could write this whole
+thing as being equal to-- and maybe I'll write
+it in this green color that we started off with. This is the same
+thing as-- and I'll write it as n times
+n plus 1 times 2n plus 1, all of that over 6. So this expression is
+equivalent to this expression, and it's equivalent
+to this value right over here, so
+whichever one you find to be a little bit
+easier to think about.

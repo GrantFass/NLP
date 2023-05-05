@@ -1,0 +1,48 @@
+- [Voiceover] Let's see how we can use the Arrhenius equation to find the activation energy for a reaction. And so let's say our reaction is the isomerization of methyl isocyanide. So on the left here we
+have methyl isocyanide and it's going to turn into its isomer over here for our product. This is a first-order reaction and we have the different rate constants for this reaction at
+different temperatures. Let's just say we don't have anything on the right side of the
+line I just drew yet. We only have the rate constants
+at different temperatures. And in part a, they want us to find the activation energy for
+the reaction in kJ/mol. One way to do that is to remember one form of the Arrhenius equation we talked about in the previous video, which was the natural log
+of the rate constant k is equal to -Ea over R where Ea is the activation energy and R is the gas constant, times one over the temperature plus the natural log of A,
+which is the frequency factor. And this is in the form of y=mx+b, right? So if you graph the natural
+log of the rate constant on the y axis and one over
+the temperature on the x axis, you're going to get a straight line. And the slope of that straight line m is equal to -Ea over R. And so if you get the slope of this line, you can then solve for
+the activation energy. If you wanted to solve
+for the frequency factor, the y-intercept is equal
+to the natural log of A which is your frequency factor. So you could solve for
+that if you wanted to. If you put the natural
+log of the rate constant on the y axis, so up here
+this would be on the y axis, and then one over the
+temperature on the x axis, this would be your x axis here. I went ahead and did the math
+just to save us some time. If you took the natural log
+of this rate constant here, you would get this value. And if you took one over this temperature, you would get this value. And so now we have some data points. We have x and y, and we have
+these different data points which we could put into the calculator to find the slope of this line. So let's do that, let's
+plug those values in. So we go to Stat and we go to Edit, and we hit Enter twice
+and then start inputting. So x, that would be 0.00213. So when x is equal to 0.00213, y is equal to -9.757. Let's put in our next data point. So that's when x is equal to 0.00208, and y would be equal to -8.903. Our third data point is when x is equal to 0.00204, and y is equal to - 8.079. Next we have 0.002 and we have - 7.292. And then finally our last data point would be 0.00196 and then -6.536. Alright, so we have everything inputted now in our calculator. Let's exit out of here, go back
+into Stat, and go into Calc. And we hit Enter twice. We want a linear regression, so we hit this and we get
+our linear regression. So we can see right
+here on the calculator, b is the slope. So that's -19149, and then the y-intercept would be 30.989 here. So let's go ahead and write that down. So we have, from our calculator, y is equal to, m was - 19149x and b was 30.989. Alright, we're trying to
+find the activation energy so we are interested in the slope. So the slope is -19149. And those five data points, I've actually graphed them down here. You can see that I have the natural log of the rate constant k on the y axis, and I have one over the
+temperature here on the x axis. And here are those five data points that we just inputted into the calculator. And so the slope of our line is equal to - 19149, so that's what we just calculated. So to find the activation energy, we know that the slope m is equal to-- Let me change colors here to emphasize. The slope is equal to -Ea over R. So the slope is -19149, and that's equal to negative
+of the activation energy over the gas constant. And R, as we've seen
+in the previous videos, is 8.314. So we can solve for the activation energy. So let's get out the calculator
+here, exit out of that. This would be 19149 times 8.314. And so we get an activation energy of, this would be 159205 approximately J/mol. Our answer needs to be in kJ/mol, so that's approximately 159 kJ/mol. So let's write that down. Activation energy is equal to 159 kJ/mol. And so we've used all that
+data that was given to us to calculate the activation
+energy in kJ/mol. In part b they want us to
+find the activation energy, once again in kJ/mol. But this time they only want us to use the rate constants at two
+different temperatures, at 470 and 510 Kelvin. And so we need to use the other form of the Arrhenius equation
+that we talked about in the previous video. So this one was the natural log of the second rate constant k2 over the first rate constant k1 is equal to -Ea over R, once again where Ea is
+your activation energy, times one over T2 minus one over T1. And so for our temperatures, 510, that would be T2 and then 470 would be T1. Let's go ahead and plug
+in what we know so far. So the natural log, we have to look up these rate constants, we will look those up in a minute, what k1 and k2 are equal to. And that would be equal to
+negative of the activation energy which is what we're trying to find, over the gas constant
+which we know is 8.314. This would be times one over T2, when T2 was 510. So one over 510, minus one over T1 which was 470. So one over 470. Now let's go and look up those values for the rate constants. So we're looking for the rate constants at two different temperatures. And our temperatures are 510 K. Let me go ahead and change colors here. So we're looking for k1 and k2 at 470 and 510. So let's go back up here to the table. So 470, that was T1. And so this would be the value
+for the first rate constant, 5.79 times 10 to the -5. And then T2 was 510, and so this would be our
+second rate constant here. So 1.45 times 10 to the -3. And so let's plug those values back into our equation. So it would be k2 over k1, so 1.45 times 10 to the -3 over 5.79 times 10 to the -5. So let's plug that in. So this is the natural log of 1.45 times 10 to the -3 over 5.79 times 10 to the -5. So now we just have to solve
+for the activation energy. So let's find the stuff on the left first. So the natural log of 1.45 times 10 to the -3, and we're going to divide that by 5.79 times 10 to the -5, and we get, let's round that up to 3.221. So we get 3.221 on the left side. On the right side we'd have - Ea over 8.314. And let's solve for this. So let's get the calculator out again. And let's do one divided by 510. From that we're going to subtract one divided by 470. So let's see what we get. We get, let's round that to - 1.67 times 10 to the -4. So just solve for the activation energy. So we have 3.221 times 8.314 and then we need to divide that by 1.67 times 10 to the -4. And so we get an activation energy of approximately, that would be 160 kJ/mol. We need our answer in
+kJ/mol and not J/mol, so we'll say approximately
+160 kJ/mol here. So the activation energy is equal to about 160 kJ/mol, which is almost the same value that we got using the other form of
+the Arrhenius equation. So the other form we
+ended up with 159 kJ/mol, so close enough. So you can use either version
+of the Arrhenius equation depending on what you're
+given in the problem.

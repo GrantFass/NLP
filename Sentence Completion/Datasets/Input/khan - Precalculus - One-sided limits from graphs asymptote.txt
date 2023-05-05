@@ -1,0 +1,23 @@
+- [Voiceover] Over here
+we have the graph of y is equal to g of x. What I wanna do is I wanna figure out the limit of g of x as x approaches positive six from values that are
+less than positive six or you could say from the
+left, from the, you could say the negative direction. So what is this going to be equal to? And if you have a sense
+of it, pause the video and give a go at it. Well, to think about this, let's just take different
+x-values that approach six from the left and look at what the values of the function are. So g of two, looks like it's
+a little bit more than one. G of three, it's a little
+bit more than that. G of four, looks like
+it's a little under two. G of five, it looks
+like it's around three. G of 5.5, looks like it's around five. G of, let's say 5.75, looks like it's like nine. And so, as x gets closer and closer to six from the left, it looks like
+the value of our function becomes unbounded, it's just
+getting infinitely large. And so in some context,
+you might see someone write that, maybe this
+is equal to infinity. But infinity isn't, we're not talking about a specific number. If we're talking technically about limits the way that we've looked at it, what is, you'll sometimes see this in some classes. But in this context,
+especially on the exercises on Khan Academy, we'll say
+that this does not exist. Not exist. This thing right over here is unbounded. Now this is interesting because
+the left-handed limit here doesn't exist, but the
+right-handed limit does. If I were to say the limit of g of x as x approaches six from
+the right-hand side, well, let's see. We have g of eight is
+there, go of seven is there, g of 6.5, looks like it's a little less than negative three. G of 6.01, little even
+closer to negative three. G of 6.0000001 is very
+close to negative three. So it looks like this
+limit right over here, at least looking at it graphically, it looks like when we approach six from the right, looks like the function is approaching negative three. But from the left, it's just unbounded, so we'll say it doesn't exist.

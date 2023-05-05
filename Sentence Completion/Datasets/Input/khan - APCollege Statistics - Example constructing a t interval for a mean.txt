@@ -1,0 +1,34 @@
+- [Instructor] A nutritionist
+wants to estimate the average caloric content of the burritos at a popular restaurant. They obtain a random sample of 14 burritos and measure their caloric content. Their sample data are roughly symmetric with a mean of 700 calories and a standard deviation of 50 calories. Based on this sample, which of the following is
+a 95% confidence interval for the mean caloric
+content of these burritos? So, pause this video and see
+if you can figure it out. All right, what's going on here? So, there's a population of burritos here. There is a mean caloric
+content that the nutritionist wants to figure out but doesn't know the true population parameter
+here, the population mean and so, the take a sample of 14 burritos and they calculate some sample statistics. They calculate the sample mean which is 700, they also calculate the
+sample standard deviation which is equal to 50 and they want to use this data to construct a 95% confidence interval and so, our confidence
+interval is going to take the form and we've seen this before, our sample mean plus or
+minus our critical value times the sample standard deviation divided by the square root of N. The reason why we're using a T statistic is because we don't know the actual standard
+deviation for the population. If we knew the standard
+deviation for the population, we would use that instead of
+our sample standard deviation and if we use that, if we use sigma which is a population parameter then we could use a Z
+statistic right over here, we would use a Z distribution but since we're using this
+sample standard deviation, that's why we're using a T statistic but now let's do that. So, what is this going to be? So, our sample mean is 700, they tell us that, so it's going to be 700 plus or minus, so what would be our critical value for a 95% confidence interval? Well, we will just get out our T table and with the T table, remember, you have to care about degrees of freedom and if our sample size is 14, then that means you take 14 minus one, so degrees of freedom is N minus one, so that's gonna be 14 minus one is equal to 13. So, we have 13 degrees of freedom that we have to keep in mind when we look at our T table, so let's look at our T table, so 95% confidence interval and 13 degrees of freedom, so degrees of freedom right over here, so we have 13 degrees of freedom, so that is this row right over here and if we want a 95% confidence level, then that means our tail probability, remember, if our distribution, let me see, I'll draw it really small, a little small distribution
+right over here, so if you want 95% of
+the area in the middle, that means you have five
+percent not shaded in and that's evenly divided on each side, so that means you have
+two and a half percent at the tails, two and a half percent, so what you want to look for is the tail probability
+of two and a half percent. So, that is this right over here, .025, that two and a half percent and so, there you go, that is our critical value, 2.160. So, this part right over here, so this is going to be two, let me do that in a darker color, this is going to be 2.160 times what's our sample
+standard deviation? It's 50 over the square root of N, square root of 14, so all of our choices have the 700 there, so we just need to figure out what our margin of error, this part of it and we could use a calculator for that. Okay, 2.16, ic an write a zero there, it doesn't really matter, times 50 divided by the square root of 14, we get a little bit of a drum
+roll here I think, 28.86. So, this part right over here is approximately 28.86. That's our margin of error and we see out of all
+of these choices here if we round to the nearest 10th that would be 28.9, so this is approximately 28.9 which is this choice right over here. This was an awfully close one. I guess they're trying to make sure that we're looking at enough digits. So, there we have it. We have established our
+95% confidence interval. Now, one thing that we
+should keep in mind is is this a valid confidence interval? Did we meet our conditions for
+a valid confidence interval? And here we have to think well, did we take a random sample and they tell us that they
+obtained a random sample of 14 burritos, so we check that one. Is the sampling
+distribution roughly normal? Well, if you take over 30 samples then it would be but here we only took 14 but they do tell us that the sample data is roughly symmetric and so, if it's roughly symmetric and it has no significant outliers, then this is reasonable that you can assume that it is roughly normal and then the last condition is the independence condition and here if we aren't
+sampling with replacement and it doesn't look like we are, if we're not sampling with replacement, this has to be less than 10%
+of the population of burritos and we're assuming that
+there's going to be more than 140 burritos that this popular restaurant makes. So, I think we can meet the
+independence condition as well, so assuming that you feel
+good about constructing a confidence interval, this is the one that you
+would actually construct.

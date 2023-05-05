@@ -1,0 +1,96 @@
+- [Voiceover] So we've got
+an infinite series here. Negative one to the n plus
+one over the square root of n. I always like to visualize this a little bit more, expand it out. So when n equals one the
+first term is negative one to the second power, so
+it's going to be positive. It's going to be one
+over one and so it's one minus one over the square root of two plus one over the square root of three minus one over the square
+root of four and then plus, minus, and we just go
+on and on and on forever. Now when we looked at convergence tests for infinite series we
+saw things like this. This passes the alternating series test and so we know that this converges. Let's say it converges to some value S. But what we're concerned
+with in this video is not whether or not this
+converges, but estimating what this actually converges to. We know that we can estimate
+this by taking a partial sum. Let's say S sub k, this is the
+first k terms right over here and then you're going to have a remainder, so plus the remainder after
+you've taken the first k terms. So this actually starts
+with the k plus first term. And so what I am concerned
+about or what I want to figure out is what's the
+minimum number of terms, what's the minimum k here
+so that my remainder, so that the absolute value of my remainder is less than or equal to 0.001. And I encourage you to
+pause the video based on what we've seen in previous alternating series estimation situations to see if you can figure this out. Alright I'm assuming
+you've had a go at it. So let's just remind ourselves
+what R sub k looks like. So R sub k is going to start
+with the k plus first term. So it's going to be negative
+one k plus one plus one, so it's negative one
+to the k plus two over the square root of k plus one. And then the next term
+I can just write plus negative one to the k plus three over the square root of k plus two. And it's just going to go
+on and on and on like that. Now what we know already or
+what we've seen an example of and we'll verify it or at
+least conceptual verification for us at the end of this
+video is the absolute value of this entire sum
+is going to be less than the absolute value of the first term. So let me write that down. The absolute value of this
+entire remainder R sub k... And some people refer
+to this as kind of the alternating series remainder property or whatever you want to call it. But the absolute value
+of this entire thing is going to be less than or
+equal to the absolute value of the first term, negative
+one to the k plus two over the square root of k plus one. And of course we want that to
+be less than one thousandth. So that needs to be less
+than or equal to 0.001. And so now this setup
+right over here inspires you, I once again encourage
+you to pause the video and see if you can figure out what is the minimum k that
+satisfies this inequality. Well once again I'm assuming
+you've had a go at it. And the key realization here is that this negative one to the k plus
+two this makes this whole thing either positive or negative. The denominator is going to be positive. Well it's definitely going
+to be positive for all the ks frankly for
+which the principal root is going to be defined, but obviously these are all positive ks as well. So the numerator here just flips the sign. We flip between negative
+one or positive one, negative one or positive one. But if we take the
+absolute value whether it's negative or positive it's
+going to end up being positive. So this thing on the left
+hand side that's the same thing as just one over the
+square root of k plus one and then that's going to be
+less than or equal to 0.001. And now we just have to
+solve this inequality. Find out which ks satisfy this inequality. And so let's see, we
+can multiply both sides by the square root of k plus one. So square root of k plus one so we can get this out of the denominator. And let's actually multiple
+both sides times 1,000 because this is a thousandth
+and so we'll end up with a one on the right-hand side. So times 1,000, times 1,000. And what we're going to be left with is these cancel out on the left-hand side. We don't have to flip the sign because we just multiplied by positive things. So we have 1,000 is less than or equal to the square root of k plus one. We could square both
+sides and we get 1,000,000 is less than or equal to k plus one. And then we can just
+subtract one from both sides and we have 999,999 is going to be less than or equal to k. So k just has to be greater
+than or equal to 999,999. And remember we want the smallest k that satisfies these conditions. So the smallest k if k has to be greater than or equal to this, the smallest k that satisfies
+this is k is equal to 999,999. So let's write that down. So the smallest k for which this is true is going to be k is equal to 999,999. Now let's convince ourselves
+that that remainder, that the absolute value
+of the remainder is definitely going to be less... If we take the partial sum of the first 999,999 terms that this remainder is actually going to be less than this. I'm telling you so far
+we've just kind of worked from the premise that it will be, but let's actually look at
+that and feel good about it. And once again encourage you to pause the video and try it on your own. So let's just rewrite this again, but I'm going to expand out R sub k. So we're saying that it's
+all going to converge to S and we're going to take the
+partial sum of the first 999,999 terms and we're
+claiming that this is going to be within one thousandth
+of this right over here. So this is going to be plus and so the first term of the remainder, of R sub k is going to
+be our millionth term. And so the millionth term, we
+just have to remind ourselves, is going to be negative one
+to the million and oneth power so negative one to the
+million and oneth power that's going to be negative one because that's an odd number. So it's going to be negative one over the square root of a million. So actually let me do it like this. So it's going to be minus one over the square root of a million. And then the next term is going to be plus one over the square root
+of a million and one. And it's positive now
+because this is gonna be negative one to the
+million and second power. And then it's going to be minus one over the square root of one million and two. And then plus, I'll
+just do two more terms. One over the square root
+of a million and three. And then minus one over the square root of a million and four and then plus, minus, it just keeps going on and
+on, on and on and on forever. Now I want to convince
+ourselves that this thing is going to be, the
+absolute value of this thing is going to be less than one thousandth. It's going to be essentially less than the absolute value of this first term. So how do we think about it? So this first term we already know, this right over here is this
+first term right over here is negative 0.001 because
+it's one over one thousand and we have this negative right over here. Now the first thing we could realize, if we just put parentheses like this, we see that this is going to be positive, this term is larger than this term, this term is larger than this term, and we could keep going. So the remainder kind of starts
+at negative one thousandth and then it just adds a
+bunch of positive terms. So it's not going to get
+any more negative than this. So we know that the remainder
+can't get more negative than this, but let's
+also verify that it can't get more than a positive
+thousandth either. And the way that we can
+do that is to just look at the parentheses in a different way. If we do it this way that's
+going to be a negative value. This right over here is
+going to be a negative value. And we can say plus that, plus that, and so we're going to have a bunch of negative values together. So just like that by really looking at the parentheses a little bit
+differently we're able to say that this is definitely
+going to be negative. This remainder is definitely
+going to be a negative value, but it can't be any more
+negative than our first term. So that tells us that the
+absolute value of our remainder can't get any larger than one thousandth. As we add more and more
+and more terms here we're not going to get
+any further away from the actual sum than the first term.

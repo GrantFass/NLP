@@ -1,0 +1,160 @@
+Let's say I have
+some object that's traveling in a circular
+path just like this. And what I've drawn here
+is its velocity vector at different points
+along that path. And so this right over
+here is going to be v1, velocity vector 1. This is going to be
+velocity vector 2. And this right over here is
+going to be velocity vector 3. And what we're going to
+assume, in this video, is that the magnitude of these
+velocity vectors is constant. Or another way to think about it
+is that the speed is constant. So I'll just say lowercase
+v without the arrow on top-- so this is going to be a scalar
+quantity-- I'll call this the speed. Or you could call this the
+magnitude of these vectors. And this is going
+to be constant. So this is going to be equal
+to the magnitude of vector 1, which is equal to the
+magnitude of vector 2. The direction is
+clearly changing, but the magnitude is going
+to be the same, which is equal to the
+magnitude of vector 3. And we're going to assume
+that it's traveling in a path, in a circle with radius r. And what I'm going
+to do is, I'm going to draw a position
+vector at each point. So let's call r1-- actually I'll
+just do it in pink-- let's call r1 that right over there. That's position vector r1. That is position vector r2. So the position is
+clearly changing. That's position vector r2. And that is position vector r3. But the magnitude of
+our position vectors are clearly the same. And I'm going to call the
+magnitude of our position vectors r. And that's just the
+radius of the circle. It's this distance
+right over here. So r is equal to
+the magnitude of r1, which is equal to the
+magnitude of r2, which is equal to the magnitude of r3. Now what I want to
+do, in this video, is prove to you visually,
+that given this radius and given this speed,
+that the magnitude of the centripetal
+acceleration-- and I'll just write that as a sub c,
+I don't have an arrow on top, so this is a scalar quantity. So the magnitude of the
+centripetal acceleration is going to be equal
+to our speed squared, our constant speed
+squared, divided by the radius of the circle. I want you to feel good
+that this is indeed the case by the
+end of this video. And to understand
+that, what I want to do is I want to re-plot
+these velocity vectors on another
+circle and just think about how the vectors
+themselves are changing. So let's copy and paste this. So let me copy and paste v1. So copy and paste. So that is v-- actually I
+want to do it from the center --so that is v1. Then let me do the
+same thing for v2. So let me copy and paste it. That is v2. And then let me
+do it also for v3. I'll just get the vector part;
+I don't have to get the label. So copy and paste it. And that right over
+there is vector v3. And let me clean
+this up a little bit. So that's clearly v2. I don't think we have
+to label anymore. We know that v2 is in orange. And what is the
+radius of this circle going to be right over here? Well, the radius
+of this circle is going to be the magnitude
+of the velocity vectors. And we already know the
+magnitude of the velocity vectors is this quantity
+v, this scalar quantity. So the radius of this circle is
+v. The radius of this circle, we already know, is equal to r. And just as the
+velocity vector is what's giving us the
+change in position over time, the change in
+position vector over time, what's the vector
+that's going to give us the change in our
+velocity vector over time? Well, that's going to be
+our acceleration vectors. So you will have
+some acceleration. We'll call this a1. We'll call this a2. And I'll call this a3. And I want to make
+sure that you get the analogy that's
+going on here. As we go around in this
+circle, the position vectors first they point out
+to the left, then the upper, kind of in a maybe
+11 o'clock position, or I guess the top left,
+and then to the top. So it's pointing in these
+different directions like a hand in a clock. And what's moving it
+along there is the change in position vector
+over time, which are these velocity vectors. Over here, the velocity
+vectors are moving around like the hands of a clock. And what is doing
+the moving around are these acceleration vectors. And over here, the
+velocity vectors are tangential to the
+path, which is a circle. They're perpendicular
+to a radius. And you learned
+that in geometry-- that a line that is
+tangent to a circle is perpendicular to a radius. And it's also going to be the
+same thing right over here. And just going back
+to what we learned when we learned
+about the intuition of centripetal acceleration, if
+you look at a1 right over here, and you translate this vector,
+it'll be going just like that. It is going towards the center. a2, once again, is going
+towards the center. a3, once again, if
+you translate that, that is going
+towards the center. So all of these are actually
+center-seeking vectors. And you see that
+right over here. These are actually centripetal
+acceleration vectors right over here. Here we're talking about
+just the magnitude of it. And we're going to
+assume that all of these have the same magnitude. So we're going to
+assume that they all have a magnitude of
+what we'll call a sub c. So that's the magnitude. And it's equal to
+the magnitude of a1. That vector, it's equal
+to the magnitude of a2. And it's equal to
+the magnitude of a3. Now what I want to think
+about is how long is it going to take for
+this thing to get from this point on the circle
+to that point on that circle right over there? So the way to think about it
+is, what's the length of the arc that it traveled? The length of this arc that
+it traveled right over there. That's 1/4 around the circle. It's going to be 1/4
+of the circumference. The circumference is 2 pi r. It Is going to be 1/4 of that. So that is the
+length of the arc. And then how long will
+it take it to go that? Well, you would
+divide the length of your path divided by the
+actual speed, the actual thing that's nudging it
+along that path. So you want to divide that by
+the magnitude of your velocity, or your speed. This is the magnitude of
+velocity, not velocity. This is not a vector right
+over here, this is a scalar. So this is going to be the
+time to travel along that path. Now the time to
+travel along this path is going to be the exact
+same amount of time it takes to travel along this
+path for the velocity vector. So this is for the position
+vector to travel like that. This is for the velocity
+vector to travel like that. So it's going to be
+the exact same T. And what is the
+length of this path? And now think of it in the
+purely geometrical sense. We're looking at a circle here. The radius of the circle
+is v. So the length of this path right over
+here is going to be 1/4. It is going to be-- I'll
+do it in that same color so you see the analogy--
+it's equal to 1/4 times the circumference of the circle. The circumference of
+this circle is 2 pi times the radius of the
+circle, which is v. Now what is nudging
+it along this circle? What is nudging it
+along this path? What is the analogy for
+speed right over here? Speed is what's nudging it
+along the path over here. It is the magnitude of
+the velocity vector. So what's nudging it along
+this arc right over here is the magnitude of the
+acceleration vector. So it is going to be a sub c. And these times are going
+to be the exact same thing. The amount of time it
+takes for this vector to go like that, for
+the position vector, is the same amount of
+time it takes the velocity vector to go like that. So we can set these 2
+things equal each other. So we get, on this side,
+we get 1/4 2 pi r over v is equal to 1/4 2 pi v over the
+magnitude of our acceleration vector. And now we can simplify
+it a little bit. We can divide both sides by 1/4. Get rid of that. We can divide both sides
+by 2 pi, get rid of that. Let me rewrite it. So then we get r/v
+is equal to v over the centripetal acceleration. And now you can cross multiply. And so you get v
+times v. So I'm just cross multiplying right
+over here. v times v, you get v squared, is
+equal to a c times r. And cross multiplying, remember,
+is really just the same thing as multiplying both sides
+by both denominators, by multiplying both
+sides times v and ac. So it's not some magical thing. If you multiply both sides times
+v and ac, these v's cancel out. These ac's cancel out. You get v times v is v squared,
+is equal to a sub c times r. And now to solve
+for the magnitude of our centripetal
+acceleration, you just divide both sides by r. And you are left
+with-- and I guess we've earned a drum
+roll now-- the magnitude of our centripetal
+acceleration is equal to the magnitude,
+our constant magnitude of our velocity. So this right here
+is our speed, divided by the radius of the circle. And we're done!

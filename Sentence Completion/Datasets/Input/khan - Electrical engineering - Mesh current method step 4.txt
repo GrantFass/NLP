@@ -1,0 +1,49 @@
+- [Voiceover] We're working
+on the mesh current method, a method of analyzing circuits. And in the previous video
+we set up our circuit, we set up our mesh currents
+flowing around these loops within the circuit, and we
+solved for the easy currents. That was the current on this side, this current source constrains
+i3 to be a fixed value, so we already know i3. And then we created two equations from the two independent
+variables, the two currents here, to describe how the circuit works. And in this video we're going
+to solve these two equations. One thing to remind ourselves, when we defined these mesh currents all of them went in the same direction. It helps to make them all
+go in the same direction, but all clockwise in this case. And that's so that when you have this little pattern down here of i1 minus i2, or i2 minus i3, that it becomes a familiar pattern, and it helps to get the signs right. The other thing to point out is the reason we're using
+meshes and not any other loop in this circuit, not overlapping loops like we could have gone all the way around the outside in a loop. The reason that meshes, in particular the open
+areas of the circuit, are a good way to do this method is because it produces exactly the right number of equations
+to solve the circuit. You don't have too few equations, and you don't have too many equations. So let me move the screen up and we'll go to work on these equations. So now we begin step four, which is to solve the equations. And what I want to do first is, just to tidy up a little bit, I'm gonna take the constants and I'm gonna put them
+on the right hand side, and I'm gonna gather
+together the terms for i1 and the terms for i2 in separate places. So if we go at the first
+equation and we look for i1, it's mentioned here twice, so we get minus and it's a combination of r1 and plus r2 times i1. And for the i2 term,
+let's see if i2 shows up, i2 just shows up once here. So it's gonna be plus r2 i2. And that's gonna be equal to, let's move V over to the other side, so V becomes minus V over here. So that's our first equation. So now let's tidy up the second equation. The i1 terms, this is
+the only i1 term here. So it's plus r2 i2, oops, plus r2 i1, that's the only i1 term. Now if we do i2 terms, we're gonna have minus r2 i2,
+minus r3 i2, and minus r4, i2. So let's do that this way, r2 plus r3 plus r4 times i2. Now we have an i3 term in here, but we know what i3 is,
+i3 we know from this. So I'm gonna write that down right here, that equals minus I, there's
+lots of minus signs here, so let's see if we can get this right. Minus r4 times minus i3 is positive r4 i3, or it's negative r4 I, and when we take it to the
+other side it'll be plus r4 I. Let me check that again. Minus r4 times minus
+i3 is a positive sign, I gives it a negative
+sign, and when we take it to the other side it gets a positive sign. Good. Alright? So this is what our
+equations look like now. Let's keep going. I can continue using symbols
+for the resistor values, but it's gonna get kind of complicated and it doesn't help
+with our understanding, so I'm gonna switch over
+to a specific circuit. So what I did was I filled
+in some resistor values here and I put five volts
+on the voltage source, one k ohms for r1, 2k ohms is r2, 3k ohms is r3, 3k ohms is r4, and there's two milliamps over here. So I'm just gonna write these values onto the equation here so I don't mess up. One k, two k, two k, that's five volts. That's two k ohms, two
+k ohms, three k ohms, and r4 was also three, is three, and I is two milliamps. I'm gonna move the circuit down
+out of the way a little bit. Now we have room for our equation. Let's fill it out again
+with the real values. So it's gonna be minus
+one plus two is three i1, plus two i2 equals minus five. We know all the resistors are k ohms and so we can actually
+scale our equations down by a factor of 1,000 and just use the simple numbers without the ks. So our second equation is two i1 minus two plus three
+plus three is eight i2, and that equals three k
+ohms times two milliamps, is plus six. So this is getting close
+to something we can solve. So I think the way I want to solve this is I'm going to take this equation here and multiply it by four, and then add it to this equation here. And let's see what we get. So four times minus three is minus 12, and we add it and we're gonna get. Four times two is eight,
+minus eight, and i2 drops out. That was the purpose of the four. And that equals four times
+minus five is minus 20, plus six is minus 14. So i1 equals minus 14 over 10, or i1 equals 1.4 milliamps, and that's cool. We get to put a box around that. So as a reminder, we defined
+i1 to be the mesh current flowing around like this in i1. 1.4 milliamps. That's one of our independent variables. Now that we know i1, let's just choose one of our original equations here
+and figure out what i2 is. We'll plug in two times
+i1, which is 1.4 milliamps, minus eight i2 equals six. And now we have to figure out i2. So let's solve this. Minus eight i2 equals six minus two times 1.4 is 2.8. i2 equals 3.2 divided by minus eight, or i2 equals minus 0.4 milliamps. And we can draw a box around that too. So let's put that mesh current in. And our mesh current was. That was i2, and that
+equals minus 0.4 milliamps. And what that means is
+that the current is flowing in the negative direction, so it's actually flowing this
+way through these resistors. It's actually flowing in the
+counterclockwise direction is the positive current. And from before we already knew i3. i3 equals minus two milliamps. So let's do one last thing here, let's figure out the
+currents in the elements. Let's just figure out a couple of them, that one and that one. So that is ir2 and this one is ir4. ir2 equals i2 minus, oops, i1 minus i2 equals, i1 is 1.4 minus negative .4, and so that current equals 1.8 milliamps. And we'll do one last one,
+we'll do ir4, this is r4 here. And ir4 is i2 minus i3. So that equals, i2 is minus .4, minus i3. i3 is minus two milliamps. So ir4 equals two minus .4, or 1.6 milliamps. And there you have it, we used the mesh current
+method to solve our circuit.

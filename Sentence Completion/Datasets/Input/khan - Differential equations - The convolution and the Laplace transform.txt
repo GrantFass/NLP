@@ -1,0 +1,178 @@
+Now that you've had a little
+bit of exposure to what a convolution is, I can
+introduce you to the convolution theorem, or at
+least in the context of-- there may be other convolution
+theorems-- but we're talking about differential equations
+and Laplace transforms. So this is the convolution theorem
+as applies to Laplace transforms. And it tells us that
+if I have a function f of t-- and I can define its Laplace
+transform as, let's see, the Laplace transform of
+f of t is capital F of s. We've done that before. And if I have another function,
+g of t, and I take its Laplace transform, that of
+course is capital G of s. Then if we were to convolute
+these two functions, so if I were to take f and I were to
+convolute it with g, which is going to be another function
+of t-- and we already saw this. We saw that in the last video. I convoluted sine and cosine. So this is going to be
+a function of t. That the Laplace transform of
+this thing, and this the crux of the theorem, the Laplace
+transform of the convolution of these two functions is equal
+to the products of their Laplace transforms. It equals
+F of s, big capital F of s, times big capital G of s. Now, this might seem very
+abstract and very, you know, hard to kind of handle
+for you right now. So let's do an actual example. And actually, even better, let's
+do an inverse Laplace transform with an example. And actually, let me write
+one more thing. If this is true, then we could
+also do it the other way. We could also say that f-- and
+I'll just do it all in yellow; it takes me too much time to
+keep switching colors-- that the convolution of f and g, this
+is just a function of t, I can just say it's the inverse
+Laplace transform. It's just the inverse Laplace
+transform of F of s times G of s. Although I couldn't resist it. Let me switch colors. There you go. Now, what good does
+all of this do? Well, we can take inverse
+Laplace transforms. Let's just say that I had-- let me write
+it down here-- let's say I told you that the following
+expression or function, let's say H of s-- let me write it
+this way-- H of s is equal to 2s over s squared plus 1. Now, we did this long
+differential equations at the end, we end up with this thing
+and we have to take the inverse Laplace transform
+of it. So we want to figure out the
+inverse Laplace transform of H of s, or the inverse Laplace
+transform of this thing right there. So we want to figure out the
+inverse Laplace transform of this expression right here, 2s
+over s squared plus 1 squared. I don't want to lose that. Right there. Now, can we write this as the
+product of two Laplace transforms that we do know? Let's try to do it. So we can rewrite this. And so this is the inverse
+Laplace transform. So let me rewrite this
+expression down here. So I can rewrite 2s over s
+squared plus 1 squared. This is the same thing as-- let
+me write it this way-- 2 times 1 over s squared plus 1,
+times s over s squared plus 1. I just kind of broke it up. If you multiply the numerators
+here, you get 2 times 1, times s, or 2s. If you multiply the denominators
+here, s squared plus 1, times s squared plus 1,
+well, that's just s squared plus 1 squared. So this is the same thing. So if we want to take the
+inverse Laplace transform of this, it's the same thing as
+taking the inverse Laplace transform of this right here. Now, something should
+hopefully start popping out at you. If these were separate
+transforms, if they were on their own, we know
+what this is. If we call this F of s, if we
+said this is the Laplace transform of some function, we
+know what that function is. This is this piece right here. I'm just doing a little
+dotted line around it. This is the Laplace transform
+of sine of t. And then if we draw a little
+box around this one right here, this is the Laplace
+transform of cosine of t, G of s. So this is the Laplace transform
+of sine of t, or we could write that this implies
+that f of t is equal to sine of t. You should recognize
+that one by now. And this implies that g of t,
+if we define this as the Laplace transform of g, this
+means that g of t is equal to cosine of t. And, of course, when you take
+the inverse Laplace transforms, you could
+take the 2's out. So now what can we say? We can now say that the-- let
+me write it this way-- the inverse-- so actually, let
+me write it this way. Or, actually, a better thing to
+do, instead of taking the 2 out, so I can leave it nice
+and clean, we could, if we were to draw a box around this
+whole thing, and define this whole thing as F of s, then F of
+s is the Laplace transform of 2 sine of t. I just wanted to
+include that 2. I didn't want to leave that
+out and confuse the issue. I wanted a very pure F
+of s times G of s. So this expression right here is
+the product of the Laplace transform of 2 sine of t, and
+the Laplace transform of cosine of t. Now, our convolution theorem
+told us this right here. That if we want to take the
+inverse Laplace transform of the Laplace transforms of two
+functions-- I know that sounds very confusing --but you just
+kind of pattern match. You say, OK look, this thing
+that I had here, I could rewrite it as a product
+of two Laplace transforms I can recognize. This right here is the Laplace
+transform of 2 sine of t. This is the Laplace transform
+of cosine of t. And we just wrote that as
+G of s, and F of s. So if I have an expression
+written like this, I can take the inverse Laplace transform
+and it'll be equal to the convolution of the original
+functions. It'll be equal to the
+convolution of the inverse of g or the inverse of f. Let me write it this way. I could write it like this. We know that f of t is equal
+to the inverse Laplace transform of F of s. And we know that g-- I should
+have done it in a different color, but I'll do g in green--
+we know that g of t is equal to the inverse Laplace
+transform of G of s. So we can rewrite the
+convolution theorem as the inverse-- and this might maybe
+confuse you more than help, but I'll give my best shot. The inverse Laplace transform
+of-- and I'll try to stay true to the colors-- of F of s times
+G of s is equal to-- I'm just restating this convolution theorem right here. This is equal to the convolution
+of the inverse Laplace transform of F of s. So it's equal to the convolution
+of the inverse Laplace transform of F of s
+with the inverse Laplace transform of G of s. With the inverse Laplace
+transform of capital G, of G of s. I'm not sure if that helps you
+or not, but if you go back to this example it might. This is F of s, this is
+F of s right here. 2 times-- I'll do it in the
+light blue-- this is 2 over s squared plus 1. That's F of s in our example. And the G of s was s over
+s squared plus 1. And all I got that from is I
+just broke this up into two things that I recognize. If I multiply this together, I
+get back to my original thing that I was trying to take the
+inverse Laplace transform of. And so the convolution theorem
+just says that, OK, well, the inverse Laplace transform of
+this is equal to the inverse Laplace transform of 2 over s
+squared plus 1, convoluted with the inverse Laplace
+transform of our G of s, of s over s squared plus 1. And we know what these
+things are. I already told them to you, but
+they should be somewhat second nature now. This is 2 times sine of t. You take the Laplace transform
+of sine of t, you get 1 over s squared plus 1, and then you
+multiply it by 2, you get the 2 up there. And you're going to have to
+convolute that with the inverse Laplace transform
+of this thing here. And we already went over this. This is cosine of t. So our result so far--
+let me be very clear. It's always good to take a step
+back and just think about what we're doing, much less
+why we're doing it. But let's see, the inverse
+Laplace transform of this thing up in this top left
+corner, 2s over s squared plus 1 squared, which before we did
+what we're doing now was very hard to figure out-- actually,
+this would be a curly bracket right here, but you get the
+idea-- is equal to this. It's equal to 2 sine of t,
+convoluted with cosine of t. And you're like, Sal, throughout
+this whole process I've already forgotten what
+it means to convolute two functions, so let's
+convolute them. And I'll just write the
+definition, or the definition we're using of the
+convolution. That f convoluted with
+g-- it's going to be a function of g. I'll just write this
+short-hand-- is equal to the integral from 0 to t,
+of f of t minus tau, times g of tau, dtau. So 2 sine of t convoluted with
+cosine of t is equal to-- let me do a neutral color-- the
+integral from 0 to t, of 2 sine of t, minus tau, times
+the cosine of tau, dtau. Now if you watched the very last
+video I made, I actually solved this, or I solved a very
+similar thing to this. If we take the 2 out we get 2,
+times the integral from 0 to t, of sine of t minus tau,
+times the cosine of tau. I actually solved this in
+the previous video. This right here, this is the
+convolution of sine of t and cosine of t. It's sine of t convoluted
+with cosine of t. And I show you in the previous
+video, just watch that video, where I introduce a convolution,
+that this thing right here is equal
+to 1/2t sine of t. Now, if this thing is equal to
+1/2 t sine of t, and I have to multiply it by 2, then we get,
+our big result, that the inverse Laplace transform of
+2s over s squared plus 1 squared is equal to the
+convolution of 2 sine of t with cosine of t. Which is just 2 times this thing
+here, which is 2 times 1/2-- those cancel out-- so
+it equals t sine of t. And once you get the hang of
+it, you won't have to go through all of these steps. But the key is to recognize that
+this could be broken down as the products of two Laplace
+transforms that you recognize. This could be broken down as
+the product of two Laplace transforms we recognized. This is the Laplace transform
+of 2 sine of t. This was the Laplace transform
+of cosine of t. So the inverse Laplace transform
+of our original thing, or original expression,
+is just the convolution of that with that. And if you watched the previous
+video, you'd realize that actually calculating that
+convolution was no simple task, but it can be done. So you actually can get
+an integral form. Even if it can't be done, you
+can get your answer, at least, in terms of some integral. So I haven't proven
+the convolution theorem to you just yet. I'll do that in a
+future video. But hopefully, this gave you a
+little bit of a sense of how you can use it to actually
+take inverse Laplace transforms. And remember, the
+reason why we're learning to take inverse Laplace transforms,
+and we have all of these tools to do it, is because
+that's always that last step when you're solving
+these differential equations, using your Laplace transforms.

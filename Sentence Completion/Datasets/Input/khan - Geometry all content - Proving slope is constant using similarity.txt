@@ -1,0 +1,140 @@
+We tend to be told in algebra
+class that if we have a line, our line will have a
+constant rate of change of y with respect to x. Or another way of
+thinking about it, that our line will have
+a constant inclination, or that our line will
+have a constant slope. And our slope is literally
+defined as your change in y-- this triangle is
+the Greek letter delta. It's a shorthand
+for "change in." It means change in y--
+delta y means change in y-- over change in x. And if you're dealing with
+a line, this right over here is constant for a line. What I want to do
+in this video is to actually prove that
+using similar triangles from geometry. So let's think about
+2 sets of 2 points. So let's say that's
+a point there. Let me do it in a
+different color. Let me start at this point. And let me end up at that point. So what is our change in
+x between these 2 points? So this point's x value
+is right over here. This point's x value
+is right over here. So our change in x is going
+to be that right over there. And what's our change in y? Well, this point's y
+value is right over here. This point's y value's
+right over here. So this height or this
+height is our change in y. So that is our change in y. Now, let's look
+at 2 other points. Let's say I have this point
+and this point right over here. And let's do the same exercise. What's the change in x? Well, let's see. If we're going-- this
+point's x value's here. This point's x value's here. So if we start here
+and we go this far, this would be the change
+in x between this point and this point. And this is going
+to be the change-- let me do that in
+the same green color. So this is going to be the
+change in x between those two points. And our change in y, well,
+this y value is here. This y value's up here. So our change in y is going
+to be that right over here. So what I need to
+show-- I'm just picking 2 arbitrary points. I need to show that the
+ratio of this change in y to this change of
+x is going to be the same as the ratio
+of this change in y to this change of x. Or the ratio of this purple
+side to this green side is going to be the
+same as the ratio of this purple side
+to this green side. Remember, I'm just picking 2
+sets of arbitrary points here. And the way that I will show
+it is through similarity. If I can show that this triangle
+is similar to this triangle, then we are all set up. And just as a reminder
+of what similarity is, 2 triangles are similar--
+and there's multiple ways of thinking about
+it-- if and only if all corresponding--
+or I should say, all three angles are the
+same, or are congruent. And let me be careful here. They don't have to be
+the same exact angle. The corresponding angles
+have to be the same. So corresponding--
+I always misspell it-- angles are
+going to be equal. Or we could say
+they are congruent. So for example, if I have
+this triangle right over here. And this is 30, this
+is 60, and this is 90. And then I have this
+triangle right over here. I'll try to draw it--
+so I have this triangle, where this is 30 degrees,
+this is 60 degrees, and this is 90 degrees. Even though their side
+lengths are different, these are going to
+be similar triangles. They're essentially scaled
+up versions of each other. All the corresponding
+angles-- 60 corresponds to this 60, 30
+corresponds to this 30, and 90 corresponds to this 1. So these 2 triangles
+are similar. And what's neat about
+similar triangles, if you can establish that
+2 triangles are similar, then the ratio between
+corresponding sides is going to be the same. So if these 2 are
+similar, then the ratio of this side to
+this side is going to be the same as
+the ratio of-- let me do that pink color--
+this side to this side. And so you can see
+why that will be useful in proving that the
+slope is constant here, because all we
+have to do is look. If these 2 triangles
+are similar, then the ratio between
+corresponding sides is always going to be the same. We've picked 2 arbitrary
+sets of points. Then this would be true,
+really, for any 2 arbitrary set of points across the line. It would be true
+for the entire line. So let's try to
+prove similarity. So the first thing we
+know is that both of these are right triangles. These green lines are
+perfectly horizontal. These purple lines
+are perfectly vertical because the green
+lines literally go in the horizontal direction. The purple lines go in
+the vertical direction. So let me make sure
+that we mark that. So we know that these
+are both right angles. So we have 1 corresponding
+angle that is congruent. Now we have to show
+that the other ones are. And we can show
+that the other ones are using our knowledge
+of parallel lines and transversals. Let's look at these
+2 green lines. So I'll continue them. These are line segments,
+but if we view them as lines and we just continue
+them, on and on and on. So let me do that,
+just like here. So this line is clearly
+parallel to that 1. They essentially are
+perfectly horizontal. And now you can view our
+orange line as a transversal. And if you view it
+as a transversal, then you know that this angle
+corresponds to this angle. And we know from transversals
+of parallel lines that corresponding
+angles are congruent. So this angle is going to
+be congruent to that angle right over there. Now, we make a very similar
+argument for this angle, but now we use the
+2 vertical lines. We know that this segment, we
+could continue it as a line. So we could continue it,
+if we wanted, as a line, so just like that,
+a vertical line. And we could continue this
+one as a vertical line. We know that these
+are both vertical. They're just measuring--
+they're exactly in the y direction,
+the vertical direction. So this line is parallel to
+this line right over here. Once again, our orange line
+is a transversal of it. And this angle corresponds to
+this angle right over here. And there we have it. They're congruent. Corresponding angles of the
+transversal of 2 parallel lines are congruent. We learned that
+in geometry class. And there you have it. All of the
+corresponding-- this angle is congruent to this angle. This angle is congruent
+to that angle. And then both of
+these are 90 degrees. So both of these are
+similar triangles. Just let me write
+that down so we know that these are
+both similar triangles. And now we can use the
+common ratio of both sides. So for example, if we
+called this side length a. And we said that this
+side has length b. And we said this
+side has length c. And this side has length d. We know for a fact
+that the ratio, because these are
+similar triangles, between corresponding
+sides, the ratio of a to b is going to be equal
+to the ratio of c to d. And that ratio is
+literally the definition of slope, your change in
+y over your change in x. And this is constant
+because any right triangles that you generate
+between these two points, we've just shown that they
+are going to be similar. And if they are
+similar, then the ratio of the length of
+this vertical line segment to this horizontal
+line segment is constant. That is the definition of slope. So the slope is
+constant for a line.

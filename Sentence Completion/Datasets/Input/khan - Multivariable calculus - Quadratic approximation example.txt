@@ -1,0 +1,163 @@
+- [Voiceover] When we last
+left off in the riveting saga of quadratic approximations
+of multi variable functions, we were approximating a two
+variable function, f of xy, and we ended up with this
+pretty monstrous expression, and because it's written its
+full abstract form, I almost feel like it looks more
+monstrous than it needs to, so I'm going to go ahead
+and go through a specific example here, and just to
+remind you of kind of what all these terms are, how
+there's actually kind of a pattern to what's going
+on, this here represents, you can think of it as the
+constant term, where you know this is just going to evaluate
+to some kind of number. These two terms are what you
+might call the linear term, linear, because if you
+actually look, the only places where the variable x
+and y comes up is here, where it's just being
+multiplied by a constant, and here, where it's just
+being multiplied by a constant, so it's just variables
+times constant in there. And then all of this stuff
+at the end, which is kind of the whole essence of a
+quadratic approximation, where you start to have things
+like you get an x squared, and you get x gets to be multiplied by y, all of this stuff is the
+quadratic term, and though it seems like a lot now,
+you'll see in the context of an actual example, it's
+not necessarily as bad as it seems. So let's say we're looking
+at the function f of xy and let's say it's going to be e to the x divided by two, multiplied by sin of y. This is our multi variable function. And let's say we want to
+approximate this near some kind of point, and I'm going
+to choose a point that's something that we can
+actually evaluate these at, so like x, it would be
+convenient if that was zero, and then y, I'll go with
+pi halves, because that's something where I'll
+know how to evaluate sin, and where I'll know how to
+evaluate its derivatives, things like that. So we're trying to
+approximate this function near this point. Now first things first. We're just going to need
+to get all of the different partial derivatives and
+second partial derivatives. We know we're going to need
+them, so let's just kind of start working it through,
+and figuring out what all of them are. Let's start with the partial
+derivative with respect to x. So this is also a function of xy, and we look up at the original function, the only place where x shows
+up is in this e to the x over two, the derivative
+of that is one half, we bring down that one half, times e to the x over two, and this is being multiplied
+by something that looks like a constant, as far as x is concerned, sin of y. Now when we do the partial
+derivative with respect to y, what we get, this first part just looks
+like a constant, so we kind of keep that constant there,
+as far as y is concerned, and the derivative of sin is cosin. Cosin of y. And then now we let's start taking second
+partial derivatives, so I'll start by doing the one where we take the partial derivative
+with respect to x twice. Now here I'll actually do
+this in a different color. Let's do yellow. Just to make clear which
+ones are the second partial derivatives. So partial with respect to x twice, also, function of xy,
+like all of these guys. So let's look up at the
+original partial derivative with respect to x, and we're
+now going to take its derivative, again with respect to x. This is the only place where x shows up, that one half kind of comes down again, so now it's going to be one fourth times e to the x over two, and we just keep that sin of y, because it looks like
+we're just multiplying by a constant, sin of y. Next we'll do the mixed partial
+derivative, where you do first with respect to x,
+then with respect to y, or you could do it the other
+way, because with almost all functions, it kind
+of doesn't matter which order you take the two. So I'll go ahead and
+just look at the one that was with respect to x,
+and now let's think of its derivative with respect to y. This whole one half e to the x halves looks like a constant,
+derivative of sin of y is cosin y. So we take that constant,
+the one half e to the x halves, and then we multiply it by
+the derivative of sin of y, which is cosin of y. And then finally we take
+the second derivative, second partial derivative with respect to y, twice in a row. So f with respect to y, twice in a row. And for this one, let's
+take a look at the partial derivative with respect to y. This part is the only
+part where y shows up, derivative of cosin is negative sin, and then e to the x halves just
+still looks like a constant, so we'll bring that negative out front, that constant e to the x halves, and it was negative sin, so that negative went out front, sin of y. So that's all of the partial
+differential information that we're going to need. And now we know we're
+going to need to evaluate all of these guys, all of
+these partial derivatives at the specific point,
+because if we go up and look at the original
+function that we have, we're going to need to
+evaluate f at this point, both of the partial
+derivatives at this point, the second partial derivatives. Oh, I'm realizing, actually,
+that I made a little bit of a mistake here. This should be a one half out in front of each of these guys. That should be plus
+one half of this second partial derivative, and
+one half of this second partial derivative. The mixed partial
+derivative it's still one, but these guys should have a one half. That was a mistake on my part. In any case, though, we're
+going to need to evaluate all of these guys, so if we go back down, let's just start plugging
+in the point zero and pi halves to each one of these. So the function itself,
+when we plug in zero, e to the zero is one,
+and sin of pi halves, sin of pi halves is also one, so this entire thing just comes to one. If we do this for the next one, again e to the zero is going to be one, sin of y is also going to be one, but now we have that
+one half sitting there, so that'll end up as one half. If we look at the partial
+derivative with respect to y, cosin of pi halves is zero, so this entire thing is going to be zero. Moving right along, let's
+take a look at this second partial derivative with respect to x. Again, e to the zero will be one, and sin of pi halves will be one, so this ends up just
+being that one fourth, the mixed partial derivative here, if we have one half by the
+pattern's starting to continue, you've got the one, this
+one's actually zero, so cosin of pi halves is zero, so the whole thing will be zero. And then the last one it'll be negative one times that one again, for sin of pi halves is one, so all of that just comes
+out to be negative one. So this, I mean I kind of
+chose a convenient example, where all the derivatives
+look very similar to the thing itself, which is
+actually pretty common, so we get to leverage
+a lot of the work that we did earlier. So now we have these
+six different constants, can't keep them all on the
+screen at the same time. But we've got these six
+different constants, so now we just plug each
+one of them in to the quadratic approximation. So if we make our quadratic
+approximation of our function, the first term is that constant term, so we take a look up and
+we say where does f of xy go at this point, and it'll just be one. We're going to have to do
+a lot of scrolling back and forth here. There's a lot of text to deal with. The next thing is going to be something times x minus zero, the
+kind of x coordinate of our specified point, and that something is
+the first derivative with respect to x, so that's
+going to be one half. So come back down here. That one half. And then similarly, we're
+going to have something multiplied by y minus the y coordinate of the point about which
+we are approximating, and for that we take a look
+at the partial derivative with respect to y, which was just zero, so that's pretty convenient. That's just going to end up being zero. And then for the second
+partial derivative terms, maybe I'll actually be able to keep it on the same screen here. We're going to have
+something multiplied by x minus its coordinate squared, and that something is whatever
+the partial derivative with respect to x twice
+is, which is one fourth, so we go ahead and plug in one fourth, and then for the mixed partial derivative, I'll put it down here, it'll be something multiplied
+by x, minus its constant, and then y minus that pi halves, and that something is the
+mixed partial derivative, which in this case is zero. Oh and I'm realizing I made
+the same mistake again. It's not one fourth, it's one half. For the same reason that I
+made a mistake up here earlier, where it's actually one
+half multiplied by this second partial derivative,
+and one half by the second partial derivative there, I
+guess I keep forgetting that. Good lesson, I suppose, that
+that's an easy thing to forget, if you find yourself
+computing one of these, where I'll put it in here, multiply that guy by one half. It's similar to a Taylor
+expansion in single variable calculus, where you kind
+of have to remember what's what that squared term
+would be, has a one half associated with it. So for that same reason,
+now we're going to have, and this time I won't forget it, will be one half multiplied by something, multiplied by the y minus pi halves, minus that y coordinate of
+the point we're approximating there, and this time that something is negative one. So we can kind of plug
+in here negative one. And now this is something
+we can simplify quite a bit, because that one stays there, one half of x minus zero, that's just x halves, this whole part cancels out to zero, so there's nothing there. Over here we have half
+times a fourth, one eighth times x squared, so that's x squared divided by eight. This mixed partial
+derivative term is zero, so that's pretty nice. And then this last term here is just negative one half, so let's see, I'll write
+it down as negative one half by y minus pi halves squared, by y minus pi halves squared. So that is the quadratic approximation, and you can see this actually feels like a quadratic function. We've got up to x squared,
+and up to y squared, and there's a sense in which this is a simpler function. I mean, it looks like it's
+got more terms than the original one, which was e
+to the x halved sin of y, but if it's a computer
+that needs to compute these things, for example, it's
+much easier to deal with polynomials, that's a faster thing to do. Also for theoretical
+purposes, it can be nice to deal with just a quadratic
+polynomial to make conclusions about things. We'll see that in the context
+of something called the second partial derivative test. But just to get a feel for
+what this means, let's pull up the graph of the relevant functions. So this here is the graph
+of the original function, e to the x halves times sin of y, and the point that
+we're approximating near was where x equals zero, so let's see how we get oriented. X is equal to zero, and then
+y is equal to pi halves. So this is the point
+we're approximating near. And the quadratic approximation,
+when you plug everything in, has a graph that looks
+like this white surface here. So if I get rid of that
+original graph, this is how we're approximating the
+function near that point. And that does a pretty good job, right? Because even as you step
+pretty far away from that point, it's pretty closely
+hugging the original surface. If you go very far away,
+it certainly doesn't get the oscillating nature
+of that sin component, and the exponential
+component grows faster than the quadratic one, but nearby, nearby this actually
+gives a very good feel for the shape of the graph. And again, later on we'll
+see how this is a pretty useful theoretical tool for
+drawing conclusions about qualitative features of
+the shape of the graph, the fact that this looks
+kind of like a saddle, is going to end up being kind of important in certain contexts. But before we get to any
+of that, in the next couple videos I'm going to talk about a simpler, or rather a more generalizable form, of writing down this
+quadratic approximation using vector notation. Because right now we're just limited to two variables, and you can
+imagine how monstrous this might look if you were
+dealing even just with a three variable function, where think of all the
+different possible second partial derivatives of a
+three variable function, or a four variable function. It would quickly get out
+of hand, but there is kind of a nice general way
+to write all of these. So with that, I will see you next video.

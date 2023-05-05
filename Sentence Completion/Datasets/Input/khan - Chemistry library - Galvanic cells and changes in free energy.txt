@@ -1,0 +1,98 @@
+- [Voiceover] We already know
+that for this galvanic cell solid zinc is oxidized
+to zinc two plus ions. Oxidation occurs at the anodes, that this electrode is our anode, and copper two plus ions
+are reduced to solid copper. Reduction occurs at the cathode so this electrode must be our cathode. If we start with a one molar
+concentration of zinc sulfate that means in solution
+our initial concentration of zinc two plus would be one molar, and we have a one molar
+concentration of copper sulfate which means we're starting
+with a concentration of copper two plus of one molar. So we're under standard conditions. We're at one molar for our concentrations, we're at 25 degrees C, we have solid pure electrodes and we know that the
+standard cell potentials, or the cell potential
+under standard conditions for this cell is positive 1.10 volts. So we have a spontaneous redox reaction which produces a current. So electrons flow in our
+wire and we get a voltage, we have a standard cell potential. In one of the videos in electrochemistry we took our standard cell
+potential and from it we calculated delta G zero. So we used this equation. We said delta G zero is
+equal to negative nFE zero. So we plugged in our
+standard cell potential and we got delta G zero. So delta G zero is the
+change in free energy under standard conditions, and we got negative 212 kilojoules. Let's look at the equation
+for the change in free energy from thermodynamics and let's
+analyze our galvanic cell. So the change in free energy is equal to the standard change in
+free energy, delta G zero, plus RT natural log of Q. So remember, this delta G is
+the instantaneous difference in free energy between your
+reactants and your products. Delta G zero is the change in free energy under standard conditions. R is the gas constant, T
+is temperature in Kelvin and Q is your reaction quotient. So let's think about what the reaction quotient is for this reaction. For this reaction, our
+spontaneous redox reaction, Q has the same form as
+the equilibrium constant, concentration of products over
+concentration of reactants and you leave out pure solids. So that would be the
+concentration of zinc two plus, that's our product here, we're leaving out solid copper, over the concentration of copper two plus and we're leaving out solid zinc. So over the concentration
+of copper two plus. At this instant in time we
+plug in our concentrations. The concentration of zinc
+two plus is one molar so we have 1.0. The concentration of copper
+two plus is also one molar so we're under standard conditions here. So Q is equal to one at this instant, and we plug in Q is equal
+to one into our equation and we see that the natural log of one, the natural log of one is equal to zero. So this, this term goes to zero. And under standard conditions the change in free energy, delta G... The change in free energy,
+delta G is equal to the change in free energy under standard
+conditions, delta G zero. And that's equal to
+negative 212 kilojoules, and if you want to write
+per mole of reaction you could do that right here. So this makes sense because
+we're under standard conditions. We're at one molar for our concentrations so the change in free energy is equal to, is equal to delta G zero. Notice that delta G is negative so we know this is a spontaneous reaction. This is a spontaneous reaction
+under standard conditions. So current flows, we get a voltage. Let's go back up to here. So we get a voltage, we get a voltage at this moment in time. So the reaction goes to the right to make more of our products. We're gonna make more
+of our products here. What happens to Q as the
+reaction proceeds to the right? Well we're increasing the
+concentration of our products, we're increasing the concentration
+of zinc two plus ions. At the same time we're
+decreasing the concentration of copper two plus ions. So Q increases as the reaction
+proceeds to the right. So as we make more products, Q increases. So we get an increase in Q. What happens to delta G? What happens to the instantaneous
+difference in free energy between our reactants and our products? Let's go ahead and plug
+that in to our equation. Let's make up a number. Let's
+say that Q increases from... We started over here with one. Let's say that Q increases to 10,000. We'll pick a big number here. So Q goes up to 10,000 so we have far more products than we do reactants. What is delta G? Delta G is equal to... Delta G is zero is the standard
+change in free energy so under standard conditions this
+is negative 212 kilojoules. So that's negative 212. And this would be negative 212,000 joules, if we convert kilojoules to joules, plus we have R, which is the gas constant. Let me go back up to here. R is the gas constant which is 8.314 joules per mole times Kelvin. So you could make this
+joules per mole here so your units balance out,
+moles per mole of reaction. And then we have the temperature. The temperature of our reaction, let's remind ourselves of that. So we go back up to here.
+We're at 25 degrees C. 25 degrees C is 298 Kelvin
+so this is 298 Kelvin. Kelvin would cancel out here. And this is times the natural log of Q. And now we've changed Q. We've said, "Okay,
+let's just pick a number "that's pretty big," so Q is 10,000. So we plug in the natural
+log of 10,000 so we have obviously a huge number of
+products compared to reactants at this moment in time. So at this moment in time what is delta G? What is the instantaneous
+change in free energy between our reactants and our products? We need to do that calculation here. Let's find the natural log of 10,000. So we have that, we're
+gonna multiply that by 298 and we're gonna multiply that by 8.314, and we're going to add that number... We're going to add that
+number to negative 212,000. So we get that delta G is equal to negative 189.2, let's say, kilojoules. So I'll make that into kilojoules. Delta G is equal to negative 189.2 kilojoules per mole. So I'm not really too concerned
+about the exact number, I'm just trying to point out
+what happens as you change Q. As we increased Q, as we
+went from Q is equal to one to Q is equal to 10,000, so
+what happened to delta G? We went from negative 212 kilojoules to negative 189.2 kilojoules. So we're getting closer to zero, we're getting closer to equilibrium. But at this instant, at
+this instant right here when Q is equal to 10,000 we still have a negative value, We still have a negative
+delta G, I should say. So the reaction is still spontaneous. The reaction is still spontaneous, we're still going to generate a current, we're still going to make
+more of our products, we're still going to have a
+voltage at this moment in time. What would be the voltage
+at this moment in time? What would be the
+instantaneous cell potential? The instantaneous cell potential is E. We can find that using our equation that relates delta G and E. Delta G is equal to negative nFE. So if we plug in this, if we plug in delta G into here we know that N is the
+number of moles of electrons that are transferred,
+F is Faraday's constant and then E is our
+instantaneous cell potential. To save time I won't
+do the calculation here but if you do that
+calculation you will get that your instantaneous
+cell potential is equal to .98 volts, positive .98 volts. So the reaction is spontaneous, we're still producing a voltage. We're still producing a voltage here. So notice that our voltage
+has decreased a little bit. In the previous example
+under standard conditions, at that moment in time
+the voltage was 1.10 volts so we've lost a little
+bit of voltage here, we're down to .98. But think about how large that number is. We have so many of our products
+compared to our reactants and we're still getting
+a pretty decent voltage. Approximately one volt, so pretty close to the original 1.1 volts. What happens at equilibrium? What happens at equilibrium? We know that at equilibrium
+the reaction quotient Q is equal to the equilibrium constant K, and at 25 degrees C, K is equal to 1.58 times 10 to the 37th. So for this reaction at 25 degrees C, this is our equilibrium constant. Let's plug in our equilibrium constant into our equation for
+delta G to see what we get. So delta G is equal to delta G zero, which was negative 212 kilojoules per mole plus R, which is 8.314,
+times the temperature. We're still at 25 degrees
+C so this is 298 K. And this time we're putting
+in the natural log of K, so we're plugging in our
+equilibrium constant for Q. So the natural log of
+1.58 times 10 to the 37th. So let's do that math now. We have the natural log of 1.58 times 10 to the 37th. And we're going to multiply that by 298 and 8.314, and that gives us, if we round that, that's positive 212 kilojoules per mole. So positive 212 kilojoules per mole. I'm not worried about
+the exact number here because I rounded this,
+this is rounded as well. The point is that delta G is
+equal to zero at equilibrium. We already know that, we already know delta G is equal to zero at equilibrium. This shows you that. We have negative 212 kilojoules per mole so about negative 212 kilojoules per mole and approximately 212
+kilojoules per mole over here. At equilibrium these will cancel out and give you delta G is equal to zero. So at equilibrium we know that delta G is equal to zero. There is no difference in free energy between your reactants and your products. So let's think about the voltage
+of our cell at equilibrium. Well if delta G is equal to
+zero, we plug that into here and therefore the cell potential,
+E, must be equal to zero. If this is equal to zero
+then this is equal to zero, so the cell potential
+is equal to zero volts. The voltage is zero when our redox reaction comes to equilibrium, and so therefore the cell
+dies, your battery is dead. Hopefully this helps you
+understand galvanic cells in terms of thinking about
+changes in free energy.

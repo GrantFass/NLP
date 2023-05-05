@@ -1,0 +1,155 @@
+Welcome. Well there's been a lot of news
+lately about what's going on with Bear Stearns and
+Carlisle Capital. And I go to these parties, and
+I start explaining to people because it's very exciting. It's actually very important,
+to all of our collective futures and the whole health of
+the financial system, and I feel like people's eyes
+start to glaze over. So with that in mind, I decided
+to take a little bit of a hiatus from the core math
+and physics videos, and actually do some accounting
+and finance videos. Because I think what's happening
+in the world right now is extremely important. And I'm not just going to go
+straight into what's going into Carlisle and Thornburg and
+all of these characters. Because I think the newspapers
+do that, but a lot of people don't understand the
+basic accounting. What is a write-down, what does
+it mean when you don't have liquidity, in really
+tangible ways. So I'm going to use the same
+Khan Academy techniques to hopefully explain
+some of this. So I'm going to start with just
+a very basic accounting concept of the balance sheet. You might have a sense
+of what it is. So let's say a scenario. Let's say I want
+to buy a house. So this is, let me
+draw a house. So let's say this is the
+house I want to buy. And the owner of this house
+is asking for $1 million for this house. And I like the house, and I
+think that's a fair price. Other houses in the neighborhood
+also went for $1 million, whatever. Maybe they went for more,
+so I think it's actually a good deal. But all I have in my pocket is,
+let's say I have $250,000. So what I'm going to do is, I'm
+going to create my balance sheet before I do anything. Before I go to try
+to get the house. What is my before-house
+balance sheet? What are my assets? I'm going to write
+down Assets. Well before we know what my
+assets are, let me tell you what an asset is. An asset is something that's
+going to give you some future economic benefit. So for example, cash
+is an asset. Why is cash an asset? Because in the future you can
+use that cash to get stuff from people, or make them
+do things, or buy stuff. You can, in a month from now,
+you can use your cash. And you can make someone
+dance for you. Or you can buy a car, or
+you can go on vacation. So there's all sorts of
+things you can do. I don't know if someone dancing
+for you is an actual economic benefit, but
+you get the idea. So cash could be an asset. A house could be an asset,
+because the economic benefit you get in the future is, you
+get to live in it, and not freeze when it's freezing
+outside. So that's what an asset is. So what are my assets, before
+I buy the house, or get a loan, or all of the things
+that are about to happen? Well I have cash, I have
+$250,000 worth of cash. What are my liabilities? I'm going to write the
+liabilities on the left-hand side. I think that's the convention,
+but I forget. It doesn't matter. What are my liabilities? Well, a liability is something
+that's an economic obligation to someone else. So if I take a loan from
+someone, I owe them interest, or I have to pay them back
+the actual value of the loan one day. Say I have an IOU where I
+promise to dance for someone in the future. That could be a liability. It'd be hard to value, but
+that's something that I have to do in the future. But what are my liabilities
+here? Well in the example I gave, I'm
+just Sal, I have no debt, I paid off my college
+loans, everything. And I have $250,000 in cash. So what are my liabilities
+before I buy the house? Well, nothing. I don't have any liabilities. I don't owe anybody anything. And that's, actually,
+that to me is the definition of freedom. So I have zero liability. So what is my equity? And you've probably heard this
+word, people borrowing their equity, and all of
+these things. So I'm going to give you a
+little equation, actually, just to take a little
+bit of a tangent. That assets, A for assets,
+is equal to liabilities plus equity. So in this case, our assets
+are $250,000. My liabilities are what? I owe nothing to nobody. I don't know if that was
+correct, but anyway. I owe nothing to anyone. So my liabilities are zero. So my equity must be $250,000. So in this case, if I made a
+balance sheet before I enter into any transactions -- let me
+make it look a little bit like a balance sheet. My assets are $250,000. I have no liabilities. And then my equity would
+be $250,000. And if I were to draw this
+graphically-- actually, I should probably draw
+it like this. I have no liabilities. So let me draw another little
+mini balance sheet here. That's a neat square. You probably can't
+see that square. So I put my assets on
+the right-hand side. And I'll say, there, I have
+$250,000 of cash. And on the left-hand side,
+I have no liabilities. And I'll just say I have equity,
+I have $250,000. Now, equity might not make a lot
+of sense to you right now, because I'm just saying, well,
+my equity is equal to my cash. in general, equity is
+just what you own. After all of your assets and
+liabilities are kind of resolved, or they're
+cleared up, what do you have left over? That's equity. So in this situation, after I
+pay off all of my debts, what do I have left over? Well I have no debts, so I have
+$250,000 in cash, total. This will start to make sense
+when I go to the bank now to get a loan to buy this house. So this house is a $1 million
+house, right? So how much of a
+loan do I need? Well, I have $250,000 cash, so
+I'll go to the bank for a loan for the remainder,
+for $750,000. So let me draw the bank. This is the bank. The big dollar sign is made out
+of granite, to show you that it can never fail. It's going to be there forever,
+even if they do silly things, like-- well I won't go
+into all the silly things that they do, but they do
+many silly things. We'll go into that later. But the bank is going to give
+me another $750,000 in cash. And in return, I'm giving
+them essentially an IOU. And I'm going to pay interest.
+So they're going to hold this little security that says,
+Sal owes me $750,000. And he has to give me 10%
+interest every year. So $75,000 a year, or
+something like that. And in return I get
+$750,000 in cash. So what does my balance
+sheet look like now? Well, let me draw it. Let me make sure my balance
+sheet now looks, let me draw it like a square, because
+I think the visual representation is helpful,
+and then I will split it. So what are all my assets now? I had $250,000 and
+I got another $750,000 from the bank. So now, what are my assets? Well, $250,000 plus $750,000. I now have cash of $1 million. What are my liabilities? Well, my liability, that's
+something that I owe to someone else. I owe the bank $750,000. So liabilities, I'll just say L,
+L for liabilities, because I'm running out of space. My wife was complaining that I
+make these things very hard to read, but what can I do. Anyway. So my liabilities-- I owe
+the bank $750,000. So that's a liability. And then the equity is,
+essentially-- we would look at this formula. Assets equal liabilities
+plus equity. This is $1 million,
+this is $750,000. What do I have left over? Well, I have $250,000
+left over. That's my equity. And I think hopefully the
+concept of equity is starting to make a little more sense. Now we have-- I could say that
+I have $1 million, and some people are like that. They think they're millionaires
+when they have $1 million in assets. But they don't consider, well
+they might have $1 million of assets, but they might owe
+other people $900,000. So I wouldn't consider that
+person a millionaire. They're more of a hundred
+thousand-aire. Your assets might be $1 million,
+but you're not nearly a millionaire, because
+you still owe other people $750,000. What you have left over, that
+really is your net worth, or what you can have claim to. And that's your equity. Sometimes it's called
+owners' equity. Or if there was a bunch of
+people pitching together, it would be called shareholders'
+equity. And maybe I'll do a little bit
+more on that in the future. But hopefully now you can see
+that the balance sheet is starting to seem a little
+bit useful. I have the cash, and I took the
+loan from the bank, but now I still haven't bought
+the house yet. So what am I going to do? Well I'm going to give my cash
+to the old owner of the house. Or maybe this Toll Brothers,
+they just built this McMansion for me. So I give them $1 million, and
+in return they give me the deed to the house. I could just say they
+give me the house. The house is always there, but
+you know it's really just a contract and all the legal
+structure that I get around it, and all the property
+rights and all of that. But that's getting too
+philosophical. So now what does my balance
+sheet look like? Instead of cash-- I think I'm
+running out of space and time to draw another balance sheet--
+I don't have cash worth $1 million. I now have a house
+worth $1 million. Assuming that it really is worth
+it, and that was the correct price, I didn't
+overpay, whatever. I now have, my assets are
+a $1 million house. And I owe the bank $750,000. So what's left over for me
+is $250,000 of equity. I'm about to run out of time. So I'm going to leave
+you from this video. In the next video, I'm going
+to start explaining what happens if the value of the
+house goes up or down, or you need cash, and all of these
+interesting things. And we'll start to learn a
+little bit more about what's going on in the world. See you soon.

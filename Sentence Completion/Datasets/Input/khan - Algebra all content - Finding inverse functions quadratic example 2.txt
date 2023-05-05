@@ -1,0 +1,111 @@
+We have the function f of
+x is equal to x minus 1 squared minus 2. And they've constrained the
+domain to x being less than or equal to 1. So we have the left half
+of a parabola right here. They've constrained so that
+it's not a full U parabola. And I'll let you think about
+why that would make finding the inverse difficult. But let's try to find
+the inverse here. And a good place to start
+-- let's just set y being equal to f of x. You could say y is equal to
+f of x or we could just write that y is equal to x
+minus 1 squared minus 2. We know it's for x is less than or equal to 1. But right now we have y
+solved for in terms of x. Or we've solved for y, to find
+the inverse we're going to want to solve for x in terms of y. And we're going to
+constrain y similarly. We could look at the graph and
+we could say, well, in this graph right here, this is
+defined for y being greater than or equal to negative 2. So we can maybe put in
+parentheses y being greater than or equal to negative 2. Because this is going to be --
+right now this is our range. But when we swap the x's
+and y's, this is going to be our domain. So let's just keep that in
+parentheses right there. So let's solve for x. So that's all you have to
+do, to find the inverse. Solve for x and make sure
+you keep track of the domains and the ranges. So, let's see. We could add 2 to both
+sides of this equation. We get y plus 2 is equal
+to x minus 1 squared. Minus 2, plus 2, so
+those cancel out. And then, I'm just going to
+switch to the y constraint. Because now it's not clear
+what we're -- whether x is the domain or the range. But we know by the end
+of this problem, y is going to be the domain. So let's just swap this here. So, 4 for y is greater than
+or equal to negative 2. And we could also say, in
+parentheses, x is less than 1. This is -- we haven't solved it
+explicitly for either one, so we'll keep both of them
+around right now. Now, to solve for x, you might
+be tempted to just take the square root of both sides here. And you wouldn't be
+completely wrong. But we have to be very,
+very, very careful here. And this might not be something
+that you've ever seen before. So this is an
+interesting point here. We want the right side
+to just be x minus 1. That's our goal here, in taking
+the square root of both sides. We want to just have an
+x minus 1 over there. Now, is x minus 1 a positive
+or a negative number? Well, we've constrained our
+x's to being less than 1. So we're dealing only in
+a situation where x is less than or equal to 1. So if x is less than or equal
+to 1, this is negative. This is negative. So we want to take the
+negative square root. Let me just be very clear here. If I take negative 3 -- I take
+negative 3 and I were to square it, that is equal to 9. Now, if we take the square root
+of 9 -- if we take the square root -- let's say we take
+the square root of both sides of this equation. And our goal is to get
+back to negative 3. If we take the
+positive square root. If we just take the principle
+root of both sides of that, we would get 3 is equal to 3. But that's not our goal. We want to get back
+to negative 3. So we want to take the negative
+square root of our square. So because this expression is
+negative and we want to get back to this expression, we
+want to get back to this x minus 1, we need to take the
+negative square root of both sides. You can always -- every
+perfect square has a positive or a negative root. The principle root
+is a positive root. But here we want to take the
+negative root because this expression right here is
+going to be negative. And that's what we
+want to solve for. So let's take the negative
+root of both sides. So you get the negative square
+root of y plus 2 is equal to -- and I'll just write this
+extra step here, just so you realize what we're doing. Is equal to the negative square
+root, the negative square root of x minus 1 squared. For y is greater than or
+equal to negative 2. And x is less than
+or equal to 1. That's why the whole reason
+we're going to take the negative square there. And then this expression
+right here -- so let me just write the left again. Negative square root of y plus
+2 is equal to the negative square root of x minus 1
+squared is just going to be x minus 1. It's just going to
+be x minus one. x minus 1 squared is
+some positive quantity. The negative root is the
+negative number that you have to square to get it. To get x minus 1 squared. So that just becomes x minus 1. Hopefully that doesn't
+confuse you too much. We just want to get rid
+of this squared sign. We want to make sure we
+get the negative version. We don't want the positive
+version, which would have been 1 minus x. Don't want to confuse you. So here, we now just
+have to solve for x. Add 1. And let me write the 4. y is greater than or
+equal to negative 2. Add 1 to both sides. You get negative square root of
+y plus 2 plus 1 is equal to x for y is greater than or
+equal to negative 2. Or, if we want to rewrite it,
+we could say that x is equal to the negative square root of y
+plus 2 plus 1 for y is greater than or equal to negative 2. Or if we want to write it in
+terms, as an inverse function of y, we could say -- so we
+could say that f inverse of y is equal to this, or f inverse
+of y is equal to the negative square root of y plus 2 plus
+1, for y is greater than or equal to negative 2. And now, if we wanted
+this in terms of x. If we just want to rename
+y as x we just replace the y's with x's. So we could write f
+inverse of x -- I'm just renaming the y here. Is equal to the negative square
+root of x plus 2 plus 1 for, I'm just renaming the y, for
+x is greater than or equal to negative 2. And if we were to graph
+this, let's see. If we started at x is equal
+to negative 2, this is 0. So the point negative 2, 1 is
+going to be on our graph. So negative 2, 1 is going
+to be on our graph. Let's see, if we go to negative
+1, negative 1 this will become a negative 1. Negative 1 is 0 on our graph. Negative 1, 0 is on our graph. And then, let's see. If we were to do, if we were
+to put x is equal to 2 here. So x is equal to 2 is 4. 4 square root,
+principle root is 2. It becomes a negative 2 So
+it becomes 2, negative 1. So that's on our
+graph right there. So the graph is going
+to look something like this, of f inverse. It's going to look something
+like that right there. As you can see, it is a
+reflection of our original f of x along the line
+y is equal to x. Along the line y is equal to x. Because we've essentially just
+swapped the x and the y. This is about as hard of
+an inverse problem that I expect you to see. Especially in a precalculus
+class because it really is tricky to realize that you
+have to take the negative square root here. Because the way our domain was
+constrained, this value right here is going to be negative. So to solve for it, you want to
+have the negative square root.

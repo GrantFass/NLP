@@ -1,0 +1,130 @@
+Let's see if we can tackle
+a slightly more difficult hyperbola graphing problem. Let's add the hyperbola. Make this up on the fly x minus
+1 squared over 16 minus y plus 1 squared over 4 is equal to 1. So the first thing to recognize
+is that this is a hyperbola and we'll in a few videos, do a
+bunch of problems where the first point is just to identify
+what type of conic section we have and then the second
+step is actually graph the conic section. I already told you that we're
+going to be doing a hyperbola problem, so you know
+it's a hyperbola. But the way to recognize that
+is that you have this minus of the y squared term and then
+we actually have it shifted. The classic or the standard
+non-shifted form of a hyperbola or a hyperbola centered at 0
+would look something like this. Especially if it has the same
+asymptotes just shifted, but centered at 0 it would look
+like this: x squared over 16 minus y squared over
+4 is equal to 1. And the difference between this
+hyperbola and this hyperbola the center of this hyperbola is
+at the point x is equal to 1 y is equal to minus 1. And the way to think about it
+is x equals 1 makes this whole term 0, and so that's
+why it's the center. And y equal to minus 1
+makes this whole term 0. And on here, of course,
+the center is the origin. Center is 0, 0. So the easy way to graph this
+is to really graph this one, but you shift it so you use the
+center being 1 minus 1 instead of the center being 0, 0. So let's do that. So let's figure out the slope
+of the two asymptotes here and then we can shift those two
+slopes so that it's appropriate for this hyperbola right here. So if we go with this one,
+let's just solve for y. That's what I always
+like to do whenever I'm graphing a hyperbola. So we get minus y
+squared over 4. Subtracting x squared over
+16 from both sides minus x squared over 16 plus 1. I'm working on this hyperbola
+right here, not this one, and then I'm going to
+just shift it later. And then let's say multiply
+both sides by minus 4 and you get y squared is equal to-- see
+the minus cancels out with that and then 4 over 16 is x squared
+over 4 minus 4 and so y is equal to plus or minus square
+root of x squared over 4 minus 4. And to figure out the
+asymptotes you just have to think about well what happens
+as x approaches positive or negative infinity. As x gets really positive
+or x gets really negative. And we've done this a
+bunch of times already. I think this is important. This is more important than
+just memorizing the formula, because it gives you an
+intuition of where those equations for the lines of the
+asymptote actually come from. Because these are what this
+graph or this equation or this function approaches as x
+approaches positive or negative infinity. As x approaches positive or
+negative infinity, what is y approximately equal
+to, in this case? Well once again, this term
+is going to dominate. This is just a 4 right here. You could imagine when x is
+like a trillion or a negative trillion, this is going to be
+huge number and this is going to be just like you know
+you almost view it like the ground off area. You take the square root
+of that and so this is going to dominate. So as you approach positive or
+negative infinity, y is going to be approximately equal to
+the square root, the positive and negative square root,
+of x squared over 4. So y would be approximately
+equal to positive or negative x over 2, or 1/2x. Let's do that. Let's draw our asymptotes. And remember, these are the
+asymptotes for this situation. But now of course, we're
+centered at 1 negative 1. So I'm going to draw two lines
+with these slopes, with positive 1/2 and negative 1/2
+slopes, but they're going to be centered at this point. I just got rid of the shift
+just so I could figure out the asymptotes but of course this
+is the real thing that we're trying to graph, so
+let me do that. This is my y-axis this is my
+x-axis and the center of this is at 1 negative 1. So x is equal to 1 y
+is equal to minus 1. And then the slopes of the
+asymptotes were positive and negative 1/2. So let's do the positive 1/2. So that means for every 2 you
+run over, so if you go positive in the positive x direction
+2, you move up 1. So you go to the
+right 2 and up 1. So that's the first one. Let me draw that asymptote. Looks something like that, and
+then we draw it from this point to that point. Got to have a steady hand. And then the other asymptote
+is going to have a minus 1/2 slope. Remember this is our
+center 1 minus 1, so if I go down 1 and over. So when I go over 2, I go down
+1, so that will be right there, Let me draw that asymptote. And then just to continue it
+in the other direction I want to make the lines overlap. It's going to look
+something like that. So we've drawn our asymptotes
+for this function, and now we have to figure out if it's
+going to be a vertical hyperbola or a
+horizontal hyperbola. And the easy way to think
+about it is to try and make-- and we can do it two ways. I mean if you just look at
+this equation right here. When you're taking the positive
+square root, we're always going to be slightly below
+the asymptote. The asymptote is this thing,
+but we're always going to be slightly below it. So that tells us that were
+always going to be slightly below the asymptote on the
+positive square root, and we're always going to be slightly
+above the asymptote on the negative square root. Because it's going to be little
+less, and it's negative. But I'll let you
+think about that. My intuition is that it's
+going to be there and there. It's more than intuition. I know that we're going to be
+a little bit less than the negative square root, but
+I'll do it the other way. I'll do it the way I
+did in the last video. So the other way to think
+about it is what happens when this term is 0? For this term to be 0, x
+has to be equal to 1. And does that ever happen? Can x be equal to 1? If x is equal to 1
+here this term is 0. And then you have a situation
+where-- and then you have a minus y squared over 4 would
+have to equal 1, or this would have to be a negative number. So x could not be equal to 1. So y could be equal
+to negative 1. Let's try that out. If y is equal to negative
+1, this term right here disappears. So when y is equal to negative
+1, you're just left with-- x minus 1 squared over
+16 is equal to 1. I just canceled out this term,
+because I'm saying what happens when y is equal to negative 1. You multiply both sides by 16. Let me do it over here. These get messy. x minus 1
+squared is equal to 16. Take the square root
+of both sides. x minus 1 is equal to
+positive or negative 4. And so if x is equal to
+positive 4, if you add 1 to that x would be equal to 5. And then if x minus 1 would be
+minus 4 and you add 1 to that you will have x is equal to 3. So our 2 points or our 2 points
+closest to our center are the points 5 comma negative 1
+and 3 comma negative 1. Let's plot those 2. So 5, 1 2 3 4 5, negative
+1 and 3, negative 1. Is that right? No, minus 3, because x
+minus 1 could be minus 4. That's what happens
+when you skip steps. If you have the minus 4
+situation, then x is equal to minus 3. You go 1 2 3 minus 3, minus 1. So those are both points
+on this hyperbola. And then our intuition was
+correct, or it was what I said. That-- the positive square root
+is always going to be slightly below the asymptote,
+so we get our curve. It's going to look
+something like this. It's going to get closer and
+closer, and then here it's going to get closer and
+closer in that direction. It keeps getting closer and
+closer to that asymptote. And here, it's going to keep
+getting closer and closer to the asymptote on that side
+and then on that side. And of course these
+asymptotes keep going on forever and forever. If you want you could try
+out some other points just to confirm. You could plot that point
+there, or that point there just to confirm that
+that's the case. The hard part really is just to
+identify the asymptotes and just to figure out do we sit on
+the left and the right, or do we sit on the top
+and the bottom. And then you're done. You can graph your hyperbola. See you in the next video.

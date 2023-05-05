@@ -1,0 +1,44 @@
+- [Voiceover] We know
+from previous videos, that the derivative with respect to X of the natural log of
+X, is equal to 1 over X. What I want to do in this
+video is use that knowledge that we've seen in other
+videos to figure out what the derivative with respect to X is of a logarithm of an arbitrary base. So I'm just gonna call
+that log, base A of X. So how do we figure this out? Well, the key thing is, is
+what you might be familiar with from your algebra or your
+pre calculus classes, which is having a change of base. So if I have some, I'll do it over here, log, base A of B, and
+I wanted to change it to a different base, let's
+say I wanna change it to base C, this is the same
+thing as log, base C of B divided by log, base C of A. Log, base C of B, divided
+by log, base C of A. This is a really useful
+thing if you've never seen it before, you now have just seen it, this change of base, and we prove it in other videos on Khan Academy. But it's really useful
+because, for example, your calculator has a log button. The log on your calculator
+is log, base 10. So if you press 100 into your calculator and press log, you will get a 2 there. So whenever you just see log of 100, it's implicitly base 10,
+and you also have a button for natural log, which is log, base E. Natural log of X is equal
+to log, base E of X. But sometimes, you wanna
+find all sorts of different base logarithms and this is how you do it. So if you're using your
+calculator and you wanted to find what log, base 3 of 8 is, you would say, you would type in your
+calculator log of 8 and log of 3. Or, let me write it this way, and log of 3 where both of these
+are implicitly base 10, and you'd get the same value if you did natural log of 8 divided
+by natural log of 3. Which you might also
+have on your calculator. And what we're gonna do
+in this video is leverage the natural log because we
+know what the derivative of the natural log is. So this derivative is the
+same thing as the derivative with respect to X of. Well log, base A of X, can be rewritten as natural log of X over natural log of A. And now natural log of
+A, that's just a number. I could rewrite this as,
+let me write it this way. One over natural log of
+A times natural log of X. And what's the derivative of that? We could just take the constant out. One over natural log of
+A, that's just a number. So we're gonna get 1
+over the natural log of A times the derivative with
+respect to X of natural log of X. Of natural log of X. Which we already know is 1 over X. So this thing right
+over here, is 1 over X. So what we get is 1 over
+natural log of A times 1 over X. Which we could write as, 1
+over natural log of A times X. Which is a really useful thing to know. So now, we could take
+all sorts of derivatives. So if I were to tell you F of
+X is equal to log, base 7 of X well now we can say well F
+prime of X is going to be 1 over the natural log of 7 times X. If we had a constant out
+front, if we had for example, G of X. G of X is equal to negative
+3 times log, base, I know. Log, base pi. Pi is a number. Log, base pi of X, well G
+prime of X would be equal to 1 over, oh. Let me be careful, I have
+this constant out here. So it'd be negative 3 over,
+it's just that negative 3, over the natural log of pi. This is the natural log of this number. Times X. So hopefully, that gives
+you a hang of things.

@@ -1,0 +1,29 @@
+(bouncy Pixar theme) - In the last exercise
+you probably noticed that the simulation lacked the
+natural bounciness of hair. But what makes something
+look bouncy anyway? To make this model bouncy,
+we need each strand of hair to expand and contract slightly when forces are applied to them. This required a new physical
+analogy to base our model on, so we tried springs. Springs are great because
+they can change length when you pull on them, and to give the hair a
+little bit of weight, we add a small weight to
+the end of the spring. This is known as a mass spring system. We can actually draw a mathematical model to explain what happens when a
+spring expands and contracts. The model we use is based on a
+law developed by Robert Hooke a 17th century physicist. Hooke noticed that there
+are two things to consider when a spring expands and contracts. One, if we pull on a
+spring and it expands, we will increase its length
+and it will pull back together. Two, if the spring contracts,
+its length will decrease and it will push apart. How much a spring pushes and pulls is known as the spring force. Robert Hooke was looking for relationship between the spring force in the amount the spring
+contracts or expands. We call this change in
+length displacement. Displacement is defined
+as the current length minus the rest length of the spring. When we stretch a spring,
+the displacement is positive and the resulting spring
+force is negative. This is known as the pull force. When we compress a spring,
+the displacement is negative and the resulting spring
+force is positive. This is called the push force. So Hooke's observation was quite simple, he noticed that a larger displacement results in a larger force, while a smaller displacement
+results in a smaller force. That is, he noticed that the displacement is proportional to the force. However, every spring is different, some take a lot of force to displace, and some are really easy to displace. So Robert Hooke introduced
+the idea of stiffness to account for how hard it is
+to displace a given spring. It is represented with the letter k. This led Hooke to his final equation which is known as Hooke's Law. The spring force is proportional to a stiffness times the displacement. Notice that there is
+a negative sign there, that's because we want a positive force when the displacement is negative, and a negative force when it's positive. If we plug this equation into the computer we get this realistic spring behavior. For Brave, we modeled the horse's hair using a mass spring system similar to what we are
+describing in this tutorial, nearly 10,000 simulated hairs in total. In the next exercise you can explore a simple mass spring system. You'll be able to adjust
+the following parameters, mass of the particle, spring stiffness, k, and the force of gravity, and we'll ask you some challenge questions to make sure you understand
+the basics of Hooke's Law.

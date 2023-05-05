@@ -1,0 +1,20 @@
+(bouncing) - Sir Isaac Newton famously observed that objects at rest stay at rest unless they're acted on by a force. And objects which are in motion
+have an unchanging velocity. For example, a particle
+floating through empty space would never stop. So whether a particle is motionless or traveling at a constant velocity, if no forces are applied to the particle, then no change in velocity occurs. That's called Newton's First Law. In order to accelerate our particle, that is, to change its velocity, a net force must be applied. As with velocity and acceleration,
+forces are also vectors. The force due to gravity for
+instance, will point downward, and its length will depend on
+how much gravity is present. If this gravitational
+force is the only force acting on the particle, then
+its velocity will change, meaning it will accelerate
+in the direction of the force vector. But what if there are multiple forces at work on the particle? Like if I add a wind force
+in addition to gravity. Suppose for instance, that the
+wind is blowing to the right half as strongly as the force
+of gravity pointing downward. We need to add these forces
+together using vector addition to determine the net force. Written as an equation, net force is equal to gravity plus wind. Since the net force is now
+pointing down and to the right, that also dictates the direction that that particle will accelerate. If there are more forces at work, we would add those forces all
+up to determine the net force. And that would determine the direction the particle would accelerate. For instance, suppose the
+particle is sitting on a table. Gravity is pulling the particle downward, and the wind is pushing the particle to the right, as before. But there's another force at
+work on the particle, too. The table is pushing up on the
+particle to resist gravity. So our force diagram looks like this. The forces of gravity and the
+table, cancel each other out, leaving the wind force as a net force. Okay, in the next exercise
+you'll get some practice working with net forces. (water splashing)

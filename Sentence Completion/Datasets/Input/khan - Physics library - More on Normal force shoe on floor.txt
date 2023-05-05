@@ -1,0 +1,164 @@
+- [Voiceover] Check out
+this fine looking sneaker right here, we're gonna
+use this shoe to illustrate some more challenging
+normal force problems and we're gonna take this
+as an opportunity to discuss a lot of the misconceptions
+that people have about the normal force. So one misconception is that people forget normal force is a contact force. You only have a normal
+force when two surfaces are in contact, so when
+the shoe's in contact with the floor, there will be
+a normal force on the shoe and a normal force on the floor. Or if the shoe were in
+contact with the wall, there would be a normal force on the wall and a normal force on the shoe. But if the shoe were just
+falling through the air, here's what happens for a lot of people. Let's say the shoe's just falling, and you got a question
+and the question said, draw the forces that
+are exerted on the shoe while it's falling through the air. People get so used to having normal forces that they make a mistake, they
+do this, they say alright, let me draw it over here. They say there's a gravitational
+force and that's just fine. There will be a gravitational
+force, there's always gravity, the Earth's always pulling down, and it pulls down with an amount mg. But they're so used to
+having normal forces, I mean normal forces pop up
+in so many different questions it's almost just like a reflex, people just automatically put,
+whoop, there's a normal force there's gotta be a normal force, right? There's always a normal force? But there isn't always a
+normal force, if the shoe is not in contact with the
+surface, you don't have a normal force, it's not until this
+shoe makes it to the ground or touches another surface
+that you'll have that normal force, so if we
+stick this shoe right here and we let it rest on the ground, now you'll have a normal
+force and that normal force will point up, and this
+is what people wanna say and it's true when the
+surfaces are in contact but if they're not in contact, you don't have a normal force. And then here's another misconception, people think the normal
+force is always equal to mg, because again, it's equal to mg in so many different
+scenarios that people just wanna say well it's always
+equal to mg, and again, it's just like a reaction. People see normal force, they
+just automatically replace it with mg, and that'll be
+true in the simple case, but I'll show you coming up
+how that's not gonna be true and what you do if it's not true. So for instance if we wanted
+to find what's the normal force if this shoe has a mass m, so let's assume that
+the shoe has a mass m, what would the normal force be? We can use Newton's second law, we can always use Newton's second law, so we'll say that acceleration
+equals the net force divided by the mass, and in this case, since these are vertical forces, I'm gonna consider the acceleration in the vertical direction
+and the net force in the vertical direction. And so what is the acceleration
+for the shoe vertically if it's just sitting here in
+a room, sitting on the ground, at rest and not changing it's motion, not changing it's velocity,
+the acceleration's just gonna be zero, so the vertical acceleration, acceleration, excuse me, should be zero. For the net force, I've
+got an upward normal force, so I'm gonna make that positive, if fn represents the
+magnitude of the normal force, this would be positive Fn, I'm
+just gonna put positive here even though I don't really
+need it but to show you that it's upward, we're gonna
+consider upward to be positive and then I've got this
+downward gravitational force, and if mg represents the size
+of the gravitational force, I'm gonna put a negative
+here to represent that that gravitational force is
+down, and then I divide by the mass of the shoe and
+if I do this I get that these two forces, this net
+force divided by the mass has to be zero, according
+to Newton's second law. But I can multiply both sides
+by the mass and if I do that, the left hand side is still zero, and I'll get that this is
+equal to the normal force minus mg, so I'll have
+normal force minus mg, and if I finally solve
+for the normal force, I'll get that the normal
+force is gonna equal mg, and a lot of people are like
+yeah I already knew that, duh. Normal force is always equal
+to mg, but it's only equal to mg in this case because
+those were the only two forces, look at the assumptions we made. Only two forces were
+the normal force and the gravitational force and we
+assumed that the acceleration was zero, if you relax
+any of those requirements, normal force is no longer
+going to be equal to mg. And it was on a horizontal surface, if you relax that requirement,
+again, there's no reason to think this has to
+be in the Y direction, you could have normal
+forces in the X direction. So let's slowly, one point at a time, try to relax some of these
+requirements and see what that does to the normal force. In other words, what if we
+just added another force? What if we let the shoe
+sit here on the ground and I push down on it? So I'm pushing down on this
+shoe, I'm gonna say I'm pushing down with a force, I'll
+just call it F1, so a force of magnitude, F1, and
+it's pointing downward, how would that change this now? So this is, we're stepping it
+up, this is gonna be a little harder, what do we do? Well the acceleration is still
+zero, let's say it's still just sitting there, so we
+don't have to do anything with the left hand side that's still zero, multiplying by m still makes that zero, but now up here in this force up here, I'm gonna have another
+force, I'm gonna have F1, that points down so in my force diagram I'd have another force
+that points down, F1, that means I'd have to
+subtract it when I find the net vertical force, I'd have F1, this would be a negative F1 right here, and when I solve for Fn
+I'd add mg to both sides to cancel it and then
+I'd add F1 to both sides to cancel this F1, this negative F1, and I'd get mg plus F1. So I get the normal
+force is gonna be bigger, bigger by an amount F2
+and that makes sense, if you push down on a, oh no F2, wow, F1, sorry about that, it's
+gonna be bigger by an amount F1, so if I push down with an
+extra 10 Newtons of force, there's more pressure, right? That makes sense, the
+pressure between the ground and the shoe is gonna be
+greater, you're squashing these two surfaces together
+with greater force, so the ground's gotta
+push up to keep the shoe out of the surface, that's
+what this normal force does, it exerts a force to keep the
+object out of the surface, to keep the object from
+penetrating that surface, so if I push down on an
+object, into a surface, that normal force increases
+and it increases by the amount you're pushing down, so that makes sense. If you had an upward
+force, let's say you had an upward force, someone's
+pulling up on the shoe while you push down, you're
+fighting over the shoe, you're wrestling over it with
+somebody because they just, they love the shoe, they
+recognize the beauty of the shoe, well crafted shoe, so if
+there's an F2 pointing up, we now have another force in our diagram, that force would point
+up, we would call this F2, over here how would this change? Again, still acceleration to zero, but I'd have an upward
+force now so I'd have to add F2 vertically because
+that's another force, I'd have a plus F2 right here, and then over here when I solve for this, I add mg to both sides,
+I add F1 to both sides, and I have to subtract F2 from both sides so now I'd have Fn is mg plus F1 minus F2, this also makes sense,
+if you pull up on a shoe, you're relieving some of the
+pressure between the shoe and the other surface,
+the shoe and the floor. So if I pull up with 20
+Newtons I'm gonna reduce the normal force by 20
+Newtons because I'm relieving some of that pressure between
+the shoe and the floor. Let's make it even harder. Let's make this thing scary,
+sometimes you get really crazy problems and you don't
+know what to do, let's say, we have another force, let's
+say this force is gonna be a diagonal force, so
+we're gonna pull this way. That was not a well drawn
+force, let me draw it like this. So we got a force this way at an angle. Now we're talking, this is F3. F3, at an angle of, we'll
+call it Fi, so the angle from this horizontal line here is Fi. Now what do we do? So I've got this crooked
+angle in here, now this F3 is gonna be pointing this way,
+so I'll add another force to my force diagram, and I
+can figure out how to include this into my vertical force
+version of Newton's second law, I can't include the entire
+F3 force, here's a mistake people make, they wanna
+just add F3 or subtract F3, but I can't do that, this
+is the vertical form of Newton's second law, this is
+only applying to the vertical direction, the Y direction,
+but F3 is pointing both vertically and horizontally. So I have to only include
+the vertical part of F3 in this formula so what I
+have to do is say that alright F3 is gonna have a vertical component, that vertical component,
+I'll call it F3 Y, for F3 in the vertical direction. And it's also gonna have
+a horizontal component. I'll just call that F3 X for
+F3 in the horizontal direction. So if I wanna solve for F3 Y,
+I'll just use the definition of sine and I know to use
+sine because this side is the opposite to this angle, I know sine relates opposite side, so
+I'm gonna write this as sine of phi is gonna equal
+the opposite side is F3 Y so F3 in the Y direction
+divided by F3 total, the total magnitude of F3,
+and if I solve this for F3 Y, I get F3 in the Y direction
+is gonna equal F3 times sine of Fi, now I can include this
+in my force, my net force, because this points upward,
+so since it points up, this vertical component's
+gonna add a plus, F3 sin theta over here,
+or sorry not theta, it's gonna be F3 sin Fi, and
+I'll have a plus F3 sin fi right here, and when we
+subtract this F3 sin phi from the other side to get it over to here, we're gonna get minus F3
+sine phi and that makes sense because if we pull up, we
+know we're reducing some of the pressure, we'll
+reduce the normal force, so this component, look at
+this component points up, it's reducing some of the pressure on the bottom of the shoe,
+the normal force goes down, and so we subtract the F3 sin fi. And one more way to step this
+problem up to the next level would be to say that this
+room isn't really just a room, maybe it's an elevator, and this elevator is accelerating upward with some acceleration
+A zero, in that case, nothing would change on
+this right hand side. Sometimes people think
+if there's acceleration, there's gonna be some new force,
+but if these are the forces those are the forces, the only
+thing that changes over here if this was in an elevator
+that's accelerating up, is that instead of zero,
+you'd replace this with a zero or whatever the
+acceleration is, that's it, that's the only change, you
+could still solve for fn the same way, when you
+multiply by m it wouldn't be zero on the left anymore,
+you'd have a m a zero, and then a plus m a zero when you solve for the normal force. Alright, I think we've
+pretty much exhausted this example of a shoe on the floor, it's probably harder than
+any example you'll see but now you know how to
+handle any type of force you might meet or acceleration.

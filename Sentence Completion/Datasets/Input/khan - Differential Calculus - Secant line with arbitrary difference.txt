@@ -1,0 +1,40 @@
+- [Voiceover] A secant
+line intersects the curve y equals the natural log of x at two points, with x-coordinates two and two plus h. What is the slope of the secant line? Well, they're giving us
+two points on this line. It might not be immediately
+obvious, but they're giving us the points when x is equal to two, when x is equal to two, what is y? Well y, they tell us, y is
+equal to the natural log of x, so in this case it is going
+to be the natural log of two, and when x is equal to two plus h, what is y? Well, y is always going
+to be the natural log of whatever x is. So it's going to be the
+natural log of two plus h. And so these are two points
+that sit on the secant line. This happens to be where
+the secant line intersects our curve, but these are
+two points on the line, and if you know two points on a line, you will then be able to figure
+out the slope of that line. Now we can just remind ourselves that a slope is just change
+in y over change in x, and so what is this going to be? Well if we view the second
+one as our endpoint, our change in y going from ln
+of two to ln of two plus h, so our change in y is
+going to be our endpoint. So, natural log of two plus
+h minus our starting point, or our end y-value minus
+our starting y-value. Natural log of two and then our change in x, our change in x is going
+to be our ending x-value, two plus h, minus our starting
+x-value, minus two, and of course these twos cancel
+out, and if we look here it looks like we have a
+choice that directly matches what we just wrote. This right over here, natural log of two plus h minus natural log of two over h. Now, if you wanna visualize
+this a little bit more, we could draw a little bit,
+I'm gonna clear this out so I have space to draw the graph, just so you can really visualize
+that this is a secant line. So let me draw my y-axis, and let me draw my x-axis, and y equals the natural
+log of x is going to look, so let me underline that, that is going to look something like this. I'm obviously hand drawing it, so not a great drawing, right over here. And so when we have the point two comma natural log of two, which would be, lets say it's over, so if this is two, then this right over here is
+the natural log of two, so that's the points two comma
+natural log of two, and then we have some other, we just
+noted the abstract two plus h, so it's two plus something. So let's say that is two plus h. And so this is going to be the point where we sit on the graph. That's going to be two plus
+h comma the natural log of two plus h, and the exercise
+we just did is finding the slope of the line
+that connects these two. So the line will look
+something like that, and and the way that we did
+this is we figured out, okay what is our change in y? So our change in, so let's
+see, we are going from y equals natural log of two to y equals natural log of two plus h. So our change in y, our change in y is our natural log of two plus h minus natural log of two. Minus natural log of
+two, and our change in x? Well we're going from two to two plus h, we're going from two to two
+plus h, so our change in x, we just increased by h. We're going from two to two plus h, so our change in x is equal to h. So the slope of the secant line, the slope of the secant line, a secant that intersects
+our graph in two points is going to be change
+in y over change in x, which is once again exactly
+what we have over there.

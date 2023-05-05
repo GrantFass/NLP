@@ -1,0 +1,56 @@
+In the last video where we generalized the linear consumption function. I said that the tax, the
+total amount of taxes, the aggregate taxes are constant, all of these were constants right here. You can merge them into a constant that ended up being our
+independent variable intercept right over here. YouTube user nilsor1337
+asks a very interesting and good question. "Aren't taxes in some way a
+function of aggregate income? "In most modern economies "people pay a percentage of their income. "In general, the tax base
+grows as aggregate income "or as GDP grows. "Is it appropriate to make this constant?" The simple answer is it
+depends on how carefully you want to model it. In some cases you might just say, "Well, let's just assume
+that this is a bulk tax. "We're just trying to
+understand one aspect of it." You will see that in
+some economics courses or some economics textbooks. The other way is you
+could actually model it a little bit more realistic. You could say, "Hey, taxes really are "a function of aggregate income." We could say that T really
+is going to be equal to some tax rate. I'll write that as a lower
+case t times aggregate income. In a place like the U.S.,
+this might be close to the 30% of aggregate income or 20%. Whatever it might be or aggregate income is what is going to go for taxes. If you do it this way, and you substitute back to this you could actually get an
+expression for consumption in terms of aggregate income that takes into consideration
+the idea that taxes are function of aggregate income. Just to do that algebraically, we can rewrite this expression up here. You have aggregate consumption =
+my marginal propensity to consume times aggregate income +
+autonomous consumption, the amount that would be
+consumed no matter what. Minus the marginal propensity to consume, shows up again. Instead of writing T right over here, I'm going to write lower case t x Y, tax rate times aggregate income. Times the tax rate times aggregate income. I just took this, instead
+of writing upper case T, I wrote lower case t
+times aggregate income and they should be the same thing. But now we've expressed t as a
+function of aggregate income. Now we can merge both of these, these are something
+times aggregate income. We can combine those 2 terms. This one and this one write over here. If we factor our a
+common factor of c1 x Y, we get, let me write it this way. Actually, let me just combine them first so that the algebra doesn't confuse you. We get C = c1 x Y. Marginal propensity to
+consume times aggregate income and I'm going to write this one. Minus the marginal propensity
+to consume times ... I'll switch the order here. Well, let me not switch the order, times the tax rate, not just the aggregate total tax value but the actual tax rate
+times aggregate income. That's those 2 terms there and then we're just left with
+the autonomous consumption. So, plus the autonomous consumption. Over here, we have a common factor. We can factor out the c1 and the Y, or essentially the marginal
+propensity to consume and the aggregate income. This is just algebraic
+manipulation right over here. We get aggregate consumption is equal to, let's see, we could write this c1(1 - t)Y. You can multiply this out to verify. If you multiply it all out then the 1st term is c1(1)Y
+is this right over here and c1(-t)Y is this term right over here. Then you're left with your
+autonomous consumption. This actually makes a lot of sense because when you write it like this, when you write it like this you could look at this
+term right over here. What is this term right over here? Well, (1 - t)Y, if the tax rate is 30% then this 1 - 30% is going to be 70%. 70% x aggregate income, that's essentially what
+people get in their pockets. This whole term right over here is essentially disposable income. Disposable income right over here. We could actually, if we wanted to write this
+as some other variable we could just put that
+variable right over there and say it's disposable income and then it actually becomes a very simple thing to graph. We could graph this 2 different ways. If we wanted to write a
+function of aggregate income we would graph it like this. Now, when we express it this way, taxes as a function of aggregate income now our vertical intercept. This is aggregate consumption. Our vertical intercept is
+this term right over here. That is C [not] and our slope is all of this business. The slope of our line
+is going to be C1(1 - t) and this right over here, the independent variable
+is aggregate income. Another option, we could
+set some other variable to what we could say disposable income. Let me call it Y disposable = (1 - t)Y then we could write this. It's essentially equal to this
+business right over there. Then we could rewrite the
+consumption function as aggregate consumption =
+marginal propensity to consume times disposable income + sum
+level of autonomous consumption. plus sum level of autonomous consumption. This actually takes us back to the basics. This takes us back to our
+very original situation here where we had some autonomous consumption plus our marginal propensity to consume times disposable income. If we wanted to plot it this way as a function of disposable income, not aggregate income then it would look like this. This is consumption, and now
+this is an aggregate income, this is disposable income which is the same thing as (1 - t)Y. Now, still our vertical
+intercept is C [not] and our line slope is the
+marginal propensity to consume. This is C1 just like that. All of these are completely
+valid consumption functions and I thank nilsor1337
+for bringing up a topic that actually was a
+cause of confusion for me because it really does depend. Because I thought the way, he or she, originally thought about the problem. Well, taxes are a function and a lot of econ books tend
+to treat this as a constant. That is actually just
+an assumption they make to often simplify the calculations. If they don't want to make that assumption you can still show that
+it is a linear function, that aggregate consumption
+is still a linear function of aggregate income.

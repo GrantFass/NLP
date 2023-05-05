@@ -1,0 +1,99 @@
+We're asked to simplify the
+cube root of 27a squared times b to the fifth times
+c to the third power. And the goal, whenever
+you try to just simplify a cube root like
+this, is we want to look at the parts of
+this expression over here that are perfect cubes,
+that are something raised to the third power. Then we can take just
+the cube root of those, essentially taking them
+out of the radical sign, and then leaving
+everything else that is not a perfect
+cube inside of it. So let's see what we can do. So first of all, 27--
+you may or may not already recognize this
+as a perfect cube. If you don't already
+recognize it, you can actually do
+a prime factorization and see it's a perfect cube. 27 is 3 times 9,
+and 9 is 3 times 3. So 27-- its prime factorization
+is 3 times 3 times 3. So it's the exact same thing
+as 3 to the third power. So let's rewrite this
+whole expression down here. But let's write it in terms of
+things that are perfect cubes and things that aren't. So 27 can be just rewritten
+as 3 to the third power. Then you have a squared--
+clearly not a perfect cube. a to the third would have been. So we're just going
+to write this-- let me write it over here. We can switch the order
+here because we just have a bunch of things being
+multiplied by each other. So I'll write the a
+squared over here. b to the fifth is not a
+perfect cube by itself, but it can be expressed
+as the product of a perfect cube and
+another thing. b to the fifth is the exact same thing as
+b to the third power times b to the second power. If you want to see that
+explicitly, b to the fifth is b times b times
+b times b times b. So the first three are
+clearly b to the third power. And then you have b to
+the second power after it. So we can rewrite b to
+the fifth as the product of a perfect cube. So I'll write b
+to the third-- let me do that in that
+same purple color. So we have b to the
+third power over here. And then it's b to the
+third times b squared. So I'll write the b
+squared over here. And we're assuming we're going
+to multiply all of this stuff. And then finally, we
+have-- I'll do in blue-- c to the third power. Clearly, this is a perfect cube. It is c cubed. It is c to the third power. So I'll put it over here. So this is c to the third power. And of course, we still have
+that overarching radical sign. So we're still trying to take
+the cube root of all of this. And we know from our
+exponent properties, or we could say from
+our radical properties, that this is the
+exact same thing. That taking the cube root
+of all of these things is the same as
+taking the cube root of these individual factors
+and then multiplying them. So this is the same
+thing as the cube root-- and I could separate
+them out individually. Or I could say the cube
+root of 3 to the third b to the third c to the third. Actually, let's do it both ways. So I'll take them
+out separately. So this is the same thing
+as the cube root of 3 to the third times the cube
+root-- I'll write them all in. Let me color-code it so we don't
+get confused-- times the cube root of b to the third
+times the cube root of c to the third times
+the cube root-- and I'll just group
+these two guys together just because we're not
+going to be able to simplify it any more-- times the cube
+root of a squared b squared. I'll keep the colors
+consistent while we're trying to figure
+out what's what. And I could have said that
+this is times the cube root of a squared times
+the cube root of b squared, but that won't
+simplify anything, so I'll just leave
+these like this. And so we can look at
+these individually. The cube root of 3 to the
+third, or the cube root of 27-- well, that's clearly
+just going to be-- I want to do that in
+that yellow color-- this is clearly
+just going to be 3. 3 to the third power is
+3 to the third power, or it's equal to 27. This term right over
+here, the cube root of b to the third--
+well, that's just b. And the cube root
+of c to the third, well, that is
+clearly-- I want to do that in that-- that
+is clearly just c. So our whole expression has
+simplified to 3 times b times c times the cube root
+of a squared b squared. And we're done. And I just want to
+do one other thing, just because I did mention
+that I would do it. We could simplify it this way. Or we could recognize that
+this expression right over here can be written as 3bc
+to the third power. And if I take three
+things to the third power, and I'm multiplying it,
+that's the same thing as multiplying them
+first and then raising to the third power. It comes straight out of
+our exponent properties. And so we can rewrite
+this as the cube root of all of this times
+the cube root of a squared b squared. And so the cube
+root of all of this, of 3bc to the third power, well,
+that's just going to be 3bc, and then multiplied by the cube
+root of a squared b squared. I didn't take the trouble
+to color-code it this time, because we already figured
+out one way to solve it. But hopefully, that
+also makes sense. We could have done
+this either way. But the important thing is
+that we get that same answer.

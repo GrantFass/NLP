@@ -1,0 +1,30 @@
+- [Instructor] Let's evaluate
+the definite integral from negative three to five of four dx. What is this going to be equal to? And I encourage you to pause the video and try to figure it out on your own. All right, so in order to evaluate this, we need to remember the
+fundamental theorem of calculus, which connects the notion of a definite integral and antiderivative. So the fundamental theorem
+of calculus tells us that our definite integral
+from a to b of f of x dx is going to be equal to the antiderivative of our function f, which we
+denote with the capital F, evaluated at the upper bound, minus our antiderivative, evaluated at the lower bound. So we just have to do
+that right over here. So this is going to be equal to, well, what is the antiderivative of four? Well, you might immediately say, well, that's just going to be four x. You could even think of it in
+terms of reverse power rule. Four is the same thing
+as four x to the zero. So you increase zero by one. So it's going to be four x to the first, and then you divide by that new exponent. Four x to the first divided by one, well, that's just going to be four x. So the antiderivative is four x. This is, you could say,
+our capital F of x, and we're going to evaluate that at five and at negative three. We're gonna find the
+difference between these two. So what we have right over here, evaluating the antiderivative
+at our upper bound, that is going to be four times five. And then from that,
+we're going to subtract, evaluating our antiderivative
+at the lower bound. So that's four times negative three. Four times negative three. And what is that going to be equal to? So this is 20 and then minus negative 12. So this is going to be plus 12, which is going to be equal to 32. Let's do another example where we're going to do
+the reverse power rule. So let's say that we want to find the indefinite or we want to
+find the definite integral going from negative one to three of seven x squared dx. What is this going to be equal to? Well, what we want to do is evaluate what is the
+antiderivative of this? Or you could say what is,
+if this is lowercase f of x, what is capital F of x? Well, the reverse power rule, we increase this exponent by one. So we're going to have
+seven times x to the third, and then we divide by
+that increased exponent. So seven x to the third divided by three, and we want to evaluate
+that at our upper bound and then subtract from that and it evaluate it at our lower bound. So this is going to be equal to, so evaluating it at our upper bound, it's going to be seven
+times three to the third. I'll just write that three
+to the third over three. And then from that, we
+are going to subtract this capital F of x, the antiderivative evaluated
+at the lower bound. So that is going to be seven times negative one to the third, all of that over three. And so this first expression, let's see, this is going to be seven times three to the third over three. This is 27 over three. This is going to be the same
+thing as seven times nine. So this is going to be 63. And this over here, negative one to the third
+power is negative one. But then we were subtracting a negative, so this is just gonna be adding. And so this is just going
+to be plus seven over three. Plus seven over three, if we wanted to express
+this as a mixed number, seven over three is the
+same thing as 2 1/3. So when we add everything together, we are going to get 65 1/3. And we are done.

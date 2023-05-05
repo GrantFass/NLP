@@ -1,0 +1,66 @@
+- [Voiceover] Let's see
+if we can find the limit as x approaches negative 1 of x plus 1 over the square root of x plus 5 minus 2. So, our first reaction might just be, okay, well let's just
+use our limit properties a little bit, this is going to be the
+same thing as the limit as x approaches negative 1 of x plus 1 over, over the limit, the limit as x approaches negative 1 of square root of x plus 5 minus 2. And then we could say, all right, this thing up here, x plus 1, if this is, if we think about the
+graph y equals x plus 1, it's continuous everywhere, especially at x equals negative 1, and
+so to evaluate this limit, we just have to evaluate
+this expression at x equals negative 1, so this numerator's just going
+to evaluate to negative 1 plus 1. And then our denominator, square root of x plus 5 minus
+2 isn't continuous everywhere but it is continuous
+at x equals negative 1 and so we can do the same thing. We can just substitute negative 1 for x, so this is going to be the
+square root of negative 1 plus 5 minus 2. Now, what does this evaluate to? Well, in the numerator we get a zero, and in the denominator,
+negative 1 plus 5 is 4, take the principle root is 2, minus 2, we get zero again, so we get, we got zero over zero. Now, when you see that, you
+might be tempted to give up. You say, oh, look, there's
+a zero in the denominator, maybe this limit doesn't exist, maybe I'm done here, what do I do? And if this was non-zero
+up here in the numerator, if you're taking a non-zero
+value and dividing it by zero, that is undefined and your limit would not exist. But when you have zero over zero, this is indeterminate form, it doesn't mean necessarily
+that your limit does not exist, and as we'll see in this
+video and many future ones, there are tools at our
+disposal to address this, and we will look at one of them. Now, the tool that we're going to look at is is there another way of
+rewriting this expression so we can evaluate its limit without getting the zero over zero? Well, let's just rewrite, let's just take this and give it, so let's take this thing right over here, and let's say this is g of x, so essentially what we're
+trying to do is find the limit of g of x as x approaches negative 1, so we can write g of x is equal to x plus 1 and the only reason
+I'm defining it as g of x is just to be able to think of
+it more clearly as a function and manipulate the function and then think about similar functions, over x plus 5 minus 2, or x plus 1 over the square
+root of x plus 5 minus 2. Now, the technique we're
+going to use is when you get this indeterminate form and
+if you have a square root in either the numerator
+or the denominator, it might help to get
+rid of that square root and this is often called
+rationalizing the expression. In this case, you have a
+square root in the denominator, so it would be rationalizing the denominator, and so, this would be, the way we would do it is we would be leveraging
+our knowledge of difference of squares. We know, we know that a plus b times a minus b is equal to a squared minus b squared, you learned that in algebra a little while ago, or if we had the square root of a plus b and we were to multiply that
+times the square root of a minus b, well that would be
+the square root of a squared which is just going to be a, minus b squared, so we can just leverage these ideas to get rid of this radical down here. The way we're going to do it is we're going to multiply the
+numerator and the denominator by the square root of x plus 5 plus 2, right? We have the minus 2 so we multiply it times the plus 2, so let's do that. So we have square root of x plus 5 plus 2 and we're going to multiply
+the numerator times the same thing, 'cause we
+don't want to change the value of the expression. This is 1. So, if we take the expression
+divided by the same expression it's going to be 1, so this is, so square root of x plus 5 plus 2 and so this is going to be equal to, this is going to be equal to x plus 1 times the square root, times the square root of x plus 5 plus 2 and then the denominator is going to be, well, it's going to be x, the square root of x plus 5 squared which would be just x plus 5 and then minus 2 squared, minus 4, and so this down here
+simplifies to x plus 5 minus 4 is just x plus 1 so this is just, this is just x plus 1 and it probably jumps out at
+you that both the numerator and the denominator
+have an x plus 1 in it, so maybe we can simplify, so we can simplify by just say, well, g of x is equal to
+the square root of x plus 5 plus 2. Now, some of you might be
+feeling a little off here, and you would be correct. Your spider senses would be, is this, is this definitely the same thing as what we originally had
+before we cancelled out the x plus 1s? And the answer is the way I just wrote it is not the exact same thing. It is the exact same
+thing everywhere except at x equals negative 1. This thing right over here is defined at x equals negative 1. This thing right over here is not defined at x equals negative 1, and g of x was not, was not, so g of x right over here, you don't get a good result
+when you try x equals negative 1 and so in order for this
+to truly be the same thing as g of x, the same function, we have to say for x not equal to negative 1. Now, this is a simplified
+version of g of x. It is the same thing. For any input x, that g of x is defined, this
+is going to give you the same output, and this is the
+exact same domain now, now that we've put this constraint in, as g of x. Now you might say, okay,
+well how does this help us? Because we want to find the
+limit as x approaches negative 1 and even here, I had to put
+this little constraint here that x cannot be equal to negative 1. How do we think about this limit? Well, lucky for us, we know, lucky for us we know that if we just take
+another function, f of x, if we say f of x is equal to
+the square root of x plus 5 plus 2, well then we know that f
+of x is equal to g of x for all x not equal to negative 1 because f of x does not
+have that constraint. And we know if this is true of two, if this is true of two functions, then the limit as x approaches, the limit, let me write this down, since we know this, because of this, we know that the limit of f of x as x approaches negative
+1 is going to be equal to the limit of g of x as x approaches negative 1, and this of course is what
+we want to figure out, what was the beginning of the problem, but we can now use f of x here, because only at x equals negative 1 that they are not the same, and if you were to graph g of x it just has a, it has a point discontinuity, or removable discont-- or, I should say, yeah, a point discontinuity right over here at x equals negative 1, and so what is the limit? And we are in the home stretch now. What is the limit of f of x? Well, we could say the limit
+of the square root of x plus 5 plus 2 as x approaches negative 1, well, this expression is continuous. Or, this function is continuous
+at x equals negative 1 so we can just evaluate
+it at x equals negative 1, so this is going to be the
+square root of negative 1 plus 5 plus 2, so this is 4 square root, principle root of 4 is 2, 2 plus 2 is equal to 4. So since the limit of f of
+x as x approaches negative 1 is 4, the limit of g of x as x approaches negative 1 is also 4, and if this little, this little, I guess you could say leap
+that I just made over here doesn't make sense to you, think about it, think about it visually. Think about it visually. So if this is my y-axis and this is my x-axis, g of x looked something like this. G of x, g of x, let me draw it, g of x looked something, something like this, and it had a gap at negative 1, so it had a gap right over there, while f of x, f of x would have the same graph except it wouldn't have, it wouldn't have the gap, and so if you're trying to find the limit, it seems completely reasonable, well let's just use f
+of x and evaluate what f of x would be to kind of fill that gap at x equals negative 1, so hopefully this graphical
+version helps a little bit or if it confuses you, ignore it.

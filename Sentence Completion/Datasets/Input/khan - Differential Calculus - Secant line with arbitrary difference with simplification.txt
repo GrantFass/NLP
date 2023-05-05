@@ -1,0 +1,17 @@
+- [Voiceover] A secant line intersects the curve y = 2x squared + 1 at two points with x-coordinates 4 and 4 +
+h, where h does not equal 0. What is the slope of the
+secant line in terms of h? Your answer must be fully
+expanded and simplified. We know the two points that
+are on the secant line. It might not be obvious
+from how they wrote it but let's make a little table here to make that a little bit clearer. We have x and then we
+have y = 2x squared + 1. So we know that when x = 4, what is y going to be equal to? It's gonna be 2(4 squared) + 1 which is the same thing as 2(16) +1 which is the same thing as 32 + 1 so it is going to be 33. What about when x = 4 + h? Well it's going to be 2(4 +h)squared + 1. That's going to be 2 times, let's see, (4 + h)squared is going to be 16 + 8h + h squared and then we have our + 1 still and if we distribute the 2 that's going to get us to
+32 + 16h + 2h squared + 1 and then we add the 32 to the 1 and actually I'm gonna
+switch the order a little bit so I have the highest degree term first so it's going to be 2h squared + 16h and then + 32 + 1 is 33. We have these two points. We have one point (4, 33) and we have the other point
+(4+h, 2h squared + 16h + 33) and we just have to find the slope between these two points because the secant line
+contains both of these points. How do we find the slope of a line? We do change in y / change in x. What's our change in y? If we view this as the end point and this as the starting point, our change in y is going
+to be this minus that. It's going to be 2h
+squared + 16h + 33 - 33, those two are going to
+cancel each other out, and then over, what's our change in x? If we ended at 4 + h but then we started at 4 so it's gonna be 4 + h - 4. These two cancel each with each other and we are left with 2h squared + 16h / h. We can divide everything in the numerator and denominator by h and what are we going to get? This is going to be 1. That's just a 1. This is just an h. We have 2h + 16 / 1. Or just 2h + 16. And we're done. This is the slope of the
+secant line in terms of h. Once again we just have to think about well the secant line
+contains the point (4,f(4)) or 2 times 4 squared + 1 right over here and, well I didn't call this f(x) but I think you get the idea, and then when x is 4 + h this is going to be y and we just found the slope
+between these two points.

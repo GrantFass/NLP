@@ -1,0 +1,81 @@
+We're asked to graph y is
+equal to 5 to the x-th power. And we'll just do this
+the most basic way. We'll just try out
+some values for x and see what we get for y. And then we'll plot
+those coordinates. So let's try some negative
+and some positive values. And I'll try to
+center them around 0. So this will be my x values. This will be my y values. Let's start first with something
+reasonably negative but not too negative. So let's say we start with
+x is equal to negative 2. Then y is equal to
+5 to the x power, or 5 to the negative
+2 power, which we know is the same thing as 1 over 5
+to the positive 2 power, which is just 1/25. Now let's try another value. What happens when x is
+equal to negative 1? Then y is 5 to the
+negative 1 power, which is the same thing as 1 over 5
+to the first power, or just 1/5. Now let's think about
+when x is equal to 0. Then y is going to be equal
+to 5 to the 0-th power, which we know anything
+to the 0-th power is going to be equal to 1. So this is going
+to be equal to 1. And then finally,
+we have-- well, actually, let's try a
+couple of more points here. Let me extend this table
+a little bit further. Let's try out x is equal to 1. Then y is 5 to the first power,
+which is just equal to 5. And let's do one
+last value over here. Let's see what happens
+when x is equal to 2. Then y is 5 squared,
+5 to the second power, which is just equal to 25. And now we can plot it to
+see how this actually looks. So let me get some
+graph paper going here. My x's go as low as negative
+2, as high as positive 2. And then my y's go all the way
+from 1/25 all the way to 25. So I have positive
+values over here. So let me draw it like this. So this could be my x-axis. That could be my x-axis. And then let's make
+this my y-axis. I'll draw it as neatly as I can. So let's make that my y-axis. And my x values, this
+could be negative 2. Actually, make my
+y-axis keep going. So that's y. This is x. That's a negative 2. That's negative 1. That's 0. That is 1. And that is positive 2. And let's plot the points. x is negative 2. y is 1/25. Actually, let me make
+the scale on the y-axis. So let's make this. So we're going to go
+all the way to 25. So let's say that this is 5. Actually, I have to do it a
+little bit smaller than that, too. So this is going to
+be 5, 10, 15, 20. And then 25 would be right where
+I wrote the y, give or take. So now let's plot them. Negative 2, 1/25. 1 is going to be like there. So 1/25 is going to be really,
+really close to the x-axis. That's about 1/25. So that is negative 2, 1/25. It's not going to
+be on the x-axis. 1/25 is obviously
+greater than 0. It's going to be really,
+really, really, really, close. Now let's do this point here
+in orange, negative 1, 1/5. Negative 1/5-- 1/5 on this
+scale is still pretty close. It's pretty close. So that right over there
+is negative 1, 1/5. And now in blue,
+we have 0 comma 1. 0 comma 1 is going to
+be right about there. If this is 2 and 1/2, that
+looks about right for 1. And then we have 1 comma 5. 1 comma 5 puts us
+right over there. And then finally,
+we have 2 comma 25. When x is 2, y is 25. 2 comma 25 puts us
+right about there. And so I think you see what
+happens with this function, with this graph. The further in the
+negative direction we go, 5 to ever-increasing
+negative powers gets closer and closer
+to 0, but never quite. So we're leaving 0, getting
+slightly further, further, further from 0. Right at the y-axis,
+we have y equal 1. Right at x is equal to 0,
+we have y is equal to 1. And then once x starts
+increasing beyond 0, then we start seeing what
+the exponential is good at, which is just this
+very rapid increase. Some people would call it
+an exponential increase, which is obviously the
+case right over here. So then if I just
+keep this curve going, you see it's just going
+on this sometimes called a hockey stick. It just keeps on
+going up like this at a super fast rate,
+ever-increasing rate. So you could keep going
+forever to the left, and you'd get closer and
+closer and closer to 0 without quite getting to 0. So 5 to the negative
+billionth power is still not going
+to get you to 0, but it's going to get you
+pretty darn close to 0. But obviously, if you go to 5
+to the positive billionth power, you're going to get
+to a super huge number because this thing is just
+going to keep skyrocketing up like that. So let me just draw
+the whole curve, just to make sure you see it. Over here, I'm not actually on
+0, although the way I drew it, it might look like that. I'm slightly above 0. I'm increasing above that,
+increasing above that. And once I get into the
+positive x's, then I start really,
+really shooting up.

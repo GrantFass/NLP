@@ -1,0 +1,65 @@
+- I took some screen captures from the Khan Academy exercise on
+correlation coefficient intuition. They've given us some
+correlation coefficients and we have to match them to the various scatterplots on that exercise. There's a little interface
+where we can drag these around in a table to match them to the different scatterplots. The point isn't to figure out how exactly to calculate these, we'll
+do that in the future, but really to get an intuition
+of we are trying to measure. The main idea is that
+correlation coefficients are trying to measure
+how well a linear model can describe the relationship
+between two variables. For example, let me do some coordinate axes here. Let's say that's one variable. Say that's my y variable and let's say that is my x variable. Let's say when x is low, y is low. When x is a little higher,
+y is a little higher. When x is a little bit
+higher, y is higher. When x is really high, y is even higher. A linear model would
+describe it very, very well. It's quite easy to draw a line that essentially goes
+through those points. So something like this
+would have an r of 1, r is equal to one. A linear model perfectly describes it and it's a positive correlation. When one increases, when
+one variable gets larger, then the other variable is larger. When one variable is
+smaller then other variable is smaller and vice versa. Now what would an r of
+negative one look like? Well, that would once again be a situation where a linear model works really well but when one variable moves up, the other one moves down and vice versa. Let me draw my coordinates, my coordinate axes again. I'm gonna try to draw a dataset where the r would be negative one. Maybe when y is high, x is very low. When y becomes lower, x become higher. When y becomes a good bit lower, x becomes a good bit higher. Once again, when y decreases, x increases or as x
+increases, y decreases. They're moving in opposite directions but you can fit a line
+very easily to this. The line would look something like this. This would have an r of negative one, and r of zero, r is equal to zero, would be a dataset which a line doesn't really fit very well at all. I'll do that one really small, since I don't have much space here. An r of zero might look something like this. Maybe I'll have a data point here, maybe have a data point here, maybe I have one there. There, there. And it wouldn't necessarily
+be this well organized but this gives you a sense of things. How would you actually
+try to fit a line here? You could equally justify
+a line that looks like that or a line that looks like that, or a line that looks like that. A linear model really does not describe the relationship between
+the two variables that well, right over here. So with that, is a primer. Let's see if we can
+tackle these scatterplots. The way I'm gonna do it is I'm just gonna try to eyeball what a linear
+model might look like. There's different methods of
+trying to fit a linear model to a dataset, an imperfect dataset. I drew very perfect ones, at least for the r equals negative one and r equals one but these are what the real
+world actually looks like. Very few times will things
+perfectly sit on a line. For scatterplot A, if I
+were to try to fit a line, it would look something like that. If I were to try to
+minimize distances from the points to the line,
+I do see a general trend if we look at these data points over here, when y is high, x is low. When x is larger, y is smaller. Looks like r is going
+to be less than zero, and a reasonable bit less than zero. It's going to approach this thing here. If we look at our choices, it wouldn't be r equals 0.65. These are positive so I wouldn't
+use that one or that one. And this one is almost no correlation. R equals negative 0.02, this
+is pretty close to zero. I feel good with r is
+equal to negative 0.72. I wanna be clear, if I didn't
+have these choices here, I wouldn't just be able to say, just looking at these data points without being able to do a calculation, that r is equals to negative 0.72. I'm just basing it on
+the intuition that it is a negative correlation,
+it seems pretty strong. The pattern kind of jumps out at you, that when y is large, x is small. When x is large, y is small. So I like something that's approaching r equals negative one. I've used this one up already. Now scatterplot B, if I were
+to just try to eyeball it, once again this is gonna be imperfect. But the trend, if I were
+to try to fit a line, it looks something like that. It looks like a line
+fits in reasonably well. There's some points that
+would still be hard to fit. They're still pretty far from the line. It looks like it's a positive correlation. When y is small, x is
+relatively small and vice versa. As x grows, y grows and
+when y grows, x grows. This ones going to be positive and it looks like it would
+be reasonably positive. I have two choices here. I don't know which of
+these it's going to be. It's either going to be r is equal to 0.65 or r is equal to 0.84. I also got scatterplot C,
+this ones all over the place. It kinda looks like what we did over here. What does a line look like? You could almost imagine anything. Does it look like that? Does a line look like that? There's not a direction
+that you could say, "Well, as x increases, maybe
+y increases or decreases." There's no rhyme or reason here, so this looks very non-correlated. So this one is pretty close to zero. I feel pretty good that this is the r is equal to negative .02. In fact, if we tried
+probably the best line that could be fit, would be one with a slight negative slope. It might look something like this. And notice, even when
+we try to fit a line, there's all sorts of points
+that are way off the line. So the linear model did
+not fit it that well. R is equal to negative 0.02, So we'll use that one. Now we have scatterplot D. That's gonna use one of the
+other positive correlations and it does look like there
+is a positive correlation. When y is low, x is low. When x is high, y is high and vice versa. We could try to fit something that looks something like that. But it's still not as good as that one. You can see the points
+that we're trying to fit, there's several points that
+are still pretty far away from our model. The model is not fitting it that well, so I would say scatterplot
+B is a better fit. A linear model works
+better for scatterplot B than it works for scatterplot D. I would give the higher r to scatterplot B and the lower r, r equals
+0.65, to scatterplot D. R is equal to 0.65. Once again that's because
+with a linear model it looks like there's a
+trend but there's several more data points are way off the line in scatterplot D than in
+the case of scatterplot B. There's a few that are
+still way off the line but these are even more
+off of the line in D.

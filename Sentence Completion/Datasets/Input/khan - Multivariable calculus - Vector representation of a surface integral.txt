@@ -1,0 +1,179 @@
+In the last video,
+we figured out how to construct a unit
+normal vector to a surface. And so now we can use that
+back in our original surface integral to try to
+simplify a little bit, or at least give us a clue how
+we can calculate these things. And also, think
+about different ways to represent this type
+of a surface integral. So if we just substitute what
+we came up as our normal vector, our unit normal
+vector right here, we will get-- so
+once again, it's the surface integral of F dot. And F dot all of this
+business right over here. And I'm going to
+write it all in white, just so it doesn't
+take me too much time. So the partial of
+r with respect to u crossed with the partial
+of r with respect to v over the magnitude
+of the same thing, partial of r with respect to u
+crossed with the partial of r with respect to v. And now, we've
+played with ds a lot. We know that the other
+way to write ds-- and I gave the
+intuition, hopefully, for that several videos
+ago when we first explored what a surface
+integral was all about. We know that ds is--
+it can be represented as the magnitude of the
+partial of r with respect to u crossed with the partial
+of r with respect to v du dv. And Obviously, the du dv, it
+could be written as dv du. You could write it as da,
+a little chunk of area and the uv plane or
+in the uv domain. And actually, since now this
+integral's in terms of uv, we're no longer taking
+a surface integral. We're now taking a double
+integral over the uv domain. So you could say kind
+of a region in uv. So I'll say R to say that's
+it's a region in the uv plane that we're now thinking about. But there's probably a
+huge-- or there should be, or I'm guessing there's a
+huge simplification that's popping out at you right now. We're dividing by the
+magnitude of the cross product of these two vectors
+and then we're multiplying by the magnitude of
+the cross product of these two vectors. Those are just
+scalar quantities. You divide by something
+and multiply by something. Well, that's just the same
+thing as multiplying or dividing by 1. So these two
+characters cancel out, and our integral simplifies
+to the double integral over that region, the
+corresponding region in the uv plane, of F-- of
+our vector field F dotted with this cross product. This is going to give us
+a vector right over here. That's going to
+give us a vector. It gives us actually
+a normal vector. And then when you
+divide by its magnitude, it gives you a
+unit normal vector. So this, you're going to
+take the dot product of F with r, the partial
+of r with respect to u crossed with the partial
+of r with respect to v du dv. Let me scroll over to the
+right a little bit, du dv. And we'll see in the
+few videos from now that this is essentially how we
+go about actually calculating these things. If you have a
+parameterization, you can then get everything in
+terms of a double integral, in terms of uv this way. Now, the last thing I want
+to do is explore another way that you'll see a surface
+integral like this written. It all comes from,
+really, writing this part in a different way. But it hopefully gives you
+a little bit more intuition of what this thing
+is even saying. So I'm just going to rewrite. I'm going to rewrite this
+chunk right over here. I'm just going to
+rewrite that chunk. And I'm going to use slightly
+different notation because it will hopefully help make
+a little bit more sense. So the partial of r
+with respect to u I can write as the partial
+of r with respect to u. And we're taking
+the cross product. Let me make my u's a little bit
+more u-like so we confuse them with v's. And we're taking the
+cross product of that with the partial
+of r with respect to v. So very small
+changes in our vector-- in our parameterization
+right here, our position vector given
+a small change in v. Very small changes in the vector
+given a small change in u. And then we're multiplying
+that times du dv. We're multiplying
+that times du dv. Now, du and dv are
+just scalar quantities. They're infinitesimally small. But for the sake
+of this argument, you can just view--
+they're not vectors, they're just scalar quantities. And so you can
+essentially include them-- if you have the cross product. If you have a cross b times some
+scalar value-- I don't know, x, you could rewrite this
+as x times a cross b, or you could write
+this as a cross x times b, because x is
+just a scalar value. It's just a number. So we could do the
+same thing over here. We can rewrite all
+of this business as-- and I'm going to group the du
+where we have the partial-- or with respect to u
+in the denominator. And I'll do the same
+thing with the v's. And so you will get the
+partial of r with respect to u times du,
+times that scalar. So that'll give us a vector. And we're going to cross that. We're going to cross that with
+the partial of r with respect to v dv. Now, these might
+look notationally like two different
+things, but that just comes from the
+necessity of when we take partial derivatives to say,
+oh, no, this vector function is defined-- it's a function
+of multiple variables and this is taking a
+derivative with respect to only one of them. So this is, how
+much does our vector change when you have a
+very small change in u? But this is also an
+infinitesimally small change in u over here, we're just using
+slightly different notation. So for the sake of--
+and this is a little bit loosey-goosey mathematics,
+but it will hopefully give you the intuition
+for why this thing could be written in a different way. These are essentially
+the same quantity. So if you divide by something
+and multiply by something, you can cancel them out. If you divide by something
+and multiply by something, you can cancel them out. And all you're left
+with then-- all you're left with is
+the differential of r. And since we lost
+the information that it's in the
+u-direction, I'll write here, the differential
+of r in the u-direction. I don't want to get
+the notation confused. This is just the differential. This is just how much r changed. This is not the partial
+derivative of r with respect to u. This right over here
+is, how much does r change given per unit change,
+per small change in u? This just says a differential
+in the direction of-- I guess as u changes, this is
+how much that infinitely small change that just r changes. This isn't change in r with
+respect to change in u. And we're going to cross that. Now, we're going to cross
+that with the partial of r, the partial of r
+in the v-direction. Now, this right over here,
+let's just conceptualize this. And this goes back to
+our original visions of what a surface
+integral was all about. If we're on a surface--
+and I'll draw surface. Let me draw another surface. I won't use the one that
+I had already drawn on. If we draw a surface, and for
+a very small change in u-- and we're not going to
+think about the rate. We're just thinking about
+kind of the change in r. You're going in that direction. So if that thing
+looks like this, this is actually kind of a
+distance moved on the surface. Because remember, this
+isn't the derivative. This is the differential. So it's just a small
+change along the surface, that's that over there. And that this is a small
+change when you change v. So it's also a change
+along the surface. When you take the cross
+product of these two things, you get a vector
+that is orthogonal. You get a vector that is
+normal to the surface. So it is normal to the
+surface and its magnitude-- and we saw this when we first
+learned about cross products. Its magnitude is
+equal to the area that is defined by these two vectors. So its magnitude
+is equal to area. So in a lot of
+ways, you can really think of it-- you
+really could think of it as a unit normal
+vector times ds. And so the way that we would,
+I guess notationally do this, is we can call this--
+because this is kind of a ds, but it's a vector
+version of the ds. Over here, this is just
+an area right over here. This is just a scalar value. But now, we have a vector
+that points normally from the surface,
+but its magnitude is the same thing as
+that ds that we were just talking about. So we can call this thing right
+over here, we can call this ds. And the key difference here
+is this is a vector now. So we'll call it ds with
+a little vector over it to know that this thing. This isn't the scalar ds that
+is just concerned with the area. But when you view
+things this way, we just saw that this entire
+thing simplifies to ds. Then our whole surface
+integral can be rewritten. Instead of writing
+it like this, we can write it as the
+integral or the surface integral-- those integral
+signs were too fancy. The surface integral of F dot. And instead of saying a
+normal vector times the scalar quantity, that little chunk
+of area on the surface, we can now just call that
+the vector differential ds. And I want to make it clear,
+these are two different things. This is a vector. This is essentially
+what we're calling it. This right over here is a
+scalar times a normal vector. So these are three
+different ways of really representing
+the same thing. And in different contexts,
+you will see different things, depending on what the author of
+whoever's trying to communicate is trying to communicate. This right over here is the one
+that we'll use most frequently as we actually try to calculate
+these surface integrals.

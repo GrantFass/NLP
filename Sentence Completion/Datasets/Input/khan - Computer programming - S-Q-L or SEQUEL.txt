@@ -1,0 +1,22 @@
+At this point, you've probably heard me
+pronounce SQL two ways-- sequel or S-Q-L. Some of you might even be mad that I'm pronouncing it
+one way or the other, and you may have
+very good reason for believing that your favorite pronunciation
+is the correct one. So what's the deal? Well, SQL was originally invented
+at IBM in the early 1970s. And the first version
+was called SEQUEL, and it stood for
+Structured English QUEry Language. That acronym, SEQUEL,
+was later changed to SQL, because SEQUEL was already
+trademarked by an airplane company, and companies really don't like
+getting into trademark lawsuits. Nowadays, many of us still
+pronounce it sequel, because it's shorter to say, and we've got historical reasons
+to claim that it's the right way. However, when I surveyed
+developers across the world, I found that in non-English languages,
+many of them pronounce it S-Q-L, or, for example,
+ese cu ele in Spanish. Since our videos get translated
+here on Khan Academy, I figured I'd make it easier for translators to match
+the pace of our videos, by pronouncing SQL the long way. But in everyday life,
+I'm used to calling it sequel, so both of them come out of me. Now you know,
+it can be S-Q-L or sequel, and you'll probably hear both
+the rest of your life. The world is a messy place, but at least you now have a way of
+structuring your queries about it, right?

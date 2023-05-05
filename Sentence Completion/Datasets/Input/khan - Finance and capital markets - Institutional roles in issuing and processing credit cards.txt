@@ -1,0 +1,126 @@
+Voiceover: What I want to
+do in this video is try to give a reasonable understanding of the different players
+involved that issue and process your credit cards. Let's start off with the processors. Sometimes you could say that the network, or the processors are
+the people that maintain the credit card networks. Examples of those are Visa, Mastercard, American Express, Discover. What they do is they,
+essentially, maintain networks of IT and policies that connect a bunch of banks together. For just the sake of this
+video, we'll do very simple. Let's say that this is
+network 1, maybe that's Visa. Maybe this right here is network 2. This right here could be Mastercard. Right now the networks are
+just circles, but you'll see that they're networks as I
+build out this explanation. Let's say that I'm some bank out there. Let me call myself bank A. I decide that, you know
+what, it would be good for my business for me
+to issue a credit card. I could extend credit to my customers, they'll pay me interest,
+maybe I'll make some fees off of that, and it'll be
+good business for my bank. I go up to Visa and I say,
+"Hey, can I be a member "of your network?" Visa has some policies and
+if you're a legitimate bank and you agree to all those policies, you'll become a member of that network. I've joined the network
+and I'm, of course, not the only person on that network. There's tons of other
+banks on that network. That could be bank B,
+this could be bank C, this could be bank D. Of course, each of these are
+networks, so they all have their own member banks on them. That's Mastercard's network right there. In this situation, let's say
+I'm a customer of bank A. They say, "You want a credit
+card?" and I say, "Sure. "That'll be convenient, I
+don't like carrying cash "in my pocket, so give me a credit card." They'll issue a credit card
+that looks something like this. The credit card, I think
+we've all seen credit cards, It'll say Bank A really big up at the top. Bank A, I'll have a credit
+card number that's unique to me, my credit card number,
+my name will be there, some type of expiration
+date, and then here in the bottom right corner,
+they're going to say what network I'm a part of. In this case, it would be Visa. A credit card issued over
+here would say Mastercard or if it was American Express, they'd put American Express here, or
+maybe there's some type of a hologram. Great, I have a credit card here. I think we all have a general sense. I could use it and then
+I'll build a balance and then in the future I
+could pay off that balance to this bank or I could carry a balance and they'll charge me
+interest, which is usually reasonably high interest,
+so I want to pay it off fairly quickly, but how
+does this actually work in the context of a network? Let's say I go to the local grocery store. Let me draw that in orange. Let's say I go to some
+grocery store over here. I'll say G for grocery. I buy $100 worth of
+groceries and I want to pay with my newly issued credit card. Let me write this down. This is the issuing, issuer. This is the issuing bank. I go to the grocery store,
+I say, "Hey, I'd like to pay "with a credit card." The grocery store, if
+they accept credit cards, they need to have some
+relationship with another bank someplace on this Visa
+network, in order for them to accept a Visa card. Let's say that they have
+a relationship with bank B over here. This would be the merchant
+bank, or we could say the retailer's bank, or it's
+often in credit card lingo called the acquiring bank or the acquirer. You might wonder why is
+it called the acquirer? It's called the acquirer
+because this is the player that goes out and goes
+to each of the merchants and says, "Hey, right
+now you only accept cash "or you only accept American Express. "Wouldn't it be great if
+you also accepted Visa "or Mastercard? "That way you'll have more
+appeal to more customers "and it'll be more
+convenient for your customers "and every time a transaction
+happens, we'll just take "a little bit of a cut
+of that transaction." So they go out and acquire
+different retailers. This was the grocer, maybe bank B goes off and acquires the shoemaker, maybe he goes and he gets the tailor on the network. These are all different
+retailers who will now, all of a sudden, accept Visa, because their merchant bank is a member of the Visa network. Likewise, it could've been a member of the Mastercard network,
+it doesn't matter. This is the processor and
+this is their network. Now, this guy, in this
+context, he would accept Visa. I would give him my Visa
+card and the first process is called authorization. That's literally to check
+whether I'm good for the money, whether this card is
+valid to buy $100 worth of groceries. When I swipe the card or
+when the grocer swipes the card, it's going to send a message from that little unit, from
+the point of sale unit, to the acquiring bank. That's going to be forwarded to Visa. Then Visa will say, "Oh,
+that's bank A's card," and they'll give a number to bank A on their own proprietary network. Then bank A will look into
+their database and say, "Oh yeah, Sal's got $1,000
+of credit, he hasn't used "any of it, he is good for it. "I authorize the transaction." That message goes back through the network to bank B, so then we get authorized. Then the transaction goes
+forward and eventually, as you could imagine,
+you can't just authorize a transaction and then I
+walk away with the groceries. At some point, this guy here expects to get his money back for
+giving me the groceries. He expects to get $100 back. That $100 is going to come from bank A, but he's not going to get a complete $100, because obviously, each of these players, they're providing a service. This guy, he's plugged into the network and he's offering credit. The network operator or
+the processor is offering their network and there's other services they might provide, different
+security mechanisms. They say, "Sal lives in
+Chicago, but all of a sudden, "he's buying $100 worth
+of groceries in Salzburg "or someplace that seems unlikely." Then it might send some
+type of a warning trigger, so people might have their
+own security mechanisms. They're all providing a service. This guy is going out
+there, he might be providing the actual point of sale
+terminals, the actual network, so they're all going to get a
+little bit of a cut of things. Out of the $100, I got
+$100 worth of groceries. There'll be a 2%, and it's not always 2%, that's a round number,
+but it also is a ballpark, not completely outlandish,
+relative to what tends to be the case. Of that $100 that this guy could've gotten for his groceries, he has to pay a 2% ... Yeah, let's write it that way. He's got to pay a 2%, or in this case $2, that's 2% of $100. He's got to pay a $2 discount
+rate to his acquiring bank. You might say, "Gee, the
+acquirer, that's great. "They get 2% of all of
+these guys' transactions," but of course they're
+going to have to share it with these other people up here. Actually, the bulk of
+it ends up with bank A. Of this $2, and I'm doing
+it in roundabout numbers, bank A, now we're going
+to split up the $2, bank A is going to get,
+let's just say, $1.70. These aren't that far off
+from what the real numbers might be and they change
+and they depend on the banks and the network and all of that. The networks might change their rates. $1.70 goes to bank A. The issuing bank, besides now that I have a credit balance, it'll be
+able to charge interest on it. It also got $1.70 for that transaction. That $1.70 of the $2, this
+is called an interchange fee. This right here is an interchange fee. It generally gets set by
+the individual networks. Although, the networks don't
+share that interchange fee. They just say, "Our standard
+interchange fee is X% "of transactions plus $0.10,"
+and that's what bank B is going to pay to bank A. It's essentially bank A's
+cut of the discount rate, of the $2 this guy is charging that guy. Then, the network, they make their money in several ways, but in
+general, they make money off of every transaction, as well. In this situation, they
+make roughly about 1000th of the transaction or .1% In this example, $0.10
+of this discount rate that this guy charged
+would go to the processor or the network. Every time you transact,
+the processor gets a small fraction of your actual purchase. Then, this guy will be left with 30 - Well, let's see. $1.70, $0.10, $1.80. We're coming from $2, this
+guy's going to be left with $0.20. When the whole transaction gets settled, which essentially means
+everyone gets the money they need to get, this bank
+is going to send Visa's settlement bank $100 minus the $1.70 that it gets to keep as
+part of its interchange fee. It's going to send Visa, what is that, that's $98.30 to Visa. Visa will keep $0.10 of it,
+send it to the acquirer, so the acquirer is going to get $98.20. Then the acquirer is going
+to keep $0.20 for itself and give the retailer $98. My numbers aren't exact,
+but I want to give you the general idea of how all this works. In order for this retailer
+to be able to use all of this infrastructure out
+there, he essentially had to pay 2% of the actual transaction. That's always not going
+to be 2%, but it gives you a nice, round figure. This guy benefits because
+he gets access to a network, it's convenient for the customers. This guy, obviously, is
+getting some type of fee. The more retailers he signs
+on, or the more retailers he acquires, the more cuts of transactions he's going to make. Visa makes a small cut on
+many, many transactions, so that's where they make their money. They obviously have to
+use some of that money to support all of this infrastructure. Then bank A is going to
+make that interchange fee, which was the bulk of that discount rate, that retailer discount
+rate, not related at all to the federal funds discount rate. Then, of course, they
+extended credit to me, so that $100 might not
+be paid immediately. They might be able to charge me 15-20% annualized percentage rate
+interest on that money until I pay it off. Of course I have some
+type of minimum balances to pay. Hopefully that explains
+things a little bit. I'll see you in the next video.

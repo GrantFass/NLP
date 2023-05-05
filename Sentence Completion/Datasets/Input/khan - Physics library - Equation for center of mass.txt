@@ -1,0 +1,68 @@
+- [Tutor] So let's say you wanted to know where the center of mass was between this two kilogram mass and
+this six kilogram mass, now they're separated by 10 centimeters, so it's somewhere in between them and we know it's gonna be
+closer to the larger mass, 'cause the center of mass is always closer to the larger mass, but
+exactly where is it gonna be? We need a formula to figure this out and the formula for the center
+of mass looks like this, it says the location
+of the center of mass, that's what this is, this Xcm is just the location
+of the center of mass, it's the position of the
+center of mass is gonna equal, you take all the masses
+that you're trying to find the center of mass between, you take all those masses
+times their positions and you add up all of these M times Xs, until you've accounted
+for every single M times X there is in your system and then you just divide by all
+of the masses added together and what you get out of this is the location of the center of mass. So let's use this, let's use
+this for this example problem right here and let's see what we get, we'll have the center of mass, the position of the center
+of mass is gonna be equal to, alright, so we'll take M1, which you could take either one as M1, but I already colored this one red, so we'll just say the
+two kilogram mass is M1 and we're gonna have to multiply by X1, the position of mass
+one and at this point, you might be confused, you
+might be like the position, I don't know what the position is, there's no coordinate system up here, well, you get to pick,
+so you get to decide where you're measuring
+these positions from and wherever you decide
+to measure them from will also be the point, where the center of mass is measured from, in other words, you get to
+choose where X equals zero. Let's just say for the sake of argument, the left-hand side over
+here is X equals zero, let's say right here is X
+equals zero on our number line and then it goes this way,
+it's positive this way, so if this is X equals zero,
+halfway would be X equals five and then over here, it
+would be X equals 10, we're free to choose that,
+in fact, it's kind of cool, because if this is X equals zero, the position of mass one is zero meters, so it's gonna be, this
+term's just gonna go away, which is okay, we're gonna
+have to add to that M2, which is six kilograms
+times the position of M2, again we can choose
+whatever point we want, but we have to be consistent,
+we already chose this as X equals zero for mass one, so that still has to be X
+equals zero for mass two, that means this has to
+be 10 centimeters now and then those are our only
+two masses, so we stop there and we just divide by all
+the masses added together, which is gonna be two kilograms for M1 plus six kilograms for M2
+and what we get out of this is two times zero, zero plus six times 10 is 60 kilogram centimeters
+divided by two plus six is gonna be eight kilograms, which gives us 7.5 centimeters, so it's gonna be 7.5
+centimeters from the point we called X equals zero,
+which is right here, that's the location of the center of mass, so in other words, if you
+connected these two spheres by a rod, a light rod and
+you put a pivot right here, they would balance at
+that point right there and just to show you, you might be like, "Wait, we can choose any
+point as X equals zero, "won't we get a different number?" You will, so let's say you did this, instead of picking that as X equals zero, let's say we pick this
+side as X equals zero, let's say we say X equals zero is this six kilogram mass's position, what are we gonna get then? We'll get that the location
+of the center of mass for this calculation is gonna be, well, we'll have two kilograms, but now the location of the
+two kilogram mass is not zero, it's gonna be if this is zero and we're considering
+this way is positive, it's gonna be negative 10 centimeters, 'cause it's 10 centimeters to the left, so this is gonna be
+negative 10 centimeters plus six kilograms times, now the location of the
+six kilogram mass is zero, using this convention and we divide by both of the masses added up, so that's still two
+kilograms plus six kilograms and what are we gonna get? We're gonna get two times negative 10 plus six times zero,
+well, that's just zero, so it's gonna be negative
+20 kilogram centimeters divided by eight kilograms gives us negative 2.5 centimeters, so you might be worried,
+you might be like, "What? "We got a different answer. "The location can't change, "based on where we're measuring from," and it didn't change, it's still
+in the exact same position, because now this negative 2.5 centimeters is measured relative
+to this X equals zero, so what's negative 2.5
+centimeters from here? It's 2.5 centimeters to the left, which lo and behold is
+exactly at the same point, since this was 7.5 and
+this is negative 2.5 and the whole thing is 10 centimeters, it gives you the exact same
+location for the center of mass, it has to, it can't change based on whether you're calling this
+point zero or this point zero, but you have to be careful and
+consistent with your choice, any choice will work, but you
+have to be consistent with it and you have to know at the end where is this answer measured from, otherwise you won't be able to interpret what this number means at the end. So recapping, you can use
+the center of mass formula to find the exact location
+of the center of mass between a system of objects, you add all the masses
+times their positions and divide by the total mass, the position can be measured relative to any point
+you call X equals zero and the number you get
+out of that calculation will be the distance from X equals zero to the center of mass of that system.

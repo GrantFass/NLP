@@ -1,0 +1,48 @@
+We're told that the sum
+of three consecutive odd integers is 231. What is the largest integer? So let's think about
+this a little bit. Let's say that x is the
+smallest integer. x is equal to the smallest
+odd of these three. It's not the smallest odd
+integer of all integers, it's is the smallest odd of
+these three, the smallest odd integer. So what's the next
+one going to be? Well, if I have one odd integer,
+what's going to be the next odd integer? Let's think about this. If x was 3, what's the
+next odd integer? It's 5. And then what's the next
+one after that? It's 7. And the next one after that? It's 9. So every time we add 2. So if the smallest one is x, the
+next smallest odd integer is x plus 2, is equal to the
+next smallest odd integer-- I'll write integer here--
+odd integer. And then what would
+be the next one? Well, we're going to add
+2 to this one, right? So it's going to be x plus 4. Think about it. If the smallest is 3, then you
+have x plus 2, which is 5. And then you have x plus
+4, which is 7. So this will be the largest of
+the consecutive odd integer in this group. And they tell us that the sum
+of these consecutive odd integers is 231. What is the largest integer? So if I take x, x plus 2 and x
+plus 4, and I sum them, they should be equal to 231. So let's do that. So we have x plus x plus 2, plus
+x plus 4, and this needs to be equal to 231. And when they ask us what's the
+largest one, we're going to have to tell them what
+x plus 4 is equal to. So let's just solve
+this equation. So let's add our x terms. We
+have one x, two x, three x's, so we get 3x plus-- and then
+what are our constants? We have a 2 and we have a 4. So 3x plus 6 is equal to 231. Now, let's get rid
+of the 6 from the left-hand side of the equation. The best way to do that it is to
+subtract 6 from both sides. So let's subtract 6
+from both sides. The left-hand side, we're
+just left with the 3x. The 6's cancel out. The right-hand side,
+231 minus 6 is 225. We have 3x is equal to 225. To isolate the x, let's just
+divide both sides by 3. The left-hand side, the 3's
+cancel out-- that was the whole point behind dividing by
+3-- we get just an x is being equal to-- and 225
+divided by 3. Let me do it over here. So 3 goes into 225. It goes into 22 7 times. 7 times 3 is 21. 22 minus 21 is 1. Bring down the 5. 3 goes into 15 5 times. 5 times 3 is 15. Subtract, no remainder. So 225 divided by 3 is 75. So the smallest, the smallest
+of the odd integers is 75. So this one is 75. What's x plus 2 going
+to be equal to? Well, that's going
+to be 2 more, 77. And what's x plus 4 going
+to be equal to? Well, that's the largest
+of them. x is 75 plus 4 is
+going to be 79. And notice, we have three
+odd integers. They're consecutive. They're the, you know, they're
+the odd integers that come directly after each other. And let's verify that when we
+add them up, we get 231. So if we get 75 plus-- let me
+just write it like this-- 75 plus 77, plus 79, want
+to add them all up. 5 plus 7 is 12. 12 plus 9 is 21. Carry the 2. 2 plus 7 is 9. 9 plus 7 is 16. 16 plus 7 is 23. So there you have it. The three consecutive odd
+integers, when you add them up, you got 231. They're consecutive and odd. They ask, what's the largest? The largest is 79.

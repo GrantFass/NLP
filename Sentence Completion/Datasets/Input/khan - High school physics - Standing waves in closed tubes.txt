@@ -1,0 +1,70 @@
+- [Voiceover] Okay, so last
+time we saw that for an open open tube, or an open open pipe, a pipe where both ends were open, there only particular
+wavelengths that were allowed, because you had to have
+anti-nodes at both ends. So, you had that one. We had this one. We have this one, and we found the
+wavelength of all of these. Then, we realized, wait a minute we can write down a formula. For any possible wavelength, in an open open tube, and it depends only on the
+length of the tube L and N. N is which harmonic we're talking about. One is the fundamental,
+two is the second harmonic, three is the third
+harmonic, four and so on. This gave you ever possible wavelength. The questions is, can we do the same thing if we had an open closed end? What happens if one ends closed? What if we closed this end off, so that it's not open anymore. Well, let's do that right now. Here we go. Here's a closed end right here. This end is closed. This is more like a soda bottle, because this end would be open, the top that you drink out of
+and the bottoms closed off. We've got air inside. If you blow over the top, what possible frequencies,
+what possible wavelengths could you set up? Well, what do we know here? We know that this end, this air is open or this side is open, and so this air molecule
+can oscillate wildly. What type of node is that going to be? That's going to be an anti-node, since it can oscillate a lot. This end over here, these
+air molecules keeping bumping into the side. It's got to be a node over on this end, because there can't be any displacement. What do we do here? This ends a node. We know that. I'm going to
+put this on the axis here. I know this end has no displacement. We're graphing displacement
+again versus X. This is, in this case,
+horizontal displacement. This end is going to oscillate wildly, so I know there's going
+to be an anti-node. So, I'm going to put it right here. I'm going to draw the
+simplest possible wave that can go from this anti-node to this node is going to look like this. Anti-node and it goes curve
+right down to the node. That's it. What wavelength is this? Well, in terms of the length of this tube, so if this is L, what wavelength is this in terms of L? We've got to figure out how
+much of a wavelength this is. That's always the trick. This
+is what freaks students out. They don't like figuring out
+how many wavelengths is this. It's not too hard. First thing I like to do is draw what I know one wavelength looks like. So, what does one wavelength look like? One wavelength looks like this. If we start up here, a wavelength is going all the way and then back to the same
+point in the process. There we go. That's one entire wavelength, at least if this is a
+versus X graph it is. So, how much of a
+wavelength is this pink line for this first fundamental frequency? This first fundamental wavelength? It starts at the top, so
+let's start at the top. It goes, and that thing
+just goes till the first crossing of the axis, and that's the node. So, this thing crosses
+the axis here. That's it. That's all we got. We got a big long ... what is this? This is
+one-fourth of a wavelength. That's one-fourth, and it goes to here. That's another fourth. Here's another fourth,
+and here's another fourth. So, this is only
+one-fourth of a wavelength. That's hard for a lot of people to see. The whole things one wavelength. Half of it is a half,
+so if I cut it in half, that's a half, and I cut
+this half in half again, I get one-fourth. So, what I find out is that, okay, the length L equals one-fourth of a wavelength in this case. Our fundamental wavelength divided by four equals the length of this tube. So, if I want to know
+what the wavelength is, that means my wavelength
+for the fundamental open closed case is four L. I'm going to write that over here. (Lambda) equals four L, and this would be the
+fundamental wavelength for this open closed tube. This is bigger. For open open is was
+two L, so it's four L. How about the next one? All right, we got it
+started in the anti-node, and we got it into the node. The next simplest case in ... well, we had no nodes in between. We only had one at the end. So, now I need a node in the middle. I'm going to create a node in the middle, and then I have to get all the way back to the node on this end. So, I've got one node here.
+I've got a node at the end. I've got this anti-node here,
+and an anti-node up here. How many wavelengths is this? Let's figure it out. Start at the top. All right, this goes all the way down past the node and back up. So, all the way down, past the node, back up, and ends at a node. That's how much of a
+wavelength I've got here . So, how much is this? Well, it's one-fourth,
+two-fourths, three-fourths. This time L is the length of my tube. Is my wavelengths fitting into L? In this case, it's
+three-fourths of a wavelength. Again, if I solved that for wavelength, I'd get four L over three. So, the next possible wavelength is four L over three. If we solve for the next one, let's draw it, started an anti-node, end a node, the next possible one, well, the last one had one node, this time it's going to have two nodes. I'm going to come down here. One node, two node, and then it gets (back)
+to the node at the end. So, a node at this end, there
+has to be a node at this end, because it's closed. This time I have two nodes in the middle. I have a anti-node on this end, and two anti-nodes in the middle. So, how many wavelengths is this? All right, let's figure it out. Start at the top. All right, it comes down,
+let's just trace it out. Down, hits that first node, down to the anti-node, back up to the node,
+now, I've gotten to here. I keep going. I go up to
+the top, I'm not done yet. Now, I'm back up to here. I have to keep going one
+more fourth of a wavelength. This is more than a wavelength. This time L equals, well, this is one whole
+wavelength just to this point right here. Then, I have to add one more fourth of a wavelength to that. So, this is one wavelength and a fourth, or another way to say that is that this is five-fourths of a wavelength. Five-fourths of a wavelength. Just to here is one whole wavelength, and I have to add one more fourth to that. So, if I solve for lambda, I get lambda is four L, ... we see a pattern. Patters are great. Four L over five. This next wavelength
+possible is four L over five and shoot, we can do this now. Now, I see enough. If I want to write down
+any possible wavelength, it's going to be four L. Look, four L, four L over
+three, four L over five. The next one four L over seven. I get that the possible wavelengths for an open closed tube are four L over N. Except, instead of being
+any possible integer, the only allowed integers
+are the odd ones. So, I'm not allowed to put in two or four. It's got to be one,
+three, five, and so on. Here's the formula. This is it. If I want to know what are
+the possible wavelengths allowed in an open closed tube, this is it. It depends on
+the length. It depends on N. Looks just like the case for open open, except it was two L for that case. This case is four L on top. Four times length of the tube, and on the bottom it's
+only the odd integers. That means I only get the odd harmonics. This four L over three, I wouldn't call this the second harmonic, I'd call this the third harmonic. This five down here, I
+wouldn't call this the third, I'd call this the fifth. We're missing all the even
+harmonics on this case for an open closed tube. It's a little bit strange, but that's what happens when you have an anti-node at this end, and a node required at that end. You can try this. Look,
+this is a function of L. If you want to test this out, next time you're drinking a soda. Look, if the L is large if the length of your tube is large, that means the wavelength should be large. If the wavelength is large, well, let's see. V equals lambda F. If you've got a big wavelength, that'll mean a small frequency, because the speed won't change. The speeds determined by the medium, and you're probably not
+changing the temperature of the medium all that much. Maybe, you've got ice in
+your drink or something, but if it melts it'll change a little bit. It's not going to change
+the speed by that much. If you increase the length, you'll increase the wavelength, it'll decrease the frequency. Low frequency means a low note. You'll hear a lower bassy note. Try this, I want you to try this out the next time you're drinking a soda, or maybe it's a healthy beverage. Whatever it is. You got some soda here,
+it's up to some level. Where ever the waters at acts
+as the bottom of the tube. Right now, I only have a tube this length. The top is open, and the bottom is basically where ever there's water level is, because the air can't get
+past that water level. This would only be a length of that. As you keep drinking, keep blowing over the top. As you keep blowing over the top, listen for what note you hear. You should keep hearing a lower note. The lower this gets,
+once it's down to here, now your length ... the length of your tube is bigger. It's open at the top closed at the bottom. You'll hear even a lower note, once it gets down to here. When you finish, now it's even longer. You'll hear a much lower notes. The notes should get lower and lower. Not louder and louder,
+but lower and lower, the frequency should sound lower and lower the lower your drink gets. The higher the length,
+bigger the wavelength, smaller the frequency.

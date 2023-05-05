@@ -1,0 +1,75 @@
+- [Voiceover] A particle moves
+along the curve xy equals 16, so that the y coordinate is increasing, we underline this, the y
+coordinate is increasing at a constant rate of
+two units per minute. That means that the rate of
+change of y with respect to t is equal to two. What is the magnitude,
+in units per minute, of the particle's velocity vector when the particle is at the point
+four comma four, so when x is four, and y is four. So let's see what's going on. So, let's first just
+remind ourselves what a velocity vector, what the
+velocity vector will look like. So our velocity is going
+to be a function of time. And it's going to have two components, it's going to be what is
+the rate of change in the x direction, and the rate of
+change in the y direction. So the rate of change in
+the x direction is going to be dx dt, and the rate of
+change in the y direction is going to be dy dt. And they tell us that this
+is, that dy dt is a constant two units per minute. But they're not even
+just asking us for just the velocity vector for its components, they're asking for the magnitude, they're asking for the
+magnitude of the particle's velocity vector. Well, if I have some vector,
+let me do a little bit of a side here, if I have
+some vector, let's say a, that has components b and
+c, well then the magnitude of my vector, sometimes you'll
+see it written like that, sometimes you'll see it
+written with double bars like that, the magnitude of my vector, and this comes straight out
+of the Pythagorean theorem, this is going to be the
+square root of b squared plus c squared. The square root of the
+x component squared plus the y component squared. So, if we wanted the magnitude
+of our velocity vector, the magnitude of the
+particle's velocity vector, well I could write that
+as the magnitude of v, I could even write it as a function of t, it's going to be equal to the square root of the x component squared,
+so that's the rate of change of x with respect to time, squared, plus the y component
+squared, which in this case is the rate of change of y,
+with respect to t, squared. So how do we figure out
+these, how do we figure out these two things? Well we already know
+the rate of change of y with respect to t, they say
+that's a constant rate of two units per minute. So we already know that
+this is gonna be two, or that this whole thing right
+over here's gonna be four, but how do we figure
+out the rate of change of x with respect to t? Well, we could take our
+original equation that describes the curve, we could take
+the derivative of both sides with respect to t, and
+then that's going to give us an equation that involves
+xy and dx dt and dy dt, so let's do that. So we have xy is equal to 16, I'm gonna to take the
+derivative with respect to t, of both sides, we do that
+in a different color, just for a little bit of variety, so the derivative with respect
+to t of the left hand side, derivative with respect to
+t of the right hand side, now the left hand side,
+we view this as a product of two functions, if we say,
+look, x is a function of t, and y is also a function
+of t, this is we're gonna do a little bit of the product rule and a little bit of the chain rule here. And so this is going to be equal to, derivative of the first
+function, which is, so, we'll first say the derivative
+of x with respect to x is one, times the derivative
+of x with respect to t. Remember, taking the derivative
+with respect to t, not with respect to x, times
+the second function, so times, times the second function, so times y, times y,
+plus, the first function, which is just x, times the
+derivative of the second function with respect to t. So first what's the derivative
+of y with respect to y, well that's just one, and
+then what's the derivative of y with respect to t, well that's dy dt, and that is going to be equal to, that is going to be equal
+to, derivative of a constant is just zero. So let's see, what does this simplify to, this simplifies to, in
+fact we don't even have to simplify it more,
+we can actually plug in the values to solve for dx dt. We know that dy dt is a constant two, and we want the magnitude
+of the particle's velocity vector when the
+particle's at the point four comma four, so
+when x is equal to four, so when x is equal to four,
+and y is equal to four, and y is equal to four. So now, it's a little messy right now, but this right here is an
+equation we can solve for, there's only one unknown here, the rate of change of x with respect to t, right when we are at the
+point four comma four, and so if we're able to figure that out, we can substitute that
+in here and figure out the magnitude of our velocity vector. So let us write it out, so this gives us four, four dx dt, plus what is this four times two, plus eight is equal to
+zero, and so we have four dx dt is equal to negative eight, just subtracted eight from both sides, divide both sides by four, you get dx dt, scroll down, is equal to negative two. So when all this stuff
+is going on the rate of change of x with respect
+to t is negative two, and then you square it, you
+get a four, right over here, and so the magnitude
+of our velocity vector is going to be equal to the
+square root of four plus four, which is equal to eight,
+which is the same thing as four times two, so this is going to be two square root of two, units per minute, so that's the magnitude
+of the velocity vector.

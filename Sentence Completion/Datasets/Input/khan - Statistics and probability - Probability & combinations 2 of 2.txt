@@ -1,0 +1,117 @@
+Welcome back. I actually recorded this video
+earlier today, but then I realized my microphone
+wasn't plugged in. And I won't name names in
+terms of who unplugged it. But anyway, back
+to probability. My wife is giggling
+mischievously. Anyway, so let's do a
+slightly harder problem than we did before. We were dealing with fair
+coins, let's deal with a slightly unfair coin. Let's say I have a coin and
+it's-- actually instead of unfair coin let's
+do basketball. Let's say I'm shooting free
+throws and I have a free throw percentage of 80%. So when I shot a free throw,
+8 out of 10 times, or 80% of the time I will make it. But that also says that 20%
+of time I will miss it. So given that, if I were to
+take-- I don't know-- 5 free throws, what is the probability
+that I make at least 3 of the 5 free throws? Well, let's think of it this
+way, what is the probability of any particular combination
+of making 3 out of the 5? So what do I mean by that? Let me pick a particular
+combination. Let's say it's a basket,
+basket, basket, and then I miss, miss. So that would be I
+made 3 out of the 5. It could be-- I don't know--
+basket, miss, basket, miss, basket. And there's a bunch of them and
+we'll actually try to figure out how many of them there are. But what is the probability of
+this particular combination? Well, I have an 80% chance of
+making this first basket. Times 80%. That's a times right there. Times 80%. And then what's my
+probability of missing? Well, that's 20%, right? Times 0.2. times 0.2. So this sequels 0.8 to the
+third power times 0.2 squared. What's the probability of
+getting this exact combination? Well, it's 0.8
+times-- then I miss. There's a 20% chance of that. So times 0.2 times 0.8
+times 0.2 times 0.8. We could rearrange this because
+when you multiply numbers it doesn't matter what order
+you multiply them in. So this is the same thing
+as 0.8 times 0.8 times 0.8 times 0.2 times 0.2. So this is also the same
+thing as 0.8 to the third times 0.2 squared. The probability of getting any
+particular combination of 3 baskets and 2 misses is going
+to be 0.8 to third times 0.2 squared. Now what's the total
+probability of getting 3 out of 5? Well, it's going to be the sum
+of all of these combinations. You know, I could list them
+all, but we hopefully now are proficient enough in
+combinatorics and combinations to figure out how many
+different ways, if we have 5 baskets and we're picking-- or
+we have 5 shots and we're picking 3 of them to be the
+ones that are basket shots. So what do I mean? So let's say my 5 shots-- you
+know, I've shot 1, 2, 3, 4, 5. Out of these five, I'm
+going to choose 3. So once again, I'm putting my
+hat on as the god of probability and I will choose 3
+of these shots to be the ones that happen to be the
+ones that get made. So essentially, out of
+5 I am choosing 3. 5 choose 3. And what does that equal to? That's 5 factorial over 3
+factorial times 5 minus 3 factorial, so that's
+2 factorial. And that equals 5 times 4 times
+3 times 2 times 1 over 3 times 2 times 1 times 2 times 1. We can ignore all the 1's. Let's see. We get 3 times 2 times 1. 3 times 2 times 1. We can cancel that. This 1 we can ignore, and
+then this 2 and then this turns into 2. So there are 10
+possible combinations. These are two of them. You know, basket, basket,
+basket, miss, miss. Basket, miss, basket,
+miss, basket. And you know, it's a good
+exercise for you to list the other 8 of them. But using just the binomial
+coefficient, and hopefully you have an intuition of why that
+works and I'd be happy to make more videos if you feel that
+that you need more explanation. But I made a couple. There are 10 combinations. So essentially, the probability
+of getting exactly 3 out of 5 baskets, if I am an 80% free
+throw shot, is going to be-- switch colors. The probability of 3 out of 5
+baskets is going to be equal to the probability of each of the
+combinations, which is 0.8 to the third times 0.2 squared. I make 3, miss 2. And then, times the total
+number of combinations. Each of these has a
+probability of this much. And then there's 10 different
+arrangements that I could make. There's 10 different ways of
+getting 3 baskets and 2 misses. So times 10, and what
+does that equal to? Let me get my high-end
+calculator here. So let's see what that is. That is 0.8 times 0.8 times 0.8
+times 0.2 times 0.2 times 10. Equals 20.48. So it's essentially, a 20.48%
+chance that I get exactly 3 out of 5 of the baskets. Now let's make it slightly
+more interesting. Let's say I don't want it as a
+probability of 3 out of the 5. And this is actually something
+that probably, people are more likely to ask. What is the probability of
+getting at least 3 baskets? Well, if you think about it,
+this is the probability. This is equal to the
+probability of getting 3 out of 5 baskets, plus the probability
+of getting exactly 4 out of 5 baskets, plus the probability
+of getting exactly 5 out of 5 baskets. We already figured
+this one out. That's 20.48%. So what's the probability of
+getting 4 out of 5 baskets? Well, once again, if we want
+exactly 4 out of 5 baskets, so an example could be-- I
+don't know-- miss, basket, basket, basket, basket. What's the probability of
+any one of the combinations where I make 4 baskets? Well, it's going to be 0.8 to
+the fourth times-- and then I have a 20% chance
+that one miss. You know, it could have
+been basket, miss, basket, basket, basket. That's also exactly 4, but
+when you multiply them, the probability of getting any
+one of these particular combinations is exactly this--
+0.8 to the fourth times 0.2. If I have 5 baskets, how many
+ways can I pick 4 of them to be the ones that I make if I'm
+once again the god of probability? So this is going to be 0.8 to
+the fourth times 0.2 times 0.2 times-- out of 5 baskets, I'm
+choosing 4 that I'm going to make. So this is the number of
+combinations where I get 4 out of the 5. So what is 5 choose 4? That's 5 factorial over 4
+factorial times 1 factorial. Well, that equals just 5. You can work that out. So let's just figure this out. This is going to be 0.8
+times 0.8 times 0.8-- that's 3-- times 0.8. That equals-- did
+I do that right? Let's see. 0.1. Wait. 0.8 times 0.8--
+yeah, that's right. Times 0.2 times 5. So 40.96%. So this is 40.96%. So roughly, 41% chance that I
+get exactly 4 out of 5 baskets. Which is interesting because
+that's kind of my free throw percentage. So it's almost a little less--
+you know, 2/3 shot of kind of hitting my free throw
+percentage on the mark on that time. And what's the probability
+of getting 5 out of 5 Well, there's only one way
+of getting 5 out of 5. You have to get all 5 of them. So this is 0.8 to
+the fifth power. Let me get the calculator back. So it's 0.8 times 0.-- oh,
+wait-- times 0.8 times 0.8 times 0.8 times 0.8
+equals 0.3276. So 32.77% shot. And then we can add them
+all up because we want the probability of at least 3. So it's going to be that, the
+probability of getting 5 out of 5, plus the probability of
+getting 4 out of 5, which is 0.4096. Plus, the probability
+of getting 3 out of 5. So that's 0.2048
+equals 0.94208. So 94.21-- roughly, rounding--
+% chance, which makes sense. If I have an 80% free throw
+percentage on any one shot, I have a very high probability of
+getting at least 3 out of 5 when I go to the
+free throw line. Anyway, I'm all out of time. I'll see you in the next video.

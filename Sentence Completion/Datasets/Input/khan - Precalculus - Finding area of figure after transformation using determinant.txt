@@ -1,0 +1,16 @@
+- [Tutor] We're told to consider
+this matrix transformation or this is a matrix that you can view, represents a transformation on the entire coordinate plane. And then they tell us that the
+transformation is performed on the following rectangle. So this is the rectangle
+before the transformation and they say, what is the area of the image of the rectangle
+under this transformation? So the image of the rectangle
+is what the rectangle becomes after the transformation. So pause this video and
+see if you can answer that before we work through it on our own. All right, so the main
+thing to realize is, if we have a matrix transformation or a transformation matrix like this if we take the absolute
+value of its determinant, that value tells us how much
+that transformation scales up areas of figures. So let's just do that, let's evaluate the absolute
+value of the determinant here. So the absolute value of the determinant would be the absolute value of 5 times 8, 5 times 8 minus 9 times 4, 9 times 4. Remember for a 2 by 2 matrix, the determinant is just this times this minus this times that. And so that's going to be the
+absolute value of 40 minus 36 which is just the absolute value of 4 which is just going to be equal to 4. So this tells us that this transformation will scale up area by a factor of 4. So what's the area before
+the transformation? Well, we can see that this is, let's see, it's 5 units tall and it is 7 units wide. So this has an area of 35 square
+units, pre transformation. So post transformation,
+we just multiply it by the absolute value of
+the determinant to get, let's see, 4 times 30 is 120 plus 4 times 5 is another 20. So this is going to get us to 140 square units and we're done.

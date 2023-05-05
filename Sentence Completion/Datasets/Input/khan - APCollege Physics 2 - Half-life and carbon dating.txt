@@ -1,0 +1,181 @@
+SAL: In the last video we saw
+all sorts of different types of isotopes of atoms
+experiencing radioactive decay and turning into other atoms or
+releasing different types of particles. But the question is, when
+does an atom or nucleus decide to decay? Let's say I have a bunch of,
+let's say these are all atoms. I have a bunch of atoms here. And let's say we're talking
+about the type of decay where an atom turns into
+another atom. So your proton number
+is going to change. Your atomic number is
+going to change. So it could either be beta
+decay, which would release electrons from the neutrons and
+turn them into protons. Or maybe positron emission
+turning protons into neutrons. But that's not what's
+relevant here. Let's say we have a collection
+of atoms. And normally when we have any small amount of any
+element, we really have huge amounts of atoms of
+that element. And we've talked about moles
+and, you know, one gram of carbon-12-- I'm sorry, 12
+grams-- 12 grams of carbon-12 has one mole of carbon-12
+in it. One mole of carbon-12. And what is one mole
+of carbon-12? That's 6.02 times 10 to the 23rd
+carbon-12 atoms. This is a ginormous number. This is more than we can, than
+my head can really grasp around how large of
+a number this is. And this is only when we have
+12 grams. 12 grams is not a large mass. For example, one kilogram
+is about two pounds. So this is about, what? I want to say [? 1/50 ?] of a pound if I'm
+doing [? it. ?] But this is not a lot
+of mass right here. And pounds is obviously force. You get the idea. On Earth, well anywhere,
+mass is invariant. This is not a tremendous
+amount. So with that said, let's go back
+to the question of how do we know if one of these
+guys are going to decay in some way. And maybe not carbon-12, maybe
+we're talking about carbon-14 or something. How do we know that they're
+going to decay? And the answer is, you don't. They all have some probability
+of the decaying. At any given moment, for a
+certain type of element or a certain type of isotope of
+an element, there's some probability that one
+of them will decay. That, you know, maybe this guy
+will decay this second. And then nothing happens for a
+long time, a long time, and all of a sudden two
+more guys decay. And so, like everything in
+chemistry, and a lot of what we're starting to deal with in
+physics and quantum mechanics, everything is probabilistic. I mean, maybe if we really
+got in detail on the configurations of the nucleus,
+maybe we could get a little bit better in terms of our
+probabilities, but we don't know what's going on inside of
+the nucleus, so all we can do is ascribe some probabilities
+to something reacting. Now you could say, OK, what's
+the probability of any given molecule reacting
+in one second? Or you could define
+it that way. But we're used to dealing with
+things on the macro level, on dealing with, you know, huge
+amounts of atoms. So what we do is we come up with terms
+that help us get our head around this. And one of those terms is
+the term half-life. And let me erase this
+stuff down here. So I have a description, and
+we're going to hopefully get an intuition of what
+half-life means. So I wrote a decay reaction
+right here, where you have carbon-14. It decays into nitrogen-14. And we could just do a
+little bit of review. You go from six protons
+to seven protons. Your mass changes the same. So one of the neutrons must have
+turned into a proton and that is what happened. And it does that by releasing
+an electron, which is also call a beta particle. We could have written this
+as minus 1 charge. Relatively zero mass. It does have some mass,
+but they write zero. This is kind of notation. So this is beta decay. Beta decay, this is
+just a review. But the way we think about
+half-life is, people have studied carbon and they said,
+look, if I start off with 10 grams-- if I have just a block
+of carbon that's 10 grams. If I wait carbon-14's half-life--
+this is a specific isotope of carbon. Remember, isotopes, if there's
+carbon, can come in 12, with an atomic mass number of 12, or
+with 14, or I mean, there's different isotopes of
+different elements. And the atomic number
+defines the carbon, because it has six protons. Carbon-12 has six protons. Carbon-14 has six protons. But they have a different
+number of neutrons. So when you have the same
+element with varying number of neutrons, that's an isotope. So the carbon-14 version, or
+this isotope of carbon, let's say we start with 10 grams. If
+they say that it's half-life is 5,740 years, that means that
+if on day one we start off with 10 grams of pure
+carbon-14, after 5,740 years, half of this will
+have turned into nitrogen-14, by beta decay. And you might say, oh OK, so
+maybe-- let's see, let me make nitrogen magenta, right there--
+so you might say, OK, maybe that half turns
+into nitrogen. And I've actually seen this
+drawn this way in some chemistry classes or physics
+classes, and my immediate question is how does this
+half know that it must turn into nitrogen? And how does this half know that
+it must stay as carbon? And the answer is
+they don't know. And it really shouldn't
+be drawn this way. So let me redraw it. So this is our original block
+of our carbon-14. What happens over that
+5,740 years is that, probabilistically, some of these
+guys just start turning into nitrogen randomly,
+at random points. And over 5,740 years, you
+determine that there's a 50% chance that any one of these
+carbon atoms will turn into a nitrogen atom. So that after 5,740 years, the
+half-life of carbon, a 50% chance that any of the
+guys that are carbon will turn to nitrogen. So if you go back after a
+half-life, half of the atoms will now be nitrogen. So now you have, after
+one half-life-- So let's ignore this. So we started with this. All 10 grams were carbon. 10 grams of c-14. This is after one half-life. And now we have five
+grams of c-14. And we have five grams
+of nitrogen-14. Fair enough. Let's think about what happens
+after another half-life. Well we said that during a
+half-life, 5,740 years in the case of carbon-14-- all
+different elements have a different half-life, if they're
+radioactive-- over 5,740 years there's a 50%-- and
+if I just look at any one atom-- there's a 50%
+chance it'll decay. So if we go to another
+half-life, if we go another half-life from there, I had
+five grams of carbon-14. So let me actually copy
+and paste this one. This is what I started with. Now after another half-life--
+you can ignore all my little, actually let me erase some
+of this up here. Let me clean it up
+a little bit. After one one half-life,
+what happens? Well I now am left with five
+grams of carbon-14. Those five grams of carbon-14,
+every one of those atoms still has, over the next-- whatever
+that number was, 5,740 years-- after 5,740 years,
+all of those once again have a 50% chance. And by the law of large numbers,
+half of them will have converted into
+nitrogen-14. So we'll have even more
+conversion into nitrogen-14. So now half of that five grams.
+So now we're only left with 2.5 grams of c-14. And how much nitrogen-14? Well we have another two and
+a half went to nitrogen. So now we have seven and a half
+grams of nitrogen-14. And we could keep going further
+into the future, and after every half-life, 5,740
+years, we will have half of the carbon that we started. But we'll always have an infinitesimal amount of carbon. But let me ask you a question. Let's say I'm just staring
+at one carbon atom. Let's say I just have this
+one carbon atom. You know, I've got its nucleus,
+with its c-14. So it's got its six protons. 1, 2, 3, 4, 5, 6. It's got its eight neutrons. It's got its six electrons. 1, 2, 3, 4, 5, 6, whatever. What's going to happen? What's going to happen
+after one second? Well, I don't know. It'll probably still be carbon,
+but there's some probability that after one
+second it will have already turned into nitrogen-14. What's going to happen after
+one billion years? Well, after one billion years
+I'll say, well you know, it'll probably have turned into
+nitrogen-14 at that point, but I'm not sure. This might be the one
+ultra-stable nucleus that just happened to, kind of,
+go against the odds and stay carbon-14. So after one half-life, if
+you're just looking at one atom after 5,740 years, you
+don't know whether this turned into a nitrogen or not. This exact atom, you just know
+that it had a 50% chance of turning into a nitrogen. Now, if you look at it over a
+huge number of atoms. I mean, if you start approaching, you
+know, Avogadro's number or anything larger--
+I erased that. Then all of a sudden you can use
+the law of large numbers and say, OK, on average, if each
+of those atoms must have had a 50% chance, and if I have
+gazillions of them, half of them will have turned
+into nitrogen. I don't know which half,
+but half of them will turn into it. So you might get a question
+like, I start with, oh I don't know, let's say I start with
+80 grams of something with, let's just call it x, and it has
+a half-life of two years. I'm just making up
+this compound. A two-year half-life. And then let's say we go into
+a time machine and we look back at our sample, and let's
+say we only have 10 grams of our sample left. And we want to know how much
+time has passed by. So 10 grams left of x. How much time, you know, x is
+decaying the whole time, how much time has passed? Well let's think about it. We're starting at time, 0 with
+80 grams. After two years, how much are we going
+to have left? We're going to have 40
+grams. So t equals 2. But after two more years, how
+many are we going to have? We're going to have 20 grams.
+So this is t equals 3 I'm sorry, this is t
+equals 4 years. And then after two more years,
+I'll only have half of that left again. So now I'm only going to
+have 10 grams left. And that's where I am. And this is t equals 6. So if you know you have
+some compound. You're starting off with 80
+grams. You know it has a two-year half-life. You get in a time machine. And then you didn't build
+your time machine well. You don't know how well it
+calibrates against time. You just look at your sample. You say, oh, I only have
+10 grams left. You know that 1, 2, 3 half-lives
+have gone by. And you could also think
+about it this way. 1/2 to the 3rd power, because
+every time you have 1/2 of the original sample-- that's the
+number of half-lives-- after three half-lives you'll have 1/8
+of your original sample. And that's what we have here. We have 1/8 of 80 grams. And
+this is just when you're doing it with a discreet you know,
+when you're right at the half-life point. In the next video we're going to
+explore what if I asked you a question, how many of the
+particles, or how many grams will you have in exactly
+10 days? Or at two and a half years? And we'll do that in
+the next video.

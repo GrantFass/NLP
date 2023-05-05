@@ -1,0 +1,65 @@
+- What I hope to do in
+this video is get even more algebraically familiar with
+the Lorentz transformation, so that we can recognize
+it in its different forms and start to build our
+intuition for how it behaves. So let's just write down
+the Lorentz transformation, or at least the way
+that I like to write it. So let's just remind ourselves, if I'm in my frame of reference, I am floating through
+space, so I could say s for Sal's frame of reference. Some event in space time,
+from my point of view, is going to have some x-coordinate, I will do that in green,
+and it's going to have some ct coordinate, I
+can do that in orange. So the Lorentz transformations
+are going to go from coordinates in my frame of reference, space-time coordinates for an event, to my friend's frame of reference, so we can say that's the
+s-prime frame of reference, and her frame of reference, the event, will have space-time coordinates x-prime, let me write it this way: x-prime, comma, ct-prime, I'm really having trouble
+switching colors today, ct-prime, so let's just
+write it down the way I've written it down
+in the previous videos, and then I'll do a little bit
+of algebraic manipulations, so we can recognize its different forms. So if we want to get x-prime, we see that it's going to be based on the Lorentz factor times x minus a scaled version of ct, and the scaling factor is beta, and we will redefine beta in a second, so beta times ct, where our Lorentz factor, let me write it over here, the Lorentz factor is
+one over the square root of one minus v-squared over c-squared, or we could write it as
+one over the square root of one minus beta-squared, where beta is equal to v over c. So there you go. That's how we get x-prime
+and it's gonna be based on the Lorentz factors dependent on v and of course the rest
+of this is going to be dependent on x and ct. And so how do we get ct-prime? Well ct-prime is going to be equal to, I'll just write it right over here, ct-prime is going to be equal to the Lorentz factor times, and once again this is going to be the nice symmetry we talked about, times ct, we'll do that in orange, so ct minus beta times x. And like I said before, I
+like to write it this way. I find it easier to remember. I find it easier to
+remember because it has this nice, beautiful symmetry to it. When I'm trying to solve for x-prime, it's x minus beta times ct. When I'm solving for ct-prime,
+it's ct minus beta times x. And in both cases, I'm
+scaling by the Lorentz factor. Well let's manipulate this a little bit, just to understand a little better, and reconcile with what you might see with other sources,
+including, say, your textbook. Well we know that beta
+is equal to v over c, and this is v over c, and so we can write this
+as v over c times c, this c's going to cancel with that c. And so we could rewrite this as x-prime is equal to the Lorentz factor, gamma times x minus vt. V times t. Now this is really
+interesting right over here, 'cause if you'd ignored gamma,
+or if gamma was one here, this is essentially the
+Galilean transformation. If it was just x minus vt, that was just our intuition about our everyday life, but Newtonian physics
+would actually tell us, and so when you view it in this form, you really think, okay, you're
+just going to scale that by this Lorentz transformation, which has this interesting behavior that if v is much, much smaller
+than the speed of light, well then, this whole factor is going to be pretty close to one, and that's why the Galilean
+transformation's worked for us, for kind of everyday velocities. But then if v starts to
+approach the speed of light, this thing blows up and we
+get a very different result than with our traditional
+Galilean transformation. Well let's think about
+what happens over here, and over here, instead
+of staying in ct-prime, I'm gonna also divide both sides by c, so we're just solving for time as we normally associate it. Just the t-prime variables
+as opposed to ct-prime. So let's also divide both sides by c, so you divide by c there, and
+you can divide by c there, and you can divide by c there, those c's cancel, those c's cancel, and so we're left with t-prime is equal to the Lorentz factor, times t times t minus, now you're going to get v times x, and you're going to divide by
+c twice, so over c-squared. So vx, v times x over c-squared. And this is actually a more
+typical way, both of these, of seeing the Lorentz transformation. The reason why I don't
+like this form as much, even though this does
+have the neat, kind of, when you look at it, it looks
+like you're just scaling up the Galilean transformation, is it you no longer
+see the symmetry there, and you should see the symmetry there, because we're talking about space-time. We're not talking about this
+independence of space and time. We saw how the angles in
+the Minkowski diagram, how those were symmetrical,
+the angles between the regular, or the unprimed axes, and the primed axes. And so what I don't like about this is you no longer see the symmetry, while you did see it the
+first way that I wrote it. And frankly I find this
+harder to remember. But let's just think
+about what happens here when v is a very small
+fraction of the speed of light. Well as we've already
+said, our Lorentz factor is going to be pretty close to one, and if v is a very small fraction of c, well then this second
+term right over here, is going to be pretty close to zero. And so if v is a small fraction of c, then this thing is going to be get pretty, just let me just write this down, so if v is much less than c, then this is going to reduce to t-prime being approximately equal to, because our Lorentz factor is going to be pretty close to one, this is going to be pretty close to zero. So this is going to be pretty close to t. Likewise, for v much lower than c over here, our Lorentz factor is going
+to be pretty close to one, and so x-prime is going to be approximately equal to x minus vt. So for small v's, and small can even be
+the speed of a bullet, or even the speed of the space shuttle, or things that are much, much smaller than the speed of light. Three times 10 to the
+eighth meters per second, that's why the Galilean transformations are pretty good approximations. So hopefully this starts to give you a little bit of intuition. Start evaluating this,
+evaluate this for v's in our everyday life,
+and then see what happens when v starts to approach
+.8 times the speed of light. .9 c, .99 c, think about what
+happens to the Lorentz factor. And hopefully you'll
+get an appreciation for how this whole thing behaves.

@@ -1,0 +1,130 @@
+In all of the double
+integrals we've done so far, the boundaries on
+x and y were fixed. Now we'll see what happens
+when the boundaries on x and y are variables. So let's say I have the same
+surface, and I'm not going to draw it the way it looks, I'll
+just kind of draw it figuratively. But the problem we're actually
+going to do is z, and this is the exact same one we've
+been doing all along. The point of here isn't to show
+you how to integrate, the point of here is to show you how
+to visualize and think about these problems. And frankly, in double integral
+problems the hardest part is figuring out the boundaries. Once you do that, the
+integration is pretty straightforward. It's really not any harder then
+single variable integration. So let's say that's our
+surface: z is equal to xy squared. Let me draw the axes again. So that's my x-axis. That's my z-axis. That's my y-axis. x, y, and z. And you saw what this graph
+looked like several videos ago. I took out the whole grapher
+and we rotated and things. I'm not going to draw the graph
+the way it looks; I'm just going to brought fairly
+abstractly as just an abstract surface. Because the point here it's
+really to figure out the boundaries of integration. Before I actually even draw
+the surface, I'm going to draw the boundary. The first time we did this
+problem we said, OK, x goes from 0 to 2, y goes from 0 to
+1, and then we figured out the volume above that
+bounded domain. Now let's do something else. Let's say that x
+goes from 0 to 1. And let's say that the volume
+that we want to figure out under the surface, it's not
+from a fixed y to an upper-bound y. I'll show you: it's
+actually a curve. So this is all on the xy plane,
+everything I'm drawing here. And this curve, we could view
+it two ways: we could say y is a function of x, y is
+equal to x squared. Or we could write is equal
+to square root of y. We don't have to write plus or
+minus or anything like that because we're in the
+first quadrant. So this is the area
+above which we want to figure out the volume. Let me, yeah, it doesn't hurt
+to color it in just so we can really hone in on
+what we care about. So that's the area
+above which we want to figure out the volume. You could kind of say,
+that's our bounded domain. And so x goes from 0 to
+1, and then this point is going to be what? That point's going to
+be 1 comma 1, right? 1 is equal to 1 squared, 1 is
+equal to the square root of 1. So this point is
+y is equal to 1. And then I'm not going to
+draw this surface exactly. I'm just trying to give you a
+sense of what the volume of the figure we're trying
+to calculate is. If this is just some arbitrary
+surface-- let me do it in a different color --so
+this is the top. This line is going vertical
+in the z-direction. Actually, I could draw it like
+this, like it's a curve. And then this curve back here
+is going to be like a wall. And maybe I'll paint this side
+of the wall just so you can see what it kind of looks like. Trying my best. Think you get an idea. Let me make it a little darker;
+this is actually more of an exercise in art than in
+math, in many ways. You get the idea. And then the boundary
+here is like this. And this top isn't flat,
+you know, it could be curved surface. I do a little like that,
+but it's a curved surface. And we know in the example
+we're about to do that the surface right here is z
+is equal to x squared. So we want to figure out
+the volume under this. So how do we do it? Well, let's think about it. We could actually use the
+intuition that I just gave you. We're essentially just going to
+take a da, which is a little small square down here, and
+that little area, that's the same thing as the dx-- let me
+use a darker color --as a dx times a dy, and then we just
+have to multiply it times f of xy, which is this, for
+each area, and then some them all up. And then we could take a sum
+in the x-direction first or the y-direction first. Now before doing that, just
+to make sure that you have the intuition because the
+boundaries are the hard part, let me just draw our xy plane. So let me rotate
+it up like that. I'm just going to
+draw our xy plane. Because that's what matters. Because the hard part here
+is just figuring out our bounds of integration. So the curve is just y is
+equal to x squared, look something like that. This is the point
+y is equal to 1. This is y-axis, this is
+the x-axis, this is the point x is equal to 1. That's not an x, that's a 1. This is the x. Anyway, so we want to figure
+out, how do we sum up this dx times dy, or this da,
+along this domain? So let's draw it. Let's visually draw it and it
+doesn't hurt to do this when you actually have to do
+the problem because this frankly is the hard part. A lot of calculus teachers will
+just have you set up the integral and then say, OK,
+well the rest is easy. Or the rest is Calc 1. OK, so this area, this area
+here is the same thing as this area here. So its base is dx and
+its height is dy. And then you could imagine
+that we're looking at this thing from above. So the surface is up here some
+place and we're looking straight down on it, and so
+this is just this area. So let's say we wanted to
+take the integral with respect to x first. So we want to sum up, so if we
+want the volume above this column, first of all, is this
+area times dx, dy, right? So let's write the volume
+above that column. It's going to be the value of
+the function, the height at that point, which is xy
+squared times dx, dy. This expression gives us the
+volume above this area, or this column right here. And let's say we want the sum
+in the x direction first. So we want to sum that dx,
+sum one here, sum here, et cetera, et cetera. So we're going to sum
+in the x-direction. So my question to you
+is, what is our lower bound of integration? Well, we're kind of holding
+our y constant, right? And so if we go to the left, if
+we go lower and lower x's we kind of bump into
+the curve here. So the lower bound
+of integration is actually the curve. And what is this curve
+if we were to write x is a function of y? This curve is y is equal to
+x squared, or x is equal to the square root of y. So if we're integrating with
+respect to x for a fixed y right here-- we're integrating
+in the horizontal direction first --our lower bound is x is
+equal to the square root of y. That's interesting. I think it's the first time
+you've probably seen a variable bound integral. But it makes sense because for
+this row that we're adding up right here, the upper
+bound is easy. The upper bound is
+x is equal to 1. The upper bound is x is equal
+to 1, but the lower bound is x is equal to the
+square root of y. Because you go back like,
+oh, I bump into the curve. And what's the curve? Well the curve is x is equal to
+the square root of y because we don't know which y we picked. Fair enough. So once we've figured out the
+volume-- so that'll give us the volume above this rectangle
+right here --and then we want to add up the dy's. And remember, there's a
+whole volume above what I'm drawing right here. I'm just drawing this
+part in the xy plane. So what we've done just now,
+this expression, as it's written right now, figures
+out the volume above that rectangle. Now if we want to figure out
+the entire volume of the solid, we integrate along the y-axis. Or we add up all the dy's. This was a dy right
+here, not a dx. My dx's and dy's
+look too similar. So now what is the lower bound
+on the y-axis if I'm summing up these rectangles? Well, the lower bound
+is y is equal to 0. So we're going to go from
+y is equal to 0 to what-- what is the upper bound? --to y is equal to 1. And there you have it. Let me rewrite that integral. So the double integral is going
+to be from x is equal to square root of y to x is equal to
+1, xy squared, dx, dy. And then the y bound, y
+goes from 0 to y to 1. I've just realized
+I've run out of time. In the next video we'll
+evaluate this, and then we'll do it in the other order. See you soon.

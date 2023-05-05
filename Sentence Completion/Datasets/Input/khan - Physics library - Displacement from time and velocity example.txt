@@ -1,0 +1,78 @@
+Let's do one more
+example dealing with displacement,
+velocity, and time. So we have if Marcia travels for
+1 minute at 5 meters per second to the south, how much
+will she be displaced? Let me do it this way. We know that velocity
+is equal to displacement divided by time. And it's really, once
+again, it is change in time. But we'll just say time. That's implicitly
+change in time. And if you manipulate
+this a little bit, you really just multiply
+both sides by time. You just multiply both
+sides by the variable t. You get displacement. Because this cancels out. You get displacement. And I'll flip this around. What's on the right-hand
+side, I'll write on the left. So you get displacement
+is equal to time times velocity or
+velocity times time. Is equal to velocity times
+time or velocity times change in time. So over here, they're
+asking us for displacement. They're asking us how much
+did Marcia get displaced? And they're saying that
+she travels for 1 minute. So this 1 minute right over
+here, this is her time. Sometimes you could view
+that as her change in time. Or it really is
+her change in time. If it said 0 minutes on her
+stopwatch when she started, at the end it'll say 1 minute. Or if it said 5
+minutes, if maybe it was 3:05 when she
+started, it would be 3:06 when she finished. So it was really
+the change in time. Once again, I won't
+write the delta there just because this is the way
+you most frequently see it. But I want to tell
+you that these are the same thing for the
+purpose of this problem because sometimes you'll
+see the delta there. So the 1 minute, so the t
+right over here is 1 minute. At 5 meters per
+second to the south. This right over here
+is the velocity. They give us the magnitude,
+which is 5 meters per second. Or you could say
+that's the speed. And they also give us the
+direction, to the south. So this right over here is 5
+meters per second to the south. So we might just say, look, if
+we want displacement, that's just going to be equal to 5
+meters per second to the south times 1 minute. The problem here
+is that when we're talking about
+displacement, we're going to think about a magnitude
+of how much it's moved. So it'll be a
+distance of some kind. And some direction. We have our direction
+here, but we don't want any
+other units there. And if we just multiply
+this over here, we have 1 minute over here. But we have seconds
+in the denominator. You can't just cancel out
+a minute and a second. So you can't just
+say that you're going to get 5 and have
+some weird thing here. So in order for it
+to all work out, you have to either convert
+the 5 meters per second to 5 meters per minute. Or let me phrase
+that another way. You have to convert
+the 5 meters per second to some amount of
+meters per minute, not 5 meters per minute. It's going to be different. Or you convert the
+1 minute to seconds. So at least in my
+mind, it's easier to convert 1 minute to seconds. So let's do that. So this is the same thing. 1 minute times. And we want to get
+rid of the minute. And the minute is essentially
+in the numerator right now. We could put this over 1. But it's essentially
+in the numerator. So we want to divide by minutes. And we want to
+multiply by seconds. We want seconds
+in the numerator. And so how many seconds
+are there per minute? You have 60 seconds
+for every 1 minute. And so you have a minute
+cancelling out with the minutes. And so now you have
+5 meters per second to the south times 60 seconds. This is now cool because you
+have seconds and seconds. I wrote "sec" there,
+but this is also sec. So now you have
+seconds over seconds. Those cancel out. And so your
+displacement is going to be equal to 5 times 60. And then your units
+left are meters. All the time units have
+cancelled out and then it's meters to the south. So meters to the south. And this is equal to 5 times
+60 is 300 meters to the south. And we are done. That's how much she
+has been displaced. If they just wanted
+the distance, you could say that she
+traveled 300 meters. Just that part. The magnitude of
+the displacement, that is the distance
+that she traveled.

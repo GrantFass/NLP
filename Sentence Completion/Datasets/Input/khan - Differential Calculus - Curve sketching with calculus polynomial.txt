@@ -1,0 +1,286 @@
+Let's see if we can use
+everything we know about differentiation and
+concativity, and maximum and minimum points, and inflection
+points, to actually graph a function without using a
+graphing calculator. So let's say our function,
+let's say that f of x is equal to 3x to the fourth minus
+4x to the third plus 2. And of course, you could always
+graph a function just by trying out a bunch of points, but we
+want to really focus on the points that are interesting to
+us, and then just to get the general shape of the function,
+especially we want to focus on the things that we can take out
+from this function using our calculus toolkit, or our
+derivative toolkit. So the first thing we probably
+want to do, is figure out the critical points. We want to figure out, I'll
+write here, critical points. And just as a refresher of what
+critical points means, it's the points where the derivative
+of f of x is 0. So critical points are f prime
+of x is either equal to 0, or it's undefined. This function looks
+differentiable everywhere, so the critical points that we
+worried about are probably, well, I can tell you, they're
+definitely just the points where f prime of x are
+going to be equal to 0. This derivative, f prime of x,
+is going to actually be defined over the entire domain. So let's actually write down
+the derivative right now. So the derivative of this,
+f prime of x, this is pretty straightforward. The derivative of 3x to the
+fourth, 4 times 3 is 12, 12x to the, we'll just
+decrement the 4 by 1, 3. Right? You just multiply times the
+exponent, and then decrease the new exponent by one, minus 3
+times 4 is 12, times x to the 1 less than 3 is 2. And then the derivative of
+a constant, the slope of a constant, you could
+almost imagine, is zero. It's not changing. A constant, by definition,
+isn't changing. So that's f prime of x. So let's figure out
+the critical points. The critical points are where
+this thing is either going to be equal to 0, or
+it's undefined. Now, I can look over the entire
+domain of real numbers, and this thing is defined
+pretty much anywhere. I could put any number here,
+and it's not going to blow up. It's going to give me an answer
+to what the function is. So that it's defined
+everywhere, so let's just figure out where
+it's equal to 0. So f prime of x is equal to 0. So let's solve, which x is,
+let's solve-- I don't have to rewrite that, I
+just wrote that. Let's solve for when
+this is equal to 0. And I'll do it in
+the same color. So 12x to the third minus
+12x squared is equal to 0. And so let's what we
+can do to solve this. We could factor out a 12x. So if we factor out a 12x, then
+this term becomes just x, and then-- actually, let's
+factor out a 12x squared. We factor out a 12x squared. If we divide both of these by
+12x squared, this term just becomes an x, and then minus
+12x squared divided by 12x squared is just 1,
+is equal to 0. I just rewrote this
+top thing like this. You could go the other way. If I distributed this 12x
+squared times this entire quantity, you would get my
+derivative right there. So the reason why did that is
+because, to solve for 0, or if I want all of the x's that make
+this equation equal to 0, I now have written it in a form
+where I'm multiplying one thing by another thing. And in order for this to be
+0, one or both of these things must be equal to 0. So 12x squared are equal to 0,
+which means that x is equal to 0 will make this
+quantity equals 0. And the other thing that would
+make this quantity 0 is if x minus 1 is equal to 0. So x minus 1 is equal to
+0 when x is equal to 1. So these are 2 critical points. Our 2 critical points are x is
+equal to 0 and x is equal to 1. And remember, those are just
+the points where our first derivative is equal to 0. Where the slope is 0. They might be maximum points,
+they might be minimum points, they might be inflection
+points, we don't know. They might be, you know, if
+this was a constant function, they could just be anything. So we really can't say a lot
+about them just yet, but they are points of interest. I guess that's all we can say. That they are definitely
+points of interest. But let's keep going, and
+let's try to understand the concativity, and maybe we can
+get a better sense of this graph. So let's figure out the
+second derivative. I'll do that in
+this orange color. So the second derivative of my
+function f, let's see, 3 times 12 is 36x squared minus 24x. So let's see. Well, there's a couple
+of things we can do. Now that we know the second
+derivative, we can answer the question, is my graph concave
+upwards or downwards at either of these points? So let's figure out what,
+at either of these critical points. And it'll all fit together. Remember, if it's concave
+upwards, then we're kind of in a U shape. If it's concave downwards,
+then we're in a kind of upside down U shape. So f prime prime, our second
+derivative, at x is equal to 0, is equal to what? It's equal to 36 0 squared
+minus 24 times 0. So that's just 0. So f prime prime is
+just equal to 0. We're neither concave upwards
+nor concave downwards here. It might be a transition point. It may not. If it is a transition point,
+then we're dealing with an inflection point. We're not sure yet. Now let's see what f prime
+prime, our second derivative, evaluated at 1 is. So that's 36 times 1, let me
+write it down, that's equal to 36 times 1 squared, which
+is 36, minus 24 times 1. So it's 36 minus 24,
+so it's equal to 12. So this is positive, our second
+derivative is positive here. It's equal to 12, which
+means our first derivative, our slope is increasing. The rate of change of our
+slope is positive here. So at this point right here,
+we are concave upwards. Which tells me that this
+is probably a minimum point, right? The slope is 0 here, but we are
+concave upwards at that point. So that's interesting. So let's see if there
+any other potential inflection points here. We already know that this is a
+potential inflection point. Let me circle it in red. It's a potential
+inflection point. We don't know whether
+our function actually transitions at that point. We'll have to experiment
+a little bit to see if that's really the case. But let's see if there any
+other inflection points, or potential inflection points. So let's see if this
+equals 0 anywhere else. So 36 x squared minus
+24 x is equal to 0. Let's solve for x. Let us factor out, well,
+we can factor out 12x. 12x times 3x, right, 3x
+times 12x is 36x squared, minus 2, is equal to 0. So these two are
+equivalent expressions. If you multiply this out,
+you'll get this thing up here. So this thing is going to be
+equal to 0, either if 12 x is equal to 0, so 12 x is equal
+to zero, that gives us x is equal to zero. So at x equals 0,
+this thing equals 0. So the second derivative is 0
+there, and we already knew that, because we tested
+that number out. Or this thing, if this
+expression was 0, then the entire second derivative
+would also be zero. So let's write that. So 3x minus 2 is equal to 0, 3x
+is equal to 2, just adding 2 to both sides, 3x is equal to 2/3. So this is another interesting
+point that we haven't really hit upon before that might
+be an inflection point. The reason why is it
+might be, is because the second derivative is
+definitely 0 here. You put 2/3 here,
+you're going to get 0. So what we have to do, is see
+whether the second derivative is positive or negative
+on either side of 2/3. We already have a
+sense of that. I mean, we could try out
+a couple of numbers. We know that, you know, if we
+say that x is greater than 2/3. Let me scroll down a
+little bit, just so we have some space. So let's see what happens
+when x is greater than 2/3, what is f prime prime? What is the second derivative? So let's try out a value
+that's pretty close, just to get a sense of things. So let me rewrite it. f prime
+prime of x is equal to, let me write like this. I mean, I could write like
+that, but this might be easier to deal with. It's equal to 12x
+times 3x minus 2. So if x is greater than 2/3,
+this term right here is going to be positive. That's definitely, any
+positive number times 12 is going to be positive. But what about this
+term, right here? 3 times 2/3 minus 2
+is exactly 0, right? That's 2 minus 2. But anything larger than that,
+3 times, you know, if I had 2.1/3, this is going to
+be a positive quantity. Any value of x greater than
+2/3 will make this thing right here positive. Right? This thing is also
+going to be positive. So that means that when x
+is greater than 2/3, that tells us that the second
+derivative is positive. It is greater than 0. So in our domain, as long
+as x is larger than 2/3, we are concave upwards. And we saw that here,
+at x is equal to 1. We were concave upwards. But what about x
+being less than 2/3? So when x is less than 2/3,
+let me write it, let me scroll down a little bit. When x is less than
+2/3, what's going on? I'll rewrite it. f prime prime of x,
+second derivative, 12x times 3x minus 2. Well, if we go really far left,
+we're going to get a negative number here, and this might
+be negative. But if we just go right
+below 2/3, when we're still in the positive domain. So if this was like 1.9/3,
+which is a mix of a decimal and a fraction, or even 1/3, this
+thing is still going to be positive. Right below 2/3, this thing is
+still going to be positive. We're going to be multiplying
+12 by a positive number. But what's going on right here? At 2/3, we're exactly 0. But as you go to anything
+less than 2/3, 3 times 1/3 is only 1. 1 minus 2, you're going
+to get negative numbers. So when x is less than 2/3,
+this thing right here is going to be negative. So the second derivative, if x
+is less than 2/3, the second derivative, right to the left,
+right when you go less than 2/3, the seconds derivative
+of x is less than 0. Now the fact that we have this
+transition, from when we're less than 2/3, we have a
+negative second derivative, and when we're greater than 2/3, we
+have a positive second derivative, that tells us that
+this, indeed, is an inflection point. That x is equal to 2/3 thirds
+is definitely an inflection point for our original
+function up here. Now, we have one more candidate
+inflection point, and then we're ready to graph. Then, you know, once you do all
+the inflection points and the max and the minimum, you are
+ready to graph the function. So let's see if x is equal to
+0 is an inflection point. We know that the second
+derivative is 0 at 0. But what happens above and
+below the second derivative? So let me do our
+little test here. So when x is, let me draw a
+line so we don't get confused with all of the stuff
+that I wrote here. So when x is greater than
+0, what's happening in the second derivative? Remember, the second
+derivative was equal to 12x times 3x minus 2. I like writing it this way,
+because you've kind of decomposed it into two linear
+expressions, and you could see whether each of them are
+positive or negative. So if x is greater than 0, this
+thing right here is definitely going to be positive, and then
+this thing right here, right when you go right above x is
+greater than 0, so we have to make sure to be very close
+to this number, right? So this number,
+let's say it's 0.1. You're right above 0. So this isn't going to be true
+for all of x greater than 0. We just want to test exactly
+what happens, right when we go right above 0. So this is 0.1. You would have 0.3, 0.3
+minus 2, that would be a negative number, right? So right as x goes right
+above 0, this thing right here is negative. So at x is greater than 0,
+you will have your second derivative is going
+to be less than 0. You're concave downwards. Which makes sense, because at
+some point, we're going to be hitting a transition. Remember, we were concave
+downwards before we got to 2/3, right? So this is consistent. From 0 to 2/3, we are concave
+downwards, and then at 2/3, we become concave upwards. Now let's see what happens when
+x is right less than, when x is just barely, just
+barely less than 0. So once again, f prime, the
+second derivitive of x is equal to 12x times 3x minus 2. Well, right. If x was minus 0.1 or 0.0001,
+no matter what, this thing is going to be negative, this
+expression right here is going to be negative, the 12x, right,
+you just have some negative value here, times 12, is
+going to be negative. And then what's
+this going to be? Well, 3 times minus 0.1 is
+going to be minus 0.3, minus 2 is minus 2.3. You're definitely going
+to have a negative. This value right here is going
+to be negative, and then when you subtract from a negative,
+it's definitely going to be negative. So that is also going
+to be negative. But if you multiply a negative
+times a negative, you're going to get a positive. So actually, right below x
+is less than 0, the second derivative is positive. Now, this all might have been a
+little bit confusing, but we should now have the payoff. We now have the payoff. We have all of the
+interesting things going on. We know that at x is equal to
+1, we know that at x is equal to 1, let me write
+it over here. We've figured out at x is
+equal to 1, the slope is 0. So f prime prime is, sorry,
+let me write this way. I should have said, we
+know that the slope is 0. Slope is equal to 0. And we figured that out because
+the first derivative was 0. This was a critical point. And we know that we're dealing
+with, the function is concave upwards at this point. And that tells us that this is
+going to be a minimum point. And we should actually get
+the coordinates so we can actually graph it. That was the whole
+point of this video. So f of 1 is equal to what? f of 1, let's go back to our
+original function, is 3 times 1, right, 1 to the fourth is
+just 1, 3 times 1 minus 4 plus 2, right? So it's 3 times 1 minus 4 times
+1, which is minus 1, plus 2, well, that's just a positive 1. So f of 1 is one. And then we know at x is equal
+to 0, we also figured out that the slope is equal to 0. But we figured out that this
+was an inflection point, right? The concativity switches
+before and after. So this is an inflection point. And we are concave below
+0, so when x is less than 0, we are upwards. Our second derivative
+is positive. And when x is it greater
+than 0, we are downwards. We're concave downwards. Right above, not for all
+of the [? domain ?] x and 0, just right
+above 0, downwards. And then what is f of 0,
+just so we know, because we want to graph that point? f of 0. See, f of 0, this is easy. 3 times 0 minus 4 times 0
+plus 2, that's just 2. f of 0 is 2. And then finally we got the
+point, x is equal to 2/3. Let me do that in
+another color. We had the point x
+is equal to 2/3. We figured out that this
+was an inflection point. The slope definitely isn't 0
+there, because it wasn't one of the critical points. And we know that
+we are downwards. We know that when x is less
+than 2/3, or right less than 2/3, we are concave downwards. And when x is greater than 2/3,
+we saw it up here, when x was greater than 2/3, right up
+here, we were concave upwards. The second derivative
+was positive. We were upwards. Now we could actually figure
+out, what's f of 2/3? That's actually a little
+bit complicated. We don't even have to
+figure that out, I don't think, to graph. I think we could do a pretty
+good job of graphing it just with what we know right now. So that's our take aways. Let me do a rough graph. Let's see. So let me do my axes,
+just like that. So we're going to want to
+graph the point 0, 2. So let's say that
+the point, 0, 2. So this is x is equal to
+0, and we go up, 1, 2. So this is the point 0, 2. Maybe I'll do it in that
+color, the color I was using, so that's this color. So that's that
+point right there. Then we have the point x,
+we have f of 1, which is the point 1, 1, right? So this point right here. So that's the point 1, 1. This was the point 0, 2. And then we have x is equal
+to 2/3, which is our inflection point. So when x is 2/3, we
+don't know exactly what number f of 2/3 is. Maybe here someplace. Let's say f of 2/3
+is right there. So that's the point, 2/3, and
+then wherever f of 2/3 is. It looks like it's going
+to be 1 point something. f of 2/3. You could calculate it, if
+you like, you just have to substitute back
+in the function. But we're ready to
+graph this thing. So we know that at x is
+equal to 1, the slope is 0. We know that the slope is 0. It's flat here. We know it's concave upwards. So we're dealing, it looks
+like this, looks like that over that interval. We're concave upwards. And we know we're concave
+upwards from x is equal to 2/3 and on, right? Let me do it in that color. We knew x equals 2/3 and
+on, we're concave upwards. And that's why I was able
+to draw this U-shape. Now we know that when x is less
+than 2/3 and greater than 0, we're concave downwards. So the graph would look
+something like this, over this interval. We'll be concave downwards. Let me draw it nicely. Over this interval, the
+slope is decreasing. And you could see it, if you
+keep drawing tangent lines. It's flattish there, it gets
+negative, more negative, more negative, until the inflection
+point, and then it starts increasing again, because we
+go back to concave upwards. And then finally, the last
+interval is below 0, and we know below 0, when x is less
+than 0, we're concave upwards. So the graph looks like this. The graph looks like that. And we also know that x is
+equal to 0 was a critical point, the slope of 0. So the graph is actually
+flat right there, too. So this is an inflection point
+where the slope was also 0. So this is our final graph. We're done. After all that work, we were
+able to use our calculus skills, and our knowledge of
+inflection points, and concativity, and transitions
+in concativity, to actually graph this fairly
+hairy-looking graph. But this should be kind of what
+it looks like, if you graph it on your calculator.

@@ -1,0 +1,124 @@
+Let's say I've got a triangle. There is my triangle
+right there. And I only know the lengths of
+the sides of the triangle. This side has length a, this
+side has length b, and that side has length c. And I'm asked to find the
+area of that triangle. So far all I'm equipped with is
+the idea that the area, the area of a triangle is equal
+to 1/2 times the base of the triangle times the
+height of the triangle. So the way I've drawn this
+triangle, the base of this triangle, would be side c, but
+the height we don't know. The height would be that h
+right there and we don't even know what that h is. So this would be the h. So the question is how do
+we figure out the area of this triangle? If you watched the last
+video you know that you use Heron's formula. But the idea here is to try
+to prove Heron's formula. So let's just try to figure
+out h from just using the Pythagorean theorem. And from there, once we know h,
+we can apply this formula and figure out the area
+of this triangle. So we already
+labeled this as h. Let me define another
+variable here. This is a trick you'll see
+pretty often in geometry. Let me define this is x, and if
+this is x in magenta, then in this bluish-purplish color,
+that would be c minus x, right? This whole length is c
+-- the whole base is c. So if this part is x, then
+this part is c minus x. What I could do now, since
+these are both right angles, and I know that because this is
+the height, I can set up two Pythagorean theorem equations. First, I could do this left
+hand side and I can write that x squared plus h squared
+is equal to a squared. That's what I get from
+this left hand triangle. Then from this right hand
+triangle, I get c minus x squared plus h squared
+is equal to b squared. So I'm assuming I know a, b and
+c, so I have two equations with two unknowns. The unknowns are x and h. And remember, h is what
+we're trying to figure out because we already know c. If we know h, we can
+apply the area formula. So how can we do that? Well, let's substitute
+for h to figure out x. When I say that I mean let's
+solve for h squared here. If we solve for h squared
+here we just subtract x squared from both sides. We can write that x squared --
+sorry, we could write that h squared is equal to a
+squared minus x squared. Then we could take this
+information and substitute it over here for h squared. So this bottom equation
+becomes c minus x squared plus h squared. h squared we know from this
+left hand side equation. h squared is going to be equal
+to -- so plus, I'll do it in that color -- a squared minus x
+squared is equal to b squared. I just substituted the
+value of that in here, the value of that in there. Now let's expand this
+expression out. c minus x squared, that
+is c squared minus 2cx plus x squared. Then we have the minus --
+sorry, we have the plus a squared minus x squared
+equals b squared. We have an x squared and
+a minus x squared there, so those cancel out. Let's add the 2cx to both
+sides of this equation. So now our equation
+would become c squared plus a squared. I'm adding 2cx to both sides. So you add 2cx to this,
+you get 0 is equal to b squared plus 2cx. All I did here is I canceled
+out the x squared and then I added 2cx to both sides
+of this equation. My goal here is to solve for x. Once I solve for x, then
+I can solve for h and apply that formula. Now to solve for x, let's
+subtract b squared from both sides. So we'll get c squared
+plus a squared minus b squared is equal to 2cx. Then if we divide both sides by
+2c, we get c squared plus a squared minus b squared
+over 2c is equal to x. We've just solved for x here. Now, our goal is to solve
+for the height, so that we can apply 1/2 times
+base times height. So to do that, we go back to
+this equation right here and solve for our height. Let me scroll down
+a little bit. We know that our height
+squared is equal to a squared minus x squared. Instead of just writing x
+squared let's substitute here. So it's minus x squared -- x
+is this thing right here. So c squared plus a
+squared minus b squared over 2c, squared. This is the same
+thing as x squared. We just solved for that. So h is going to be equal to
+the square root of all this business in there -- I'll
+switch the colors -- of a squared minus c squared plus
+a squared minus b squared -- all of that squared. Let me make it a little bit
+neater than that because I don't want to--. The square root -- make sure I
+have enough space -- of a squared minus all of this stuff
+squared -- we have c squared plus a squared minus b
+squared, all of that over 2c. That is the height
+of our triangle. The triangle that we
+started off with up here. Let me copy and paste that
+just so that we can remember what we're dealing with. Copy it and then let me
+paste it down here. So I've pasted it down here. So we know what the height
+is -- it's this big convoluted formula. The height in terms of a, b
+and c is this right here. So if we wanted to figure out
+the area -- the area of our triangle -- let me
+do it in pink. The area of our triangle is
+going to be 1/2 times our base -- our base is this entire
+length, c -- times c times our height, which is this
+expression right here. Let me just copy and
+paste this instead of--. So let me copy and paste. So times the height. So this now is our
+expression for the area. Now you're immediately saying
+gee, that doesn't look a lot like Heron's formula,
+and you're right. It does not look a lot like
+Heron's formula, but what I'm going to show you in the next
+video is that this essentially is Heron's formula. This is a harder to remember
+version of Heron's formula. I'm going to apply a lot of
+algebra to essentially simplify this to Heron's formula. But this will work. If you could memorize this,
+I think Heron's a lot easier to memorize. But if you can memorize this
+and you just know a, b and c, you apply this formula
+right here and you will get the area of a triangle. Well, actually let's just apply
+this just to show that this at least gives the same
+number as Heron's. So in the last video we had a
+triangle that had sides 9, 11 and 16, and its area using
+Heron's was equal to 18 times the square root of 7. Let's see what we get when we
+applied this formula here. So we get the area is equal
+to 1/2 times 16 times the square root of a squared. That is 81 minus -- let's see,
+c squared is 16, so that's 256. 256 plus a squared, that's
+at 81 minus b squared, so minus 121. All of this stuff is squared. All of that over 2 times c
+-- all of that over 32. So let's see if we can
+simplify this a little bit. 81 minus 121, that is minus 40. So this becomes 216 over 32. So area is equal to
+1/2 times 8 is 8. Let me switch colors. 1/2 times 16 is 8 times the
+square root of 81 minus 256. 81 minus 121, that's minus 40. 256 minus 40 is 216. 216 over 32 squared. Now, this is a lot of
+math to do so let me get out a calculator. I'm really just trying to show
+you that these two numbers should give us our same number. So if we turn on
+our calculator--. First of all, let's just
+figure out what 18 square root of 7 are. 18 times the square root
+of 7 -- this is what we got using Heron's. We got 47.62. Let's see if this is 47.62. So we have 8 times the square
+root of 81 minus 216 divided by 32 squared, and then we
+close our square roots. And we get the
+exact same number. I was worried -- I actually
+didn't do this calculation ahead of time so I might have
+made a careless mistake. But there you go, you get
+the exact same number. So our formula just now gave
+us the exact same value as Heron's formula. But what I'm going to do in the
+next video is prove to you that this can actually be reduced
+algebraically to Heron's.

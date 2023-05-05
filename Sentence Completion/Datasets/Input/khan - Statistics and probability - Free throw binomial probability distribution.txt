@@ -1,0 +1,70 @@
+- [Voiceover] Now that we've
+spent a couple of videos exploring a scenario where I'm
+taking multiple free throws and figuring out the
+probability of making K of the scores and six
+attempts or in N attempts. Let's actually define a random variable using this scenario and see if we can construct it's probability distribution and we'll actually see that
+it's a binomial distribution. So, let's define the random variable X. So, let's say that X
+is equal to the number, the number of made shots, number of made free throws when taking, when taking six free throws. So, it's how many of the six do you make? And we're going to assume what we assumed in the first video in this series of this, these making free throws. So, we're gonna assume the seventy percent free throw probability right over here. So, assuming assumptions, assuming seventy percent free throw, free throw percentage. All right. So, let's figure out the probabilities of the different values that
+X could actually take on. So, let's see, what is the probability, what is the probability
+that X is equal to zero? That even though you have a seventy percent free throw percentage that you make none of the shots and actually you could
+calculate this through probably some common
+sense without using all of these fancy things but just to make things consistent,
+I'm gonna write it out. So, this is going to
+be, this is going to be, it's going to be equal to six choose zero times zero point seven to the zeroth power times zero point three to the sixth power, and this right over here
+is gonna end up being one. This over here's going
+to end up being one. And so, you're just gonna be
+left with zero point three to the sixth power and I
+calculated it ahead of time. So, if we round to the nearest, if we do, if we round our
+percentages to the nearest tenth, this is going to give you approximately, approximately, well, if we round
+the decimal to the nearest, to the nearest thousandth you're gonna get something like that
+which is approximately equal to zero point one percent chance of you missing all of them. So, roughly I'm speaking, roughly here a one in a thousand,
+one in a thousand chance of that happening, of
+missing all six free throws. Now, let's keep going, this is fun. So, what is the probability that our random variable is equal to 1? Well, this is going to be six choose one times zero point seven to the first power times zero point three to
+the six minus first power. So, it's a fifth power. And I calculated this and this is approximately zero point zero one or we could say one percent. So, it's still a fairly low probability. Ten times more likely than this roughly but still a fairly low probability. Let's keep going. So, the probability
+that x is equal to two, well, that's what our first
+video was essentially. So, this is going to be six choose two times zero point seven squared times zero, zero point three to the fourth power, and we saw that this is
+approximately going to be zero, zero point zero six,
+or we could say six percent, and obviously you could type
+these things in a calculator and get a much more precise answer but just for the sake
+of just getting a sense of what these probabilities all look like, that's why I'm giving
+these rough estimates. Kind of, I guess you
+could say, to the closest, maybe, tenth of a, tenth of a percent. And actually and if you
+round to the closest tenth of a percent you actually actually get to six point oh percent
+and this is one point, one point oh percent 'cause
+this we actually went to a tenth of a percent
+here but let's keep going. We're obviously going to have
+to do a few more of these. So, let me just make sure
+I have enough real estate. All right, so, the probability that our random variable is equal to three is going to be six choosethree and I'm sure you could probably
+fill this out on your own but I'm going to do it. Zero point seven to the third power times zero point three
+to the six minus three which is a third power which
+is approximately equal to, well, it's going to be
+zero point one eight five or eighteen point five,
+eighteen point five percent. So, yeah, that's definitely
+within the realm of possibility. I mean, all of these are
+in the realm of possibility but it's starting to be a
+non-insignificant probability. So, now, let's do the probability that our random variable is equal to four. Well, it's going to be six choose four times zero point seven to the fourth power times zero point three
+to the six minus four or second power which is equal to, this is going to get equal to or approximately, 'cause
+I am, I am taking away a little bit of the precision when I write these things down. Zero point three two four. So, approximately thirty two
+point four percent chance of making exactly four out
+of the six free throws. All right, two more to go. Let's see, I have not used purple as yet. So, the probability that a
+random variable is equal to five it's gonna be six choose five or zero, at times I should say, zero
+point seven to the fifth power times zero point three to the first power and that is going to be roughly, roughly zero point three zero three which is thirty point three percent. That's interesting, one more left. So, the probability
+that I make all of them, of all six, is going to be equal to, is equal to six choose six and zero point seven to the sixth power times zero point three to the zeroth power which is, this right over
+here is going to be one, this is going to be one, so it's really just zero point seven to the
+sixth, to the sixth power and this is approximately
+zero point one one eight. I calculated that ahead of time, which is eleven point eight. Eleven point eight percent. And so, there's something
+interesting that's going on here. The first time we looked
+binomial distribution we said, "Hey, there's
+a symmetry as we kind of "got to some type of a peak and went down, "but I don't see that symmetry here." And the reason you're not
+seeing that symmetry is that you are more likely to
+make a free throw than not. It was you have a seventy
+percent free throw probability. This is no longer just
+flipping a fair coin. Where you will see the symmetry
+is in these coefficients. If you calculate these coefficients, six choose zero is one. Six choose six is one. You would see that six choose one is six and six choose five is six. You'd see six choose two is fifteen and six choose four is also fifteen, and then six choose three is twenty. So, you definitely see, you definitely see the symmetry in the coefficients but then these things are weighted by the fact that you're more likely to make something than miss something. If these were both point five then you would also see the
+symmetry right over here. And you can plot this
+to essentially visualize what the probability distribution looks like for this example and I encourage you to do that. To take these different cases, just like we did in that first example with the fair coin, and plot these. But this essentially does give you the probability distribution for, for the random variable in question. This is, I just wrote it out
+instead of just visualizing it but it says, "Okay, well, what's the... "These are the different values "that this random variable can take on." It can't, it can't take on negative one or it can't be fifteen point
+five or pi or one million. These are the only seven values
+that this random variable can take on and I've just
+given you the probabilities, or I guess you could say
+the rough probabilities of the random variable taking on each of those, each of those seven values.

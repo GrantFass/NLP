@@ -1,0 +1,268 @@
+All the parameterizations
+we've done so far have been parameterizing a curve
+using one parameter. What we're going to start doing
+this video is parameterizing a surface in three dimensions,
+using two parameters. And we'll start with an
+example of a torus. A torus, or more commonly
+known, as a doughnut shape. And we know what a
+doughnut looks like. Let me draw it in a suitable,
+well, I don't have any suitable doughnut colors,
+so I'll just use green. A doughnut looks
+something like this. It has a hole in the center,
+And maybe the other side of the doughnut looks something
+like that, and we could shade it in like that. That is what a
+doughnut looks like. So how do we construct that
+using two parameters? So what we want to do, is you
+can just visualize it, a doughnut, if you were to
+draw some axes here. So that's our doughut. Let me draw some axes. So let's say I have the z-axis
+that goes straight up and down. So we have drawn it here, the
+doughnut's a little at a tilt, so the z-axis, I'll
+tilt it a little bit. So our z-axis goes straight
+through the center of the doughnut. So that right there, this is
+going to be an exercise in drawing more than
+anything else. So that is my z-axis, and then
+you can imagine the z-axis goes from there, and then this
+coming out of here will be my x-axis. That right there is my x-axis,
+and then maybe my y-axis comes out like that. And the whole reason why I drew
+it this way, is that if you imagine the cross section of
+this doughnut, I'll draw a little bit neater, but the
+cross section of this doughnut in the x-z axis, is going to
+look something like this. If I were to slice it in the
+x-z axis, it would look something like that. That would be the slice. It would trace out, and
+we're thinking about not a full doughnut, just the
+surface of a doughnut. So it would trace out
+a circle like this. If you were to cut the doughnut
+in the positive z-y axis, it's going to trace out a circle
+that looks something like that, right there. And if you go out here, you're
+going to get bunch of circles. So if you think about it, it's
+a bunch of circles rotated around the z-axis. If you think of it that way,
+it'll give us some good intuition for the best way
+to parameterize this thing. So let's do it that way. Let's start off with
+just the z-y axis. I'll draw it a little bit
+neater than I've done here. So that is the z-axis, and
+that is y, just like that. And let's say that the center
+of these circles, let's say it lies on, you know, it can lie,
+when you cross the z-y axis, the center sits on the y-axis. I didn't draw it that
+neatly here, but I think you can visualize. So it sits right
+there on the y-axis. And let's say that it is a
+distance b away from the center of the torus, or from the
+z-axis it's a distance of b. It's always going to
+be a distance of b. It's always, if you imagine the
+top of the doughnut, let me draw the top of the doughnut. If you're looking down on a
+doughnut, let me draw a doughnut right here, if you're
+looking down on a doughnut, it just looks something like that. The z-axis is just going to
+be popping straight out. The x-axis would come down like
+this, and then the y-axis would go to the right, like that. So you can imagine, I'm
+just flying above this. I'm sitting on the z-axis
+looking down at the doughnut. It will look just like this. And if you imagine the cross
+section, this circle right here, the top part of the
+circle if you're looking down, would look just like that. And this distance b is a
+distance from the z-axis to the center of each
+of these circles. So this distance, let me draw
+it in the same color, from the center to the center of these
+circles, that is going to be b. It's just going to keep
+going to the center of the circles, b. That's going to be b,
+that's going to be b. That's going to be b. From the center of our torus
+to the center of our circle that defines the torus,
+it's a distance of b. So this distance right here,
+that distance right there is b. And from b, we can imagine
+we have a radius. A radius of length a. So these circles have
+radius of length a. So this distance right here is
+a, this distance right here is a, this distance right there
+is a, that distance right there is a. If I were look at these
+circles, these circles have radius a. And what we're going to do
+is have two parameters. One is the angle that this
+radius makes with the x-z plane, so you can imagine
+the x-axis coming out. Let me do that in
+the same color. You can imagine the
+x-axis coming out here. So this is the x-z plane. So one parameter is going to
+be the angle between our radius and the x-z plane. We're going to call that angle,
+or that parameter, we're going to call that s. And so as s goes between 0 and
+2 pi, as s goes between 0 in 2 pi, when the 0 is just going to
+be at this point right here, and then as it goes to 2 pi,
+you're going to trace out a circle that looks
+just like that. Now, we only have
+one parameter. What we want to do is then
+spin this circle around. What I just drew is that
+circle right there. What we want to do is spin
+the entire circle around. So let's define
+another parameter. We'll call this one t, and
+I'll take the top view again. This one's getting a
+little bit messy. Let me draw another top view. As you can see, this is
+all about visualization. So let's say this is my
+x-axis, that is my y-axis. And we said we started
+here on the z-y plane. We are b away from the z-axis,
+so that distance is b. In this diagram, the z-axis
+is just popping out at us. It's popping out of the page. We're looking straight down. It's just like the same
+view as right there. And what I just drew, when s is
+equal to 0 radians, we're going to be out here, exactly
+one radius further along the y-axis. And then we're going to rotate. As we rotate around, we're
+going to rotate and then come all the way over here. That's when we're right over
+there, and then come back down. So if you looked on the
+top of the circle, it's going to look like that. Now, to make the doughnut,
+we're going to have to rotate this whole setup
+around the z-axis. Remember, the z-axis
+is popping out. It's looking straight up at us. It's coming out of
+your video screen. Now to rotate it, we're
+going to rotate this circle around the z-axis. And to do that, we'll define a
+parameter that tells us how much we have rotated it. So this is when we've
+rotated 0 radians. At some point, we're going to
+be over here, and we would have rotated it, this is b as
+well, and our circle is going to be looking like this. This is maybe this point on
+our doughnut, right there. At that point, we would
+have rotated it, let's say p radians. So this parameter of how much
+have we rotated around the z-axis, how much have we gone
+around that way, we're going to call that t. And t is also going to
+vary between 0 and 2 pi. And I want to make
+this very clear. Let's actually draw the domain
+that we're mapping from to our surface, so that we
+understand this fully. So let me draw some, and then
+we'll talk about how we can actually parameterize
+that into a position vector-valued function. So right here, let's
+call that the t-axis. That's, remember, how much
+we're rotated around the z-axis right there. And let's call this
+down here our s-axis. And I think this will help
+things out a good bit. So when s is equal to 0, and
+we vary just t, so they're both going to vary
+between 0 and 2 pi. So this right here is 0,
+this right here is 2 pi. Let me do some
+things in between. This is pi, this would be pi
+over 2 obviously, pi over 2, this would be 3 pi over 4. You do the same thing
+on the p-axis. It's going to go up to 2 pi. Let's do that. So we're going to
+go up to 2 pi. I really want you to visualize
+this, because then the parameterization, I think, will
+be fairly straightforward. So that's 2 pi, this is pi,
+this is pi over 2, and then this is 3 pi over 4. So let's think about what it
+looks like if you just hold s constant at 0, and we just
+vary t between zero and 2 pi. And let me do that in
+magenta, right here. So we're holding s constant,
+and we're just varying the parameter 2 pi. So this, if you think about it,
+should just form a curve in three dimensions,
+not a surface. Because we're only varying
+one parameter right here. So let's think about
+what this is. Remember, s is, let
+me draw my axes. So that is my x-axis, that
+is my y-axis, and then this is my, I'm getting
+messier and messier. That is my z-axis, right--
+actually, let me draw it a little bit bigger than that. I think it will help all
+of our visualizations. All right. So this is my x-axis, that is
+my y-axis, and then my z-axis goes up like that. z-axis. Now remember, when s is equal
+to 0, that means we haven't rotated around this
+circle at all. That means we're out here. We're going to be b away,
+and then a away again. Right? We haven't rotated
+around this at all. We're setting s as
+equal to zero. So essentially, we're going to
+be b away, so this is going to be a distance of b away, and
+then we're going to be another a away. The b is the center of the
+circle, and then we're going to be another a away. We're going to be
+right over there. So this is a plus b away. And then we're going to vary t. Remember, t was how much we've
+gone around the z-axis. These were top views over here. So this line right here, in our
+s-t domain, we can say, when we map it, or parameterize it,
+it'll correspond to the curve that's essentially the outer
+edge of are doughnut. If this is the top view of the
+doughnut, it will be the outer edge of the doughnut,
+just like that. So let me draw the outer edge. And to do that a little bit
+better, let me draw the axes in both the positive and
+the negative domain. It might make my graph a little
+bit easier to visualize things. Positive and negative domain,
+this is negative z right there. So this line in our t-s plane,
+I guess we could say, this magenta line, we hold s at 0
+radians and we increase t, this is t is zero, this is t is
+equal to 2 pi, that's t is equal to pi, this is t is equal
+to 3 pi over 2, all the way back to t is equal to 2 pi. This line corresponds to that
+line, as we rotate, as we increase t and hold
+s constant at 0. Now let's do another point. Let's say when s is at pi,
+right, remember, when s is at pi, we've gone exactly,
+pi is 180 degrees. When s is at pi, we've
+gone exactly 180 degrees around the circle, around
+each of these circles. So we're right over there. And now let's hold it constant
+at pi, and then rotate it around to form our doughnut. So we're going to form the
+inside of our doughnut. So when s is at pie, and we're
+going to take t from 0, so when s is pi and t is 0, we're going
+to be, this was the center of our circle, we're going
+to be a below that. We're going to be
+right over there. And then as we vary, as we
+increase t, so as we move up along, holding s at pi, and we
+increase t, we're going to trace out the inside of our
+doughnut, that will look something like that. That was my best
+shot at drawing it. And then we can do
+that multiple times. When s is pi over 2, I want to
+do multiple different colors, when s is pi over 2, we've
+rotated up here exactly 90 degrees, right? Pi over 2 is 90 degrees
+at this point. And then if we vary t, we're
+essentially tracing out the top of the doughnut, right? So let me make sure I draw it . So the cross section, the top
+of the doughnut, we're going to start off right over here. So when s is pi over 2, and you
+vary it right, and then you very t, I'm having trouble
+drawing straight lines. And then you vary t, it's
+going to look like this. That's the top of that
+circle right there. The top of this circle is
+going to be right there. The top of this circle is
+going to be right over there. Top of the circle is going
+to be right over there. So then I just
+connect the dots. It's going to look
+something like that. That is the top
+of our doughnut. If I was doing this top view,
+it would be the top of the doughnut, just like that. And if I wanted to do the
+bottom of the doughnut, just to make the picture clear, if I
+were to make the bottom of the doughnut, the bottom of the
+doughnut would be-- see, if I take s as 3 pi over 4 and I
+vary t, that's the bottoms of our doughnuts. So let me draw the circle, it's
+right there, the circle is right there, you wouldn't be
+able to see the whole thing if this wasn't transparent. So you'd be tracing out the
+bottom of the doughnut, just like that. I know this graph is becoming
+a little confusing, but hopefully you get the idea. When s is 2 pi again, you're
+going to be back to the outside of the doughnut again. That's also going
+to be in purple. So that's what happens when we
+hold the s constant at certain values and vary the t. Now let's do the opposite. What happens if we hold t
+at 0, and we very the s? So t is 0, that means we
+haven't rotated at all yet. So we're in the z-y plane. So t is 0, and s will start at
+0, and it'll go to pi over 2, that's that point over there. Then it'll go to pi. This point is the same
+thing as that point. Then it will go to 3 pi over
+4, then it'll come back all the way to 2 pi. So this line corresponds to
+this circle, right there. We could keep doing these if we
+pick when t is pi -- let me use a different color, that's
+not different enough. When t is pi over
+2, just like that. We would have rotated around
+the z-axis 90 degrees, so now we're over here. And now when we vary s, s will
+start off over here, and it'll go all the way
+around like that. So this line corresponds
+to that circle. We could keep doing
+it like this. When t is equal to pi, that
+means we've got all the way around the circle like that,
+and now when we vary s from 0 to pi over 2, we're going to
+start all the way over here, and then we're going to vary,
+all the way, we're going to go down and hit all those contours
+that we talked about before, and I'll do one more, just
+to kind of make this, the scaffold, clear. This dark purple,
+hopefully you can see it. When t is 3 pi over 4,
+we've rotated all the way. So we're in the x-z plane. And then when you vary s, s
+will start off over here, and as you increase s, you're going
+to go around the circle, around the circle, just like that. And of course, when you get all
+the way back full circle, t over pi over 2, that's
+the same thing. You're back over here again. So this is going to be, we can
+even shade it the same color. And hopefully you're
+getting a sense now of the parameterization. I haven't done any math yet. I haven't actually showed you
+how to mathematically represent it as a vector value function,
+but hopefully you're getting a sense of what it means to
+parameterize by two parameters. And just to get an idea of what
+these areas on our s-t plane correspond to onto this
+surface, in I guess you could say, in R3, this little square
+right here, let's see what's bounded by. This little square, I want to
+make sure I picked a square that I can draw neatly. So this square right here, that
+is between, when you look at t, it's between 0 and pi over 2. And s is between
+0 and pi over 2. So this right here is
+this part of our torus. If you're looking at it from
+the top, it would look like that, right there. You can imagine, we've
+transformed this square. I haven't even shown you how
+to do it mathematically yet. But we've transformed
+this square to this part of the doughnut. Now, I think we've done about
+as much as I can do on the visualization side. I'll stop this video here. In the next video, we're going
+to actually talk about, how do we actually parameterize
+using these two parameters? Remember, s takes around each
+of these circles, and then t takes us around the z-axis. And if you take all of the
+combinations of s and t, you're going to have every point
+along the surface of this torus or this doughnut. How do you actually go from an
+s and a t that goes from 0 to 2 pi, in both cases, and turn
+it into a three-dimensional position vector-valued function
+that would define this surface? We're going to do that
+in the next video.

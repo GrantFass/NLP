@@ -1,0 +1,49 @@
+There we go. All right. And then itsy-bitsy washer. Oh. That was classic. All right, here we go. Itsy-bitsy washer. And the reason we
+want to use the washer is it just spreads
+the force of the screw out a little bit more,
+which can be useful. All right. So this is when it's
+going to be handy to have a needle-nose pliers. And then we can take
+our screwdriver-- one of our little ones, like
+this guy right here-- and we're going to hold
+the-- Not on this side. Turn the screw on this
+side with a screwdriver. I'm going to make sure it's
+pretty tight, because these will come loose. If it's not really tight, it'll
+come loose, and if it does, it'll just make the parts
+rattle around on your board. And I do think that the longer
+screws for this make sense, because they'll allow you to
+mount your Arduino further up than you would be able to
+if you were using shorter ones. Which will be handy, because
+you have to miss this thing, and if the Arduino is
+up a little higher, it'll be easier to access
+the USB, which you'll want for being able
+to upload code. And the other reason why
+you want it up like that is that it will make
+it easier to run wires underneath it, if
+you need to do that. And for this one,
+I believe we do run a few wires
+underneath the Arduino. OK. So now we're going to
+see if the Arduino fits. Yes. And it does. OK. So we want to make sure that we
+mount the Arduino high enough that we can still
+access that USB port. So the way we're going
+to do that is we'll take some of the
+same nuts that we used to tighten the
+machine screws down. We'll set them at a height
+on the machine screws, so that holds up the Arduino. So it's probably
+about like that. OK. Again, having it
+mounted higher like that allows us to connect to the USB
+and run our wires underneath, which will be handy. OK. Before we connect
+the Arduino, we still need to mount the motors. OK. So we've just inserted
+the Arduino in place. And I think we'll
+run these power wires underneath it or
+around it somehow. Go underneath it like this. And then, we're going to put
+these nuts on top the screw posts and tighten them all
+down to hold the Arduino firmly in place. Oh. There he goes. Maybe this one's magnetized. Yeah, it is. And see this side, back here,
+is just a little bit lower than the other side. So what I'm going to
+do is-- I can fix that by just raising the nut back
+here, up just a little bit. There we go. I want to make sure that
+they're all about the same. Might be able to
+get the nuts going. I think I'm just
+going to skip that. There's too many
+bits close to it. OK. So before I tighten
+this down all the way, I want to make sure. I'll test that. Well, actually, you know what? I'm going to go ahead,
+and tighten it down. Just because I may forget. OK. That's pretty solid.

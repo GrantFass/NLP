@@ -1,0 +1,73 @@
+- [Instructor] In this video, we're gonna dig a little bit
+deeper into distillation, and in particular, we're
+gonna learn how to construct and interpret distillation curves. So let's say we're trying to
+distill roughly 50 milliliters. That is 50% methyl acetate
+and 50% propyl acetate. If you don't know what methyl
+acetate or propyl acetate are not a big deal, but what's interesting is the difference in their boiling points. The boiling point of methyl
+acetate is 56.9 degrees Celsius. While the boiling point of
+propyl acetate is a lot higher, 101.5 degrees Celsius. And so you can imagine, as we have this fractional
+distillation setup, we're going to be able to
+separate these quite readily because of those differences
+in boiling point. So what you do, you have the solution, you begin to heat it up. Now you're going to have to heat it up to the boiling point of the mixture, which is going to be someplace in between these two boiling points. It's probably going to be
+70-something degrees Celsius. Now once you get this thing boiling, you're going to start having
+a lot more vapors form. Now those vapors are
+going to be a combination of methyl acetate and propyl acetate. Because methyl acetate
+has a lower boiling point than propyl acetate, a disproportionate number of those vapors are gonna be methyl acetate. And then, because this is
+fractional distillation, that mixture of vapors is
+going to have multiple cycles of condensing and then revaporizing. And as we get higher and higher, every time you condense
+and then revaporize, those revaporized vapors are going to have even a higher proportion
+of methyl acetate. And what you see as you gradually increase
+the temperature here, you're going to have
+this condensation ring, and you can view that as the boundary between where it's hot enough
+for enough vapors to form and where it's not hot enough for enough vapors to
+form and they condense. And so when this temperature
+is having fairly low readings, maybe right at the beginning, you're not going to be
+generating a lot of distillate. You're not really gonna be
+generating a lot of distillate until this condensation
+ring gets pretty close to where the bulb of this thermometer is, and those vapors can start entering into this condensation tube. And now you can imagine by the time that the ring gets up here,
+that means that the vapors, the mixture of vapors, have had multiple cycles of
+condensation and vaporization, which is equivalent to multiple
+simple distillation cycles. So by the time the
+vapor ring gets up here, we're going to have mainly
+methyl acetate vapors. And the temperature here, the boiling point of the vapors up here, are gonna be roughly the
+boiling point of methyl acetate. But that's the point at which you start seeing
+a lot of those vapors being able to enter into
+the condensation ring and get condensed, and we're starting to
+produce a lot of distillate. So right at around 56.9
+degrees Celsius, roughly, we now start producing
+a lot of distillate. Now you can imagine the
+whole time we're doing this, you have to slowly increase
+the temperature of the mixture. Why is that? Well, as we start losing more and more methyl acetate vapors, then the boiling point of the
+solution is going to increase. As we said, this original
+solution's about 50 milliliters. So once you get about
+20-something milliliters of your methyl acetate distilled, you are not going to be able to produce a lot more distillate at that temperature. You're gonna have to keep
+increasing that temperature until the bulb here
+gets to the temperature of the boiling point of propyl acetate. So the temperature of the
+bulb keeps increasing. You're not seeing a lot of new distillate, maybe a little bit more form, and you are getting more and
+more of the propyl acetate. So this especially is going
+to be a mixture of vapors. You're kind of getting the
+last of the methyl acetate, but you're getting an increase
+amount of propyl acetate. But once you're hot enough at the boiling point of propyl acetate, so about 101 degrees Celsius, then you start producing a
+lot more of your distillate. And this is essentially
+the condensing vapors of propyl acetate. And so if you wanted
+to separate these two, what you would do is, in this first phase, when you see this plateau and you're seeing a lot
+of this volume happen at the boiling point of methyl acetate, you could have one little
+tube here or one little jar, and then you can swap them in this phase. Before you raise the temperature too much, you can then collect the condensation of the propyl acetate. Now you can also go the other way around. People will oftentimes present
+to you a distillation curve that looks something like that. And they might say, okay, what were the boiling points
+of the constituents there? And you'd say, okay, well the
+lower boiling point substance, I can see that right over here. We were able to get a lot of distillate when the bulb right over
+here was at that temperature, so that must be the boiling
+point of substance one. And you might even be able to identify it if you know the boiling point
+of different substances. And then you would identify this plateau as the boiling point of
+substance number two. So some of you all might be thinking, this is all good and well
+for fractional distillation, but what would simple distillation
+curve actually look like? Well, remember, in simple distillation, you don't have multiple cycles of condensation and revaporization, which is equivalent to multiple cycles of simple distillation. So when you're hot enough for
+the vapors to get up here, it's gonna be less pure methyl acetate. It's going to be a combination of the two. It still will be
+disproportionally methyl acetate, but the boiling point of
+that combination of mixtures is going to be higher. So what happens is that you start getting
+significant distillate at a higher temperature and the whole notion is just
+a little bit more gradual when you're doing simple
+distillation versus fractional. And you could imagine if
+someone were to present a simple distillation curve like this, it's much harder to pick
+out the boiling points of the various substances,
+because at any given point, you have more of a mixture of vapors than you do when you're doing fractional.

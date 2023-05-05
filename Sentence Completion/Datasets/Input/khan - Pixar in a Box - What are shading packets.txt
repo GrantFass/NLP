@@ -1,0 +1,27 @@
+(footsteps) - We're on our way to the art department, but we can't show you much of it because everything there is super secret. - In the previous video, we saw how patterns were created to texture the dinosaur, Arlo, for the
+movie The Good Dinosaur. In this lesson, it will be your turn to make some convincing dinosaur skin using patterns, colors, and randomness. - (Ana) We're
+going to introduce you to some techniques used
+here at Pixar to do this. - (Beth) Such as voronoi diagrams. - (Ana) And how we use randomness to make it look more organic. - (Beth) By the end of this lesson you'll be ready to make
+your own dino skin. - And no matter what we're building, it all starts with a shading packet. - And the shading packet comes from one of the artists in the
+art department such as Tia. (knocking) - Hi!
+- Hey. - How are you guys?
+- Great. - Good, I have a present for you. The dino leg shader packet. There's a few pieces here for you. Some reference, some color specs, and some real reference. Those are for the claws. I don't have all the answers. I'm leaving it up to
+you guys to do the rest. I've got to go run and teach a class, so can I leave this with you? And you're welcome to use my office. Have a blast. - Great.
+- Thank you. - Thank you! Bye. - The shading packet is a collection of drawings and images that will guide us through the process of
+creating our dino skin. - (Beth) It all begins on paper because it's much faster
+to iterate that way. - (Ana) Shading
+packets also contain reference photographs like this cactus, which is a real-life approximation of the look and feel we're going for. - (Beth) This is a wonderful inspiration for the
+scales of our dinosaur, but it's just a starting point. - (Ana) Let's
+examine these drawings a little more closely and see what kind of things Tia has identified. - (Beth) First notice there are a number of scales of
+varying sizes sticking out, or extruding from the skin. We'll need to figure
+out how to build these. - (Ana) Also notice
+the scales vary in size, some bigger and some smaller. The bigger scales
+correspond to rigid areas, such as the middle of the leg. Smaller scales are found
+in areas near the claws, which is an area that
+is much more flexible. - (Beth) Aside from the size, position, and shape of the scales we also have to start
+thinking about color. - (Ana) Notice she wants each scale to vary in color and a reminder to make the skin beneath the
+scales a different color. - (Beth) The final touch is to pay attention to different kinds of random variations we'll need. For example, some scales
+extrude more than the others. Plus, the position and size of the scale should vary as well. So there's lots of
+variation going on here. - (Ana) Now it's your turn to examine the shading packet. - Once you're comfortable
+studying shading packets, we'll get to work creating
+the patterns in the computer.

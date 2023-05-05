@@ -1,0 +1,97 @@
+So right over here we have the graph of
+the function f. And we're assuming that f is a function of
+t, our horizontal axis. Here's the t-axis. So that is f of t, lowercase f of t. And now let's just, let's define another
+function. Let's call it capital F of, and it's not
+going to be a function of t. It's going to be a function of x. So capital F of x is equal to. We're gonna definite it as the definite
+integral between t is equal to negative 5 and t is equal to
+x. Actually let me make those x's in the same
+color so they really stand out. So f of x is equal to the definite
+integral between t is equal to negative 5 and t is equal to x of f of t, f of t dt. And if I had my druthers I'd probably
+wouldn't use capital f and lower case f, I would use like a g or capital G just so
+that when I say F, you don't get confused. Well I'm gonna try my best to say
+lower-case F of t, capital F of x. So this is how we're gonna define the
+function capital F of x. Definite integral between t is equal to
+negative 5, and x of f of t, dt. Now given this definition. What I wanna think about is at what x
+values does capital F of x, does capital F of x equal
+0? So we'll write that down. At what x values does, this is, is this, I guess you could
+say, this equation, at what x values is this equation true? And I encourage you to pause this video
+right now and try to think about it on your own. And then we can work through it together. So I'm assuming you've had a go at it, so
+let's just think about what this, what this function
+capital F of x is really talking about. Well it's the one way to think about it is it's the area below, between negative
+5, between t equals negative 5 and t equals x, that is
+below the function f of t and above the t axis. And if the areas is the other way around,
+if it's below the t axis and above the function, it's
+gonna be negative area. So we're looking at t equals negative 5,
+which is this, you could say this boundary right
+over here. That is t is equal to negative 5. And if you put, pick an x value, let's
+just say x were negative 2, so if that is your x value right over
+here, capital F would describe, would describe this area, this
+area it would be a negative area because here the function is
+below the t axis. So, for example capital F of negative 2
+would be negative. Now, what x values makes this a 0? So one might jump out at you. Well, if we just, if we made, if we put x,
+if we put x right at negative 5. Right at negative 5. Then there's no width, width here. There's not going to be any area. So f of, f of negative 5. F of negative 5, F of negative capital F
+of negative 5, I should be clear here. Capital F of negative 5, which is equal to
+the definite integral between t is equal to negative 5 and t is equal to negative
+5, of f of t dt. F of t dt. Well you have the, you have the, you, you
+have the same boundaries here. So this is going to be 0, once again this
+area you have no width to this area. So this is going to be equal to 0. So, we can list x equals negative 5 as
+being one of the points. One of the x values that makes capital F
+of x equal 0. But let's see if we can find more of them. Let's see if we were to go, let me erase
+this right over here. So, this was. We're starting at t equals negative 5. Now as x gets larger and larger and
+larger, when x is equal to negative 3, our area. So, let's see this area right over here,
+this area right over here is going to be, so that is, I see that we have, it's 2,
+we're going from negative 5 to negative 3. So the distance right over here is two. This height, right over here, is 4. So, this area, right over here, is 2 times
+4 times 1/2, which is going to be 4. And, since it's above the function and
+below the t-axis, we'll write this as a negative, we'll write that
+as a negative 4. And now, so let's see, so we're starting
+when x is equal to 5. Uf, capital F of x is equal to 0, that is
+you get further and further out, you're getting more and more negative values, that's more and more
+negative values. But I just picked out this point right
+over here because this seems like a point of transition of the
+function, and then we have. This region, which is just going to add
+more negative area to capital F of x as x gets larger and larger
+and larger. And this looks like a really, a quarter
+circle. This is, it has a quarter circle of radius
+4, and now we have another quarter circle of radius 4
+until we get to x equals 5. And this is actually going to be positive
+area. Because here our function is above the t
+axis. So when we've gotten this far, so all, the
+way I'm thinking about it, my x is, my x, when capital F of x equal
+negative 5 is, is 0. And now our area, as x becomes larger and larger, and larger, our area becomes
+negative, negative, negative, negative. Now it becomes less negative, because
+we're starting to add, we're starting to add. So, for example, if x is equal to 2, if x is equal to 2, we would be looking at this
+positive. But we still have all this huge negative
+area to overcome. So we're still in negative territory. But the more positive we add, we're gonna
+become less negative. And you go all the way to x equals positive 5 and this positive area,
+this quarter circle right over here of positive area,
+is going to exactly offset this quarter circle of
+negative area. You don't even have to think about what
+that area is, although you can obviously figure it out with pi R
+squared and whatever else. And so now we just have to keep adding more positive area to offset this
+negative 4. So how do we do that? Well the height here, the height right
+over here is 4, the height right over here is 4 so if we, if we can add our
+rectangle that is one wide and 4 high. That's positive area of 4, which this has
+right over here. So this is plus 4. Is going to offset this negative 4. So we go all the way to x is equal to 6. When x is equal to 6, capital F of x is
+going to be equal to 0. Let's write that down. So capital F. Capital f of, capital f of positive 6, of
+positive 6, which is going to be equal to the
+definite integral between negative 5 and positive
+6. Positive 6 of f of t. F of t, dt, well we can break this up. We already went through it, I'm just
+gonna, going to make sure that we really understood what
+was going on. This is equal to, and I'll just to it all
+in one color now. This is equal to, actually I'll do it in
+these colors that I did here. This is equal to the integral. The integral between negative 5 and negative 3 of f of t, dt, plus the integral, plus the integral between negative 3 and 1 of f of t dt. Plus the integral between 1 and 5 of f of
+t, dt. That describes this right over here. And then finally, plus, plus the definite integral between 5 and 6 of f
+of t, dt. f of t, dt. And, this describes this negative area. This describes this positive area. These two net out to be 0. And then this area we already figured out,
+is. Or this definite integral I should say is
+negative 4. This is negative 4 and this one right over
+here is positive 4 and so they net out and this of course is equal to 0
+which we wanted to figure out. Once again how did I do that? Well I said okay clearly when x is equal
+to negative 5 you have no area and then i just kept increasing, kept increasing xs
+to larger and larger values, I could have gone actually
+the other way. And, I would have had just more and more
+positive values there would have been nothing to offset it to
+get us back to 0. But, as we increased x above negative 5,
+the capital Fof x; the area, is more and more and more negative, but then it becomes,
+then we start adding positive value to it to
+offset the negative. And, we fully offset the negative at x is
+equal to 6.

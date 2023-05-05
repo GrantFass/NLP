@@ -1,0 +1,80 @@
+So we have the
+function f of x is equal to e to the
+x over x squared. And what I want to
+do in this video is find the equation,
+not of the tangent line, but the equation of the normal
+line, when x is equal to 1. So we care about the
+equation of the normal line. So I encourage you to pause this
+video and try this on your own. And if you need a little bit
+of a hint, the hint I will give you is, is that the
+slope of a normal line is going to be the
+negative reciprocal of the slope of
+the tangent line. If you imagine a
+curve like this, and we want to find a
+tangent line at a point, it's going to look
+something like this. So the tangent line is
+going to look like this. A normal line is perpendicular
+to the tangent line. This is the tangent line. The normal line is going to
+be perpendicular to that. It's going to go just like that. And if this has a
+slope of m, then this has a slope of the
+negative reciprocal of m. So negative 1/m. So with that as a
+little bit of a hint, I encourage you to find the
+equation of the normal line to this curve, when x equals 1. So let's find the slope
+of the tangent line. And then we take the
+negative reciprocal, we can find the slope
+of the normal line. So to find the slope
+of the tangent line, we just take the derivative here
+and evaluate it at x equals 1. So f prime of x,
+and actually, let me rewrite this a little bit. So f of x is equal to e to the
+x times x to the negative 2. I like to rewrite it this
+way, because I always forget the whole
+quotient rule thing. I like the power
+rule a lot more. And this allows me to
+use the power rule. I'm sorry, not the power
+rule, the product rule. So this allows me
+to do the product rule instead of
+the quotient rule. So the derivative
+of this, f prime of x, is going to be the
+derivative of e to the x. Which is just e to the x times
+x to the negative 2, plus e to the x times the derivative
+of x to the negative 2. Which is negative 2x to
+the negative 3 power. I just used the power
+rule right over here. So if I want to evaluate
+when x is equal to 1, this is going to
+be equal to-- let me do that in that
+yellow color like. I like switching colors. This is going to be
+equal to, let's see, this is going to be
+e to the first power. Which is just e times
+1 to the negative 2, which is just 1 plus e to the
+first power, which is just e, times negative 2. 1 to the negative 3 is just 1. So e times negative 2. So let me write it this way. So minus 2e. And e minus 2e is just going
+to be equal to negative e. So this right over here, this is
+the slope of the tangent line. And so if we want the
+slope of the normal, we just take the
+negative reciprocal. So the negative reciprocal
+of this is going to be, well the reciprocal
+is 1 over negative e, but we want the
+negative of that. So it's going to be 1/e. This is going to be the
+slope of the normal line. And then if we, and
+our goal isn't just to the slope of
+the normal line, we want the equation
+of the normal line. And we know the
+equation of a line can be represented
+as y is equal to mx plus b, where m is the slope. So we can say it's going to be
+y is equal to 1/e-- remember, we're doing the normal
+line here-- times x plus b. And to solve for b, we
+just have to recognize that we know a point
+that this goes through. This goes through
+the point x equals 1. And when x equals 1, what is y? Well, y is e to the 1st
+over 1, which is just e. So this goes to the
+point 1 comma e. So we know that when x is
+equal to 1, y is equal to e. And now we can just solve for b. So we get e is
+equal to 1/e plus b. Or we could just subtract
+1 over e from both sides, and we would get b is
+equal to e minus 1/e. And we could obviously right
+this as e squared minus 1/e if we want to
+write it like that. But could just leave
+it just like this. So the equation of
+the normal line-- so we deserve our drum
+roll right over here-- is going to be y is equal
+to 1/e times x, plus b. And b, plus b, is all of this. So plus e minus 1/e. So that right there is our
+equation of the normal line.

@@ -1,0 +1,71 @@
+Let's verify that
+the margin mechanics in the marking to market
+of the futures contract actually gets both the seller
+and the buyer what they originally wanted, which
+is that they don't have to be susceptible to the
+volatility in apple prices. They both wanted
+to, effectively, sell the apples for $0.20
+a pound or buy the apples for $0.20 a pound. And they didn't want to,
+in the farmer's case, go out of business if they could
+only sell the apples for $0.10 a pound, or in the
+pie company's case, go out of business if they had
+to buy the apples for $0.30 a pound. So let's verify
+that this works out. So they originally
+had a contract price of $200 for 1,000 pounds. So this is essentially
+$0.20 a pound. And as we said in
+the previous video, as the futures contract
+delivery price changes day by day, as we get closer and
+closer to the actual delivery date, what happens
+is that we transfer money between the buyer's margin
+account and the seller's margin account. As the delivery price
+of the future contract goes down, in order to mark
+the delivery price down-- so in order to mark it down
+from $200 to $190 to $185-- this guy keeps getting a better
+deal on the actual delivery price. So to make things fair, he has
+to transfer the same amount of money to the margin
+account of the seller. So let's imagine two scenarios. Let's say that
+eventually, as we approach November 15-- remember,
+this is the delivery date-- the futures contract
+delivery price is going to approach
+the market price. You can imagine right
+when we're like a second before the delivery date, the
+futures contract and the market price aren't going
+to be that different. And let's say that this goes
+all the way down to $100. So in that whole process,
+this futures contract keeps getting
+marked down to $100. So on that day, it is
+true that the seller will sell 1,000 pounds of apples
+to the buyer for only $100. You might say, hey, wait. What did the seller
+get out of this? He's only getting $0.10
+per pound for his apples. This was what he feared. He is susceptible to the
+volatility of the market prices. But remember, because of this
+marking to market, and because of the margin transfers here,
+as this delivery price went down from $200 to $100,
+there would have been a transfer from
+this guy's margin account to this guy's margin
+account of $100. So instead of just
+getting the $100 for that 1,000 pounds of
+apples, because this seller had this futures contract,
+he would have also gotten another $100 transferred
+into his margin account. So the true economic value he
+gets is $200, no matter what, for his 1,000 pounds of
+apples, or $0.20 a pound. You can imagine
+the other scenario. What if the delivery price
+as we get closer and closer to delivery date goes up? If it goes to $300
+per 1,000 pounds? Well, you might say, hey,
+the seller is going to get a bonanza, and this guy's
+going to go out of business because he's going to be
+essentially paying $0.30 per pound. But you gotta remember,
+if the price went up and it becomes more and more
+favorable to the seller, because of the margin
+mechanics, the seller would have to transfer $100 over--
+as the price moves up-- to the buyer, to
+his margin account. And so even though this guy
+has to pay $300 per pound, because that's where the market
+price eventually ended up, he would get $100
+from the seller. So effectively, he would
+still only have to pay $200. And even though this guy
+is selling it for $300, he actually had to
+pay another $100. So net, he's really only
+getting $200 for it. So no matter how you look at
+it, both parties are transacting at $200, or $0.20 a pound.

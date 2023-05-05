@@ -1,0 +1,102 @@
+Voiceover: We're now gonna talk about probably the most famous
+formula in all of finance, and that's the Black-Scholes Formula, sometimes called the
+Black-Scholes-Merton Formula, and it's named after these gentlemen. This right over here is Fischer Black. This is Myron Scholes. They really laid the
+foundation for what led to the Black-Scholes Model and
+the Black-Scholes Formula and that's why it has their name. This is Bob Merton, who really
+took what Black-Scholes did and took it to another level to really get to our
+modern interpretations of the Black-Scholes Model
+and the Black-Scholes Formula. All three of these
+gentlemen would have won the Nobel Prize in Economics, except for the unfortunate fact that Fischer Black passed away
+before the award was given, but Myron Scholes and Bob Merton did get the Nobel Prize for their work. The reason why this is such a big deal, why it is Nobel Prize worthy, and, actually, there's many reasons. I could do a whole
+series of videos on that, is that people have been
+trading stock options, or they've been trading options
+for a very, very, very long time. They had been trading them, they had been buying them, they had been selling them. It was a major part of
+financial markets already, but there was no really good way of putting our mathematical minds around how to value an option. People had a sense of the
+things that they cared about, and I would assume
+especially options traders had a sense of the things
+that they cared about when they were trading options, but we really didn't have an
+analytical framework for it, and that's what the
+Black-Scholes Formula gave us. Let's just, before we dive into
+this seemingly hairy formula, but the more we talk about it, hopefully it'll start
+to seem a lot friendlier than it looks right now. Let's start to get an intuition for the things that we would care about if we were thinking about
+the price of a stock option. You would care about the stock price. You would care about the exercise price. You would especially care
+about how much higher or lower the stock price is relative
+to the exercise price. You would care about the
+risk-free interest rate. The risk-free interest
+rate keeps showing up when we think about taking a
+present value of something, If we want to discount the value
+of something back to today. You would, of course, think
+about how long do I have to actually exercise this option? Finally, this might look a
+little bit bizarre at first, but we'll talk about it in a second. You would care about how
+volatile that stock is, and we measure volatility
+as a standard deviation of log returns for that security. That seems very fancy, and we'll talk about that in
+more depth in future videos, but at just an intuitive level, just think about 2 stocks. So let's say that this is
+stock 1 right over here, and it jumps around, and I'll make them go flat, just so we make no judgment about whether it's a good investment. You have one stock that kind of does that, and then you have another stock. Actually, I'll draw them on the same, so let's say that is stock 1, and then you have a
+stock 2 that does this, it jumps around all over the place. So this green one right
+over here is stock 2. You could imagine stock 2 just in the way we use the word
+'volatile' is more volatile. It's a wilder ride. Also, if you were looking at
+how dispersed the returns are away from their mean, you see it has, the returns have more dispersion. It'll have a higher standard deviation. So, stock 2 will have a higher volatility, or a higher standard deviation
+of logarithmic returns, and in a future video, we'll talk about why we care about log returns, Stock 1 would have a lower volatility, so you can imagine,
+options are more valuable when you're dealing with, or if you're dealing with a
+stock that has higher volatility, that has higher sigma like this, this feels like it would drive
+the value of an option up. You would rather have an option when you have something like this, because, look, if you're owning the stock, man, you have to go after,
+this is a wild ride, but if you have the option,
+you could ignore the wildness, and then it might actually make, and then you could exercise the option if it seems like the right time to do it. So it feels like, if you
+were just trading it, that the more volatile something is, the more valuable an
+option would be on that. Now that we've talked about this, let's actually look at
+the Black-Scholes Formula. The variety that I have right over here, this is for a European call option. We could do something very
+similar for a European put option, so this is right over here
+is a European call option, and remember, European call option, it's mathematically simpler
+than an American call option in that there's only one time
+at which you can exercise it on the exercise date. On an American call option, you can exercise it an any point. With that said, let's try to
+at least intuitively dissect the Black-Scholes Formula a little bit. So the first thing you have here, you have this term that involved
+the current stock price, and then you're multiplying
+it times this function that's taking this as an input, and this as how we define that input, and then you have minus the exercise price discounted back, this discounts
+back the exercise price, times that function again, and now that input is slightly different into that function. Just so that we have a
+little bit of background about what this function N is, N is the cumulative distribution function for a standard, normal distribution. I know that seems, might
+seem a little bit daunting, but you can look at the
+statistics playlist, and it shouldn't be that bad. This is essentially saying for
+a standard, normal distribution, the probability that your
+random variable is less than or equal to x, and another way of thinking about that, if that sounds a little, and it's all explained in
+our statistics play list if that was confusing, but if you want to think about
+it a little bit mathematically, you also know that this is going to be, it's a probability. It's always going to be greater than zero, and it is going to be less than one. With that out of the way, let's think about what
+these pieces are telling us. This, right over here, is dealing with, it's
+the current stock price, and it's being weighted by
+some type of a probability, and so this is, essentially,
+one way of thinking about it, in very rough terms, is this
+is what you're gonna get. You're gonna get the stock, and it's kind of being
+weighted by the probability that you're actually
+going to do this thing, and I'm speaking in very rough terms, and then this term right
+over here is what you pay. This is what you pay. This is your exercise
+price discounted back, somewhat being weighted, and I'm speaking, once again, I'm hand-weaving a lot of the mathematics, by like are we actually
+going to do this thing? Are we actually going
+to exercise our option? That makes sense right over there, and it makes sense if the
+stock price is worth a lot more than the exercise price, and if we're definitely going to do this, let's say that D1 and D2 are
+very, very large numbers, we're definitely going to do
+this at some point in time, that it makes sense that
+the value of the call option would be the value of the
+stock minus the exercise price discounted back to today. This right over here,
+this is the discounting, kind of giving us the present
+value of the exercise price. We have videos on discounting
+and present value, if you find that a little bit daunting. It also makes sense that the more, the higher the stock price is, so we see that right over here, relative to the exercise price, the more that the option would be worth, it also makes sense that
+the higher the stock price relative to the exercise price, the more likely that we will
+actually exercise the option. You see that in both of
+these terms right over here. You have the ratio of the stock
+price to the exercise price. A ratio of the stock price
+to the exercise price. We're taking a natural log of it, but the higher this ratio
+is, the larger D1 or D2 is, so that means the larger the input into the cumulative
+distribution function is, which means the higher
+probabilities we're gonna get, and so it's a higher chance
+we're gonna exercise this price, and it makes sense that then this is actually going to have some value. So that makes sense, the relationship between the stock price and the exercise price. The other thing I will focus on, because this tends to be a deep focus of people who operate with options, is the volatility. We already had an intuition, that the higher the volatility, the higher the option price, so let's see where this factors
+into this equation, here. We don't see it at this first level, but it definitely factors into D1 and D2. In D1, the higher your standard
+deviation of your log returns, so the higher sigma, we have a sigma in the
+numerator and the denominator, but in the numerator, we're squaring it. So a higher sigma will make D1 go up, so sigma goes up, D1 will go up. Let's think about what's happening here. Well, here we have a sigma. It's still squared. It's in the numerator, but we're subtracting it. This is going to grow faster than this, but we're subtracting it now, so for D2, a higher sigma
+is going to make D2 go down because we are subtracting it. This will actually make, can we actually say this is going to make, a higher sigma's going to make the value of our call option higher. Well, let's look at it. If the value of our sigma goes up, then D1 will go up, then this input, this input goes up. If that input goes up, our cumulative distribution
+function of that input is going to go up, and so this term, this whole term is gonna
+drive this whole term up. Now, what's going to happen here. Well, if D2 goes down, then our cumulative distribution
+function evaluated there is going to go down, and so this whole thing
+is going to be lower and so we're going to have to pay less. If we get more and pay less, and I'm speaking in very hand-wavy terms, but this is just to understand that this is as intuitively
+daunting as you might think, but it looks definitively, that if the standard deviation, if the standard deviation
+of our log returns or if our volatility goes up, the value of our call option, the value of our European
+call option goes up. Likewise, using the same logic, if our volatility were to be lower, then the value of our
+call option would go down. I'll leave you there. In future videos, we'll think about this in a little bit more depth.

@@ -1,0 +1,110 @@
+The owner of a restaurant
+wants to find out more about where his patrons
+are coming from. One day, he decided
+to gather data about the distance
+in miles that people commuted to get
+to his restaurant. People reported the
+following distances traveled. So here are all the
+distances traveled. He wants to create
+a graph that helps him understand the
+spread of the distances-- this is a key word--
+the spread of distances and the median distance
+that people traveled or that people travel. What kind of graph
+should he create? So the answer of what kind
+of graph he should create, that might be a little
+bit more straightforward than the actual creation of the
+graph, which we will also do. But he's trying to visualize
+the spread of information. And at the same time,
+he wants the median. So what a graph captures
+both of that information? Well, a box and whisker plot. So let's actually try to
+draw a box and whisker plot. And to do that, we need to
+come up with the median. And we'll also see the median
+of the two halves of the data as well. And whenever we're trying to
+take the median of something, it's really helpful
+to order our data. So let's start off by
+attempting to order our data. So what is the
+smallest number here? Well, let's see. There's one 2. So let me mark it off. And then we have another two. So we've got all the 2's. And then we have this 3. Then we have this 3. I think we've got all the 3's. Then we have that 4. Then we have this 4. Do we have any 5's? No. Do we have any 6's? Yep. We have that 6. And that looks like the only 6. Any 7's? Yep. We have this 7 right over here. And I just realized
+that I missed this 1. So let me put the 1 at
+the beginning of our set. So I got that 1
+right over there. Actually, there was two 1's. I missed both of them. So both of those 1's
+are right over there. So I have the 1's,
+2's, 3's, 4's, no 5's. This is one 6. There was one 7. There's one 8 right over here. And then, let's see, any 9's? No 9's. Any 10s? Yep. There's a 10. Any 11s? We have an 11 right over there. Any 12s? Nope. 13, 14? Then we have a 15. And then we have a
+20 and then a 22. So we've ordered all our data. Now it should be relatively
+straightforward to find the middle of our
+data, the median. So how many data
+points do we have? 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+11, 12, 13, 14, 15, 16, 17. So the middle number
+is going to be a number that has 8
+numbers larger than it and 8 numbers smaller than it. So let's think about it. 1, 2, 3, 4, 5, 6, 7, 8. So the number 6 here is
+larger than 8 of the values. And if I did the
+calculations right, it should be smaller
+than 8 of the values. 1, 2, 3, 4, 5, 6, 7, 8. So it is, indeed, the median. Now, when we're trying to
+construct a box and whisker plot, the convention is,
+OK, we have our median. And it's essentially dividing
+our data into two sets. Now, let's take the median
+of each of those sets. And the convention is to
+take our median out and have the sets that are left over. Sometimes people leave it in. But the standard convention,
+take this median out. And now, look
+separately at this set and look separately at this set. So if we look at this first
+bottom half of our numbers essentially, what's the
+median of these numbers? Well, we have 1, 2, 3, 4,
+5, 6, 7, 8 data points. So we're actually going to
+have two middle numbers. So the two middle numbers
+are this 2 and this 3, three numbers less
+than these two, three numbers greater than it. And so when we're
+looking for a median, you have two middle numbers. We take the mean of
+these two numbers. So halfway in between
+two and three is 2.5. Or you can say 2 plus 3
+is 5 divided by 2 is 2.5. So here we have a median
+of this bottom half of 2.5. And then the middle
+of the top half, once again, we
+have 8 data points. So our middle two
+numbers are going to be this 11 and this 14. And so if we want to take the
+mean of these two numbers, 11 plus 14 is 25. Halfway in between
+the two is 12.5. So 12.5 is exactly
+halfway between 11 and 14. And now, we've figured
+out all of the information we need to actually
+plot or actually create or actually draw
+our box and whisker plot. So let me draw a number line,
+so my best attempt at a number line. So that's my number line. And let's say that this
+right over here is a 0. I need to make sure I get all
+the way up to 22 or beyond 22. So let's say that's 0. Let's say this is 5. This is 10. That could be 15. And that could be 20. This could be 25. We could keep
+going-- 30, maybe 35. So the first thing we might
+want to think about-- there's several ways to draw it. We want to think about
+the box part of the box and whisker
+essentially represents the middle half of our data. So it's essentially trying to
+represent this data right over here, so the data between the
+medians of the two halves. So this is a part
+that we would attempt to represent with the box. So we would start right
+over here at this 2.5. This is essentially
+separating the first quartile from the second quartile, the
+first quarter of our numbers from the second
+quarter of our numbers. So let's put it right over here. So this is 2.5. 2.5 is halfway between 0 and 5. So that's 2.5. And then up here, we have 12.5. And 12.5 is right
+over-- let's see. This is 10. So this right over here would be
+halfway between, well, halfway between 10 and 15 is 12.5. So let me do this. So this is 12.5 right over here. So that separates
+the third quartile from the fourth quartile. And then our boxes,
+everything in between, so this is literally the
+middle half of our numbers. And we'd want to show
+where the actual median is. And that was actually
+one of the things we wanted to be able
+to think about when the owner of the
+restaurant wanted to think about how far
+people are traveling from. So the median is 6. So we can plot it
+right over here. So this right here is about six. Let me do that same pink color. So this right over here is 6. And then the whiskers of
+the box and whisker plot essentially show us
+the range of our data. And I can do this in a different
+color that I haven't used yet. I'll do this in orange. So essentially, if
+we want to see, look, the numbers go all
+the way up to 22. So they go all the
+way up to-- so let's say that this is
+22 right over here. Our numbers go all
+the way up to 22. And they go as low as 1. So 1 is right about here. Let me label that. So that's 1. And they go as low as 1. So there you have it. We have our box
+and whisker plot. And you can see if you
+have a plot like this, just visually, you
+can immediately see, OK, what is the median? It's the middle of
+the box, essentially. It shows you the middle half. So it shows you how
+far they're spread or where the meat
+of the spread is. And then it shows, well, beyond
+that, we have the range that goes well beyond that or how
+far the total spread of our data is. So this gives a pretty good
+sense of both the median and the spread of our data.

@@ -1,0 +1,31 @@
+Voiceover:What I want to do in this video is graph up a classic exponential function and then graph a related
+logarithmic function and see how the two are related visually. The two things I'm going to graph are y is equal to two to the x power and y is equal to the log base two of x. I encourage you to pause the video, make a table for each of them and try to graph them
+on the same graph paper. See how they are related and if you see how they're related, think about why they are related that way. Let's first start with y
+equals two to the x power. I'm going to make a little table here, different x values and the
+corresponding y values. x and y, we can start with negative two, negative one, zero, one, two, three. In each case y is going to
+be two raised to these power. Two to the negative two power is going to be 1/4. Two to the negative one power is 1/2. Two to the zero power is one. Two to the first power is two. Two to the second power is four. Two to the third power is eight. Let's graph that. Two to the third power is eight. Two to the second power is four. Two to the first power is two. Two to the zeroth power is one. Two to the negative one power is 1/2. Two to the negative two power is 1/4. Even the two to the negative third power is going to be 1/8, so it's going to look something like this. The graph is going to
+look something like this right over here. It's kind of your classic, sometimes this will be called
+your exponential hockey stick because it kind of looks
+like a hockey stick where it just kind of starts kind of slow and just oohh bam, shoots straight up. Notice as we go to the left as x becomes more and
+more and more negative our value approaches zero
+but never quite gets there. If we have two to the
+negative one millionth power it's going to be a
+very, very small number, very, very close to zero but it's not going to be quite zero. We're going to have a
+horizontal asymptote at y is equal to zero or the x-axis is a horizontal asymptote. Fair enough. Now let's graph y is equal
+to log base two of x. Before I graph that, let's
+just think about another way of representing it. This literally says, for any x, what power, what exponent
+y if I raise two to that would give me x. This is an equivalent statement as saying two to the
+y power is equal to x. If you notice, what we've done here between these two things you're essentially just
+switching the x's and the y's. Here's two to the x power is equal to y. Here's two to the y power is equal to x. Really this and this you've
+swapped the x's and the y's. What we will see is
+that we can essentially swap these two columns. x and y, so let me just do 1/4, 1/2, one, two, four, and eight. Here now we're saying if x is 1/4, what power do we have to raise two to, to get to 1/4. We have to raise it to
+the negative two power. Two to the negative one
+power is equal to 1/2. Two to the zero power is equal to one. Two to the first power is equal to two. Two to the second power is equal to four. Two to the third power is equal to eight. Notice all we did, as we essentially swapped
+these two columns, so let's graph this. When x is equal to 1/4, y
+is equal to negative two. When x is 1/2, y is equal to negative one. When x is one, y is zero. When x is two, y is one. When x is four, y is two. When x is eight, y is three. It's going to look like this. Notice, I think you
+might already be seeing a pattern right over here. These two graphs are essentially the reflections of each other. What would you have to reflect about to get these two? Well you'd have to reflect
+about y is equal to x. If you swap the x's and the y's, another way to think about, if you swap the axis you
+would get the other graph. It's essentially what we're doing. Notice it's symmetric about that line and that's because these are essentially the inverse functions of each other. One way to think about it is we swapped the x's and y's. Just as this, as x becomes more and more and more and more negative you see y approaching zero. Here you see is y is becoming
+more and more negative as x is approaching zero, or you could say as x approaches zero y becomes more and more and more negative. The whole point of this is just to give you an appreciation for the relationship between
+an exponential function and a logarithmic function. They're essentially
+inverses of each other. You see that in the graphs, they're reflections of each other about the line y is equal to x.

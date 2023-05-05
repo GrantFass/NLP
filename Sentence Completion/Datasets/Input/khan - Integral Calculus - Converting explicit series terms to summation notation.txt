@@ -1,0 +1,49 @@
+So I have the series-- negative
+5/3 plus 25 over 6 minus 125 over 9 plus-- and it just keeps
+going on and on and on forever. So this right over
+here is an infinite sum or an infinite series, and
+what I want you to do right now is to pause this video
+and try to express this infinite series
+using sigma notation. So I'm assuming you've given
+a go at it, so let's just look at each term of the series
+and let's see if we can express it with kind of an
+ever-increasing index. So the first thing that
+might jump out at you is this oscillating sign that's
+happening right over here. And whenever we see
+an oscillating sign, that's a pretty good idea
+that we could kind of view this as negative 1 to the
+n-th, where n is our index. So for example, that
+right over there is negative 1 to
+the first power. That is-- this right
+over here is negative 1 to the second power. That right over there is
+negative 1 to the third power. So it looks like the
+sign is being defined by raising negative
+1 to the index. Now let's look at the
+other parts of these terms right over here. So we have 5, then we
+have 25, the we have 125, so these are the powers of 5. So this right over here
+is 5 to the first power, this right over here is
+5 to the second power, this right over here is
+5 to the third power. So this part, we're
+raising 5 to our index. Notice, 1, 1, 2, 2, 3, 3. And then finally,
+let's look at this. We have 3, 6, and 9. So this literally-- if our index
+here is 1, this is 3 times 1. If our index here is
+2, this is 3 times 2. If our index here is
+3, this is 3 times 3. So this is 3 times 1,
+that is 3 times 2-- let me write it this
+way-- 3 times 2, that right over
+there is 3 times 3. So this sets us up
+pretty well to write this in sigma notation. So let's write it over here
+just so we can compare. So let me give myself some
+real estate to work with. So we could write
+this as the sum-- I'll do it in yellow-- as the
+sum, so this is our sigma. We can start our index
+n at 1, from n equals 1, and we're going to keep
+going on and on forever. We just keep going
+on and on forever. And so it's negative 1
+to the n-th power times 5 to the n-th over-- notice
+5 to the n-th-- over 3n is going to be equal to this. And you can verify
+when n equals 1, it's negative 1
+to the nth power-- I'm sorry-- negative 1
+to the first power, which is negative 1 times 5 to
+the first power, which is 5 over 3 times 1. And we can do that for
+each successive term. And so we're all done.

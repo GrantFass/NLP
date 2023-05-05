@@ -1,0 +1,50 @@
+- [Voiceover] In this video, I want to do a
+demonstration of the process of labeling voltages on a circuit that we're about to analyze. This is something that
+sometimes causes stress, or confusion, and I want to just basically try to get out of that
+stressful situation, so the first thing I want to do, is remind ourselves of the convention, the sign convention
+for passive components, so we said, If we have a
+resistor that we draw this way, and we label the voltage
+plus or minus V on it, then when we label the current arrow, we want to label the current arrow so it goes into the positive
+terminal of the component, in this case a resistor, so just another quick example, if I draw the resistor sideways like this, if I label the voltages,
+the minus one on this side, and the plus one on this side, then when I go to apply the current arrow, I put the current arrow into
+the positive voltage sign, so this here is the sign convention for an individual component. How do we label the voltage, and the current together to be consistent? Now we're going to to over
+and analyze a circuit. I've drawn a circuit here. It's two identical circuits, and we're going to do
+it two different ways, with two different voltage labels, so the first thing we do, of course, when we analyze a circuit, is we set up the variables
+that we want to talk about. We'll do this side first. I'll label this as i, and that's a choice I can make, and then I'm going to
+label the voltages too, and I'm going to choose to
+label the voltages like this, plus and minus V, and we'll call this V1, and this will be plus or minus V2, so first, let's carry through and do the analysis of this circuit, and I'll give some
+component values to this. We'll call this 10 ohms, and this one's 20 ohms. Now I'm going to do an application of Kirchhoff's voltage law, around this loop, and we'll see how it turns out. All right, so Kirchhoff's voltage law will start at this node here, and will go around the circuit this way, and we'll do some equations. We'll say, plus three volts, when we go through this device, we get a voltage rise of three, then we get a voltage drop, because we go from plus to minus, we get a voltage drop of minus V1, and then we get another drop of V2, minus V2, equals zero. That's our KVL equation
+for this circuit over here, so let's keep going with this analysis. Three volts, minus V1 is i times R1, i times 10, and V2 is i times 20 ohms, and that equals zero, so let's keep going. Three minus i times 10, plus 20, equals zero, and that means that i equals minus three over, minus three goes to this side, 10 plus 20 is 30, and the
+minus sign goes with the 30, minus 30, so i equals plus amp, so we solve for i, and
+let's just pick out V1. Let's solve for V1, and we said earlier
+that V1 was i times R1, so V1 equals i, which is .1 amps, times 10 ohms, equals one volt. If we do it for V2, that equals .1 amps, times 20 ohms, and that equals two volts, and I can do one last little check, I can go back, and I can see KVL, I could do a check to see if
+this equation came out right, so three volts, minus V1 is one volt, and V2 is two volts, and that equals zero, and I get to put a check mark here, because yes, it's equal to zero. That was a real quick analysis of a simple two resistor circuit, and we got all the voltages and currents. Now I'm going to go do
+the same thing again, but this time I'm going
+to do the voltage labels a little bit odd. What I'm going to do here, is I'm going to say two plus. I'm going to define V1
+to be in that direction, and we'll keep V2 like it was before, and now I need a current variable, and I'm going to call my
+current variable i here, just like we did before. Now at this point, you might say, Willie, you did it wrong. You did it wrong. That's not the right voltage label, but I want to show you that I'm going to get the same answer, even though I did it this unusual way, so let's do the same KVL
+analysis on this circuit, and what I want to show you, is that the arithmetic
+that we're about to do takes care of the science just fine. All right, so KVL on this circuit says that we'll start at the same place, and go around the same direction, so this says they're three volts, a voltage rise of three volts, we go in the minus sign,
+and out the positive sign, so that's a voltage rise. Now we get over to R1, and we
+go in the minus sign of R1, and out the plus sign, so that's plus V1, that's different than
+we had last time, right? Last time we had minus V1 here, see, and now we have plus V1. This is going to work out okay though. Now we go in the plus sign of V2, and we come out the minus sign, so that's a voltage drop,
+so we do a subtraction, and that equals zero. All right, we've got different equations, but we've got different definitions of V1, so now I want to write these V terms in terms of the resistance value, and the current value, and this is where we use the
+sign convention carefully, so now we need to include
+a term to represent R1, to use Ohm's law here. Now we have to be careful, this is one point we have to be careful, the current is going in the
+negative terminal of R1, so we're going to say VR1 equals negative i, times R1. Does that make sense? If we define our current variable to be going in the negative sign, then Ohm's law picks
+up this negative sign, to make it come out right, so down here, we plug in minus iR1, which is minus i times 10, that's a difference, and then we go through V2, and V2 is the same as it
+was in the other equation, minus V2 is i times R2, which is 20, and that all equals zero. Even right now, if you
+look at this equation, you see this minus sign,
+that snuck in here, because of our good use
+of the sign convention for passive componets. That makes this equation look just like this one here, so let's continue with the analysis. Just need a little bit more room, three volts minus i times 10 plus 20, equals zero. Now we have the same equation as before, so we're going to get the same i, i equals, three goes to the other side, and becomes minus three, 10 plus 20 is 30, with the minus sign. It goes over, same as before, so those came out the same, so now let's go check the voltages, see if we can compute the same voltages, and what he have to notice here, is our reference direction, the original reference
+direction we have for V generated a minus sign
+when we used Ohm's law, so we keep doing that, it's okay, so V1, equals minus iR1, equals minus .1 amps times 10, and that equals minus one volt, and V2 equals i times R2, which is equal to .1 times 20 ohms, and that equals plus two volts, and now the difference, we see the difference here. Here is the difference that showed up. V1 in this circuit has the
+positive voltage at the top, it came out with a value of plus one volt, and when we flipped over V1, negative one volt here, means that this terminal of the resistor, is one volt below this
+terminal of the resistor, and that means exactly the
+same thing in this case, as it does in this case, so these two things mean the same thing, and of course, the voltage on
+number two came out the same, so the purpose of the demonstration was just to show you, that no matter which way
+you name the voltages, somewhere in here, like right here, Kirchhoff's voltage law will take care of keeping the sign right, and you end up with the
+same answer at the end, so when you're faced with the problem of labeling a circuit like this, don't stress out about
+trying to guess ahead, what the sign of the voltage
+is going to turn out. You just need to pick an orientation, and go with it, and the arithmetic will take care of the positive signs,
+and the negative signs.

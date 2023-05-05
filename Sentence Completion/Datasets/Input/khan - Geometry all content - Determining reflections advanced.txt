@@ -1,0 +1,53 @@
+- [Voiceover] We're asked to
+use the "Reflection" tool to define a reflection that
+will map line segment ME, line segment ME, onto the
+other line segment below. So we want to map ME to
+this segment over here and we want to use a Reflection. Let's see what they expect from us if we want to add a Reflection. So if I click on this it says Reflection over the line from, and then we have two coordinate pairs. So they want us to define
+the line that we're going to reflect over with
+two points on that line. So let's see if we can do that. To do that I think I need
+to write something down so let me get my scratch pad out and I copied and pasted the same diagram. And the line of reflection,
+one way to think about it, we want to map point E,
+we want to map point E, to this point right over here. We want to map point M to this point over here. And so between any point
+and its corresponding point on the image after the reflection, these should be equidistant
+from the line of reflection. This and this should
+be equidistant from the line of reflection. This and this should be E,
+and this point should be equidistant from the line of reflection. Or another way of thinking about
+it, that line of reflection should contain the midpoint
+between these two magenta points and it should contain the
+midpoint between these two deep navy blue points. So let's just calculate the midpoints. So we could do that with a
+little bit of mathematics. The coordinates for E
+right over here, that is, let's see that is x equals negative four, y is equal to negative four, and the coordinates for the
+corresponding point to E in the image. This is x is equal to
+two, x is equal to two, and y is equal to negative six. So what's the midpoint between negative four, negative four, and two, comma, negative six? Well you just have to take
+the average of the x's and take the average of the y's. Let me do that, actually
+I'll do it over here. So if I take the average
+of the x's it's going to be negative four, negative four, plus two, plus two, over two, that's the average of the x's. And then the average of
+the y's, it's going to be negative four plus negative six over two. Negative four plus negative six, over two and then close the parentheses. Let's see, negative four
+plus two is negative two, divided by two is negative one. So it's going to be negative one, comma. Negative four plus negative six, that's the same thing as
+negative four minus six which is going to be negative 10. Divided by two is negative five. Let me do that in a blue color so you see where it came from. Is going to be negative five. So there you have it. That's going to be the midpoint between E and the corresponding point on its image. So let's see if I can plot that. So this is going to be, this point right over here is going to be negative one, comma, negative five. So x is negative one, y is negative five. So it's this point right over here and it does indeed look like the midpoint. It looks like it's
+equidistant between and E and this point right over here. And so this should sit on
+the line of reflection. So now let's find the midpoint
+between M and this point right over here. The coordinates of M
+are x is negative five, and y is equal to three. The coordinates here
+are x is equal to seven and y is equal to negative one. So the midpoint, the x
+coordinate of the midpoint, is going to be the
+average of the x's here. So let's see it's going
+to be negative five plus seven over two. And the y coordinate of the
+midpoint is going to be the average of the y coordinates. So three plus negative one over two. Let's see, negative five of plus seven is positive two, over two is one. Three minus one, three plus negative one, that's positive two over two is one. So the point one, comma, one
+is a midpoint between these two so one, comma, one, just like that. So the line of reflection
+is going to contain these two points. And two points define a line. Let me draw the line of reflection, just 'cause we did all of this work, the line of reflection is
+going to look something like, I want to draw this a little
+bit straighter than that, it's going to look something like this. And this makes sense that
+this is a line of reflection. I missed that magenta point a little bit, so let me go through the magenta point. Okay, there you go. This makes sense that this
+is a line of reflection 'cause you see that you
+pick an arbitrary point on segment ME, say that point, and if you reflected over this line. This is the shortest
+distance from the line. You just go onto the other
+side of the line equal distant and you get to its corresponding point on the image. So it makes a lot of sense
+that these are mirror images if this is kind of the mirror here. And you can image that this
+is kind of the surface of the water, if you're
+looking at it at an angle. I don't know if that helps you or not. But anyway we found two points. We found two points that
+define that line of reflection so now let's use the tool to type them in. One is negative one, negative five. The other is one, comma, one so let me see if I can remember that. I have a bad memory. So one is negative one,
+comma, negative five. And then the other one is one, comma, one. And we see it worked. We see it worked. When I did that, it actually
+made the reflection happen and notice it completely
+went from this point and now our blue is over the
+image that we wanted to get to. So we are done.

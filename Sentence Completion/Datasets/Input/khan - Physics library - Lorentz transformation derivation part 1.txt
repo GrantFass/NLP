@@ -1,0 +1,102 @@
+- [Voiceover] So in all of our
+videos on special relativity so far, we've had this
+little thought experiment, where I'm floating in space,
+and right at time equals zero, a friend passes by in her spaceship. She's traveling in the
+positive x direction, velocity is equal to v,
+and we draw space-time diagrams for both of us. First, I draw my space-time
+diagram in white, and then I overlay her space-time diagram. And the angle that is formed between the time axes and the position
+axes, right over there, that's going to be dictated by how fast v is, how fast
+she is actually traveling. And we give the space-time diagram from her frame of reference, we
+see with the little primes right over there. Now, one thing that you might
+have been thinking about throughout this entire series, is well, if I perceive her traveling
+with a velocity of v in the positive x direction,
+if we took her point of view, and that's what I have right over here. If she views herself as
+just floating in space, what she will see me as
+right at time equals zero, actually I'd say right at
+t prime is equal to zero. We're saying that t prime and
+t equals zero are coinciding. Right at that moment,
+she will see me fly by at negative v, going in
+the negative x direction. Once again, there is no
+absolute frame of reference. These frames of reference
+are all absolute... I'm sorry, these frames of
+reference are all relative. And so you could imagine
+what it would look like, 'cause if we drew her
+space-time diagram where her ct prime axis and x
+prime axes that they are perpendicular to each other
+and then based on that, my space-time diagram
+would be at an angle. It's at an angle like this. You can kind of see the positive ct axis is in the second quadrant here because I'm traveling with the
+velocity of negative v, but these angles are going to be the same. This is going to be alpha
+and that is going to be, let me write this, is going to be alpha
+and this is going to be, and this right over here
+is going to be alpha. Now what I want to do in this video is use this symmetry, use these two ideas to give us a derivation of
+the Lorentz Transformation or the Lorentz Transformations. And the way we might
+start, and this is actually a reasonable way that the
+Lorentz Transformations were stumbled upon, is to say, all right, we could start with
+the Galilean Transformation, where we could say, all right, the Galilean Transformation
+would be x prime is equal to, is going to be equal to x minus v times t. V times t. Now we already know that if you just use the Galilean Transformation, then the speed of light
+would not be absolute, it would not be the same in
+every frame of reference. And so we had to let go of the constraints that time and space are absolute, and so there's going to be some
+type of scaling factor involved. And so we can call that
+scaling factor, gamma. So, we could say all
+right, let's just postulate that x prime, if we assume the
+speed of light is absolute, is going to be some scaling
+factor, gamma times x minus vt. Well, you could make the same
+argument the other way around. If you view it from
+her frame of reference, and you're trying to translate
+it to my coordinates, you could say, well, x,
+instead of just using the Galilean Transformation that
+x is going to be equal to, x is going to be equal to x prime, and now instead of a v, we
+have a negative v, right? So if you subtract a negative v, in fact, let me just write it that way. X minus negative v times t prime, that would be the Galilean Transformation, but whatever scaling factor we used here, there's a symmetry here. I shouldn't have to use a
+different scaling factor if I assume a different, kind of, if I'm in a different frame of reference. So, if we assume the absoluteness
+of the speed of light, we're going to have some
+other scaling factor just like that or we
+could rewrite this as x, let me do that same color, we could rewrite it as x is equal to this scaling factor. I'm really having trouble
+changing colors today. It's gonna be equal to that scaling factor times x prime, subtract the negative plus vt prime. And if you ignore the scaling
+factor right over here, this is the Galilean Transformation from the primed frame of reference to the non-primed frame of reference. So an interesting thing is
+what is this scaling factor? How do we figure out what that scaling factor is going to be? And so we can do a little bit
+of interesting algebra here. What we could do is, Actually, let me just
+write what I just wrote, let me write it right below here. So we could say that x... Once again changing colors is difficult. We could write that x is
+equal to our scaling factor, gamma times x prime, times x prime plus vt prime. And now what I'm going to
+do in order to have myself an equation that involves all
+of the interesting variables, I'm gonna multiply both
+sides of this equation by, one way to think about
+it, I'm going to multiply both sides of this top equation by x. So if I multiply the left-hand side by x, I'm going to have x times x prime, x times x prime. And then the right-hand
+side of the equation, I could multiply by x,
+but x is the same thing. I'm saying it's the same thing as gamma times all of this business. So, I'm just going to
+multiply the left-hand sides of the equation and I'm
+going to multiply the right-hand sides of the equation. So if I multiply the right-hand
+sides of the equation, I am going to get gamma squared times, and I'm gonna have a big expression here, and so just really applying the
+distributive property twice, x times x prime, x times x prime, and then x times positive vt, so, that prime doesn't look like a prime, x times x prime plus x times positive vt plus x times, actually
+positive vt prime I should say, gotta be careful here. X times positive vt prime and then I have negative vt times x prime. So it's gonna be negative vt times x prime, times x prime. And then finally, I'll
+have negative vt times positive vt prime. So that's going to be, I could
+write that as a negative. Let's write that as vt squared, I'm sorry, negative v squared. And actually, let me
+delete this parentheses. I don't wanna force myself
+to squeeze for no reason. So I'm gonna have negative v times v, so that's negative v squared times t, times t prime. Times t prime. And now let me place my parentheses. So how can I use all
+of this craziness here to actually solve for gamma? And here we're going to go back to one of the fundamental postulates, one of the assumptions
+of special relativity and that's the speed of light is absolute. You're going to measure it to be the same in any frame of reference. And to think about that,
+let's imagine an event that is connected with the
+origin with a light beam. So let's say right at time
+and t prime is equal to zero, I were to shoot my flashlight and let's say it hits something at some point. We look at some event right over there and they're connected by a
+light beam, by photons. So let me connect them. So let me connect them. And so if you say, and once again this could be me turning on my flashlight and the photon at some future, at some forward distance
+and some forward time, it could just be at some position or maybe it hits something, it
+triggers some type of reaction. Who know what it does, but
+we're going to talk about this event right over there. That event in my frame of reference, its coordinates are going to be x and ct. And since we know the
+speed of light is absolute and the way that we've
+set up these diagrams, any path of light is always
+going to be at a 45 degree or a negative 45 degree angle, we know that x is going to be equal to ct. X is going to be equal to
+ct for this particular case. I could draw it on this
+diagram as well, if I'd like. Just to show that I can,
+so let me draw that. So it would look like this. It would look like this and we would once again have x equaling ct. How would you read that? Well, to get the x coordinate, you go parallel to the ct axis. So that would be the x
+coordinate on this diagram. And then the ct coordinate,
+you go parallel to the x axis. So, just like that. But, once again, x is
+going to be equal to ct, and, similarly, because the speed of light is going to be absolute
+in any frame of reference, if we look at x prime, x
+prime is going to be the same, is going to need to be
+equal to ct prime, ct prime. If we look at over here, x prime is going to be equal to ct prime. Once again, because
+light, this is going to be at a 45 degree angle. So x prime is equal to ct prime. They're connected by light events. So if you take your change in x divided by your change of time is going
+to be the speed of light. So what we can do is use this information, for this particular event, if gamma's going to be true
+for all transformations, it definitely should be true
+for this particular event. I can use this information
+to substitute back in and then solve for gamma. And that's exactly what I'm
+gonna do in the next video, although, I encourage
+you to try it on your own before you watch the next video.

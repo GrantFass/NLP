@@ -1,0 +1,52 @@
+- [Voiceover] So, right
+over here, we have the graph of the function y is equal
+to x to the 3/2 power. And what I wanna do is find
+the arc length of this curve, from when x equals zero
+to when x is equal to-- and I'm gonna pick a strange number here, and I picked this strange number 'cause it makes the numbers
+work out very well-- to x is equal to 32/9. 32/9 is, let's see... That's three and 5/9, so
+it's gonna be right around... So that's three and 1/2, so
+it's gonna be a little bit past three and 1/2, so it's
+gonna be right over there. So we wanna find this arc
+length right over here, this thing that I have depicted in yellow. So it's from zero to 32/9. And I encourage you to pause the video and try this out on your own. So I'm assuming you've had a go at it. And if at any point while
+I'm working through it, you feel inspired, always
+feel free to pause the video and continue working with it. So let's just apply the arc length formula that we got kind of a conceptual proof for in the previous video. So we know that the arc length... Let me write this. The arc length is going to be
+equal to the definite integral from zero to 32/9 of the square root... Actually, let me just write
+it in general terms first, so that you can kinda see the
+formula and then how we apply it. So, it's the square root of one
+plus f-prime of x squared d x. And in this case, it's going
+to be the definite integral from zero to 32/9 of the
+square root of one plus... Now, what's the derivative? If f of x is x to the 3/2,
+then f-prime of x is going to be 3/2 x to the 1/2. And we picked this particular function because it simplifies
+quite well when we put it under the radical, and
+it's fairly straightforward to find the anti-derivative. So we've done a lot of
+engineering of this problem to make the numbers work out well, but let's just go through it. So this is f-prime of x;
+f-prime of x squared is going to be this quantity squared. It's going to be 9/4 x
+to the 1/2 squared is x. So, one plus 9/4 x d x. And so, now, we just
+have a definite integral that we know how to
+solve this type of thing. And you might be able to
+even do this in your head, essentially, do the u-substitution: say I have one plus 9/4 x. Its derivative is 9/4. I can kind of engineer that if I want, but instead, I'm just going to
+do straight up u-substitution. So, if I say u is equal to one plus 9/4 x, then we know... Let's see. D u d x is going to be equal to 9/4. Or, we could say d u is equal to 9/4 d x. Or, we could say d x... Let me scroll down a little bit. We could say d x is equal to... I'm just gonna multiply
+both sides times 4/9. Let's go to 4/9 d u. And then we just have to change
+the bounds of integration. When x is equal to zero, then
+u is going to be equal to... 9/4 times zero is just zero, so u is going to be equal to one. And when x is equal to 32/9-- and this is why that number was picked-- what's u going to be equal to? 32/9 times 9/4 is gonna be 32/4, which is going to be eight plus one. So that worked out very
+nicely; imagine that. So there we have it. So, this is going to be equal
+to the definite integral... Actually, let me make
+it clear that this is what is equal to this. The definite integral
+from u is equal to one, to u is equal to 9-- I'm gonna make it very
+explicit that I'm dealing with u now-- of the square root of u. And instead of d x, we
+have d x is 4/9 d u. Let me do it this way: the square root... Whoops, that's not the right color. Square root of u; instead of
+d x, we have times 4/9 d u. And I'm just gonna take the
+4/9 and stick it out here. And we know how to apply the fundamental, or, I guess, the second fundamental
+theorem of calculus here, to evaluate this definite integral. This is going to be 4/9
+times the anti-derivative of the square root of u,
+which is the same thing as u to the 1/2. It's going to be u to the
+3/2, and then we divide by 3/2, which is the same
+thing as multiplying by 2/3. We're going to evaluate
+that at u equals nine and u is equal to one. And so, we're in the home stretch here. This is going to be equal
+to 4/9 times 2/3 times 9 to the 3/2 minus 2/3 times one to the 3/2. So, 9 to the 3/2, that is... Let's see: the square
+root of nine is three, to the third power is 27. And this, of course, is one. So we are left with 2/3 of... Actually, let's just factor out the 2/3, that makes it easier. This is going to be equal to
+2/3 times 4/9 is equal to 8/27. I've just factored out the 2/3. And then we're gonna have 27 minus one inside, I guess you could
+say the brackets now. So 27 minus one is just going to be 26. Times 26. And we could obviously
+simplify this more if we want. Eight times 26 is... So, actually, let's just
+figure that out, just for fun. So, eight times 26 is going to be 160 plus eight times six
+is 48, so it's 208 over 27. And we are done.

@@ -1,0 +1,106 @@
+- [Voiceover] So we've just
+computed a vector-valued partial derivative of a
+vector-valued function, but the question is What does this mean? What does this jumble
+of symbols actually mean in a more intuitive geometric setting? And that has everything to do with how you visualize the function, and with this specific function, given that the input is two-dimensional but the output is three-dimensional, meaning the output has more
+dimensions than the input, it's nice to visualize it
+as a parametric surface. And the way that I do that, maybe you could call this visualizing it as a transformation also 'cause what I want to do is
+basically think of the TS plane, think of the TS plane where all these input values live and kind of think of how that's gonna map into three-dimensional space, but when I do that, I'm actually
+gonna cheat a little bit. Rather than having a
+separate plane off there as the TS plane, I'm
+going to kind of overwrite onto the XY plane itself and plop the TS plane down like this, and this isn't the full TS plane. This is actually supposed to represent just values of T that range
+from zero up to three, so each tick mark on the graph
+here corresponds with a half. So this is one, that's two,
+and then up here is three. Same with S. S also ranges from zero to three, and the reason that I'm plopping it inside three-dimensional
+space to start with, kind of overwriting the XY
+plane with the TS plane, is just to make the animating
+a little bit easier. You could call it laziness. But the benefit here is what we can do is watch each point, and
+each one of these points you're thinking of is corresponding
+to some kind of TS pair, an input point, which is
+just a pair of numbers, and we're gonna watch
+each one of those points move to the corresponding output. The output is a three-dimensional value, a three-dimensional vector or point, however you wanna think about it, and what that looks like when
+we animate this actually is each one of those points
+in our square of TS plane moves to the corresponding output, and you end up with a certain surface. And just to make it a
+little more concrete, what's actually going on here, let's focus in on just one point, and we'll focus in on this point not just for the function visualization but for the partial derivative as well, and the function, or the point rather, that I care about is gonna be at one, one. So this point right here represents the pair of TS where each one of them is equal to one. One, one. And you can start by
+predicting where you think this is gonna get output, and to do that, you just
+plug it into the function. This is kind of what
+the visualization means as we're plugging this in, and for T and S, we're gonna
+plug in just one and one. So that top part is gonna
+look like one squared minus one squared, which becomes zero. That middle part is gonna be
+one times one, which is one, and then over here we're gonna
+have one times one squared, which is one minus one
+times one times one squared, which is, again, one. And you can probably see,
+'cause of the symmetry there, those also cancel out, you get zero, which means the output
+corresponding with this input should be the vector zero, one, zero, a vector that's of unit length
+pointing in the Y direction. So if we look here, this is the X axis. This here is the Y axis. So you would think it should be a vector that looks kind of like this. Unit vector in the Y direction, and the point of the
+surface is what corresponds to the tip of that vector. This is how we visualize
+parametric things. You just think of the tip of the vector as kinda moving through space
+and drawing out the thing. In this case, the thing
+it's drawing is a surface. So if we watch that animation again and we let things play forward, that dot corresponding
+with the input one, one does indeed land at
+the tip of that vector. So, at least for that value, you can see that I'm not lying
+to you with the animation. And in principle, you could do
+that for every single point. If any given input point, you
+plug it through the function, and you draw the vector in
+three-dimensional space, as you watch this animation, it'll land at the tip of that vector. So... Now, if we want to start thinking about what the partial derivative means, remember this little DT, this partial T, is telling you to nudge
+it in the T direction. So what does movement, not even nudges but just
+movement in general, look like in the T direction
+for our little snippet of the TS plane here? Well, the T direction, I'm saying is in this direction here where this represents one,
+two, three of T values, and this line here represents
+the constant value for S, so this would be S
+constantly equaling one, which you can know because
+it's passing through the point one, one. And then otherwise you're
+just letting T range freely. And if we watch how this gets transformed under the transformation, under the mapping to
+the parametric surface, you can get a feel for
+what varying the input T does in the output space. So this whole pink line
+is basically telling you what happens if you let
+S constantly equal one but you let the variable T,
+the input T, vary freely, and you get a certain curve
+in three-dimensional space. And if you had a different constant for S, it would be another curve, and maybe you can kinda
+see on the grid lines what shape those other curves would have, and they're all, in a sense, parallelish to this curve corresponding
+to S equals one. So if, instead of thinking
+about movement of T as whole, you start thinking about nudges, this whole partial T is something where we're just imagining a tiny, tiny, little
+movement in the T direction. Not really that much,
+just a tiny, little move. It's like you're recording
+its value as partial T, so maybe, if you're being concrete, you'd say partial T would
+be something like 0.01. And really it's gonna
+be a limiting variable that gets smaller and smaller, but I find it's kind
+of nice to think about an actual value like one one-hundredth. And then if you let this whole thing undergo the transformation and we kind of watch the input point, watch the line representing T, that little nudge, that little nudge is gonna get maybe stretched or squished, and it's gonna result
+in some kind of vector pointing along that curve, and it'll be tangent to that curve. The vector that tells you how you move just a tiny, tiny little bit will be tangent in some way, and that vector, that output nudge, is what you're thinking
+of as your tiny change to the output vector, that partial V. And when you divide it by the tiny value, if your tiny value was 0.01
+and you divide it by that, it's gonna become something bigger, so the actual derivative isn't gonna be just some tiny, little nudge that's hardly, hardly visible, but it's gonna be that nudge
+vector scaled appropriately. In this case, it would be
+divided by one one-hundredth and multiplied by 100, and it would be something that
+remains tangent to the curve, but maybe it's pointing big. And the larger it is, the longer it is, that's telling you that as you let T vary and you're kind of moving
+along this pink curve, tiny nudges in T correspond
+with larger movements. The ratio of the nudge size is bigger. So if you were to have a very
+long partial derivative vector that's still tangent but
+really goes out there, that would tell you that as you vary T you're zipping along super quickly. And if we just look at this particular one that's zooming off of one, you kind of get a feel for
+the curve around that point. You say, "Okay, okay." And that curve, you're moving
+positively in the X direction. You're moving to the right. You're moving positively
+in the Z direction. Not Z, sorry, the Y. Positively in the Y direction up there. And the Z direction is
+actually negative, isn't it? This curve kind of goes down
+as far as Z is concerned. So before even computing it, if I were to tell you
+that I'm gonna plug in the value one, one to
+this partial derivative that we computed in the last video, you would say, "Oh, well,
+just looking at the picture, "you can kind of tell that the X value "is gonna be something positive, something greater than zero." The Y value is also gonna
+be something positive, and, again, that's because
+the movement is to the right, so positive X. It's moving up, so positive Y, but the Z value should actually
+be a little bit negative because as you look at this curve, it's going down in a sense. And with that being our prediction, if you start plugging
+in one, one to T and S, what you'll see is that
+two times one is two, S equals one, so that's just one, and then over here this
+looks like one squared minus two times one times one, so this will be one minus two. That's negative one, so
+it is in fact that kind of positive, positive, negative
+pattern that you were seeing. And maybe even from this curve, you can get a feel for why the
+movement in the X direction is twice as much in the movement in the Y. It's moving more to the right than it is up in the Y direction. Then, again, in principle
+you can imagine doing this not just at the point one,
+one but at any given point, maybe any given point along this curve or any given point along the surface. And the corresponding movement, the direction that nudges
+in the T direction, will give you some vector
+in three-dimensional space, and that's the interpretation. That is the meaning of
+the partial derivative of the vector-valued function here. And, again, it's not the
+actual nudge vector itself, when you nudge the input and you get just a little
+smidgen in the output space here, but it's that divided by
+the size of the nudge, so that's why you'll get
+kind of normal-sized vectors rather than tiny vectors. And in the next video, I'll
+do kind of the same thing for what happens when you
+nudge in the S direction just to get a better
+feel for what's going on in this example.

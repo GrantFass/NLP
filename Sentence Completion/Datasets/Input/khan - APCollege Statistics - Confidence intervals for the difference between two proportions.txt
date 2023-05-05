@@ -1,0 +1,68 @@
+- [Instructor] Let's review calculating confidence intervals for proportions. So let's say I have a population, and I care about some proportion. Let's say I care about the proportion of folks that are left-handed. I don't know what that is, and so I take a sample of size n, and then from that sample, I can calculate a sample proportion. That's why I put that
+little hat on top of it. It's a sample proportion that's estimating our true proportion. Now I wanna construct
+a confidence interval, but before I go down the path, I need to actually set up
+my conditions for inference, make sure that I meet them. And we've done this many times. So the first condition for inference is the random condition. I need to feel good that
+this is truly a random sample from the population. The second one is often known
+as the normal condition, and that's the condition that hey, in order to feel like
+the sampling distribution for the sample proportions
+is roughly normal, n times our sample proportion should be greater than or equal to 10 and n times one minus
+our sample proportion should be greater than or equal to 10. We've seen that multiple times before. And then the third one is
+the independence condition, and there's two ways to meet this. Either the individual
+observations in our sample should be done with replacement or if it's not done with replacement, we can feel pretty confident about this if our sample size is no more than 10% of the size of the entire population. But let's say that we meet
+these conditions for inference, what do we do? Well we come up, we set
+up a confidence level, confidence level, for our confidence interval
+that we're about to construct. And let's say we said it
+was a 95% confidence level. That would mean that 95% of the time that we went through this exercise, the confidence interval that we get would actually overlap with the
+true population proportion. And 95% is actually a fairly typical one. But from that confidence level, you can calculate a critical value. And the way that you do that, you just look up in a z-table, and once again all of this is review. You would say hey how
+many standard deviations above and below the mean
+of a normal distribution would you need to go in order to get say 95%, that confidence
+level of the distribution. And now we're ready to calculate
+the confidence interval, confidence interval. It is going to be equal to our sample proportion plus or minus our critical value, our critical value, times the standard deviation of the sampling distribution of the sample proportion. Now there is a way to
+calculate this exactly if we knew what p is. If we knew what p is, this would be the square root
+of p times one minus p over n. But if we knew what p is, then we wouldn't even
+have to do this business of constructing confidence intervals. So instead, we estimate this. We say look, an estimate
+of the standard deviation of the sampling distribution, often known as the standard error, an estimate of this is going to be the square root of, instead of the true population parameter, we could use the sample proportion. So p hat times one minus p hat, all of that over n. Now the whole reason why I did this, this is covered in much
+more detail and much slower in other videos, is to see the parallels
+between this and a situation when we're constructing a
+two-sample confidence interval or z-interval for a difference
+between proportions. What am I talking about? Well let's say that you have
+two different populations. So this is the first population, and it has some true
+proportion of the folks that let's say are left-handed, and then there's another population. So let's call that p two. You know maybe this is freshmen in your high school or college and maybe this is sophomores, so two different populations, and you wanna see if
+there's a difference between the proportion that are left-handed, say. And so what you could do, just like we've done here, is for each of these populations, you'll take a sample here,
+we'll call that n one, and then from that sample you calculate a sample proportion,
+let's call that p one. And then from this second population, we do the same thing. This is n two. Notice n one and n two do not have to be the same sample size. That's a common misconception
+when doing these things. These could be different sample sizes. And then from that sample, you calculate the sample proportion. Now after you do that, you would wanna check your
+conditions for inference. And it turns out that the
+conditions for inference would be exactly the same. Do both of these samples
+meet the random condition? Do both of these samples
+meet the normal condition? And do both of these samples meet the independence condition? And if both samples meet these
+conditions for inference, then we would have to
+calculate our critical value. And you would do it the exact same way. I'll just write it down again. So first, you need to check all of these. Then you would take your confidence level, confidence level, and from that get a critical z. And then you're ready to
+say what your confidence interval's going to be. So your confidence, confidence interval, interval for p one minus p two, so it's
+the confidence interval for the difference between these true population proportions. That is going to be
+equal to the difference between your sample proportions, so p hat one minus p hat two, p hat two, plus or minus, plus or minus your critical
+value right over here times the standard deviation of the sampling distribution
+of the difference between the sample proportions. So it would be p hat one minus p hat two. And so we already know
+how to calculate this, how to calculate this,
+how to calculate this. How do we calculate that? Well I will just give
+you the formula first, but then we just have to appreciate that this just comes outta the properties of standard deviations and variances that we have studied in the past. So the standard deviation of the sampling distribution of the difference between
+the sample proportions, it is a mouthful, this is going to be
+approximately equal to, approximately equal to the square root of p hat one times one minus p hat one over n one, over n one, plus, plus, p hat two times one minus p hat two over n two. And then you put that there. You have constructed
+your confidence interval. And once again how would
+you interpret that? Well let's say your
+confidence level is 90%, and from that you're able to construct this confidence interval. That would mean that 90% of the time that you go through this exercise, your confidence interval would overlap with the true difference between these population parameters, the true difference between
+these population proportions. Now where did this thing come from? Well you might notice
+some similarities here. This part over here is an estimate or it's
+approximately equal to the variance of the sampling distribution of the sample proportion
+for our first population. And then this right over here once again is approximately
+going to be equal to the variance of the
+sampling distribution for the sample proportions
+for this population, for p two. How did I know that? Well look if this is approximately
+the standard deviation, you square that, you
+approximately get the variance. And so the big takeaway is, is that the variance for
+the sampling distribution of the difference is just the sum of the variances of each of
+those sampling distributions. That's a lotta big mouthful and I know it can get confusing, but
+hopefully that makes sense. And that's where this formula comes from, and so it's really not
+that much more to remember. In the next few videos we're
+gonna do many more examples, both looking at these conditions and calculating confidence
+intervals and critical values.

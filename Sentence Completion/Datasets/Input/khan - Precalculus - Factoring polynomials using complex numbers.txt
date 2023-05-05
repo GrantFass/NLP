@@ -1,0 +1,21 @@
+- [Instructor] We're told that Amat tried to write x to the fourth
+plus 5x squared plus 4 as a product of linear factors. This is his work. And then they'd tell us all
+of the steps that he did. And then they say, in what step did Amat make his first mistake? So pause this video and see
+if you can figure that out. All right, now let's work
+through this together. So we're starting with x to
+the fourth plus 10x squared plus 9. And it looks like Amat
+tried to factor that into x squared plus 9
+times x squared plus 1. And this indeed does make sense, because if we said that let's say, u is equal to x squared, we could rewrite this right over here as u squared plus 10u plus 9. The whole reason why you would do this is so that you could write
+this higher order expression in terms of a second degree expression. And then we've learned
+how to factor things like this many times. We look, we say, okay, what two numbers when I add them I get 10, and when I multiply them I get nine, and it would be nine and one? And so you could write this as u plus 9 times u plus 1. And of course, if u is equal to x squared, this would be x squared plus
+9 times x squared plus 1. Which is exactly what
+Amat has right over here. So step one is looking great. All right, now let's think
+about what Amat did in step two. They didn't do anything
+to x squared plus 9 but it looks like they tried to further factor x squared plus 1. And this does seem right. We just have to remind ourselves just as you have a difference of squares if you're dealing with
+non-complex numbers, so we could rewrite this right over here as x plus a times x minus a. We could have a sum of squares if we're thinking about complex numbers. This is going to be x
+plus ai times x minus ai. And in this situation while the x is x and then our a would be one. So we're going to have x plus i, x plus i times x minus i . So step two is looking great. And now let's go do step three. So in step three, no change to this part of the expression. And it looks like Amat is trying to factor x squared plus 9
+based on the same principle. Now x squared plus 9 is the same thing as x squared plus 3 squared. So if you use this exact same idea here, if you factored it should be
+x plus 3i times x minus 3i. But what we see over here is Amat took the square root of three, instead of just having a three here. Amat treated it instead
+of having a nine here as if we actually had a three so they made a little
+bit of an error there. So this is the step where
+Amat makes his first mistake and we're done.

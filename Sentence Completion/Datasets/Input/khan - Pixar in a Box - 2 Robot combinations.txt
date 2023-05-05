@@ -1,0 +1,14 @@
+- In the previous video and
+exercise, we saw how a table is a great way to keep track
+of a lot of different kinds of robots, where each robot
+is made up of one head and one body. Let's call each of those
+different robots a combination. You experience combinations all the time. For instance, when you
+wake up in the morning and you pick out a top
+and some bottoms to wear, that's a combination. Notice that since each cell
+in the table corresponds to a different combination,
+we just need to count the number of cells, but we
+don't have to count one by one. That's because the number
+of cells in a table is just the number of rows
+times the number of columns. So, with two heads and three bodies, we have two times three or
+six different combinations. And, with three heads and four bodies, we have three times four or
+12 different combinations. The next exercise will give you a chance to practice with other combinations.

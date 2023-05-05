@@ -1,0 +1,56 @@
+- [Instructor] In this
+video we're gonna study geometric series, and to
+understand that I'm gonna construct a little bit of a table to understand how our money could grow if
+we keep depositing, let's say, $1,000 a year in a bank account. So, let's say this is the year, and we're gonna think
+about how much we have at the beginning of the year, and then this is the
+dollars in our account. And let's say that the bank
+is always willing to give us 5% per year, which is pretty good. It's very hard to find a bank account that will actually give
+you 5% growth per year. So that means if you put
+$100 in at the end of a year, or exactly a year later it'd be $105. If you put $1,000 in, a
+year later, it'd be 1,050. It'd be 5% larger. And so, let's say that we want
+to put $1,000 in per year, and I want to think about, well, what is going to be my balance at the beginning of year one,
+at the beginning of year two, at the beginning of
+year three, and then see if we can come up with
+a general expression for the beginning of year n. So, year one, right at
+the beginning of the year, I put in $1,000 in the account. That's pretty straightforward. But then what happens in year two? I'm going to deposit $1,000,
+but then that original $1,000 that I have would have grown. So, I'm going to deposit $1,000, and then the original $1,000 that I put at the beginning of year one,
+that has now grown by 5%. Growing by 5% is the same
+thing as multiplying by 1.05. So, this is now going to be plus $1,000 times 1.05. Fairly straightforward. Now, what about the
+beginning of year three? How much would I have in the bank account right when I've made that
+first, that year three deposit? Pause this video. See if you can figure that out. Well, just like at the
+beginning of year two and the beginning of year one, we're going to make $1,000 deposit, but now the money from
+year two has grown by 5%, so this is now going to
+be $1,000 times 1.05. And then that money that
+we originally deposited from year one, that was
+1,000 times 1.05 in year two, that's going to grow by another 5%. And so, this is going to be plus 1,000 times 1.05 times 1.05. We're growing by another 5%. Well, we could just rewrite this part right over here as 1.05 squared. So, do you see a general pattern that's going to happen here? Well, as you go to year n, in
+fact, pause the video again, see if you can write a general expression. You're gonna have to do a little bit of this dot, dot, dot
+action in order to do it. But see if you could write a
+general expression for year n. Well, for year n, you're going
+to make that original $1,000 at the beginning of year n,
+and then you're going to have 1,000, 1,000, times 1.05 for that $1,000 that you deposit at the beginning of year n minus one. And then this is just going to keep going, and it's going to go all
+the way to plus $1,000 to times 1.05 to the power of the number of years
+you've been compounding. So, you could do this $1,000 as the one that you put in year one, and then how many years has it compounded? Well, when you go from one to two, you've compounded one year. When you go from one to three,
+you've compounded two years. So, when we're talking about
+the beginning of year n, you go up to the exponent
+that is one less than that. And so, this is going to be
+to the n minus one power. So, what we just did here
+is we've just constructed each one of these when we're saying, okay, how much money do we
+have in our bank account at the beginning of year three? Or how much do we have in our bank account at the beginning of year n? These are geometric series, and I will write that word down. Geo, geometric series. Now, just as a little bit of a review, or it might not be review,
+it might be a primer, series are related to sequences, and you can really view
+series as sums of sequences. Sequences, and let me go down a little bit so that you can, so we have
+a little bit more space, a sequence is an ordered list of numbers. A sequence might be something like, well, let's say we have
+a geometric sequence, and a geometric sequence, each successive term is the previous term
+times a fixed number. So, let's say we start at two, and every time we multiply by three. So, we'll go from two,
+two times three is six, six times three is 18,
+18 times three is 54. This is a geometric sequence,
+ordered list of numbers. Now, if we want to think
+about the geometric series, or the one that's analogous to this, is that we would sum the terms here. So, this would be two
+plus six plus 18 plus 54. Or we could even write it,
+and this would look similar to what we had just done with
+our little savings example is this is two plus two times three, plus two times three squared, plus two times three to the third power. And so, with the geometric series, you're going to have a sum
+where each successive term in the expression is equal to,
+if you put 'em all in order, is going to be equal to the term before it times a fixed amount. So, the second term is equal
+to the first term times three, and we're summing them in a sequence. You're just looking at it. It's an ordered list, so to speak, but here you are actually
+adding up the ordered list. So, what we just saw
+in this example is one, what a geometric series is, but also, a famous example of how it's useful, and this is just scratching the surface. If you were to go further
+in finance or in business, you'll actually see geometric series popping up all over the place.

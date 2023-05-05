@@ -1,0 +1,173 @@
+Let's do a little bit of
+probability with playing cards. And for the sake of
+this video, we're going to assume that our
+deck has no jokers in it. You could do the same
+problems with the joker, you'll just get slightly
+different numbers. So with that out of
+the way, let's first just think about
+how many cards we have in a standard playing deck. So you have four
+suits, and the suits are the spades, the diamonds,
+the clubs, and the hearts. You have four suits and
+then in each of those suits you have 13 different
+types of cards-- and sometimes it's
+called the rank. You have the ace, then you have
+the two, the three, the four, the five, the six,
+seven, eight, nine, ten, and then you have the Jack,
+the King, and the Queen. And that is 13 cards. So for each suit
+you can have any of these-- you can
+have any of the suits. So you could have a Jack of
+diamonds, a Jack of clubs, a Jack of spades,
+or a Jack of hearts. So if you just multiply
+these two things-- you could take a deck of playing
+cards, take out the jokers and count them-- but
+if you just multiply this you have four suits, each
+of those suits have 13 types. So you're going to
+have 4 times 13 cards, or you're going to have 52 cards
+in a standard playing deck. Another way you could
+have said, look, there's 13 of these
+ranks, or types, and each of those come in four
+different suits-- 13 times 4. Once again, you would
+have gotten 52 cards. Now, with that of
+the way, let's think about the probabilities
+of different events. So let's say I
+shuffle that deck. I shuffle it really,
+really well and then I randomly pick a
+card from that deck. And I want to think about
+what is the probability that I pick a Jack. Well, how many equally
+likely events are there? Well, I could pick any
+one of those 52 cards. So there's 52 possibilities
+for when I pick that card. And how many of those 52
+possibilities are Jacks? Well you have the Jack of
+spades, the Jack of diamonds, the Jack of clubs, and
+the Jack of hearts. There's four Jacks in that deck. So it is 4 over 52-- these
+are both divisible by 4-- 4 divided by 4 is 1, 52
+divided by 4 is 13. Now, let's think
+about the probability. So I'll start over. I'm going to put that
+Jack back and I'm going to reshuffle the deck. So once again, I
+still have 52 cards. So what's the probability
+that I get a hearts? What's the probability
+that I just randomly pick a card from a shuffled
+deck and it is a heart? Well, once again,
+there's 52 possible cards I could pick from. 52 possible, equally likely
+events that we're dealing with. And how many of those
+have our hearts? Well, essentially 13
+of them are hearts. For each of those suits
+you have 13 types. So there are 13
+hearts in that deck. There are 13 diamonds
+in that deck. There are 13 spades
+in that deck. There are 13 clubs in that deck. So 13 of the 52 would result
+in hearts, and both of these are divisible by 13. This is the same thing as 1/4. One in four times
+I will pick it out, or I have a one in four
+probability of getting a hearts when I randomly pick a card
+from that shuffled deck. Now, let's do something that's
+a little bit more interesting, or maybe it's a little obvious. What's the probability
+that I pick something that is a Jack-- I'll just
+write J-- and it is a hearts? Well, if you are reasonably
+familiar with cards you'll know that
+there's actually only one card that is
+both a Jack and a heart. It is literally
+the Jack of hearts. So we're saying, what
+is the probability that we pick the exact
+card, the Jack of hearts? Well, there's only
+one event, one card, that meets this criteria
+right over here, and there's 52 possible cards. So there's a one
+in 52 chance that I pick the Jack of hearts--
+something that is both a Jack and it's a heart. Now, let's do something a
+little bit more interesting. What is the
+probability-- you might want to pause this and think
+about this a little bit before I give you the answer. What is the probability
+of-- so I once again, I have a deck of 52
+cards, I shuffled it, randomly pick a card from that
+deck-- what is the probability that that card that I pick from
+that deck is a Jack or a heart? So it could be the
+Jack of hearts, or it could be the
+Jack of diamonds, or it could be the
+Jack of spades, or it could be the
+Queen of hearts, or it could be
+the two of hearts. So what is the
+probability of this? And this is a little bit
+more of an interesting thing, because we know, first
+of all, that there are 52 possibilities. But how many of
+those possibilities meet these conditions that
+it is a Jack or a heart. And to understand that,
+I'll draw a Venn diagram. Sounds kind of fancy,
+but nothing fancy here. So imagine that this
+rectangle I'm drawing here represents all of the outcomes. So if you want, you could
+imagine it has an area of 52. So this is 52 possible outcomes. Now, how many of those
+outcomes result in a Jack? So we already learned, one out
+of 13 of those outcomes result in a Jack. So I could draw a
+little circle here, where that area-- and I'm
+approximating-- represents the probability of a Jack. So it should be
+roughly 1/13, or 4/52, of this area right over here. So I'll just draw it like this. So this right over here is
+the probability of a Jack. There's four possible
+cards out of the 52. So that is 4/52,
+or one out of 13. Now, what's the probability
+of getting a hearts? Well, I'll draw another
+little circle here that represents that. 13 out of 52 cards
+represent a heart. And actually, one of those
+represents both a heart and a Jack. So I'm actually going
+to overlap them, and hopefully this will
+make sense in a second. So there's actually 13
+cards that are a heart. So this is the number of hearts. And actually, let me write this
+top thing that way as well. It makes it a little bit
+clearer that we're actually looking at the number of Jacks. And of course,
+this overlap right here is the number of Jacks
+and hearts-- the number of items out of this 52 that
+are both a Jack and a heart-- it is in both sets here. It is in this green circle and
+it is in this orange circle. So this right over here--
+let me do that in yellow since I did that problem in
+yellow-- this right over here is a number of Jacks and hearts. So let me draw a
+little arrow there. It's getting a little
+cluttered, maybe I should draw a little
+bit bigger number. And that's an
+overlap over there. So what is the probability
+of getting a Jack or a heart? So if you think about
+it, the probability is going to be the
+number of events that meet these conditions,
+over the total number events. We already know the total
+number of events are 52. But how many meet
+these conditions? So it's going to be the
+number-- you could say, well, look at the green
+circle right there says the number that gives us a Jack,
+and the orange circle tells us the number that
+gives us a heart. So you might want to say,
+well, why don't we add up the green and the
+orange, but if you did that, you would
+be double counting, Because if you add
+it up-- if you just did four plus 13--
+what are we saying? We're saying that
+there are four Jacks and we're saying that
+there are 13 hearts. But in both of these, when we
+do it this way, in both cases we are counting
+the Jack of hearts. We're putting the
+Jack of hearts here and we're putting the
+Jack of hearts here. So we're counting
+the Jack of hearts twice, even though there's
+only one card there. So you would have to subtract
+out where they're common. You would have to
+subtract out the item that is both a Jack and a heart. So you would subtract out a 1. Another way to
+think about it is, you really want to figure
+out the total area here. And let me zoom in-- and I'll
+generalize it a little bit. So if you have one
+circle like that, and then you have another
+overlapping circle like that, and you wanted to figure
+out the total area of both of these circles
+combined, you would look at the area of this circle. And then you could add it
+to the area of this circle. But when you do that, you'll
+see that when you add the two areas, you're counting
+this area twice. So in order to only
+count that area once, you have to subtract
+that area from the sum. So if this area has
+A, this area is B, and the intersection
+where they overlap is C, the combined area is
+going to be A plus B-- -- minus where they
+overlap-- minus C. So that's the same
+thing over here, we're counting all
+the Jacks, and that includes the Jack of hearts. We're counting all
+the hearts, and that includes the Jack of hearts. So we counted the
+Jack of hearts twice, so we have to subtract
+1 out of that. This is going to be
+4 plus 13 minus 1, or this is going to be 16/52. And both of these things
+are divisible by 4. So this is going to be the
+same thing as, divide 16 by 4, you get 4. 52 divided by 4 is 13. So there's a 4/13 chance that
+you'd get a Jack or a hearts.

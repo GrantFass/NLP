@@ -1,0 +1,63 @@
+Voiceover: Teams A, B, and C are playing a game of strength. Each team has attached
+a rope to a metal ring and is trying to pull the
+ring into their own area. Team areas shown below. Let's see what that's ... We see that over here team A is pulling on the ring in that direction. Team B is pulling on the
+ring in that direction. Team C is pulling on the
+ring in that direction. They're each trying to get the ring into their respective areas, it's a three-way tug of war. They tell us team A pulls
+with a force vector a of four times a unit vector i plus zero j. This is four times, there's
+no vertical component here so it's going straight in the positive, I guess you can say x direction and we can see it right over there. A is going straight in
+the positive x direction so just a multiple of the unit vector i. Team B pulls with force
+vector negative two i plus four j, so it's to the left and up. We see that negative two i plus four j then we have team C
+pulls with a force vector negative three i minus three j. Let's see, negative three i minus three j. Yup that seems consistent
+with the diagram. Forces are given in
+kilo newtons, all right. Which team will win the game? Think about which team will win the game if you think about which one is pulling with the most magnitude
+in their directions. Let me get my little scratch pad out and let's think about the magnitudes of each of these vectors. Let's first think about
+the magnitude of vector a, what is that going to be? Well, it's four times the unit vector i, so it's just going to
+have a magnitude of four. The unit vector i has a magnitude of one so it's magnitude is just four times that, it's magnitude is equal to four. Let's put the units there,
+it's four kilo newtons. What about the magnitude of vector b? We can use a Pythagorean theorem. It's negative two i plus four j so the magnitude squared is going to be negative two squared plus four squared which is really just coming
+out of the Pythagorean theorem. The magnitude of vector b is going to be equal to the square root of
+negative two squared plus four or one way to think about this
+is the Pythagorean theorem or the distance formula between the origin and that point right over there. Plus four squared, that's four plus 16 is the square root of 20. Let's see, this is
+definitely greater than four. Four squared is just 16, this is some place between four and five. Let's see, team C, the
+magnitude of vector c same logic is going to be the square
+root of negative three squared plus negative three squared
+which is equal to ... Let's see this is square root
+of 18, right nine plus nine. Square root of 18. Square root of 20 is clearly larger than square root of 18. We already said that square
+root of 20 is larger than four. Team B is going to win. Which team will win the game? Team B, and we can even, let's
+just fill it out on our ... Team B is going to win the game. Now the next thing they ask us is what is the magnitude of
+the teams combined forces acting on the ring? To figure that out we can just
+add up all of these vectors. The combined force, so let's write this. The force, let's say force
+combined, this is a vector it's going to be the sum of
+vectors a plus vector b plus c which is going to be equal
+to four i plus zero j, minus two i plus four j,
+minus three i minus three j. Now we can just add up the
+i's and add up the j's. We have four i minus two i minus three i, so four of something minus two you're going to have two left. Then you subtract another three you're going to have negative one of that, so that's going to be equal to negative, I could write negative
+one i or just negative i and then we have zero j
+plus four j minus three j so that's was zero plus four minus three is just going to be one j. Or you can say just plus j. That's the resulting vector
+here is negative i plus j. It might look something like this. Negative i plus a j, gets us
+a vector that looks like that. Let me actually draw it
+a little bit bigger here. If I were to draw our coordinate axis that's my y-axis, this is my x-axis. It's negative one times i, so
+let's say it looks like that that's negative i. That's negative i right over there. Negative i, let me write that that is negative i plus j. Plus the j unit vector which
+might look something like this both of them have a magnitude of one, so that is the j unit vector. The sum of those two
+is our combined force. Our combined force is going to
+be going into this direction. Hence this is its magnitude. The length of it is this
+magnitude, combined force and that goes in line with we're going to be going in that direction which takes us to the zone of B. They ask us what is the magnitude of the teams' combined force? Well the magnitude of this side is one, it's a unit vector where it's
+going to the left direction. The magnitude of this side is one so the magnitude of this side we just use a Pythagorean theorem, it's a square root of one
+squared plus one squared which is just the square root of two. The magnitude here, what is the magnitude of
+the teams combined forces is square root of two. In what direction is
+the ring getting pulled? Actually let me just fill out what they've already
+asked us so we can ... What is the magnitude of
+the teams' combined force acting on the ring? Round to the nearest tenth. Let's just write square root of two. Square root of two is equal to and round to the nearest
+tenth 1.4 kilo newtons. In what direction is
+the ring getting pulled and they want this is in radians. Round it to the nearest tenth, your answer should be between
+zero and two pi radians. That, go back to our diagram, we need to figure out what
+this angle is right over here. We need to figure out what
+that angle is in radians and we know that this whole thing if we went from the positive x-axis all the way to the negative
+x-axis that is pi radians. We also know what this
+angle right over here is. How do we know that? Well, I've just constructed a ... Notice this is a right angle and this is an isosceles triangle, isosceles right triangle. It's going to be a 45, 45, 90 triangle but if you're thinking in terms of radians 45 degrees is pi over four. This is pi over four, pi over four, pi over two triangle. Same thing as 45, 45, 90. If this whole purple angle is pi and this is pi over four, you just subtract the
+pi over four from the pi to get what theta is. Theta is going to be equal to ... Pi is the same thing as four pi over four minus pi over four. I just did that to get
+a common denominator which is equal to three pi over four. Three pi over four radians. Let's go back over here. Now they want us to round
+it to the nearest tenth, so let's take three
+times pi divided by ... Just to make sure you can
+see what I'm doing here so three times pi divided by four is equal to 2.356, round
+it to the nearest tenth would be 2.4 radians. Approximately 2.4 radians
+and we got it right.

@@ -1,0 +1,30 @@
+- [Instructor] The distribution
+of resting pulse rates of all students at Santa Maria High School was approximately normal with
+mean of 80 beats per minute and standard deviation
+of nine beats per minute. The school nurse plans
+to provide additional screening to students
+whose resting pulse rates are in the top 30% of the
+students who were tested. What is the minimum resting
+pulse rate at that school for students who will
+receive additional screening? Round to the nearest whole number. If you feel like you
+know how to tackle this, I encourage you to pause this
+video and try to work it out. All right, now let's
+work this out together. They're telling us that the distribution of resting pulse rates
+are approximately normal. So we could use a normal distribution. And they tell us several things about this normal distribution. They tell us that the mean
+is 80 beats per minute. So that is the mean right over there. And they tell us that
+the standard deviation is nine beats per minute. So on this normal distribution, we have one standard
+deviation above the mean, two standard deviations above the mean, so this distance right over here is nine. So this would be 89. This one right over here would be 98. And you could also go standard
+deviations below the mean, this right over here would
+be 71, this would be 62, but what we're concerned
+about is the top 30% because that is who is going to be tested. So there's gonna be some
+value here, some threshold. Let's say it is right over here, that if you are at that score, you have reached the minimum threshold to get an additional screening. You are in the top 30%. So that means that this
+area right over here is going to be 30% or 0.3. So what we can do, we can use a z-table to say for what z-score is 70% of the distribution less than that. And then we can take that z-score and use the mean and
+the standard deviation to come up with an actual value. In previous examples, we
+started with the z-score and were looking for the percentage. This time we're looking
+for the percentage. We want it to be at least 70% and then come up with the
+corresponding z-score. So let's see, immediately
+when we look at this, and we are to the right of the mean, and so we're gonna have
+a positive z-score. So we're starting at 50% here. We definitely want to
+get to the 67%, 68, 69, we're getting close and on our table this is the lowest z-score that gets us across that 70% threshold. It's at 0.7019. So it definitely crosses the threshold. And so that is a z-score of 0.53. 0.52 is too little. So we need a z-score of 0.53. Let's write that down. 0.53, right over there, and we just now have to figure out what value gives us a z-score of 0.53. Well, this just means 0.53 standard deviations above the mean. So to get the value, we would take our mean and we would add 0.53 standard deviation. So 0.53 times nine. And this will get us 0.53 times nine is equal to 4.77 plus 80 is equal to 84.77. 84.77 and they want us to round to the nearest whole number. So we will just round
+to 85 beats per minute. So that's the threshold. If you have that resting heartbeat, then the school nurse is going to give you some additional screening. You are in the top 30% of
+students who are tested.

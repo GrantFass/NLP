@@ -1,0 +1,28 @@
+I have a piecewise defined function here,
+and my goal is to figure out its domain and its range. So first let's think about the
+domain. And just a bit overview, the domain is
+the set of all inputs for which our function is defined. 
+And over here, an input variable is x, so to think about, it's the set of all
+the values that x can take on, and actually have this function be defined,
+and actually figure out what f of x is. And when we look at this, we see, okay, if 0 is
+less than x is less than or equal to 2. We're in this clause, it's x crosses 2 and it is greater than 2.
+We follow this clause As we approach 6 but right when we get
+to 6, we fall into this clause right over here, all the way up to and including 11. 
+But if we get larger than 11, the function is no longer defined. I don't know which of
+these to use. And if we're 0 or less, the function is
+longer defined as well. So in order for this to be defined, x has
+to be greater than 0 or if we say 0 is less than x, and you see that part right over there.
+And x has to be less than or equal to 11. and x has to be less then or equal to 11. It's defined for everything in between. 
+As we, as we see, once again, as we get to 2, we're here.
+As we cross 2, between 2 and 6, we're here, and at 6, from 6 to 11 we're over here. So we're defined for all real
+numbers in this interval. So our domain is -- actually let me write this all, all real values, are all real all real values. maybe -- Let me write that way.  All real value such
+that, such that, 0 is less than x, is less than
+or equal to 11. So now think about the range.
+Let's think about the range of this piecewise
+defined function. And that's a set of all values that this
+function can actually take on. and this one is, is maybe deceptively
+simple because there're only three values that this function can take on. You can take on, f of x can be equal to
+1. It can be equal to 5, or it could be equal to negative 7. So the range here, we could say that f of x needs to be a member of, 
+this is just a fancy mathy symbol, just to say this is a member of the set 1, 5, negative 7. f of x is going to take, is going to take on one of these three
+values. Another way to say it is that f of x is going to be equal 1, 5 or negative 7. This is maybe a little less -- a little -- a less a less mathy way, a less precise way of saying the same thing. But one way
+or another, f of x can only take on one over these three values.

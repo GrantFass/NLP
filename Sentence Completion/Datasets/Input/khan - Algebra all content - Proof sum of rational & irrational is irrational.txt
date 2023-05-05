@@ -1,0 +1,45 @@
+So I'm curious as
+to what happens if I were to take
+a rational number and I were to add it to
+an irrational number. Is the resulting number going
+to be rational or irrational? Well, to think about
+this, let's just assume it's going to be
+rational and then see if this leads to any
+form of contradiction. So let's assume
+that this is going to give us a rational number. So let's say that this
+first rational number we can represent as the ratio
+of two integers, a and b. Let's call this irrational
+number, let's just call this x. And their sum gives us
+another rational number. Well, let's express
+that as the ratio of two other integers, m and n. So we're saying that a/b
+plus x is equal to m/n. Well, another way of
+thinking about it-- we could subtract
+a/b from both sides and we would get our
+irrational number x is equal to m/n
+minus a/b, which is the same thing as n
+times b in the denominator. And then let's see. m/n is the same
+thing as mb over nb. So this would be mb. I'm just adding
+these two fractions. mb minus-- Let's see. a/b is the same thing
+as n times a over n times b. So minus n times a. All I did is I added
+these two fractions. I found a common denominator. So to make it clear, I
+multiplied this one b and b, and then I multiplied
+this one n and n then I just added these two things,
+and I got this expression right over here. So this denominator
+is clearly an integer. I have the product
+of two integers. That's going to be an integer. That's going to be an integer. And then this numerator,
+mb, is an integer. na is an integer. The difference of two integers. This whole thing is
+going to be an integer. So it looks like, assuming
+that the sum is rational, that all of a sudden we
+have this contradiction. We assumed that x is irrational,
+we're assuming x is irrational, but, all of a sudden, because
+we made that assumption, we're able to assume
+that we can represent it as this ratio of two integers. So this tells us that
+x must be rational. And that is the contradiction. That is a very large
+contradiction right over there. The assumption was
+that x is irrational. Now we got that x
+must be rational. So, therefore, this
+cannot be the case. A rational plus an
+irrational must-- so this is not right--
+a rational plus an irrational must
+be irrational. Let me write that down. So a rational plus an
+irrational must be irrational.

@@ -1,0 +1,114 @@
+In this video, we're
+going to show you how to wire our sound
+module to our Bitsy bot and how to attach it. The first thing we're going to
+do is disconnect our speaker. We need the speaker
+wires to be longer and we want to feed them through
+the small hole from the top so that we can put the
+speaker on the bottom. So we've fed the wires through. They're about six inches long. And we're just soldering
+them now to the speaker. So these are the new wires. And they're 22 gauge
+solid core copper wires. We're taping them down so that
+we get a good solder joint and so the wire
+doesn't move around. And we're just
+getting that solder to flow over the wire there. So now we're going
+to take and we're going to put down a hot glue
+blob about the size of a dime. And we'll use that hot glue blob
+to hold the speaker in place. And the speaker's magnet
+back causes the metal back causes the hot glue to dry fast. And then we're just going to
+tape down our speaker wires so they don't move around on the
+back side of the craft there. And now we're working
+on our record button. And there's two metal pads
+that we can solder wires to. And they're nice, big, fat
+pads, so it's easy to solder to. And that'll allow us to move the
+record switch to the Arduino. So now we're stripping
+the wires here. These are the power wires. I'm sorry, these are the
+wires for the speaker. So we're going to use
+our shrink wrap tubing and we're feeding these
+over the wires that are coming from the speaker. And we soldered those
+wires just a little bit so it'll make it
+easier to connect. And we're feeding the shrink
+wrap tubing down over that so that once we make the
+connection we can insulate it. So now we're just a holding
+the two wires together with our alligator clip
+and we're soldering them with our soldering iron. And once again, these
+are the speaker wires. So we're going to connect the
+other side the same way, just using the soldering iron. And once we have the
+two wires connected, we'll slide the shrink wrap
+tubing up over the solder joint and that will help
+to protect the wires and prevent them from
+shorting against one another. And so once we have both
+the shrink wrap pieces up, we'll use our shrink wrap
+gun to shrink the shrink wrap and seal the wires,
+protect them. So now we're going to remove
+the power wire connector and strip the power wires. And we are going to
+connect the stranded, it's about a 32 gauge wire, to
+our 22 gauge solid core copper wire, which is hookup wire. And we're doing that
+because it's easier to connect to our five volt
+power distribution board that we installed
+in an earlier video. You can see that board
+underneath our sound module there. So we're just twisting the wire
+around our solid core copper and we're running our
+solderer around it. We're sliding the heat
+shrink tubing over the new joints in the
+wires to prevent them from shorting
+against one another. Now we're just going to
+heat shrink those wires up using our heat shrink gun. And again, that'll provide
+us a insulated connection. All right, so we're going
+to pop off the Play button here-- this is the
+Play button-- so that we can get to the
+traces below the Play button. We're going to scrape off
+some of the lacquer leading into the button connection. And the reason for that is
+that the button connection wires are too
+small to solder to. But the traces are big enough
+that we can solder to those. So we're going to use
+our 22 gauge copper wire and we're going to just solder
+to both sides of the switch trace. And so that's the first side. And then we'll also
+solder to the second side. So it's really important that
+the wires are not moved around, because the joints that we're
+creating with the solder are very small
+and so there's not a lot holding the
+wires in place. So we'll go back and put some
+hot glue over those wires to make sure they stay in place. But first we're going
+to test everything to make sure that it works. So we'll hold our two
+record wires together to see if we can get
+to record and make a sound by snapping our fingers. [SNAPPING] And now we're going to
+press the Play button and cross our fingers
+and hope that it works. [SNAPPING] Yeah, it did. So that's great. So now we're going to put the
+hot glue over those two wires and that will help to
+maintain the wire's position and keep them from moving
+around and breaking free and destroying
+the joint there. It's about a dime sized blob of
+hot glue, about 1/8 of an inch thick. And we want to make
+sure we let it dry before we connect anything else. OK, so now we've
+place the sound card next to our five volt
+power distribution strip. And we're drilling a hole so
+that we can allow our record button to stick
+through the lexan, and that'll allow us to manually
+trigger the record button so that we can do testing
+if for some reason it's not being triggered
+by the Arduino. So we're just
+drilling this hole out with a quarter inch drill bit. And we're going to clean up
+the rough edges with our break off blade knife. So now we're putting down
+our about a quarter size blob of hot glue, about
+1/8 of an inch thick. And that will give us a place
+to connect our sound module to. We want to make sure we
+let that blob of hot glue cool for about 30 seconds
+before we connect it. And that will help to keep
+the glue from squishing out everywhere when we push
+our sound card down. Now we're going to
+take the hot glue and again put about
+a dime sized piece down so that we can push our
+record button through and hold it in place. It's important that
+that hot glue does not touch the actual button
+itself, otherwise it may not function properly. So time for a final test. [SNAPPING] Connecting our play wires. [SNAPPING] Great. It looks like it's
+going to work. So we're going to go ahead
+and connect our Arduino now to the layout. And we'll put that
+over the machine screws and then once we get the
+Arduino in the right location, we'll push it down. And we're just
+tightening the nut there with our needle nose pliers. OK, so now we're connecting our
+ground wire to the five volt distribution board that we
+made from our breadboard the other day. And we're going to connect
+the five volt positive wire to the positive five volts
+on the five volt distribution board as well. And that's going to give
+us power to our sound card. And in the upcoming
+videos, we'll show you how to wire the
+sound card to the Arduino to make it play.

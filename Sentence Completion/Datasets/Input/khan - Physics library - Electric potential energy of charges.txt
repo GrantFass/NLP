@@ -1,0 +1,175 @@
+- [Narrator] So here's something
+that used to confuse me. If you had two charges, and we'll keep these straight
+by giving them a name. We'll call this one Q1
+and I'll call this one Q2. If you've got these two charges
+sitting next to each other, and you let go of them,
+they're gonna fly apart because they repel each other. Like charges repel, so
+the Q2's gonna get pushed to the right, and the Q1's gonna get pushed to the left. They're gonna start
+gaining kinetic energy. They're gonna start speeding up. But if these charges are
+gaining kinetic energy, where is that energy coming from? I mean, if you believe in
+conservation of energy, this energy had to come from somewhere. So where is this energy coming from? What is the source of this kinetic energy? Well, the source is the
+electrical potential energy. We would say that
+electrical potential energy is turning into kinetic energy. So originally in this system, there was electrical potential energy, and then there was less
+electrical potential energy, but more kinetic energy. So as the electrical
+potential energy decreases, the kinetic energy increases. But the total energy in this system, this two-charge system,
+would remain the same. So this is where that
+kinetic energy's coming from. It's coming from the
+electrical potential energy. And the letter that
+physicists typically choose to represent potential energies is a u. So why u for potential energy? I don't know. Like PE would've made sense, too, because that's the first two letters of the words potential energy. But more often you see it like this. We'll put a little subscript e so that we know we're talking about electrical potential energy and not gravitational
+potential energy, say. So that's all fine and good. We've got potential energy
+turning into kinetic energy. Well, we know the formula
+for the kinetic energy of these charges. We can find the kinetic
+energy of these charges by taking one half the
+mass of one of the charges times the speed of one
+of those charges squared. What's the formula to find the
+electrical potential energy between these charges? So if you've got two or more charges sitting next to each other, Is there a nice formula to figure out how much electrical
+potential energy there is in that system? Well, the good news is, there is. There's a really nice formula that will let you figure this out. The bad news is, to derive
+it requires calculus. So I'm not gonna do the calculus
+derivation in this video. There's already a video on this. We'll put a link to that
+so you can find that. But in this video, I'm just
+gonna quote the result, show you how to use it, give you a tour so to
+speak of this formula. And the formula looks like this. So to find the electrical potential energy between two charges, we take
+K, the electric constant, multiplied by one of the charges, and then multiplied by the other charge, and then we divide by the distance between those two charges. We'll call that r. So this is the center to center distance. It would be from the center of one charge to the center of the other. That distance would be r,
+and we don't square it. So in a lot of these formulas, for instance Coulomb's law,
+the r is always squared. For electrical fields, the r is squared, but for potential energy,
+this r is not squared. Basically, to find this
+formula in this derivation, you do an integral. That integral turns the
+r squared into just an r on the bottom. So don't try to square this. It's just r this time. And that's it. That's the formula to find the electrical potential
+energy between two charges. And here's something
+that used to confuse me. I used to wonder, is this the
+electrical potential energy of that charge, Q1? Or is it the electrical potential
+energy of this charge, Q2? Well, the best way to think about this is that this is the
+electrical potential energy of the system of charges. So you need two of these charges to have potential energy at all. If you only had one, there
+would be no potential energy, so think of this potential
+energy as the potential energy that exists in this charge system. So since this is an
+electrical potential energy and all energy has units of
+joules if you're using SI units, this will also have units of joules. Something else that's important to know is that this electrical
+potential energy is a scalar. That is to say, it is not a vector. There's no direction of this energy. It's just a number with
+a unit that tells you how much potential
+energy is in that system. In other words, this is good news. When things are vectors, you have to break them into pieces. And potentially you've got
+component problems here, you got to figure out how much
+of that vector points right and how much points up. But that's not the case with
+electrical potential energy. There's no direction of this energy, so there will never be any
+components of this energy. It is simply just the
+electrical potential energy. So how do you use this formula? What do problems look like? Let's try a sample problem
+to give you some feel for how you might use this
+equation in a given problem. Okay, so for our sample problem, let's say we know the
+values of the charges. And let's say they start from rest, separated by a distance
+of three centimeters. And after you release them from rest, you let them fly to a
+distance 12 centimeters apart. And we need to know one more thing. We need to know the mass of each charge. So let's just say that
+each charge is one kilogram just to make the numbers come out nice. So the question we want to know is, how fast are these
+charges going to be moving once they've made it 12
+centimeters away from each other? So the blue one here, Q1, is
+gonna be speeding to the left. Q2's gonna be speeding to the right. How fast are they gonna be moving? And to figure this out, we're gonna use conservation of energy. For our energy system,
+we'll include both charges, and we'll say that if
+we've included everything in our system, then the total initial
+energy of our system is gonna equal the total
+final energy of our system. What kind of energy did
+our system have initially? Well, the system started
+from rest initially, so there was no kinetic
+energy to start with. There would've only been
+electric potential energy to start with. So just call that u initial. And then that's gonna have
+to equal the final energy once they're 12 centimeters apart. So the farther apart,
+they're gonna have less electrical potential energy
+but they're still gonna have some potential energy. So we'll call that u final. And now they're gonna be moving. So since these charges are moving, they're gonna have kinetic energy. So plus the kinetic energy of our system. So we'll use our formula for
+electrical potential energy and we'll get that the initial
+electrical potential energy is gonna be nine times 10 to the ninth since that's the electric constant K multiplied by the charge of Q1. That's gonna be four microcoulombs. A micro is 10 to the negative sixth. So you gotta turn that
+into regular coulombs. And then multiplied by Q2,
+which is two microcoulombs. So that'd be two times
+10 to the negative sixth divided by the distance. Well, this was the initial
+electrical potential energy so this would be the initial
+distance between them. That center to center distance
+was three centimeters, but I can't plug in three. This is in centimeters. If I want my units to be in joules, so that I get speeds in meters per second, I've got to convert this to meters, and three centimeters in
+meters is 0.03 meters. You divide by a hundred, because there's 100
+centimeters in one meter. And I don't square this. The r in the bottom of
+here is not squared, so you don't square that r. So that's gonna be equal to it's gonna be equal to another term that looks just like this. So I'm gonna copy and paste that. The only difference is
+that now this is the final electrical potential energy. Well, the K value is the same. The value of each charge is the same. The only thing that's different is that after they've flown apart, they're no longer three centimeters apart, they're 12 centimeters apart. So we'll plug in 0.12 meters, since 12 centimeters is .12 meters. And then we have to
+add the kinetic energy. So I'm just gonna call this k for now. The total kinetic energy of the system after they've reached 12 centimeters. Well, if you calculate these terms, if you multiply all this
+out on the left-hand side, you get 2.4 joules of initial
+electrical potential energy. And that's gonna equal, if you calculate all of this in this term, multiply the charges, divide by .12 and multiply by nine
+times 10 to the ninth, you get 0.6 joules of
+electrical potential energy after they're 12 centimeters apart plus the amount of kinetic
+energy in the system, so we can replace this
+kinetic energy of our system with the formula for kinetic energy, which is gonna be one half m-v squared. But here's the problem. Both of these charges are moving. So if we want to do this correctly, we're gonna have to take into account that both of these charges
+are gonna have kinetic energy, not just one of them. If I only put one half times
+one kilogram times v squared, I'd get the wrong answer because I would've neglected
+the fact that the other charge also had kinetic energy. So we could do one of two things. Since these masses are the same, they're gonna have the same speed, and that means we can write this mass here as two kilograms times
+the common speed squared or you could just write two
+terms, one for each charge. This is a little safer. I'm just gonna do that. Conceptually, it's a little
+easier to think about. Okay, so I solve this. 2.4 minus .6 is gonna be 1.8 joules, and that's gonna equal one
+half times one kilogram times the speed of that
+second particle squared plus one half times one
+kilogram times the speed of the first particle squared. And here's where we have
+to make that argument. Since these have the same mass, they're gonna be moving
+with the same speed. One half v squared plus one half v squared which is really just v squared, because a half of v squared
+plus a half of v squared is a whole of v squared. Now if you're clever, you
+might be like, "Wait a minute. "This charge, even though
+it had the same mass, "it had more charge than this charge did. "Isn't this charge gonna be moving faster "since it had more charge?" No, it's not. The force that these charges
+are gonna exert on each other are always the same, even if
+they have different charges. That's counter-intuitive, but it's true. Newton's third law tells
+us that has to be true. So if they exert the
+same force on each other over the same amount of distance, then they will do the same
+amount of work on each other. And if they have the same mass, that means they're gonna
+end with the same speed as each other. So they'll have the same speed,
+a common speed we'll call v. So now to solve for v, I just take a square root of each side
+and I get that the speed of each charge is gonna
+be the square root of 1.8. Technically I'd have to divide that joules by kilograms first, because
+even though this was a 1, to make the units come out right I'd have to have joule per kilogram. And if I take the square root,
+I get 1.3 meters per second. That's how fast these
+charges are gonna be moving after they've moved to the point where they're 12 centimeters
+away from each other. Conceptually, potential
+energy was turning into kinetic energy. So the final potential energy was less than the initial potential energy, and all that energy went
+into the kinetic energies of these charges. So we solved this problem. Let's switch it up. Let's say instead of starting
+these charges from rest three centimeters apart, let's say we start them from
+rest 12 centimeters apart but we make this Q2 negative. So now instead of being
+positive 2 microcoulombs, we're gonna make this
+negative 2 microcoulombs. And now that this charge is negative, it's attracted to the positive charge, and likewise this positive charge is attracted to the negative charge. So let's say we released these from rest 12 centimeters apart, and we allowed them to
+fly forward to each other until they're three centimeters apart. And we ask the same question, how fast are they gonna be going
+when they get to this point where they're three centimeters apart? Okay, so what would change
+in the math up here? Since they're still released from rest, we still start with no kinetic energy, so that doesn't change. But this time, they didn't
+start three centimeters apart. So instead of starting with
+three and ending with 12, they're gonna start 12 centimeters apart and end three centimeters apart. All right, so what else changes up here? The only other thing that
+changed was the sign of Q2. And you might think, I
+shouldn't plug in the signs of the charges in here, because that gets me mixed up. But that was for electric
+field and electric force. If these aren't vectors,
+you can plug in positives and negative signs. And you should. The easiest thing to do is just plug in those
+positives and negatives. And this equation will just tell you whether you end up with a
+positive potential energy or a negative potential energy. We don't like including
+this in the electric field and electric force formulas because those are vectors, and if they're vectors,
+we're gonna have to decide what direction they point and
+this negative can screw us up. But it's not gonna screw
+us up in this case. This negative is just gonna tell us whether we have positive potential energy or negative potential energy. There's no worry about
+breaking up a vector, because these are scalars. So long story short, we
+plug in the positive signs if it's a positive charge. We plug in the negative sign
+if it's a negative charge. This formula's smart
+enough to figure it out, since it's a scalar, we
+don't have to worry about breaking up any components. In other words, instead of two up here, we're gonna have negative
+two microcoulombs. And instead of positive
+two in this formula, we're gonna have negative
+two microcoulombs. So if we multiply out the left-hand side, it might not be surprising. All we're gonna get is negative 0.6 joules of initial potential energy. And this might worry you. You might be like, "Wait a minute, "we're starting with
+negative potential energy?" You might say, "That makes no sense. "How are we gonna get kinetic
+energy out of a system "that starts with less than
+zero potential energy?" So it seems kind of weird. How can I start with less than
+zero or zero potential energy and still get kinetic energy out? Well, it's just because this term, your final potential energy term, is gonna be even more negative. If I calculate this term, I end
+up with negative 2.4 joules. And then we add to that the
+kinetic energy of the system. So in other words, our system is still gaining kinetic energy because it's still
+losing potential energy. Just because you've got
+negative potential energy doesn't mean you can't
+have less potential energy than you started with. It's kind of like finances. Trust me, if you start
+with less than zero money, if you start in debt, that doesn't mean you can't spend money. You can still get a credit
+card and become more in debt. You can still get stuff,
+even if you have no money or less than zero money. It just means you're gonna
+go more and more in debt. And that's what this
+electric potential is doing. It's becoming more and more in debt so that it can finance an
+increase in kinetic energy. Not the best financial
+decision, but this is physics, so they don't care. All right, so we solve
+this for the kinetic energy of the system. We add 2.4 joules to both sides and we get positive 1.8
+joules on the left hand side equals We'll have two terms because
+they're both gonna be moving. We'll have the one half times one kilogram times the speed of one
+of the charges squared plus one half times one
+kilogram times the speed of the other charge squared, which again just gives us v squared. And if we solve this for v,
+we're gonna get the same value we got last time, 1.3 meters per second. So recapping the formula for
+the electrical potential energy between two charges is gonna be k Q1 Q2 over r. And since the energy is a scalar, you can plug in those negative signs to tell you if the potential
+energy is positive or negative. Since this is energy, you
+could use it in conservation of energy. And it's possible for systems to have negative electric potential energy, and those systems can still convert energy into kinetic energy. They would just have to make sure that their electric
+potential energy becomes even more negative.

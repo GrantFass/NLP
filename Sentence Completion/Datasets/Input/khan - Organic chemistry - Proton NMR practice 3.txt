@@ -1,0 +1,43 @@
+- [Voiceover] For this
+NMR, the molecular formula is C9H10O, let's go ahead and calculate the
+hydrogen deficiency index. So if we have nine carbons, the maximum number of
+hydrogens we can have, is two times nine plus two. And two times nine, plus two, is equal to 20, so for nine carbons, 20 hydrogens is the maximum number. Here we have only 10 hydrogens, so we are missing 10 hydrogens, or we're missing five pairs of hydrogens, therefore, the hydrogen deficiency index is equal to five. With an HDI of four or higher, you think benzene rings, so, I'm going to go ahead and draw
+a benzene ring in here because I'm pretty sure there's one in our molecule, and, if we look down here for this very complicated looking signal, it's really a bunch of overlapping signals from protons on the benzene ring, and I know that because
+we're in the aromatic proton region for our NMR. All right, so right in here. So I have five aromatic protons, let me go ahead and draw them in. So I put my five aromatic protons in slightly different environments, giving us overlapping signals, which give us this complicated
+looking one down here. All right, that takes
+care of an HDI of four, but we have an HDI of five, so we have one more thing, and it's, of course, going to be a double bond, and I know that because
+of this signal down here between nine and 10. Remember, a signal between nine and 10, that's the region for an aldehyde proton. So we have an aldehyde proton over here, so I draw in my carbonyl, and I draw in my hydrogen, and then this is another piece of the puzzle here. So this aldehyde is
+connected to something. All right, let's go to these
+other two signals down here, so this signal represents two protons, so I'm going to write a CH2 here. How many neighboring protons do we have for those two CH2 protons? Well, there's one, two, three peaks, so if there's three peaks, just subtract one to figure out how many neighboring protons you have. So three minus one, is equal to two. So this is a CH2 with two neighbors. It's the exact same thing for this signal, so this represents two protons, so this would be a CH2, and once again, we have three peaks, one, two, three. So three minus one is two, so this is a CH2 with two neighbors, and so these two CH2s must
+be right next to each other, so let me draw that out here. So if we have one CH2,
+next to another CH2, each of those CH2 protons
+have two neighbors, for example, if I think
+about these right here, right, how many neighboring protons? Well, this is the carbon next door, and I have two neighboring protons, so that makes sense when we look at the signal on the NMR. There's only one way to put together these different pieces of the puzzle, all right, so we would have to put a CH2 coming off this place on our benzene ring, and then another CH2, and then finally, our aldehyde, so I'll go ahead and draw in our aldehyde like that. So that must be the
+structure of our molecule. So a little bit about
+this aldehyde proton, let me go ahead and
+highlight it over here. So this aldehyde proton right here, or right here, we only see a singlet on the NMR spectrum, but
+it does have two neighbors, all right, so let me go ahead and draw in the neighboring proton. So they're on this carbon right here, so if we're thinking
+about the aldehyde proton, this is the carbon next door, and so we have two neighboring protons, and with two neighbors, you might think we
+would get some splitting for the signal for this
+aldehyde proton here, but we don't notice any on the NMR, and normally you don't see any splitting, because the coupling constant is usually very small, and so therefore, the signal, often it looks like it's a singlet, but sometimes, if you zoom in, you can
+observe some splitting for the aldehyde proton. For this NMR, we have a
+signal four two protons, so that must be a CH2, and how many neighboring protons? Well, for this signal we have four peaks, one, two, three, four, so four minus one is three, so three neighboring protons for these two CH2 protons. What about the chemical
+shift for this signal? So the chemical shift is getting close to four parts per million, and in that range, that
+makes us think about those protons being bonded to a carbon that's bonded to an electronegative atom. And if we look at our molecular formula, the only electronegative
+atom we see on here is oxygen, so that oxygen must be bonded to this carbon, so let's
+go ahead and draw that. So that oxygen is bonded to that carbon, and that carbon is
+bonded to two hydrogens, so that's what we have so far. So the oxygen is more electronegative than carbon, the oxygen is withdrawing some electron density
+from these two protons, giving us a higher value
+for the chemical shift. So this signal for these two protons in magenta, is right here. Next, let's look at this signal. So we have three protons, so a CH3, how many neighboring protons? Well, for our signal, we see, one, two, three peaks, so three minus one is two, so two neighboring protons. And so two neighboring protons must be the ones in magenta. So we can go ahead and put
+our methyl group on here, and let's use red for the methyl protons, so these three methyl protons are giving us this signal. We predicted two neighbors, and those neighboring protons, are the ones in magenta right here. So those are the two neighbors. For the ones in magenta, all right, we predicted three neighbors, and so that's one, two, and three. Finally, let's look at the last signal, so we only have one more proton to think about, there's only one place to put it, right, it
+must go on the oxygen. So this represents... This is the NMR spectrum
+for an alcohol, for ethanol. So this, this proton in blue, is this signal on the NMR spectrum. And the chemical shift is hard to predict for an alcoholic proton. Usually you see two to
+five parts per million, but it's really hard to predict exactly where this signal
+is going to appear. And also, let's think about how many neighboring protons
+this proton in blue has. All right, so the carbon next door has two neighbors, so you would think, you would expect two plus one peaks. If N is equal to two, two
+plus one gives us three, so we would expect a
+triplet for this signal, but we only see a singlet. And that's because this proton, this alcoholic proton, rapidly passes from one
+molecule to another, and this proton transfer is so fast, that the proton never
+stays in place long enough to interact with these
+neighboring protons, and so the NMR machine usually
+doesn't show any splitting. Under the right conditions, it is possible for splitting of the alcoholic proton to occur, and you might see a triplet here. But on most NMRs, you're only going to see a singlet, which is another clue on your NMR spectrum.

@@ -1,0 +1,15 @@
+(spring pinging)
+(ball bouncing) (lightbulb pinging) - We've seen that every display device can represent only a region of colors within the perceivable color space, and this region we call a gamut. But inside the computer, where colors are represented digitally,
+they're just numbers, and they can represent the
+entire perceivable color space. But when we send the film to a theater, we need to match the color space of the projector being used, and that's the job of the
+color grading process. It's to fill out the color space available within that projector and sort of constrain any colors that don't fit within that device gamut. And that's why I'm joined here by Mark Dinicola, our colorist. Hey Mark. - Hello again, Dom. - [Dom] So tell me about
+some of the different types of grades that you do for a movie. - [Mark] Well, we do the film grade; the digital cinema grade, that's for digital projectors in theaters; as well as grades for home viewing in both high definition and standard definition. - So film versus digital grading? What's that like? - [Mark] Well, as you
+mentioned color gamut, the film has a totally
+different color gamut than, say, digital cinema. Especially film, the
+brighter saturated colors aren't as available, so say on Cars 2, where we had McQueen, a
+bright saturated red car, we had an issue with the film grade. We had to decide, is it more important that he's bright and saturated, or is better to have proper contrast? - Wow, okay. Any other stories or
+challenges on films past? - Pretty much any film that has red. Inside Out was an interesting one. It was a very saturated film, with so many different colors, like Bing Bong is bright pink. He tends to go brown on film, so we had to carefully
+craft the grade for film for that movie to make
+sure he stayed pink. - So in the next exercise,
+you're gonna have a chance to explore what some of the
+different gamuts look like with some scenes from our movies, and we're gonna ask you a few questions to make sure you understand the concepts. Thanks for sticking with us. Enjoy!

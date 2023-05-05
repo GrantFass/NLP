@@ -1,0 +1,56 @@
+- [Instructor] What we're
+going to do in this video is explore the relationship
+between local linearity at a point and
+differentiability at a point. So local linearity is this
+idea that if we zoom in sufficiently on a point, that even a non-linear
+function that is differentiable at that point will actually look linear. So let me show some examples of that. So let's say we had y is equal to x squared. So that's that there, clearly
+a non-linear function. But we can zoom in on a point, and if we zoom sufficiently in, we will see that it looks roughly linear. So let's say we wanna zoom in
+on the point one comma one, so let's do that. So zooming in on the point one comma one, already it is looking
+roughly linear at that point. And this property of local linearity is very helpful when trying to approximate
+a function around a point. So for example, we could figure out, we could take the derivative
+at the point one one, use that as the slope of our tangent line, find the equation of the tangent line, and use that equation
+to approximate values of our function around x equals one. And you might not need to do that for y is equal to x squared, but it could actually be very very useful for a more complex function. But the big takeaway here, at the point one one, it is displaying this
+idea of local linearity, and it is also
+differentiable at that point. Now let's look at another example of a point on a function where we aren't differentiable, and we also don't see the local linearity. So for example, let's do the absolute value of x, and let me shift it over a little bit just so that we don't overlap as much. Alright, so the absolute
+value of x minus one. It actually is differentiable as long as we're not at
+this corner right over here, as long as we're not at
+the point one comma zero. For any other x value,
+it is differentiable, but right at x equals one, we've talked in other videos how we aren't differentiable there. And then we can use this
+local linearity idea to test it as well. And once again, this is
+not rigorous mathematics, but it is to give you an intuition. No matter how far we zoom in, we still see this sharp corner. It would be hard to construct
+the only tangent line, a unique line, that goes through
+this point one comma zero. I can construct an actual
+infinite number of lines that go through one comma zero but that do not go through
+the rest of the curve. And so notice, wherever you see a hard
+corner like we're seeing at one comma zero in this
+absolute value function, that's a pretty good indication that we are not going to be differentiable at that point. Now let's zoom out a little bit, and let's take another function. Let's take a function where the differentiability or the
+lack of differentiability is not because of a corner, but it's because as we zoom in, it starts to look linear, but it starts to look
+like a vertical line. So a good example of that would be square root of let's say four minus x squared. So that's the top half of
+a circle of radius two. And let's focus on the
+point two comma zero. Because right over there, we actually are not differentiable, and if we zoom in far enough, we see right at two comma zero that we are approaching what looks like a vertical line. So once again, we would not be differentiable
+at two comma zero. Now another thing I wanna point out, all of these, you really
+didn't have to zoom in too much to appreciate that hey I got a corner here on this absolute value function, or at two comma zero, or
+at negative two comma zero, something a little bit
+stranger than normal is happening there, so maybe
+I'm not differentiable. But there are some functions
+that we don't see as typically in a algebra or precalculus
+or calculus class, but it can look like a hard corner from a zoomed out perspective, but as we zoom in once again
+we'll see the local linearity, and they are also
+differentiable at those points. So a good example of that, let me actually get rid of some of these just so that we can really zoom in. Let's say y is equal to x to the, and I'm gonna make
+a very large exponent here, so x to the 10th power. It's starting to look at
+little bit like a corner there. Let's make it to the 100th power. Well now it's looking even
+more like a corner there. Let me go to the 1,000th
+power just for good measure. So at this scale, it looks like we have
+a corner at the point one comma zero. Now this curve actually
+does not go to the point one comma zero. If x is one, then y is going to be one, and we'll see that as we zoom in, this what looks like a hard corner is going to soften. And that's good because this function is actually differentiable
+at every value of x. It's a little bit more exotic that what we typically see, but as we zoom in,
+we'll actually see that. Let's just zoom in on what looks like a fairly hard corner, but if we zoom sufficiently enough, even at the part that
+looks like the hardest part of the corner, the real corner, we'll see
+that it starts to soften and it curves. And if we zoom in sufficiently, it will actually look like a line. It's hard to believe when
+you're really zoomed out, and I'm going at the point that
+really looked like a corner from a distance. But as we zoom on in, we see once again this local linearity that's a non-vertical line. And so once again, this is true
+at any point on this curve, that we are going to be differentiable. So the whole point here is, sometimes you might have to zoom in a lot, a tool like Desmos which
+I'm using right now is very helpful for doing that. And this isn't rigorous mathematics, but it's to give you an intuitive sense that if you zoom in sufficiently, and you start to see a
+curve looking more and more like a line, good indication that
+you are differentiable. If you keep zooming in and it still looks like a hard corner, of if you zoom in and it looks like the tangent might be vertical, well then some questions
+should arise in your brain.

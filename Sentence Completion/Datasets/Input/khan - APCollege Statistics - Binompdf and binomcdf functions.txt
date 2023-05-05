@@ -1,0 +1,39 @@
+- [Instructor] What we're
+going to do in this video is use a graphing calculator
+to answer some questions dealing with binomial random variables and this is useful because if
+you're taking the AP Stats, the Advanced Placement Statistics test, you are allowed to use
+a graphing calculator and so this could actually
+save you significant time. So it says here I have a 0.35 probability of making a free throw. What is the probability of making four out of seven free throws? Well this is a classic binomial
+random variable question. If we said the binomial random variable x is equal to number of made free throws from seven, I can say seven trials or seven shots, seven trials with the probability of success is equal to 0.35 for each free throw. So really this question amounts
+to what is the probability that my binomial random
+variable x is equal to four? Now what we're going to see is we can use a function on our TI-84, not named binomc, or binompdf, I should say, binompdf which is short for binomial probability
+distribution function, and what you're going to want to do here is use three arguments. So the first one is the number of trials. So in this case, it is seven, and if you're doing it on
+the free response section of the AP test, you
+should make it very clear that that right over there is your n, the graders will actually look for that to make sure that you're not
+just guessing what goes where. So you would say that is my n and then you would say
+your probability, 0.35, and once again if you're taking the test, you should mark that. That is your p. And then last but not least, what is the probability
+that a binomial variable when you're taking seven
+trials with a probability of success of each of them being 0.35 that you have exactly four successes. So now lets get our calculator out and actually do that. Alright, so now we have our
+graphing calculator out. So there's a couple of ways to input this. You could just type it in
+directly, that could take time. You could do second in this
+little blue distribution here. So there you have it. In order to get to the function, you could either scroll down or you could scroll up to
+get to the bottom of the list and you see it right over here, binompdf. You could do alphaA to
+go there really fast or you could just scroll
+up here, click enter, and then, you have the number of trials that you want to deal with. Well we're gonna take seven trials, the probability of success
+in each trial is 0.35, and then my x value, well I wanna find the probability that my binomial random
+variable is equal to four, four successes out of the trials. And now let me go to paste and this is actually
+going to type in exactly what we had before. Notice this is the exact same thing. So I have seven trials,
+p is equals to 0.35, and I wanna know the probability of having exactly four successes, and then I just click enter and I get, there you go, 0.14. So this is equal to approximately 0.14. Now based on the same
+binomial random variable, if we're then asked
+what is the probability of making less than five free throws? So we could say this is the probability that x is less than five or we could say this is the probability that x is less than or equal to four, and the reason why I write it this way is because using it this way you can now use the binomial cumulative distribution function on my calculator. So if I just type in binom, and once again, I'm
+gonna seven of binomcdf, I should say, cumulative
+distribution function and I'm gonna take seven trials and the probability of
+success in each trial is 0.35 and now when I type in four here, it doesn't mean what is the probability that I make exactly four free throws, it is the probability
+that I make zero, one, two, three, or four free throws. So all of the possible outcomes of my binomial random variable up to and including this value right over here. So let me get that, let me get my calculator back, so once again, I can go
+to second, distribution, I'll scroll up to go to
+the bottom of the list and here you see it, binomial cumulative distribution function. So let me go there, click enter. And once again, seven trials, my p is 0.35, and my x value is four, but now this is not going to
+be giving me the probability that my binomial random
+variable equals four, this is going to give me the probability that I get any value up
+to and including four. So this should be a higher probability. And there you have it,
+it is approximately 0.94. So this is approximately 0.94. So hopefully you found that helpful. These calculators can be very useful especially on something
+like an AP Stats exam.

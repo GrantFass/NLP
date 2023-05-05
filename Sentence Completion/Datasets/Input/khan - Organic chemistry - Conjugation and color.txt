@@ -1,0 +1,62 @@
+- [Voiceover] Most organic molecules don't have any color at all. An example of that would
+be ethene, or ethylene. Ethene has two carbons, and each of those carbons
+is sp2 hybridized. So, each of those carbons has a p orbital. We have a total of two p orbitals, or two atomic orbitals. Those two atomic orbitals
+are going to recombine to form two molecular orbitals. So, one bonding molecular orbital, and one antibonding molecular orbital. The bonding molecular orbital has a lower energy. This represents the bonding molecular orbital, down here. The antibonding molecular orbital is higher in energy, so this is the antibonding molecular orbital. Ethene has two pi electrons. Let me highlight those two pi
+electrons in magenta, here. Those two pi electrons go into the bonding molecular orbital. So, that orbital is occupied. We could also call this orbital the highest-occupied molecular
+orbital, or the HOMO. This would be the lowest, unoccupied molecular orbital, or the LUMO. There's a difference in energy between the HOMO and the LUMO. That difference in
+energy is very important because that difference in energy corresponds to a wavelength of light. Energy is equal to Planck's constant, times the speed of light,
+divided by the wavelength. So, energy ... Energy and wavelength are inversely proportional to each other. A certain amount of energy corresponds to a certain
+wavelength of light. This energy difference ... This energy difference between the HOMO and the LUMO, corresponds to a certain
+wavelength of light. That wavelength of light turns out to be approximately 171 nanometers. When ethene absorbs light, at a wavelength of 171 nanometers, that corresponds to the
+proper amount of energy between the HOMO and the LUMO. That's enough energy for
+one of those pi electrons to jump from the HOMO to the LUMO in a pi-to-pi star transition. We talked a lot about
+pi-to-pi star transitions in the first video, on
+UV/Vis spectroscopies. So, make sure to watch that video before you watch this one. That's the idea of what's
+happening with ethene. It absorbs light at a
+wavelength of 171 nanometers. Let's move on, to 1,3-Butadiene, which has four carbons. Each one of those carbons
+is sp2 hybridized. So, each one of those
+carbons has a p orbital. We have four p orbitals,
+four atomic orbitals, which would recombine to form four molecular orbitals, two bonding, and two antibonding. The two bonding molecular orbitals are lower in energy than the two antibonding molecular orbitas. We have a total of four pi
+electrons, four butadienes ... Here's two pi electrons,
+and here are the other two, so four pi electrons. Those pi electrons occupy the two bonding molecular orbitals. Next, our job is to find the highest-occupied molecular orbital ... That's this one ... And the lowest unoccupied
+molecular orbital. That's this one. The energy difference between the HOMO and the LUMO is what we're thinking about, here. Notice, that this energy difference ... This difference in energy is smaller than the difference in energy in the previous example. So, if you think about the equation that relates energy and wavelength ... If you decrease the energy ... Since they're inversely
+proportional to each other, you must increase the wavelength. So, we must have a higher
+wavelength than before. Instead of 171 nanometers, 1,3-Butadiene is going to absorb light at approximately a
+wavelength of 217 nanometers. Finally, let's look at 1,3,5-hexatriene. If I look at the pi electrons, we have two, four, and six pi electrons. Those six pi electrons fill the three bonding molecular orbitals. Next, we find the highest-occupied
+molecular orbital, and the lowest unoccupied
+molecular orbital, and look at the energy
+difference between them. Notice the energy difference
+has gotten even smaller. If we, once again, decrease the energy, we increase the wavelength
+of light that's absorbed. The wavelength of light must be even higher than this. It goes up to approximately
+258 nanometers. So, hexatriene absorbs light at approximately 258 nanometers. That's still in the UV region of the electromagnetic spectrum. So, hexatriene doesn't have a color. In order for something to have a color, it has to absorb light
+in the visible region. That is only accomplished by thinking about conjugation. Here, we have hexatriene,
+which is conjugated. Double-bond, single-bond, double-bond, single-bond, double-bond. But, it's still absorbing
+light in the UV region. Imagine a molecule that has much more conjugation than hexatriene. Increased conjugation means an increased wavelength
+of light that's absorbed. Notice our trend, here. As we increase in the
+amount of conjugation, we increase the wavelength
+of light that's absorbed. If we have an
+extensively-conjugated molecule, we could absorb light at
+an even higher wavelength. If we get past approximately
+400 nanometers, we're into the visible region. Those molecules should have color. That's the idea. Extensive conjugation leads to color. Let's look at beta-Carotene, which is what we talked
+about in the previous video. We say that beta-Carotene is orange. So, we have an orange molecule, here. Once again, the key is conjugation. Look how conjugated beta-Carotene is. Look at all the alternating
+single, and double, bonds. The extensive conjugation means that this molecule can absorb light at a longer wavelength. It absorbs light in the visible region of the electromagnetic spectrum. Beta-Carotene absorbs blue light, and reflects orange, which is why we said carrots and the molecule
+looks orange, here. It's conjugation that
+you have to think about. Let's move on to one more example, phenolphthalein. All right, so, phenolphthalein is probably the most famous acid-based indicator. If you've taken a general chemistry lab, I'm sure you've used phenolphthalein as an indicator for your
+acid-based titrations. You know, at a low pH,
+in an acidic environment, phenolphthalein is colorless. But, if you add base ... Here, we'll talk about adding base, here. You increase the pH, you see a pink or magenta color. Let's see if we can explain why. First, let's add some sodium hydroxide. Let me add some sodium hydroxide, here. There's a hydroxide anion. I'm drawing in another
+hydroxide anion, here. So, a negative-one charge on the oxygen. Hydroxide anion is going
+to function as a base. It's going to take this proton, which we could take these electrons, and move them into here, which pushes these electrons over to here. These electrons move in, here, and these electrons come
+off, onto the oxygen. The other hydroxide
+would take this proton, and these electrons would end up on the oxygen, here. So, let's follow those electrons. Electrons in magenta move
+into here, like that. Let's use blue for the next one, here. These electrons, in blue, move into here. Let's go for green. These electrons, in green, move into here. Then, finally, these electrons, in red, move off onto this oxygen. So, we give that oxygen a negative-one of formal charge. If this hydroxide anion takes this proton, then these electrons
+end up on this oxygen, giving that oxygen a
+negative-one formal charge. We form an ion, here. This ion has a pink, or
+magenta, color to it. If we look closely at it, we can see why. Look at the conjugation that's present. There's all kinds of alternating single-, and double-bonds, right? So, double bond, single bond, double bond, single bond, double bond, single bond, double bond, single bond,
+double bond, and so on. Pretty much the entire ion is conjugated. We have this extensive conjugation which allows the ion to
+absorb in the visible region. That's why it appears to
+be a pinkish color, here. We could go back the other direction. If we add some acid, we could turn this back
+into the colorless form of phenolphthalein, here. The reason why this is colorless is because this carbon ... Let me go in and highlight
+this carbon, right here. This carbon is sp3 hybridized. It's sp3 hybridized. Therefore, it doesn't have a p orbital. We have a little bit of a conjugation in the benzine rings. We have these alternating single- and double-bonds, here. But, this conjugation is disrupted when we get to the central carbon. So, we don't have the conjugation throughout the entire molecule, here. We don't have enough conjugation, and so it doesn't absorb
+in the visible spectrum. That's why it appears to be colorless. If we look at that carbon,
+over here, on the right ... Let's use red, here. This carbon, right here ... This carbon is sp2 hybridized. So, it has a p orbital, which allows delocalization
+of these electrons. We have extensive conjugation, and so we get the color. Hopefully, this just helps you understand how important conjugation is for color.

@@ -1,0 +1,164 @@
+We've now learned that a current
+or a stream of moving charges can be affected
+by a magnetic field. And we've also learned that it
+can induce a magnetic field. So that begs the question,
+what is the effect of one current carrying wire on another
+current carrying wire? Let's do that. Let's draw my first current
+carrying wire in green. That's the first current
+carrying wire. And let's say that the current
+is-- it's in magenta-- and we'll call this current 1. And then I have another
+current carrying wire not too far away. And I will call that
+current I2. Now what else do we need
+to figure out? Oh, well, let me
+just tell you. Let's say that they are
+a radius of r apart. And I say radius because we
+learned in the last video that the magnetic field created by
+a current carrying wire is kind of a, you know, they're
+kind of these circular cylinders around the wire. So let's say the distance from
+this wire to that wire is r. That distance is r. And so my question to you is--
+well, first, just before we break into the math-- what's
+going to happen? Well, we don't know the
+magnitudes of the currents or anything just yet. But what's going to happen? What will be the net effect
+on, let's say, this wire? Let's say for some reason this
+wire is fixed or we could say they're floating in space. Let's just focus on
+wire 2 for now. This is wire 2, this
+is wire 1. What's going to happen
+to wire 2? Well, let's think about it. Wire 1-- the current
+in it is going to generate a magnetic field. Now what's the shape of
+that magnetic field going to look like? Well, we could take our right
+hand, do that right hand wrap around rule. It's a little different than
+the cross product rule, although it's kind
+of a byproduct. So that's my right hand and
+I'm wrapping it around. So if I point my thumb in the
+direction of the current-- so that's the direction of the
+current, just like I did-- then the magnetic field
+goes in the direction of my fingers. So they're going to go
+around this wire. And so if I were to just draw
+the magnetic field where it intersects with this screen, on
+the right hand side it will go into the screen. So we'll just see the
+rear ends of the magnetic field line. And I'll draw it in the same
+color as the current, so you know it's being created by I1. So I1-- its effect keeps going
+out to infinity, although it gets much weaker
+as we learned. It's inversely proportional
+with r. But this is the field of I1. I can draw these-- I
+don't want to crowd my page up too much. And then on this side
+of I1, what happens? Well, on this side,
+you can see the fingers come back around. So it pops out when
+it intersects with your video monitor. So on this side, the vectors--
+this is the top of an arrow, coming out at you. Fair enough. So I1, by going in this
+direction, is generating a magnetic field that, at least
+where I2 is concerned, that magnetic field is going
+into the page. So what was our formula? And this all came from the
+first formula we learned about, the effect of a magnetic
+field soon. on a moving charge. But what was the formula of the
+net magnetic force on a current carrying wire? It was the force-- I'll do it in
+blue-- it's a vector, has a magnitude and direction--
+is equal to the current. Well, in this case, we want
+to know the force on this current, on current 2, right? Caused by this magnetic field,
+by magnetic field 1. So it will be equal to I2, the
+magnitude of this current, times L-- where L is-- because
+you can't just say, oh well, what is the effect
+on this wire? You have to know how much wire
+is under consideration. So let's say we have
+a length of wire. And then of course, if you know
+the length of wire and we knew its mass and we knew the
+force on it, we could figure out its acceleration
+in some directions. So let's say that
+this distance is L, and it's a vector. L goes in the same direction
+as the current. That's just the convention
+we're using. It makes things simple. So that's L. So the force on this wire, or at
+least the length L of this wire, is going to be equal
+to current 2 times L. We could call that even L2, just
+so that you know that it deals with wire 2. That's a vector quantity. I could make it a full arrow. Doesn't matter. It's just a notation. I've seen professors do it
+either way, I've seen it written either way, as well. Cross the magnetic field
+that it's in. What's the magnetic field
+that it's in? The magnetic field-- I'll do
+it in magenta, because it's the magnetic field created
+by current 1. So it's magnetic field 1, which
+is this magnetic field. So before going into the math,
+let's just figure out what direction is this net force
+going to be in? So here we say, well, the
+current is a scalar, so that's not going to affect
+the direction. What's the direction of L2? This is L2. I didn't label it L2
+on the diagram. What's the direction of L2? Well, it's up. And then the direction of B1,
+the magnetic field created by current 1, is going into
+the page here. So here we just do the standard
+cross product. Let me see if I can
+pull this off. This is actually an
+easy one to draw. So I put my index finger
+in the direction of L2. And then I put my middle
+finger in the direction of the field. So my middle finger's going
+to point straight down into this page. My other fingers just do what
+they would naturally do. And then my thumb
+would go in the direction of the net force. This is just the
+cross product. You'll see teachers teach the
+cross product other ways, where they tell you to put your
+thumb in the direction of the field, and this and
+that, your palm-- those are all valid. They're just different
+variations of the same thing. I find this one easier
+to remember. Because when I take the cross
+product, index finger is the first term of the
+cross product. Middle finger is the second
+term of the cross product. Thumb is the direction
+of the cross product. So anyway, this is the
+direction of L2. The magnetic field, we already
+know, goes into the page. So my middle finger is
+going into the page. And my thumb is in the direction
+of the force on the magnetic field. So that's the direction
+of the force. So there you have it. If this current is moving in
+this direction and its field is-- we know from this wrap
+around rule that pops out here and it goes in here-- the effect
+that it has on this other wire is that where the
+current is going in the same direction, is that it
+will be attracted. So the net force you is going
+in that direction. We could say the force
+from 1 on 2. That's just my convention. Maybe other people would have
+written it the force given to 2 by 1. That's the force given
+by 1 to 2. That's how I'm writing it. Now what's going to be the force
+on current 1 from I2? Well, it's going to be the
+current-- well, it's going to be the force there. Well it's going to be
+the same thing. Let me draw I2's
+magnetic field. You do the wrap around rule,
+it's going to look the same. So I2, sure, on this side its
+field is going to be going into the page. But what's I2's field going
+to be doing here? It's going to be popping out. I just did the wrap around--
+take this wrap around, wrap it around that wire. So that's the field of I2. So then we can write down that
+the force-- and let's take, I don't know, this is
+some distance. Let's call that L1. So the force from current 2 on
+wire 1 of length L1, from here to here, is equal to current 1
+times L1-- which is a vector-- cross the magnetic field
+created by current 2. And so we can do the same
+cross product here. Put our index finger in
+the direction of L1. That's what you do with
+the first element of the cross product. And then you put your middle
+finger in the direction of B2. And then your thumb is going to
+tell you what the net force is going to be. So let me draw that. So let me draw my hand. And just so you know, before I
+do any of these, I actually look at my hand, just
+to make sure I'm drawing the right thing. So my index finger in the
+direction of I1, my middle finger-- sorry, my index finger
+in the direction of L1, which is the same as I1, and
+then my middle finger is going to do what the magnetic
+field is doing. So my middle finger is actually
+going to point straight up. And then my other fingers are
+just going to do what they do. And so now you're looking
+at the palm of my hand. And my thumb-- let me make sure
+I'm doing this correctly. Oh, no. I was drawing my left hand. See, that's an error. You don't want to draw your left
+hand when you're doing the right hand rule with
+cross products. So let me draw it down here. My index finger going in
+the direction of L1. My middle finger's popping
+straight up, because the magnetic field created by
+I2 is popping straight out of the page here. So my middle finger goes
+straight up and my other fingers do what they
+need to do. Looking at the palm. And then my thumb will
+go in that direction. So the cross product of L with
+B2 popping out of this page, the net force is going to
+be in this direction. So there's a little bit
+of symmetry here. This wire's going to be
+attracted towards that wire, and this wire's going to be
+attracted to that wire. They're both going to--
+eventually if they were floating in space, they would
+slowly get closer and closer to each other and their radiuses
+would get closer and closer and they would accelerate
+to each other, at ever increasing rates
+actually. Anyway, I'm out of time. In the next video I'll do this
+same principle, but we'll do it with some numbers. See

@@ -1,0 +1,35 @@
+- [Instructor] We are
+told a red disc spins with angular velocity omega,
+and a point on the edge moves at velocity V. So they're giving us angular velocity and also you could view
+this as linear velocity, and they are both vectors,
+that's why they are bolded. A blue disc spins with
+angular velocity two omega, so that's twice the angular velocity, so its angle is changing twice as fast, with a point on the edge
+moving at velocity 2V, so the linear velocity is also twice, twice the linear velocity of the red disc. And they ask us which
+disc has a larger radius. So pause this video and
+see if you can answer that before we work through it together. So let's first, let's
+just visualize things. So if this is our red disc, my
+best shot at drawing a disc, this should be a perfect circle, but I can't hand-draw a perfect circle, but you get the idea. And let me draw the
+radius of our red disc, right over there, I'll
+call that R sub red, and we know a few things. We know that a point right
+over here has a velocity V, so let me draw that. So let's say it's going
+right in that direction, right at that moment, it has a velocity V, and we also know that it has
+an angular velocity of omega. So our angular velocity
+is omega in this case, in terms of how fast it is rotating, and then we have our blue disc. So let me draw the blue
+disc, and I'm gonna draw it at an arbitrary radius,
+'cause we haven't figured out how the radii relate
+to each other just yet. This is, should be a
+circle, but I'm trying to hand-draw it, alright. So this is the radius of the blue disc, so I will call that R
+sub blue, R sub blue, and the velocity of an analogous point right over here is 2V. So I should make that
+vector twice as tall. So this is 2V right over here, and it has an angular
+velocity of two omega, so that tells us how fast
+it is actually rotating. So how do we make the statement, which disc has a larger radius? Or how do we decide that? Well the key realization
+is the relationship between the magnitude of angular velocity and the magnitude of velocity. A couple ways to think about it is, the magnitude of angular velocity, notice I didn't put an arrow
+on top, so I'm just talking about the magnitude of
+our angular velocity, times our radius is going to be equal to the magnitude of our velocity, or is going to be equal to our speed. Or another way of thinking about it, if you divide both sides by R, the magnitude of our angular velocity is going to be equal to the
+magnitude of our velocity, or our speed, over R. Or we can say that R
+is equal to the speed, magnitude of velocity, over the magnitude of our angular velocity. So in this situation right over here, for this red disc, we
+could say that R sub red is equal to V over omega, and over here, we could say that R sub blue is equal to, well the magnitude of the velocity, the speed is going to
+be 2V over the magnitude of our angular velocity,
+is going to be two omega. Well notice, the twos cancel out, so this is just going to
+be V over omega again. These two things are identical. That is equal to that. So they are actually going to
+have the exact same radius. So they are the same radius.

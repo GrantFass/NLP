@@ -1,0 +1,31 @@
+- [Voiceover] Whereas to graph the circle x plus five squared plus y
+minus 5 squared equals four. I know what you're thinking. What's all of this silliness
+on the right hand side? This is actually just the view we use when we're trying to debug
+things on Khan Academy. But we can still do the exercise. So it says drag the center point
+and perimeter of the circle to graph the equation. So the first thing we
+want to think about is well what's the center of this equation? Well the standard form of a circle is x minus the x coordinate
+of the center squared, plus y minus the y coordinate
+of the center squared is equal to the radius squared. So x minus the x coordinate of the center. So the x coordinate of the center must be negative five. Cause the way we can get
+a positive five here's by subtracting a negative five. So the x coordinate must be negative five and the y coordinate
+must be positive five. Cause y minus the y
+coordinate of the center. So y coordinate is positive five and then the radius squared
+is going to be equal to four. So that means that the radius is equal to two. And the way it's drawn right now, we could drag this out like this, but this the way it's drawn, the radius is indeed equal to two. And so we're done. And I really want to hit the point home of what I just did. So let me get my little scratch pad out. Sorry for knocking the
+microphone just now. That equation was x plus five squared plus y minus five squared is equal to four squared. So I want to rewrite this as, this is x minus negative five, x minus negative five squared, plus y minus positive five, positive five squared is equal to, instead of writing it as four I'll write it as two squared. So this right over here tells us that the center of the
+circle is going to be x equals negative five y equals five and the radius is going
+to be equal to two. And once again, this is no magic here. This is not just, I don't want you to just memorize this formula. I want you to appreciate that this formula comes straight out of
+the Pythagorean Theorem, straight out of the distance formula, which comes out of the
+Pythagorean Theorem. Remember, if you have some center, in this case is the point
+negative five comma five, so negative five comma five, and you want to find
+all of the x's and y's that are two away from it. So you want to find all the x's and y's that are two away from it. So that would be one of them, x comma y. This distance is two. And there's going to be a bunch of them. And when you plot all of them together, you're going to get a
+circle with radius two around that center. Plus think about how we
+got that actual formula. Well the distance between that coordinate, between any of these x's and y's, it could be an x and y here,
+it could be an x and y here, and this is going to be two. So we can have our change in x. So we have x minus negative five. So that's our change
+in x between any point x comma y, negative five comma five. So our change in x squared plus our change in y squared, so it's going to be y minus the y coordinate over here, squared is going to be equal to the radius squared. So the change in y is going to be from this y to that y, this is the end point. The end minus the beginning y minus five, y minus five squared. And so this shows for
+any x y that is two away from the center, this equation will hold. And it becomes, I'll just write this in neutral color, x plus five squared plus y minus five squared is equal to the radius squared, is equal to two, or let me just write
+that, is equal to four. And let me make it, I
+really want to, you know, I dislike it when formulas
+are just memorized. You don't see the
+connection to other things. Notice we can construct a nice little right triangle here. So our change in x is
+that right over there. So that is our change in x. Change in x. And our change in y our change in y, not
+the change in y squared, but our change in y, is that right over there. Change in y, our change in y you could view that as y minus, so this is change in y is going to be y minus five. And our change in x is x minus negative five. x minus negative five. So this is just change in x squared plus change in y squared is equal to the hypotenuse squared, which is the length of,
+which is this radius. So once again, comes straight out of the Pythagorean Theorem. Hopefully that makes sense.

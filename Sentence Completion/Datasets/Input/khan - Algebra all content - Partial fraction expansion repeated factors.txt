@@ -1,0 +1,134 @@
+There's one more case of
+partial fraction expansion or decomposition problems
+that you might see, so I thought I would cover it. And that's the situation where
+you have a repeated factor in the denominator. So let's see, I've constructed
+a little problem here. It's 6x squared. Let me make sure
+my pen is right. 6x squared minus 19x plus 15. All of that over x minus 1
+times-- and this is the thing that makes this one
+especially interesting-- x minus 2 squared. So you might say, gee, this
+is a little bit different. Because what do I do here? I have this first degree
+factor, but it shows up twice. It doesn't make sense,
+for example, it wouldn't make sense to do this. A over x minus 1 plus B over x
+minus 2 plus C over x minus 2. Because if you did this, the
+B and the C would just add together, because they have
+the same denominator. You could just view
+them as one variable. You wouldn't have to have two
+separate variables here. So this wouldn't make sense
+as a partial fraction expansion of this. You might want to maybe square
+this and view it as a second degree term, and do it like you
+did in the previous example. But then you wouldn't have
+fully decomposed this problem. And so the answer here-- and
+I'll just show you how to do it, I'll maybe leave it to you
+a little bit to think about why it works-- is to decompose it
+almost like this, but instead of having C over x minus
+2, you're going to have C over x minus 2 squared. And I'll try to give
+you a little intuition about why that happens. So the decomposition here is
+going to be A over x minus 1 plus B over x minus 2 plus
+C over x minus 2 squared. And the intuition here is
+that if you were to-- let's ignore this term right here. But if you were to add these
+two terms right there, you would get a rational function
+that would end up having something times x
+plus something. And so it would be consistent
+with what we did in the second partial fraction video, where
+if you would have a second degree term on the bottom, and
+the numerator, when you add just these two parts-- let
+me clarify what I'm saying. And this is just for intuition. If you were to add just these
+two parts here, you would get something times x plus
+something, all of that over x minus 2 squared. And that's consistent with what
+we did in the previous video, where we said if we have a
+second degree term in the denominator-- which this really
+is if you were to expand this-- you should have a first degree
+term in the numerator. So I'll leave that there. That's a little bit of a
+nuance, and it's good to think about why this works. But with that said, let's
+just solve this problem. Let me erase some of this
+stuff that I've written. Let me erase all of that. All right. Ready to work on this problem. So given that this is the
+expansion, now we just have to solve for A, B, and C. So if we were to add these
+three fractions, the common denominator is x minus 1
+times x minus 2 squared. This is a factor of that, so
+the least common multiple of this and this is just this. So it's just x minus 2 squared
+there, and that's why we just did this to begin with. And the numerator is going
+to be-- let me do it in a different color-- A. What do we have to
+multiply A by? A times x minus 2
+squared, right? If we canceled these out,
+you're just left with A over x minus 1. Plus B times x minus
+1 times x minus 2. Right? If we cancel out the x minus
+1's and one of these x minus 2's from down here, you're just
+left with B over x minus 2. Plus C times x minus 1. If that cancels with that,
+we're left with C over x minus 2 squared. And all of this is going to be
+equal to-- that up there in blue is going to be equal to--
+I have to write it smaller-- 6x squared minus 19x plus 15,
+all of that over x minus 1 times x minus 2 squared. And like we've done in
+every problem so far, the denominators are the same, so
+we can just set the numerators equal to each other and try to
+solve for A, B, and C. Let me write that. And I'm really just
+rewriting it. A times x minus 2 squared plus
+B times x minus 1 times x minus 2 plus C times x minus 1
+is going to be equal to 6x squared minus 19x plus 15. There you go. And now we have to
+solve for them. And we can do it just the way
+we done the previous problems. We can pick choices for x that
+make things cancel out nicely. So if we wanted to solve
+for A, we want to make the B and the C cancel out. We just have to pick
+x is equal to 1. Because if x is equal
+to 1, this becomes 0, so C disappears. This becomes 0, so this whole
+term disappears, and we're just left with this and this. So let's do that. So when x is equal to 1, we
+get-- let me pick another color-- A times, 1 minus 2 is
+minus 1, squared is just 1. So it's A times 1. So we can just
+leave the A there. This becomes 0, because
+this term right here will be 0 if x is 1. This become 0, because
+that term would be 0 if x is equal to 1. So A is equal to 6 times
+1-- so 6-- minus 19 times 1-- minus 19-- plus 15. And what is that? Minus 19 plus 15, that's minus
+4, plus 6, that is equal to 2. There you go. Now let's try to solve for--
+let's see, what can we do? If we make x equal to 2,
+the A will disappear. This whole term will disappear,
+because this would be 0. So we could use that
+to solve for C. So if we say that x is equal
+to 2, then we get this term would be 0, because that's 0. This whole expression is 0,
+because x minus 2 would be 0. And we're just left with C
+times 2 minus 1, so that's just 1-- so C is equal
+to 6 times 4, right? 2 squared. So it's 24, minus 38--
+19 times 2-- plus 15. Let's see, 24 plus 15 is 39,
+minus 38, that is equal to 1. We're in the home stretch. And now for B, there's no
+obvious way to make the other two cancel out without
+making the B cancel out. But we've solved for everything
+else, so we can really just pick an arbitrary value for x
+that'll make things easy to compute. So if we just pick x is equal
+to 0, that's always something that can clear out a lot of
+the hairiness of an algebra problem. x is equal
+to 0, not 3. x is equal to 0. Let me do that in a
+different color. If x is equal to 0,
+then what do we have? We have A, but A is 2, right? 2 times 0 minus 2 squared. So that's minus 2 squared,
+so that's 2 times 4. Plus B-- that's what we're
+trying to solve for; we already solved for everything--
+B times minus 1, right? 0 minus 1 is minus 1. Times minus 2, plus C times
+minus 1 is equal to-- well, if x is 0, then this is 0,
+this is 0, is equal to 15. Then we just solve for B. We get 8 plus 2B, right? Minus 1 times minus
+2 is plus 2. Oh, and we shouldn't have
+written the C here, we know what C is. C is 1. So this is just a 1. So 1 times minus 1 is
+minus 1, is equal to 15. And let's see, we have 2B is
+equal to, lets see, 16 is equal to 8, B is equal to 4,
+dividing both sides by 2. So we're done. So the partial fraction
+decomposition of this right here is A, which we've
+solved for, which is 2. So it equals 2 over x minus 1
+plus B, which is 4-- plus 4 over x minus 2, plus C, which
+is 1, over x minus 2 squared. And what we did in this with
+the repeated factor is true if we went to a
+higher degree term. So if we had blah blah blah,
+some polynomial there, and it was all over x minus-- I
+don't know, some number. x minus a to the 10th power. Well, to the--
+well, yeah, sure. To the 10th power. If we wanted to decompose this
+partial fraction, or expand it, it would be A over x minus
+a-- it's a different a. I'm just showing this. Plus B times x minus a
+squared, plus, and you go blah blah blah. You'd have 10 terms, plus-- I
+don't know what the 10th letter of the alphabet is; maybe
+it's H or I or something. Maybe it's J. J over x minus a to the 10th. So you can use that property in
+general, though you'll very seldom see something like this,
+because computationally it would take you
+forever to do it. The hairiest problem that you
+might see with three variables on an actual exam is probably
+something like I showed you in the previous example, or what
+I just showed you right now. Anything hairier than
+that, you'd probably end up using a computer. But you should know how to do
+it, because if you have a computer and you're solving a
+real world problem that is a lot more complicated than this,
+you should know how to do it. Anyway, hope you found
+that a bit helpful.

@@ -1,0 +1,155 @@
+7 patients blood pressures
+have been measured after having been given a new
+drug for 3 months. They had blood pressure
+increases of, and they give us seven data points right here--
+who knows, that's in some blood pressure units. Construct a 95% confidence
+interval for the true expected blood pressure increase for all
+patients in a population. So there's some population
+distribution here. It's a reasonable assumption
+to think that it is normal. It's a biological process. So if you gave this drug to
+every person who has ever lived, that will result in some
+mean increase in blood pressure, or who knows, maybe
+it actually will decrease. And there's also going to be
+some standard deviation here. It is a normal distribution. And the reason why it's
+reasonable to assume that it's a normal distribution
+is because it's a biological process. It's going to be the sum of many
+thousands and millions of random events. And things that are sums of
+millions and thousands of random events tend to be
+normal distribution. So this is a population
+distribution. And we don't know anything
+really about it outside of the sample that we have here. Now, what we can do is, and this
+tends to be a good thing to do, when you do have a
+sample just figure out everything that you can
+figure out about that sample from the get-go. So we have our seven
+data points. And you could add them up and
+divide by 7 and get your sample mean. So our sample mean
+here is 2.34. And then you can also
+calculate your sample standard deviation. Find the square distance from
+each of these points to your sample mean, add them up, divide
+by n minus 1, because it's a sample, then take the
+square root, and you get your sample standard deviation. I did this ahead of time
+just to save time. Sample standard deviation
+is 1.04. And when you don't know anything
+about the population distribution, the thing that
+we've been doing from the get-go is estimating that
+character with our sample standard deviation. So we've been estimating the
+true standard deviation of the population with our sample
+standard deviation. Now in this problem, this exact
+problem, we're going to run into a problem. We're estimating our standard
+deviation with an n of only 7. So this is probably going to
+be a not so good estimate because-- let me just write--
+because n is small. In general, this is considered
+a bad estimate if n is less than 30. Above 30 you're dealing
+in the realm of pretty good estimates. So the whole focus of this video
+is when we think about the sampling distribution, which
+is what we're going to use to generate our interval,
+instead of assuming that the sampling distribution is normal
+like we did in many other videos using the central
+limit theorem and all of that, we're going to tweak the
+sampling distribution. We're not going to assume it's
+a normal distribution because this is a bad estimate. We're going to assume that
+it's something called a t-distribution. And a t-distribution is
+essentially, the best way to think about is it's almost
+engineered so it gives a better estimate of your
+confidence intervals and all of that when you do have
+a small sample size. It looks very similar to
+a normal distribution. It has some mean, so this is
+your mean of your sampling distribution still. But it also has fatter tails. And the way I think about why
+it has fatter tails is when you make an assumption that this
+is a standard deviation for-- let me take
+one more step. So normally what we do is we
+find the estimate of the true standard deviation, and then
+we say that the standard deviation of the sampling
+distribution is equal to the true standard deviation of our
+population divided by the square root of n. In this case, n is equal to 7. And then we say OK, we never
+know the true standard, or we seldom know-- sometimes you do
+know-- we seldom know the true standard deviation. So if we don't know that the
+best thing we can put in there is our sample standard
+deviation. And this right here, this is the
+whole reason why we don't say that this is just a 95
+probability interval. This is the whole reason why
+we call it a confidence interval because we're making
+some assumptions. This thing is going to change
+from sample to sample. And in particular, this is going
+to be a particularly bad estimate when we have a
+small sample size, a size less than 30. So when you are estimating the
+standard deviation where you don't know it, you're estimating
+it with your sample standard deviation, and your
+sample size is small, and you're going to use this to
+estimate the standard deviation of your sampling
+distribution, you don't assume your sampling distribution
+is a normal distribution. You assume it has
+fatter tails. And it has fatter tails because
+you're essentially underestimating-- you're
+underestimating the standard deviation over here. Anyway, with all of that said,
+let's just actually go through this problem. So we need to think about a 95%
+confidence interval around this mean right over here. So a 95% confidence interval,
+if this was a normal distribution you would just
+look it up in a Z-table. But it's not, this is
+a t-distribution. We're looking for a 95%
+confidence interval. So some interval around
+the mean that encapsulates 95% of the area. For a t-distribution you use
+t-table, and I have a t-table ahead of time right over here. And what you want to do is use
+the two-sided row for what we're doing right over here. And the best way to think
+about it is that we're symmetric around the mean. And that's why they
+call it two-sided. It would be one-sided if it
+was kind of a cumulative percentage up to some
+critical threshold. But in this case, it's
+two-sided, we're symmetric. Or another way to think
+about it is we're excluding the two sides. So we want the 95%
+in the middle. And this is a sampling
+distribution of the sample mean for n is equal to 7. And I won't go into the details
+here, but when n is equal to 7 you have 6 degrees
+of freedom, or n minus 1. And the way that t-tables are
+set up, you go and find the degrees of freedom. So you don't go to the n,
+you go to the n minus 1. So you go to the 6 right here. So if you want to encapsulate
+95% of this right over here, and you have an n of 6, you
+have to go 2.447 standard deviations in each direction. And this t-table assumes that
+you are approximating that standard deviation using your
+sample standard deviation. So another way to think of it
+you have to go 2.447 of these approximated standard
+deviations. Let me it right here. So you have to go 2.447-- this
+distance right here is 2.447 times this approximated
+standard deviation. And sometimes you'll see this
+in some statistics book. This thing right here,
+this exact number, is shown like this. They put a little hat on top of
+the standard deviation to show that it has been
+approximated using the sample standard deviation. So we'll put a little hat over
+here, because frankly, this is the only thing that
+we can calculate. So this is how far you have
+to go in each direction. And we know what
+this value is. We know what the sample
+distribution is. So let's get our
+calculator out. So we know our sample standard
+deviation is 1.04. And we want to divide that
+by the square root of 7. So we get 0.39. So this right here is 0.39. And so if we want to find
+the distance around this population mean that
+encapsulates 95% of the population or of the sampling
+distribution, we have to multiply 0.39 times 2.447,
+so let's do that. So times 2.447 is
+equal to 0.96. So this is equal to-- so this
+distance right here is 0.96, and then this distance
+right here is 0.96. So if you take a random sample,
+and that's exactly what we did when we found
+these 7 samples. When we took these 7 samples and
+took their mean, that mean can be viewed as a random
+sample from the sampling distribution. And so the probability, and so
+we can view it, we could say that there's a 95% chance-- and
+we have to actually caveat everything with a confident,
+because we're doing all of these estimations here. So it's not a true precise
+95% chance. We're just confident that
+there's a 95% chance that our random population, our random
+sampling mean right here, so that 2.34, which we can kind of
+use-- we just picked that 2.34 from this distribution
+right here. So there's a 95% chance that
+2.34 is within 0.96 of the true sampling distribution mean,
+which we know is also the same thing as the
+population mean. Or we can just rearrange the
+sentence and say that there is a 95% chance that the mean, the
+true mean, which is the same thing as a sampling
+distribution mean, is within 0.96 of our sample
+mean, of 2.34. So at the low end, so if you go
+2.36 minus-- if you go 2.34 minus 0.96-- that's the low
+end of our confidence interval, 1.38. And the high end of our
+confidence interval, 2.34 plus 0.96 is equal to 3.3. So our 95% confidence interval
+is from 1.38 to 3.3.

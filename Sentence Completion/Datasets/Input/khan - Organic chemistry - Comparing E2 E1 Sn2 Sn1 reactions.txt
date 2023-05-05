@@ -1,0 +1,186 @@
+What I want to do in this video
+is to try to figure out what type of reaction or
+reactions might occur if we have-- what is this? One, two, three, four,
+five It's in a cycle. This is bromocyclopentane. If we have some
+bromocyclopentane dissolved and our solvent is
+dimethylformamide. Sometimes you'll see that
+just written as DMF. And I've actually drawn the
+formula for it here, so we can think about what type
+of a solvent it is. And also, in our solution, we
+have the methoxide ion. So we also have the methoxide
+ion right here. So let's think about what type
+of reaction might occur. And just to narrow things down,
+we'll think about it in the context of the last four
+types of reactions we've looked at. So this might be an Sn2
+reaction, an Sn1 reaction, an E2 reaction, or an
+E1 reaction. We're going to look at all the
+clues and figure out what's likely to occur, and then
+actually draw the mechanism for it occurring. Now, the first thing since they
+gave us the solvent and other things that are in the
+solvent, let's think about how those might affect
+the reaction. So if we look at this solvent
+right here, whenever you look at any of these reactions, when
+you look at the solvent, you just want to
+think about it. Is it protic or not? And protic means that it has
+hydrogens that can kind of be released or that their electrons
+could be nabbed off and these protons could
+just float around. And if we look over here, we do
+have hydrogens, but all of the hydrogens are bonded
+to carbon. And carbon is unlikely to just
+steal a hydrogen's electrons and let the hydrogen
+float around. Carbon is not that
+electronegative. If you had hydrogens bonded
+to an oxygen, that'd be a different question. Then you would have
+a protic solvent. But in this case, all the
+hydrogens bonded to carbons, not likely to get their
+electrons nabbed off and float around as free protons. So this is an aprotic solvent. Now, we've gone over this a
+little bit with Sn2 and Sn1, but the same idea applies. In order to have an Sn2 or an E2
+reaction, you have to have either a strong nucleophile or
+a strong base, and the same thing could actually be both,
+although they're not always correlated. We've seen that before. Now, if you had a protic
+solvent, it would stabilize the strong base or the
+strong nucleophile. The protons would
+react with them. They would take the electrons
+from that strong base or that strong nucleophile. So in order to have an Sn2 or
+an E2, you have to have no protons flying around, so you
+need an aprotic solvent. So this aprotic solvent will
+favor Sn2 or an E2 reaction. Now, so our mind is already
+thinking in Sn2 or E2, let's think about the reactants
+themselves. So over here, we have
+the methoxide ion. And let's think about whether
+it's a strong or weak. Let's think about it first as a
+strong or weak nucleophile. It's actually a pretty
+strong nucleophile. It is a strong nucleophile. So that would put us in the
+direction of an Sn1. So we have two data points. I'm sorry, for an Sn2. We have two data points for Sn2
+because remember, it has to just kind of go in
+there and be active. It's not too big of a molecule,
+so it's not going to be hindered. But it's also an extremely
+strong base, even stronger than hydroxide. So it's also an extremely strong
+base, which might lead us or that does imply
+that we're going to have an E2 reaction. Now, the last thing we need to
+think about is the carbon where the leaving group
+might leave from. And immediately, when you look
+at the bromocyclopentane, there's only one functional
+group attached to the chain, and that is the bromo group
+right here, right there. It is attached to this carbon. We could call that the
+alpha carbon, and it is a secondary carbon. This carbon right here
+is bonded to one, two other carbons. This alpha carbon-- let
+me write it this way. This alpha carbon is a secondary
+carbon, and that kind of makes it neutral
+in this mix. If it was a methyl or
+primary carbon, it would favor Sn2, actually. I mean methyl, the only thing
+you could have is an Sn2. And if it was a tertiary carbon,
+it would favor Sn1 or E1 because it would favor
+a stable carbocation. The leaving group could just
+leave. And if this guy was bonded to another carbon,
+it would be very stable. But in this situation, it's
+a secondary carbon bonded to two carbons. It's a little bit neutral. Any of these reactions
+might occur. When we look at all of the other
+data points, they're pointing at both Sn2 or E2. We have a strong
+nucleophile/base. We have an aprotic solvent. It's going to be Sn2
+or an E2 reaction. So let's actually draw
+the reactions. Let me do the Sn2 first. So
+let me do it in orange. So if we were to have
+an Sn2 reaction, let me redraw the molecule. Let me draw the cyclopentane
+part. I want to make sure-- let me
+draw it the same way I had it drawn up there. So the pentagon is
+facing upwards. And then we have our bromo
+group right there. So we have our methoxide
+ion right over here. So CH3O minus. Or another way we could view
+it is that this oxygen has one, two, three, four, five,
+six, seven valence electrons with a negative charge. One of these electrons right
+over here, this can attack the substrate right over
+there, that carbon. Right when that happens,
+simultaneously this bromine is going to be able to
+nab an electron from that same carbon. And then we are going to be left
+with-- the bromine now becomes the bromide anion. It had one, two, three,
+four, five, six, seven valence electrons. One, two, three, four,
+five, six, seven. Now it nabbed one more electron,
+making it bromide. Now it has a negative charge. And if we were to draw
+the chain, it would look like this. Well, we could draw it on this,
+and I might as well draw it on this side, just so it's
+attacking from the other side. This is the chiral substrate,
+so we don't have to be too particular about how we draw the
+connections to the carbon. We're not actually even
+showing anything popping in or out. But we would have the methoxide
+ion, where now it's bonded, so it's no longer
+an ion, so it's OCH3, just like that. It has bonded to this carbon. Obviously, implicitly this
+carbon had another hydrogen that we are not showing. Just that quickly, that
+was the Sn2 reaction. That is the mechanism. Now let's think about what
+the E2 reaction is. To do the E2 properly, to give
+it justice, we're going to have to draw some of
+the hydrogens. So on the E2 reaction, let
+me draw that in blue. Let me draw the cyclopentane
+part. Let me draw it big. Actually, over here, it's less
+important to draw it too big. So let me draw the pentagon. The pentagon just like that. That is the bromine, three,
+four, five, six, and then it has a seventh valence electron
+right over here. This is the alpha carbon. That right there is
+the alpha carbon. And then there are
+two beta carbons. There are two beta carbons right
+over there and there. They each have two hydrogens
+on them. They each have two hydrogens. I know it's becoming a
+little hard to read. They each have two hydrogens
+on them. And in an E2 reaction, the
+strong base will react-- let me make it a little
+cleaner than that. Let me get rid of the beta. The beta makes it's
+a little dirty. OK, so they each have two
+hydrogens on them. Now in an E2 reaction, the
+strong base-- over here, the methoxide ion was acting as
+a strong nucleophile. In E2, it's going to act
+as a strong base. It's going to nab off a hydrogen
+off of one of the beta carbons. And you might want to
+say, OK, which one? Let's look at Zaitsev's rule. It doesn't matter. These are symmetric. They are both bonded to
+two other carbons. They both are bonded to the
+same number of hydrogens. It doesn't matter. It's actually going to be random
+which one, and you actually won't be able
+tell the difference because it's symmetric. So let's just draw
+it like this. Let me draw the methoxide ion. One, two, three, four--
+or anion, maybe I should say-- five, six. And then it has one
+bond to the CH3. It has a negative charge, very,
+very, very strong base. It can go over here and nab
+the hydrogen and leave hydrogen's electron behind. Maybe I'll take a color. This electron can be given to
+the hydrogen so that it forms a bond with it. Hydrogen's electron-- let
+me do this in a suitably different color. Hydrogen's electron that is
+sitting right over there can now be given to the
+alpha carbon. It can now be given to
+the alpha carbon to form a double bond. And now that the alpha carbon is
+getting that electron, now the bromo group can leave. It's
+a decent leaving group. And that was another thing that
+we should think about in our equation. But a good leaving group
+actually favors all of the reactions: Sn2, E2, Sn1, E1. And so the carbon's getting
+the electron, and then the bromine can then take this
+carbon's electron. And just in one step that's
+what's distinctive about the E2 and the Sn2 reactions. All of the reactions
+are involved in the rate-determining step and there
+really is only one step. Just like that, after that
+happens, what we're left with is the methoxide anion
+takes the hydrogen, so it becomes methanol. Let me draw that. So it becomes methanol. So it had one, two, three, four
+and then five, that's this one right there, but then
+this guy goes and bonds with the hydrogen. This guy goes and bonds with the
+hydrogen, just like that, and hydrogen leaves its
+electron behind. Let me draw the cyclopentane
+part now. And so the cyclopentane looked
+like this before, if I just focus on the ring. Now, this guy was bonded
+to a hydrogen. He was bonded to this hydrogen
+over here, but now that electron is going to be used to
+form a bond with this alpha carbon right over here. Let me draw the alpha carbon. And the alpha carbon is
+right over there. Obviously, implicitly at
+every one of these edges, we have a carbon. But now, a double bond
+is going to form with that alpha carbon. We could just draw it like
+that, a double bond. Obviously, there's another
+carbon here. I could write up another
+carbon over there. And now this double
+bond will form. And now the bromide has left. It's taken an electron with it
+from that carbon now that the carbon doesn't need it. It was already starting to
+hog it because it's so electronegative. So that's bromine. It takes that orange electron. Now, it is bromide. And we're done. And so just to go back to the
+original question here, which reaction is likely to occur
+or which mechanism? It's actually both Sn2 and E2. You would see a mix of both of
+these occurring because you have all of the environmental
+factors that would enable both. And so you would have both
+of these mechanisms. Here's the-- let me
+separate them out. Here's the Sn2 reaction. You would have the Sn2 reaction
+occurring in your whatever, your vial, or your
+pot, or whatever you're making all of this stuff occur in, and
+you would also have your E2 reaction. So you would see some of all of
+these, some of all of those products and these products
+right over there.

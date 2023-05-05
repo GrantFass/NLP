@@ -1,0 +1,180 @@
+So let's say that this is
+an equilateral triangle. And what I want to do is
+make another shape out of this equilateral triangle. And I'm going to
+do that by taking each of the sides
+of this triangle, and divide them into
+three equal sections. So my equilateral triangle
+wasn't drawn super ideally. But I think you'll
+get the point. And in the middle section
+I want to construct another equilateral triangle. So it's going to look
+something like this. And then right
+over here I'm going to put another
+equilateral triangle. And so now I went from
+that equilateral triangle to something that's looking
+like a star, or a Star of David. And then I'm going
+to do it again. So each of the sides
+now I'm going to divide into three equal sides. And in that middle
+segment I'm going to put an equilateral triangle. So in the middle
+segment I'm going to put an equilateral triangle. So I'm going to do it for
+every one of the sides. So let me do it right there. And then right there. I think you get the idea,
+but I want to make it clear. So let me just, so then like
+that, and then like that, like that, and then almost
+done for this iteration. This pass. And it'll look like that. Then I could do it again. Each of the segments I can
+divide into three equal sides and draw another
+equilateral triangle. So I could just there,
+there, there, there. I think you see
+where this is going. And I could keep going
+on forever and forever. So what I want to
+do in this video is think about
+what's going on here. And what I'm actually
+drawing, if we just keep on doing this
+forever and forever, every side, every iteration,
+we look at each side, we divide into
+three equal sides. And then the next iteration,
+or three equal segments, the next iteration,
+the middle segment we turn to another
+equilateral triangle. This shape that we're
+describing right here is called a Koch snowflake. And I'm sure I'm
+mispronouncing the Koch part. A Koch snowflake,
+and it was first described by this gentleman
+right over here, who is a Swedish mathematician,
+Niels Fabian Helge von Koch, who I'm sure
+I'm mispronouncing it. And this was one of the
+earliest described fractals. So this is a fractal. And the reason why it
+is considered a fractal is that it looks the same,
+or it looks very similar, on any scale you look at it. So when you look at it at this
+scale, so if you look at this, it like you see a
+bunch of triangles with some bumps on it. But then if you were to
+zoom in right over there, then you would still see
+that same type of pattern. And then if you were
+to zoom in again, you would see it
+again and again. So a fractal is anything
+that at on any scale, on any level of zoom, it kind
+of looks roughly the same. So that's why it's
+called a fractal. Now what's particularly
+interesting, and why I'm putting it at this
+point in the geometry playlist, is that this actually has
+an infinite perimeter. If you were to keep doing
+it, if you were actually to make the Koch
+snowflake, where you keep an infinite number
+of times on every smaller little triangle
+here, you keep adding another equilateral
+triangle on its side. And to show that it has
+an infinite perimeter, let's just consider
+one side over here. So let's say that
+this side, so let's say we're starting
+right when we started with that original
+triangle, that's that side. Let's say it has length s. And then we divide it
+into three equal segments. So those are going to
+be s/3, s/3-- actually, let me write it this way. s/3, s/3, and s/3. And in the middle segment, you
+make an equilateral triangle. So each of these sides
+are going to be s/3. s/3, s/3. And now the length of this new
+part-- I can't call it a line anymore, because it
+has this bump in it-- the length of this part right
+over here, this side, now doesn't have just a length
+of s, it is now s/3 times 4. Before it was s/3 times 3. Now you have 1, 2, 3, 4
+segments that are s/3. So now, after one
+time, after one pace, after one time of doing
+this adding triangles, our new side, after
+we add that bump, is going to be four times s/3. Or it equals 4/3 s. So if our original
+perimeter when it was just a triangle is p sub 0. After one pass, after
+we add one set of bumps, then our perimeter is going to
+be 4/3 times the original one. Because each of the sides are
+going to be 4/3 bigger now. So this was made
+up of three sides. Now each of those sides
+are going to be 4/3 bigger. So the new perimeter's
+going to be 4/3 times that. And then when we take
+a second pass on it, it's going to be 4/3
+times this first pass. So every pass you take,
+it's getting 4/3 bigger. Or it's getting, I guess,
+a 1/3 bigger on every, it's getting 4/3
+the previous pass. And so if you do that an
+infinite number of times, if you multiply any
+number by 4/3 an infinite number of
+times, you're going to get an infinite number
+of infinite length. So P infinity. The perimeter, if you do this
+an infinite number of times, is infinite. Now that by itself
+is kind of cool, just to think about something
+that has an infinite perimeter. But what's even neater is that
+it actually has a finite area. And when I say a finite
+area, it actually covers a bounded
+amount of space. And I could actually
+draw a shape around this, and this thing will
+never expand beyond that. And to think about
+it, I'm not going to do a really
+formal proof, just think about it, what happens
+on any one of these sides. So on that first pass we
+have that this triangle gets popped out. And then, if you think about it,
+if you just draw what happens, the next iteration you draw
+these two triangles right over there. And these two characters
+right over there. And then you put some
+triangles over here, and here, and here,
+and here, and here. So on and so forth. But notice, you can keep
+adding more and more. You can add essentially an
+infinite number of these bumps, but you're never going to
+go past this original point. And the same thing is going
+to be true on this side right over here. It's also going to be true
+of this side over here. Also going to be true
+at this side over here. Also going to be true
+this side over there. And then also going to be
+true that side over there. So even if you do this an
+infinite number of times, this shape, this Koch
+snowflake will never have a larger area than
+this bounding hexagon. Or which will never have a
+larger area than a shape that looks something like that. I'm just kind of
+drawing an arbitrary, well I want to make it
+outside of the hexagon, I could put a circle
+outside of it. So this thing I drew in blue, or
+this hexagon I drew in magenta, those clearly have a fixed area. And this Koch snowflake
+will always be bounded. Even though you can add these
+bumps an infinite number of times. So a bunch of really
+cool things here. One, it's a fractal. You can keep zooming in
+and it'll look the same. The other thing, infinite,
+infinite perimeter, and finite, finite area. Now you might say, wait Sal, OK. This is a very abstract thing. Things like this don't actually
+exist in the real world. And there's a fun
+thought experiment that people talk about
+in the fractal world, and that's finding the
+perimeter of England. Or you can actually
+do it with any island. And so England looks
+something like-- and I'm not an
+expert on, let's say it looks something
+like that-- so at first you might approximate
+the perimeter. And you might measure
+this distance, you might measure this
+distance, plus this distance, plus this distance, plus that
+distance, plus that distance, plus that distance. And you're like look, it
+has a finite perimeter. It clearly has a finite area. But you're like, look, that
+has a finite perimeter. But you're like, no,
+wait that's not as good. You have to approximate it a
+little bit better than that. Instead of doing
+it that rough, you need to make a bunch
+of smaller lines. You need to make a
+bunch of smaller lines so you can hug the coast
+a little bit better. And you're like, OK, that's
+a much better approximation. But then, let's say you're
+at some piece of coast, if we zoom in enough,
+the actual coast line is going to look
+something like this. The actual coast
+line will have all of these little divots in it. And essentially, when you did
+that first, when did this pass, you were just measuring that. And you're like, that's not
+the perimeter of the coastline. You're going to have to
+do many, many more sides. You're going to do something
+like this, to actually get the perimeter of the coast line. And you're just like,
+hey, now that is a good approximation
+for the perimeter. But if you were to zoom in on
+that part of the coastline even more, it'll actually turn out
+that it won't look exactly like that. It'll actually come
+in and out like this. Maybe it'll look
+something like that. So instead of having these
+rough lines that just measure it like that, you're going
+to say, oh wait, no, I need to go a little bit closer
+and hug it even tighter. And you can really keep
+on doing that until you get to the actual atomic level. So the actual coastline of
+an island, or a continent, or anything, is actually
+somewhat kind of fractalish. And it is, you can
+kind of think of it as having an almost
+infinite perimeter. Obviously at some
+point you're getting to kind of the atomic level,
+so it won't quite be the same. But it's kind of
+the same phenomenon. It's an interesting thing
+to actually think about.

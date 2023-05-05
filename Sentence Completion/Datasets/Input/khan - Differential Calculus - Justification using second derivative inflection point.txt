@@ -1,0 +1,26 @@
+- [Instructor] The twice
+differentiable function G and its second derivative
+G prime prime are graphed. And you can see it right over here. I'm actually working off of the article on Khan Academy called Justifying Using Second Derivatives. So we see our function G. And we see not its first derivative but its second derivative here in this brown color. So then, the article goes on to say, or the problem goes on to say, four students were asked
+to give an appropriate calculus-based justification for the fact that G has an inflection point
+at X equals negative two. So let's just feel good
+that at least intuitively it feels right. So X equals negative two, remember what an inflection point is. It's where we're going
+from concave downwards to concave upwards. Or, concave upwards to concave downwards. Or another way to think about it it's a situation where our slope goes from
+decreasing to increasing, or from increasing to decreasing. And when we look at it
+over here, it looks like our slope is decreasing, it's positive, but it's decreasing, it goes to zero. Then it keeps decreasing, it becomes it's negative now. It keeps decreasing until we get to about X equals negative two and then it seems that it's increasing, it's getting less and less
+and less and less negative. It looks like it's a zero right over here then it just keeps
+increasing, it gets more and more and more positive. So it does, indeed, look
+like at X equals negative two we go from being concave downwards to concave upwards. Now a calculus based justification is we could look at its,
+at the second derivative and see where the second derivative crosses the X-axis. Because where the second
+derivative is negative that means our slope is decreasing we are concave downwards. And where the second
+derivative is positive it means our first derivative is increasing, our slope
+of our original function is increasing and we are concave upwards. So notice, we do indeed,
+the second derivative does indeed cross the X-axis at X equals negative two. It's not enough for it to just be zero or touch the X-axis, it needs to cross the
+X-axis in order for us to have an inflection point there. So given that, let's look at the students in justifications and see what we can, if we can kind of play put the teacher hat in our mind and say what a teacher would say for the different justifications. So the first one says,
+the second derivative of G changes signs at X equals negative two. Well that's exactly what
+we were just talking about. If the second derivative changes signs in this case, it goes
+from negative to positive, that means our first derivative went from decreasing to increasing. Which is indeed, good for saying this is a calculus-based justification. So, at least for now I'm gonna put kudos you are correct there. It crosses the X-axis. So this is ambiguous. What is crossing the X-axis? If a student wrote this I'd say, what are they talking about, the function, are they talking about
+the first derivative, the second derivative. And so I would say, please
+use more precise language. This cannot be accepted as
+a correct justification. I will read the other ones. The second derivative of G is increasing at X equals negative two. Well no, that doesn't justify why you have an inflection point there. For example, the second derivative is increasing at X equals negative 2.5. The second derivative is even increasing at X equals negative one. But you don't have an inflection point at those places. So I would say, this doesn't justify why G has an inflection point. And then the last student response, the graph of G changes concavity at X equals negative two. That is true but that isn't a
+calculus-based justification. We'd want to use our
+second derivative here.

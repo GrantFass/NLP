@@ -1,0 +1,129 @@
+- [Instructor] We're
+now in the home stretch. We just need to evaluate
+this third surface integral, which is over this top part
+of our little chopped cylinder right over here. So let's try to think
+of a parameterization, and let me just copy and
+paste this entire drawing, just so that I can use it down below as we parameterize it. So let me copy it, copy, and
+then go all the way down here and let me paste it. Let me paste it, okay, that is
+our shape again, our surface. And then we go to the layer
+that I wanted to get on. And then let me start,
+let's start evaluating it. So what we wanna care
+about is the integral over surface three of z d s. And surface three here, we
+see that the x and y values, and since you take on all
+the possible x and y values, inside of the unit circle,
+including the boundary, and then the z values
+are gonna be a function of the x values. We know that this plane, that this top surface right over here, S3, it is a subset of the plane z. Z is equal to one minus x. It's the subset that's kind
+of above the unit circle in the xy-plane, or kind of the subset that intersects with our
+cylinder and kind of chops it. So let's think about x and y's first. Let's think about it in
+terms of polar coordinates because that's probably the
+easiest way to think about it. I'm gonna redraw kind of a top view. So I'm gonna redraw a top
+view, so that is my y-axis and this is my x-axis. X-axis. And the x's and y's can take on any value, they said you have to
+fill the unit circle. So if you were to kind of
+project this top surface down onto the xy-plane, you would
+get this orange surface, that bottom surface,
+which looked like this. It was essentially the
+unit circle just like that. And I'm gonna redraw it a
+little bit neater than that. I can do a better job, so
+that would be, all right. So let me draw the unit
+circle as neatly as I can. So there's my unit circle. And so we can have one parameter. We can have one parameter
+that essentially says how far around the unit
+circle we're going. Essentially that would be our angle and let's use theta, 'cause
+that's, well just for fun. We haven't used theta as a parameter yet. That's theta, but if we had x's and y's as just a function of theta
+and we had a fixed radius, that would essentially
+just give us the points on the outside of the unit circle. But we need to be able
+to have all of the xy's that're outside and
+inside the unit circle. So we actually have to
+have two parameters. We need to not only vary this angle, but we also need to vary the radius. So we would wanna trace out
+the outside of that unit circle and maybe we'd wanna
+shorten it a little bit. And then trace it out again. And then shorten it some more. And then trace it out again. And so you wanna actually
+have a variable radius as well so that you can have how
+far out you're going. You could call that r. So for example if r is fixed and you change your ranges of theta, then you would essentially
+get all of those points right over there and you would
+do that for all of the r's and from r zero all the way to r one and you would essentially fill
+up the entire unit circle. Let's do that, so r is going
+to go between zero and one. R is going to be between zero and one. And our theta, our theta's
+gonna go all the way around. So our theta is going to
+go between zero and two pi. This is, lemme write this down, I wrote zero instead of theta. Our theta is going to be
+greater than or equal to zero, less than or equal to two pi. And now we're ready to parameterize it. X of r and theta is going to be equal to, so whatever r is, it's
+going to be r cosine theta. So x is going to be r cosine theta. Y is going to be r sine theta. That's going to be the y value. R sine theta. And now z is essentially
+just a function of x. Z is going to be equal to one minus x, but x is just r cosine theta. So there you have it. We have our parameterization of this surface right over here. The x's and y's can take all
+the values on the unit circle, but then the z is up here
+based on a function of, well based on really on a function of x. It's one minus x. So that would give us all
+of the possible points right over here on the surface. You pick an x and y and then
+the z is going to pop us right here someplace on that surface. And we can write it as a
+position vector function. Instead of calling that
+position vector function r, since we've already used r for radius, I will call it, I don't
+know, let's call it, I'm just gonna pick a random letter here, let's call it p for
+position vector function. And so p, our surface p
+is, we can write it as, actually no why don't I
+just call it surface three. So surface three, surface three, I'll do it in that same purple color too, just so we know we're talking about this, surface three as a
+position vector function, as a function of theta and r,
+maybe I'll write r and theta 'cause that's how I think of things. R and theta is going to be
+equal to r cosine theta i plus r sine of theta j plus
+one minus r cosine theta, need to get some real estate here, one minus r cosine of theta k. One minus r cosine of theta k. And now we are ready to start
+doing all of the business of evaluating the actual surface integral. So the first thing we need to
+do is take the cross product of this, the partial of
+this with respect to r, and the partial of this
+with respect to theta. Let's just get down to business. Let's take the cross product,
+let's take the cross product and so we have our i unit vector,
+we have our j unit vector, and we have our k unit vector. And this might get a little bit involved but we'll try our best
+to just work through it. Give myself a little bit more space. And so the partial of
+this with respect to r, so let's take the partial
+of this with respect to r, I'll do it in blue, the partial
+of this with respect to r, the partial of this with respect
+to r is just cosine theta i so this is just cosine theta, I said I was gonna do it in
+blue and that's not blue, so this is going to be
+cosine, cosine theta. The partial of this with
+respect to r is sine theta. Sine theta. And the partial of this
+term right over here with respect to r is
+negative cosine theta. Negative cosine theta. Now let's take the partial
+with respect to theta. The partial of this with respect to theta is negative r sine of theta. Negative r sine of theta. The partial of this with respect
+to theta is r cosine theta. R cosine theta. And the partial here, this is zero, and then this would be
+negative r sine theta. Negative r, oh no let me be careful. This is going to be, you have a negative r so the derivative of cosine
+theta with respect to theta is negative sine theta. So the negatives are gonna cancel out and so you're going to have
+r, r sine, r sine theta. And now we can actually
+evaluate that this determinant to figure out the cross product of the partial of this with respect to r and the partial of this
+with respect to theta. I'm not writing it down, just to kind of save
+some real estate here. And so we have, actually
+maybe I will write it down just to be clear what we're doing. The partial of s three
+with respect to r crossed with the partial of s three with respect to theta is equal to, now our i component is gonna be sine theta times r sine theta, so that's going to be
+r sine squared theta, minus r cosine theta times
+negative cosine theta. So that's plus r cosine squared theta. All of that times i, and you already, a simplification might be
+popping out here at you, and then you have minus the j component. The j component is gonna be
+cosine theta times r sine theta. So it's r cosine theta sine theta. And then we're gonna subtract from that. See the negative signs cancel out. So you're gonna subtract
+r sine theta cosine theta, or r cosine theta sine theta. Well this is interesting because these are the
+negatives of each other. R cosine theta sine theta minus
+r cosine theta sine theta. This just evaluates to zero. So we have no j component. And then finally for our k component, we have cosine theta times r cosine theta. So we have r cosine squared theta minus r sine theta times sine theta. Or minus negative r sine
+theta times sine theta. So this would give you a negative but we're gonna have to subtract until it gives you a positive. So plus r sine squared theta k. And so this simplifies quite nicely because this is going to be equal to, this term up here you can factor out an r. This is r times the sine squared theta plus cosine squared theta, which is just, that part simplifies to one
+so that's just r times i. So this is equal to r times i. And we do the same thing over here. This also simplifies. This is actually the same thing. This also simplifies to r. So this whole thing simplifies,
+lemme write it this way, this is also r sine squared
+theta plus cosine squared theta. Also simplifies to r. So you have r times k, and
+so if you want the magnitude of this business, so let me make it clear, so the magnitude, we'll
+go back to the magenta, the magnitude of, I don't
+feel like rewriting it all, just copy and paste it. Edit copy and paste. The magnitude of all of
+this business is going to be equal to the square root of this squared, which is r squared, plus this
+squared, which is r squared, which simplifies to,
+this is two r squared. So you take the square
+root of both of those, you get the square root of two times r. So this is equal to the
+square root of two times, it would be the absolute value of r but we know that r only
+takes on positive values. R only takes on positive values so it's the square root of two times r, which is very nice because
+now we can evaluate d s. D s is going to be this
+business times d r d theta. So let's do it. So our surface integral, the thing that we were dealing
+with from the beginning, that thing right over there. Our surface integral, the
+surface s three, of z d s is now equal to, so I'm gonna
+use different colors for the different
+variables of integration, so one on the outside, and
+then I'll do one on the inside, I'll do the inside one in pink. Z is equal to one minus r cosine theta. So the z is equal to one
+minus r cosine theta. It involves both so I'll
+use a different color. Minus r cosine theta. And then I just have to integrate relative to both of the variables. One minus r cosine theta, oh
+no I have to do the times d s. D s is this thing, it's this thing, times d theta d, d r. So let's see, let's write this out. Times square root of two r,
+so let's write that down, so this times the square root of two r, times the square root of two, and we can write the square
+root of two out front since it's a constant
+so lemme just do that, simplifies things. Square root of two times
+r, and now d theta d r. Or we can write d r d theta, either way. So let's do that. D, let's do d r d theta. So d r d theta, we could do it either way, it's gonna be about the
+same level of complexity. And so first we're going to
+integrate with respect to r, and lemme do the colors
+the same way, actually. So d r, d theta. If I've got colors I
+might as well use them. And actually I just realized
+that I'm way out of time. So actually, let me continue
+this in the next video. We'll set up the boundaries of integration and then just evaluate it.

@@ -1,0 +1,91 @@
+Zane is a dangerous
+fellow who likes to go rock climbing
+inside an active volcano. He is a dangerous fellow. He just heard some
+rumblings, so he's decided to climb out
+as quickly as he can. Zane's elevation
+relative to the edge of the inside of the
+volcano in meters, E, as a function of time in
+seconds is shown in the table below. Zane climbs at a constant rate. So this guy, I mean if we
+were to draw a volcano here, this guy is just kind of silly. So this is my volcano. And he's actually
+climbing on the inside of an active volcano. So there's probably smoke and
+ash and all the other stuff coming out of this thing. So this really is
+dangerous for him. And let's say that this
+right over here is Zane. He's climbing up from
+inside the active volcano. So let's think about
+what they're telling us. So based on the table, which
+of these statements is true? So I'm not going to even look
+at these statements here. I'm just going to try
+to interpret this. So his elevation as a
+function of time in seconds is shown in the table below. So his elevation is negative
+24 when time is equal to 0. And this table is done in a
+kind of nontraditional way. Normally, we would
+have the input into the function on
+the left-hand side. And then we would have
+the function of it on the right-hand side. And actually I like
+looking at things that way, so I'm going to
+make it like that. So let me copy and paste this so
+I can put it on the other side. So let me cut and let me paste
+it, paste it right over here. So this one, now I can think
+of it a little bit clearer. So at time 0, he's going to
+be at negative 24 meters. At time 4 seconds, he's going
+to be at negative 21 meters. So this makes a little bit
+clearer, at least in my head. So let's think about
+what's happening. So where does he start? At time equals 0, where is he? Well at time equals
+0, he is 24 meters below the edge of the volcano. So this distance
+at time equals 0, this distance right
+over here is 24 meters. And we could even
+plot this in a graph. So this is his elevation
+relative to the edge, and it is a function of time. I'll write it like that. And it is negative
+most of this time. So I'm going to make the
+t-axis a little bit higher. So it looks something like that. That's our t-axis. And when t is equal to 0,
+we see that his elevation is negative 24 meters. So his elevation is
+negative 24 meters. So he's going to, this is
+right here at 0 seconds. And then when time increases
+by 4, so our change in time is equal to 4, what's
+his change in elevation? Well, his change in
+elevation is, let's see, he's going from negative
+24 to negative 21. He increased by 3. So his change in elevation
+is equal to positive 3. He increased by 3. So at what rate is he increasing
+his elevation with respect to time? Well, change in elevation
+is equal to 3 per unit. And that's 3 when
+his change in time. And remember this triangle just
+means a Greek letter delta, shorthand for change in. So change in elevation over
+change in times is 3 over 4. So one way to
+think about this is that he goes 3/4 of
+a meter per second. The units up here is meter. The units down here is second. So he goes 3/4 of
+a meter per second. And we can verify that. The next row here, we see
+our change in time is 8. So it's twice as
+much time has passed, so he should have gone
+twice as much distance if his rate is constant. Let's verify that
+that's the case. So he went from negative
+21 to negative 15. His elevation increased by 6. So change in elevation
+over change in time is 6/8, which is the
+same thing as 3/4. So you see that he has
+this constant change. So let's plot a few
+of these points. So when time is 0, his
+elevation is negative 24. When time is 4,
+right over there, his elevation is negative 21. Let's say this looks
+something like this. And so his elevation
+as a function of time is going to look
+something like this. Let me actually draw it a
+little bit more to scale. Because the other
+thing that we do know is that when time is
+32, his elevation is 0. So let me put that
+right over there. When time is 32,
+his elevation is 0. So his elevation as
+a function of time looks something like this. And we could plot other
+points there when time is 4. So 4 is going to
+be at this half. That's a 4. So 4 is going to be
+right over there. His elevation is negative 21. So this is a general idea. He starts at negative
+24 meters and he increases at a rate of
+3/4 meters per second. So which of these
+choices is correct? Zane was 24 meters below
+the edge of the volcano when he decided to leave,
+and he climbs 3 meters every 4 seconds on the way out. That seems right. He climbs 3 meters
+every 4 seconds. So we're going to
+go with that one. Let's make sure that
+these aren't right. Zane was 24 meters
+below the volcano when he decided to
+leave, and he climbs 4 meters every 3 seconds. No, no, it's 3 meters
+every 4 seconds. So that's not right. Zane was 32 meters below
+the edge of the volcano. No, that's not right. Zane was 32 meters. That's not right either.

@@ -1,0 +1,59 @@
+- [Voiceover] Let's say
+that you love frozen yogurt. So every day after school you decide to go to the frozen yogurt store at exactly four o'clock, four o'clock PM. Now, because you like
+frozen yogurt so much, you are not a big fan of having to wait in line when you get
+there, you're impatient, you want your frozen yogurt immediately. And so you decide to conduct a study. You want to figure out the probability of there being lines of different sizes when you go to the frozen yogurt store after school, exactly at four o'clock PM. So in your study, the
+next 50 times you observe, you go to the frozen
+yogurt store at four PM, you make a series of observations. You observe the size of the line. So, let me make two columns here, line size is the left column, and on the right column, let's say this is the
+number of times observed. So, times observed, observed. All right, times observed,
+my handwriting is, O-B-S-E-R-V-E-D, all
+right, times observed. All right, so let's first think about it. Okay, so you go and you say, hey look, I see no people in line,
+exactly, or you see no people in line, exactly 24 times. You see one person in line exactly 18 times, and you see two people in
+line exactly eight times. And, in your 50 visits,
+you don't see more, you never see more than
+two people in line. I guess this is a very efficient cashier at this frozen yogurt store. So based on this, based
+on what you have observed, what would be your estimate
+of the probabilities of finding no people in
+line, one people in line, or two people in line,
+at four PM on the days after school that you visit
+the frozen yogurt store? You only visit it on weekdays
+where there are schooldays. So what's the probability
+of there being no line, a one person line, or a two person line when you visit at four PM on a school day? Well, all you can do is
+estimate the true probability, the true theoretical probability. We don't know what that is, but you've done 50 observations here right. I know that this adds up to 50, 18 plus eight is 26, 26 plus 24 is 50, so you've done 50 observations here and so you can figure out, well what are the relative frequencies
+of having zero people? What is the relative
+frequency of one person, or the relative frequency
+of two people in line? And then we can use that as the estimates for the probability. So let's do that. So, probability estimate. I'll do it in the next column. So probability, probability estimate, and once again we can do that by looking at the relative frequency. The relative frequency of zero, well we observed that 24 times out of 50. So, 24 out of 50 is the same thing as 0.48, or you could even say that this is 48%. Now, what's the relative frequency of seeing one person in line? Well you observed that
+18 out of the 50 visits, 18 out of the 50 visits, that
+would be a relative frequency, 18 divided by 50 is 0.36, which is 36% of your visits. And then, finally, the relative frequency of seeing a two person line, that was eight out of the 50 visits, and so that it 0.16, and that is equal to 16% of the visits. And so, there's interesting things here. Remember, these are
+estimates of the probability. You're doing this by essentially sampling what the line on 50 different
+days, you don't know, it's not gonna always be exactly this, but it's a good estimate,
+you did it 50 times. And so based on this, you'd
+say, well I'd estimate the probability of having
+a zero person line as 48%. I'd estimate the probability of having a one person line as 36%. I'd estimate the probability of having a two person line is 16%, or is 0.16. It's important to realize that these are legitimate probabilities. Remember, to be a
+probability, it has to be between zero and one, it
+has to be zero and one. And if you look at all
+of the possible events, it should add up to one,
+because at least based on your observations, these
+are the possibilities. Obviously in a real world,
+it might be some kind of crazy thing where
+more people go in line. But at least based on the
+events that you've seen, these three different
+events, and these are the only three that you've observed, based on your observations,
+these three should add, cause these are the only
+three things you've observed, they should add up to one,
+and they do add up to one. Let's see, 36 plus 16 is 52, 52 plus 48, they add up to one. Now, if once you do this, you might do something interesting. You might say, okay, you know what, over the next two years, you plan on visiting 500 times. So visiting 500 times, so based on your estimates of the probability of having no line, of a one person line,
+or a two person line, how many times in your
+next 500 visits would you expect there to be a two person line? Based on your observations so far. Well, it's reasonable to say, well a good estimate
+of the number of times you'll see a two person line
+when you visit 500 times, well you say, well there's
+gonna be 500 times, and it's a reasonable expectation, based on your estimate
+of the probability that 0.16 of the time, you will see a two person line. Or you could say eight
+out of every 50 times. And so what is this going to be? Let's see, 500 divided by 50 is just 10, so you would expect that
+80 out of the 500 times you would see a two person line. Now to be clear, I would be shocked if it's exactly 80 ends up being the case, but this is actually a very good expectation based on your observations. It is completely possible, first of all, that your observations were off. That you, you know, that
+it's just the random chance that you happened to observe this many or this few times that there
+were two people in line. So that could be off. But even if these are very good estimates, it's possible that something, that you see a two person line 85 out of the 500 times, or 65 out of the 500 times. All of those things are possible. And it's always very
+important to keep in mind, you're estimating the
+true probability here, which it's very hard to know for sure what the true probability is,
+but you can make estimates based on sampling the
+line on different days, by making these observations,
+by having these experiments so to speak, each of these observations you could use in experiment, and then you can use those to set an expectation. But none of these things
+do you know for sure, that they're definitely gonna be exactly 80 out of the next 500 times.

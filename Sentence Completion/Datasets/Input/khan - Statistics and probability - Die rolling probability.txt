@@ -1,0 +1,69 @@
+Find the probability
+of rolling doubles on two six-sided dice
+numbered from 1 to 6. So when they're talking
+about rolling doubles, they're just saying,
+if I roll the two dice, I get the same number
+on the top of both. So, for example, a 1
+and a 1, that's doubles. A 2 and a 2, that is doubles. A 3 and a 3, a 4 and a 4,
+a 5 and a 5, a 6 and a 6, all of those are
+instances of doubles. So the event in question
+is rolling doubles on two six-sided dice
+numbered from 1 to 6. So let's think about all
+of the possible outcomes. Or another way to
+think about it, let's think about the
+sample space here. So what can we roll
+on the first die. So let me write this
+as die number 1. What are the possible rolls? Well, they're
+numbered from 1 to 6. It's a six-sided die, so I can
+get a 1, a 2, a 3, a 4, a 5, or a 6. Now let's think about the
+second die, so die number 2. Well, exact same thing. I could get a 1, a 2,
+a 3, a 4, a 5, or a 6. Now, given these possible
+outcomes for each of the die, we can now think of the
+outcomes for both die. So, for example, in this--
+let me draw a grid here just to make it a little bit neater. So let me draw a line there and
+then a line right over there. Let me draw actually
+several of these, just so that we could really
+do this a little bit clearer. So let me draw a full grid. All right. And then let me draw the
+vertical lines, only a few more left. There we go. Now, all of this top row,
+these are the outcomes where I roll a 1
+on the first die. So I roll a 1 on the first die. These are all of those outcomes. And this would be I run
+a 1 on the second die, but I'll fill that in later. These are all of the
+outcomes where I roll a 2 on the first die. This is where I roll
+a 3 on the first die. 4-- I think you get the
+idea-- on the first die. And then a 5 on
+the first to die. And then finally, this last
+row is all the outcomes where I roll a 6
+on the first die. Now, we can go
+through the columns, and this first column is where
+we roll a 1 on the second die. This is where we roll
+a 2 on the second die. So let's draw that out, write
+it out, and fill in the chart. Here's where we roll
+a 3 on the second die. This is a comma that I'm
+doing between the two numbers. Here is where we have a 4. And then here is where
+we roll a 5 on the second die, just filling this in. This last column is where we
+roll a 6 on the second die. Now, every one of these
+represents a possible outcome. This outcome is where we roll
+a 1 on the first die and a 1 on the second die. This outcome is where we
+roll a 3 on the first die, a 2 on the second die. This outcome is where we
+roll a 4 on the first die and a 5 on the second die. And you can see here, there are
+36 possible outcomes, 6 times 6 possible outcomes. Now, with this out of the way,
+how many of these outcomes satisfy our criteria of rolling
+doubles on two six-sided dice? How many of these outcomes
+are essentially described by our event? Well, we see them right here. Doubles, well, that's rolling
+a 1 and 1, that's a 2 and a 2, a 3 and a 3, a 4 and a 4, a
+5 and a 5, and a 6 and a 6. So we have 1, 2, 3, 4, 5, 6
+events satisfy this event, or are the outcomes that are
+consistent with this event. Now given that, let's
+answer our question. What is the probability
+of rolling doubles on two six-sided die
+numbered from 1 to 6? Well, the probability
+is going to be equal to the number of outcomes
+that satisfy our criteria, or the number of outcomes
+for this event, which are 6-- we just figured
+that out-- over the total-- I want to do that pink
+color-- number of outcomes, over the size of
+our sample space. So this right over here,
+we have 36 total outcomes. So we have 36 outcomes,
+and if you simplify this, 6/36 is the same thing as 1/6. So the probability
+of rolling doubles on two six-sided dice
+numbered from 1 to 6 is 1/6.

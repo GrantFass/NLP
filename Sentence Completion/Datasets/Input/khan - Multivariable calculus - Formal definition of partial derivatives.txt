@@ -1,0 +1,101 @@
+- [Voiceover] So, I've talked about the partial derivative
+and how you compute it, how you interpret in terms of graphs, but what I'd like to do here
+is give its formal definition. So, it's the kind of
+thing, just to remind you, that applies to a function that
+has a multi-variable input. So, X, Y, and you know,
+I'll emphasize that it could actually be a
+number of other inputs. You could have 100 inputs, or something like that, and as with
+a lot of things here, I think it's helpful to take a look at the one dimensional
+analogy and think about how we define the derivative,
+just the ordinary derivative, when you have a function
+that's just one variable. You know, this would be
+just something simple, F of X, and you know, if you're thinking in the back of your mind that
+it's a function like F of X equals X squared, and
+the way to think about the definition of this is
+to just actually spell out how we interpret this
+D F and D X, and then slowly start to tighten it
+up into a formalization. So, you might be thinking of
+the graph of this function. You know, maybe it's some
+kind of curve, and when you think of evaluating it
+at some point, you know, let's say you're
+evaluating it at a point A, you're imagining D X here as
+representing a slight nudge, just a slight nudge in the input value. So, this is in the X direction. Got your X coordinate, your output, F of X is what the Y axis
+represents here, and then you're thinking of D F as
+being the resulting nudge here, the resulting change to the function. So, when we formalize this,
+we're gonna be thinking of a fraction that's gonna
+represent D F over D X, and I'll leave myself some room. You can probably anticipate
+why if you know where this is going, and instead
+of saying D X, I'll say H. So instead of thinking
+D X is that tiny nudge, you'll think H, and I'm not
+sure why H is used necessarily, but just having some
+kind of variable that you think of as getting
+small, maybe all the other letters in the alphabet were taken. Now, when you actually
+say, what do we mean by the resulting change in
+F, we should be writing, as well, where does it go after you nudge? So, when you take, you
+know, from that input point, plus that nudge, plus that little H, what's the difference
+between that and the original function, or the original value of the function, at that point? So, this top part is really
+what's representing D F. You know, this is what's
+representing D F over here, but you don't do this for
+any actual value of H. You don't do it for any specific nudge. Largely, the whole point
+of calculus is that you're considering the limit as
+H goes to zero of this, and this is what makes
+concrete the idea of, you know, a tiny little nudge or a
+tiny little resulting change. It's not that it's any specific one. You're taking the limit,
+and you know, you could get into the formal definition of a limit, but it gives you room for rigor as soon as you start writing something like this. Now, over in the multi-variable
+world, very similar story. We can pretty much do the
+same thing, and we're gonna look at our original
+fraction, and just start to formalize what we think of each of these variables as representing. That partial X, still it's
+common to use the letter H, just to represent a tiny nudge in the X direction, and now if we think about what is that nudge, and here, let me draw it out, actually. The way that I kinda
+like to draw this out is you think of your entire input space as, you know, the X Y plane. If it was more variables, this would be a high dimensional space,
+and you're thinking at some point, you know,
+maybe you're thinking of it as A B, or maybe I should specify that, actually, where we're doing this at a specific point how you define it. We're doing this at a very specific point, A B, and when you're
+thinking of your tiny little change in X, you'd be thinking, you know, a tiny little nudge in the X direction, a tiny little shift there,
+and the entire function maps that input space, whatever it is, to the real number line. This is your output
+space, and you're saying, hey, how does that tiny
+nudge influence the output? I've drawn this diagram
+a lot, this loose sketch. I think it's actually a pretty good model, because once we start thinking of higher dimensional outputs
+or things like that, it's pretty flexible, and
+you're thinking of this as your partial X, your changing the X direction, and
+this is that resulting change for the function. But, we go back up here, and we say, well what does that mean, right? If H represents that tiny
+change to your X value, well then you have to evaluate
+the function at the point A, but plus that H, and you're adding it to the X value, that first component, just because this is
+the partial derivative with respect to X, and the point B just remains unchanged, right? So, this is you evaluating it, kind of, at the new point, and you have to say, what's the difference
+between that and the old evaluation, where it was just at A and B. And that's it. That's the formal definition
+of your partial derivative, except, oh, the most
+important part, right? The most important part, given that this is calculus is that
+we're not doing this for any specific value
+of H, but we're actually, let me just move this guy. Give a little bit of room here. Yes. But, we're actually taking the limit here, limit, as H goes to zero, and what this means is you're
+not considering any specific size of D X, any specific size of this. Really, this is H, considering
+the notation up here, but any size for that partial X. You're imagining that nudge shrinking more and more and more,
+and the resulting change shrinks more and more and more, and you're wondering what the ratio
+between them approaches. So, that would be the partial derivative with respect to X, and just for practice, let's actually write out
+what the partial derivative with respect to Y would be. So, we'll get rid of some of this one dimensional analogy stuff here. Don't need that anymore,
+and let's just think about what the partial
+derivative with respect to a different variable would be. So, if we were doing it
+as partial derivative of F with respect to Y,
+now we're nudging slightly in the other direction, right? We're nudging in the Y
+direction, and you'd be thinking, okay, so we're still
+gonna divide something by that nudge, and again I'm
+just using the same variable. Maybe it would be clearer
+to write something like the change in Y, or to
+go up here and write something like, you know, the change in X, and people will do
+that, but it's less common. I think people just kinda want the standard go-to limiting variable. But, this time when you're considering what is the resulting
+change, oh, and again, I always forget to write
+in we're evaluating this at a specific point, at
+a specific point A B, and as a result, maybe I'll give myself a little bit more room here. So, we're taking this whole thing, dividing by H, but what is
+the resulting change in F? This time you say F, the new
+value is still gonna be at A, but the change happens
+for that second variable. It's gonna be that B, B plus H. So, you're adding that nudge to the Y value, and as
+before, you subtract off. You see the difference
+between that and how you evaluate it at the
+original point, and again, the whole reason I move
+this over and give myself some room is because
+we're taking the limit, as this H goes to zero, and the way that you're thinking about
+this is very similar. It's just that when you change the input by adding H to the Y value,
+you're shifting it upwards. So, again, this is the partial derivative, the formal definition of
+the partial derivative. Looks very similar to
+the formal definition of the derivative, but I just
+always think about this as spelling out what we mean by partial Y and partial F,
+and kinda spelling out why it is that the Leibniz's came up with this notation in the first place. Well, I don't know if Leibniz
+came up with the partials, but the D F, D X portion, and this is good to keep in the back of your mind, especially as we introduce new notions, new types of multi-variable derivatives, like the directional derivative.  I think it helps clarify
+what's really go on in certain contexts. Great. See ya next video.

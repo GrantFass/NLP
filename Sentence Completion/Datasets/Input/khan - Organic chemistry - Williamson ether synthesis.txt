@@ -1,0 +1,127 @@
+One way to make ethers is
+to use the Williamson ether synthesis, which is where
+you start with an alcohol, and you add a strong base
+to deprotonate the alcohol. Once you deprotonate
+the alcohol, you add an alkyl halide,
+and primary alkyl halides work the best. We'll talk about
+why in a minute. And what happens is you end
+up putting the R prime group from your alkyl
+halide on to what used to be your alcohol to
+form your ether like that. So let's look at the mechanism
+for the Williamson ether synthesis, where you
+start with your alcohol. We know that alcohols can
+function as weak acids. So if you react an alcohol
+with a strong base, something like sodium hydride, we know
+that the hydride portion of the molecule is going to
+function as a strong base. This lone pair of
+electrons is going to take that proton,
+which is going to kick these electrons
+off onto the oxygen. So if we're drawing the product
+of that acid-based reaction, we now have an oxygen
+with three lone pairs of electrons around it, giving
+it a negative 1 formal charge. And we call that an
+alkoxide anion, which would interact
+with the positively charged sodium ion
+floating around. So there's some electrostatic
+or ionic interaction between those opposite charges. And here's where you
+introduce your alkyl halide. So if we draw our alkyl halide,
+it would look like this. And we know that there's an
+electronegativity difference between our halogen
+and our carbon, where our halogen is going
+to be partially negative, and our carbon is going
+to be partially positive. Partially positive carbon
+means that that carbon wants electrons. It's going to function
+as an electrophile in the next step
+of the mechanism. And a lone pair of
+electrons in the oxygen is going to function
+as a nucleophile. So opposite charges attract. A lone pair of electrons
+on our nucleophile are going to attack our
+electrophile, our carbon. At the same time, the
+electrons in the bond between the carbon
+the halogen are going to kick off onto
+the halogen like that. So this is an
+SN2-type mechanism, which is why a primary alkyl
+halide will work the best, because that has the decreased
+steric hindrance compared to other alkyl halides. So what will happen is,
+after nucleophilic attack, we're going to attach our
+oxygen to our carbon like that, and we form our ether. So if we wanted to, we
+could just rewrite our ether like this to show it as we added
+on an R prime group like that. Let's look at an example of
+the Williamson ether synthesis. So if I start with a molecule
+over here on the left, and it's kind of an
+interesting-looking molecule. It's called beta-naphthol. And so beta-naphthol has two
+rings together like this, and then there's an OH coming
+off of one of the rings, like that. So that's beta-naphthol. And in the first
+part, we're going to add potassium
+hydroxide as our base. Now, potassium hydroxide
+is not as strong of a base as sodium hydride
+is, but in this case, it's OK to use a
+little bit weaker base. So the lone pair of
+electrons on the hydroxide are going to take that proton,
+leaving these electrons behind on the oxygen. So when we draw the conjugate
+base to beta-naphthol-- and we can go ahead
+and show that-- we're going to take off
+that proton, which is going to leave
+that oxygen there with three lone
+pairs of electrons, giving it a negative
+1 formal charge. So this is our alkoxide anion. And this alkoxide anion
+is resonance stabilized. So a resonance-stabilized
+conjugate base stabilizes the
+conjugate base, which makes beta-naphthol a little bit
+better acid than other alcohols that we will talk about. So since beta-naphthol is
+a little bit more acidic, that's why it's OK for us to use
+a weaker base for this example. So potassium hydroxide
+is strong enough to take away the acidic
+proton in beta-naphthol because the conjugate
+base to beta-naphthol is resonance stabilized. So in the second step, once we
+have formed our alkoxide anion, this is where we add
+our alkyl halide. So if I add my alkyl
+halide in my second step-- let's see if we can
+have enough room here-- I'm going to use methyl
+iodide as our alkyl halide. So methyl iodide
+looks like that. And once again, we
+know this carbon is going to be the
+electrophilic carbon, so nucleophile, electrophile. So a lone pair of electrons on
+the oxygen attacks the carbon, kicks these electrons
+off onto the iodide, and we form our product. So let's go ahead and draw the
+ether product that will result. So these rings are going
+to stay the same like that. And we now are going to have
+our oxygen attached to a methyl group, which came from the
+methyl iodide like that. So we formed our product. This product is
+called nerolin, which is a fixative used in perfume. So this has an
+interesting smell to it. So if you ever get a chance
+to do this Williamson ether synthesis, it's just interesting
+to see what nerolin smells like, what it looks like,
+and to think about it as being a component
+of some perfumes. Let's think about
+synthesizing an ether. So if you were given a problem
+where the question said something like, OK,
+here is the ether that you want to synthesize. What would you need
+in order to do so? So you need to think about,
+OK, there's my ether, and I'm going to make it from
+some other things over here. And if I analyze the alkyl
+groups attached to my ether, and I have a methyl
+group over here, and this would be like a
+cyclohexyl group over here. And one of those
+two groups I'm going to use for my alkyl halide. You want to use the group that's
+the least sterically hindered since it's an
+SN2-type mechanism. So you want to go
+with the methyl group. So in your second
+step, you would need to add something
+like methyl iodide. That's the least
+sterically hindered, so that's going to improve
+your yield on this reaction. So that's the second step. And in the first step, you'd
+have to add a strong base, so we'll use sodium
+hydride here. And your alcohol, therefore,
+must come from this. So this must be where
+your alcohol comes from. So if I'm going to show
+my starting alcohol, it would have to look like this. So if I add that alcohol in
+the first step, sodium hydride, I take off that proton,
+form an alkoxide, that alkoxide nucleophilic
+attacks the methyl iodide to add the
+methyl group on, and to form the
+ether on the right. So that's how to think about
+using the Williamson ether synthesis. So think about
+retrosynthesis and think about which alkyl
+group is the best one to use for
+your alkyl halide.

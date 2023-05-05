@@ -1,0 +1,81 @@
+I told you that the two most
+important things you should know in thermodynamics that will
+get you most of your way through most exams is that the
+pressure times the volume is equal to a constant, and that
+the pressure times the volume divided by the temperatures
+is equal to a constant. They all change such that the
+initial pressure times the volume divided by the initial
+temperature is equal to the final pressure times volume
+divided by the final temperature. Assuming that you're not
+changing the energy of the system, and we'll do
+more on that later. The other thing you should
+remember is that pressure times volume is equal
+to n, where n is the number of moles. Mole is a number like dozen, but
+mole is a huge number-- 6 times 10 to the 23 times R. R was the universal gas
+constant-- that's 8.31 joules per mole Kelvin times
+the temperature. Remember, just to be safe,
+always convert to Kelvin first. Let's see if we can do a problem
+that I can make up on the fly of this situation. Let's say I have a balloon, and
+the volume of the balloon is 1 meter cubed, so this
+is a big balloon. That's fairly large, if you
+imagine a cubic meter. The volume is a cubic meter, and
+let's say the pressure is equal to 5 pascals, and that's
+newtons per meter squared. And let's say we're at a
+reasonably warm temperature, so temperature is equal to 20
+degrees Celsius, and let's say that balloon is filled helium. My question to you is, how many
+molecules of helium do I have in the balloon? Let's just substitute
+into the equation. We have pressure, which is 5--
+and I'll actually write the units, I never do it, but you
+should, and you should always do it on an exam-- 5
+newtons per meter squared times the volume. 1 meter cubed is equal to my
+number of moles, n, times the universal gas constant, 8.31
+joules per mole Kelvin, times temperature. Remember, and I can't repeat
+this enough, always convert the temperature to Kelvin--
+so whatever our Celsius temperature is, add 273. Add 273 to that, and
+you get 293 Kelvin. So I get 5 times 1, and meters
+square, meters cubed cancels out and just becomes a meter. Newton meter is joules. 5 joules is equal to
+n moles times 8.31 joules per mole Kelvin. This Kelvin and this Kelvin
+cancel out, so 8.31 times 293 is equal to 2,434.83
+joules per mole. To get to the number of moles,
+we just divide both sides of this equation by that. And the units should work
+out, so you get 5. So n is equal to 5 joules
+times 1 over 2,434.83. Since we're dividing by this,
+this flips; moles per joule. This joule cancels out with this
+joule, so we just have to divide 5 by this, and we'll
+get the number of moles. Let's take the inverse of what
+I had there times 5, and so I get 0.002 moles. So this equals 0.0021 moles. That might seem like a small
+number to you, but let's figure out how many
+molecules that is. Let me make some space free,
+so I can write Avogadro's number down. Did I even say what Avogadro's
+number is? Avogadro's number is the number
+of molecules per mole-- it's that number. So, number Avogadro is equal
+to 6.022 times 10 to the 23 molecules per mole. The top is molecules, and the
+bottom is moles-- I know you can't read that. I have 0.0021 moles, so how
+many molecules do I have? I just multiply that 0.0021
+times how many moles per molecule-- because this is
+moles-- times Avogadro's number, which is molecules
+per mole. That's molecules, this is
+moles-- maybe I should write the whole thing-- so then the
+moles cancel out, and Avogadro's number is 6.022 times
+10 to the 23-- let's just remember that--
+and let's just multiply that times 0.0021. It equals 0.0126 times 10
+to the 23 molecules. This is 0.0126. That's the same thing as 1.26
+times 0.01, and then of course times 10 to the 23. What's 0.01? That's 10 to the negative 2--
+10 to the negative 1 is 0.1, so this 10 to the negative 2. Then we get 1.26-- 10 to the
+negative 2, times 10 to the negative 3, and we add the
+exponents times 10 to the 21. It's roughly 1.26, and then
+another 19 zeroes-- or roughly 1 followed by 21 zeroes-- is how
+many molecules of, in this case, helium we had
+in the balloon. It's not too difficult. The hard part is really just
+remembering Avogadro's number, remembering the universal gas
+constant is 8.31 joules per mole Kelvin, remembering
+to always convert your temperature to Kelvin, and then
+just making sure all your units match up. Sometimes that might be tricky:
+they might give volume in liters, and you have to--
+especially in this case-- convert it to meters cubed
+before you do it. They might give pressure,
+atmospheres, or bars, and you should know the conversion, and
+convert it to pascals or newtons per meter squared. Other than that, it's just
+substituting and just doing the hairy math and the
+scientific notation. Hopefully, that was vaguely
+clarifying. See you in the next video.

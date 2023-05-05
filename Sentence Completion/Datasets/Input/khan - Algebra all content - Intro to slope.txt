@@ -1,0 +1,49 @@
+- [Voiceover] As we start to graph lines, we might notice that they're
+differences between lines. For example, this pink or
+this magenta line here, it looks steeper than this blue line. And what we'll see is
+this notion of steepness, how steep a line is, how
+quickly does it increase or how quickly does it decrease, is a really useful idea in mathematics. So ideally, we'd be
+able to assign a number to each of these lines
+or to any lines that describes how steep it is, how quickly does it increase or decrease? So what's a reasonable way to do that? What's a reasonable way to assign a number to these lines that
+describe their steepness? Well one way to think
+about it, could say well, how much does a line increase in the vertical direction for a given increase in
+the horizontal direction? So let's write this down. So let's say if we an increase increase, in vertical, in vertical, for a given increase in horizontal for a given increase a given increase in horizontal. So, how can this give us a value? Well let's look at that
+magenta line again. Now let's just start at an arbituary point in that magenta line. But I'll start at a point where it's going to be easy for me to figure out what point we're at. So if we were to start right here, and if I were to increase
+in the horizontal direction by one. So I move one to the right. To get back on the line, how much do I have to increase in
+the vertical direction? Well I have to increase in
+the vertical direction by two. By two. So at least for this magenta line, it looks like our increase in vertical is two, whenever we have an increase in one in the horizontal direction. Let's see, does that
+still work if I were to start here, instead of
+increasing the horizontal direction by one, if I were increase in the horizontal direction... So let's increase by three. So now, I've gone plus three in the horizontal direction, then to get back on the line, how much do I have to increase
+in the vertical direction? I have to increase by one,
+two, three, four, five, six I have to increase by six. So plus six. So when I increase by three in the horizontal direction, I increase by six in the vertical. We were just saying,
+hey, let's just measure how much to we increase in vertical for a given increase in the horizontal? Well two over one is just two and that's the same
+thing as six over three. So no matter where I start on this line, no matter where I start on this line, if I take and if I increase
+in the horizontal direction by a given amount, I'm going to increase twice as much twice as much in the vertical direction. Twice as much in the vertical direction. So this notion of this
+increase in vertical divided by increase in horizontal, this is what mathematicians
+use to describe the steepness of lines. And this is called the slope. So this is called the slope of a line. And you're probably
+familiar with the notion of the word slope being
+used for a ski slope, and that's because a ski slope
+has a certain inclination. It could have a steep
+slope or a shallow slope. So slope is a measure for
+how steep something is. And the convention is, is
+we measure the increase in vertical for a given
+in increase in horizontal. So six two over one is
+equal to six over three is equal to two, this
+is equal to the slope of this magenta line. So let me write this down. So this slope right over
+here, the slope of that line, is going to be equal to two. And one way to interpret that, for whatever amount you increase in the horizontal direction,
+you're going to increase twice as much in the vertical direction. Now what about this blue line here? What would be the slope of the blue line? Well, let me rewrite another
+way that you'll typically see the definition of slope. And this is just the
+convention that mathematicians have defined for slope but it's a valuable one. What is are is our change in vertical for a given change in horizontal? And I'll introduce a new notation for you. So, change in vertical, and in this coordinate, the vertical is our Y coordinate. divided by our change in horizontal. And X is our horizontal coordinate in this coordinate plane right over here. So wait, you said change in but then you drew this triangle. Well this is the Greek letter delta. This is the Greek letter delta. And it's a math symbol used
+to represent change in. So that's delta, delta. And it literally means, change in Y, change in Y, divided by change in X, change in X. So if we want to find the
+slope of the blue line, we just have to say, well
+how much does Y change for a given change in X? So, the slope of the blue line. So let's see, let me do it this way. Let's just start at some point here. And let's say my X changes by two so my delta X is equal to positive two. What's my delta Y going to be? What's going to be my change in Y? Well, if I go by the right by two, to get back on the line, I'll have to increase my Y by two. So my change in Y is also
+going to be plus two. So the slope of this blue line, the slope of the blue line, which is change in Y over change in X. We just saw that when our
+change in X is positive two, our change in Y is also positive two. So our slope is two divided by two, which is equal to one. Which tells us however much we increase in X, we're going to increase
+the same amount in Y. We see that, we increase
+one in X, we increase one in Y. Increase one in X, increase one in Y. >From any point on the line,
+that's going to be true. You increase three in X, you're going to increase three in Y. It's actually true the other way. If you decrease one in X, you're going to decrease one in Y. If you decrease two in X, you're going to decrease two in Y. And that makes sense from
+the math of it as well Because if you're change
+in X is negative two, that's what we did right over here, our change is X is negative two, we went two back, then your change in Y is going
+to be negative two as well. Your change in Y is
+going to be negative two, and negative two divided by negative two, is positive one, which
+is your slope again.

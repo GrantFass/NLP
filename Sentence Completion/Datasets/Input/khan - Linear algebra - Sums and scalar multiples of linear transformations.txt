@@ -1,0 +1,194 @@
+Let's say I have two
+transformations. I have the transformation S,
+which is a function or a transformation from Rn to
+Rm, and I also have the transformation T,
+which is also a transformation from Rn to Rm. I'm going to define right now
+what it means to add the two transformations. So this is a definition. Let me write it as
+a definition. I'm going to define the
+addition of our two transformations. So if I add our two
+transformations, the addition of two transformations operating
+on some vector x, this is a definition. I'm going to say this is the
+same thing as the first transformation operating on the
+vector x plus the second transformation operating
+on the vector x. And obviously, this is going
+to end up being a vector in Rm, so this whole thing is going
+to be a vector in Rm. By definition, this S plus T
+transformation is still a transformation because it
+takes an input from Rn. It's still a transformation
+from Rn to Rm. Now let me make another
+definition. Let me define -- I'll
+do it in green. Maybe I'll do it in purple. I'm going to define a scalar
+multiple of a transformation. So I'm going to define, let's
+say c, where c is just any real number. c times the transformation S of
+some vector x, I'm going to say that this is equal to c
+times the transformation of x. And so similarly, the
+transformation of x obviously is going to be in Rm. So if you multiply any vector
+in Rm times some scalar, you're still going to have
+another vector in Rm. So luckily for us, this
+definition of a scalar multiple-- so if I have this
+new transformation called c times S, this is still a
+mapping from Rn to Rm. This is still a vector
+in Rm and this is still a vector in Rn. Fair enough. Now, let's see what happens if
+we look at their corresponding matrices for these
+transformation. We've seen in a previous video
+that any linear transformation can be represented as a
+matrix vector product. So let's say that S of a vector
+x is equivalent to the matrix A times that vector x. And let's say that T of x is
+equal to the matrix B times the vector x. And, of course, since both of
+these guys are mappings from Rn to Rm, both of these
+matrices are going to be m by n. Both of these are
+m by n matrices. Now, let's just go back to these
+definitions that I just constructed. What is S of T of x? That can then be written as--
+so let me write it this way. I'll do it in that same color. So you have S-- I was going
+to do it in red. Maybe I'll do it right here. You have S plus T-- that's
+a capital T. S plus T of x-- I'm just
+re-writing this up here -- is equal to S of x plus T of x, or
+the transformation T of x, which we now know is equal
+to these two things. So this is equal to this
+term right there. The transformation S of
+x is equal to Ax. That's that one right there. And then the transformation
+T of x is equal to B, the matrix B times x. Now, what are these things? Let me write our two matrices in
+a form that you're probably familiar with right now. Let's say the matrix A is just a
+bunch of column vectors: a1, a2, all the way to an. And similarly, the matrix
+B is just a bunch of column vectors. The matrix B is b1, b2,
+all the way to bn. These are each column vectors
+with m components, one for each of the rows, and there's n
+of these because there are n columns in each of
+these vectors. So when you multiply this
+guy times-- let me make it very clear. If I multiply an x, the vector
+x is going to look like this. The vector x is going
+to be x1, x2, all the way down to xn. And we've shown this multiple,
+multiple times. It's a very handy way
+of thinking about matrix vector products. But we know that this product
+right here can be written be as each of these scalar terms
+in x times its corresponding column vector in A. I've done this, and it's
+probably the fifth video that I'm doing this. So this can be written as x1, x1
+times a1 plus x2 times a2, all the way to xn times
+an is equal to this. That's what ax can be rewritten
+as, as kind of a weighted combination of these
+column vectors where the weights are each of the values
+of our vector x. And I have to add
+this guy to bx. So bx, by the same argument, so
+plus is just going to be-- let me do it in the blue. It's going to be x1 times b1
+plus x2 times b2, all the way to xn times bn. Now, what is this equal to? Well, we know that scalar
+multiplication times vector exhibits the distributive
+property, so we can just add these two guys right here
+and factor out the x1. And what do we get? We get this is equal to-- this
+whole expression right here, let me draw a line here, because
+I'm not saying this matrix is equal to that. I'm saying that this is equal to
+this, is equal to this term plus this term, which is equal
+to x1 times a1 plus b1, plus x2 times a2-- I'm just adding
+these two terms up-- x2 times a2 plus b2, all the way to
+plus xn times an plus bn. So what is this thing
+equal to? Well, this is equal to some new
+matrix, and let's define this new matrix. This is equal to some new
+matrix-- I'll make it pretty big right here-- times
+our vector x . I'll do the vector x in green. Vector x we know is x1, x2,
+all the way down to xn. But what is the new matrix
+going to be? Well, this product is going to
+be each of these scalar terms times the column vectors
+of this matrix. So these guys right here are
+the columns of my matrix. This thing is equivalent to a
+matrix where the first column right here is a1 plus b1. We're essentially adding
+the column vectors of those two guys. The second column right here--
+let me draw a little line right there to show you that
+these are different expressions. The second one would be a2 plus
+b2, and then we'll just have a bunch of them, and
+then the last one will just be an plus bn. So what happens is that, by
+definition, when I added these two transformations,
+I just used their corresponding matrices. And I said you know what? The addition of these two
+transformations created a new transformation that is
+essentially some matrix times my vector, and that matrix ended
+up being the sum of the corresponding column vectors
+of our two original transformation matrices,
+right? This new matrix that I got, and
+I haven't defined matrix addition yet, but we got
+here just by thinking about vector addition. This matrix is constructed by
+adding the corresponding vectors of the matrices
+A and B. Now, why did I go through
+all of this trouble? Well, I can make a new
+definition here that'll make everything fit together well. I'm going to define this matrix
+right here as A plus B. So my new matrix definition,
+if I have two matrices that have the same dimensions, and
+they have to have the same dimensions, I'm defining A plus
+B to be equal to some new matrix where you add up their
+corresponding columns. So a1 plus b1, just like what
+I did here, I don't have to rewrite it, all the way up to an
+plus bn is the last column. And you've seen this before in
+your algebra II class, but I wanted here to do it, because
+this shows you the motivation for it. Because now we can say
+that the sum of two transformations, So S plus T of
+x, which is equal to S of x-- this is a vector-- S of x
+plus T of x, which we know is equal to A times x plus B times
+x, we can now say is equal to, because it's equal to
+some new matrix, which we can now call A plus
+B times x, right? I just showed this part is from
+the definition of our transformations into some of
+our transformation that I defined earlier in this video. And then when we just worked
+this out and kind of expressed these products as products of or
+as weighted combinations of the column vectors
+of these guys, we got to this new matrix. And I defined this new
+matrix as A plus B. And I did that because it has
+this neat property now because now the sum of two linear
+transformations operating on x is equivalent to, when you think
+of it is a matrix vector product, as the sum of
+their two matrices. Now, let's do the same thing
+with scalar multiplication. We know that c times our
+transformation of x by definition I'm saying is c times
+the transformation of x. So c times whatever vector
+this is in Rm. And so we know that S of x can
+be rewritten as Ax, so this is c times A times x. And we know that Ax can be
+rewritten as this is equal to c times x1 times the first
+column vector in a, so a1 plus x2 times a2,xn all the way
+to plus xn times an. Now, what is this? This is just scalar
+multiplication. We can just distribute this c. and then what do we get? We get x, and multiplication
+is associative. c is a scalar, x1 is a scalar,
+so we can switch them around if we want. We know that scalar
+multiplication is distributive, so we can write
+this as x1 times ca1 plus x2 times ca2, all the way
+to xn times can. Now, what is this equal to? This is equal to some
+new matrix times x. This is equal to some new
+matrix-- let me make that here-- times x1, x2,
+all the way to xn. And what is that new matrix? What are the columns
+of the new matrix? Well, the columns are
+now that, that, all the way to that. So the columns of this new
+matrix are ca1, ca2, all the way to can. Now, why would I go through
+this exercise? Well, wouldn't it be nice,
+I already said that by definition a scalar multiple of
+a transformation is equal to the scalar times a
+transformation of any vector that you input into it. And, of course, that is
+equal to c times Ax. Now, wouldn't it be nice if I
+could define this thing as some new matrix times
+a vector x, right? Because this should also be
+a linear transformation. And this new matrix I'm
+going to define. This is a definition again. I'm going to define this new
+matrix as being c times A. So now we have this definition
+that c times A, if I take any scalar times any matrix A, it's
+just equal to c times each of the column vectors. And we know what happens when
+you take a scalar times each of the-- just let
+me write this. This is equal to c times a1, c
+times a2-- I'm just rewriting what I just wrote there-- all
+the way to c times an. But what is this in effect? We know that when you multiply c
+times a vector, you multiply the scalar times each of
+the vector's elements. So this is the equivalent of
+multiplying c times every entry up in this matrix
+right here. And with this video, you know,
+you're probably saying, hey, Sal, I already knew how to-- in
+algebra II in tenth grade or ninth grade, I already was
+exposed to multiplying a scalar times a matrix or adding
+two matrices with the same dimensions. Why did you go through all of
+this trouble of the defining the sum of transformations
+and the sum of matrices? And I went through the trouble
+because I wanted you to understand that there's
+nothing-- I mean, it is natural, but there's nothing
+about the universe that said matrices had to be
+defined this way. Matrix addition, or matrix
+scalar multiplication, or the addition of two transformations. I wanted you to see the
+mathematical world has constructed it in this way
+because it seems to have nice properties that are useful. And that's what I've
+done in this video. In the next video, I'll
+do a couple of scalar multiplications and matrix
+additions just to make sure that you remember what you had
+learned in your ninth or tenth grade algebra class, but you'll
+find that the actual operations are almost
+trivially simple.

@@ -1,0 +1,195 @@
+In the last video, we saw
+how to make Grignard reagents and how to use Grignard reagents
+to make primary, secondary, or tertiary alcohols. In this video, we'll
+take a look at how to retrosynthesize alcohols, how
+to think backwards and figure out what Grignard
+reagent you would need to make a certain alcohol. And then, we'll take
+a look at the reaction of Grignard reagents
+with esters as well. So here is our alcohol. And we're going to
+think backwards. We're going to think
+using retrosynthesis and try to figure out how
+to make this alcohol using a Grignard reagent. And there are actually several
+different ways to do it. So if you understand the
+mechanism really well, you know that you
+add an alkyl group onto what used to be
+your carbonyl carbon. And your carbonyl carbon was the
+one connected to your oxygen. So if you're thinking backwards,
+you can think to yourself-- this must be my carbonyl carbon. All right. This must be the one. And I added an alkyl group
+onto that carbonyl carbon. So if you're taking backwards,
+you can disconnect a bond. So I could say-- oh,
+I'm going to make my alkyl group this
+group right here. So I'm going to say
+it's that methyl group. So I'm going to
+disconnect that bond. And that will allow me to figure
+out my starting materials. So if that's the bond that
+isn't going to exist over here when I'm drawing my
+starting materials-- I have my benzene
+ring right here. And the benzene ring is
+directly attached to what was my carbonyl carbon. So I'm going to go ahead
+and draw my carbonyl carbon in here. Like that. And I'm saying that this ethyl
+group over here in the right is still there. And what I added on in the
+mechanism was a methyl group. So the methyl group must have
+come from my Grignard reagent. So if I'm going to go ahead
+and write my Grignard reagent, it must be a methyl group. And so I'll make methyl
+magnesium bromide-- which is what we used
+in the previous video for our examples. So these two things in the right
+would be my starting materials to make the alcohol on the left. And if you're
+unsure of that, just think about working backwards. So you could think to
+yourself-- well, once again, from the last video, we
+know that this methyl group is actually negatively
+charged and is a carbanion. And it's going to attack
+our carbonyl carbon. Like that. And then, those
+electrons are going to kick off onto the oxygen. So when we add in our
+reagents-- in the first step, when you add your Grignard
+reagent and your ketone up here-- you would need to
+use ether as your solvent. And the second step-- you need
+to protonate your alkoxides to form your alcohol
+over here on the left. So you need H3O+. So that's how to think
+backwards and come up with your starting
+materials used to synthesize the
+alcohol on the left. This isn't the
+only way to do it. Right? Let's redraw this alcohol,
+and let's look at another way that we can synthesize
+the same alcohol here. So let's go ahead and redraw
+the alcohol on the left. And think about how
+else could I make it. OK. So here's my alcohol. And before, we first
+identified our carbonyl carbon. It's going to be the one
+attached to the oxygen right here. And I have all these alkyl
+groups attached to it. So I'm just going to
+disconnect another alkyl group. This time I'll disconnect
+the alkyl group on the right. And so I'm thinking
+retrosynthesis. I'm thinking about
+working backwards. All right. So if I'm going to go ahead and
+draw the carbonyl compounds, that has my benzene
+ring untouched. And the carbon in red is going
+to become my carbonyl carbon. Like that. And what's attached
+to that carbonyl? It's going to be a methyl group. Right? And this time, the
+methyl group was left. So when I'm thinking about what
+should be my alkyl group here, it would be the
+methyl group that I disconnected on the right. So my Grignard
+reagent is going to be the source of my ethyl group. So I'm going to go ahead and
+draw an ethyl group attached to the magnesium. So we have ethyl
+magnesium, a bromide. Like that. So this would give us
+the alcohol on the left. Again, same concept. Same mechanism. This carbon right here would
+end up attacking my carbonyl. Kick these electrons off. And once again,
+we need to specify that the first step
+of this synthesis is done in diethyl ether. And the second step-- we
+protonate to form our alcohol. Like that. All right. So let's look at yet another
+way to form this alcohol. We're kind of ignoring
+stereochemistry here. So if some of you were
+thinking, that carbon is a chirality center. We're just trying
+to think about how to make these
+alcohols here and not worry about what we're getting
+in terms of stereochemistry for our products. So if I start here
+with my benzene ring, and once again, we're going to
+make the exact same alcohol. And we're going to
+think backwards again. And once again, we know this is
+going to be my carbonyl carbon. This time, we're going
+to disconnect this bond. So that's the alkyl
+group that we're going to add on as
+our Grignard reagent. So there's a third
+way of doing it. So now, this time, I've
+disconnected my benzene ring. And this is going to be my
+Grignard agent this time. So this carbon on
+my benzene ring is going to be ionically
+bonded to magnesium. So MgBr. Like that. And so now it's called
+a "phenyl group." So you would term this Grignard
+reagent "phenylmagnesium bromide." And I can see the
+skeleton for the ketone that I'm going to use
+on the right there. So I have a carbonyl. And let's see. There's a methyl
+group on the left side and an ethyl group
+on the right side. So once again, if you mix
+those two together in ether and then protonate
+it, you will end up with the alcohol on the left. So three different ways to
+synthesize the same alcohol. And it's just thinking
+about what's my alkyl group and how can I add it on? All right. Let's look at the general
+reaction for a Grignard reagent with esters. OK. So there is my Grignard
+reagent, and I'm going to react it with
+an ester this time. So I'll make this R prime. And I'll make this one R
+double prime to distinguish it from the R group on
+our Grignard reagent. And the second step,
+once again, we add H3O+. In this situation,
+the Grignard reagent is going to add on twice
+to our carbonyl carbon. So the carbon attached to
+the OH for our product, this is another way to
+synthesize alcohols. It's going to have the R prime
+group still attached to it. And to the R group from
+the Grignard reagent is going to add on twice. So if you look at
+this, you can see that the R prime group and this
+carbon came from our ester. So did this oxygen right here. So this R group here
+from our Grignard reagent is going to add on
+twice in the mechanism. So let's take a look at what
+happens in our mechanism. We start with our ester. All right. So R prime, C double bond
+O, O, R double prime. And we'll go ahead and put in
+our lone pairs of electrons. We saw-- in the last
+video-- that that carbonyl is a polarized bond. Right? The oxygen ends up being
+partially negative, and the carbon ends up
+being partially positive. So the carbon is
+partially positive, making it an electrophile. The source of the electrons
+come from the Grignard reagent because we know that in
+that Grignard reagent we're treating that R
+group as a carbanion. All right. So this R group up here is
+actually negatively charged. So we saw that in
+the last video. So it is R with 2 electrons
+around it giving it a negative 1 formal
+charge, making it a carbanion, which is
+a good nucleophile. So the nucleophile's going
+to attack our electrophile. Opposite charges attract. All right. So nucleophilic attack. We'll kick these electrons
+off onto your oxygen in the first step
+of the mechanism. So now we have R prime,
+carbon with an oxygen up here, Three lone pairs
+of electrons around it-- giving it a negative
+1 formal charge. And over here in the right, we
+have oxygen with an R prime. And then, our lone
+pairs of electrons. Like that. Our double prime, I should say. And then, down here, we
+attached our R group. OK. So in the next step
+of the mechanism, a lone pair electrons
+are going to move in here to reform our pi bond, to
+reform our double bond. And that's going to kick the
+electrons in this bond off onto the oxygen, since carbon
+cannot have five bonds. All right. So let's go ahead and
+draw the product of that. So we're going to
+reform our carbonyl. So we still have an R prime
+group attached to our carbonyl. Like that. We've just added an R
+group onto our carbonyl. And the leaving group will
+be this alkoxide over here. So R double prime with a
+negative 1 formal charge on the oxygen. So now we have a ketone. And if you have a molar excess
+of your Grignard reagent, the Grignard reagent is
+going to attack your ketone. So once again, another
+molar equivalent of our carbanion from
+our Grignard reagent is going to attack our carbonyl
+carbon-- just like before. Kick these electrons
+off onto the oxygen. So let's get some space
+here to show what happens. So our next
+intermediate is going to have our R prime
+attached to our carbon. This top oxygen here
+has three lone pairs of electrons and a
+negative 1 formal charge. We already added on one R group. We're going to add
+on another R group from our Grignard reagent. And in the last step, it's
+just acid-base chemistry. Right? We're going to add on H3O+. And this will allow us to
+protonate our alkoxide. Right? So a lone pair of
+electrons on here. Pick up a proton. Like that. Kick those electrons off. And then, we are done
+with our product. R prime. Carbon bonded to an oxygen
+bonded to a hydrogen. 2 lone pairs like that. And then, two R groups,
+which came from our Grignard reagent-- like that--
+to form our alcohol. OK. So let's look at a reaction. So let's react an ester
+with excess Grignard reagent and see what our
+product will be. So we'll do a nice simple
+ester over here on the left. So here is our ester. And in the first step, we
+add excess methyl magnesium bromides. And in the second
+step, we add our H3O+. So we need to think to ourself--
+what's going to happen? Well, I know that
+in my mechanism, this negatively charged
+carbanion methyl group is going to add on to this carbon. This is going to leave. It's going to be
+our leaving group. And then, the reaction
+happens again. All right. And the reaction happens again
+adding on another methyl group, and then, finally, protonated
+to form an alcohol. So when we draw the
+product, we know that this portion is going
+to come from our ester. We know we're going
+to form an alcohol. And we know that we're going to
+add our methyl group on twice. So all we have to do is put
+two methyl groups on there. Like that. So that, of course, would
+form a tertiary alcohol. So this is tertiary right here. This carbon bonded to
+three other carbons. So that does it for Grignard
+reagents and different ways to make alcohols.

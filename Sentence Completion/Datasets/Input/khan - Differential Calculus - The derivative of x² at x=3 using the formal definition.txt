@@ -1,0 +1,113 @@
+In the last video we tried to
+figure out the slope of a point or the slope of a
+curve at a certain point. And the way we did, we said OK,
+well let's find the slope between that point and then
+another point that's not too far away from that point. And we got the slope
+of the secant line. And it looks all fancy, but
+this is just the y value of the point that's not too far away,
+and this is just the y value point of the point in
+question, so this is just your change in y. And then you divide that
+by your change in x. So in the example we did,
+h was the difference between our 2 x values. This distance was h. And that gave us the
+slope of that line. We said hey, what if we take
+the limit as this point right here gets closer
+and closer to this point. If this point essentially
+almost becomes this point, then our slope is going to be the
+slope of our tangent line. And we define that as the
+derivative of our function. We said that's equal
+to f prime of x. So let's if we can apply this
+in this video to maybe make things a little bit more
+concrete in your head. So let me do one. First I'll do a particular
+case where I want to find the slope at exactly some point. So let me draw my axes again. Let's draw some
+axes right there. Let's say I have the curve--
+this is the curve-- y is equal to x squared. So this is my y-axis, this is
+my x-axis, and I want to know the slope at the point
+x is equal to 3. When I say the slope you can
+imagine a tangent line here. You can imagine a tangent line
+that goes just like that, and it would just barely graze
+the curve at that point. But what is the slope
+of that tangent line? What is the slope of that
+tangent line which is the same as the slope of the curve
+right at that point. So to do it, I'm actually going
+to do this exact technique that we did before, then we'll
+generalize it so you don't have to do it every time for
+a particular number. So let's take some
+other point here. Let's call this 3 plus delta x. I'm changing the notation
+because in some books you'll see an h, some books you'll see
+a delta x, doesn't hurt to be exposed to both of them. So this is 3 plus delta x. So first of all what is
+this point right here? This is a curve y is equal to
+x squared, so f of x is 3 squared-- this is the point 9. This is the point
+3,9 right here. And what is this
+point right here? So if we were go all the way
+up here, what is that point? Well here our x is
+3 plus delta x. It's the same thing as
+this one right here, as x naught plus h. I could have called this
+3 plus h just as easily. So it's 3 plus
+delta x up there. So what's the y
+value going to be? Well whatever x value is, it's
+on the curve, it's going to be that squared. So it's going to be the point
+3 plus delta x squared. So let's figure out the
+slope of this secant line. And let me zoom in a little
+bit, because that might help. So if I zoom in on just
+this part of the curve, it might look like that. And then I have one point
+here, and then I have the other point is up here. That's the secant line. Just like that. This was the point over
+here, the point 3,9. And then this point up here is
+the point 3 plus delta x, so just some larger number than
+3, and then it's going to be that number squared. So it's going to be 3
+plus delta x squared. What is that? That's going to be 9. I'm just foiling this out,
+or you do the distribute property twice. a plus b squared is a squared
+plus 2 a b plus b squared, so it's going to be 9 plus two
+times the product of these things. So plus 6 delta x, and then
+plus delta x squared. That's the coordinate
+of the second line. This looks complicated, but I
+just took this x value and I squared it, because it's on the
+line y is equal to x squared. So the slope of the secant line is going to be the
+change in y divided by the change in x. So the change in y is just
+going to be this guy's y value, which is 9 plus 6 delta
+x plus delta x squared. That's this guy's y value,
+minus this guy's y value. So minus 9. That's your change in y. And you want to divide
+that by your change in x. Well what is your change in x? This is actually going to
+be pretty convenient. This larger x value-- we
+started with this point on the top, so we have to start with
+this point on the bottom. So it's going to be
+3 plus delta x. And then what's this x value? What is minus 3? That's his x value. So what does this simplify to? The numerator-- this 9
+and that 9 cancel out, we get a 9 minus 9. And in the denominator
+what happens? This 3 and minus 3 cancel out. So the change in x actually end
+up becoming this delta x, which makes sense, because this delta
+x is essentially how much more this guy is then that guy. So that should be the
+change in x, delta x. So the slope of my secant line has simplified to 6 times
+my change in x, plus my change in x squared, all of that
+over my change in x. And now we can simplify
+this even more. Let's divide the numerator
+and the denominator by our change in x. And I'll switch colors just
+to ease the monotony. So my slope of my
+tangent of my secant line-- the one that goes
+through both of these-- is going to be equal if you
+divide the numerator and denominator this becomes 6. I'm just dividing numerator
+and denominator by delta x plus six plus delta x. So that is the slope
+of this secant line So slope is equal
+to 6 plus delta x. That's this one right here. That's this reddish line that
+I've drawn right there. So this number right here, if
+the delta x was one, if these were the points 3 and 4,
+then my slope would be 6 plus 1, because I'm picking a point
+4 where the delta x here would have to be 1. So the slope would be 7. So we have a general formula
+for no matter what my delta x is, I can find the slope
+between 3 and 3 plus delta x. Between those two points. Now we wanted to find the
+slope at exactly that point right there. So let's see what happens
+when delta x get smaller and smaller. This is what delta
+x is right now. It's this distance. But if delta x got a little
+bit smaller, then the secant line would look like that. Got even smaller, the secant line would look like that,
+it gets even smaller. Then we're getting pretty
+close to the slope of the tangent line. The tangent line is this
+thing right here that I want to find the slope of. Let's find a limit as our
+delta x approaches 0. So the limit as delta
+x approaches 0 of our slope of the secant line of 6 plus delta
+x is equal to what? This is pretty straightforward. You can just set this equal
+to 0 and it's equal to 6. So the slope of our tangent
+line at the point x is equal to 3 right there is equal to 6. And another way we could write
+this if we wrote that f of x is equal to x squared. We now know that the derivative
+or the slope of the tangent line of this function at the
+point 3-- I just only evaluated it at the point 3 right there--
+that that is equal to 6. I haven't yet come up with a
+general formula for the slope of this line at any point, and
+I'm going to do that in the next video.

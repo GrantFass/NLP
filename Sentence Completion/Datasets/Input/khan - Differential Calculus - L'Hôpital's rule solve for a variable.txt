@@ -1,0 +1,23 @@
+- We have an interesting
+problem or exercise here. Find a such that the
+limit as x approaches zero of the square route of four plus x minus the square route of four minus a times x, all of that over x, is equal to 3/4. And like always, I encourage you to pause the video and give a go at it. So assuming you have had your go, now let's do this together. So when you just try to superficially evaluate this limit here,
+if x approaches zero, so if you're just trying to evaluate this one x equals zero,
+you're going to get... let me just try to evaluate the limit. As x approaches zero of the square route of four plus x minus the square route of four minus ax, all of that over x. Well, this right over here is going to be just the principal root of four, because four plus zero is four. This right over here is just going to be the principal root of four, because no matter what a is, a times zero is going to be zero, so you're going to be
+left with four minus zero, so it's just the principal route of four. So you're going to have two. This whole thing is going to be two. If you just were to substitute x there, so this whole thing is two. This whole thing right over here is going to be two as well. You're going to have two minus two, and then as x approaches zero, this is going to be zero. So this looks like we are going... we are getting an indeterminate form. And when you get to something like this, you start to say, "Well,
+L'Hopital's rule might apply." If I get zero over zero,
+or infinity over infinity, well, this limit is going
+to be the same thing as the limit as x approaches zero. This is going to be the same thing as the limit as x approaches zero of the derivative of the numerator over the derivative of the denominator. So what is the derivative
+of the numerator? Actually, let me just do the derivative of the denominator first, because the derivative
+of x, with respect... Oh, I may have to do that
+in a different color. The derivative of x with respect to x is just going to be one. But now let me take the derivative of this business up here. The derivative... The derivative of this with respect to x. So this is four plus x to the 1/2 power. So this is, the derivative of this part is going to be 1/2 times four plus x to the negative 1/2 power. And so the derivative of
+this part right over here... Let's see, here the... The chain rule applied
+here with a derivative of four plus x is just one, so we just multiply this thing by one. But here the chain rule, the derivative of four minus ax, with respect
+to x, is negative a. Now we multiply that,
+and we're going to have this negative out front,
+so this is going to be plus a. Plus a times... times 1/2 times four minus ax to the negative 1/2 power. I just used the power
+rule and the chain rule to take the derivative here. And so what is is this going to be? Well, this is going to be equal to... This is going to be equal
+to something over one. So we have up here, as x approaches zero, this is going to be,
+this part, four plus zero is just four to the negative 1/2 power. Well, that's just going to be 1/2. Four to the 1/2 is two, four to the negative 1/2 is 1/2. And then as x approaches zero here, this is going to be four
+to the negative 1/2, which is once again 1/2. So what does this simplify to? We have 1/2 times 1/2, which is 1/4. That's that there. And then over here I have
+a times 1/2 times 1/2, so that's going to be plus a over four, and so this is the same thing as just a plus one over four. And we say that this
+needs to be equal to 3/4. This needs to be equal to 3/4. That was our original problem. So that needs to be equal to 3/4, and now it's pretty straightforward to figure out what a needs to be. A plus one needs to be equal to three, or a is equal to 2. And we are done.

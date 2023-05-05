@@ -1,0 +1,57 @@
+- [Instructor] Let r be the
+function given by r of theta is equal to three theta sine
+theta for theta is between zero and two pie,
+including zero and two pie. The graph of r in polar
+coordinates consists of two loops, as shown
+in the figure above. So let's think about why it has two loops. So as our theta, when
+theta is zero, r is zero, and then as our theta increases, we start tracing out this first loop, all the way until when
+theta's equal to pie. So we've traced out this first loop from theta's equal to zero
+to theta's equal to pie. And then the second loop has a larger r, so these are larger r's, this is when we're going from pie to two pie. And you might say, "Well why
+doesn't it show up down here?" Well, between sine of
+pie and sine of two pie, this part right over here
+is going to be negative, so it flips it over, the r onto this side. And the magnitude of the r is larger and larger because of this three theta. And so when we go from pie to two pie, we trace out the larger
+circle, fair enough, that seems pretty straightforward. Point P is on the graph of r, right over there, and the y-axis. Find the rate of change
+of the x-coordinate with respect to theta at the point P. Alright, so let's think
+about this a little bit. They don't give us x
+as a function of theta. We have to figure out that
+from what they've given us. So just as a bit of a polar
+coordinates refresher, if this is our theta, right over there, this is our r, and that would be a point on our curve for this theta. Now how do you convert that to x and y's? Well you can construct a little bit of a right triangle right over here. And we know from our basic trigonometry that the length of this
+base right over here, this is going to be the hypotenuse. Let me just write that, that's
+going to be our x-coordinate. Our x-coordinate right over here is going to be equal to our hypotenuse which is r times the cosine of theta. If we wanted the y-coordinate
+as a function of r and theta, it'd be y is equal to r sine of theta, but they don't want us to worry about y here, just the x-coordinate. So we know this, but we want
+it purely in terms of theta. So how do we get there? Well what we can do is,
+take this expression for r, r itself is a function of theta, and replace it right over there. And so what we can do, is we can write, well, x of theta is
+going to be equal to r, which itself is three theta sine of theta times cosine of theta,
+times cosine of theta. And now, we wanna find the rate of change of the x-coordinate with respect to theta at a point, so let's
+just find the derivative of x with respect to theta. So x prime of theta is equal to, well I have the product of
+three expressions over here. I have this first expression, three theta, then I have sine theta, and
+then I have cosine theta. So we can apply the product
+rule to find the derivative. If you're using the product rule with the expression of three things, you essentially just
+follow the same pattern when you're taking the
+product of two things. The first term is gonna be the derivative of the first of the expressions, three, times the other two
+expressions, so we're gonna have three times sine of theta cosine of theta, plus the second term is going to be the derivative of the middle term times the other two expressions,
+so we're gonna have three theta and then
+derivative of sine theta is cosine theta, times
+another cosine theta, you're gonna have cosine squared of theta, or cosine of theta
+squared, just like that. And then you're gonna have the
+derivative of the last term, is going to be the
+derivative of cosine theta times these other two expressions. Well the derivative of cosine theta is negative sine theta, so if you multiply negative sine theta times
+three theta sine theta, you're going to have negative three
+theta sine squared theta. And so, we want to
+evaluate this at point P. So what is theta at point P? Well, point P does happen
+on our first pass around, and so, at point P, theta is equal to theta right over here is
+equal to pie over two, so pie over two, so what
+we really just need to find is, well what is x prime of pie over two? Well, that is going to
+be equal to three times sine of pie over two, which is one, times cosine of pie
+over two, which is zero, so this whole thing is zero,
+plus three times pie over two, this is three pie over two, times cosine squared of pie over two, or cosine of pie over two squared. Well that's just zero, so
+so far, everything is zero, minus three times pie over
+two, three pie over two times sine of pie over two squared. Well what's sine of pie over two? Well that's one, you square
+it, you still get one. So all of this simplified to
+negative three pie over two. Now it's always good
+to get a reality check. Does this make sense
+that the rate of change of x with respect to theta is
+negative three pie over two? Well think about what's happening. As theta increases a little bit, x is definitely going to decrease, so it makes sense that we
+have a negative out here. So, right over here, rate of change of x with respect to theta,
+negative three pie over two. As theta increases, our
+x for sure is decreasing, so at least it does make intuitive sense.

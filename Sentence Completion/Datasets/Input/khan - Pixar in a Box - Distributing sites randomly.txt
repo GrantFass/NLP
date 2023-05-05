@@ -1,0 +1,30 @@
+(clicking noise) - Good work! Now that we now how to
+partition the space into cells, we can write a program to
+do all the drawing for us. Plus my hand is getting tired! Then you'll love this program. It generates a uniform grid of sites, then it draws the resulting
+Voronoi partition for us. That looks like a chess board. If we shift every other line of sites, we get this, like a beehive. Definitely getting us
+closer to the dino scales. Notice it's following the Voronoi rules we saw
+in the previous video. Any point you pick on these lines is equidistant to two or three of our sites. Okay, so how many sites do we need, and where do they go? Well, let's
+check the shading packet. Our dino's
+quite young, so she has relatively few scales on her legs. Perhaps five or seven would work. There are more
+scales around the claws, but we can deal with that later. What's important is that the cells aren't all the same shape. Yes, we have a subtle variation in both cell size and shape, unlike the perfect honeycomb
+our program is generating. - This is where the power
+of random numbers comes in. - But applying randomness
+in a way that makes organic look and variation
+is really tricky. Look what happens when
+we scatter the sites completely randomly and
+then draw the lines. That doesn't look right. Way too clumpy. Yes, it's too random. We need more of a balance
+between randomness and structure. I think a Poisson Disk
+Process will work well here. It sounds fancy,
+but it's quite simple. It uses a new parameter we can control, minimum site distance. We can visualize this as
+a disk around each site. Think of this disk as the no drop zone. It works like this. A random site is generated,
+then we generate another site anywhere outside the disc,
+and we repeat this over and over until the plane is filled. Notice it's a smoother way
+of distributing the points. There's much
+less clumping happening now. Watch what happens
+when we draw the partition. We get really close to the
+geometry of the dino scales. - Beautiful! Okay, in the next exercise, you'll have a chance to
+play with these ideas. - What was the most unexpected use of randomness you've encountered at Pixar? - I think the most surprising
+thing about randomness is that it's really everywhere. Even in materials that you
+might think are really constant, like metallic car paint or
+brick work or something, let alone something like
+human skin or dino skin. There's really randomness in every single material that we create. (gentle orchestral music) - Woah!

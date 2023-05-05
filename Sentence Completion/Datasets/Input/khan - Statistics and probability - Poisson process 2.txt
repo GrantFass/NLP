@@ -1,0 +1,187 @@
+I think we now have all the
+tools we need to move forward, so just to review a little bit
+of the last video we said we are trying to model out the
+probability distribution of how many cars might
+pass in an hour. And the first thing we did is
+we sat at that intersection and we found a pretty good expected
+value of our random variable. And this random variable, just
+to go back to the top, we defined the random variable as
+the number of cars that pass in an hour at a certain
+point on a certain road. We measure a bunch, we sat out
+there a bunch of hours, and we got a pretty good estimate of
+this and we say it's lambda. And we said, OK, we
+wanted to model it as a binomial distribution. So if this is a binomial
+distribution then this lambda would be equal to the number of
+trials times the probability of success per trial. And so, if we could view a
+trial as an interval of time. This is the total number
+of successes in an hour. And so this would be success
+in a smaller interval. And this would be the
+probability of success in that smaller interval. And in the last video
+we tried it out. We said, oh, well, what if we
+make this interval a minute and this is the probability
+of success per minute? We'd have maybe a reasonable
+description of what we're describing. But what if more than one
+car passes in a minute? And they said, oh, let's make
+this per second and this is the probability of
+success per second. But then we still have the
+problem, more than one car could pass in a
+second, very easily. So what we wanted to do is we
+want to take the limit as this approaches infinity and then
+see what kind of formula we get from the math gods. If we describes this as a
+binomial distribution with the limit as it approaches
+infinity, we could say that the probability that x is equal to
+some number-- so the probability that our random
+variable is equal to 3 cars in a particular hour, exactly 3
+cars in an hour-- is equal to-- oh, we want to take the limit
+as it approaches infinity, right? The limit as n approaches
+infinity of n choose k. We're going to have k moments
+in time because n approaches infinity, these intervals
+become super super duper small. So these become
+moments in time. We're going to have close to an
+infinite number moments and this is the number of
+successful moments where cars pass. We have 3 moments where there
+was a success, where a car passed, and we had
+a total of 3 cars pass. Or 7 cars, 7 moments where it
+was true that a car passed, and we would have total
+7 cars pass in the hour. So just finishing up with our
+binomial distribution, n moments, choose k successes
+times the probability of success. What's the probability
+of success? So this would be n. What's p equal to? p is equal to lambda divided by
+n, right? n times p is lambda, so let me just write that down.
+p is equal to lambda divided by n. I just rearranged this up here. So our probability of
+success is lambda times n. And we're saying what's
+the probability that we have k successes? And then, what's the
+probability that we have a failure? Well, it's 1 minus the
+probability of success. And how many failures
+are we going to have? How many moments will
+not have a car pass? Well, we have total event
+moments and k of them were successes, so we'll have
+n minus k failures. Let's see what we
+can do with this. So this is equal to--
+let me rewrite it all. And I'll change colors. The limit as n approaches
+infinity-- let me write out this binomial coefficient. That's n factorial over n minus
+k factorial times k factorial. Normally I write these the
+other way around, but it's the same thing. Times lambda to the k. Using my exponent properties--
+over n to the k. And then this expression
+right here, I can actually separate out the exponents. This is the same thing as 1
+minus lambda over n to the n times 1 minus lambda
+over n to the minus k. You have the same base, you
+could add the exponents and you would get this up here. Let me simplify a
+little bit more. Let me swap spots
+with these two. You can kind of view them both
+as being in the denominator. So you can change the order of
+division or multiplication depending how you view it. So this is equal to the
+limit-- let me switch colors. The limit as n approaches
+infinity-- I don't like that color. Actually, let me just rewrite
+what we did in the last video. What is this thing right here? And we showed at the end of the
+last video. n factorial divided by n minus k factorial. It was n times n minus 1
+times n minus 2, all the way to n minus k plus 1. If this was 7 over 7 minus
+2 factorial we would have 7 times 6. And 6 is one more
+than 7 minus 2. So that's where we got that. We did that in the last video
+if you're getting confused. And we also said that
+there's going to be exactly k terms here. So if you counted these as 1,
+2, 3-- all the way, there's going to be k terms here. We took care of that. We just rewrote that. And I said I would switch these
+two things around, so that's divided by n to the k times--
+I'm just switching these-- lambda to the k
+over k factorial. And then, what do we have here? We'll I can just rewrite that. This is continuing
+the same line. 1 minus lambda over n to
+the n times 1 minus lambda over n to the minus k. Now we can take the limit. So what happens when
+we take the limit? If you take the limit, this
+is another property so you don't get too overwhelmed--
+another property of limits. If I take the limit as x
+approaches anything, a of f of x times g of x. That's equal to the limit
+as x approaches a of f of x, times the limit as x
+approaches a of g of x. So we could take each of these
+limits in the product and then multiply them and then
+we'll be all set. So let's do that. And I want to leave
+this stuff up here. So first of all,
+what's this limit? Let me write this out. And let me pick a
+good color-- yellow. So we have the limit as
+n approaches infinity. So this thing up here, this n
+times n minus 1 times n minus 2-- all the way down to n
+minus k plus 1, what's it going to look like? It's going to be a
+polynomial right? We're multiplying a bunch of--
+well really, we're multiplying a bunch of binomials and
+we're doing it k times. So the largest degree term
+is going to be n to the k. It's going to be n to the
+k plus something times n to the k minus 1. It's going to be this
+big polynomial-- kth degree polynomial. And that's really all we need
+to know for this derivation. So it's going to be n to the
+k plus blah, blah, blah, blah, blah, blah, blah--
+a bunch of other stuff. This thing when you multiply it
+out, over-- we have this n to the k, that's this part of it. Times the limit as--
+well actually, we don't have to worry. This is a constant. So we could actually
+bring this out front. So we don't even have
+to write a limit. So times lambda to the
+k k over k factorial. There's no n here, so this is
+a constant with respect to n. Times the limit as n approaches
+infinity of 1 minus lambda over n to the n times 1 minus
+lambda over n to the minus k. All right, I know you
+can barely read this. So first of all,
+what's this limit? The limit as n approaches
+infinity of some polynomial where it's n to the kth power
+plus blah, blah, blah, blah. Where all of these other
+terms have a lower degree. This is the highest
+degree term. So you have n to the k in the
+numerator and you have n to the k in the denominator. So the highest degrees
+are the same. The coefficients are 1,
+so this limit is 1. Another way you could do it,
+you could divide the numerator and the denominator by n to the
+k and you would get-- this would just be 1 plus 1 over n
+plus 1 over-- everything else would have a 1 over n in it,
+and this would just be a 1. And if you took the limit as
+you approach infinity, then all of these other terms would be
+zero and you'd be left with 1/1. But either way, you have the
+same degree in the top and the bottom, and their coefficients
+are the same, so the limit as n approaches infinity of this is
+1, which is a nice simplification. So you end up with 1 times
+lambda k over k factorial. Now what's the limit as n
+approaches infinity of this thing right here? 1 minus lambda over n to the n. Well, in the last video we
+showed that it would be-- I'll write it right here. That the limit as n approaches
+infinity of 1 plus a over n to the n is equal to e to the a. That's exactly what we have
+you here, but instead of an a we have a minus lambda. So this is going to be equal
+to e to the minus lambda. We have a minus lambda
+instead of an a. And then finally, what's the
+limit as n approaches infinity? Let me write it a
+little bit neater. I'm just rewriting this term. 1 minus lambda over n
+to the minus k power. What happens as n
+approaches infinity? Well, this term,
+lambda's a constant. As this approaches infinity,
+this term's going to approach 0. So you have 1 to the minus k. 1 to any power is 1, so
+that term becomes 1. So we have another 1 there. So there you have it. We're done. The probability that our random
+variable, the number of cars that passes in an hour, is
+equal to a particular number. You know, it's equal to
+7 cars pass in an hour. Is equal to the limit as n
+approaches infinity of n choose k times-- well, we said it was
+lambda over n to the k successes times 1 minus
+lambda over n to the n minus k failures. And we just showed that this is
+equal to lambda to the kth power over k factorial times
+e to the minus lambda. And that's pretty neat because
+when you just see it in kind of a vacuum-- if you have no
+context for it, you wouldn't guess that this is in any
+way related to the binomial theorem. I mean, it's got an e in there. It's got a factorial, but a lot
+of things have factorials in life, so not clear that
+that would make it a binomial theorem. But this is just the limit as
+you take smaller and smaller and smaller intervals, and the
+probability of success in each interval becomes smaller. But as you take the limit
+you end up with e. And if you think about it it
+makes sense because one of our derivations of e actually came
+out of compound interest and we kind of did something
+similar there. We took smaller and smaller
+intervals of compounding and over each interval we
+compounded by a much smaller number. And when you took the
+limit you got e again. And that's actually where
+that whole formula up here came from to begin with. But anyway, just so that you
+know how to use this thing. So let's say that I were to go
+out, I'm the traffic engineer, and I figure out that
+on average, 9 cars passed per hour. And I want to know the
+probability that-- so this is my expected value. In a given hour, on average,
+9 cars are passing. So I want to know the
+probability that 2 cars pass in a given hour,
+exactly 2 cars pass. That's going to be equal to 9
+cars per hour to the 2'th power or squared, to the 2'th power. Divided by 2 factorial times
+e to the minus 9 power. So it's equal to 81 over 2
+times e to the minus 9 power. And let's see, maybe I should
+just get the graphing calculator out. Well, I'll let you do that
+exercise to figure out what that is, but I'll see
+you in the next video.

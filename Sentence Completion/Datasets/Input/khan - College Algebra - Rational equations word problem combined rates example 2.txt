@@ -1,0 +1,60 @@
+Working together Anya and
+Bill stained a large porch deck in 8 hours. Last year Anya stained
+the deck by herself. The year before Bill painted it
+by himself, but took twice as long as Anya did. How long did Anya and Bill take
+when each was painting the deck alone? So let's define some
+variables here. Let's define A. Let's define A as number
+of hours for Anya to paint a deck. And so we could say that
+Anya paints, or has A hours for one deck. Or we can invert this and
+say that she can do 1/A decks per hour. Now, let's do another variable
+for Bill just like that. Let's define B as the
+number of hours for Bill to paint a deck. And so for Bill, he can paint--
+it takes him B hours per deck, per one deck. We could put it over
+1 there if we want. We don't have to. And this is the same thing as
+saying that he can do 1 deck per every B hours. Or another way to think
+of it, is he can do 1/B deck per hour. Now, when they work together,
+Anya and Bill stained a large porch deck in 8 hours. So let's write this down. Anya plus Bill-- I'll
+do it in orange. Anya and Bill. This information right here. Anya and Bill stained a large
+porch deck in 8 hours. So we could say 8
+hours per deck. Or 8 hours per 1 deck, which is
+the same thing as saying 1 deck per 8 hours. And this is going to be
+the combination of each of their rates. So this 1 deck of per 8 hours,
+this is going to be equal to Anya's rate, 1/A decks per
+hour, plus Bill's rate. Plus-- do that same color. Plus 1/B decks per hour. So we have one equation
+set up. Let me scroll down
+a little bit. And I won't write the
+units any more. We have 1/8 is equal
+to 1/A plus 1/B. Now, we have two unknowns, so
+we need another equation if we're going to solve these. Let's see. It tells us, it tell this right
+here the year before Bill painted it by himself,
+but took twice as long as Anya did. So the number of hours it takes
+Bill to paint the deck is twice as long as the number
+of hours it takes Anya to paint a deck. So B is equal to 2A. The number of hours Bill takes
+is twice as the number of hours Anya takes per deck. So B is equal to 2A. So we can rewrite this equation
+as-- I'll stick to the colors for now. We could say 1/8 is equal
+to 1 over Anya. Instead of writing 1 over Bill
+we would write, so plus 1 over Bill is 2 times Anya. The number of hours Bill takes
+is two times the number of hours Anya takes. So 2 times Anya. And now we have one equation
+and one unknown. And we can solve for A. And the easiest way to solve for
+A right here is if we just multiply both sides of
+the equation by 2A. So let's multiply both
+sides of this by 2A. Multiply the left side by 2A. Actually, let's multiply both
+sides by 8A, so we get rid of this 1/8 as well. And then multiply the right-hand
+side by 8A as well. The left-hand side, 8A divided
+by 8 is just A. A is equal to-- 1/A times 8A
+is just going to be 8. 1/2A times 8A. 8A divided by 2A is 4. So A, the number of hours it
+takes Anya to paint a deck-- and I made it lowercase, which
+I shouldn't have. Well, these should all be capital A's. This is A is equal to
+8A over A is 8. 8A over 2A is 4. So the number of hours it takes
+Anya to paint a deck, or A, is 12 hours. Now what are they asking
+over here? They're asking, how long did
+Anya and Bill take when each was painting alone? So we figured out Anya. It takes her 8 hours. And then we know that it takes
+Bill twice as long as Anya. Bill is two times A. So bill is going to
+be 2 times 12. So Bill is equal to 2 times
+Anya, which is equal to 2 times 12 hours. Which is equal to 24 hours. So when they're alone it would
+take Anya 12 hours, it would take Bill 24 hours. When they do it combined,
+it takes 8 hours. Which makes sense. Because if Bill took 12 hours
+by himself, combined they would take 6 hours, they would
+take half as long. But Bill isn't that efficient. He's not as efficient as
+Anya, so it takes them a little bit longer. Takes them 8 hours. But it makes sense that combined
+they're going to take less time than individually.

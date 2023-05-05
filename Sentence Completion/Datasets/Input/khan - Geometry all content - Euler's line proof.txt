@@ -1,0 +1,160 @@
+What I want to do in this video
+is that for some triangle-- we're going to
+focus on this larger triangle over
+here, triangle ABC. What I want to do is prove
+that the circumcenter of this triangle--
+remember, the circumcenter is the intersection of its
+perpendicular bisectors. That the circumcenter
+for this triangle, the centroid of this
+triangle-- the centroid is the intersection
+of its medians-- and the orthocenter of
+this triangle-- that's the intersection
+of its altitudes-- all sit on the same line. Or that OI right over here
+really is a line segment, or that OG and GI are really
+just two segments that make up this larger line segment, which
+is part of the Euler Line. And to do that, I've
+set up a medial triangle right over here, triangle
+FED, or actually I should say triangle DEF, which
+is the medial triangle for ABC. And there's already
+a bunch of things that we know about
+medial triangles, and we've proven this
+in previous videos. One thing we know is
+that the medial triangle DEF is going to be
+similar to the larger triangle, the triangle it
+is a medial triangle of. And that ratio from the
+larger triangle to the smaller triangle is a 2 to
+1 ratio, and this is going to be really
+important to our proof. When two triangles are similar
+with a given ratio, that means that if you take the
+distance between any two corresponding parts of
+the two similar triangles, that ratio will be 2 to 1. Now, the other relationship
+that we've already shown-- the other relationship
+between a medial triangle, and the triangle it is
+the medial triangle of-- is that we've shown
+that the orthocenter of the medial triangle is the
+circumcenter of the larger triangle. So one way to think
+about it-- point O, we already mentioned,
+is the circumcenter of the larger triangle. It is also the orthocenter
+of the smaller triangle. And we actually wrote up here. So point O, notice it
+is on this perpendicular bisector over here. And I actually draw
+a bunch of other ones in this dark gray
+color, but I didn't want to make this
+diagram too messy. But this is the circumcenter
+of the larger triangle, and it is also the
+orthocenter of the smaller triangle-- of DEF. And we actually
+used this fact when we wanted to prove that
+orthocenters are concurrent. We started with the
+medial triangle. We said, OK, let's think about
+where the altitudes intersect. And we said, well, look,
+all of the altitudes are actually perpendicular
+bisectors for our larger triangle if we
+assume that this is the medial triangle of
+that larger triangle. So point O, and this is going
+to be important to our proof. It is a circumcenter
+of triangle ABC, but it's the orthocenter
+of DEF, and we've already talked about this
+in previous videos. Now, in order to prove
+that O, G, and I all sit on the same line--
+or the same segment, in this case, what
+I'm going to do is prove that triangle
+FOG is similar is similar to triangle CIG. Because if I can prove that,
+then their corresponding angles are going to be equivalent. You could say that
+this angle is going to be equal to this
+angle over here. And so OI would have to be
+a transversal because we're going to see that these two
+lines over here are parallel. Or if they have these two
+triangles are similar-- so remember, we're looking at
+this triangle right over here and this triangle over there. If they really are
+similar, then this angle is going to be
+equal to that angle, so these really would
+be vertical angles. And so this really
+would be a line. So let's go to the actual proof. So maybe I-- well, I
+won't leave those two highlighted right there. So one thing, and I
+hinted at this already. We know that this line
+right over here-- we can call this line XC. We know this is
+perpendicular to line AB. It is an altitude. And we also know that
+FY right over here is perpendicular to AB. It is a perpendicular bisector. So they both form the same
+angle with a transversal. You could view AB
+as a transversal. So they must to be parallel. So we know that FY
+is parallel to XC. Segment FY is
+parallel to segment XC and we could write it like this. This guy is parallel
+to that guy there. And that's useful
+because we know that alternate interior
+angles of a transversal, when a transversal intersects
+two parallel lines, are congruent. So we know that FC is a line. It is a median of this larger
+triangle, triangle ABC. So you have a line intersecting
+two parallel lines. Alternate interior
+angles are congruent. So that angle is going to
+be congruent to that angle. So we could say angle OFG
+is congruent to angle ICG. Now, the other thing
+we know-- and this is a property of medians--
+is that the centroid splits the median
+into two segments that have a ratio of 2 to 1. Or another way to think
+about is the centroid is 2/3 along the median. So we've proven this
+in a previous video. We know that CG is
+equal to 2 times GF. And I think you see
+where we're going here. We have an angle. I showed you that the ratio
+of this side to this side is 2 to 1. And that's just the property
+of centroids and medians. And now, if we can show you
+that the ratio of this side, CI to FO, is 2 to 1, then we
+have two corresponding sides where the ratio is 2 to 1. And we have the angle
+in between is congruent. We could use SAS similarity
+to show that these two triangles are actually similar. So let's actually
+think about that. CI is the distance between
+the larger triangle's point C and its orthocenter. Right? I is the orthocenter
+of the larger triangle. Well, what is FO? Well, F is the
+corresponding point to point C on the
+medial triangle, and we made sure
+that we specified the similarity with the right--
+F corresponds to point C. So FO is the distance between F
+on the smaller medial triangle and the smaller medial
+triangle's orthocenter. So this is the
+distance between C and the orthocenter of
+the larger triangle. This is the distance between
+the corresponding side of the medial triangle
+and its orthocenter. So this is the same
+corresponding distance on the larger triangle and
+on the medial triangle. And we already know they're
+similar with a ratio of 2 to 1. And so, the
+corresponding distances between any two points
+on the two triangles are going to have
+the same ratio. So because of that
+similarity, we know that CI is going to
+be equal to 2 times FO. I want to emphasize this. C is a corresponding
+point to F when we look at both of
+these similar triangles. I is the orthocenter
+of the larger triangle. O is the orthocenter of
+the smaller triangle. You're taking a
+corresponding point to the orthocenter of the larger
+triangle, corresponding point of the smaller triangle to
+the orthocenter of the smaller triangle. The triangles are similar
+in a ratio of 2 to 1. So the ratio of this
+length to this length is going to be 2 to 1. So we've shown that the ratio
+of this side to this side is 2 to 1. We've shown that the ratio
+of this side to this side is also 2 to 1. And we've shown that the angle
+in between them is congruent. So we have proven
+by SAS similarity-- let me scroll down a little bit. By SAS similarity-- not
+congruency, similarity. We've proven that triangle FOG
+is similar to triangle CIG. And so we know corresponding
+angles are congruent. We know that angle CIG
+corresponds to angle FOG, so those are going
+to be congruent. And we also know
+that angle CGI-- let me do this in a new color. Angle CGI corresponds
+to angle OGF, so they are also
+going to be congruent. So you can look at
+this in different ways. If this angle and this
+angle are the same, you could now view
+OI as a true line-- as a transversal of
+these two parallel lines. So that lets you
+know it's one line. Or you could look at
+these two over here. Say, look, these two
+angles are equivalent. So these must be
+vertical angles. And so this must actually
+be the same line. The angle that is approaching
+this median right over here is the same angle
+that it's leaving. So these are definitely
+on the same line. So it's a very simple
+proof, once again, for a very profound idea-- that
+the orthocenter, the centroid, and the median of
+any triangle all sit on this magical
+Euler's Line.

@@ -1,0 +1,120 @@
+We're asked to prove
+that if the orthocenter and centroid of a given
+triangle are the same point, then the triangle
+is equilateral. So I have a triangle
+over here, and we're going to assume that it's
+orthocenter and centroid are the same point. Just as a review,
+the orthocenter is the point where the three
+altitudes of a triangle intersect, and the centroid is
+a point where the three medians. So we can do is we can
+assume that these three lines right over
+here, that these are both altitudes and
+medians, and that this point right over here is both the
+orthocenter and the centroid. So if we assume that
+these lines are altitudes, and that tells us that they are
+perpendicular to the opposite sides-- so that is
+a 90 degree angle, those are both 90 degree angles. These are both 90 degree angles. These are both 90 degree angles. And the fact that
+it's a centroid means that each of these lines
+bisect at the opposite sides. So it tells us that this
+length is equal to this length, that this length is
+a different color, this length is equal
+to that length, and it tells us that
+this length-- this length is equal to that length. And you might also
+say, well, gee. Each of these lines
+are also, then, the perpendicular bisectors
+of each of the sides. So not only is this the
+orthocenter in the centroid, it is also the circumcenter of
+this triangle right over here. But with that out of the
+way, we've kind of marked up everything that we
+can assume, given that this is an
+orthocenter and a center-- although there are other things,
+other properties of especially centroids that we know. But now let's
+prove that this has to be an equilateral triangle. So the first thing that
+you might see-- and let me label some letters
+here, so we can refer to things a
+little bit better. So let's call that A, B,
+C, D, E, and F-- and we could label the centroid
+right over here, G. So the first thing, let's
+look at triangle AFG and triangle-- with
+E-- and triangle EFG. So let's compare triangle
+A, F-- triangle A, F, G-- Let's compare
+that to triangle EFG. Triangle E,F,G. So they definitely
+have one side-- side EF is congruent to side AF--
+these are both the same. And we have angle EFG is
+the same as angle AFG, they're both 90 degrees. And then they both
+clearly share this side FG-- they both share this
+side right over here-- they both share that over there. So they have a congruent
+side, a corresponding angle in between another
+congruent side, and they're all--
+So congruent side, congruent corresponding
+angle, and another congruent
+corresponding side. So by side, angle, side,
+these two characters are going to be congruent. By side, angle, side congruency. Now can you make that
+exact same argument to say that all of
+these pairs that have the kind of share-- that
+both have these 90 degree angles next to each other
+are going to be congruent. By the same exact argument, we
+can say triangle EDG triangle E,D,G, is going to be
+congruent to triangle CDG. Triangle C,D,G. Same exact
+thing-- side, angle-- and then we have a
+side right over here. And then we can use
+the exact same argument for this one over here. Triangle C-- that looks
+like an A-- triangle CBG is congruent to triangle ABG. A, B, G. That by
+itself is interesting. But we know that if two
+triangles are congruent, all of their corresponding
+sides and angles are going to be congruent. So for example, if we know the
+measure of this angle is blue, the corresponding
+angle on this triangle is also going to have
+the same measure. I'll just make it with
+that same blue angle. And we know if this angle
+right over here is magenta, the corresponding
+angle on triangle AFG is also going to have
+that same measure. And I'll just mark it
+with that magenta again. Now we also know from our
+properties of vertical angles, that whatever angle
+measure AFG is, DGC is going to have the
+same measure, because they are vertical angles. But we know whatever
+angle measure this is, this
+triangle, triangle CDG, is congruent to triangle
+EDG, so corresponding angles have to be congruent. So this angle is
+this magenta measure, then this angle also has
+to be the magenta measure. And then once again,
+you see vertical angles. If this is magenta,
+then this is also going to have that same measure. And if this has a
+measure, then that is also going to have
+the same measure. So by using a little
+bit of argument of congruent triangles,
+corresponding angles are going to be congruent,
+and vertical angles, we can see that all of these
+inner angles right over here are going to have to
+be the same measure. And I'm using that with
+this little magenta arc right over there. Now all of these triangles, that
+we split this triangle into, they all have a 90 degree angle,
+they all have a magenta arc. So whatever's left over is
+going to be 180 minus 90 minus magenta. Or it's really 90 minus this
+magenta angle right over here. And that's what this
+blue angle must be. This blue angle is essentially
+90 minus the magenta angle. The blue angle is 90
+minus the magenta angle. And so that angle must be the
+third angle for all of these. So once again, this
+blue angle, there's going to be 90 minus
+the magenta angle, or 180 minus the
+magenta minus the 90. So that's going to
+be a blue angle. Essentially what
+we're saying is, if you know two
+angles of a triangle, it forces what the other
+angle is going to be. We already know that all
+six of these triangles have two angles in common--
+the 90 degree angle and the magenta angle. So the third angle must
+be the same as well. And we're specifying that
+with this blue angle, this blue angle right over here. And now you see if we
+were to look at angle EAC, so angle E,A,C. We see that
+that's just two of these blue angles. That is congruent
+to angle ACE, A,C,E, which is just two of
+those blue angles, which is congruent to angle CEA. Angle C,E,A. Which
+is once again, just two of those blue angles. So we have a triangle here
+where the three angles in that triangle
+all are congruent, so it is an
+equilateral triangle. It's a 60 degree. We've proven before if all three
+of your angles are the same, then the lengths of all three
+sides are the same as well.

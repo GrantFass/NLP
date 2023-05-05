@@ -1,0 +1,22 @@
+- [Instructor] Caterina was testing her null hypothesis is that the true population mean of some
+data set is equal to zero versus her alternative hypothesis, is that it's not equal to zero and then she takes a sample of six observations and then using that sample her test statistic, I can never say that, test statistic was T is equal to 2.75. Assume that the conditions
+for inference were met. What is the approximate
+P-value for Caterina's test? Like always, pause this video and see if you can figure it out. I just always like to remind ourselves what's going on here, so
+there's some population here. She has a null hypothesis that the mean is equal to
+zero, or the alternative is that it's not equal to zero. She wants to test her null hypothesis so she takes a sample of size six. From that, since the population parameter we care about is a population mean, she would calculate the sample mean in order to estimate that and the sample standard deviation. From that, we can calculate this T value. The T value is going to be equal to the difference between her sample mean and the assumed population mean from the null hypothesis, that's what this little sub zero means, it means it's the assumed mean from the null hypothesis, divided by our estimate of the standard deviation of the sampling and distribution. I say estimate because unlike when we were dealing with proportions, with proportions we can actually calculate the assumed, based on the null hypothesis, sampling distribution standard deviation, but
+here we have to estimate it. It's going to be our
+sample standard deviation divided by the square root of N. In this example, they
+calculated all of this for us. They said hey, this is going to be equal to 2.75 and so we can just use that to figure out our P-value. Let's just think about what
+that is asking us to do. The null hypothesis is
+that the mean is zero. The alternative is is that
+it is not equal to zero. This is a situation where, if we're looking at the T
+distribution right over here, my quick drawing of a T distribution. If this is the mean of our T distribution, what we care about is things that are at least 2.75 above the mean and at least 2.75 below the mean because we care about things that are
+different from the mean, not just things that are greater than the mean or less than the mean. We would look at, we would say what's the probability of getting a T value that is 2.75
+or more above the mean, and similarly, what's the probability of getting a T value that is
+2.75 or more below the mean? This is negative 2.75 right over there. What we have here is a T table and a T table is a little bit different than a Z table because there's several things going on. First of all, you have
+your degrees of freedom. That's just going to be
+your sample size minus one. In this example, our sample size is six, so six minus one is five, and so we are going to be in
+this row right over here. Then what you want to do is, you want to look up your T value. This is T distribution critical values, so we want to look up 2.75 on this row. We see 2.75, it's a little bit less than that but that's the closest value. It's a good bit more than this right over here, so it's a little bit closer to this value than this value. Our tail probability, and remember, this is only giving us this probability right over here, our tail probability is going to be between 0.025 and 0.02 and it's going to be closer to this one. It's gonna be approximately this. It'll actually be a little bit greater because we're gonna go a little bit in that direction because
+we are less than 2.757. We can say this is approximately 0.02. That's 0.02 approximately,
+the T distribution is symmetric, this is going
+to be approximately 0.02. Our P-value, which is going to be the probability of getting a T value that is at least 2.75 above the mean or 2.75 below the mean, the P-value is going to be approximately the sum of these areas, which is 0.04. Then of course, Caterina would want to compare that to her significance level that she set ahead of time, and if this is lower than that, then she would reject the null hypothesis and that would suggest the alternative. If this is not lower than her significance level, well then she would not be able to reject her null hypothesis.

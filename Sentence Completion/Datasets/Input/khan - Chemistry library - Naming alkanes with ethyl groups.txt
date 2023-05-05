@@ -1,0 +1,15 @@
+- [Instructor] I think we're
+ready now to tackle some more or even more complicated examples. So let's draw something crazy here. So let's see, let me draw a chain, let me draw it like that. And so, like we've done
+in all of the examples, you wanna find the longest chain. We could count from here, one, two, three, four,
+five, six, seven, eight, or maybe it's one, two,
+three, four, five, six, seven. No, or maybe it's one,
+two, three, four, five, six, seven, eight, nine, 10. That is our longest chain. Let me make that in green. So our longest chain here is in green. So this backbone has 10 carbons in it. The prefix for 10 is dec, it is a alkane, since it has all single bonds. So we can write decane for the backbone. And then it has a group right here, it has a group right here. And this group consists
+of one, two carbons attached to the backbone. The prefix for to carbons is eth, so this is an ethyl group. The yl is 'cause it's a group attached to the main alkane chain. So we call this ethyl decane. But we have to specify where
+the ethyl group is attached and we wanna give it as
+low of a number as possible so we start counting on
+the side closest to it. So it's one, two, three, four, five. So this is 5-ethyl decane. Now let's complicate
+this a little bit more. So let me just copy and paste this. Copy and then paste. So I have pasted it there. And let me complicate this
+molecule a little bit more. Let me add another ethyl group to it. Let me add another ethyl group to it. So let's say it is, we have another ethyl group over there. Now, what is this going to be? Well, the longest chain is still going to be that thing in green, so it's still going to be a decane. It's still going to be a decane. But now we have two ethyl groups, one on the five carbon, one, two, three, four, five, and then one on the six carbon. And then one on the six carbon. So what we write here is, you might be tempted to write
+5-ethyl, 6-ethyl decane, which really wouldn't be wrong, but it would just be maybe more letters than you wanna write. Instead, you write, instead you write, five comma six, diethyl, diethyl diethyl decane. The five, six tells us the two carbons on the main backbone that the
+ethyl groups are attached to and the di says that we have two ethanes, two ethyl groups, I should
+say, not ethane groups. Two ethyl groups, one over here, and one right over here.

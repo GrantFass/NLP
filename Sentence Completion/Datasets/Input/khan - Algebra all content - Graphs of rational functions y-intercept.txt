@@ -1,0 +1,18 @@
+- [Voiceover] Let f of
+x equal a times x to n plus b x plus 12 over c times x to the m plus d x plus 12 where m and n are integers and a, b, c and d are
+unknown constants are. This is interesting. Which of the following is a possible graph of y is equal to f of x? And it tells us the dashed
+lines indicate asymptotes. So they gave us four choices here. And so I encourage you like always. Pause this video. Give a go at it. See if you can figure
+out which of these graphs could be the graph for y equals f of x where f of x, where they've given us this information about f of x. All right, now let's
+work to this together. Now this is really interesting. It's, you know, they didn't give us a lot. They didn't even tell us
+what the exponents on x are. They haven't even given
+us the coefficients. All they've told us is this 12 here. So this 12 looks like a pretty big clue. So what can that tell us? The way they've written that we really can't deduce any
+zeros for the function. We really can't deduce what x values make the numerator equals zero or what x values make the
+denominator equal zero. So it's gonna be hard for us to deduce what are the zeros of the function or what are the removable discontinuities or what are the vertical asymptotes. But just these 12 sitting
+here does tell us one thing. What happens when x equals zero? Because when x equal
+zero, every other term in this rational expression is just going to be equal to zero. And so we can figure out f of zero. F of zero is going to be equal to, well a times zero to the n, well that's just going to be a zero plus b times zero. Well, that's just going to be zero. Plus 12 over c times zero to the m power. Well, that's just going to be zero. D times zero is going to be a zero. And then we have our 12 there. So we're actually able to figure out what f of zero is. It's 12 over 12 or one. So we actually know the y
+intercept for this function. Let's see if that's enough information for us to figure out
+if any of these choices could be the graph of y equals f of x. So let's see here. So choice a, our y intercept is a two. When x equals zero, our graph goes to two. So we can rule that out. The y intercept needs to be one. So we can rule out, let's see, choice B does have a y intercept. It looks just eyeballing it at one, x equals zero, y is one. So this looks interesting. Choice C has its y intercept at y is equal to negative one. So once again, we can rule that out. And choice D has no y-intercept at all. So that was enough information. And lucky for us because
+they really didn't give us a lot more information than just what be able to evaluate f of zero. We were able to figure
+out any of the other, you know, the zeros or
+the vertical asymptotes or their removable discontinuities. So we definitely feel
+good about that choice.

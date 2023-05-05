@@ -1,0 +1,176 @@
+- [Instructor] If you're face to face with a sophisticated
+Newton's Second Law problem, you're gonna need a
+sophisticated understanding of Newton's Second Law. That's what I'm gonna try
+to provide you with here, so that no matter what
+scenario you're faced with you can apply this law in a correct way. Most people know Newton's
+Second Law is F equals MA, which is fine, it's a
+simple way to understand it, and it's fine for simple problems, if I had an asteroid
+for instance, of mass m, out in outer space so there's
+no air resistance or friction, and there was only one
+force on it, a force F, and that force pointed to the right, let's say that force was 50 newtons, well I could plug the 50
+newtons into the force, I could plug the mass of the asteroid, let's just say it's 10
+kilograms, into the mass, and I'd find the
+acceleration of the asteroid, in this case, 50 over
+10 would give me five meters per second squared. But, what if we had extra
+forces on this asteroid? What if there was another
+force that pointed to the left, that was 30 newtons? So let's call, let's name these now, let's call this F1, this 50 newtons, let's say that's the
+magnitude of that force, let's say F2 was the magnitude
+of the 30 newton force, it points to the left, yes,
+that's the negative direction, but let's just say these forces here are just giving the magnitude of it and then the direction is specified by the direction of the arrow. Now what would I do? Well, to handle this we need to understand that the left hand side
+here isn't just force, it's the net force. Or, you can call it the sum of the forces. So to denote the net force, we often write this Greek letter sigma, and sigma is a mathematical symbol that represents the sum of
+whatever comes after it. So this is the sum of the forces. Because F comes afterward. If I had G it would be the sum of the G's, and if I had H it would
+be the sum of the H's. And this is a little confusing already. People hear sum of, phonetically, and they think oh, sometimes
+they're like oh, so, some of? Like a few of? No no no, we mean all
+of, all of the forces. That's what this means. You add up all of the
+forces, that will equal the mass times the acceleration. So in this case, we'd
+take this 50 newtons, I can take 50 newtons
+because it goes to the right, and, I mean we can call leftward positive if we really wanted to, if
+there was a good reason, but unless otherwise specified, we're gonna just choose
+rightward as positive and upward as positive, so
+this 50 has to be positive. And I can't now, by sum
+of, I add up the forces, but I have to add them up like vectors. This force here is a vector. Forces are vectors, and so I
+have to add them up as vectors. This is a vector equation. I can't just take 50 plus
+30 to get the answer, because vectors that point to the left we're gonna consider negative, and vectors that point to the
+right we'll consider positive, and so I'll take 50
+newtons minus 30 newtons. That's what's gonna be equal to the mass times the acceleration, so I could plug in 10
+kilograms if I wanted to, multiply by A, and in this case I'd get 20 over 10 is two, meters
+per second squared. So you have to add these up like vectors, and if I had more forces it'd
+be just as easy to deal with, I can just add them up as vectors, so if I had another force
+here that was maybe, that's maybe 25 newtons,
+we'll call that F3. And let's say there's another
+force that points to the left, this one's gonna be 40
+newtons, so we'll have 40 newtons to the left,
+we'll call this one F4, well, I can just keep including these. I can just add them up as vectors, the 40 newtons points to the left, so that's gotta be a negative, I'll put negative 40 newtons, and then this 25 points to the right, I'll make that positive,
+so positive 25 newtons, and I can find my total
+force, my net force, my sum of the forces,
+and that would allow me to figure out the acceleration. So, there's one problem here though. A lot of times physicists don't
+like writing this anymore, at least physicists that
+are interested in education don't like this form of
+Newton's Second Law as much, a lot of them don't, and the reason is, there's a
+misconception students have. They think that as they're
+drawing forces here, the M times A is also a force. They want to draw an extra
+force on this asteroid, maybe it points to the right, that is mass times acceleration. But mass times acceleration
+is not a force. Mass times acceleration
+is just what the net force happens to equal. So if you add up all the
+net forces, or sorry, if you add up the net force on an object, which is adding up as vectors
+all the forces on the object, that will just equal MA,
+it happens to equal MA. But it is, MA is not a
+force in and of itself, so you cannot draw this as a force, don't draw any of that,
+that is not a force, that's just what the sum of
+the forces happen to equal. So upon realizing this,
+physicists were like oh, okay, this is causing confusion, so let's just write an equally good form of Newton's Second Law,
+in terms of algebra, but that also makes it so that people aren't so susceptible to
+falling into this misconception, and this alternative version
+of Newton's Second Law looks like this. The acceleration equals the
+net force divided by the mass. And you might be like, so what? We just divided both sides
+by mass, who really cares? Well here's why it's better. Because people are much less like to think that acceleration itself is a force. They're much less likely to say oh, acceleration is a force over here, I mean people might do that
+but they're less likely. So acceleration is not
+a force, it's a vector, but it's not a force vector. And the other reason
+this equation is nice, it shows us the relational dependence of acceleration, it shows
+us that the net force is what will give us acceleration, and the more net force we have, the bigger the acceleration. So it shows us that the
+acceleration is proportional to the net force, or
+the sum of the forces. And it shows us that the acceleration is inversely proportional to the mass. So the bigger the mass, the
+less acceleration you have. So it's another reason
+this equation's nice, shows us what acceleration
+actually depends on in terms of net force and mass. So there's one other problem here. So this is better, this is already better, now we know it's net force,
+now we can write it this way and not fall into the
+misconception that MA is a force. There's a problem though, what if I introduced
+another force over here? Let's say I introduced a
+force that points downward. Let's say this force was 28 newtons, and this is F4, well
+we did F4, this is F5. So we have F5, 28 newtons downward, you might think, oh, I know
+how to deal with this now, can't I just sneak this 28 in over here and write it as a negative
+28 because it goes down, can't I just put negative 28 right there and it turns out you cannot do that. That is not allowed, and the reason is, just like
+we couldn't take 50 plus 30, because we're adding these up as vectors, and leftward meant negative
+and rightward meant positive, we can't take a vertical force
+and just add that magnitude, or subtract it, from the magnitude of the horizontal force. That's not allowed, a horizontal force and a
+vertical force added up will not equal the sum of, or the difference of, the magnitudes. What I'm saying is this. Think about it this way,
+if you had a certain amount of force to the right, and a certain amount of force upward, to add these up it would not equal this value plus this value, you'd have to add them up
+with the Pythagorean theorem. To add vectors this way, you'd
+get this vector right here. That would be your total vector. So you'd have to do a
+squared plus b squared equals the total force squared over
+there between those two vectors and you might be thinking oh great, I don't want to have to
+do trigonometry here. And it turns out you don't
+have to, not yet at least. If these are the only forces we have, we don't have to do it this way, I'm just trying to show
+you that you cannot simply naively add up 50 minus
+28 and expect to get the total answer right. But here's what you could do. You could take only horizontal forces, deal with those in the
+horizontal direction first. And only vertical forces,
+and deal with those in a vertical direction, so it's the same trick we
+always play as physicists, we say alright, we're
+gonna divide and conquer, we're gonna take all horizontal forces, and put those into their own equation because the horizontal
+forces should only affect the horizontal acceleration. So if I just want horizontal acceleration, I can take only horizontal
+forces, add those up, and get the horizontal acceleration. Or, I could take only vertical forces. Add those up, and I'd get
+the vertical acceleration. So if I take this, I'll make an equation for each direction independently, and I know I can find each component of the acceleration by just using the forces in that particular direction. So this is a nice trick, we're gonna deal with each
+direction independently. And then if we really wanted, say, say these were acceleration vectors, say we wanted the total acceleration, we were talking about forces before, but all vectors add up the same way. You can use the Pythagorean theorem. If you figure out A in the X direction, the total acceleration in the X direction and you figure out the total acceleration in the Y direction, you could figure out
+the total acceleration, the magnitude of it, by again using the Pythagorean theorem,
+and so this is just a way, this is a handy way of
+dealing with these forces that point in multiple directions. Let me stick one more
+force in here, just because we should have one that points up and then we have all
+possible directions here. Alright so if this force,
+F, what are we on, six, is gonna be, maybe that's about 42, that's a good number, newtons upward, how do we deal with this? Well we already dealt
+with the X direction. This was the X direction,
+this gives us all the forces in the X direction, that equals mass times
+acceleration in the X, it's not written in this form, it's just multiplied with
+the 10 on the right hand side instead of divided here,
+but this is the formula you could use to relate
+forces in the X direction to the acceleration in the X direction. We're essentially just
+taking all of these forces, plugging them into the net force in the X, dividing by the mass, and we'd find the acceleration in the X direction. For the Y direction, we could say that acceleration in the Y direction would be the net force in the Y direction, so how would we deal with this, only vertical forces
+are gonna be affecting the vertical acceleration, so I can take this F6 which is 42 newtons, it points up, we're gonna
+treat that as positive because we don't have a good reason to treat down as positive, 42 up and that's the
+convention we usually pick, 42 minus 28, 28 points downward, we typically choose that
+as the negative direction, now we can divide by the mass. We'll divide by 10 kilograms, this gives us our acceleration
+in the vertical direction. And now that we have both of these, we could if we wanted to do AX squared plus AY squared equals the total A squared to find the magnitude of
+the total acceleration. Alright, let's step it up one more notch and see what happens, let's
+make it one step harder. We're gonna move this out of the way, I'm gonna make a little room. So let's say this 40
+newtons is still applied, but I'm just gonna put it
+here so it's out of the way. Let's say there was one
+more vector involved, one more vector that points this way, and let's say the size of that vector, we'll call this one F7, let's say F7 is 45 newtons. Okay. 45 newtons applied at an angle, let's just say from that
+point of 30 degrees. How do you deal with this? This is an even more sophisticated Newton's Second Law problem. Here's where it starts to frighten people, they don't know what to do, a lot of times they try to just throw this 45 newtons into one of the equations, they think the 45 maybe should go in the X equation because
+it points to the left, that's horizontal, that's X,
+but it also points vertical, sometimes they throw the whole 45 into the vertical equation,
+maybe they do plus 45 over here, but that's wrong, you can't do that, and you can't do that
+because only vertical forces and components of forces can go in this vertical equation, and only horizontal forces
+and horizontal components of forces can go into
+this horizontal equation. So what we have to do at this point, I think you know what we have to do, we have to break this up. So we have to take this 45 newtons, that points up and to the left, we have to break this up
+into how much of this force points left, how much of
+this force points upward. So we're gonna have to figure
+out what is this component of this force that way,
+in the X direction, what is this component in
+the vertical direction, I'll call this F7 in the Y direction, and this component here would
+be F7 in the X direction, it's getting a little cluttered
+there, sorry about that. We have to figure out
+what these components are, and once we figure out what those are, I can associate the F7
+X into the X equation, and the F7 Y into the Y equation, but I can't put the whole
+45 into either equation because all 45 newtons is
+not directed vertically or horizontally, only part of it is. So we have to figure out
+with more trigonometry, we're gonna use this same
+rule or the same idea over here, but instead of
+the Pythagorean theorem, we're gonna take this 45 newtons and break it up into components, and the way we do that is with the definition of sine and cosine. So if this is, I'm just gonna
+make it bigger over here, 45 newtons, if this side is 45 newtons, then this side would be the
+adjacent to this 30 degrees, this F7 in the X direction, and this side would be the
+opposite to that 30 degrees, so that's F7 in the Y direction. Now we use sine and cosine, let's use the definition of cosine. The definition of cosine,
+theta, is gonna be the adjacent over the hypotenuse. So the adjacent to this 30 degrees is the side touching that
+angle, which is F7 X. So F7 in the X direction,
+over the hypotenuse is the total magnitude
+of this force vector which is 45 newtons. So I can solve now for
+F7 in the X direction, F7 in the X direction
+is gonna be 45 newtons times cosine of 30 degrees. Now I can take this F7 in the X direction, I can take this, whatever it is, this is just a number, you
+can calculate it if you want, and I'm gonna take this
+and I'm gonna plug this straight into the X direction, I'm gonna put it right
+into here, as, let's see, should it be positive or negative? Here's where it's tricky. The F7 Y points up, the F7 X points left, this is the X component,
+so it's the leftward that we care about, the
+fact that it points up doesn't matter in terms of X, but this component points left so we have to include it
+as a negative 45 newtons times cosine of 30. And now for the Y direction we can use the definition
+of sine of theta. Sine of theta is F7 in the Y direction, which is the opposite, because sine is opposite over hypotenuse. So in this case the opposite
+is F7 in the Y direction, over the hypotenuse, the
+hypotenuse is the total vector which is 45 newtons, the
+magnitude of the total vector, so, we get that F7 in the Y direction is gonna be 45 newtons
+times sine of 30 degrees. So I can take this,
+this is the Y component, I can plug this over into,
+how am I gonna get there without crossing a line? I'm gonna take this and plug it, over here. Right into this Y directed equation. Should it be positive or negative? The Y component points
+up, so it's gonna be plus 45 newtons times
+sine of 30 degrees, whew. Okay, so, Newton's Second Law, now you're equipped,
+you know how to use it, these forces might not be asteroid forces, maybe they're tension or
+gravity or normal forces or frictions, maybe there's forces in all different directions, but these rules still apply
+no matter what the force, whether it's up, down,
+left, right, or diagonal, now you know how you can figure out how to use Newton's Second Law no matter what direction
+the force is pointed in.

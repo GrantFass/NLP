@@ -1,0 +1,32 @@
+What is the nth number in
+the following sequence? Let's see. The first term here is a 6. So over here I'll
+put the term. So this is the number. I'll just write num there. That's the number. And this is the term. So the first term here is a 6. It looks like we add 3 to
+that to get to a 9. Or maybe there's some
+other pattern here. So that's the second
+term, is 9. Then they go from 9 to 12. Looks like we add 3 again. So we keep adding 3. So the third term is 12,
+the fourth term is 15. And we need to think of a
+general expression that will give us the value
+of the nth term. The nth number in the
+following sequence. So let's think a little
+bit about it. We know that we're incrementing
+by 3 every time and we're starting at 6. So let's write these in terms
+of multiples of 3, since we know that that's the
+increment level. This first term right
+here is 3 times 2. The second term right
+here is 3 times 3. This third term is 3 times 4. And so it looks like it's 3
+times one more than the actual term you are dealing with. Right? Here, if you take your term,
+you add 1 and then multiply that by 3, you get 6. Take your term, add 1, then
+multiply it by 3. Take your term, add
+1, you get 4. Then multiply by 3. Take your term, add 1-- which
+would be 5-- and then multiply by 3, you get 15. So it looks like any time-- so
+if you have your nth term. So if you go all the way out
+here to your nth term, the value here would be
+you'd add 1 to it. So you'd have n plus 1, and then
+you'd multiply that by 3. So the nth term is
+3 times n plus 1. Or if you wanted to distribute
+out the 3, it'd be 3n plus 3. And just make sure that
+works for all of them. The first term, 3 times 1
+is 3 plus 3, that works. That's 6. The second term, 3 times
+2 plus 3 is 9. So it works for all
+of these terms. So that is the nth term. We have to assume that this
+pattern continues.

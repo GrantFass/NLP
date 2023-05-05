@@ -1,0 +1,26 @@
+Voiceover:We've already used a transformation matrix
+to transform one point, what I want to do in this video, is transform a series of points. So, I have these position vectors, p1, p2, and p3, and I've plotted them right over here. And you can imagine them to even be vertices of a triangle that looks something like this (that's one side, that's another side, and that's another side, right like that) and what I'm curious about is what happens if I transform
+these three points? And like the last video, I could apply this transformation matrix separately to each of them to see what they transform into, or instead I could take
+this transformation matrix, and multiply it times a matrix composed of these position vectors, so let me do that... Let me take my transformation matrix, let me copy and paste that. So, copy and paste. So, I'm going to take
+my transformation matrix and I am going to multiply that by a matrix that has all three of these position vectors in it, where each of the columns of this matrix is going to be one of
+these position vectors. So, the first one is 2, 1. Then we have -2, 0 Then we have 0, 2. So, one way you could think about it is we're taking our transformation matrix and we're multiplying it by a matrix that is composed of the first column is position vector 1, the second column is position vector 2, and the third column is position vector 3. Now, what is this going to give us? Well, this is a 2x2 matrix. We're multiplying it by a 2x3 matrix, so matrix multiplication
+is defined over here because the number of columns here is the same as the number of rows here. And it's going to result in a 2x3 matrix. So, it's going to result in a 2x3 matrix. So, 2 rows and 3 columns, which we could imagine represents three new position vectors. So, what's this going to be? Let's go step by step. So, this first entry, first row, first column, is this row times this column, so 2x2 which is 4, plus 1 plus 1, so it's 4 plus 1 so this is going to be 5. Let me do it in a different color. -1 times 2 is -2. plus 2 times 1 plus 2, that's -2 plus 2 which is 0. So, we already see it transformed 2,1 to 5,0. 1, 2, 3, 4, 5. So if we consider this p1, we consider this p1 prime, p1 after our transformation. Now, let's go to p2. 2 times -2 is -4, plus 1 times 0, so it's -4 plus 0, which is just -4. And then -1 times 2 is positive 2, plus 2 times 0, which
+is just going to be 0. So it's going to be positive 2 plus 0, which is just 2. So, -4, 2. Negative 1, 2, 3, 4 comma 2. Right over here. So this is p2 This was p2 right over here. This is p2 prime. This is position vector p2 prime. Or the position that position vector p2 prime would specify. And then finally, let's look at p3. So we have 2 times 0, which is 0, plus 1 times 2, so that's zero plus 2 or just 2, and then we have -1 times 0, which is 0. plus 2 times 2 is four. So, we get the point 2, 4. So, 2 comma 1, 2, 3, 4... we go right over here. So, this is p3 right over here. This is p3 prime. And so something interesting has happened. We now have the vertices you could imagine of a new triangle. Of a new triangle that
+looks something like this. That looks something like this. So, what you can imagine is... Actually, let me draw it... Let me draw our new one
+with this blue color. so we can see it a little better. So we went from that smaller triangle, we went from that smaller triangle to the larger one, this is the smaller one right over here. That's our smaller triangle to the larger one, or another way you could think of it, this entire triangle was transformed, and right now we only
+transformed the vertices, but it actually turns out, and I'm not proving this video, that if you transformed- if you took any of these
+points on this triangle, it would have transformed to a corresponding point on
+this larger triangle. And what's neat about this is hopefully you're starting to appreciate the power of a transformation matrix. And hopefully you're
+starting to appreciate why this is useful as you
+start to think about things like computer games and animation, because what transformation matrixes allow us to do, and this is what these computer programs allow us to do - view things from different perspectives, what they're actually
+doing under the covers, is they're using transformation matrixes, and they're multiplying
+them times coordinates, in order to get new coordinates based on the position or the
+perspective of the player, or the position or the
+perspective of the camera, or the virtual camera in
+a computer graphics world. So two, I guess, several neat things here, is we haven't just
+transformed a point now, we've transformed three points, which could represent the
+vertices of a triangle, and you see it as this kind of expansion and rotation that seems to have happened when we used this transformation matrix. If we use a different
+transformation matrix, we would have a different transformation and not only did we do it, but we saw that we could
+do it with multiple position vectors as the same time. I could have done it independently and gotten the same result, but this is hopefully starting to show you the power of matrixes, and why
+it also could be useful in things like computer
+graphics and animation and things like that.

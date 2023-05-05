@@ -1,0 +1,127 @@
+- Something you see a lot
+when doing thermodynamics especially problems
+involving the first law are what are called PV Diagrams. Now, the P stands for Pressure and the V stands for Volume. And this gives you a diagram of what the pressure and volume
+are in any given instant. So what does this mean? Well, imagine you had a container full of a gas and there's
+a movable piston on top. Piston can move up or down, changing the amount of volume, right? This is the volume we're talking about, is the volume within here. So that movable piston can
+change that amount of volume. And that would change the
+amount of pressure inside, depending on what heat is
+added, how much work is done. So say we started with a
+certain amount of volume, right? Let's say we start with that much volume. And the pressure inside
+is probably not zero. If there's any gas
+inside, it can't be zero. And so we come over to here, let's say we start at
+this point right here. Now, what do we do? I know if I push the piston
+down, my volume decreases. And if I pull the piston
+up, my volume increases. So if I push the piston down,
+I know volume goes down. That means on this graph,
+I'm going that way. Piston going down means decreasing volume. What about piston going up? Well, if the piston goes up,
+then my volume's increasing and I know on my graph I'd
+better be going to the right. Now maybe I'm going up and right. Maybe I'm going down and right. All I know is, my volume
+better be increasing, so this is increasing volume,
+that's increasing volume, that's increasing volume. This is not increasing volume, so I know if my piston goes up, my volume increases, I gotta be going to the rightward in
+some way on this graph. And if my piston goes down, I better be going to the left
+on this graph somehow. Now, what happens to the pressure? You gotta know a little
+more detail about it. But just knowing the
+direction of the piston, that lets you know which
+way you go on this graph. So say I push the piston down. Say I push it down really fast. What do you think's gonna
+happen to the pressure? The pressure's probably gonna go up. How would I represent that? Well, volume's gotta go down,
+pressure would have to go up, so I might take a path that
+looks something like this. Volume's gotta go down to the left. Pressure's gotta go up, so maybe it does something like that. There's really infinitely many ways the gas could get from
+one state to another. It could take any possible range and unless you know the exact details, it's hard to say exactly
+what's gonna happen. So there's infinitely many
+possibilities on this diagram. You can loop around,
+it's not like a function. You can do something like this. This gas can take some crazy
+path through this PV Diagram. There's infinitely many ways it can take. But there are four thermodynamic processes that are most commonly
+represented on a PV Diagram. Again, these are not the
+only four possibilities. These are just the four that are kind of the simplest to deal with mathematically. And they're often a good representation and accurate approximation
+to a lot of processes so the math's good, they work pretty well, we talk about them a lot. The first one is called
+in isobaric process. Iso means constant, so
+whenever you see iso before something, it means constant. Whatever follows next,
+and this one's isobaric. Baric, well bars, that's
+a unit of pressure, so baric is talking about pressure. Isobaric means constant pressure. So how do you represent
+this on a PV DIagram? Well, if you wanna
+maintain constant pressure, you can't go up or down, because if I were to go up, my pressure would be increasing. If I were to go down, my
+pressure would be decreasing. The only option available is
+to go along a horizontal line. So this would be in iso, well, sometimes they're called isobars,
+and isobar for short. This is an isobar, this
+is an isobaric expansion if I go to the right, cause
+I know volume's increasing. And if I go to the left it would be an isobaric compression because
+volume would be decreasing. But it doesn't have to be
+in this particular spot. It could be anywhere on this PV Diagram, any horizontal line is gonna be an isobar, an isobaric process. Now, I bring up the isobaric process first because it allows me to
+show something important that's true of every process
+that's just easier to see for the isobaric process. In physics, the area under the curve often represents something significant. And that's gonna be true here as well. Let's try to figure out
+what the area under this curve represents. So first of all, to find the area of this rectangle, we know it's gonna be the height times the
+width, what's the height? The height's just the pressure, right? The value of this pressure over here is gonna be the height and the width is the change in volume so if I started with V initial and I ended with V final, let's say it was the expansion
+instead of the compression. This V final minus V initial, this delta V is going to represent the
+width of this rectangle. So we know area is going to
+be the value of the pressure times the change in the volume. Well, what does that mean? We know that pressure, we know
+the definition of pressure, pressure is just the force per area. So on this gas, even on a
+force exerted on it per area, and the change in volume,
+what do we know is the volume? How could I represent the volume in here? I know this piston has some area, so there's some area that this piston has. And then there's a certain height. This inner cylinder of volume in here has a certain height
+and then a certain area so we know the volume is
+just height times area. So it would be height times
+the area of the piston. Which of these is
+changing in this process? Well, the area is not changing. If the area of this piston changed, it either let some of the gas out or it would bust through
+the sides of the cylinder, both of which we're
+assuming is not happening. So I can pull area out of this delta sign since the area is constant. And what I get is F times A over A times the change in the height. Well the A is canceled, A cancels A and I get F times the
+change in the height. But look at, this is just
+force times a distance. Times the distance by
+which this height changes. So delta H will be the amount by which this piston goes up or down. And we know force times the distance by which you apply that
+force is just the work. So now we know the area
+under this isobaric process represents the work done either on the gas or by the gas depending
+on which way you're going. So this area is the work, this
+area, the value of this area equals the amount of work
+done on the gas or by the gas. How do you figure out which? Well, technically this area represents the work done by the gas, because if we're talking about a positive area, mathematically that means
+moving to the right, like on a graph in math class. The area, positive area,
+you're moving to the right. So if we want to be
+particular and precise, we'll say that this is a
+process moving to the right. And we know if the volume is going up like this graph is going to the right, which means volume is increasing, we know that gas is doing work. So technically, this area
+is the work done by the gas. You can see that as well
+since this is P delta V. If your delta V comes out positive, pressure is always
+positive, if your Delta V comes out positive, the
+volume is increasing. That means work is being done by the gas. So you have to be careful. If you calculate this P delta V and you go to your first law equation, which remember, says delta U is Q plus W, well you can't just plug
+in the value of P delta V. This is the work done by the gas, so you have to plug in negative that value for the work done, and
+also correspondingly, if you were to go to the left, if you did have a process
+that went to the left. That is to say the volume was decreasing. If you find this area and you're careful, then you'll get a negative delta V if you're going leftward
+because you'll end with a smaller value for the
+volume than you started with. So if you really treat
+the left one as the final, cause that's where you end
+up if you're going left, and the rightward one as the initial, your leftward final point will be smaller than your initial point, you
+will get a negative value here. So again, you plug in negative
+of that negative value. You'll get your positive work, cause positive work is
+being done on the gas. That sounds very complicated. Here's what I do, quite honestly. I just look at the shape, I find the area, I do the magnitude of the height, right, the size of it, no negatives. The size of the width, no negatives. I multiply the two and then I just look. Am I going to the left? If I'm going to the left,
+I know my work is positive. If I'm going to the right,
+I know my work is negative that I plug into here, so I
+just add the negative sign in. Makes it me easier for me to understand. So I said that this works for
+any process, how is that so? If I take some random process, I'm not gonna get a nice
+rectangle, how is this true? Well, if I did take a random process from one point to another, say I took this crazy path here. Even though it's not a perfect rectangle, I can break it up into small rectangles so I can take this, break
+this portion up into, if I make the rectangle small enough, I can approximate any
+area as the summation of a whole bunch of little rectangles. And look at, each one of these rectangles, well, P delta V, that's the
+area underneath for that one, add them all up, I get
+the total area undeneath. So even though it might be
+difficult to find this area, it's always true that if
+I could find this area under any process, this area
+does represent the work done. And again, it's by the gas. So in other words, using the formula work done by the gas
+that we had previously equals P times delta V, that works for one small little rectangle
+and you can add all those up, but it work for the entire process. If you tried to use the,
+say, initial pressure times the total change in volume, and that's not gonna
+give you an exact answer, that's assuming you
+have one big rectangle. So this formula won't work
+for the whole process. But we do know if you
+have an isobaric process, if it really is an isobaric process, then we can rewrite the first law. The first law says that delta U equals Q plus work done on the gas? Well, we know a formula for
+the work done by the gas. Work done by the gas is P delta V. So the work done on the gas is just negative P times delta V. Here's a formula for the first law if you happen to have an isobaric process. So an isobaric process is pretty nice. It gives you an exact
+way to find the work done since the area underneath
+is a perfect rectangle. But how would you physically set up an isobaric process in the lab? Well, imagine this, let's say you heat up this cylinder, you allow heat to flow in. That would tend to increase the pressure. So the only way we could
+maintain constant pressure, cause an isobaric process
+maintains constant pressure, if I want the pressure to stay
+the same as heat flows in, I better let this piston move upwards. While I add heat I can
+maintain constant pressure. In fact, you might think
+that's complicated. How are you going to do that exactly? It's not so bad, just allow the piston to come into equilibrium with whatever atmospheric pressure plus
+the weight of this piston is. So there's a certain pressure
+down from the outside and then there's the weight of the piston divided by the area
+gives another pressure. This heat will try to make
+the pressure increase, but if you just allow this system to come into equilibrium
+with the outside pressure, the inside pressure is always gonna equal the outside pressure
+because if it's not equal, this piston will move
+up or down accordingly. So if this piston can move freely, it'll maintain a constant pressure and that would be a way
+to physically ensure that the pressure remains constant and you have an isobaric process. I'll explain the next three
+thermodynamic processes in the next video.

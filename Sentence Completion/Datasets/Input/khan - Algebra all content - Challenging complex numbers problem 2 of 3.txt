@@ -1,0 +1,110 @@
+In the last video, we saw
+that choice A is true. Now let's see if B, C,
+and D are also true. So choice B, they're telling
+us that the argument, let me rewrite it
+over here-- I'll do it in another color,
+their choice B is telling us that the argument
+of z minus z1 is equal to the argument
+of z minus z2. Now let's think about
+this a little bit. We already did some work. We simplified what z
+minus z1 is equal to. It's equal to t
+times z2 minus z1. So this is equivalent to saying
+that the argument of t times z2 minus z1. I'm just leveraging
+some of the algebra that we already did,
+because this thing is the same thing as what's
+inside of the absolute value sign, which is the same thing
+as this thing over here. So the argument, t
+times z2 minus z1, is equal to-- so I'm
+just rewriting statement B. Statement B is just
+saying that this should be equal to the argument
+of-- now what's z minus z2? Z minus z2, we figured out
+was this thing over here. Actually, let's say it's
+this thing right over here. It's equal to this
+thing right over here. And we could rewrite
+this thing as being equal to-- I'm running
+out of real estate here-- but we can rewrite
+this thing right here as B equal to 1 minus t,
+I'm just factoring out the 1 minus t, times
+z1 one minus z2. Or so we can get in
+the same form here, let's multiply this times
+negative 1 and this times negative 1. So I'm multiplying
+by negative 1 twice. So I'm not changing the number. So this is going to be
+equal to, or the statement is claiming this is equal to,
+the argument of t minus 1-- let me write it a little
+bit neater than that. So the claim is
+that this should be equal to the argument of t
+minus 1 times z2 minus z1. So let's think about this. And just remember,
+all I did here is I multiplied this by negative
+1, and this by negative 1. If I multiply two
+things times negative 1, it's equivalent to
+multiplying by negative 1 twice, which is just
+multiplying it by one. So I was able to
+swap both of these. So is this true? Is it true that the argument
+of t times z2 minus z1-- is it true that that's the
+same thing as the argument of t minus 1 times z2 minus z1? So let's just think
+about it a little bit. Let's draw an
+Argand diagram here. That's the imaginary axis. This is the real axis. And let's draw the
+vector z2 minus z1. So let's say that this
+right here is the vector. Let me draw it like this. This right here is the
+vector, z2 minus z1. Now what would t times
+z2 minus z1 look like? So t, we learned,
+is between 0 and 1. So it's going to be a scaled
+down version of z2 minus z1. So this right here-- so
+who knows what it is. This right here would
+be t times z2 minus z1. Now what would t minus 1
+times z2 minus z1 look like? Well t minus 1, remember
+t is between 0 and 1, so t is less than 1. So t minus 1--
+this right here is going to be a negative number. It's going to be
+a negative number. So we're going to be scaling
+it by a negative number. So we're going to be scaling z2
+minus z1 by a negative number. So this thing right over here,
+t minus 1 times z2 minus z1 is going to look like this. This is t minus 1
+times z2 minus z1. Now the arguments
+are just the angles between each of these
+numbers and the real axis. So the argument for this
+thing right over here is going to be this angle. It's going to be
+phi right over here. So I could call that phi. But what's the argument
+for this thing? It's going to be that plus
+pi, or plus 180 degrees. We have to go all
+the way around. So they are not the same angle. Whatever number this
+is right over here, this number is going to be
+that, plus or even minus pi. You could even go that way. But they're definitely not
+going to be the same angle. So we can cross out B
+choice B as an option. But now that we're
+in this mode, let's see if we can tackle choice D,
+because it looks very similar. And then I'll probably do
+choice C in the next video, because I don't want to spend
+too much time in each video. So what answer
+choice D telling us? So let me write it down here. Choice D is telling
+us-- so we don't know, we have to
+see if it's true, that the argument
+of z minus z1 is equal to the argument
+of z2 minus z1. So let's think a little
+bit about this right now. So once again, they
+tell us, we already figured out what z
+minus z1 is equal to. It's equal to this
+business over here. So this statement is
+equivalent to the statement that the argument of z minus z1,
+which is t times z2 minus z1, leveraging our algebra
+in the last video, t times z2 minus z1. Is this equal to the
+argument of z2 minus z1? Well, once again, let's draw
+our Argand diagram here. Actually, we could leverage
+the same Argand diagram. In green right here,
+we have z2 minus z1. It's argument would be
+this angle right over here. It would be this angle, phi. This is z2 minus z1. That's that angle. T times z2 minus
+z1 is just going to be the scaled down version
+of it, what we have an orange. Now clearly, this is
+just-- t is positive, so it's not pointing
+in another direction. This is just a scaled
+down version of this. This vector and this vector,
+or this complex number and this complex
+number, are going to point in the same direction,
+so their angles are the same. T-- let me do it-- this orange
+vector is this right over here, or that orange complex number
+is this right over here. This is t times z2 minus z1. And then the green one, just to
+be clear, z2 minus z1, is that. They're clearly in
+the same direction. They clearly have
+the same argument. So choice D another
+correct choice. Now I'm going to
+leave you there. In the next video, we're going
+to see if choice C works.

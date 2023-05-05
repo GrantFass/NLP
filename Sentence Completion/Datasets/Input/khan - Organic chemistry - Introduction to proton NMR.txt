@@ -1,0 +1,90 @@
+- The nucleus of a
+Hydrogen atom is a proton and has a property called spin. So you can think about,
+just as a visual aid, you can think about this proton
+that's spinning this way. A spinning proton,
+right, is like a rotating sphere of charge, and any moving charge creates a magnetic field. Therefore, you can say a
+proton is a tiny magnet. So, like a bar magnet or a compass needle. So over here on the right, let's look at a compass needle, right, which has two poles. So we have the North pole,
+which I'll color in red here, and the South pole. So the compass needle's
+like a tiny bar magnet, too, and so we can draw the
+magnetic fields, right? So magnetic field lines go from the North pole to the South. So I can draw in a
+magnetic field line here. So going from the North into the South. So going from the North to the South for our magnetic field line. Alright, we could also think about the magnetic dipole moment
+of the compass needle. The magnetic dipole moment is also called the magnetic moment and it's a vector that points in the direction
+of the dipole's magnetic field. So we have two poles, North
+pole and a South pole, and the magnetic moment is going to point in this direction. Alright, so using this same idea, we can go back to the proton and think about it like a compass needle. So if it's spinning this
+way it's going to have a North pole and a South pole, and so I'm going to go ahead and cover-- Color the North pole red, here. We can draw magnetic field lines. So we can draw a magnetic field line going from the North
+pole to the South pole and then go ahead and do it
+over here, too, like that. And, therefore, we could also draw in the magnetic moment of the proton. So the magnetic moment
+points in the direction of our dipole's magnetic field. And so, this is how we're
+going to think about a proton, like a tiny magnet with a magnetic moment. Alright, let's go back to the
+idea of the compass needle because we know that a compass needle, if you put 'em to the
+Earth's magnetic field, the compass needle is going to point North and so that's what I have down here. So the magnetic moment, the compass needle is pointing North like that. And we know that opposite poles attract, so if this is the North pole
+of our little bar magnet, of our compass needle, this must be the magnetic South pole. And so I'm sure some of you are like, "Whoa, that's the geographic North pole." and it is the geographic North pole, but if you're talking about magnets, it's actually the magnetic South pole because opposite poles attract. So if this is the South pole down here, this must be the magnetic
+North pole of the Earth. Alright, so this is just what happens when you put a compass needle into the magnetic field of the Earth. And so, if you wanted to
+make the compass needle point in the opposite direction... So here I have the compass
+needle pointed in this direction. You would have to put energy in, right? So here's my finger,
+and so I had to rotate, I had to rotate the compass needle. I had to put energy in in
+order to get the compass needle to point in this direction. And hopefully you can see this
+tiny little mark right here on the table that I left in. So you can see that I'm actually moving the compass needle with my finger, and so it took energy. And so this... So having the compass needle
+point in this direction is higher in energy than this one. And so if I let go, if I
+just let go with my finger, the compass needle would
+automatically swing back and point in this direction again. So this is the lower energy state and this is the higher energy state because I had to put energy in to make the compass needle point down. And so that's how we're
+gonna think about our proton. So we could have a proton, and if we have an external magnetic field, let me go ahead and identify that, so this right here I'm
+saying is an external magnetic field that we're applying. So I'm gonna call this B naught. And if you put the proton in this external applied magnetic field, there's a quantize interaction between the magnetic moment of the proton and this external magnetic field. And the magnetic moment of the proton either aligns with the
+external magnetic field or it aligns against the
+external magnetic field. So let me go ahead and draw that in. So here it would be our magnetic moment aligning with the external magnetic field and then here it would
+be the magnetic moment aligning against the
+external magnetic field. We could think about that relating to the spin of the proton, because I said if it's spinning this way, this is the North pole and
+this is the South pole, so I can color in my North pole here red, and the magnetic moment
+was in this direction. And so for the other one,
+if the magnetic moment is now aligned against the
+applied magnetic field, the proton must be spinning
+in the opposite direction so we can imagine, even though this isn't exactly what's happening, we could imagine the
+proton spinning this way, making this the North pole
+and this the South pole. So that's why this compass
+needle analogy helps so much because there's an energy difference between these two spin states. So when the magnetic moment is aligned with the magnetic field
+this is the alpha spin state and when the magnetic moment is aligned against the applied magnetic field, this is the beta spin state. And there's a difference in energy between these two spin states just like there's a
+difference in energy between these states of the compass needle. So this one was higher
+in energy than this one, and it's the exact same idea
+where you could think about it as being the same for our proton. So we have a difference in energy. So this spin state is higher
+in energy than this spin state. Alright, let's go back to the
+analogy of the compass needle. If we were somehow able to increase the magnetic field of the Earth, it would take me more energy in order to make the compass point down, right? So I would have to put more energy in in order to change the
+direction of the compass needle. Same idea with the proton. If you increase the
+applied magnetic field, so I'm now gonna draw a
+bigger magnetic field. So here's a bigger magnetic field. So a bigger B naught. So I've increased B naught. I'm going to increase
+the energy difference between the two spin states. So I can draw a greater
+difference in energy between the alpha and
+the beta spin states. So now this difference in energy, let me just go ahead and draw it in here, so this difference in energy... This difference in energy is greater than this difference in energy because we've applied a
+stronger magnetic field. And, again, the compass analogy
+helps us understand that. Alright, so now we've learned that we have these two different spin states. And turns out a proton can absorb energy and flip from the lower spin state, the alpha spin state,
+to the beta spin state. So let's take a look at
+a diagram showing that. So here we go down here. Alright, so if we apply, once again, if we apply an external magnetic field there are two possible
+spin states for our proton, for our nucleus. So the nucleus could be in the alpha spin state or the beta spin state. And let's say we have
+a proton or a nucleus in the alpha spin state, so there's a certain difference in energy between the alpha and
+the beta spin states. So there's a certain difference in energy. And the proton can absorb energy and flip to the higher energy spin state. So if we apply the right amount of energy, this proton can flip
+from the alpha spin state to the beta spin state. So let me just draw it in here. This is alpha and this is beta. And when that happens, the nucleus is said to be in resonance with
+your applied magnetic field and hence the term nuclear
+magnetic resonance. And so this energy
+difference between your two spin states corresponds to a frequency because E is equal to h nu, where E is energy and nu is the frequency. And this frequency falls in the radio wave region of the electromagnetic spectrum. And so now we know enough to think about how an NMR works, and I should point out that I'm really only going
+to talk about F T NMR. Let me go ahead and rewrite that. So I'm only going to talk about F T NMR in this set of videos
+here in this tutorial. And in F T NMR you take
+a sample of your compound and you put it in an
+external magnetic field and the nuclei can either
+be in the alpha spin state or the beta spin state. There's a slight excess of
+nuclei in the alpha spin state. And so you hit the
+sample with a short pulse that contains a different
+range of frequencies, and those excess nuclei
+can absorb the energy and flip from the alpha spin
+state to the beta spin state. When the nuclei fall back down from the beta spin state back down
+to the alpha spin state, so just like if I took my
+finger off the compass needle the compass needle flips back
+to the lower energy state, the NMR machine can detect
+the energy that's given off and it gives us a signal
+on an NMR spectrum. And so down here I'm showing you just a very simple NMR spectrum and we get a signal, right? So let me go ahead and
+draw that signal in here. So a signal looks like this,
+so like a peak right here. And this peak occurs
+at a certain frequency, so if you drop down to here, this represents a certain frequency. Over here, this is the intensity, so the number of absorptions. So how high, or I'll talk about
+this in more detail later, your peak is here on your NMR spectrum. and so it's possible to
+get different signals at different frequencies. Let me go ahead and draw in another signal right down here like that. And so this signal's at this frequency and this signal is at this frequency, and if you have different frequencies, if you have different frequencies you have different
+differences in energy here. And this is what helps us understand the structure of molecules. And so I will get more into
+this in the next video, how you can have different frequencies which correspond to
+different energy differences between the alpha and the beta state.

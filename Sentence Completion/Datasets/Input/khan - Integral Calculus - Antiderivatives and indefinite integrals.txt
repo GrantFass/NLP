@@ -1,0 +1,55 @@
+We know how to take
+derivatives of functions. If I apply the derivative
+operator to x squared, I get 2x. Now, if I also apply
+the derivative operator to x squared plus
+1, I also get 2x. If I apply the derivative
+operator to x squared plus pi, I also get 2x. The derivative of
+x squared is 2x. Derivative, with respect to x
+of pi of a constant, is just 0. Derivative, with
+respect to x of 1, is just a constant, is just 0. So once again, this is just
+going to be equal to 2x. In general, the
+derivative, with respect to x of x squared
+plus any constant, is going to be equal to 2x. The derivative of x squared,
+with respect to x, is 2x. Derivative of a constant,
+with respect to x, a constant does not
+change with respect to x, so it's just equal to 0. So you have-- You apply
+the derivative operator to any of these
+expressions and you get 2x. Now, let's go the
+other way around. Let's think about
+the antiderivative. And one way to think
+about it is we're doing the opposite of
+the derivative operator. The derivative operator,
+you get an expression and you find it's derivative. Now, what we want to do,
+is given some expression, we want to find what it
+could be the derivative of. So if someone were
+to tell-- or give you 2x-- if someone were to
+say 2x-- let me write this. So if someone were to ask you
+what is 2x the derivative of? They're essentially asking
+you for the antiderivative. And so you could say, well, 2x
+is the derivative of x squared. But you could also say 2x is the
+derivative of x squared plus 1. You could also say that 2x is
+the derivative of x squared plus pi, I think you
+get the general idea. So if you wanted to write it
+in the most general sense, you would write that
+2x is the derivative of x squared plus some constant. So this is what
+you would consider the antiderivative of 2x. Now, that's all
+nice, but this is kind of clumsy to have to write
+a sentence like this, so let's come up with some notation
+for the antiderivative. And the convention
+here is to use kind of a strange
+looking notation, is to use a big elongated s
+looking thing like that, and a dx around the
+function that you're trying to take the
+antiderivative of. So in this case, it would
+look something like this. This is just saying this is
+equal to the antiderivative of 2x, and the antiderivative
+of 2x, we have already seen, is x squared plus c. Now, you might be
+saying, why do we use this type of crazy notation. It'll become more obvious when
+we study the definite integral and areas under curves and
+taking sums of rectangles in order to approximate
+the area of the curve. Here, it really
+should just be viewed as a notation for
+antiderivative. And this notation right over
+here, this whole expression, is called the
+indefinite integral of 2x, which is another
+way of just saying the antiderivative of 2x.

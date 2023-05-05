@@ -1,0 +1,26 @@
+- [Voiceover] Yuna grows
+two varieties of pears, Bosc and Anjou. She took a sample of each variety to test if their average caloric contents were significantly different. Here is a summary of her results. And so they give the same data
+for both of these samples, and once again they happen
+to have the sample size, they don't need to. But over here instead
+of giving us a P-value, we've gotten a confidence interval. Yuna wants to use these results
+to test her null hypothesis that the mean caloric content is the same, versus her alternative hypothesis, that they are different. Assume that all conditions
+for inference have been met. Based on the interval, what do we know about the corresponding P-value and conclusion at the alpha is equal to 0.01 level of significance? So pause this video and see
+if you can figure that out. Remember what a 99%
+confidence interval is. That says that if we
+construct confidence intervals 100 times, that 99 of those
+times we should overlap with the true parameter that
+we're trying to estimate. In that case the true parameter is the true difference of these means. Now when we do a hypothesis test, we always start assuming that
+the null hypothesis is true. And so if we assume that
+the null hypothesis is true, well another way of writing
+this null hypothesis, if the two means are equal, that's the same thing as the difference of the means equaling zero. And since we're assuming this, and this a 99% confidence interval, then 99 out of 100 times that we do this, we should see that this interval overlaps with what we're assuming
+is the true parameter right over here. Now this interval does
+indeed overlap with zero, if you take four minus 6.44, you're gonna get negative 2.44. So zero is definitely in the interval. And so another way to think about it, we're not in the 1% of the times where we don't overlap. If we were in the 1% of
+times where we don't overlap with the assumed difference, then we would reject the null hypothesis. Or another way to think about it is our significance level
+0.01 right over here, it's one minus our confidence
+level, right over here. If our 99% confidence interval overlaps with mu from the Bosc pears minus the mean caloric content of the Anjou pears, equaling zero, then that means, that means that the P-value is greater than 0.01. And so we could also
+say that our p-value is greater than our significance level, because that is our significance level, and because of that we fail
+to reject our null hypothesis. If this did not overlap with our assumed difference in the means, if it did not overlap with zero, then we would be in that
+one in a hundred scenario and then that would tell
+us that hey our p-value is less than 0.01. Our P-value is less than one
+minus our confidence level and in that case we would
+reject the null hypothesis and it would suggest that there is a difference in caloric content. But because we failed to reject it, we can't conclude that there's a difference in caloric content.

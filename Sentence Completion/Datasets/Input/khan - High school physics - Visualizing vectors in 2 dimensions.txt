@@ -1,0 +1,98 @@
+- [Voiceover] All the problems we've been dealing with so far have essentially been
+happening in one dimension. You could go forward or back. So you could go forward or back. Or right or left. Or you could go up or down. What I wanna start to
+talk about in this video is what happens when we
+extend that to two dimensions or we can even just extend
+what we're doing in this video to three or four, really an
+arbitrary number of dimensions. Although if you're dealing
+with classical mechanics you normally don't have to go
+more than three dimensions. And if you're gonna deal
+with more than one dimension, especially in two dimensions, we're also gonna be dealing
+with two-dimensional vectors. And I just wanna make
+sure, through this video, that we understand at least the basics of two-dimensional vectors. Remember, a vector is something that has both magnitude and direction. So the first thing I wanna do is just give you a visual understanding of how vectors in two
+dimensions would add. So let's say I have a vector right here. That is vector A. So, once again, its magnitude is specified by the length of this arrow. And its direction is specified by the direction of the arrow. So it's going in that direction. Now let's say I have another vector. Let's call it vector B. Let's call it vector B. It looks like this. Now what I wanna do in this video is think about what happens when I add vector A to vector B. So there's a couple things to think about when you visually depict vectors. The important thing is,
+for example, for vector A, that you get the length right and you get the direction right. Where you actually draw it doesn't matter. So this could be vector A. This could also be vector A. Notice, it has the same length and it has the same direction. This is also vector A. I could draw vector A up
+here. It does not matter. I could draw vector A up there. I could draw vector B. I could draw vector B over here. It's still vector B. It still has the same
+magnitude and direction. Notice, we're not saying that its tail has to
+start at the same place that vector A's tail starts at. I could draw vector B over here. So I can always have the same vector but I can shift it around. So I can move it up there. As long as it has the same
+magnitude, the same length, and the same direction. And the whole reason I'm doing that is because the way to
+visually add vectors... If I wanted to add vector A plus vector B... And I'll show you how to
+do it more analytically in a future video. I can literally draw vector A. I draw vector A. So that's vector A, right over there. And then I can draw vector B, but I put the tail of vector
+B to the head of vector A. So I shift vector B over so its tail is right at
+the head of vector A. And then vector B would
+look something like this. It would look something like this. And then if you go from the tail of A all the way to the head of B, all the way to the head of B, and you call that vector C, that is the sum of A and B. And it should make sense,
+if you think about it. Let's say these were displacement vectors. So A shows that you're being displaced this much in this direction. B shows that you're being displaced this much in this direction. So the length of B in that direction. And if I were to say you
+have a displacement of A, and then you have a displacement of B, what is your total displacement? So you would have had to be, I guess, shifted this
+far in this direction, and then you would be shifted
+this far in this direction. So the net amount that you've been shifted is this far in that direction. So that's why this would
+be the sum of those. Now we can use that same idea to break down any vector in two dimensions into, we could say, into its components. And I'll give you a better sense of what that means in a second. So if I have vector A. Let me pick a new letter. Let's call this vector "vector X." Let's call this "vector X." I can say that vector X
+is going to be the sum of this vector right here in green and this vector right here in red. Notice, X starts at the
+tail of the green vector and goes all the way to the
+head of the magenta vector. And the magenta vector starts at the head of the green vector and then finishes, I guess, well where it finishes is
+where vector X finishes. And the reason why I do this... And, you know, hopefully from this comparable explanation right here, says, okay, look, the green
+vector plus the magenta vector gives us this X vector. That should make sense. I put the head of the green vector to the tail of this magenta
+vector right over here. But the whole reason why I did this is, if I can express X as a
+sum of these two vectors, it then breaks down X into
+its vertical component and its horizontal component. So I could call this the horizontal component, or I should say the vertical component. X vertical. And then I could call this over here the X horizontal. Or another way I could draw it, I could shift this X vertical over. Remember, it doesn't
+matter where I draw it, as long as it has the same
+magnitude and direction. And I could draw it like this. X vertical. And so what you see is is that you could express this vector X... Let me do it in the same colors. You can express this vector X as the sum of its horizontal
+and its vertical components. As the sum of its horizontal
+and its vertical components. Now we're gonna see over and over again that this is super powerful because what it can do is it can turn a two-dimensional problem into two separate
+one-dimensional problems, one acting in a horizontal direction, one acting in a vertical direction. Now let's do it a little
+bit more mathematical. I've just been telling you
+about length and all of that. But let's actually break down... Let me just show you what this means, to break down the components of a vector. So let's say that I have a
+vector that looks like this. Let me do my best to... Let's say I have a vector
+that looks like this. It's length is five. So let me call this vector A. So vector A's length is equal to five. And let's say that its direction... We're gonna give its
+direction by the angle between the direction its pointing in and the positive X axis. So maybe I'll draw an axis over here. So let's say that this right over here is the positive Y axis going
+in the vertical direction. This right over here
+is the positive X axis going in the horizontal direction. And to specify this vector's direction I will give this angle right over here. And I'm gonna give a very peculiar angle, but I picked this for a specific reason, just so things work out neatly in the end. And I'm gonna give it in degrees. It's 36.8699 degrees. So I'm picking that particular number for a particular reason. Now what I wanna do is I wanna figure out this vector's horizontal
+and vertical component. So I wanna break it down into something that's
+going straight up or down and something that's going
+straight right or left. So how do I do this? Well, one, I could just
+draw them, visually, see what they look like. So its vertical component
+would look like this. It would start... Its vertical component
+would look like this. And its horizontal component
+would look like this. Its horizontal component
+would look like this. The horizontal component,
+the way I drew it, it would start where vector A starts and go as far in the X
+direction as vector A's tip, but only in the X direction, and then you need to, to get
+back to the head of vector A, you need to have its vertical component. And we can sometimes call this, we could call the vertical
+component over here A sub Y, just so that it's moving
+in the Y direction. And we can call this
+horizontal component A sub X. Now what I wanna do is I wanna figure out the magnitude of A sub Y and A sub X. So how do we do that? Well, the way we drew this, I've essentially set up
+a right triangle for us. This is a right triangle. We know the length of this triangle, or the length of this side, or
+the length of the hypotenuse. That's going to be the
+magnitude of vector A. And so the magnitude of
+vector A is equal to five. We already knew that up here. So how do we figure out the sides? Well, we could use a little
+bit of basic trigonometry. If we know the angle, and
+we know the hypotenuse, how do we figure out the
+opposite side to the angle? So this right here, this right here is the
+opposite side to the angle. And if we forgot some of
+our basic trigonometry we can relearn it right now. Soh-cah-toa. Sine is opposite over hypotenuse. Cosine is adjacent over hypotenuse. Tangent is opposite over adjacent. So we have the angle,
+we want the opposite, and we have the hypotenuse. So we could say that the sine of our angle, the sine of 36.899 degrees, is going to be equal to the
+opposite over the hypotenuse. The opposite side of the angle is the magnitude of our Y component. ...is going to be equal to the
+magnitude of our Y component, the magnitude of our Y component, over the magnitude of the hypotenuse, over this length over here, which we know is going
+to be equal to five. Or if you multiply both sides by five, you get five sine of 36.899 degrees, is equal to the magnitude
+of the vertical component of our vector A. Now before I take out the calculator and figure out what this is, let me do the same thing for
+the horizontal component. Over here we know this side
+is adjacent to the angle. And we know the hypotenuse. And so cosine deals with
+adjacent and hypotenuse. So we know that the
+cosine of 36.899 degrees is equal to... Cosine is adjacent over hypotenuse. So it's equal to the
+magnitude of our X component over the hypotenuse. The hypotenuse here has... Or the magnitude of the
+hypotenuse, I should say, which has a length of five. Once again, we multiply
+both sides by five, and we get five times the
+cosine of 36.899 degrees is equal to the magnitude
+of our X component. So let's figure out what these are. Let me get the calculator out. Let me get my trusty TI-85 out. I wanna make sure it's in degree mode. So let me check. Yep, we're in degree
+mode right over there. Don't wanna... Make sure
+we're not in radian mode. Now let's exit that. And we have the vertical
+component is equal to five times the sine of 36.899 degrees, which is, if we round
+it, right at about three. So this is equal to... So the magnitude of our vertical component is equal to three. And then let's do the same thing for our horizontal component. So now we have five times the cosine of 36.899 degrees, is, if once again we round it to, I guess, our hundredths place,
+we get it to being four. So we get it to being four. So we see here is a
+situation where we have... This is a classic three-four-five
+Pythagorean triangle. The magnitude of our
+horizontal component is four. The magnitude of our vertical
+component, right over here, is equal to three. And once again, you might say, Sal, why are we going
+through all of this trouble? And we'll see in the next video that if we say something has a velocity, in this direction, of
+five meters per second, we could break that down into
+two component velocities. We could say that that's
+going in the upwards direction at three meters per second, and it's also going to the right
+in the horizontal direction at four meters per second. And it allows us to break up the problem into two simpler problems, into two one-dimensional problems, instead of a bigger two-dimensional one.

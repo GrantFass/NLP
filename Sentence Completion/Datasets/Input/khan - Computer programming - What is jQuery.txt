@@ -1,0 +1,16 @@
+jQuery is the most popular library
+on the web today. It's a library of JavaScript functions that make it easy for webpage developers
+to do common tasks-- like manipulating the webpage,
+responding to user events, getting data from their servers,
+building effects and animations, and much more. jQuery builds on top of the functionality that browsers give us
+via the JavaScript DOM API, but lets us accomplish the same things
+in fewer lines of code. For example, let's say you wanted to
+resize all of the images on your page, like when the user clicked a button. You could write these
+four lines of code here, and that would work. Or, you could write
+this single line of code, and jQuery will do all the
+heavy lifting for you. Plus, jQuery takes care of any
+cross-browser bugs or inconsistencies. In 2014, over 60 percent of the
+top million webpages included jQuery. So, pretty much all web developers
+either know jQuery, or have used jQuery
+at some point in their career. And now you can become
+one of those developers.

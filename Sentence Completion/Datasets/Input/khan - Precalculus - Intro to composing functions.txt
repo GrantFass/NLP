@@ -1,0 +1,54 @@
+Voiceover:So we have three different function definitions here. This is F of X in blue, here
+we map between different values of T and what G of T would be. So you could use this as
+a definition of G of T. And here we map from X to H of X. So for example, when X is equal to three, H of X is equal to zero. When X is equal to one,
+H of X is equal to two. And actually let me number this one, two, three, just like that. Now what I want to do in
+this video is introduce you to the idea of composing functions. Now what does it mean
+to compose functions? Well that means to build
+up a function by composing one function of other functions or I guess you could think of nesting them. What do I mean by that? Well, let's think about
+what it means to evaluate F of, not X, but we're
+going to evaluate F of, actually let's just start
+with a little warm-up. Let's evaluate F of G of two. Now what do you think this is going to be and I encourage you to pause this video and think about it on your own. Well it seems kind of daunting at first, if you're not very
+familiar with the notation, but we just have to
+remember what a function is. A function is just a mapping from one set of numbers to another. So for example, when
+we're saying G of two, that means take the number two, input it into the function G and
+then you're going to get an output which we are
+going to call G of two. Now we're going to use
+that output, G of two, and then input it into the function F. So we're going to input
+it into the function F, and what we're going to get is F of the thing that we
+inputted, F of G of two. So let's just take it step by step. What is G of two? Well when T is equal to two,
+G of two is negative three. So when I put negative three
+into F, what am I going to get? Well, I'm going to get negative
+three squared minus one, which is nine minus one which
+is going to be equal to eight. So this right over here is equal to eight. F of G of two is going
+to be equal to eight. Now, what would, using
+this same exact logic, what would F of H of two be? And once again, I encourage
+you to pause the video and think about it on your own. Well let's think about
+it this way, instead of doing it using this little
+diagram, here everywhere you see the input is X,
+whatever the input is you square it and minus one. Here the input is H of
+two, and so we're going to take the input, which is H
+of two, and we're going to square it and we're going to subtract one. So F of H of two is H of
+two squared minus one. Now what is H of two? When X is equal to two, H of two is one. So H of two is one, so since
+H of two is equal to one, this simplifies two one squared minus one, well that's just going to be one minus one which is equal to zero. We could have done it
+with the diagram way, we could have said, hey
+we're going to input two into H, if you input
+two into H you get one, so that is H of two right over here. So that is H of two, and then
+we're going to input that into F, which is going
+to give us F of one. F of one is one squared
+minus one, which is zero. So this right over here is F of H of two. H of two is the input
+into F, so the output is going to be F of our
+input, F of H of two. Now we can go even further,
+let's do a composite. Let's compose three of
+these functions together. So let's take, and I'm doing
+this on the fly a little bit, so I hope it's a good
+result, G of F of two, and let me just think
+about this for one second. So that's going to be G of F of two, and let's take H of G of
+F of two, just for fun. Now we're really doing
+a triple composition. So there's a bunch of
+ways we could do this. One way is to just try to
+evaluate what is F of two. Well F of two is going to be
+equal to two squared minus one. It's going to be four minus one or three. So this is going to be equal to three. Now what is G of three? G of three is when T is equal
+to three, G of three is four. So G of three, this whole thing, is four. F of two is three, three of G is four. What is H of four? Well we can just look back
+to our original graph here. When X is four, H of four is negative one. So H of G of F of two, is
+just equal to negative one. So hopefully this you
+somewhat familiar with how to evaluate the composition of functions.

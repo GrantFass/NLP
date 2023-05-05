@@ -1,0 +1,107 @@
+OK, so in this video we're going
+to connect spiders' LED eyes. Now you'll notice the
+LEDs have four legs. One of the legs is longer, or
+one of the leads is longer. So we want to bend
+the longer lead back. Now on the first one that
+we're going to put up, we're going to bend the
+longer lead back in such a way that we have one
+of the legs-- it's going to connect to pin 12. And so we want to sort
+of bend those legs out so that we can connect to pin 12. And then we're also going to
+connect next to the exposed pins, which are going to
+be pin seven and eight So we want to bend
+those legs out, and you can use the
+nipper pliers to trim them down just a little bit. So it'll go pin
+12, pin 7, pin 8, and the long leg
+is bent backwards. OK, so we're going to do
+the same thing for this LED. And we're going to bend
+that long leg backwards. There we go. And then we're going
+to connect our legs. So the legs are going
+to go-- in this one, they're going to go
+into, looks like-- I think we're going to do
+pin four, three, and two. So those are digital pins
+four, three, and two. And it takes a little bit
+of doing to get in there, but we got it. OK. So those are going
+to be our eyes. So, I think that's right. Yeah. Line it up there. OK. All right. So once we've got the
+LED in place for those, we can take our resistors, and
+we can connect those resistors to our LEDs. Now the legs that we bent
+back are the negatives. They're the ones that
+connect to the negative part of the circuit. And so we're going
+to trim those down, and we're going to trim
+down our resistor leads just a little bit so it doesn't
+take up quite so much space. And then we're going to
+solder them together. And so when you
+take resistor, you want to-- I tried to twist
+the two around each other, and they're just too short
+to do that in an easy way. So what I ended up doing
+was-- and I was thinking maybe I could take a piece of wire and
+twist it, and it didn't work. So what I end up doing was
+grabbing a alligator clip and use the alligator
+clip to hold them together while-- there it goes
+again, it's falling. All right. Now here we go, finally got
+the alligator clip in place. And sit still-- there we go. Oh, it's falling again. So this can be kind of trying,
+but once you get the alligator clip, it should work for you. OK, so the alligator
+clip does two things. It holds the resistor
+in place, but it also allows us to absorb some heat
+so that we don't damage our LED. So now I'm just trimming off
+some of the excess there. And I will do the same
+for the other side of the resistor and the LED. So we'll do the same
+on the other eye. And now we're just trimming
+some heat shrink tubing and we're going to
+slide the heat shrink tubing up over our resistor. And that way we can
+protect the exposed wires from potentially shorting
+on another piece of metal. It's always good to make
+sure that those exposed wires are covered. Now, you can always take
+just some electrical tape and cover over it too. OK, so we've got our
+heat shrink tubing. We'll slide that up
+over the connection. And again, electrical
+tape works just as well. It's not quite as neat
+as the heat shrink, but it works just as well. OK, so now what
+we're going to do is, we are connecting the--
+sliding the other piece of heat shrink tubing up. And then we're going to twist
+the two pieces together. And we'll twist those
+together with the wire that is coming from the negative
+side of our motor controller, or the negative output
+of the motor controller. So it's kind of tricky to
+get these to go together. And you can see that I actually
+broke the lead on the LED because I moved it
+around too much. So the way to fix that is
+to just take the resistor and-- there's already some
+solder on the resistor and I can hold it
+against the LED there and get it
+to hold in place. And so, that'll work. So hopefully that
+won't happen to you. OK, so anyway, we got
+the leads on the LED and we're going to twist
+everything together. There we go. All right, so now once those
+pieces are twisted together, we can solder them and make
+sure that joint stays solid. OK, so, we're just going
+to take the solder, heat it up, and make sure that
+it flows over the wires there. And then again, we'll
+trim off the rough edges and-- I realized
+after doing this that the heat shrink tubing
+then I put on the black wires is actually too small to slide
+over the solder that I put on. So I can't really use it to
+do what I wanted it to do. I wanted it to slide
+up over the solder. So if you do this, use
+a larger diameter heat shrink tubing if you're
+going to use that, so it can slide over
+that solder joint. But this actually
+serves as a good proof point for-- we're just
+using the heat gun here to shrink up the tubing. So to cover up those open leads. And then we're going to take
+a piece of electrical tape. And like I was saying, this
+kind of works as a good proof point for how the
+electrical tape can also cover over some exposed wire. And we'll just trim off the
+excess there and make sure that it's connected
+pretty tightly. OK, so now our
+LEDs are connected. And the wires are insulated, and
+they're in the right sockets, and everything's
+in the right place. Now you, again, probably want
+to spend some time bending the wires to get
+everything just right. So now we're just sliding
+our bottle cap eyes on. Now you want to kind
+of careful doing this, because you have
+to push the LEDs apart to get the bottle caps
+to go on just right. But once you got
+them on, you want to double check that
+the leads are still connected in the right pins and
+that nothing got pulled out. And there we go. OK, so we can see
+that the board is on. We're about to program it.

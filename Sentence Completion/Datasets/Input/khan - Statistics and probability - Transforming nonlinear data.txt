@@ -1,0 +1,30 @@
+- [Instructor] So we have some data here that we can plot on a scatter plot that looks something like that. And so, the next question
+given that we've been talking a lot about lines of
+regression or regression lines is can we fit a regression line to this? Well, if we try to, we might get something that looks like this, or maybe something that looks like this,
+I'm just eyeballing it, obviously you can input it into a computer to try to develop a
+linear regression model to try to minimize the sum
+of the square distances from the points to the line. But you can see it's pretty difficult. And some of you might be saying, well, this looks more like
+some type of an exponential. So maybe we could fit
+an exponential to it. So it could look something like that. And you wouldn't be wrong. But there is a way that
+we can apply our tools of linear regression to this dataset. And the way we can is instead
+of plotting x versus y, we can think about x
+versus the logarithm of y. So this is the exact same data set. You see the x values are the same. But for the y values, I just took the log base 10 of all of these. So 10 to the what power
+is equal to 2,307.23. 10 to the 3.36 power is equal to 2,307.23. And I did that for all
+of these data points, I did it on a spreadsheet. And if you were to plot all of these, something neat happens. All of a sudden, when we're
+plotting x versus the log of y, or the log of y versus x, all
+of a sudden, it looks linear. Now, be clear. The true relationship between
+x and y is not linear. It looks like some type of
+an exponential relationship, but the value of transforming the data, and there's different ways you can do it. In this case, the value
+taking the log of y, and thinking about that
+way, is now we can use our tools of linear regression
+because this data set, you could actually fit
+a linear regression line to this quite well. You can imagine a line that
+looks something like this, it would fit the data quite well. And the reason why you might wanna do this versus trying to fit an exponential is because we've already
+developed so many tools around linear regression
+and hypothesis testing around the slope and confidence intervals and so, this might be the
+direction you wanna go at. And what's neat is once you
+fit a linear regression, it's not difficult to
+mathematically unwind from your linear model
+back to an exponential one. So the big takeaway here is that the tools of linear regression can be useful even when the underlying relationship between x and y are non-linear and the way that we do that
+is by transforming the data. Here, we took a logarithm of the y's and that helped us see a
+more linear relationship of log y versus x.

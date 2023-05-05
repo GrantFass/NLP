@@ -1,0 +1,69 @@
+- [Voiceover] Now that
+we have our collection of components, our favorite
+batteries and resistors, we can start to assemble
+these into some circuits. And here's a circuit shown here. It has a battery and
+it has three resistors, and a configuration that's called a series resistor configuration. Series resistors is a familiar pattern, and what you're looking for is resistors that are connected head
+to tail, to head to tail. So these three resistors are in series because their succession of nodes are all connected, one after the other. So that's the pattern that tells you this is a series resistor connection. So we're gonna label
+these our resistors here. We'll call this R1, R2, and R3. And we'll label this as v. And the unknown in this
+is what is the current that's flowing here, that's
+what we want to know. We know v, we want to know i. Now one thing we know about i is i flows down into resistor R1, all of the current goes out of
+the other end of resistor R1 because it has to, it
+can't pile up inside there. All that goes into here, and all that comes out of R3. And i returns to the place it came from, which is the battery. So that's a characteristic
+of series resistors, is in a series configuration
+is they are head to tail, and that means that all the components, all the resistors share the same current. Current. That's the key thing. The thing that we don't know that's different between each resistors, is the voltage here, and the voltage here, let's call that v1,
+this is v2, plus, minus, and this is v3, plus, minus. So in general, if these
+resistors are different values because they have the same
+current going through them, Ohm's Law tells us these
+voltages will all be different. So the question I want to
+answer with series resistors is could I replace all three of these with a single resistor that
+cause the same current to flow? That's the question we have
+on the table right now. So we make some observations, we have Ohm's Law, our friend, Ohm's Law. And we know that means v equals i times R, for any resistor. That sets the ratio of voltage to current. And this is another
+thing we know about this, which is that v3, plus v2, plus v1, those are the voltages
+across each resistor, those three voltages have
+to add up to this voltage because of the way the
+wires are connected. So the main voltage from the battery equals v1, plus v2, plus v3. We know that's for sure,
+and now what we're gonna do is we're gonna write Ohm's Law for each of these individual resistors. v1 equals i, and i is
+the same for everybody, times R1. v2, this voltage here, equals i times R2. And v3 equals i times R3. Now you can see, if I had four,
+or five, or six resistors, I would have four, or five, or
+six equations just like this for each resistor that was in series. So now what I'm gonna do is
+substitute these voltages into here, and then we'll
+make an observation. So let's do that substitution. I can say v equals i, R1, plus i, R2, plus i, R3. And because it's the
+same i on every resistor, I can write v equals i,
+I'm gonna factor out the i. R1, plus R2, plus R3. Now what I want to do
+is take a moment here and compare this expression
+to this one here, the original Ohm's Law. Alright, there's Ohm's Law. So we have v equals i, some current, times some resistor. I can come up with a resistor value, a single resistor that would
+give me the same Ohm's Law. And that is gonna be called,
+let's draw it over here. Here's our battery. And I'm gonna say there's a
+resistor that I can draw here, R series, that's equivalent
+to the three resistors here. And it's equivalent in the sense that it makes i flow here, that's
+what we mean by equivalent. So in our case, to get the
+same current to flow there I would say v equals i times R series, in which case, what I've done
+is I've said that R series is what, is the sum of these three things, R1 plus R2, plus R3. This is how we think
+about series resistors. We can replace a set of series resistors with a single resistor
+that's equivalent to it if we add the resistors up. Let's just do a really fast
+example to see how this works. I'm gonna move this screen. Here's an example with three resistors. I have labeled them 100
+ohms, 50 ohms, and 150 ohms. And what I want to know
+is the current here. And we'll put in a voltage, let's say it's 1.5 volts, just a single small battery. So what is the equivalent resistance here? One way to figure this out
+and to simplify the circuit is to replace all three of those resistors with a series resistor, RS, and that is, as we said here, is the sum, so it's 100, plus 50, plus 150. And that adds up to 300 ohms. So that's the value of the equivalent series resistor right here. And if I want to calculate the current, i, i equals v over R, and
+this case, it's R series, and that equals 1.5 divided by 300. And if I do my calculations right, that comes out to .005 amperes. Or an easier way to say it is
+five milliamps, milliamperes. So that's i. And now that I know i, I can
+go ahead and I can calculate the voltage at each point
+across each resistor because I know i, I know R, I can calculate v. So v1, v1, which is the
+voltage across that resistor, v1 equals i, R1, as we said before. So it's five milliamps
+times 100 ohms, 0.5 volts. Let's do it for the other one, v2, equals i, same i, this time times R2, five milliamps times 50 ohms, and that equals 0.25 volts. And finally, we do v3. This is plus, minus v3. And that equals the same
+current again times 150 ohms, which is equal to 0.75 volts. So we've solved the
+voltage and the current on every resistor, so this
+circuit is completely solved. And let's do one final check. Let's add this up. Five, five (mumbles) is zero. Carry the one, six, seven eight. 15, 1.5 volts, and that's very handy because that is the same as that. So indeed, the voltages across
+the resistors did add up to the full battery that was applied. There's one more thing
+I want to point out. Here's an example of
+some series resistors. And that's a familiar pattern. And you'll say, "Oh, those
+are series resistors." Now, be careful because if
+there's a wire here going off and there's, doing this,
+or there's a wire here, connected to this node here, this still looks like they're in series, but there might be current flowing in these branches here. If there's current flowing out anywhere along a series branch, anywhere along what looks
+like a series branch, then this i may or may
+not be the same as this i. And it might not be the same as this. So you gotta be careful here. If you see branches going
+off your series resistors, these are not in series
+unless these are zero current. If that's zero current, and
+if that is zero current, then you can consider these in series. So that's just something to be careful of when you are looking at a circuit and you see things that
+look like they're in series, but they have little branches coming off. So a little warning there. So that's our series resistors. If you have resistors and series, you add them up to get
+an equivalent resistance.

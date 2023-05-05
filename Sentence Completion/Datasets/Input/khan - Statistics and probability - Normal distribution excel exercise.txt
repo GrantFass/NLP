@@ -1,0 +1,364 @@
+In this video we're going to
+cover what is arguably, the single most important concept
+in all the statistics. Well if you go into almost any
+scientific field you might even argue that it's the single
+most important concept. I've actually told people that
+it's kind of sad they don't cover this in the
+core curriculum. Everyone should know about is
+because it touches on every single aspect of our lives and
+that's the normal distribution or the Gaussian distribution
+or the bell curve. And just to kind of give you a
+preview of what it is, my preview will actually make it
+seem pretty strange but as we go through this video hopefully
+you'll get a little bit more intuition of what
+it's all about. The Gaussian distribution or
+the normal distribution, they're two words
+for the same thing. It was actually Gauss
+who came up with it. I think he was studying
+astronomical phenomenon when he did. But it's a probability density
+function just like we studies the Poisson distribution. It's just like that. And just to give you the
+preview it looks like this. The probability of getting
+any x, and it's a class of probability
+distribution functions. Just like the binomial
+distribution is and the Poisson distribution, it's based on
+a bunch of parameters. This is how you would
+traditionally see it written in a lot of textbooks and if we
+have time, I'd like to rearrange the algebra just to
+get a little bit more intuition of how it all works out. Or maybe we could get
+some insights on where it all came from. I'm not going to prove it in
+this video, that's a little bit beyond our scope. Although, I do want to do it
+and there's actually some really neat mathematics
+that might show up. If you're a math lead there's
+something called Sterling's formula what you might want
+to do a Wikipedia search on, which is really fascinating. It approximates factorials
+with essentially a continuous function. But I won't go into
+that right now. The normal distribution is 1
+over -- this is how it's normally written -- the
+standard deviation times the square root of 2 pi times
+e to the minus 1/2. Well, I like to write it this
+way, it easier to remember, times whatever value you're
+trying to get minus the mean of our distribution divided by the
+standard deviation of our distribution squared. And so if you think about it,
+actually this is a good thing to just notice right now. This is how far I'm from the
+mean and we're dividing that by the standard deviation of
+whatever our distribution is. This is a preview of actually a
+normal distribution that I've plotted, the purple line here
+is a normal distribution. Initially the whole exercise --
+I know I jump around a little bit -- is to show you that the
+normal distribution is a good approximation for the binomial
+distribution and vice versa. If you take enough trials in
+your binomal distribution and we'll touch on that a second. The intuition of this term
+right here I think is interesting because we're
+saying, how far are we away from the mean, we're dividing
+by the standard deviation. So this whole term right here
+is how many standard deviations we are away from the mean. This is actually called
+the standard z score. One thing I found in statistics
+is there's a lot of words a lot of definitions and they all
+sound very fancy, the standard z score. But the underlying concept
+is pretty straightforward. Let's say I had a probability
+distribution and I get some x value that's out here and it's
+3 and a half the standard deviations is away from the
+mean, then it's standard z score is 3 and a half. Anyway let's focus on the
+purpose of this video. So that's what the normal
+distribution, I guess the probability density
+function for the normal distribution looks like. But how did it get there? By the end of this video you
+should at least feel comfortable that this is a good
+approximation for the binomial distribution if you're
+taking enough trials. And that's what's fascinating
+about the normal distribution is that if you have the sum --
+and I'll do a whole other video on the central limit theorem --
+but if you have the sum of many independent trials approaching
+infinity, that the distribution of those, even though the
+distribution of each of those trials might have been
+non-normal but the distribution of the sum of all those trials
+approaches the normal distribution. I'll talk more
+about that later. But that's why it's such a good
+distribution to kind of assume for a lot of underlying
+phenomenon. If you're kind of modeling
+weather patterns or drug interactions and you we'll talk
+about where it might work well and where it might
+not work so well. Like sometimes people might
+assume things like a normal distribution in finance and
+we've see the financial crisis that's led to a lot of
+things blowing up but. Anyway, let's go back to this. This is a spreadsheet
+right here. I just made a black background
+and you can downloaded it at khanacademy.org/downloads
+Actually, if you just do that you'll see all of
+the downloads. I haven't put it there yet, I'm
+going to do it right after I record the videos
+downloads/normal distribution.xls. If you just go up to
+khanacademy.org/download/ you'll see all the things
+there and you'll see this spreadsheet. I encourage you to play with it
+and maybe do other spreadsheets were you experiment with it. So this spreadsheet what we do
+is we're doing a game or let's say I'm sitting I'm on a street
+and I flip a coin, I flip a completely fair coin. If I get heads, this is heads,
+I take a step backwards or let's say a step to the left. And if I get a tails I
+take a step to the right. So in general I always have a
+-- this is a completely fair coin -- I have a 50 percent
+chance of taking a step to the left and I have a 50 percent
+chance of taking a step to the right. So your intuition there is if
+I told you I took a you a thousand flips of the coin
+you're going to keep going left and right. If by chance you get a bunch
+of heads, you might end up really kind of moving
+over to the left. If you get a bunch of tails you
+might move over to the right. And we learned already the odds
+of getting a bunch of tales or many more tails than heads is a
+lot lower than things kind of being equal or close to equal. Right here what I've done --
+let me scroll down a little bit, I don't want to lose the
+whole thing -- is I have this little assumption here and I
+encourage you to fill that out and change it as you like. This is the number
+of steps I take. This is the mean number of left
+steps and all I did is I got the probability and we
+figured out the mean of the binomial distribution. The mean of the binomial
+distribution is essentially the probability of taking a left
+step times the total number of trials. So that's equal to 5, that's
+where that number comes from. And then the variance -- and
+I'm not sure if I went over this and I need prove this to
+you if I have and I'll make a whole other video on the
+variance of the binomial distribution -- is essentially
+equal to the number of trials, 10 times the probability of
+taking the left step or kind of a successful trial -- I'm
+defining left as a successful trial, that could be right as
+well -- times the probability of 1 minus the successful trial
+or non successful trial. In this case they're equally
+probable and that's where I got the 2.5 from. And that's all on
+the spreadsheet. If you actually click on
+the cell and look at the actual formula I did that. Although sometimes when you
+see it in Excel it's a little bit confusing. And this is just the square
+root of that number. The standard deviation
+is just the square root of the variance. That's just the
+square root of 2.5. And so if you look here
+this says, OK what is the probability that
+I take 0 steps? So I take a total of 10 steps
+-- just to understand this spreadsheet -- what is the
+probability that I take 0 left steps? And just to make clear, if I
+take 0 left steps that means I must have taken 10 right steps. And I calculate this
+probability -- I should have drawn maybe a line here -- I
+calculate this using the binomial distribution. And how do I do that? Let me actually switch
+colors just to make things interesting. Do they have a purple here? I'll do a blue. So blue for binomial. So what I have here is
+how many total steps? There's a total of 10 steps. So 10 factorial, that's kind of
+the number of trials I have. Of that I'm choosing
+0 to go left. So 0 factorial divided by
+10 minus 0 factorial. This is 10 choose 0. I'm choosing 0 left steps of
+the total 10 steps I'm taking times the probability of 0 left
+steps so, it's the probability of a left step, I'm only taking
+0 of them times the probability of a right step, and I'm
+taking 10 of those. So that's where this number
+came from, this .001. That's what the binomial
+distribution tells us. And then this one similarly, is
+10 factorial over 1 factorial over 10 minus 1 factorial. That's how I get that one. And once again, if you click
+on the actual cell you'll see that explained. We've done this multiple times. This is just a
+bionomial calculation. Then right here, after
+this line right here, you can almost ignore it. I did that so that I can do a
+bunch of different scenarios. For example, if I were to go to
+my spreadsheet, and instead of doing 10 I wanted to do 20
+steps then everything changes. And that's why down here after
+you get to a certain point the whole thing just
+kind of repeats. I'll let you think
+about why I do that. Maybe I should have made
+a cleaner spreadsheet. But it doesn't affect the
+scatter plot chart that I did. And so this plot in blue, and
+you can't see it because the purple is almost right over. Actually let me make it
+smaller so that you can see. Let's say I only took 6 steps. Well it's still hard to see the
+difference between the two. Once again the whole point
+of this is to see that the normal distribution is
+a good approximation. But they're so close that
+you can't even see the difference on mine. If you only took four steps,
+OK, I think you can see here. Let me get my screen draw on. The blue curve is
+right around there. This is the binomial. There's only a few points
+here, you the points only go up to here. This is if I take 0 steps left,
+1 step left, 2 steps left, 3 steps left, 4 steps left. And then I plot it and then I
+say what's the probability using the binomial
+distribution? And this is my final
+position right? If I take 0 steps to the left
+then I take 4 steps to the right so my final position
+is at 4, so that's the scenario right here. Let me switch my color back to
+yellow, it's easier to see. If I take 4 steps to the left,
+I take 0 steps to the right and so my final position is
+going to be at minus 4. It's going to be here. If I take an equal amount of
+both, that's this scenario, then I'm neutral. I'm just stuck in the
+middle right here. I take 2 steps to the right and
+then I take 2 steps to the left or vice versa, I take 2 steps
+to the left and then I take 2 steps right and I
+end up right there. Hopefully that makes
+a little sense. My phone is ringing. I'll ignore that because
+the normal distribution is so important. Actually, my 9 week old son is
+watching so this is the first time I have a live audience. He might pick up something
+about the normal distribution. So the blue line right here --
+I'll trace it maybe in yellow so you can see it -- is the
+plot of the binomial distribution. I connected the lines but you
+see the binomial distribution look something more like this. This is the probability
+of getting to minus 4. This is the probability
+of going to minus 2. This right here is
+the probability of ending up nowhere. Then this is the probability of
+ending up 2 to the right and this is the probability of
+ending up 4 to the right. This is the binomial
+distribution, I just plotted these points right here. This is 0.375. This is 0.375. That's the height of that. Now what I wanted to show
+you is that the normal distribution approximates
+the binomial distribution. So this right here, I wanted
+to say what does the normal distribution tell me is the
+probability of ending up with exactly 0 left steps? This is a little bit tricky. The binomial distribution
+is a discreet probability distribution. You can just look at this chart
+or look here and you say, what is the probability of having
+exactly 1 left step and 3 right steps which puts me right here? Well you just look at this
+chart and you say oh, that puts me right there. I just read that probability,
+it's actually .25. And I say oh, I have a 25
+percent chance of ending up 2 steps to the right. There's a 25 percent chance. The normal distribution
+function is a continuous probability distribution so
+it's a continuous curve. It looks like that, it's a
+bell curve and it goes off to infinity and starts
+approaching 0 on both sides. It looks something like that. This is a continuous
+probability distribution. You can't just take a point
+here and say, what's the probability that I end
+up 2 feet to the right? Because if you just say that
+there's the actual the probability of being exactly --
+and you should watch with my video on probability density
+functions -- but the probability of being exactly 2
+feet to the right, exactly, I mean I'm talking to the
+atoms, is close to 0. You actually have to specify
+a range around this. What I assume in this
+within a half a foot in either direction. Right? If we're talking about feet. To figure that out what I did
+here is I took the value of the probability density
+function there. And I'll show you how
+I evaluated that. And then I multiply that by 1. So it gives me this area. And I use that as an
+approximation for this area. If you really want to be
+particular about it what you would do is you would take the
+integral of this curve between this point and this point
+as a better approximation. We'll do that in the future. But right now I just want to
+give you the intuition that the binomial distribution really
+does converge to the normal distribution. So how did I get this
+number right here? Well I said, what is the
+probability that I think 1 left step -- I kind of used less
+steps as success -- of one? And that equaled 1 over
+the standard deviation. When I only took 4 steps the
+standard deviation was 1. So 1 over 1. Actually let me change this. Let me change it to
+a higher number. We'll go back to the
+example where I'm at 10. So if this is at 10. Let me go back to
+my drawing tool. Let me do this calculation. Actually, even better let
+me do this calculation. So what's the probability
+that I have 2 left steps? If I have 2 left steps I took a
+total of 10 steps so I'm going to have 8 right steps and
+that puts me 6 to the right. So that's this
+point right here. So what's that probability? How do I figure this out
+using the probability density function? How do I figure this height? Well I say the probability of
+taking 2 left steps -- that's how I calculate it, if you
+actually click on the cell you'll see that -- is equal to
+1 over the standard deviation, 1.581 -- and I just directly
+reference the cell there -- times the square root of 2 pi. I'm always in awe of the whole
+notion of e to the i pi is equal to negative 1
+and all of that. But there's another
+amazing thing. That all of a sudden as we take
+many trials we have this formula that has e and pi in it
+and square roots but once again these two numbers just
+keep showing up. It tells you something about
+the order of the universe with a capital o. But let's see, times e to
+the minus 1/2 times x. Well x is what we're trying
+to calculate, two successes. To to have exactly 2 left,
+so it's 2 minus the mean. So the mean is five, 2 minus
+five divided by the standard deviation, divided by 1.581,
+all of that squared. That's where this
+calculation came from. So I told you in the last one
+this right here just tells me this value up here. If I want to know this
+exact probability, it's the area of this. And if I just take one
+line the are is 0. Remember, in this case you can
+only be 2 feet away because we're taking very exact steps. But what the normal
+distribution is it's the continuous probability density
+function so it can tell us what's the probability of
+being 2.183 feet away? Which obviously can only happen
+if we're taking infinitely small steps every time. But that's what it's use is. It happens when you start
+taking an infinite number of steps. But it can approximate
+the discreet. And the way I approximate it is
+I say oh, what's probability of being within a foot of that. And so I multiply
+this height, which I calculate here, times 1. So let's say this has a base of
+1, to calculate this area which I use as an approximation. So you just multiply that times
+1 and that's what you get here. And I just want to show you. Even with just 10 trials, the
+curves, the normal distribution here is in purple and the
+binomial distribution is in blue. So they're almost right
+on top of each other. As you can take many more steps
+they almost converge right on top of each other and I
+encourage you to play with the spreadsheets. Actually, let me show
+you that they converge. There's a convergence worksheet
+on this spreadsheet as well if you click on the bottom
+tab on convergence. This is the same thing but I
+just want to show you what happens at any given point. Let me explain this
+spreadsheet to you. So this is what's
+the probability of moving left, right? So this is just saying, I'm
+just fixing a point what's the probability -- and you
+can change this -- of my final position being 10. And this essentially tells you
+that if I take 10 moves, for my final position to be 10 to the
+right, I have to take 10 right moves and 0 left moves. That's a typo right there, it
+should be moves not movest. If I take 20 moves to end up 10
+moves to the right then I have to make 15 right moves
+and 5 left moves. Likewise if I take a total of
+80 moves, if I think 80 flips of my coin to make me go left
+or right, in order end up 10 to the right, I to take 45 right
+moves and 35 left moves in any order and it will end up
+with 10 to the right. So what I want to figure out
+is, as I start taking a bunch of total moves -- here I max it
+out at 170 -- if I start flipping this coin an infinite
+number of times, I want to figure out what's the
+probability that my final position is 10 to the right. And I want to show you that as
+you take more and more moves the normal distribution becomes
+a better and better approximation for the
+binomial distribution. So right here, this calculates
+the binomial probability, just the way we did before and you
+can look at the cell to figure it out. I used left moves as a success. So this is 10 choose 0 and
+we know what that is. It's 10 factorial over 0
+factorial over 10 minus 0 factorial times 0.5 to the
+0 times 0.5 to the 10th. That's where that
+number comes from. If I go to this one right
+here is calculated. Actually let me write
+it out because I think it's interesting. I have a total of 60 total
+moves, so it's 60 factorial over, I have to have 25 left
+moves so 25 factorial. So that's I'm 60 minus 25
+factorial times the probability of a left move and have 25 of them, times the probability of a right move
+and I have 35 of those. So that's just what the
+binomial probability distribution will tell us. And then it figures out the
+mean and the variance for each of those circumstances and you
+could look at the formula. But the mean is just the
+probability of having a left move times the
+total number of moves. The variance is probability of
+left times probability of right times total number of moves. And then the normal
+probability, once again, I just use the normal probability. So I approximate
+it the same way. And Excel has a normal
+distribution function but I actually typed in the formula
+because I wanted you kind of see what was under the covers
+for that function that Excel actually has. So I actually say what's the
+probability of 25 left moves? No, 45 left moves. So I say the probability of
+45 left moves is equal to 1 over the standard deviation. So in this situation the
+standard deviation is the square root of 25. So it's five times 2 pi times e
+to the minus 1/2 times 45 minus the mean, minus 50 over the
+standard deviation, which we figured out was 5, squared. So that tells me the value of
+what the normal distribution tells me for this situation
+with this standard deviation and this mean and then I
+multiply that by 1 -- you don't see that in the formula, I
+don't actually write times 1 -- to figure out the area
+under the curve. Because remember it's a
+continuous distribution function. This right here just gives me
+the value but to figure out the probability of being within a
+foot of it I have to multiply by 1. I'm approximating really. I really should take the
+integral from there to there but this little rectangle is
+a pretty good approximation. In this chart I show you that
+as the total number of moves gets larger and larger the
+difference between what the normal probability distribution
+tells us and the binomial probability of distribution
+tells us, gets smaller and smaller in terms of the
+probability of you ending up to 10 moves to the right. And you can change
+this number here. Let me change it
+just to show you. You could say what's the
+probability of being 15 moves to the right? I think that something is
+happening with the floating point error because when you
+get to large factorials I think something weird
+happens out here. You may just have to
+get even further out. For 10 you can see clearly that
+it converges and I'll trying to figure out why I was getting
+those weird saw tooth patterns. Maybe while I do screen capture
+something weird is happening. The whole point of this was to
+show you that if you want to figure out the probability of
+being 10 moves to the right, as you take more and more flips
+of your coin the normal distribution becomes a much
+better approximation for the actual binomial distribution. And as you approach infinity
+they actually converge to each other. Anyway, that's all
+for this video. I'll actually do several
+more videos on the normal distributions because it is
+such an important concept. See you soon.

@@ -1,0 +1,91 @@
+Solve the system of equations
+using any method. We have y is equal to 2 times
+the quantity x minus 4 squared plus 3. We also have y is equal
+to negative x squared plus 2 x minus 2. The solution-- it might be one,
+it might be none, or it might be two solutions-- to this
+system occurs for the x values that generate
+the same y values. There's the same x and
+y that satisfy both of these equations. In order to find the x values,
+they need to equal the same y values, so this y has
+to be that y value. So the solution is going to
+occur when this guy right here-- negative x squared plus
+2x minus 2 is equal to that guy up there, or equal
+to 2 times x minus 4 squared plus 3. Now let's just try
+to solve for x. The left hand side-- we're going
+to have to multiply this out, so let's do that first.
+It's negative x squared plus 2x minus 2 is equal to. And on the right hand side, 2
+times x minus 4 squared is x squared minus 8x
+plus 16 plus 3. This is going to be equal
+to 2x squared-- I'm just distributing the 2-- minus 16x
+plus 32 plus 3, which is equal to 2x squared minus
+16x plus 35. That's, of course, going to be
+equal to this thing on the left hand side, negative x
+squared plus 2x minus 2. Let's just get rid of this whole
+thing from the left hand side all at once by adding
+x squared to both sides. We can all do it in one step. We're going to add x squared
+to both sides. Let's subtract 2x from
+both sides, and let's add 2 to both sides. On the left hand side, those
+cancel out, those cancel out, those cancel out. You're left with 0 is equal to
+2x squared plus x squared is 3x squared. Negative 16x minus 2x is
+negative 18x, and then 35 plus 2 is 37. So we just have a plain vanilla
+quadratic equation right here. We might as well apply the
+quadratic formula here to try to solve it. Our solutions are going to be
+x is equal to negative b. Well, b is negative 18, so
+negative b is positive 18. It's 18 plus or minus the square
+root of 18 squared minus 4 times 3 times
+c-- times 37. All of that is over 2 times
+a-- 2 times 3, which is 6. Let's think about what
+this is going to be. Over here, we have 18 plus or
+minus the square root of-- let's just use a calculator. I could multiply it out but I
+think-- we have 18 squared minus 4 times 3 times 37,
+which is negative 120. It's 18 plus or minus the square
+root of negative 120. You might have even been
+able to figure out that this is negative. 4 times 3 is 12. 12 times 37 is going to be
+a bigger number than 18. Although it's not 100% obvious,
+but you might be able to just get the intuition
+there. We definitely end up with a
+negative number under the radical here. Now, if we're dealing with
+real numbers, there is no square root of negative 120. So there is no solution to
+this quadratic equation. There is no solution. If we wanted to, we could
+have just looked at the discriminant. The discriminant is this part--
+b squared minus 4ac. We see the discriminant is
+negative, there's no solution, which means that these two
+guys-- these two equations-- never intersect. There is no solution
+to the system. There are no x values that
+when you put into both of these equations give you
+the exact same y value. Let's think a little bit about
+why that happened. This one is already in kind
+of our y-intercept form. It's an upward opening
+parabola, so it looks something like this. I'll do my best to draw
+it-- just a quick and dirty version of it. Let me draw my axes in
+a neutral color. Let's say that this right here
+is my y-axis, that right there is my x-axis. x and y. This vertex-- it's in the vertex
+form-- occurs when x is equal to 4 and y
+is equal to 3. So x is equal to 4 and
+y is equal to 3. It's an upward opening
+parabola. We have a positive coefficient
+out here. So this will look something
+like this. I don't know the exact thing,
+but that's close enough. Now, what will this
+thing look like? It's a downward opening parabola
+and we can actually put this in vertex form. Let me put the second equation
+in vertex form, just so we have it. So we have a good sense. So, y is equal to-- we could
+factor in a negative 1-- negative x squared
+minus 2x plus 2. Actually, let me put the plus
+2 further out-- plus 2, all the way up out there. Then we could say, half of
+negative 2 is negative 1. You square it, so you
+have a plus 1 and then a minus 1 there. This part right over here, we
+can rewrite as x minus 1 squared, so it becomes negative
+x minus 1 squared. Let me just do it one
+step at a time. I don't want to skip steps. Negative x minus 1 squared
+minus 1 plus 2. So that's plus 1 out here. Or if we want to distribute
+the negative, we get y is equal to negative x minus
+1 squared minus 1. Here the vertex occurs at x is
+equal to 1, y is equal to negative 1. The vertex is there,
+and this is a downward opening parabola. We have a negative coefficient
+out here on the second degree term, so it's going to look
+something like this. So as you see, they
+don't intersect. This vertex is above it
+and it opens upward. This is its minimum point. And it's above this guy's
+maximum point. So they will never intersect,
+so there is no solution to this system of equations.

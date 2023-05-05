@@ -1,0 +1,177 @@
+In this video I'm going to do a
+bunch of examples of finding the equations of lines in
+slope-intercept form. Just as a bit of a review, that
+means equations of lines in the form of y is equal to mx
+plus b where m is the slope and b is the y-intercept. So let's just do a bunch of
+these problems. So here they tell us that a line has a slope
+of negative 5, so m is equal to negative 5. And it has a y-intercept of 6. So b is equal to 6. So this is pretty
+straightforward. The equation of this line
+is y is equal to negative 5x plus 6. That wasn't too bad. Let's do this next
+one over here. The line has a slope of negative
+1 and contains the point 4/5 comma 0. So they're telling us the slope,
+slope of negative 1. So we know that m is equal to
+negative 1, but we're not 100% sure about where the y-intercept
+is just yet. So we know that this equation
+is going to be of the form y is equal to the slope negative
+1x plus b, where b is the y-intercept. Now, we can use this coordinate
+information, the fact that it contains this
+point, we can use that information to solve for b. The fact that the line contains
+this point means that the value x is equal to 4/5, y
+is equal to 0 must satisfy this equation. So let's substitute those in.
+y is equal to 0 when x is equal to 4/5. So 0 is equal to negative
+1 times 4/5 plus b. I'll scroll down a little bit. So let's see, we get a 0 is
+equal to negative 4/5 plus b. We can add 4/5 to both sides
+of this equation. So we get add a 4/5 there. We could add a 4/5 to
+that side as well. The whole reason I did that is
+so that cancels out with that. You get b is equal to 4/5. So we now have the equation
+of the line. y is equal to negative 1 times
+x, which we write as negative x, plus b, which is 4/5,
+just like that. Now we have this one. The line contains the point
+2 comma 6 and 5 comma 0. So they haven't given us the
+slope or the y-intercept explicitly. But we could figure out both
+of them from these coordinates. So the first thing we can do
+is figure out the slope. So we know that the slope m is
+equal to change in y over change in x, which is equal to--
+What is the change in y? Let's start with this
+one right here. So we do 6 minus 0. Let me do it this way. So that's a 6-- I want to make
+it color-coded-- minus 0. So 6 minus 0, that's
+our change in y. Our change in x is 2
+minus 2 minus 5. The reason why I color-coded
+it is I wanted to show you when I used this y term first,
+I used the 6 up here, that I have to use this x term
+first as well. So I wanted to show you, this
+is the coordinate 2 comma 6. This is the coordinate
+5 comma 0. I couldn't have swapped
+the 2 and the 5 then. Then I would have gotten the
+negative of the answer. But what do we get here? This is equal to
+6 minus 0 is 6. 2 minus 5 is negative 3. So this becomes negative 6
+over 3, which is the same thing as negative 2. So that's our slope. So, so far we know that the line
+must be, y is equal to the slope-- I'll do that in
+orange-- negative 2 times x plus our y-intercept. Now we can do exactly what we
+did in the last problem. We can use one of these
+points to solve for b. We can use either one. Both of these are on the line,
+so both of these must satisfy this equation. I'll use the 5 comma 0 because
+it's always nice when you have a 0 there. The math is a little
+bit easier. So let's put the 5
+comma 0 there. So y is equal to 0 when
+x is equal to 5. So y is equal to 0 when you have
+negative 2 times 5, when x is equal to 5 plus b. So you get 0 is equal
+to -10 plus b. If you add 10 to both sides of
+this equation, let's add 10 to both sides, these
+two cancel out. You get b is equal to
+10 plus 0 or 10. So you get b is equal to 10. Now we know the equation
+for the line. The equation is y-- let me do it
+in a new color-- y is equal to negative 2x plus b plus 10. We are done. Let's do another one of these. All right, the line contains
+the points 3 comma 5 and negative 3 comma 0. Just like the last problem, we
+start by figuring out the slope, which we will call m. It's the same thing as the rise
+over the run, which is the same thing as the change
+in y over the change in x. If you were doing this for your
+homework, you wouldn't have to write all this. I just want to make sure that
+you understand that these are all the same things. Then what is our change in
+y over our change in x? This is equal to, let's start
+with the side first. It's just to show you I could pick
+either of these points. So let's say it's 0 minus
+5 just like that. So I'm using this coordinate
+first. I'm kind of viewing it as the endpoint. Remember when I first learned
+this, I would always be tempted to do the x
+in the numerator. No, you use the y's
+in the numerator. So that's the second
+of the coordinates. That is going to be over
+negative 3 minus 3. This is the coordinate
+negative 3, 0. This is the coordinate 3, 5. We're subtracting that. So what are we going to get? This is going to be equal to--
+I'll do it in a neutral color-- this is going to be
+equal to the numerator is negative 5 over negative 3
+minus 3 is negative 6. So the negatives cancel out. You get 5/6. So we know that the equation is
+going to be of the form y is equal to 5/6 x plus b. Now we can substitute one of
+these coordinates in for b. So let's do. I always like to use the one
+that has the 0 in it. So y is a zero when x is
+negative 3 plus b. So all I did is I substituted
+negative 3 for x, 0 for y. I know I can do that because
+this is on the line. This must satisfy the equation
+of the line. Let's solve for b. So we get zero is equal to, well
+if we divide negative 3 by 3, that becomes a 1. If you divide 6 by 3,
+that becomes a 2. So it becomes negative
+5/2 plus b. We could add 5/2 to both
+sides of the equation, plus 5/2, plus 5/2. I like to change my notation
+just so you get familiar with both. So the equation becomes 5/2 is
+equal to-- that's a 0-- is equal to b. b is 5/2. So the equation of our line is
+y is equal to 5/6 x plus b, which we just figured out
+is 5/2, plus 5/2. We are done. Let's do another one. We have a graph here. Let's figure out the equation
+of this graph. This is actually, on some level,
+a little bit easier. What's the slope? Slope is change in y
+over change it x. So let's see what happens. When we move in x, when our
+change in x is 1, so that is our change in x. So change in x is 1. I'm just deciding to change
+my x by 1, increment by 1. What is the change in y? It looks like y changes
+exactly by 4. It looks like my delta y, my
+change in y, is equal to 4 when my delta x is equal to 1. So change in y over change in
+x, change in y is 4 when change in x is 1. So the slope is equal to 4. Now what's its y-intercept? Well here we can just
+look at the graph. It looks like it intersects
+y-axis at y is equal to negative 6, or at the
+point 0, negative 6. So we know that b is equal
+to negative 6. So we know the equation
+of the line. The equation of the line is y is
+equal to the slope times x plus the y-intercept. I should write that. So minus 6, that is plus
+negative 6 So that is the equation of our line. Let's do one more of these. So they tell us that f of
+1.5 is negative 3, f of negative 1 is 2. What is that? Well, all this is just a fancy
+way of telling you that the point when x is 1.5, when you
+put 1.5 into the function, the function evaluates
+as negative 3. So this tells us that the
+coordinate 1.5, negative 3 is on the line. Then this tells us that the
+point when x is negative 1, f of x is equal to 2. This is just a fancy way of
+saying that both of these two points are on the line,
+nothing unusual. I think the point of this
+problem is to get you familiar with function notation, for you
+to not get intimidated if you see something like this. If you evaluate the function
+at 1.5, you get negative 3. So that's the coordinate if
+you imagine that y is equal to f of x. So this would be the
+y-coordinate. It would be equal to negative
+3 when x is 1.5. Anyway, I've said it
+multiple times. Let's figure out the
+slope of this line. The slope which is change in y
+over change in x is equal to, let's start with 2 minus this
+guy, negative 3-- these are the y-values-- over, all
+of that over, negative 1 minus this guy. Let me write it this way,
+negative 1 minus that guy, minus 1.5. I do the colors because I want
+to show you that the negative 1 and the 2 are both coming from
+this, that's why I use both of them first. If I used
+these guys first, I would have to use both the x and the y
+first. If I use the 2 first, I have to use the negative
+1 first. That's why I'm color-coding it. So this is going to be equal
+to 2 minus negative 3. That's the same thing
+as 2 plus 3. So that is 5. Negative 1 minus 1.5
+is negative 2.5. 5 divided by 2.5
+is equal to 2. So the slope of this
+line is negative 2. Actually I'll take a little
+aside to show you it doesn't matter what order
+I do this in. If I use this coordinate first,
+then I have to use that coordinate first. Let's
+do it the other way. If I did it as negative 3
+minus 2 over 1.5 minus negative 1, this should be minus
+the 2 over 1.5 minus the negative 1. This should give me
+the same answer. This is equal to what? Negative 3 minus 2 is negative
+5 over 1.5 minus negative 1. That's 1.5 plus 1. That's over 2.5. So once again, this is
+equal the negative 2. So I just wanted to show you,
+it doesn't matter which one you pick as the starting or
+the endpoint, as long as you're consistent. If this is the starting y,
+this is the starting x. If this is the finishing
+y, this has to be the finishing x. But anyway, we know that the
+slope is negative 2. So we know the equation is y is
+equal to negative 2x plus some y-intercept. Let's use one of these
+coordinates. I'll use this one since it
+doesn't have a decimal in it. So we know that y
+is equal to 2. So y is equal to 2 when x
+is equal to negative 1. Of course you have
+your plus b. So 2 is equal to negative 2
+times negative 1 is 2 plus b. If you subtract 2 from both
+sides of this equation, minus 2, minus 2, you're subtracting
+it from both sides of this equation, you're going to get
+0 on the left-hand side is equal to b. So b is 0. So the equation of our
+line is just y is equal to negative 2x. Actually if you wanted to write
+it in function notation, it would be that f of x is
+equal to negative 2x. I kind of just assumed that
+y is equal to f of x. But this is really
+the equation. They never mentioned y's here. So you could just write f of x
+is equal to 2x right here. Each of these coordinates
+are the coordinates of x and f of x. So you could even view the
+definition of slope as change in f of x over change in x. These are all equivalent ways
+of viewing the same thing.

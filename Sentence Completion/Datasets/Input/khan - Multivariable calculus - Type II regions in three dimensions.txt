@@ -1,0 +1,114 @@
+Let's now think
+about Type 2 regions. And you'll see that they're
+kind of very similar definitions and it's really a
+question of orientation. Type 2 region is a
+region-- I'll call it R2-- that's the set of all
+x, y's, and z's in three dimensions such
+that-- and now instead of thinking of our domain
+in terms of xy-coordinates, we're going to think of them
+in terms of yz coordinates, such that our yz pairs are
+a member of some domain. I'll call it D2 since we're
+talking about Type 2 regions. And x is bounded below
+by some function of yz. So I'll call it g1 of yz is
+less than or equal to x, which is less than or equal to some
+other function of yz, g2 of yz. And so you'll immediately see
+a very similar way of thinking about it, but instead of
+having z vary between two functions of x and y as
+we had in a Type 1 region, we now have x varying between
+two functions of y and z. Now let's think about some
+of the shapes we explored. We saw that these
+two right up here, this sphere and the cylinder,
+were Type 1 regions, but this dumbbell, the way
+that I oriented it here, was not a Type 1 region. Let's think about which of
+these are Type 2 regions and what might not
+be a Type 2 region. So first let's think
+about the sphere. So I have my axes
+right over here. Let me scroll down a little bit. So I got my axes. And so over here, our
+domain, we could still construct our sphere,
+but our domain is now going to be
+in the yz plane. So yz plane is this
+business right over here. So this will be our domain. I want to make it more
+spherical than that. So our domain is this right
+over here in the yz plane. That is our D2. And now the lower
+bound, in order to construct the solid region
+of the sphere or the globe or whatever you want to call
+it, the lower bound on x would be kind of the back half
+of the sphere, the one that's away from us right over here. So the lower bound--
+so let me see how well I can wire
+frame it at first. I can do a better job than that. So with my ghost do
+something like that, then do something like that. But this is if the domain
+right over here is transparent. But all we might catch-- we'll
+just catch a glimpse of it in the back right over here. So it's the side of the sphere
+that's facing away from us. And then the upper
+bound on x would be the side of the
+sphere that's facing us. So if I were to
+do some contours, it might look
+something like this and then look
+something like this. And then we would color in this
+entire region right over here. And x can take on all of the
+values above that magenta surface and below
+this green surface. And essentially,
+it would fill up the globe for every yz
+point in our domain. So a sphere is both a Type
+1 and a Type 2 region. Actually, we're
+going to see it's going to be a Type
+3 region as well. What about this cylinder
+right over here? Can we construct it or
+think about it in a way that it would actually
+be a Type 2 region? So let's try to do that. So let me paste it. So what if we had
+a domain-- what if our domain was
+something like this? It was a rectangle
+in the yz plane. So this is our domain, a
+rectangle in the yz plane. So that would be my D2. And what if the
+lower bound was kind of the back side
+of the cylinder? So the backside of
+the cylinder, try to draw it as good as I can. And so if we just saw
+the outside of it, it would look
+something like that. It's facing away from
+us so we barely see it. If we could see
+through the cylinder or see through the little
+flat cut of the cylinder, it would look
+something like that. So that over there
+would be our g1. And then our g2 would be the
+front side of the cylinder. The g2 could be the front
+side of the cylinder. So let me color it
+in as best as I can. So the g2 would be the
+front side of cylinder. And x can vary above
+g1 and below g2, and it would fill up
+this entire cylinder. So we see that this same
+cylinder that we also saw was a Type 1 region can
+also be a Type 2 region. Now what about this
+hourglass thing that we saw could not be a Type 1 region? Can this be a Type 2 region? Well, let's think about it. I'll do it the same way. We can construct a domain. So maybe our domain,
+it's in the y-- well, it should be in the yz plane
+if we're talking about Type 2 regions or if we want to think
+of it as a Type 2 region. So our domain could be this kind
+of flat hourglass shape that's in the yz plane. So our domain could be a
+region that looks something like this in the yz plane. So this is kind
+of flattened out. So this is our domain
+right over there. And then the lower
+bound on x, g1, could be a surface,
+the function of y and z that is kind of the
+backside of our hourglass. The backside of our
+hourglass you could see. I'll try to show the
+contours from the underside right over there. So that could be our g1. And then our g2 could be the
+front side of the hourglass. So my best attempt to draw the
+front side of the hourglass. And I could color it in. And so the way I somewhat
+confusingly drew it just now, you see that this hourglass
+oriented the way it is would actually be
+a Type 2 region. Now if we were to rotate
+it like this-- so let me draw it like this. Edit. So if we were to
+make it like this so that the top of my
+hourglass is facing us-- try my best to draw it. So let's say the top intersects
+the x-axis right over there. This is the bottom of my
+hourglass right over there. And then it bends in and then
+comes back out like that. For the same reasons that
+this was not a Type 1 region, this now would not
+be a Type 2 region. For any zy, you can see there
+could be multiple x points that are associated with
+the different points of this hourglass. You can't just have a
+simple lower and upper round functions right over here. So this right over here
+is not a Type 2 region. You could show a
+rationale or this is going to be a Type 1 region. You could create a region
+over here in the xy plane and have an upper and lower
+bound functions for z. So you could be Type 1, but
+this will not be Type 2.

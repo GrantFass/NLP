@@ -1,0 +1,70 @@
+- [Voiceover] So in the
+last couple of videos, I talked about the
+multi-variable chain rule, which I have up here, and if you haven't seen those go take a look. Here and I want to write
+it out in vector notation, and this helps us generalize
+it a little bit when the intermediary space is a
+little bit higher dimensional. So, instead of writing X of T and Y of T as separate functions,
+and just trying to emphasize "oh they have the same input space, and whatever X takes in that's
+the same number Y takes in." It's better and a little bit cleaner if we say there's a vector valued function that takes in a single number "T," then it outputs some kind of vector. In this case you could say the components of V are X of T and Y
+of T, and that's fine. But I want to talk about
+what this looks like if we start writing
+everything in vector notation, and just since we see
+DX/DT here and DY/DT here, you might start thinking,
+"oh we should take the derivative of that
+vector valued function." The derivative of V, with respect to T, and when we compute this
+it's nothing more than taking the derivatives of each component. So in this case, the derivative of X, so you'd write DX/DT,
+and the derivative of Y, DY/DT. This is the
+vector value derivative. And now you might start
+to notice something here. Okay so we've got one of
+those components multiplied by a certain value and
+another component multiplied by a certain value, you might recognize this as a dot product. This would be the dot product between the vector that contains the derivatives, the partial derivatives,
+partial of F with respect to Y, partial of F with respect to X, oh, whoops, don't know why
+I wrote it that way, but up here that's with respect
+to X, and then here to Y. So this whole thing, we're
+taking the dot product with the vector that contains
+ordinary derivative DX/DT and ordinary derivative DY/DT. And of course both of
+these are special vectors, they're not just random, the left one, that's the gradient of F,
+and the right vector here that's what we just wrote that's the derivative of V with respect to T, just for being quick I'm gonna
+write that as V prime of T. That's saying completely
+the same thing as VDVT, and this right here is
+another way to write the multi-variable chain rule, and maybe if you were being
+a little bit more exact you would emphasize that when
+you take the gradient of F the thing that you input
+into it is the output of that vector valued function, you know you're throwing
+in X of T and Y of T, so you might emphasize
+that you take in that as an input, and then
+you multiply it by the derivative, the vector
+valued derivative of V of T. And when I say multiply,
+I mean dot product, right, these are vectors and you're
+taking the dot product, it should seem very familiar to, you know, the single-variable chain rule. And just to remind us
+I'll throw it up here, if you take the derivative
+of composition of two single-variable functions F of G, you take the derivative
+of the outside F prime, and throw in G, throw in what
+was the interior function, and you multiply it by the derivative of that interior
+function, G prime of T. And this is super helpful
+in single-variable calculus for computing a lot of derivatives, and over here it has a
+very similar form right? The gradient which really
+serves the function of the true extension
+of the derivative for multi-variable functions for
+scalar valued multi-variable functions at least. You
+take that derivative and throw in the inner function, which just happens to be
+a vector valued function. You throw it in there,
+and then you multiply it by the derivative of that,
+but multiplying vectors in this context means taking
+the dot product of the two, and this could mean if you have a function with a whole bunch of different variables, let's say you have some
+F of X, or not F of X, F of X1 and X2 and it takes in a whole bunch of variables
+that it goes out to X100. And then what you throw into
+it is the vector value function that's vector valued,
+takes in a single variable, and in order to be able to compose them it's gonna have a whole bunch
+of intermediary functions, and you can write it as X1, X2,
+X3, all the way up to X100 , and these are all functions at this point. These are component functions
+of your vector valued V. This expression still makes sense, right? You can still take the gradient of F, it's gonna have 100
+components, you can plug in any vector, any set
+of 100 different numbers, and in particular the output of a vector valued function with
+100 different components is gonna work, and then
+you take the dot product with the derivative of
+this. That's the more general version of the
+multi-variable chain rule, and then the cool way
+about writing it like this, you can interpret it in terms
+of the directional derivative, and I think I'll do
+that in the next video, so, that's a certain way to interpret this with a directional derivative.

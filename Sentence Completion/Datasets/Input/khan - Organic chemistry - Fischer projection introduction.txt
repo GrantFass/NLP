@@ -1,0 +1,105 @@
+- [Instructor] On the left
+we have a Fischer projection, which is just another way
+of representing a molecule. And Fischer came up with
+these when he was working with carbohydrates, and he
+actually won the Nobel Prize for his chemistry. At the center here at the
+intersection of these lines, we have a carbon, and this
+carbon is a chirality center. There are four different
+groups attached to this carbon. There's a hydrogen, there's
+an OH, there's an aldehyde and there's a CH2OH. So in this picture, you
+can see I've drawn in the carbon here. And on the right is a picture
+of the actual molecules. So this is our carbon, this
+is our chirality center. We're actually staring
+straight down at it. A horizontal line means
+a bond that's coming out of the page. So this line right here indicates a bond that's coming out of the page. So we would represent that with a wedge. So this hydrogen is
+coming out at us in space. And hopefully the picture,
+it's a little bit easier to see this hydrogen is actually
+going up, it's coming out at us in space. Same thing with this horizontal
+line right here to the OH. That means a bond that's
+coming out of the page. So we represent that with a wedge. The OH here is coming out at us in space. A vertical line means a bond
+going away from us in space. So this line right here
+means a bond to an aldehyde. It's going away from us. So that is represented by a dash. And in the picture, this bond
+here is going away from us. It's going into the page. Same thing with this vertical
+line here to the CH2OH. That means going away from us in space. We draw a dash here. The bond is going into the page. So this line right here is showing up on, going away from us in space. If we wanted to assign a configuration to our chirality center,
+there are several methods that you can use. I'll show you the two that I like to use. The first way that I like
+to do it is to think about the priority of these four groups. And we know from earlier
+videos that hydrogen is gonna have the lowest priority. And we want the lowest priority group pointing away from us in space. And so the only way to do
+that would be to put our eye right here and to stare at
+our chiral center this way. And from that perspective,
+the hydrogen is going away from us in space. So let me go to a video where
+it's much easier to visualize what's going on here. So here we are staring
+down at our chiral center, and you can see there's
+an OH coming out at us. There's a hydrogen coming out at us, there's an aldehyde going
+away from us in space, and a CH2OH going away from us. If we stare at our chiral
+center from this direction, let me go ahead and rotate the molecule, now we can see that there's an
+OH coming out at us in space and a hydrogen going away from us, and then we have our aldehyde
+going down and to the right, and our CH2OH is going
+down and to the left. So let's draw what we saw in the video. So here's our picture,
+and we'll start with our chiral center. So right here, let's draw in our carbon. And then our OH is coming
+out at us in space, so we put that on a wedge. So let me put an OH here. The hydrogen is now going
+away from us in space. So now we would represent
+that with a dash. The aldehyde is going down into the right with a bond that's in
+the plane of how we're viewing it anyway, and let's
+put the carbon double bond to an oxygen here. And then we have our CH2OH
+going down and to the left. So let's put in our,
+I'll go ahead and draw in the carbon with two hydrogens
+and then our OH down here. So let's assign priority
+to our four groups. So here is our chiral center. We look at the atoms directly
+bonded to our chiral center, and that would be a hydrogen, an oxygen, a carbon and a carbon. We know that oxygen has
+the highest atomic number out of those atoms, so the
+OH group gets a number one. Hydrogen has the lowest atomic number, so hydrogen gets the lowest priority, and we say that's group four. We have a tie between our two carbons because carbon has the same atomic number. So to break the tie, we need
+to look at what those carbons are bonded to. The carbon on the left is
+directly bonded to an oxygen and two hydrogens. So we write down here, oxygen,
+a hydrogen, a hydrogen. So in order of decreasing atomic number. This carbon on the right is
+double bonded to this oxygen, and we saw in an earlier
+video how to handle that. We treat that like a carbon
+bonded to two different oxygens, even though it's not really,
+it has a double bond to one, but this helps us when we
+are assigning priority; and this carbon is also
+bonded to a hydrogen. So this one. So that would be oxygen, oxygen, hydrogen. So we write oxygen, oxygen, hydrogen. Next we compare and look for
+the first point of difference. So this is an oxygen versus an oxygen, so that's a tie. We go to the next atom,
+and we have an oxygen versus a hydrogen. Obviously, oxygen wins. So this group wins, the
+aldehyde is higher priority than the CH2OH. So the aldehyde must get a number two and the CH2OH should get a number three. So for assigning R or S,
+we know that the hydrogen is going away from us in space. So we don't have to worry about that, we're done with step one and step two from the earlier videos. Next, we go around in a circle
+from one to two to three. So we're going from one to two to three. So we're going around this
+way, and that is clockwise. And we know that clockwise is R. So the configuration at
+our chirality center is R. I wanted to take a minute
+to show how to go from this drawing to this picture. So if the hydrogen is on this side, we wanna put our eye on
+this side so the hydrogen is going away from us and stare
+down at our chiral center. So this carbon. I like to imagine this
+carbon as being in the plane of the page. So here is our chirality center. Imagine a flat sheet of paper right here, and that sheet of paper is passing through your chiral center. The OH, we know, is up in space. There's a wedge here. So when we're looking at
+it from this perspective, the OH should be up relative
+to that flat sheet of paper. And we can see it is, this is going up. The aldehyde here would be going down, because this is a dash, and
+this would be your right side if your eye is right here. So the aldehyde is going down relative to the sheet of paper, and it's to the right. So here's our aldehyde
+going down into the right, and then this would be your left side. The CH2OH is also going down,
+but it would be going down and to the left. So here we can see the CH2OH
+going down and to the left. Now once you have this
+picture, it's easy to assign a configuration to your chiral center. So that was the first method. The second method is, in
+my opinion, even easier. This is the way that I usually use. We already know that the OH
+group gets the highest priority. So that's the number one. The aldehyde got a number two,
+the CH2OH got a number three and the hydrogen got a number four. So the trick I showed
+you in earlier videos is to ignore, ignore the
+fact that the hydrogen is actually coming out at you in space. And we know that because
+this horizontal line here in the Fischer projection means a wedge. So just ignore the hydrogen,
+look at one, two and three. And one to two to three is
+going around in this direction, which we know is counterclockwise. So it looks like it's S. So it looks like it's S
+for this chiral center. However, since the hydrogen
+is actually coming out at us in space, we saw
+in an earlier video, the trick is just to take
+the opposite of how it looks. So if it looks S, it's actually R. And this trick should always
+work when you're working with Fischer projections. So there are many ways to do this. In my opinion, you should get a model set and figure out a method
+that works the best for you. Finally, let's draw the
+enantiomer of this compound. So the mirror method works the best when you're working with
+Fischer projections. So on the left is a model of our compound, on the right is its mirror image. We can see that this OH is
+reflected in our mirror, so let's go down here, let's
+draw a line to represent our mirror and let's reflect
+this OH in our mirror. Then we need to draw a
+horizontal line right here, which represents these two bonds. And we have a hydrogen on the right side, so we draw in our hydrogen. Next we have a vertical line like that, so we put in the vertical
+line; and then we have an aldehyde at the top. So I'll draw in our aldehyde. And finally, a CH2OH at the bottom here. So a CH2OH. Our starting compound had
+only one chiral center. So this one right here, and
+here's the chiral center in the enantiomer. We don't have any more chiral
+centers in our compounds. So you don't have to worry
+much about the aldehyde or the CH2OH when you're
+talking about reflecting them in the mirror. Make sure to get this switched. So if this OH is on the right,
+then it'd be on the left for the enantiomer. So your goal is to
+reverse the configuration at each chirality center.

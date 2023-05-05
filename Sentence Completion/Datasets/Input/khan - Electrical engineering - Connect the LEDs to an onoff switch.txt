@@ -1,0 +1,83 @@
+All right. So we're almost there. Now, what we're
+going to do is we're going to wire our LEDs, so our
+eyes, so that they light up. And we're going to use the
+other sliding single-pull, double-throw switch to do that. So we're going to
+take our needle nose, and again, we'll put a
+little loop in the white wire that we had remaining
+from our previous that we made earlier
+in the videos. And we're going to loop that
+around one of our remaining contacts on our single-pull,
+double-throw switch. And again, it's a little tricky. You want to make sure that
+you get a pretty tight loop. And then, you'll push
+it around that contact. And once you've got
+it on there, you can take your needle-nose
+pliers and just make sure that it's
+crimped tightly against the terminal that's
+exposed from the switch there. And again, you want to
+make sure that it's not touching any of the
+other terminals. So if it is, the switch
+will always stay on, and it won't work properly. I'm just twisting
+it very tightly here to make sure that it's
+very firmly connected. So now what we need
+to do is we need to connect another wire to our
+resistor leads from our LEDs that we created earlier
+in the previous videos. And I'm going to go ahead
+and bend this other terminal on the switch out of the
+way that we don't need. And again, that's the one
+that's on the far side of the sliding switch there. So now we have our
+wire from our battery, which is our negative wire. And we're going to connect
+back to our resistors. And we're just stripping off
+a little piece of-- we're using the white wire again. We're going to strip off a
+little piece of the white wire there. And again, we'll take
+off about a quarter of an inch on both sides, and
+3/8 of an inch will work too. Generally speaking,
+if you take just a little bit more
+insulation off, it's a little easier
+because you have a little bit more
+wire to loop around. But it also means
+that you have more that you have to cover
+up once you're done. It's kind of tricky,
+but a quarter of an inch works for me. In any case, you can just
+use the wire strippers there and pull the wire. If you wiggle it
+around a little bit, it'll come out and strip
+off the wire there. And again, we're going to
+take our needle-nose pliers, and we're going to loop these
+around and create the loop to go over the terminal there. Once we have the
+loop done, we'll use our needle-nose pliers
+to crimp it in place. OK. So once it's crimped in
+place, we can hot glue it. And one of the things
+I should have done is I should have tested to
+make sure these contacts were in fact tightly connected
+before I hot glued it. But I was pretty sure
+they were, so I went ahead and hot glued it in
+the interest of time. But when you're
+making this, you're going to want to
+test that switch. And you can use the
+LEDs there to make sure that everything is
+connected properly before you hot glue it. Because again, if
+it's not, it's more of a pain to take the hot
+glue out and redo everything. OK. So now we're going to connect
+our LEDs to the remaining wire that we have on our switch. And that's going to allow
+us to complete the circuit and turn on the eyes
+of our spout bot. So we can take the two
+leads from our resistors and touch them
+there, and make sure that all the power is
+flowing how it should be. And so you can see
+how the switch will allow us to turn
+that on and off. And so we're going to twist
+those resistor leads together. And then, we're
+going to wrap them around the white wire-- the
+exposed part of the white wire. And that'll allow us
+to complete the circuit and light up the LED lights,
+or the eyes of our spout bot. OK. So once the eyes
+have been connected and the wires are
+twisted together, we want to make sure they're
+twisted very tightly together. We'll make sure the
+wires that are exposed are separated, so
+they don't short. And then, we're going to
+turn the switch on and off and see if our eyes light up. And they do. So we cut a little piece of
+electrical tape, about a half of an inch square. And we're going to use
+that electrical tape to basically cover
+over the exposed wire that we just twisted
+together, to ensure that it stays connected
+and that it's insulated.

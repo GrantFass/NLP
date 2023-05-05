@@ -1,0 +1,109 @@
+Voiceover: At its core,
+bitcoin is just basically a chain of digital signatures
+that really reflect the coin's path through
+the bitcoin ecosystem. And, you know what? I think it's actually conceptually easier to think of bitcoins as collective entries into a ledger rather than as a physical coin because if you think
+about it, in a ledger, you have a record of
+transaction histories, which is what happens in bitcoin, whereas with the physical coin, it's more, like, memory-less. There's no history in a physical coin of where that coin has
+really been in the past. In this context, you can
+think of a transaction as just a digitally-signed
+declaration by one party of its intent to transfer some bitcoins that they possess to
+another set of parties. And when I say one party possesses a certain number of bitcoins, I really just mean here that there are some previous
+transactions on record that everybody's agreed to in which the party now
+transferring the bitcoins was itself the recipient
+of a previous transfer of those bitcoins, all right? Now, I realize it's a bit convoluted, so maybe to help better
+understand the mechanics of a transaction, I can do an example of what would happen in the context of an
+actual bitcoin transaction. Let's say we have a party, and let's call her Alice, which is the common
+name we use for parties in cryptographic schemes, and let's say she wants to transfer some bitcoins to Bob, and let's say she would like, has an intention of wanting to transfer 50 bitcoins to Bob. Now, remember that anybody who transacts in the bitcoin ecosystem
+is actually not transacting under their real name,
+or their actual name, but rather they are known
+by a very specific identity, a pseudonym within the bitcoin ecosystem, and that identity, that
+pseudonym is actually that actually corresponds
+to a public verification key for a digital signature scheme. So, in this case, let's
+say Alice's identity in the system is really some
+public verification key, which we'll call VK of A, so Alice's verification key, and in the context of Bob, let's say his public
+verification key is VK sub B. So, these are keys that are used within digital signature schemes, and so we can assume
+that Alice has generated this key at some point, and
+that she made it public, and that Bob did the same thing, and so now they both have identities within the system, and these identities are
+just sequences of numbers that correspond to public
+keys for verification in the context of a
+cryptographic digital signature. All right? Now, remember, that these values also correspond to private values, so each person who's got a public key will have a corresponding private key, associated with that public key, and in this case, we'll
+call the private key, or the secret key, which is, in fact, a signing key in this
+context, SK of Alice, and we'll say that Bob's
+signing key is SK of Bob. Okay? And they're going to basically keep these keys private. Now let's say that Alice
+herself had received in the past, three transactions of
+bitcoins from other parties. Let's say she got 25 bitcoins from Carol, and we'll call Carol VK
+of C to associate that with her key, let's say she got 20 public, or 20 bitcoins, rather, from David, and let's say she got 20
+more bitcoins from Ted. Okay? So these are, these bitcoins correspond
+to different people that provided Alice with
+bitcoins in the past, and so as you can see, Alice now has an aggregate of 65, which is 20 plus 20 plus 25 bitcoins, and so as a result, she has a sufficient number to be able to transfer 50 of those
+bitcoins to Bob, okay? So to start off with, a
+transaction from Alice to Bob for 50 bitcoins will
+contain information about these previous transactions, so each of these previous transactions where Alice received some bitcoins, these will have been recorded in the bitcoin ecosystem, so they're going to be made public, just like every other transaction, and so what Alice can actually do is she can take some representation of these transactions and include them as part of the new transaction with Bob, basically as an anchor point to say, "Hey, I received these previous bitcoins, "and now I'm going to transfer "some portion of these
+bitcoins to you, Bob." Okay? So, in this context, actually, she does not need to include the full transaction details in the
+actual transaction record to Bob. What she can instead do is take the transaction details and apply a cryptographic hash function to them to get a series of digests
+for each transaction. So in this case, let's
+say she has a digest that corresponds to the
+transaction of Carol, she'll have a digest that corresponds to the transaction from David, and she'll have a digest that corresponds to the transaction from Ted, okay? And she'll basically include
+each of these digests into the transaction record, and what these [trackers] allow you to do, or really allow anyone
+to do, for that matter, is they can verify the chain of ownership of these bitcoins, because they can simply take all the previous transaction records, which, again, are made public. They can apply
+cryptographic hash functions to these different transaction records, and they can verify that
+these cryptographic hashes, when applied to those transaction records provide you back with the
+values D sub C, D sub D, and D sub T, and that, in turn, provides you with some type of a cryptographic guarantee because we're using
+cryptographic hash functions, we have a cryptographic guarantee that, that Alice was the ultimate recipient of these transactions from
+these different parties. We have this nice history
+that we can record, and that we can essentially
+ascertain in this fashion. All right? Because we're using
+cryptographic hash functions, we now have some assurance that Alice couldn't have so easily
+cheated the system, all right? So, at this point in the transaction, and maybe I'll kind of draw a line so you can kind of see where the transaction
+details are recorded. So at this point of the transaction, we have details about Alice's ownership of these 65 bitcoins, and she has enough information
+in that transaction so that anybody can verify that she possessed these coins. You can think of this part
+of the transaction, really, as representing the input, the input to the transaction. Now, in addition to the input portion of the transaction, there's typically also an output portion. I'm going to put that
+output portion up here, but let me label it, and so for starters,
+in the output portion, she has to include, or Alice has to include
+a list of recipients for her bitcoins, and since Alice wants to, let's say, transfer these bitcoins to Bob, she has to specify Bob's
+identity in the system, which, in fact, as you mentioned earlier was Bob's public key, so we'll say that she'll
+mention V sub K of B, and she also has to record
+and mention at this stage how many coins she
+wants to transfer to Bob and as we said earlier,
+we were going to assume that Alice wanted to transfer exactly 50 of her bitcoins to Bob, okay? So she's going to
+specify the number of 50. Actually, in reality, she'll
+specify another number, but it's going to represent
+50 bitcoins for Bob, okay? Now, in order for Alice to get back change because she has 65
+bitcoins kind of coming in, and she is only giving 50 back to Bob, what she might then do is decide that she's going to specify
+14 of those bitcoins to be returned back to her in the form of change, so 14 of those bitcoins
+are going to be reassigned back to Alice's public key, all right? And what Alice will then
+do is she's going to take all of this data, this transaction data, this input and this output, and she's going to
+digitally sign that data, and she's going to use her signing key, her signing key, to digitally sign all this data, like you would with a digital signature, and she's going to append that signature to the actual contents of
+the transaction record, and that'll effectively
+bind Alice's identity with the transaction record itself. And the reason it's going to bind it is we're using a digital signature scheme, and so anybody who possesses
+Alice's public key, which, again, is made public, can validate that only
+Alice could have created this block because only Alice, in theory, can come up with the signature that corresponds to her public key because she's the only
+person who, in theory, should possess the private signing key corresponding to her
+public key, all right? Then all of this data will
+actually be broadcast out, so this transaction data
+will then get broadcast out to all the different peers and the nodes in the bitcoin network. Everybody in the bitcoin network will basically know now that VK sub A is trying to send
+50 bitcoins to VK sub B. Now, at this point, you may have noticed a
+slight discrepancy here that Alice started off with 65 coins, kind of on the input side, but on the output side,
+she only has 50 plus 14, or 64 coins that are being accounted for. So there's this issue,
+what happens with this one, one last remaining coin? There's kind of this one
+implicit coin hanging around that has not been accounted for, and what we're going to do with that coin is that coin is actually going to be used as a transaction fee. Alice is basically saying
+that this one leftover coin should be provided as transaction fee to what's known as a bitcoin miner. A bitcoin miner, as I
+mentioned in a previous video, is basically an entity
+in the bitcoin system. Anybody can be a bitcoin miner, actually, but it's a node in the bitcoin network who engages, really, in the effort to help with the broader
+validation of this transaction. So what do I mean by broader validation? Well, if you think about it, at this point, we've just used cryptographic hashing and
+digital signing to validate that Alice at some point possessed the requisite bitcoins in the system, and that she not only publically announced her intention to transfer
+some of the bitcoins to Bob, but she digitally signed
+that public pronouncement, if you will, as a result of which, her public verification key, which is her identity
+in the bitcoin system, is now bound to that transaction. But, what Bob doesn't know yet, even though he knows all of these things and he can validate them, what Bob doesn't know yet is whether Alice tried to,
+let's say, previously sign, or sign those exact same
+coins to somebody else. Maybe there's another party. Let's say Alice has a friend named Eve. Maybe Alice decided she's going to send these bitcoins not only to Bob, but also she's going to try to send these same bitcoins to Eve, and Bob at this point may
+not have the assurance that Alice has not tried to engage in these types of shenanigans, all right? And so the tricky part here is that even though all the
+transactions we've talked about have been made public because the bitcoin
+requires all transactions to be made public, we still need a mechanism, and this has to be a
+decentralized mechanism that does not require a
+trusted third party, per se. We need a decentralized
+mechanism for agreeing, really, on the order in which transactions actually took place, so that we can resolve any disputes about someone trying to
+double spend their coins. It's that requirement, that timestamp, that decentralized time
+stamp, if you will, which is where bitcoin miners play a very important role in
+the bitcoin ecosystem, and I'll talk about how that works and how we deal with
+transaction time stamping in subsequent videos.

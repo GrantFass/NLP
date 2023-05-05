@@ -1,0 +1,64 @@
+- [Instructor] We are told
+the population of a town grows at a rate of e to the 1.2t power minus two t people per year
+where t is the number of years. At t equals two years,
+the town has 1,500 people. First, they ask us
+approximately by how many people does the population grow between t equals two and t equals five, and then what is the town's population at t equals five years. If we actually figure
+out this first question, the second question is actually
+pretty straight-forward. We figure out the amount that it grows, and then add it to what we
+were at at t equals two, add it to 1,500. So pause this video and see
+if you can figure it out. The key here is to appreciate
+that this right over here is expressing the rate of how fast the population is growing. And we've then seen in
+multiple videos now, let me just draw, do a quick review of this notion of a rate curve. So those are my axes, and this
+is my t-axis, my time axis. And so this is showing
+me how my rate of change changes as a function of time. Let's say it's something like this. So once again, if I said at this time right over here, this is my rate, this doesn't tell me, for
+example, what my population is. This tells me what is my rate
+of change of a population. And we have seen in previous videos that if you wanna figure
+out the change in the thing that the rate is the
+rate of change of, say, the change in population,
+you would find the area under the rate curve between
+those two appropriate times. And why does that make sense? Well, imagine a very small
+change in time right over here. If you have a very small change in time, and if you assume that your
+rate is approximately constant over that very small change in time, well, then your change in,
+let's say we're measuring the rate of change of population here, your accumulation, you could say, is going to be your rate
+times your change in time, which would be the area of this rectangle. And so roughly that would
+be the area under the curve over that very, very small change in time. What we really wanna do is
+find the area under this curve from t equals two to t equals five. And we have seen multiple
+times in calculus how to express that. So the definite integral
+from t is equal to two to t is equal to five of this expression of e to the 1.2t minus two t dt, dt. So, if we just evaluate
+that, that will be the answer to this first question. So what is this going to be? Well, let's actually work it out. So what is the antiderivative
+of e to the 1.2t? Well, let me just try to do it over here. So if I am trying to calculate, let me write it as e to the
+five, or actually 6/5 t. Say, 12/10 is the same thing as 6/5. 6/5 t dt, so this is
+an indefinite integral, I'm just trying to figure
+out the antiderivative here. Well, if I had a 6/5 right over here, then use substitution, or
+sometimes you would say the inverse chain rule,
+would be very appropriate. Well, we could put a 6/5 there if we write a 5/6 right over here. 5/6 times 6/5, then we can take constants in and out of the integral like this. Scaling constants, I should say. Well, now, so this is
+going to be equal to 5/6, this 5/6 right over here. This antiderivative is
+pretty straight-forward. Since I have the derivative
+of 6/5 t right over here, I can find the antiderivative
+with respect to 6/5 t, which is essentially I'm
+doing u-substitution. If you have to do u-substitution,
+you would make that right over there u, and then
+that and that would be your du. But, needless to say, this would be 5/6 times e to the 6/5 t,
+and if you're thinking about the indefinite integral,
+you would then have a plus c here, of course. And you could verify that
+the derivative of this is indeed e to the 1.2t. So this is going to be equal to, so this part right over here, the antiderivative is 5/6 e to the 6/5 t, and then this part right over here, the antiderivative of two t is t squared, so minus t squared. And we are going to evaluate
+that at five and two and find the difference. So let's evaluate this at
+when t is equal to five. Well, you are going to, and let me color-code this a little bit. When t is equal to five you get 5/6 times e to the 6/5
+times five is e to the 6th minus five squared, so minus 25. And so from that I want to subtract. When we evaluate it at two we get 5/6 e to the 6/5 times
+two is the same thing as 12/5, or we could say that's 2.4. 2.4 minus four, two squared is four. And so what do we get? Well, there's a couple of
+ways that we could do this. So then we could write this
+as, let me write it this way, we could write this, so
+we have a 5/6 and a 5/6, so we could write this as
+5/6 times e to the sixth, e to the sixth, minus e to the 2.4, minus 'cause we distribute
+that negative sign, e to the 2.4, e to the 2.4 power. And then we have minus 25,
+let me just get another color to keep track of it. We have minus 25, and then
+you have minus negative four. So that would be plus four. So that would be minus 21. And I would need a calculator
+to figure this out, so let me do that. Let me get my calculator on this computer. And, there we go. And so let's see, if we wanna find e to the sixth power, that's 403, okay, now let me figure out,
+so minus, I would say, 20, 2.4, that looks like
+a 24, I'll correct it as soon as I get back to that screen. E to that power, e to the 2.4 power. And I get equals, so what's in parentheses is this number right here, so times 5/6. Times five divided by six
+is equal to that minus 21. Minus 21, is equal to this. So, if I round to the nearest
+hundredth it's going to be approximately 306.00. So this is approximately 306.00. So approximately by how many
+people does the population grow between t equals two and t equals five? Well, by approximately 306 people. Let me write that down. So approximately 306 people. And they say, what is
+the town's population at t equals five. Well at time two at two
+years we had 1,500 people. And then we grow over this
+interval by 306, so plus 306. Well, that's gonna get me to, we deserve a little bit of a drum roll, 1,806 people at t equals five years.

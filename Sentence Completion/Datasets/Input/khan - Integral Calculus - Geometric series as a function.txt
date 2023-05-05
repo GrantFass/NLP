@@ -1,0 +1,47 @@
+- [Instructor] So we have this function that's equal to 2 minus 8x squared plus 32x to the fourth
+minus 128x to the sixth. And it just keeps going and going. So it's defined as an infinite series. And what I want to explore in this video, is there another way
+to write this function so it's not expressed
+as an infinite series? Well, some of you might be thinking, well, this looks like a geometric series on the right hand side, an
+infinite geometric series, and we know what the sun of an
+infinite geometric series is if it converges. So maybe that's a way
+that we can express this. So let's try to do that. So first let's just confirm that this is an infinite geometric series. And in order for it to
+be a geometric series, each successive term has
+to be some common ratio times the previous term. So to go from 2 to negative 8x squared, what do you have to multiply by? Well you have to multiply
+by negative 4x squared. Now let's see if you
+multiply negative 8x squared times negative 4x
+squared, what do you get? Well, negative 4 times
+negative 8 is positive 32. x squared times x squared
+is x to the fourth. So that works. And then you multiply that
+times negative 4x squared, and you indeed would get
+negative 128x to the sixth. So this indeed looks like
+an infinite geometric series on the right-hand side. In fact, we can rewrite f of x as being equal to the sum from n equals 0 to infinity of, you have your first term, and then you have your common ratio, negative 4x squared to the nth power. Let's confirm that works when n equals 0 this is going to be 1. So 2 times 1 is 2, and that
+indeed is our first term there. And then to that, you're gonna add it to when n is equal to 1. So that's just going to be
+two times negative 4X squared, which is indeed this second
+term right over here. And so this looks like it works. Now what is the sum of an infinite geometric series like this? Well it's going to be a finite value, assuming the absolute
+value of your common ratio is less than 1. So first of all, let's just think about under what conditions
+is the absolute value of our common ratio less than 1? And then we could say, okay, that helps us to find a
+radius of convergence. And then if x is in that zone, or if it's in that interval, then we can figure out a
+non-infinite geometric series way of expressing this function. So if we just think about
+under what circumstances will this converge, will it
+come out to a finite value? That's a situation in
+which the absolute value of your common ratio is less than 1. And so let's see if we can
+simplify this a little bit. No matter what x is, it's
+always going to be not, x squared is always
+going to be non-negative. And so the only, so this entire expression is always going to be negative. And so if you take the
+absolute value of it, this is going to be
+evaluate as 4x squared, which is always going to be positive. So this is equivalent to 4x squared, which needs to be less than 1. Or we could say that x squared
+needs to be less than 1/4. Or we could say that x needs to be less than 1/2 and greater than negative 1/2. One way to think about it is
+anywhere in this interval, if you square it, you're
+going to be less than 1/4. At 1/2, if you square
+it, it's equal to 1/4. And at negative 1/2, if you
+square it, it's equal to 1/4. But for lower absolute values, it's going to be less than 1/4. And so that's what this
+interval right here says. Another way to think about
+it is the absolute value of x needs to be less than 1/2. And so we've just defined an interval over which this infinite
+geometric series will converge. You could say this has a
+radius of convergence of, let me write it this way,
+radius of convergence, convergence of 1/2, you can go 1/2 above 0 and 1/2 below 0. But now that we've set the conditions under which this would
+converge, let's rewrite it. So this function is going to be equal to, we know what the sum of an
+infinite geometric series is. It's going to be equal to the first term over 1 minus your common ratio, 1 minus negative 4x squared. And so we can rewrite
+our function as f of x is equal to 2 over 1,
+subtract a negative 1 plus 4x squared for the absolute value of x is less than 1/2. We have the interval
+over which we converge and there you have it. We are done.

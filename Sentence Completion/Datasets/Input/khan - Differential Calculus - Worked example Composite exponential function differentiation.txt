@@ -1,0 +1,65 @@
+- [Voiceover] Let's say y is equal to the natural log of x to the xth power, and what we wanna do, we wanna find the derivative of y with respect to x. So I encourage you to pause this video and see if you can do it. So, when you first try to tackle this, this is a little bit daunting. We know how to take the
+derivative of constants to some x power, but how
+do we take a derivative of some time of a function, in this case, a natural log, to the xth power? And the answer here is to use some of our logarithmic properties,
+and then we're going to do a little bit of implicit differentiation. So the first thing that we wanna do, actually, let me rewrite this
+with a little bit of space, so, this was a natural
+log of x to the xth power. So the first thing, I
+wanna get rid of this x as an exponential, and I wanna be able to apply the product rule somehow. The way we're gonna do that is by taking the natural log of both sides. So take the natural log of both sides, and you might say, well,
+why is that helpful? Well, if I'm taking the natural log of something to an exponent,
+well, this is the same thing, actually, let me write this down as a property that you
+may or may not remember from your logarithmic properties, so if I have, I could write log, or I'll just write natural log, of, if I have natural
+log of a to the b power, this is the same thing as b
+times the natural log of a. It's just a standard logarithmic property. And so, by taking the
+natural log of both sides, this exponent can now become out front and scale the natural log function. So this exponent now, we
+can bring that out front, and let's just rewrite everything. So we get the natural log of y is equal to, so then let
+me put that in parentheses, so it's the natural log of y, is equal to x, that x is in blue, x times the natural log times
+the natural log, of, sorry, x times the natural log
+of the natural log of x. The natural log of the natural log of x. So, there you have it. By just taking the
+natural log of both sides and using this logarithmic property, we were able to get that. Now you're saying, well, gee, how is this actually
+going to be useful for us? Well now, we can implicitly take the derivative of both sides of this. And actually, let me scoot this over to the right a little
+bit, just so that we can, I have space for my derivative operator. So there you go, scooted that over. And so now, let's take the derivative with respect to x of both sides. So let me, so I'm gonna
+take the derivative with respect to x of the left-hand side and of the right-hand side, and of the right-hand side. Now, on the left-hand
+side, this is going to be, essentially, an application
+of the chain rule. When you learn implicit differentiation, it's really just application
+of the chain rule. It's the derivative of
+the outside function with respect to to the inside function, so the natural log of y with respect to y, the derivative of that is
+just going to be one over y, one over y times the derivative of the inside function with respect to x. So dy dx, dy dx. That is going to be equal to, well this is going to get
+interesting a little bit. Actually, let me do some stuff
+on the side a little bit. Let me just, the first
+thing we wanna do here is just apply the product rule. So it's the derivative
+of the first expression, so it's just going to
+be 1 times the second, I guess you'd say, function, so times the natural log
+of the natural log of x, natural log of x, and then plus the first function, just x, times the derivative
+of the second function. Times the derivative
+of the second function. What's the derivative of the natural log of the natural log of x? Let's do that separately. So if I have, if I'm trying
+to take the derivative, with respect to to x, of the natural log, the natural log of the natural log of x, of the natural log of x, well, here, again, I can
+apply the chain rule. The derivative of that magenta function with respect to the inside function, that is going to be one
+over the natural log of x, and then times the derivative
+of the inside function with respect to x, so times one over x. So this is equal to one
+over x natural log of x. So the derivative of this
+second function right over here is one over x natural log of x, one over x natural log of x. Let's see, that x and that x cancels out, and so we are left with, we
+are left with one over y, and I'll just write all of
+this in this blue color, so one over y times the derivative of y with respect to x, is equal to, see this is just the natural
+log of the natural log of x, the natural log of the natural log of x, plus one over the natural log of x, one over the natural log of x. And now, to solve for the derivative, we can multiply both sides
+by y, so let's do that. So we're gonna multiply that side by y, and we're gonna multiply
+this side times y, and what are we going to get? Well, on the left-hand side,
+that's why we multiplied by y, we just have the derivative
+y with respect to x, derivative of y with respect to x, is equal to, well, y is our original, is all this, is our
+original thing that we had. Y was equal to the natural log, let me rewrite it over here. Y was equal to the natural
+log of x to the xth power. So this is, we're essentially
+multiplying both sides times the natural log
+of x to the xth power. So this gonna get a little
+bit, a little bit messy here. So we could just write it
+the way I wrote it just now, without it being distributed, actually, let me just leave it like that. So it's going to be, and so we deserve a drum roll right now, 'cause
+this is quite involved, the natural log of the natural log of x plus one over the natural log of x, all of that times the natural
+log of x to the xth power. So that was quite involved. And if someone said well,
+what is the derivative of y when x is equal to e? So if someone says what is this equal to when x is equal to e, well,
+we could evaluate this when x is equal to e. This would be the, and I
+just made that up just now, so if like the original
+question wasn't just what is dy dx, if they said what is dy dx when x is equal to e. If that was the original question, then we could evaluate it. So where we just replace
+all these with e's, so it'd be an e there,
+an e there, an e there, and an e there, and I
+just picked the value e 'cause it's easy to evaluate. So that natural log of e is 1, natural log of 1 e to
+the zeroth power is 1, so all of that just becomes 0. The natural log of e is 1, so this whole expression right over here becomes zero plus one over one, so this becomes one, and then the natural log of e is,
+the natural log of e is one, and you're gonna have
+one to the eth power, well you could raise one to any power, and you're just get one. So it's one times one is equal to one. So I just thought it would be fun to try to evaluate that at a value that would be somewhat clean.

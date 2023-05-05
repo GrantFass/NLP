@@ -1,0 +1,149 @@
+In this and the
+next few videos, I hope to explore different types
+of regions in three dimensions. And these will be
+useful for thinking about how to evaluate different
+double and triple integrals and also some interesting proofs
+in multivariable calculus. So the first type of region,
+and it's appropriately named, we will call a type 1 region. At first, I'll give
+a formal definition. And hopefully, the
+formal definition makes some intuitive sense. But then I'll draw a
+couple of type 1 regions, and then I'll show
+you what would not be a type 1 region
+because sometimes that's the more important question. So type 1 region, maybe a type
+one region R, is the set-- and these little curly
+brackets means set-- is the set of all
+x, y's, and z's. It's the set of all
+points in three dimensions such that the x and y's
+are part of some domain, are a member-- that's what
+this little symbol represents-- are a member of some domain. And z can-- essentially
+varies between two functions of x and y. So let me write it over here. So f1 of x, y is kind
+of the lower bound on z. So this is going to be less
+than or equal to z, which is less than or equal to
+another function of x and y, which is going to be less than
+or equal to f2 of x and y. And let me close
+the curly brackets to show that this was all a set. This is a set of
+x, y's, and z's. And right here, we
+are defining that set. So what would be a
+reasonable type 1 region? Well, a very simple type
+one region is a sphere. So let me draw a
+sphere right over here. So in a sphere, where it
+intersects the x, y plane-- that's essentially this
+domain D right over here. So I'll do it in blue. So let me draw my best
+attempt at drawing that domain so that this is the domain D
+right over here for a sphere. This is a sphere
+centered at 0, but you could make the same argument
+for a sphere anywhere else. So that is my domain. And then f1 of x, y, which
+is a lower bound of z, will be the bottom
+half of the sphere. So you really can't see
+it well right over here, but it would be-- these
+contours right over here would be on the bottom half. And I can even color in
+this part right over here. The bottom surface of our
+sphere would be f1 of x, y, and f2 of x, y as
+you could imagine, will be the top half of the
+sphere, the top hemisphere. So it'll look
+something like that. This thing that I'm
+drawing right over here is definitely
+a type 1 region. As we'll see, this could
+be a type 1 type 2, or a type 3 region. But it's definitely
+a type one region. Another example of a type 1
+region-- and actually this might even be more obvious. So let me draw some
+axes again, and let me draw some type of a cylinder. Just to make it clear that
+our domain, where the x, y plane does not have to
+be inside of our region-- let's imagine a cylinder
+that is below-- well, actually I'll draw it above--
+that is above the x, y plane. So this is the bottom
+of the cylinder. It's right over here. And once again, it
+doesn't have to be centered around the z-axis. But I'll do it that way
+just for this video. Actually, I could draw it a
+little bit better than that. So this is the bottom
+surface of our cylinder, and then the top
+surface of our cylinder might be right over here. And these things actually
+don't even have to be flat. They could actually
+be curvy in some way. And in this situation,
+so in this cylinder-- let me draw it a
+little bit neater. In this cylinder
+right over here, our domain are all of the values
+that the x and y's can take on. So our domain is going
+to be this region right over here
+in the x, y plane. And then for each of that,
+those x, y pairs, f1 of x, y defines the bottom
+boundary of our region. So f1 of x, y is going to
+be this right over here. So you give me any of these
+x, y's in this domain D, and then you evaluate the
+function at those points, and it will correspond to
+this surface right over here. And then f2 of x, y,
+once again, give me any one of those x, y
+points in our domain, and you evaluate
+f2 at those points, and it will give you
+this surface up here. And we're saying
+that z will take on all the values in between,
+and so it is really this whole solid-- it's really
+this entire solid area. Likewise, over
+here, z could take on any value
+between this magenta surface and this green surface. So it would essentially
+fill up our entire volume so it would become
+a solid region. Now, you might be wondering what
+would not be a type 1 region? So let's think about that. So it would essentially
+be something that we could not
+define in this way, and I'll try my best to draw it. But you could
+imagine a shape that does something funky like this. So there's like
+one big-- I guess you could imagine a
+sideways dumbbell. So a sideways
+dumbbell-- and I'll maybe curve it out a little bit. So this is the kind of the top
+of the dumbbell-- or an hour glass, I guess you could
+say, or a dumbbell. It would look
+something like that. So I'm trying my
+best to draw it. It would look
+something like that. And the reason why this is
+not definable in this way-- it becomes obvious if you kind of
+look at a cross section of it. There's no way to define
+only two functions that's a lower bound and an
+upper bound in terms of z. So even if you say, hey, maybe
+my domain will be all of the x, y values that can
+be taken on-- let me see how well I can draw this. So you say my x,
+y values-- so let me try to draw this whole
+thing a little bit better, a better attempt. So you might say, OK, for
+something like a dumbbell-- let me clear out
+that part as well. For something like a dumbbell--
+so let me erase that. So for something like
+a dumbbell, maybe my domain is right over here. So these are all the x, y
+values that you can take on. But in order to have a
+dumbbell shape, for any one x, y, z is going to
+take on-- there's not just an upper and a lower
+bound, and z doesn't take on all values in between. Well, let me just draw
+it a more clearly. So our dumbbell-- maybe
+it's centered on the z-axis. This is the middle
+of our dumbbell, and then it comes out like that. And then up here, the z-axis--
+so it looks like that. And then it goes
+below the x, y plane, and it does kind
+of a similar thing. It goes below the x, y plane
+and looks something like that. So notice, for any
+given x, y, what would be-- if you attempted
+to make it a type 1 region, you would say, well, maybe
+this is the top surface. And maybe you would say down
+here is the bottom surface. But notice, z can't take
+on every value in between. You kind of have
+to break this up if you wanted to be able
+to do something like that. You would have to break this
+up into two separate regions where this would be
+the bottom region, and then this right over here
+would be another top region. So this dumbbell shape itself
+is not a type 1 region, but you could
+actually break it up into two, separate
+type 1 regions. So, hopefully, that helps out. And actually, another
+way to think about, this might be an
+easier way-- if we were to look at it
+from this direction, and if we were to just
+think about the z, y, if we were just
+thinking about what's happening on the z, y
+plane-- so that's a z, and this is y right over
+here-- our dumbbell shape would look something like
+this, my best attempt to draw our dumbbell shape. And so if you get a given
+x or y, maybe x is even 0, and you're sitting right here
+on the y-axis, notice z is not, even up here, cannot be
+a function of just y. On this top part, there's
+two possible z-values that we need to take
+on for that given y-- two possible z-values
+for that given y. So you can't define
+it simply in terms of just one lower bound function
+and one upper bound function.

@@ -1,0 +1,50 @@
+- [Instructor] In this video, we're going to talk a
+little bit about momentum. And I encourage you to think about what does momentum mean
+in everyday language. If I were to tell you that a
+business has a lot of momentum, many people would imagine that means that it's doing really well, it's hard to stop that
+business from succeeding. If I were to tell you that, and let's say a movie star
+has a lot of momentum, it means that they keep making really, really, really good movies, it's hard to stop them. And in physics, momentum
+essentially has that same notion. In fact, these everyday
+language versions of momentum really came from the
+physics version of it, and an informal definition
+you could think of it is how hard to stop something. Stop something. So with that very informal definition, we'll get a little bit more
+mathy in a few seconds. I have two pictures here. And let's say both of these vehicles, so we have a big 18-wheeler truck here, and here we have a Formula One car. Let's say that they both have a velocity of 20 meters per second. Positive 20 meters per second. We'll just think in one dimension. So let's say it's going to the right at 20 meters per second, so that's a magnitude and a direction. Okay, I could put a positive
+here to make it clear that I'm giving a direction here. So they're both going in
+the positive direction at 20 meters per second. But you can imagine their
+masses are very different. This large truck would have a mass of let's just say 30,000 kilograms. That's roughly actually what
+an 18-wheeler truck's mass is, I looked it up before this video. And let's say the mass of this Formula One car
+is about 1,000 kilograms. Now pause this video and think about which one do you think
+would have more momentum. All right, well, you're
+probably imagining trying to stop either of these, and I guess either of these
+would be difficult to stop, but a truck going at 20 meters
+per second seems a lot harder than the Formula One car. This thing seems like
+it would just be able to drive through anything. So if you picked the truck
+having a higher momentum when it's going at the same
+velocity as a Formula One car, you'd be right. But an interesting question is well, how can I quantify that? And that's where we have
+the mathematical definition of momentum, and momentum is defined as mass times velocity. And because velocity is a vector, it's not just a magnitude, we assigned a direction, so we said in the positive direction. If we were in one dimension, if we said in the negative direction, we'd be going to the left. That's maybe the convention we could use. And since it's a scalar, which is mass, times a vector, momentum is
+also going to be a vector. You're going to have a momentum
+in a certain direction. So pause this video and see if you can calculate the momentum for each of these vehicles. And see also if you can figure out what the units are going to be. All right, now let's
+think about the momentum for this 18 wheeler. It is going to be its mass, which is 30,000 kilograms, times its velocity, which is positive 20 meters per second. And so when I multiply those two things, I am going to get, let's see, I'm going to get a six with one, two, three, four, five zeros. One, two, three, four, five zeros. 600,000, and then the units are kilogram times meter per second. Kilogram meter per second. That's the momentum of the truck. Now what about the Formula One car? Pause the video and try to
+calculate that momentum. All right, well, same notion. I'll have to squeeze
+it in right over here. The momentum here is the
+mass, 1,000 kilograms. 1,000 kilograms times the velocity, positive 20 meters per second. I'm stressing the positive
+because we're in one dimension, and I'm saying positive is one direction, negative is the other direction. So I am giving it a direction here. And so this momentum
+is going to be equal to 20,000 kilogram meters per second. Kilogram meters per second. And so when you evaluate the momentums, it's clear mathematically that the truck has much more momentum than this Formula One car. It has 30 times the momentum. Now I know what some
+of y'all are thinking. Well, this is just from
+the reference frame if I'm standing still on the ground while this truck and car are moving by. But what if I were moving along with them? Would they have the same momentum? And if you were asking that question, it's a very good one, and the answer is no, the momentum depends on
+the frame of reference. So let's say that you are able to travel very quickly in, well, let's say you're in a car here. And you're also going at
+positive 20 meters per second, so you're going in the same
+direction as the truck. Well, relative to you, the truck's velocity is now zero. So from your frame of reference, if you wanted to calculate momentum, you'd have the mass of the
+truck, 30,000 kilograms. But from your frame of reference, the velocity would now be zero. So if you're traveling in
+this car at the same velocity as that truck, the momentum
+you would calculate is zero. Now, what would then have momentum? Well, in that world, let's say that there's a
+big rock over here that, let's say this thing's 100,000 kilograms. Well, when you are standing on the ground, that thing would have no momentum, but now that you're moving
+20 meters per second to the right, positive
+20 meters per second, the rock in your frame of
+reference would look like it's going at negative
+20 meters per second. It would look like it's
+going 20 meters per second to the left. And so this would now, if you're moving in the same frame of
+reference as that truck, this rock would then look like it has a very negative momentum, and I encourage you to
+calculate it if you like. But I'll leave you there. This is really just an
+introduction to momentum. But once you get an intuition for it, all sorts of interesting
+things in physics start to emerge from it.

@@ -1,0 +1,28 @@
+- [Narrator] Nth partial
+sum of the series, we're going from one
+to infinity, summing it a sub n is given by. And they tell us of the formula for the sum of the first n terms. And they say write a rule for what the actual Nth term is going to be. Now to help us with this, let me just create a little visualization here. So if I have a sub one
+plus, plus a sub two, plus a sub three, and I keep adding all the way to a sub n minus one plus a sub n. This whole thing, this whole thing that I just wrote out. That is s sub n. This whole thing is s, let me this whole thing is sub n, which is equal to n plus one, over n plus 10. Now if I wanna figure out a sub n, which is the goal of this exercise, well I could subtract out the sum of the first n minus one terms. So I could subtract out this. So that is s, that is s sub n minus one, and what would that be equal to. Well wherever we see
+an n, we'd replace with an n minus one. So it'd be n minus one plus one over n minus one plus 10, which is equal to n over n plus nine. So if you subtract the red
+stuff from the blue stuff, all that you're gonna be
+left with is the thing that we're gonna solve for. You're gonna be left with a sub n. So we could write down a
+sub n is equal to s sub n, is equal to s sub n
+minus s sub n minus one S sub n minus one. Or we could write, that
+is equal to this stuff. So this is the n plus one over n plus 10 minus, minus n over n plus nine. And this by itself, this
+is a rule for a sub n. But we could combine these terms, add these two fractions together. And this is actually going to be the case for n greater than one. For n equals one, s
+sub one is going to be, well you can just, a sub
+one is going to be equal to s sub one. But then for any other
+n, we could use this right over here. And if we want to
+simplify this, well we can add these two fractions. We can add these two fractions by having a common denominator. So let's see, if we multiply the numerator and denominator
+here times n plus nine, we are going to get, this is equal to n plus
+one times n plus nine, over n plus 10 times n plus nine. And from that, we are going to subtract. Let's multiply the
+numerator and denominator here by n plus 10. So we have n times n plus 10, over n plus nine times n plus 10. N plus nine times n plus 10. And what does that give us? So, if we simplify up
+here, we're gonna have, this is n squared plus 10
+n plus nine, that's that. And then this right over
+here this is n squared plus 10 n, within that red color. So this is n squared plus 10 n and remember we're gonna subtract this. And so, and we are close
+to deserving a drum roll, a sub n is going to be
+equal to our denominator right over here is n plus
+nine times n plus 10. And we're gonna subtract the
+red stuff from the blue stuff. So you subtract an n
+squared from an n squared and those cancel out. Subtract a 10 n from a
+10 n, those cancel out. And you're just left with that blue nine. So there you have it, we've expressed, we've written a rule for a
+sub n, for n greater than one.

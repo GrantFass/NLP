@@ -1,0 +1,31 @@
+For a given input value b, the function f outputs a value a to satisfy the
+following equation 4a plus 7b is equal to negative 52. So for a given input b, the function f, the function f
+will output an a that satisfies this
+relationship right over here for the a and the b. Write a formula for f of b in terms of b. So we want to do,
+we just want to solve for -- if we're given a "b", what "a" does that
+imply that we have to output? Or another way to think about it is
+-- let's just solve for a, or we could think about a as being a
+function of b. So let's write this. So we have 4a plus 7b -- is equal to negative 52. So I can solve for a in terms of b, that any b that I have --
+Let's say these b's are on the right hand side I can put it in. I can substitute that value
+for b and I can just solve for a. I can solve for a that needs to be
+outputted. So let's do that. Let's solve for a. 
+So I want to get all the a on I wanna just have an a leftover on the
+left hand side, and have everything else on the right hand side including the b's. So let's get rid of this b on the left hand
+side. And I can do that by subtracting 7b.
+Of course I wanna do that to both sides. I can't just do an equation and do an operation only on one side like
+that. So let's subtract, and we are left with
+we are left with -- the 7b's add up to zero. 7b minus 7b.
+We're left with 4a is equal to negative 52 minus 7b, minus 7b. Now, to isolate the a here,
+just to have an a here instead of 4a, we can divide both sides by 4. We can
+divide both sides by 4. So I'm gonna divide everything by 4. And on the left hand side, we got
+our goal. We are left with an a is equal to -- Now
+what's negative 54 divided by -- What is the negative 52 divided by 4?
+So let's think about it. 52 is 40 plus 12. 40 divided by
+4 is 10. 12 divided by 4 is 3. So it's gonna be 13. Negative 13.
+So it's negative 13 minus 7/4 b minus 7/4 b. So given a "b", if you give me a "b", I can put
+that value right over here, and I can calculate what the
+corresponding a needs to be in order to satisfy this relationship. So if I want a formula for f of b in
+terms of b, I can say, look, you give me a "b", the output of our
+function, which is f of a. The output of our function is
+going to be -- is going to be negative 13 minus 7/4 b, because the output of our
+function needs to be an "a" that will satisfy -- that will satisfy this equation up here. So hopefully that helped.

@@ -1,0 +1,30 @@
+- The final step to complete
+our particle simulator is to develop a method to track particle motions forward in time. That's how our computer
+program will animate them. One frame at a time. We said earlier that if you know the equation of motion of each particle, then you can compute the
+velocities and positions from it. But how exactly? To answer that question, let's go back to the idea of velocity as the slope of the
+position versus time curve. Put two values of time, t one and t two, close together, and let p one be the
+position at time t one and let p two be the
+position at time t two. The slope of the line l, shown here, is a good approximation of the velocity v one at time t one. The closer that t two gets to t one, the better the approximation. As an equation, the slope of l, that is the velocity v one, is given by the change in position divided by the change in time. If we know the position
+and velocity at time t one, then we can compute the
+position in time t two by rearranging this
+equation to solve for p two. Great. So knowing the
+particle's position and velocity at time t one, we can compute
+the position at time t two using this formula. But how do we get the
+velocity at time t two? Well, if we know the equation of motion, then we can compute the
+acceleration at time t two. For instance, if the particle is just being acted on by gravity, then the acceleration is constant, and is given by the
+gravitation constant g. We also know that the acceleration is the slope of the
+velocity versus time curve, meaning gravity equals
+a change in velocity divided by the change in time. And we can solve this for v two. Now that we know p two and v two, we can repeat this process to compute p three and v three and so on, for as long as we like. Let's do an example. Suppose that at the
+start of the simulation, we set our time parameter t to 0, our particle is at point p
+one with velocity at v one, and the gravity vector g points down. To figure out where the particle will be at time t equals one half, we use the equation p
+two is equal to v one times the quantity t two
+minus t one plus p one, where t one is equal to zero
+and t two is equal to one half. So, p two is equal to one
+half v one plus p one. Meaning that p two is halfway
+between v one's tail and head. And to figure out v two, we use v two is equal to g times the quantity t two
+minus t one plus v one. G here is the gravitational
+vector which points downward, and on Earth, has a magnitude of 9.8 meters per second squared. Again, t two minus t one is one half, so v two is equal to
+one half g plus v one. Great. Now we can compute the position and velocity at t equals one using the same formulas. Although this is rather
+tedious to do by hand, it is relatively easy to
+write a computer program to do these calculations for us. Like this. Congratulations. We now have all the parts we need to create a ping pong ball simulator. (chimes) In the final exercise, you can test your understanding of these concepts before moving on to create your own amazing
+particle simulations.

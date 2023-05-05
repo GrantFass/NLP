@@ -1,0 +1,133 @@
+We spent a good deal of time on
+the idea of a null space. What I'm going to do in this
+video is introduce you to a new type of space that can be
+defined around a matrix, it's called a column space. And you could probably guess
+what it means just based on what it's called. But let's say I have
+some matrix A. Let's say it's an
+m by n matrix. So I can write my matrix A and
+we've seen this multiple times, I can write it as a
+collection of columns vectors. So this first one, second one,
+and I'll have n of them. How do I know that
+I have n of them? Because I have n columns. And each of these column
+vectors, we're going to have how many components? So v1, v2, all the way to vn. This matrix has m rows. So each of these guys are going
+to have m components. So they're all members of Rm. So the column space is defined
+as all of the possible linear combinations of these
+columns vectors. So the column space of A, this
+is my matrix A, the column space of that is all the linear
+combinations of these column vectors. What's all of the linear combinations of a set of vectors? It's the span of
+those vectors. So it's the span of vector
+1, vector 2, all the way to vector n. And we've done it before
+when we first talked about span and subspaces. But it's pretty easy to show
+that the span of any set of vectors is a legitimate
+subspace. It definitely contains
+the 0 vector. If you multiply all of these
+guys by 0, which is a valid linear combination added up,
+you'll see that it contains the 0 vector. If, let's say that I have some
+vector a that is a member of the column space of a. That means it can be represented
+as some linear combination. So a is equal to c1 times vector
+1, plus c2 times vector 2, all the way to Cn
+times vector n. Now, the question is, is this
+closed under multiplication? If I multiply a times some new--
+let me say I multiply it times some scale or s, I'm just
+picking a random letter-- so s times a, is this
+in my span? Well s times a would be equal
+to s c1 v1 plus s c2 v2, all the way to s Cn Vn Which is
+once again just a linear combination of these
+column vectors. So this Sa, would clearly
+be a member of the column space of a. And then finally, to make sure
+it's a valid subspace-- and this actually doesn't apply just
+to column space, so this applies to any span. This is actually a review of
+what we've done the past. We just have to make sure it's
+closed under addition. So let's say a is a member
+of our column space. Let's say b is also a member
+of our column space, or our span of all these
+column vectors. Then b could be written as b1
+times v1, plus b2 times v2, all the way to Bn times Vn. And my question is, is a plus b
+a member of our span, of our column space, the span
+of these vectors? Well sure, what's a plus b? a
+plus b is equal to c1 plus b1 times v1, plus c2 plus
+v2 times v2. I'm just literally adding
+this term to that term, to get that term. This term to this term
+to get this term. And then it goes all the way
+to Bn and plus Cn times Vn. Which is clearly just
+another linear combination of these guys. So this guy is definitely
+within the span. It doesn't have to be
+unique to a matrix. A matrix is just really just
+a way of writing a set of column vectors. So this applies to any span. So this is clearly
+a valid subspace. So the column space of a is
+clearly a valid subspace. Let's think about other ways we
+can interpret this notion of a column space. Let's think about it in terms of
+the expression-- let me get a good color-- if I were to
+multiply my-- let's think about this. Let's think about the set of all
+the values of if I take my m by n matrix a and I multiply
+it by any vector x, where x is a member of-- remember x has
+to be a member of Rn. It has to have n components in
+order for this multiplication to be well defined. So x has to be a member of Rn. Let's think about
+what this means. This says, look, I can take any
+member, any n component vector and multiply it by a,
+and I care about all of the possible products that this
+could equal, all the possible values of Ax, when I can
+pick and choose any possible x from Rn. Let's think about
+what that means. If I write a like that, and if
+I write x like this-- let me write it a little bit better,
+let me write x like this-- x1, x2, all the way to Xn. What is Ax? Well Ax could be rewritten as
+x1-- and we've seen this before-- Ax is equal to x1 times
+v1 plus x2 times v2, all the way to plus Xn times Vn. We've seen this multiple
+times. This comes out of our
+definition of matrix vector products. Now if Ax is equal to this,
+and I'm essentially saying that I can pick any vector x in
+Rn, I'm saying that I can pick all possible values of the
+entries here, all possible real values and all possible
+combinations of them. So what is this equal to? What is the set of
+all possible? So I could rewrite this
+statement here as the set of all possible x1 v1 plus x2 v2
+all the way to Xn Vn, where x1, x2, all the way to Xn, are
+a member of the real numbers. That's all I'm saying here. This statement is the
+equivalent of this. When I say that the vector x can
+be any member of Rn, I'm saying that its components
+can be any members of the real numbers. So if I just take the set of all
+of the, essentially, the combinations of these column
+vectors where their real numbers, where their
+coefficients, are members of the real numbers. What am I doing? This is all the possible linear
+combinations of the column vectors of a. So this is equal to the span
+v1 v2, all the way to Vn, which is the exact same thing
+as the column space of A. So the column space of A, you
+could say what are all of the possible vectors, or the set of
+all vectors I can create by taking linear combinations of
+these guys, or the span of these guys. Or you can view it as, what are
+all of the possible values that Ax can take on if
+x is a member of Rn? So let's think about
+it this way. Let's say that I were to tell
+you that I need to solve the equation Ax is equal to-- well
+the convention is to write a b there-- but let me
+put a special b there, let me put b1. Let's say that I need to
+solve this equation Ax is equal to b1. And then I were to tell you--
+let's say that I were to figure out the column space of
+A-- and I say b1 is not a member of the column space of
+A So what does that tell me? That tells me that this right
+here can never take on the value b1 because all of the
+values that this can take on is the column space of A. So if b1 is not in this, it
+means that this cannot take on the value of b1. So this would imply that this
+equation we're trying to set up, Ax is equal to b1,
+has no solution. If it had a solution, so let's
+say that Ax equals b2 has at least one solution. What does this mean? Well, that means that this, for
+a particular x or maybe for many different x's,
+you can definitely achieve this value. For there are some x's that when
+you multiply it by a, you definitely are able
+to get this value. So this implies that b2 is
+definitely a member of the column space of A. Some of this stuff on some level
+it's almost obvious. This comes out of
+the definition of the column space. The column space is all of the
+linear combinations of the column vectors, which another
+interpretation is all of the values that Ax can take on. So if I try to set Ax to some
+value that it can't take on, clearly I'm not going to
+have some solution. If I am able to find a solution,
+I am able to find some x value where Ax is equal
+to b2, then b2 definitely is one of the values that
+Ax can take on. Anyway, I think I'll
+leave you there. Now that you have at least a
+kind of abstract understanding of what a column space is. In the next couple of videos
+I'm going to try to bring everything together of what we
+know about column spaces, and null spaces, and whatever else
+to kind of understand a matrix and a matrix vector product from
+every possible direction.

@@ -1,0 +1,68 @@
+Let's say we've
+got some function f that is continuous over
+the interval between c and d. And the reason why I'm using
+c and d instead of a and b is so I can use a
+and b for later. And let's say we set up
+some function capital F of x which is
+defined as the area under the curve between
+c and some value x, where x is in this interval
+where f is continuous, under the curve-- so it's the
+area under the curve between c and x-- so if this is x right
+over here-- under the curve f of t dt. So this right over here,
+F of x, is that area. That right over there
+is what F of x is. Now, the fundamental
+theorem of calculus tells us that if f is continuous
+over this interval, then F of x is differentiable at
+every x in the interval, and the derivative of capital
+F of x-- and let me be clear. Capital F of x is differentiable
+at every possible x between c and d, and the
+derivative of capital F of x is going to be equal
+to lowercase f of x. Fair enough. Now, what I want
+to do in this video is connect the first
+fundamental theorem of calculus to the second part, or the
+second fundamental theorem of calculus, which we tend
+to use to actually evaluate definite integrals. So let's think about what F of
+b minus F of a is, what this is, where both b and a are
+also in this interval. So F of b-- and we're going to
+assume that b is larger than a. So let's say that b is
+this right over here. And we'll do that
+in the same color. So let's say that b
+is right over here. F of b is going to be equal to--
+we just literally replace the b where you see the
+x-- it's going to be equal to the definite integral
+between c and b of f of t dt, which is just
+another way of saying the area under the
+curve between c and b. So this F of b,
+capital F of b, is all of this business
+right over here. And from that, we
+are going to want to subtract capital
+F of a, which is just the integral between
+c and lowercase a of lowercase f of t dt. So let's say that this
+is a right over here. Capital F of a is just
+literally the area between c and a under the
+curve lowercase f of t. So it's this right over here. It's all of this
+business right over here. So if you have this blue
+area, which is all of this, and you subtract out
+to this magenta area, what are you left with? Well, you're left with this
+green area right over here. And how would we represent that? How would we denote that? Well, we could denote that
+as the definite integral between a and b of f of t dt. And there you have it. This right over here is the
+second fundamental theorem of calculus. It tells us that if f is
+continuous on the interval, that this is going to be
+equal to the antiderivative, or an antiderivative, of f. And we see right over
+here that capital F is the antiderivative of f. So we could view this as
+capital F antiderivative-- this is how we defined capital
+F-- the antiderivative-- or we didn't define it that way,
+but the fundamental theorem of calculus tells
+us that capital F is an antiderivative
+of lowercase f. So right over here,
+this tells you, if you have a definite
+integral like this, it's completely equivalent to an
+antiderivative of it evaluated at b, and from that, you
+subtract it evaluated at a. So normally it looks like this. I've just switched the order. The definite integral
+from a to b of f of t dt is equal to an antiderivative
+of f, so capital F, evaluated at b, and from that, subtract
+the antiderivative evaluated at a. And this is the second part
+of the fundamental theorem of calculus, or the
+second fundamental theorem of calculus. And it's really the core of
+an integral calculus class, because it's how you actually
+evaluate definite integrals.

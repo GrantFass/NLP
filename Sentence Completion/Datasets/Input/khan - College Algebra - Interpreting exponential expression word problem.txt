@@ -1,0 +1,27 @@
+- [Instructor] The expression
+five times two to the T gives the number of leaves in a plant as a function of the number
+of weeks since it was planted. What does two represent
+in this expression? So pause this video and see
+if you can figure it out on your own. All right, so let's look at
+the expression right over here. We could write it as defining a function. So we could say leaves
+as a function of time is equal to five times two to the T power and so we could try this out a little bit. If we say well what is L of zero? That would be T equals zero. That's when we are at zero
+weeks after it was planted. So this is right when it was planted. Well that's five times two to the zero, which is just two to the zero's just one. So it's equal to five and so when you see an
+exponential expression or an exponential function like this, that is why this number out here is often referred to
+as your initial value. Initial. Initial value. And so let's explore
+this a little bit more. What is L of one? What happens after one week? Well that's gonna be five
+times two to the first power or five times two. So going from when it was
+planted to the first week, we are multiplying by two. The number of leaves doubles. Well what happens after two weeks, the number of leaves after two weeks? Well that's gonna be five
+times two to the second power. Well that's the number that
+you had in the first week times two. So it looks like every
+week we are doubling, we are multiplying by two and that's why this
+number right over here, which is what the question
+is about, the two, this is often referred
+to as the common ratio. Common ratio. Because between any two successive weeks, the ratio between say week
+two and week one is two. Week two is double week one. Week one is double week zero. So let's see which of these choices actually match up to that. There were initially
+two leaves in the plant. Well we know that there weren't
+two leaves on the plant. Our initial value was five. So let me cross that one out. The number of leaves is
+multiplied by two each week. Well that's exactly
+what we just described. So I like that choice. Let's look at the last
+one just for good measure. The plant was planted two weeks ago. Well no, they don't tell
+us anything about that. This is a general expression for T weeks after it was planted. So they're not saying when
+it was actually planted. So we could rule that out and we feel good about that second choice.

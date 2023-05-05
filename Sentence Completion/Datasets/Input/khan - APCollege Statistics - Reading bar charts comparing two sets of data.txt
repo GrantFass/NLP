@@ -1,0 +1,27 @@
+So we have this bar chart here. This says Scores on
+Midterm and Final Exams. So this axis, the vertical
+axis, is the scores. And then it's by student. And the blue bar is the
+midterm, and the yellow bar is the final. And the question they ask
+us is by how many points did Nadia's score improve from the
+mid-term to the final exam? So let's look at Nadia. So this is who we're
+talking about-- Nadia. And we care about how
+many points did she improve from the
+midterm to the final. Midterm is blue,
+final is yellow. So on the midterm, it
+looks like she scored-- and if I were to eyeball
+it, it looks like 75 points. And on the final, it
+looks like she scored 80. It looks like she
+scored 85 points. So it looks like her score
+improved by 10 points, so 10 points. Let's try one more. How many students improved
+their scores from the midterm to the final exam? So to improve from the
+midterm to the final, that means that the yellow
+bar for a given student, which is the final, is going to
+be higher than the midterm bar. That's the only way you can
+improve from the midterm to the final. So Brandon improved from
+the midterm to the final. Vanessa improved from
+the midterm to the final. Daniel improved from the
+midterm to the final. Kevin improved from the
+midterm to the final. William got a lower score on
+the final than the midterm, so he did not improve. So the number of students
+that improved their scores from midterm to final are
+one, two, three four students, so 4 students.

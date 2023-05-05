@@ -1,0 +1,23 @@
+Voiceover:Let's say that
+we've got a position vector, P and it is equal to or
+represented as a column vector, right over here, 2, 1. If we wanted to plot this,
+and that is what I'll do. Let's plot it. If we were to plot it, that's my Y axis, this right over here is my X axis. If we assume that the first entry here is X coordinate, 1, 2, 1. Our position vector is
+going to be right over here. We could represent it. We could represent it in this kind of vector symbol, like that. Where the tail is at the origin and the tip, the head, is at that point or we could say it's really
+representing this position, right over here on the coordinate plan. What I wanted to do in this video is apply a transformation
+to this position vector. The way I'm going to do it is I'm going to multiply our vector, P by a matrix and then the resulting product is going to give me
+another position vector. So, what do I mean by that? I could have a transformation
+matrix, capital T and let's just say it is
+equal to 2, 1, -1, and 2. What happens if I multiply TxP? Let's do that right over here. TxP, so first let's just make sure that this is actually a valid operation that matrix multiplication or matrix vector
+multiplication is defined here. Let's just look at what T and P look like. I'm gonna copy and paste. That is T and this is P right over here. Can we multiply a 2x2 matrix times a column vector like this, which is essentially 2x1 matrix. Well sure, as as we know matrix multiplication is only defined, or at least conventional
+matrix multiplication is only defined if the first matrix number of columns is equal to the number of rows in the second
+matrix, right over here. We see there, both of those are 2. This is going to result in a 2x1 matrix. This is going to result in a 2x1 matrix. What's interesting about that is that this is another column vector. This is another position vector. You took this vector P, multiplied it by this
+transformation vector and we're gonna get another 2x1, which we could think of
+as a position vector, which we could plot. What's essentially happened is this transformation vector has moved, has essentially given this point. It has given us a new point. Let's think about what that is. This first entry here, we're essentially thinking about, we're going to deal with the first row and the first and the only column, really. Let me do, use a color
+that I haven't used yet. We're gonna think about
+this row and this column. It's gonna be 2x2, which is 4, plus 1x1, which is 1 or this is just going to be equal to 5. For the second entry, right over here. It's going for the
+second row, first column. It's gonna deal with the second row here and the one and only
+column, right over here. -1x2 is -2, plus 2x1, which is 2. -2+2 is just equal to 0. Now, we have the position 5, 0, which is right over here. 1,2,3,4,5 So, we started with this point, this position vector, I
+guess you could say, P As transformed it to this
+other position vector and I guess we could call this P prime. If you wanted to draw them as vectors, this right over, kinda
+tradition vector form, that right over there is P prime and this right over here is P. This right over here is P. This is P actually, let me
+make sure there's a prime. This is P prime and the way we got from P to P prime is using this transformation matrix.

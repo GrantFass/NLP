@@ -1,0 +1,46 @@
+- [Voiceover] Now we're gonna
+talk about the two forms of the Inductor Equation and get familiar with these things. I'm gonna do some examples to show you how the Inductor Equations work. So, we know that the
+Inductor Equation is the voltage across an inductor is a factor called L, the
+inductance, times di, dt. So the voltage is proportional to the slope or the rate
+of change of current. Let me do a quick review
+of the two letters that are used as variables for inductors. When we have a resistor, we have, we have a, we call it a R, and it's in units of ohms, and that's named after Ohm, himself. And when we have a capacitor, the units are c, for capacitance, and f for faraday, farad, that's named after Michael Faraday. For the inductor, we have two other letters we use, L and H, and L is the name of the component, and that's named after
+Lenz, Heinrich Lenz, and he did some research in induction, and the unit is named after Henry, and so that's the
+corresponding R, c, and L are the names of the components, and ohms, farads, and
+henries are the units. Okay, let's get back to our inductor. There's another form of
+the inductor equation where we write it in terms of just i, in terms of v, and to get to that point, we need to get rid of
+this derivative here. So, what we, what I'm gonna do is take the integral of
+both sides of this equation. So, we take the integral of v, with respect to time, and that equals L times take the integral of di, dt with respect to time, and these two terms go away, and have the integral of di, the antiderivative of di is, is what, what function
+has a derivative of di? And that would be just i. So, let me flip this all around here now. I'm gonna write i, on the left side equals one over L times the integral of v, dt. Now we always put limits on this integral, so the limits in this case are time is goes from minus infinity till some time now, and
+this tells us that the, ah, that the current through an inductor depends on the voltage
+across that inductor for the entire life all the way back to time
+equals minus infinity, and that's not so convenient. We don't want to track this, the inductor's voltage
+back that far in time. So what we'll do instead is we'll, we'll say, let's say at t equals zero, that we know the vol,
+that we know the current, that we know some, we know some i of zero. And then we can change the limits on our, our integral here to
+be zero on the bottom. One over L, integral from
+time is zero until now time t, big T, of v of T times dt. In order to account for
+everything that's happened before time equals zero, we'll just say, what was the current at time equals zero? So that's i of zero. And I'll do one more little change. I, I, I want this variable up here to be small t, and that means
+I have to replace this t inside here with some other symbol as a, as a dummy variable,
+and so now I'm gonna get i of t, little t one over L, integral from zero to little t of vd, let's just call it Tao, plus i of zero. So this is the integral form. There's the integral form
+of the inductor equation and here is the derivative form. And we'll use both these. What I'm gonna do now, is we're gonna do an exercise where we use this one down here. So, in our circuit we
+have a voltage source with a time pattern voltage in it, and we have a current
+going through this thing. And we wanna find out,
+what's this current? So, we're connected to a inductor. It's a 10 millihenry inductor and the voltage waveform is, it starts at zero, at time equals zero, the, the voltage goes up to two volts, then after two milliseconds
+it goes to minus two volts. After two more milliseconds, it goes to plus two volts and on and on. So, we know v of t, and what we're going to
+figure out is, what's, what's i through the, in the inductor? And to do that, we're gonna use our, our inductor equation here, the integral form of the inductor equation. So I actually need some
+room on the screen here, so let me take a second and
+clean out some stuff. Okay, we're ready to go. So let's look at what's going on here before time equals zero. So, in the before state, we're gonna make an assumption. We're gonna assume that i is zero a long time ago, and if we look at our chart, here, it says that v is zero, as well. And if I take this fact and I look at this equation right here, if v is zero, L is some positive number, so we can say that, so then we know that di, dt equals zero. So this circuit is
+pretty much doing nothing before this waveform starts working. Over here I'm gonna
+make a little time chart of what, what we discover. That's time, and this'll
+be, ah, current, here. So before zero, before time is zero, we can say that the current is zero. Now, we've plotted in
+part of our, our curve. Okay, now something happens. Now the voltage goes up two volts, and we're gonna use this equation, the integral form of the, the inductor equation to
+figure out what happens to i of t now that voltage has changed. So, we can say that i equals one over L times the integral from zero, times zero is our starting point here, to t, some time t of v of t. Now, v, in this little
+region of time here, is two volts plus two times d Tao plus i zero, and we decided i zero was the current that it started at right there; i zero is zero. Let's keep working on this. We can say that i equals one over 10 millihenries times the two comes out of the integral, and now it's the integral from zero to t of d Tao. And the zero goes away, that equals two over 10
+millihenries times what? What's this integral evaluate to? It evaluates to t. Integral of d Tao between zero and t is t minus zero or just plain t. So looking at this, I see that i equals a constant times t, and that's the equation of a line. That's the equation of a line if I plot it on t and i, so two over 10 millihenries is the slope, and to plot that line, what I need is two points on the line. I know one of the points already. I know one of the points is gonna be right there at zero zero. What is the current at the
+end of this pulse here? So, at two milliseconds, let's figure out what the current is, and that equals, at two milliseconds it's two times two milliseconds divided by 10 millihenries. The millis cancel themselves out and I get four over 10, or zero point four, what, Amperes. So, at two milliseconds, the value of the current is point four amperes, and I can
+draw a straight between there. So now we have the value of the current during this first excursion, this first part of the voltage waveform. Now, we're gonna switch again. Now we have a new i zero. Let's, let's go to a new point, here. Let's go to a new point,
+at, now we have i, i zero equals point four, and we have v equals what? Now it goes to minus two volts, minus two volts, so let's use our inductor equation one more time with these, with these,
+ah, initial conditions that tells us i equals one over L integral from, what's the new point? Two milliseconds to t and v of t after two milliseconds is minus two volts, minus two d Tao plus, now we have a starting current. Our starting current was point four amps. Zero point four amps. And let's continue on here. Let's, ah, maybe can squeeze it in here; i equals one over 10 millihenries times minus two times the integral, the integral from two
+milliseconds to t of d Tao plus zero point four; i equals minus two over 10 millis times, what is this? It's again, it's t minus, t minus two milliseconds plus point four, and again, we have the equation of a line. This is the equation of a line, i, there's a constant times t, there's a con, a, followed by a constant. And this is basically a sloping line. It has a negative slope, and the slope is negative
+two over 10 millis, which is just the opposite
+of what we had over here. We had two over 10 millihenries, so it's the same looking kind of line. So let me mark out here. Here's four milliseconds and it's gonna be a line that looks like this. So, the current's gonna ramp up, it's gonna turn around and
+ramp straight back down because the, the slope up and the time up is the same as the slope down and the time down, just with a negative slope. So there's an example of the inductor equation in action.

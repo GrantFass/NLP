@@ -1,0 +1,68 @@
+- [Instructor] Multiple
+videos and exercises we cover the various techniques for finding limits. But sometimes, it's helpful
+to think about strategies for determining which technique to use. And that's what we're going
+to cover in this video. What you see here is a flowchart developed by the team at Khan Academy, and I'm essentially going to
+work through that flowchart. It looks a little bit
+complicated at first, but hopefully it will make sense as we talk it through. So the goal is, hey, we want to find the limit of f of x as x approaches a. So what this is telling us to do is, well the first thing, just try to substitute what
+happens when x equals a. Let's evaluate f of a. And this flowchart says, if f of a is equal to a real number, it's saying we're done. But then there's this little caveat here. Probably. And the reason why is that
+the limit is a different thing than the value of the function. Sometimes they happen to be the same. In fact, that's the definition
+of a continuous function which we talk about in previous videos, but sometimes, they aren't the same. This will not necessarily be true if you're dealing with some function that has a point discontinuity like that or a jump discontinuity, or a function that looks like this. This would not necessarily be the case. But if at that point you're trying to find the limit towards, as you approach this
+point right over here, the function is continuous, it's behaving somewhat normally, then this is a good thing to keep in mind. You could just say, hey, can I just evaluate the function at that at that a over there? So in general, if you're dealing with pretty plain vanilla
+functions like an x squared or if you're dealing with
+rational expressions like this or trigonometric expressions, and if you're able to
+just evaluate the function and it gives you a real number, you are probably done. If you're dealing with
+some type of a function that has all sorts of special cases and it's piecewise defined as we've seen in previous other videos, I would be a little bit more skeptical. Or if you know visually around that point, there's some type of jump or some type of discontinuity, you've got to be a
+little bit more careful. But in general, this is a pretty good rule of thumb. If you're dealing with
+plain vanilla functions that are continuous, if you evaluate at x equals a and you got a real number, that's probably going to be the limit. But I always think about
+the other scenarios. What happens if you evaluate it and you get some number divided by zero? Well, that case, you are probably dealing
+with a vertical asymptote. And what do we mean by vertical asymptote? Well, look at this
+example right over here. Where we just say the limit put that in a darker color. So if we're talking about the limit as x approaches one of one over x minus one, if you just try to
+evaluate this expression at x equals one, you would get one over one minus one which is equal to one over zero. It says, okay, I'm throwing it, I'm falling into this
+vertical asymptote case. And at that point, if you wanted to just understand
+what was going on there or even verify that it's
+a vertical asymptote, well then you can try out some numbers, you can try to plot it, you can say, alright, I probably have a vertical asymptote here at x equals one. So that's my vertical asymptote. And you can try out some values. Well, let's see. If x is greater than one, the denominator is going to be positive, and so, my graph and you would get this from
+trying out a bunch of values. Might look something like this and then for values less than negative one or less than one I should say, you're gonna get negative values and so, your graph might look like something like that until you have this vertical asymptote. That's probably what you have. Now, there are cases, very special cases, where you won't necessarily
+have the vertical asymptote. One example of that
+would be something like one over x minus x. This one here is actually
+undefined for any x you give it. So, it would be very, you will not have a vertical asymptote. But this is a very special case. Most times, you do have a vertical asymptote there. But let's say we don't fall
+into either of those situations. What if when we evaluate the function, we get zero over zero? And here is an example of that. Limit is x approaches negative one of this rational expression. Let's try to evaluate it. You get negative one squared which is one minus negative one which is plus one minus two. So you get zero the numerator. And the denominator you
+have negative one squared which is one minus two times negative one so plus two minus three which is equal to zero. Now this is known as indeterminate form. And so on our flowchart, we then continue to the right side of it and so here's a bunch of techniques for trying to tackle something
+in indeterminate form. And likely in a few weeks you will learn another technique that involves a little more calculus called L'hospital's Rule
+that we don't tackle here because that involves calculus while all of these techniques can be done with things before calculus. Some algebraic techniques and some trigonometric techniques. So the first thing that you might want to try to do especially if you're dealing
+with a rational expression like this and you're getting indeterminate form, is try to factor it. Try to see if you can simplify this expression. And this expression here, you can factor it. This is the same thing as x x minus two times x plus one over x this would be x minus three times x plus one if what I just did seems
+completely foreign to you I encourage you to watch
+the videos on factoring factoring polynomials or factoring quadratics. And so, you can see here, alright. If I make the I can simplify this 'cause as long as x does not equal negative one, these two things are going to cancel out. So I can say that this is going
+to be equal to x minus two over x minus three for x does not equal negative one. Sometimes people forget to do this part. This is if you're really
+being mathematically precise. This entire expression
+is the same as this one. Because this entire expression
+is still not defined if x equals negative one. Although you can substitute
+x equals negative one here and now get a value. So if you substitute x
+equals negative one here even if it's formally taking it away to be mathematically equivalent, this would be negative one minus two which would be which would be negative three over negative one minus three which should be negative four which is equal to three fourths. So if this condition wasn't here, you can just evaluate it straight up and this is a pretty plain vanilla function. Wouldn't expect to see
+anything crazy happening here. And if I can just evaluate
+it at x equals negative one I feel pretty good. I feel pretty good. So once again, we're
+now going in factoring. We're able to factor. We have valued, we simplify it. We evaluate the expression the simplified expression now, and now we were able to get a value. We were able to get three fourths, and so we can feel pretty
+good that the limit here in this situation is three fourths. Now, let's and I would categorize what we've seen so far is the bulk of the limit exercises that you will likely encounter. Now the next two, I would call slightly fancier techniques. So if you get indeterminate form especially you'll sometimes
+see it with radical expressions like this. Rational radical expressions. You might want to multiply by conjugate. So for example, in this
+situation right here, if you just try to
+evaluate it x equals four, you get the square root of four minus two over four minus four which is zero over zero. So it's that indeterminate form. And the technique here,
+because we're seeing this radical and a rational expression let's say, maybe we can
+somehow get rid of that radical or simplify it somehow. So let me rewrite. Square root of x minus two over x minus four. Let's say a conjugate, let's multiply it by the
+square root of x plus two over the square root of x plus two. Once again, it's the same expression
+over the same expression. So I'm not fundamentally
+changing its value. And so this is going to be equal to, well if I have a plus b times a minus b I'm gonna get a difference of squares. So it's gonna be square root of x squared which is, it's going to be square root of x squared minus four over well square root of x squared is just going to be x minus four. So let me rewrite it that way. So that's x minus four over x minus four times square root of x plus two, square root of x plus two. Well, this was useful because now I can cancel out x equals four or x minus four right over here. And once again, if I wanted it mathematically to be the
+exact same expression, I'd say well, now this
+is going to be equal to one one over the square root of x plus two for x does not equal four, but we can definitely see what this function is approaching if we just now substitute x equals four into this simplified expression. And so, that's just gonna be one over so if we just substitute if we just substitute x equals four here you'd get one over square root of four plus two which is equal to one fourth. And once again, you can feel pretty good that this is going to be your limit. We've gone back into the green zone. If you're actually to plot this original function, you would have a point discontinuity. You would have a gap at x equals four but then when you do that simplification and factoring out that x minus or canceling out that x minus four, that gap would disappear. So that's essentially what you're doing. You're trying to find
+the limit as we approach that gap which we got right there. Now, this final one. This is dealing with trig identities. And in order to do these, you have to be pretty adept
+at your trig identities. So if we're saying the limit, I'll do that at a darker color. So if we're saying the limit as x approaches zero of sine of x over sine of two x well, sine of zero zero, sine of zero zero, you're gonna be at zero, zero. Once you get indeterminate form, we fall into this category, and now you might recognize
+this is going to be equal to the limit as x approaches zero of sine of x we can rewrite sine of two x as two sine x cosine x and then those two can
+cancel out for all x's not equaling for all x's not equaling zero if you want to be really
+mathematically precise. And so, there would've
+been a gap there for sure on the original graph if you were to graph y equals this. But now, for the limit purposes, you can say this is this limit is this limit is going to be the limit as x approaches zero of one over two cosine of x. And now we can go back to this green condition right over here, because we can evaluate
+this at x equals zero. It's going to be one over
+two times cosine of zero. Cosine of zero is one. So this is going to be equal to one half. Now in general, none of
+these techniques work, and you will encounter
+few other techniques further on once you learn more calculus, then you fall on the base line. Approximation. And approximation, you
+can do it numerically. Try values really really really close to the number you're trying
+to find the limit on. If you're trying to find the
+limit as x approaches zero try 0.00000000001. Try negative 0.0000001 if you're trying to find the
+limit is x approaches four try 4.0000001. Try 3.9999999999 and see what happens. But that's kind of the last ditch. The last ditch effort.

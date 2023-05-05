@@ -1,0 +1,164 @@
+The government has said a lot
+about the fact that this $700 billion might not just be a
+blank check, that we're actually buying assets. And, who knows, maybe
+we'll even make a profit on the assets. And I've hinted and other people
+have hinted that, well, that's very unlikely because
+these assets, they're probably not worth what the government's going to pay for it. And one could argue that even
+some of these are worth 0. And I've gotten some letters and
+I've heard other people on the news actually say, well,
+how could they be worth 0? They're backed by mortgages,
+which are backed by houses, which are the collateral. That's where the collateral
+comes from, the collateralized debt obligations. So in this video I'm going to
+do, hopefully, a reasonably straightforward example to show
+you why some of these collateralized debt obligations
+could be worth very little or maybe
+even nothing. So let's do something simple. Let's not talk in terms of
+millions of homes, let's talk in terms of 10 homes. Let's say I were to create
+a very small mortgage-backed security. Essentially, I give
+out 10 mortgages. Right? Let's say each mortgage
+is $1 million. Let's say that's 10 times
+1 million more. 10 times $1 million. And the people who I give those
+mortgages to buy ten $1 million houses. Right? So, I create a corporation, a
+special purpose entity, for the sake of this mortgage-backed
+security for constructing these
+collateralized debt obligations. That's my company I create,
+the balance sheet of it. What are the assets? Well, I have 10 mortgages times
+a million so I have $10 million in loans, essentially,
+$10 million in mortgages. And they're collateralized
+or they're backed by the underlying houses that these
+mortgages were used to buy. $10 million in mortgages,
+$10 million more, right? Now, how is this special purpose
+entity-- we'll call it an S.P.E.-- how is this S.P.E. funded? Well, it's essentially funded
+by the people who are buying the collateralized
+debt obligations. And collateralized debt
+obligations are essentially just debt that is used to
+fund these mortgages. And what's interesting about
+a collateralized debt obligation-- see in a
+mortgage-backed security, I would have just given these
+$10 million mortgages and then, in this corporation, I
+would have just issued a thousand shares. And so each share would hold
+1/1000 of this value, right? That's a mortgage-backed
+security. But in a collateralized
+debt obligation, I split it into buckets. So what I do is, let's say
+I borrow three tranches. Just call that buckets. So I go to some people and I
+borrow, I don't know, of that $10 million that I said you lent
+out, I borrow-- I don't know-- let me say-- I'll make
+up a number-- $5 million. %5 million from these people,
+and these are the senior debt holders. So essentially, both this debt
+holder and this debt holder has to get wiped out before
+this guy gets impaired. Impaired just means that
+you get less money than you lent, right? So I borrow $5 million from
+somebody else and I'm going to pay them the lowest interest
+rate because this is the safest bucket. So think of it this way: let's
+say these 10 mortgages, let's say that I'm getting 8%. And let's say that I'm paying,
+let me draw, they're giving me $5 million. Let's say that I'll
+pay these guys 5%. And why are they willing to take
+a lower interest rate? Because essentially any default
+on this side will hit these two buckets before
+it hits these people. So this'll be an arguably very
+safe debt instrument. And I'll do more about
+that in a second. And let's say I borrow
+another $4 million from some other people. So they gave me $4 million. I have to pay a little bit
+higher interest to them. I have to pay 6% interest
+to them, right? And then, finally, I borrow
+another $1 million. I borrow $1 million from people
+who are willing to take the biggest risk. So if there's any defaults over
+here, these people are going to be wiped out before
+these people get touched. And actually, we can figure out
+the appropriate amount of interest, right? How much money is coming in per
+month before anyone starts defaulting? Let's see, I'm getting $800,000
+in per month. That's the inflow. And then on the outflow, I have
+to pay these people 5 million times 5%. That's $250,000. So that's how much I'm paying
+to that tranche. $250,000. And then four times 6%. That's $240,000, minus 240. So that's what, 800 minus 490. So then I have 310,000
+left, right? So I can essentially pay
+this $310,000 per year to this tranche. So they're going to actually get
+a 31% interest. And that sounds great. That's why they call that the
+equity tranche normally in a CDO because those people
+get a lot of upside. But guess what: if there's any
+default, these people get wiped out first. And just to
+make this example clear, let's do it very simply because you
+could model this out and assume some type of prepayment
+et cetera, et cetera. Let me scratch this
+out right here. Let's say that one year out,
+half of the mortgages, I don't know, the people refinance or
+they move or they sell their house or whatever. So they just prepay
+the mortgage. So let's say in one year. Let me redraw this balance
+sheet in one year. So in one year, let's say five
+of those borrowers-- so this is a year later. Magenta is my color
+for a year later. A year later, half of those
+borrowers just refinance or they sell their house. And so they just pay us back
+$5 million, right? So we get $5 million. I'll put that on the
+asset side of the balance sheet, right? This is assets. There's a bunch of videos on
+assets and liabilities and balance sheets if this
+confuses you. And there's no equity in
+this company, right? Because assets minus liability
+is equity. And I did that because these are
+special purpose entities. Their whole purpose is to
+structure these securities. Their purpose really isn't to
+be an ongoing operation that has net income in and of
+itself, although there probably was equity in the
+bank who constructed this probably took at all. OK, so we said half the
+people refinance. Those people were great. They were worth giving the money
+to because they paid off their loans in whole. But guess what? The other half of the people,
+the title of subprime was deserving of them,
+and they default. And we have to foreclose on
+them a year later, right? But all is not lost, right? We don't lose that $5 million
+that we lent those other 5 million people because they
+had homes, right? These are collateralized
+debt obligations. We are able to take
+their houses. Unfortunately, it's a really
+weak real estate market and let's say, just for the sake
+of argument, we take those five houses from the people
+who didn't pay, right? Five paid, five didn't pay. We take the five who
+didn't pay houses. And let's say, when we sell
+them, let's say we're only able to get, I don't know, 60%
+on those houses, right? So 60% of $5 million. We're essentially only able to
+get $3 million for the houses we've foreclosed on. So a year later, what are
+all of our assets? We get the $5 million in cash
+from the people who are good and paid off their mortgages. And then we get the $3 million
+from the people who foreclosed. And then we only got 60% of
+the original purchase price of the homes. We only got that on
+the foreclosure. That makes sense because
+credit's getting tighter, and it's a tough mortgage market,
+and all these houses were in South Florida or Las
+Vegas or whatever. But what happens now? There's really no purpose for
+this entity to even exist anymore because everyone's
+paid off. There's no income streams
+coming in or out. So essentially we will just
+dissolve the corporation and give everyone what
+they're due. Well, this guy, he gets first
+dibs on it, right? He took the lowest interest rate
+in exchange for having the lowest risk. So that guy right there, I'll
+draw him in green because he's good to go. This tranche right here, he
+gets a full $5 million. That's great. He got 5% interest and he got
+all of his money back. Sounds great. The CDOs look safe so far. But what about this next
+tranche, this $4 million guy. He didn't do so good, right? The $4 million guy, that's what
+he was owed, that's what he essentially lent the special
+purpose entity. This $4 million tranche
+of CDOs. He's owed $4 million,
+but guess what? After you pay this guy $5
+million, there's only $3 million left. So this guy only gets
+$3 million. So for every $4 he lent,
+he only gets $3. So this guy gets $0.75
+on the dollar. That's a seven, right there. I write my sevens
+like a European. But what happens to that equity tranche, this guy up here? This $1 million, right? He thought he was a genius. He lent this money and he was
+getting a 31% interest. Sounded good and, frankly, the
+bank probably wasn't able to unload this to anyone because
+pension funds and a lot of these foreign governments,
+they only buy the safer assets, right? So this is the stuff that's
+probably sitting on a lot of these investment bank
+balance sheets. These are the smelly, toxic,
+stinky assets that people are talking about. And guess what? There's nothing left to pay this
+$1 million to this guy. You pay $5 to this guy. This guy only got $0.75
+on the dollar, right? He was impaired by
+$1 million here. And then this last tranche
+up here: he gets nothing. So the question is: these CDOs
+that are on banks's balance sheets, are they these CDOs? Are they a share in that tranche
+of debt, in which case, they're very safe. But I would argue in which case
+the banks probably aren't looking to unload them as
+quickly, or they can probably find buyers. Are they this tranche, in which
+case maybe they're worth $0.75, but you know even at
+$0.75, you're just going to break even? Maybe they're worth, at $0.60
+on the dollar, maybe they're a good deal. Or are they this stuff? And if they're this stuff,
+then they really, really, really are worth nothing,
+at least in the example I just gave.

@@ -1,0 +1,16 @@
+- What's the difference
+between motion and life? What's the difference
+between this mechanical smile and this friendly smile? It's a little harder to find, but there's just something about the way a living being moves. And we work incredibly hard to capture with our characters here at Pixar and that something start with a stage we call rigging. Hi, I'm Brian Green, a Rigging Technical
+Director here at Pixar. Rigging is a process of adding controls to a digital model to allow animators to
+move it around and act. When you look at the way
+a living being moves, every motion they make causes a reaction in every other part of their body. For instance, when I smile, it's not just my lips have moved, my cheeks bulge, the skin around my eyes crinkle. My chin stretches out to
+accommodate the emotion. We call this defamation and displacement. Arrlalalala. In rigging, we have a toolbox of hundreds of different deformers and we can attach to the surface mesh of our characters. All of them represent
+mathematical formulas that define a relationship
+between the many points that are affected by the motion. For instance, I can start
+rigging Sully's mouth by adding a simple
+deformer called a rotate. The underlying math here is trigonometry. I'm going to add another
+tool called a repulsor. This basically puffs things in and out. Add this to the cheeks, and link them. And then when we move his jaw, his cheeks bulges. That's better, but it's still just the beginning. Sully's face alone uses over 500 deformers and that's just his face. We can take a similar approach to rigging the characters' bodies too. Adding deformers that
+define a relationship between the knees and the calf, the tail and the rump, or this tentacle and that tentacle. After we got the physiology right, we need to remember that these characters are film actors. So the kind of motion
+that they may need to make might be a little more extreme
+than a regular monster. So we push it a little, gives them extra life so they can be extra
+exciting on the screen.

@@ -1,0 +1,151 @@
+I've been requested to do a
+video on the cross product, and its special circumstances,
+because I was at the point on the physics playlist where I had
+to teach magnetism anyway, so this is as good a time as any
+to introduce the notion of the cross product. So what's the cross product? Well, we know about vector
+addition, vector subtraction, but what happens when you
+multiply vectors? And there's actually two ways to
+do it: with the dot product or the cross product. And just keep in mind these
+are-- well, really, every operation we've learned is
+defined by human beings for some other purpose, and there's
+nothing different about the cross product. I take the time to say that
+here because the cross product, at least when I first
+learned it, seemed a little bit unnatural. Anyway, enough talk. Let me show you what it is. So the cross product of two
+vectors: Let's say I have vector a cross vector b, and the
+notation is literally like the times sign that you knew
+before you started taking algebra and using dots and
+parentheses, so it's literally just an x. So the cross product of vectors
+a and b is equal to-- and this is going to seem very
+bizarre at first, but hopefully, we can get a little
+bit of a visual feel of what this means. It equals the magnitude of
+vector a times the magnitude of vector b times the sine of
+the angle between them, the smallest angle between them. And now, this is the kicker, and
+this quantity is not going to be just a scalar quantity. It's not just going
+to have magnitude. It actually has direction, and
+that direction we specify by the vector n, the
+unit vector n. We could put a little
+cap on it to show that it's a unit vector. There are a couple of things
+that are special about this direction that's
+specified by n. One, n is perpendicular to
+both of these vectors. It is orthogonal to both of
+these vectors, so we'll think about it in a second
+what that implies about it just visually. And then the other thing is the
+direction of this vector is defined by the right
+hand rule, and we'll see that in a second. So let's try to think
+about this visually. And I have to give you an
+important caveat: You can only take a cross product when
+we are dealing in three dimensions. A cross product really has--
+maybe you could define a use for it in other dimensions or a
+way to take a cross product in other dimensions, but it
+really only has a use in three dimensions, and that's useful,
+because we live in a three-dimensional world. So let's see. Let's take some cross
+products. I think when you see it
+visually, it will make a little bit more sense,
+especially once you get used to the right hand rule. So let's say that
+that's vector b. I don't have to draw a
+straight line, but it doesn't hurt to. I don't have to draw
+it neatly. OK, here we go. Let's say that that is vector
+a, and we want to take the cross product of them. This is vector a. This is b. I'll probably just switch to one
+color because it's hard to keep switching between them. And then the angle between
+them is theta. Now, let's say the length of a
+is-- I don't know, let's say magnitude of a is equal to
+5, and let's say that the magnitude of b is equal to 10. It looks about double that. I'm just making up the
+numbers on the fly. So what's the cross product? Well, the magnitude
+part is easy. Let's say this angle is
+equal to 30 degrees. 30 degrees, or if we wanted
+to write it in radians, I always-- just because we grow
+up in a world of degrees, I always find it easier to
+visualize degrees, but we could think about it in terms
+of radians as well. 30 degrees is-- let's see,
+there's 3, 6-- it's pi over 6, so we could also write
+pi over 6 radians. But anyway, this is a 30-degree
+angle, so what will be a cross b? a cross b is going to equal
+the magnitude of a for the length of this vector, so it's
+going to be equal to 5 times the length of this b vector, so
+times 10, times the sine of the angle between them. And, of course, you
+could've taken the larger, the obtuse angle. You could have said this was the
+angle between them, but I said earlier that it was the
+smaller, the acute, angle between them up to 90 degrees. This is going to be sine of 30
+degrees times this vector n. And it's a unit vector, so I'll
+go over what direction it's actually pointing
+in a second. Let's just figure out
+its magnitude. So this is equal to 50, and
+what's sine of 30 degrees? Sine of 30 degrees is 1/2. You could type it in your
+calculator if you're not sure. So it's 5 times 10 times 1/2
+times the unit vector, so that equals 25 times the
+unit vector. Now, this is where it gets,
+depending on your point of view, either interesting
+or confusing. So what direction is this
+unit vector pointing in? So what I said earlier is, it's perpendicular to both of these. So how can something be perpendicular to both of these? It seems like I can't
+draw one. Well, that's because right here,
+where I drew a and b, I'm operating in
+two dimensions. But if I have a third dimension,
+if I could go in or out of my writing pad or, from
+your point of view, your screen, then I have a vector
+that is perpendicular to both. So imagine of vector that's-- I
+wish I could draw it-- that is literally going straight in
+at this point or straight out at this point. Hopefully, you're seeing it. Let me show you the
+notation for that. So if I draw a vector like this,
+if I draw a circle with an x in it like that, that is a
+vector that's going into the page or into the screen. And if I draw this, that is a
+vector that's popping out of the screen. And where does that convention
+come from? It's from an arrowhead,
+because what does an arrow look like? An arrow, which is our
+convention for drawing vectors, looks something like
+this: The tip of an arrow is circular and it comes to a
+point, so that's the tip, if you look at it head-on, if it
+was popping out of the video. And what does the tail of
+an arrow look like? It has fins, right? There would be one fin here
+and there'd be another fin right there. And so if you took this arrow
+and you were to go into the page and just see the back of
+the arrow or the behind of the arrow, it would look
+like that. So this is a vector that's going
+into the page and this is a vector that's going
+out of the page. So we know that n is
+perpendicular to both a and b, and so the only way you can
+get a vector that's perpendicular to both of these,
+it essentially has to be perpendicular, or normal,
+or orthogonal to the plane that's your computer screen. But how do we know if it's going
+into the screen or how do we know if it's coming out of
+the screen, this vector n? And this is where the right hand
+rule-- I know this is a little bit overwhelming. We'll do a bunch of example
+problems. But the right hand rule, what you do is you take
+your right hand-- that's why it's called the right hand
+rule-- and you take your index finger and you point it in the
+direction of the first vector in your cross product,
+and order matters. So let's do that. So you have to take your finger
+and put it in the direction of the first arrow,
+which is a, and then you have to take your middle finger and
+point it in that direction of the second arrow, b. So in this case, your
+hand would look something like this. I'm going to try to draw it. This is pushing the abilities
+of my art skills. So that's my right hand. My thumb is going to be
+coming down, right? That is my right hand
+that I drew. This is my index finger, and
+I'm pointing it in the direction of a. Maybe it goes a little bit more
+in this direction, right? Then I put my middle finger, and
+I kind of make an L with it, or you could kind of say
+it almost looks like you're shooting a gun. And I point that in the
+direction of b, and then whichever direction that your
+thumb faces in, so in this case, your thumb is going
+into the page, right? Your thumb would be going down
+if you took your right hand into this configuration. So that tells us that the vector
+n points into the page. So the vector n has magnitude
+25, and it points into the page, so we could draw it
+like that with an x. If I were to attempt to draw
+it in three dimensions, it would look something
+like this. Vector a. Let me see if I can give
+some perspective. If this was straight down, if
+that's vector n, then a could look something like that. Let me draw it in the
+same color as a. a could look something like
+that, and then b would look something like that. I'm trying to draw a
+three-dimensional figure on two dimensions, so it might look
+a little different, but I think you get the point. Here I drew a and
+b on the plane. Here I have perspective
+where I was able to draw n going down. But this is the definition
+of a cross product. Now, I'm going to leave it
+there, just because for some reason, YouTube hasn't been
+letting me go over the limit as much, and I will do another
+video where I do several problems, and actually, in the
+process, I'm going to explain a little bit about magnetism. And we'll take the cross product
+of several things, and hopefully, you'll get a little
+bit better intuition. See you soon.

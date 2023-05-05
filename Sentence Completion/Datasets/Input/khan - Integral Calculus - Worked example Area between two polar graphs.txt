@@ -1,0 +1,62 @@
+- [Voiceover] We have
+two polar graphs here, r is equal to 3 sine
+theta and r is equal to 3 cosine theta and what we want to do is find this area shaded in blue. That's kind of the overlap
+of these two circles. So I encourage you to pause the video and give it a go. All right so I assume
+you've tried and what's interesting here is we're clearly bounded by two different polar graphs. And it looks like they
+intersect right over here. If we eyeball it, it looks
+like they're intersecting at when theta is equal to pi over four, and we can verify that. Cosine of pi over four
+is the same thing as sine of pi over four so it is
+indeed the case that these two things are going to be
+equal to each other. Their point of intersection happens at theta is equal to pi over four. And if that wasn't as
+obvious, you'd set these two equal to each other
+and figure out the thetas where this actually happened, but here it jumps out at you a little more. So this is theta is equal to pi over four. And so the key is to
+realize is that for theta being between zero and pi
+over four we're bounded by the red circle, we're
+bounded by r is equal to 3 sine theta and then
+as we go from pi over four to pi over two we're
+bounded by the black circle, we're bounded by r is
+equal to 3 cosine theta. So we can just break up our
+area into those two regions. So this first area right
+over here we already know is going to be one half
+times the definite integral from zero to pi over four
+of, what are we bounded by, 3 sine of theta and we're gonna
+square that thing d theta. That's the orange region
+and then this, I guess you could say this blue
+region right over here is going to be one half times
+the definite integral and now we're going to go from
+pi over four to pi over two of 3 cosine theta squared d theta. That's this region right over here. Now one thing that might jump out to you is that they're going to be the same area. These two circles they are
+symmetric around this line. Theta is equal to pi over four. So these are going to be the same area. So one thing that we
+could do is just solve for one of these and then
+double it and we will get the total region that we care about. So the total area, and you can verify that for yourself if you like, but I'm just going to say
+the total area, I'm just going to double this right over here. So the total area if I just double this, just the orange expression,
+I'm going to get the definite integral from
+zero to pi over four of... nine, three squared is nine
+sine squared theta d theta. And you could evaluate this by hand, you could evaluate this by calculator, let's evaluate this analytically. So sine square theta is
+the same thing as one half times one minus cosine of two theta. That's a trigonometric
+identity that we've seen a lot in trigonometry class, actually let me just write it up here. So sine square theta is
+equal to one half times one minus cosine of two theta. So if we replace this
+with this it's going to be equal to, let's take the one half out, so we're going to get
+nine halves times the definite integral from
+zero to pi over four of one minus cosine two theta d theta. And so this is going to
+be equal to nine halves antiderivative of one
+is theta and let's see cosine two theta, it's
+going to be negative sine of two theta, negative
+sine of two theta over two. Actually let me just, negative one half sine of two theta. And you could do u substitution
+and do it like this, but this you might be
+able to do in your head. And you can verify the
+derivative of sine two theta is going to be two cosine
+of two theta and then you multiply it times
+the negative one half, you just get a negative
+one right over there. And so then we are going to evaluate this at pi over four and at zero. So if you evaluate it
+at, well luckily if you evaluate this thing at
+zero this whole thing is going to be zero so we really just have to evaluate it at pi over four. So this is going to be
+equal to nine halves times pi over four minus one
+half sine of two times pi over four is pi over
+two, sine of pi over two. Sine of pi over two we
+already know is one, so it is really pi over
+four, so this right over here is just going to be equal to one. So this is going to be nine halves times, we could say pi over
+four minus one half or we could say pi over
+four minus two over four. So we could write it like
+that or we could multiply everything out or we could
+say this is going to be equal to nine pi minus 18
+over eight and we are done.

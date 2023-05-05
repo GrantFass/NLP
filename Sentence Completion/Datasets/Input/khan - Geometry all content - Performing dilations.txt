@@ -1,0 +1,39 @@
+Perform a dilation on
+the coordinate plane. The dilation should be
+centered at 9, negative 9, and have a scale factor of 3. So we get our dilation tool out. We'll center it-- actually, so
+it's already actually centered at 9, negative 9. We could put this
+wherever we want, but let's center it
+at 9, negative 9. And we want to
+scale this up by 3. So one way to think about it
+is, pick any of these points right over here, and they're
+going to have to get 3 times further away from our
+center of dilation. So for example, this
+point C-- actually let's think about these
+points where they actually want us to fill something in. So point A right over here, it
+is at the point 4, negative 3. So in the x direction,
+it is 5 less than 9. We want it to be 3
+times further than 9. So we want it to
+be 15 less than 9. So we want the x-coordinate of
+A, 9 minus 15 is negative 6. We want it to go to negative 6. And likewise, we want its
+y-coordinate to be 3 times further. So right now, let's
+see, it is at negative 3 relative to negative 9, so it
+is 6 more on the y direction. We want it to be 18 more. 18 more than negative
+9 would be positive 9. So point A should map
+to negative 6 comma 9. And that should give
+us enough information to just make sure that we are
+dilating up by a factor of 3. So let's see. Let's dilate up
+by a factor of 3. So we want to get the image of
+point A to the point negative 6 comma 9. So we are there. There we go. We have dilated it up. And then we could
+even look where the point that corresponds
+to E has mapped to. And you can look at each
+direction, it's 3 times further. E is now at negative
+6 comma negative 3. The images of point A
+and E are 3 times as far as the original points. 3 times far apart, I should
+say, as the original points. And they're 3 times further
+from our center of dilation right over here. You see, for example, point
+E has the x-coordinate of 4, which is 5 less. Now it is at
+negative 6, which is 15 less than our
+center of dilation. And the same thing true,
+its y-coordinate is 2 more. And now after we mapped
+it, its y-coordinate is 6 more than our
+center of dilation. Got it right.

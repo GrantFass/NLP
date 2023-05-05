@@ -1,0 +1,46 @@
+Voiceover: In this video
+I want to clarify a little bit about why we calculate
+the percent changes when we're thinking about elasticity the way that we do. So just to remind ourselves, a little focus on price
+elasticity of demand, although we've been exposed to other types of elasticities already. Just as a review, price
+elasticity of demand, so the elasticity of demand, is defined as the percent
+change in quantity demanded over the percent change in price. So first I'll calculate
+it the conventional way, the way you would do it in a traditional microeconomics class. Then I'll calculate it the way that you would just based on how you would traditionally calculate percentages and we'll see why microeconomists like to do it the way that they do. First we'll talk about the "correct" way. I'll put it in quotes because correct is by definition really
+just by convention. But when we first think about
+the percent change in quantity, percent change in quantity
+and we're going to assume, we're going to calculate the elasticity of demand between point A over here, point A and point B over here. So what is our percent change in quantity? Well, our absolute change in quantity going from A to B we have increased by 2. So we have increased by 2. I'll write it down here. This is going to be 2 over and then this is kind of the slightly strange thing that we do when we
+calculate our percentages. We don't say 2 over 4. We say 2 over the average of 4 and 6. It's 2 over the average of our starting point and our ending point. The average of 4 and 6 is 5. So this is going to be ... We have a 40% change based on how we calculated the percentages in our quantity demanded, and then let's do our
+percent change in price. So this is all going to be over our percent change in price. Our absolute change in
+price is negative 1 dollar. Negative 1 dollar and
+then instead of doing it over our starting point over 2, we do it over the average
+of the 2, over 150. Negative 1 over 150 is
+negative two-thirds, or right about negative
+66.7% if we say roughly. So this right over here ... so based on how we calculated percentages, and I want to make it clear, this is kind of a strange way, when we do it over the midpoint of the starting and ending points, but we're saying that our percent change from A to B in quantity, so our percent change in quantity, this right over here we
+are saying it is 40%, and then we are saying that this percent change in price right over
+here is negative 66.7%. Now, the reason why this is valuable, and then obviously if you
+do the math right here, 40% over negative 66.7% percent, you're going to get some let's see you're going to get something. I think it's going to be in the 6s. Point 6 something but let's actually get a calculator out to calculate it. It would be 40 divided by 66.7 gives you, it's almost 60 so it's roughly point 60 if we were to round. This is approximately 0.60. It was 597 something. Actually I'll just leave
+it that way at point 60. Now, what's cool about this or what's useful about this, and this is the reason why
+we kind of mis-do it is, you would get the same answer whether you're going from A to B or whether you're going from B to A. This is the situation where
+we're going from A to B, but if we were to go from B to A, if we were to go from B to
+A it's the exact same thing. If we go from B to A what
+is our change in quantity? Our change in quantity is negative 2. It would be negative 2 over, now you wouldn't do it
+over your starting point. You do it over the average. This is why we will get the same value regardless of what direction we go in. We get the average of 4
+and 6 is going to be 5. That's going to be over. Now going from B to A what
+is our change in price? Our change in price is now plus 1. It is plus 1 over the
+average of our starting point and our ending point, over 150. Now these are the exact same quantities. Both are going to be a negative number. Here the negative is on the bottom. Here the negative is on top. Either way and actually
+this was a negative point 60 because you have a positive divided by a negative. This too when you evaluate it, is going to turn out to
+be the exact same thing. It's going to be negative 0.60. Now if you calculated percentages
+in the traditional way, you would not get the same value for the price elasticity of demand, whether you go from A to B and B to A. Just to show that to you, I will put this in quotation marks. It's not the "wrong"
+way to do it in general. In fact, this is how you would calculate price changes traditionally, but it's not how you do it in kind of a microeconomic sense. If you did the wrong way
+... If you said from A to B your absolute change in quantity
+is plus 2 and your base ... Remember this is the way
+that it's done outside of microeconomics. Your base is 4 and then
+your change in price, you went down 1 and your base, you started at A, so your base is 2. This is the way you do it
+outside of economics class. This would be equal to 50% plus 50% over negative 50%, over negative 50%. You essentially get negative 1. Going from A to B using a traditional way of calculating percent change. What happens if you go from B to A? What happens if you go from B to A? Now, all of the sudden, your
+change in quantity is negative 2. Your base is now ...
+the starting point is 6. Your starting point is 6. Then your change in price, once again you're increasing in price by 1 going from B to A, so this is plus 1. Your base is now 1. You will get, this is negative 33% roughly, that's negative a third, so 33.333, it keeps repeating over 100%. This will be equal to negative point 33. Notice when you calculate percentages in the traditional way, you get a different answer
+whether you're going from A to B or whether you're
+going from B to A. The whole reason why when
+we take the percentages, we take it over the average of our starting and our ending points, over the average of our
+starting and ending points. is so we get the same
+value for the elasticity of demand along this portion of the curve. You can really view it as the average elasticity of demand over
+this portion of the curve and if you calculate it this way, it doesn't matter whether you're going from A to B or B to A.

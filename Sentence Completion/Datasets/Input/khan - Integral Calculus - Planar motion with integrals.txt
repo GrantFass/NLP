@@ -1,0 +1,57 @@
+- [Instructor] A particle moving in the XY plane has velocity vector given by V of T is equal to
+all of this business, and so using this notation, it just means that the X component of
+velocity as a function of the time is one over T plus seven, and the Y component of velocity as a function of time is T to the fourth for time T greater than or equal to zero. At T equals one, the particle is at the point three comma four. So the first part is what is the magnitude of the displacement of the particle between time T equals
+one and T equals three? And then we need to
+figure out its position, and we need to round to the nearest 10th. So like always, pause this video, and I think you'll have
+to use a calculator, but pause this video and try
+to work through it on your own. So we've done questions
+like this in one dimension, but now we're doing it in two dimensions, but the key is is to just break it up into the component dimensions. So what we really want to do
+is let's find the displacement in the X direction, so
+really just the change in X, and then let's just find the displacement in the vertical direction
+or our change in Y, and then we can use those, essentially using the Pythagorean theorem, to find that the magnitude
+of the total displacement, and also, if we know the
+change in X and change in Y, we just add the change in X to the three, and we add the change in Y to the four to find the particle's position at time T equals three. So let's figure it out. So change in X from T equals
+one to T equals three, well, that's just gonna be the integral of the rate function in the X direction from time equal one to time equals three, so in the X direction, we
+have one over T plus seven. That's our X velocity
+as a function of time, one over T plus seven DT, and what is this going to be equal to? Well, you do might want
+to do u-substitution if you're unfamiliar,
+but you might recognize that the derivative of T
+plus seven is just one, so you could think of this as one times one over T plus seven, and so we really can just
+take the antiderivative then with respect to T plus seven, so you get the natural
+log of the absolute value of T plus seven, and we are going to evaluate that at three and then subtract from that. It evaluated at one, so this is going to be the natural log of the absolute value of 10, which is just the natural log of 10 minus the natural log of
+the absolute value of eight, which is just the natural log of eight, which is equal to the
+natural log of 10 over eight, just using our logarithm properties, which is equal to the natural log of 1.25, so I could get my calculator out in a second to calculate that. Actually, let's just... Well, I'll do that in a second, and then, let's figure
+out our change in Y. Our change in Y, once again, we're gonna take the
+integral from one to three. That's the time over which
+we're thinking about the change, and then what is the Y
+component of our velocity? Well, it's T to the fourth DT. Well, this is going to be... Take the reverse power rule
+T to the fifth over five at three and one, so this is three to the fifth
+over five is 243 over five minus one to the fifth
+over five minus 1/5, so this is equal to 242 over five, which is what, 48.4? 48.4. Now let me get my calculator out for this natural log of 1.25. 1.25, natural log, and we'll just round
+to two decimal places, approximately 0.22, so this is approximately 0.22. So I figured out our change
+in X and our change in Y, and actually, just from that, we can answer the second
+part of the question first. What is the particle's
+position at T equals three? Well, it's going to be our
+position at T equals one, where to each of the components we add the respective change, so we would add... So this would be three plus our change in X from T equals one to T equals three, and it would be four plus our change in Y. So this is going to be equal
+to three plus our change in X. Well, that's going to
+be approximately 3.22, and four plus our change
+in Y, that is, what, 52.4. This right over here is 52.4, but we still have to
+answer the first question. What is the magnitude of the displacement? Well, it's the Pythagorean theorem. I'll draw a very rough
+sketch of what's going on. Sometimes it's useful to visualize it. So our initial position
+is at three comma four, so three comma four, so we're right over there, and we figured out our
+change in X isn't much. So our change in X is a positives 0.22, so our change in X, we're
+barely moving in that direction, and our change in Y is 48.4, so we have a dramatic change. It really goes off the charts
+over here in that direction, but if we wanted to add them together, if we want to add those vectors together, you could shift over your
+change in Y right over here and then find the hypotenuse. The length of the hypotenuse
+would be the magnitude of the entire displacement, and so let's do that. So the magnitude of the displacement is
+going to be the square root of our change in X squared plus our change in Y squared once again. This is just the Pythagorean theorem, and what is this going to be? I'll get my calculator out again for this. Okay, that was our change in X. Let me square it, and then plus we are going to have 48.4, 8.4, squared is equal to this right over here, and then we take the square root of that, so this is going to be... See if we... Right over there, and there you go. The magnitude of our
+total displacement is 48, if we round to the nearest 10th, 48.4. So this is approximately 48.4, and we're done. Now, one thing that you might be noting is it looks like our total
+displacement, 48.4, is the same as our change in Y. Now, the reason why it
+came out this way is because our change in Y was exactly 48.4 while the magnitude of our displacement was
+slightly more than 48.4, but when we round to the
+nearest 10th, we got to 48.4. The reason why they are so
+close is because our change in X was so small. We're talking about
+0.22 as the change in X, and our change in Y was so much that our hypotenuse was
+only slightly longer than our change in Y, so
+that's why we got this result for this particular instance. In general, you're going
+to see the magnitude of the displacement is going to be larger than the magnitude of either our change in X or our change in Y alone.

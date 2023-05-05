@@ -1,0 +1,55 @@
+- [Instructor] Let's say we have a hypothetical reaction where reactant A turns into products. And let's say the reaction is second order with respect to A. If the reaction is second
+order with respect to A, then we can write the rate of the reaction is equal to the rate constant
+k times the concentration of A to the second power since this is a second order reaction. We can also write that
+the rate of the reaction is equal to the negative of the change in the concentration of A
+over the change in time. If we set these two
+ways of writing the rate of reaction equal to each other, and use of calculus, including the concept of integration, we will arrive at the integrated rate law for a second order reaction. The integrated rate law
+for a second order reaction says that one over the concentration of reactant A at some time t, is equal to the rate
+constant k times the time plus one over the initial
+concentration of A. Notice how the integrated rate law has the form of y is equal to mx plus b, which is the equation for a straight line. So if we graph one over
+the concentration of A on the y axis, and time on the x axis, so let's go ahead and put that in here, one over the concentration
+of A on the y axis, and time on the x axis, we
+will get a straight line and the slope of that line is equal to the rate constant k. So slope is equal to K and the y intercept is equal to one over the
+initial concentration of A. So the point where our
+line intersects the y axis is equal to one over the
+initial concentration of A. Let's look at an example
+of a second order reaction. C5H6 is cyclopentadiene, and two molecules of cyclopentadiene will
+react with each other to form dicyclopentadiene. Our goal is to use the
+data from this data table to prove that this
+reaction is second order. However, we have to be careful because in our balanced equation, we have a two as a coefficient in front of cyclopentadiene. Going back to our hypothetical reaction where reactant A turned into products, there's also one as a
+coefficient in front of the A. And if there's a one as a
+coefficient in front of the A, we can use this form of
+the integrated rate law for a second order reaction. However, for our problem, we have a two as a coefficient in
+front of cyclopentadiene. And that means we need to have a stoichiometric
+coefficient of 1/2 in here, and that changes the math. Now when we set these two
+rates of reactions equal to each other, and we use
+calculus and we integrate to get our integrated rate law, because of this one half, we end up with a two in front of the K. So thinking about y is equal to mx plus b, now the slope of the
+line is equal to two K. So now for our reaction, we can write our integrated rate law as one over the concentration
+of cyclopentadiene at some time t, is
+equal to two kt plus one over the initial concentration
+of cyclopentadiene. So if we look at our data table, we have time in seconds and
+we have the concentration of cyclopentadiene,
+but we need to have one over the concentration of cyclopentadiene so we need a new column. So we're going to calculate
+one over the concentration of cyclopentadiene. So if the concentration of cyclopentadiene when time is equal to zero
+seconds is 0.0400 molar, if we take one divided by 0.0400, we would get 25.0. To save some time I've gone ahead and filled in the rest of this column. Notice as time increases so
+as we go from zero seconds to 50 to 100 to 150 to 200, the concentration of
+cyclopentadiene decreases because cyclopentadiene is
+turning into dicyclopentadiene. Next, we need to graph our data. So we're gonna have one
+over the concentration of cyclopentadiene on the y axis and time on the x axis. Our first point, so when
+time is equal to zero, one over the concentration
+of cyclopentadiene is 25.0. So if we go down to our graph, we can see that when
+time is equal to zero, our first point here is 25.0. And plotting the other points
+gives us a straight line. Next, we need to find the
+slope of this straight line. And there are many ways to do that. One way to do it is to
+use a graphing calculator. And when I used a graphing calculator to find the slope of this line, I found that the slope is equal to 0.1634. Thinking about y is equal to mx plus b, our slope should be equal to two k. So to find the rate constant k, we need to divide the slope by two, which gives us 0.0817. To find the units for
+K, remember that slope is equal to change in y over change in x, and on our Y axis, our
+units are one over molar, and the x axis the units are seconds. So therefore, we can
+write the rate constant k is equal to 0.0817. It's to be one over
+molar divided by seconds which is the same thing as
+one over molar times seconds. It's important to point
+out that most textbooks don't cover how the two
+as a coefficient changes the integrated rate law. And so a lot of textbooks will simply say that the slope of the line for the second order integrated rate law, is equal to K. So a lot of books would
+just say the final answer for the rate constant is 0.163. So you'll see you'll see
+a lot of textbooks say that the rate constant would be 0.163, one over molar times seconds. However, since the coefficient in front of cyclopentadiene is a two, technically this rate
+constant is the correct one. Finally, since we got a straight line, when we graphed one over the concentration of cyclopentadiene versus time, we know that this reaction
+has second order kinetics.

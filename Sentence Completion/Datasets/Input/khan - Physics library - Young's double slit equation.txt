@@ -1,0 +1,73 @@
+- [Voiceover] Okay so that's all well and good, but we've got a problem. I told you these two slits
+are so close together, maybe micrometers or nanometers apart, that how are we going to measure? How are we going to physically measure the difference in path length? If I go over to this
+barrier, these two holes are gonna look like they're
+at the exact same spot. That's how close they are, so
+I need some way to determine the path length difference based on something I could measure. And that's where we're gonna
+have to play a trick here. We're gonna have to figure
+out a function for this path length difference
+based on what angle I am at. So the basic idea is this, so
+let me get rid of all this. And let me put it to you
+this way, so let's say I draw a reference line that goes straight through the center. This centerline is my friend. This is gonna let me measure angles here. So I've got this line here
+and let's say I wanted to measure to some point on
+the wall what angle am I at. This is how I'm going to measure the angle from the centerline to some
+point over here let's say. So my angle is going to be this, so this here would be my angle. And my question that I'm asking is based on this angle is there some way to determine the path length difference? That's the important thing here, how do I determine the path length difference. How is the path length
+difference related to this angle? The way we can do it is this. If this screen is far away,
+here's what I'm gonna do. I'm gonna draw a line from
+the center of this bottom slit to that point and I'm gonna draw a line from the center of
+this top slit to that point. And if this screen is far away,
+significantly further away than these two holes are
+spaced, which isn't too much of a problem because these holes are very close together, I
+can draw a third line and this third line's
+gonna look like this. Third line is gonna go
+from here down, cut through this at a right angle and
+if my screen's far away, what'll be true is that
+if this is a right angle right here, then the remainder
+of these paths will be equal. In other words, the path from here onward, from here forwards,
+will be the same length as the path from here forwards. So what would the path length be? The path length difference would just be this piece down here. Whatever is left this would
+be the path length difference. This is delta x in other words. So how do I find this? Well again, if I'm far
+away here this angle here will equal this angle inside of here. So these two angles are the same. So now that I know that these two angles are the same it's just basic trigonometry. I've got a right triangle in here and I'm gonna redraw it over here. I'll just draw you a right triangle. So my right triangle looks like this. I've got this distance
+between the holes, which is d. I'm gonna call that
+distance d, the distance between the two holes,
+center to center distance. And then I've got this other orange line. This represents that line I had to draw to make the right angle. And then I've got this path
+length difference this way. So this is my triangle and this is supposed to be a right angle. This side is delta x, the
+path length difference. The extra amount that
+wave from the bottom hole had to travel compared to
+the wave from the top hole. Well this is trigonometry,
+here's my right angle. I can just say if I want a
+relationship between these, I can say that sine of
+theta, because this is theta and that theta is the same
+as this theta over here. Sine of theta would be
+opposite over hypotenuse. And the opposite to this theta is delta x, so I have delta x over the
+hypotenuse in this case is d, this entire distance between the two holes because this side is the right angle. The hypotenuse never touches
+the right angle side. The hypotenuse is this other side. So that's over d, so what's
+the path length difference? The path length difference for a double slit is just d times sine of theta. So this is what I wanted. Now I know delta x is d sine theta. Now I can write the double slit formula. Let me get rid of this. The double slit formula looks like this. It says that M times
+lambda equals d sine theta. And why, well remember delta
+x for constructive points was integers times wavelengths, so zero, one wavelength, two wavelength and so on. And so in order to get
+constructive points d sine theta, which is the path length
+difference has to equal zero lambda, two lambda and this is the double slit formula,
+it looks like this. What does it give you? This M is gonna be zero,
+one, two and so on. The d is the distance between the two slits, that would be d. Theta is the angle from
+the centerline up to the point on the wall where you
+have a constructive point. And lambda is the wavelength, the distance between peaks of the wave. Now I mean theoretically
+speaking you could plug in one halves for M and that
+would give you the angles to the destructive points
+because we know the delta x, the path length difference,
+should just equal half lambdas to get to the destructive. So this can give you the
+angles to constructive points and destructive
+points if you plug in the correct M value, the
+order, sometimes this is called the order of
+the constructive point. This would be the zeroth order because the path length difference is zero. Sometimes this is called the first order because it is one wavelength difference. The next one might be
+called the second order because it's two wavelength difference. You might object though,
+you might still say "Wait this was no better because
+d is really close together. "This d spacing right
+here is extremely close. "We can't measure that well." But we can measure theta
+and we can know that wavelength of a laser we send in. And we can count which order
+we're at, so this is a quick way to figure out if you
+had something with two holes in it you could
+figure out how close they're separated even if you don't have a ruler that small, it's a quick way. Send some light in, you'll
+get a diffraction pattern like this, an interference pattern. You measure the angle,
+now I can figure out how close two holes are, two spacings. And you can do all kinds
+of experiments to precisely determine how close two
+holes are in some sort of crystal lattice or
+a molecular structure. And it's determined by
+Young's Double Slit Equation.

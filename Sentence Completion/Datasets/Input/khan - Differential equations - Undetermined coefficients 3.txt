@@ -1,0 +1,94 @@
+Let's do another example of
+solving a nonhomogeneous linear differential equation
+with a constant coefficient. And the left-hand side is going
+to be the same one that we've been doing. The second derivative of y
+minus 3 times the first derivative minus 4 times y is
+equal to-- and now instead of having an exponential function
+or a trigonometric functional, we'll just have a simple--
+well, it just looks an x squared term, but it's
+a polynomial. Right? And you know how to solve the
+general solution of the homogeneous equation
+if this were 0. So we're going to focus just
+now on the particular solution, then we can later
+add that to the general solution of a nonhomogeneous
+equation, to get the solution. So what's a good guess for
+a particular solution? Well, when we had exponentials,
+we guessed that our solution would be
+an exponential. When we had trigonometric
+functions, we guessed that our solution would be
+trigonomretric. So since we have a polynomial
+here that makes this differential equation
+nonhomogeneous, let's guess that a particular solution
+is a polynomial. And that makes sense. If you take a second-degree
+polynomial, take its derivatives and add and
+subtract, you should hopefully get another second-degree
+polynomial. So let's guess that it is Ax
+squared plus Bx plus C. And what would be a
+second derivative? Well a second derivative
+would be 2Ax plus B. Sorry, this is the
+first derivitive. The second derivative
+would be 2A. And now we can substitute back
+into the original equation. We get the second derivitive,
+2A minus 3 times the first derivitive. So minus 3A-- oh no, sorry. Minus 3 times this. So minus 6Ax minus 3B minus 4
+times the function itself. So minus 4Ax squared
+minus 4Bx minus 4C. That's just 4 times
+all of that. That's going to equal
+4x squared. And I'll just group our x
+squared, our x and our constant terms, and then we
+could try to solve for the coeficients. So let's see. I have one x squared
+term here. So it's minus 4Ax squared. And then what are my x terms? I have minus 6Ax minus 4Bx. So then say plus minus
+6A minus 4B times x. I just added the coefficients. And then finally we get
+our constant terms. 2A minus 3B minus 4C. And all of that will
+equal 4x squared. Now how do we solve
+for A, B, and C? Well, whatever the x squared
+coefficients add up on this side, it should equal 4. Whatever the x coefficients add
+up on this side, it should be equal to 0, right? Because you can view this
+as plus 0x, right? And then you could say plus
+0 constant as well. So the constants should
+also add up to 0. So let's do that. So first let's do the
+x squared term. So minus 4A should
+be equal to 4. And then that tells us that
+A is equal to minus 1. Fair enough. Now the x terms. Minus
+6A, minus 4B, that should be equal to 0. Right? So let's write that down. We know what A is, so
+let's substitute. So minus 6 times A, so minus
+6 times minus 1. So that's 6 minus 4B
+is equal to 0. So we get 4B-- I'm just putting
+4B on this side and then switching. 4B is equal to 6. And B is equal to-- 6
+divided by 4 is 3/2. And then finally the constant
+term should also equal 0, so let's solve for those. 2 times A, that's minus 2. Minus 3 times B. Well, that's minus
+3 times this. So minus 9/2 minus
+4C is equal to 0. So let's see. I don't want to make
+a careless mistake. So this is minus 4
+minus 9/2, right? That's minus 4/2 minus 9/2-- and
+we could take the 4C and put it on that side--
+it's equal to 4C. What's minus 4 minus 9? That's minus 13/2. Minus 13/2 is equal to 4C. 4C, divide both sides by 4, and
+then you get C is equal to minus 13/8. And I think I haven't made
+a careless mistake. So if I haven't, then
+our particular solution, we now know. Well, let me write the
+whole solution. So. And this is a nice stretch of
+horizontal real estate. So let's write our solution. Our solution is going to be
+equal to the particular solution, which is Ax squared,
+so that's minus 1x squared. Ax squared plus Bx plus 3/2x
+plus C minus 13/8. So this is the particular
+solution. We solved for A, B, and C. We determined the undetermined
+coefficient. And now if we want the general
+solution, we add to that the general solution of the
+homogeneous equation. What was that? y prime
+minus 3y prime minus 4y is equal to 0. And we've solved this
+multiple times. We know that the general
+solution to the homogeneous equation is C1e to the 4x plus
+C2e to the minus x, right? You just take the characteristic
+equation r squared minus 3r minus 4. What did you get? You get r minus 4 times r plus
+1, and then that's how you get minus 1 and 4. Anyway. So if this is the general
+solution to the homogeneous equation, this a particular
+solution to the nonhomogeneous equation. The general solution to the
+nonhomogeneous equation is going to be the sum
+of the two. So let's add that. So plus C1e to the 4x plus
+C2e to the minus x. So there you. I don't think that
+was too painful. The most painful part was just
+making sure that you don't make a careless mistake
+with the algebra. But using a fairly
+straightforward, really algebraic technique, we were
+able to get a fairly fancy solution to this second order
+linear nonhomogeneous differential equation with
+constant coefficients. See you in the next video.

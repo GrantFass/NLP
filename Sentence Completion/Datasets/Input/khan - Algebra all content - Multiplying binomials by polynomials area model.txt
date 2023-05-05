@@ -1,0 +1,58 @@
+- [Voiceover] What I
+wanna do in this video is figure out multiple
+ways to express the area of the entire large rectangle, which we see is made up of
+these six smaller rectangles. So there's a couple of
+ways that we can do it. One way is, we can just
+multiply the height of this big rectangle times the
+width of this big rectangle. So what's its height? Well, from here to here, that distance is going to be y squared, and then from there to there, that distance is going to be negative 6y. And I know what you're thinking. How can my distance be negative 6y? Isn't a distance always positive? Well, even negative 6y can be positive if y is negative, so it's completely reasonable to say, well, this distance could be negative 6y. So the entire height right
+over here is going to be, it's going to be y squared minus 6y. Or you could do it as y
+squared plus this distance, which is negative 6y, y
+squared plus negative 6y, which is the same thing
+as y squared minus 6y. So that's the height
+of this big rectangle. What's its width? Well, the width is going to be the width of this purple rectangle,
+it's going to be 3y squared, plus the width of this yellow rectangle, which is negative 2y, and that
+can have a negative out here, the same logic why this
+could have a negative, why the negative 6y could have a negative, and then plus the width of the blue rectangle. And so if you add them all together, the width of the entire rectangle is going to be 3y squared minus 2y, minus 2y plus one. And just like that, this
+expression that I just wrote down will give us the area for the entire, the area for the entire big rectangle. Now, there's another way to do it, and a big clue was that we
+subdivided the big rectangle into these six smaller rectangles, and we have the dimensions for
+the six smaller rectangles. And so we could find the
+area for each of these, and then we could add them all together. So let's look at this first one. Height times width. The area of this purple
+rectangle is gonna be the height, y squared, times the width, which is 3y squared, which is going to be equal
+to, it's gonna be three, and then y squared times y
+squared is y to the fourth power. What's the area of this yellow rectangle? Height is y squared. It's going to be y
+squared times the width, times negative 2y, which is going to give us
+negative 2y to the third power. What about the blue one? Well, height times width, it's
+gonna be y squared times one, which, of course, is just
+going to be equal to y squared. Now, this green one,
+it's gonna be the height, which is now negative 6y, times the width, which is 3y squared, which
+is going to be equal to, let's see, negative six
+times three is negative 18, and then y times y squared
+is y to the third power. Now, the area of this gray
+rectangle is gonna be the height, which is negative 6y, times the width, which is negative 2y, which gets us negative
+six times negative two is positive 12, y times y is y squared. And then finally the area of
+this rectangle right over here, it's gonna be the height,
+which is negative 6y, times the width, which is just one, which is equal to negative 6y. And so if we want the area
+of this entire rectangle, we can just add up the
+areas of the smaller ones, so it's going to be equal to the three, it's going to be equal
+to the 3y to the fourth, 3y to the fourth, plus negative 2y to the third power. Let me write this in a color
+that corresponds to that. Negative 2y to the third power, plus y squared, plus y squared, minus 18y to the third power, so minus 18y to the third power, plus 12y squared. Let's write that in black. So plus 12y squared, and then last but not
+least, we have the minus 6y, minus 6y. So this is an expression for
+the area of the entire thing, but we can simplify it more. So let's see, we only have
+one fourth degree term, so I'll just rewrite that. So we have one fourth degree term, so I'll just rewrite that. 3y to the fourth power. Now, how many third
+degree terms do we have? We have negative 2y to the third power. We have negative 18y to the third power. So if we add these two together, how many y to the third powers do we have? Well, negative two plus
+negative 18 is negative 20, negative 20y to the third power. And then how many second
+degree terms do we have? Well, we have one y
+squared right over here, and then we have another, 12y squareds. You add those together, you're
+gonna have 13y squareds. And then finally we still
+need to subtract the 6y. And there you have it, another expression for the
+area of the entire rectangle. And the whole point of
+doing this is to realize that this up here and this
+down here are equivalent, and that the way that we multiply
+this actually corresponds to exactly how we found the areas of the smaller rectangles right over here. You would say y squared times
+3y squared is 3y fourth. Y squared times negative 2y is negative 2y to the third power. Y squared times one is y squared, which is exactly what we
+did when we found the area of these rectangles in
+this, I guess you could say, in this top row. And then you would take the negative six, and you would say negative
+six times 3y squared is negative 18y to the third. Negative six times negative
+2y is positive 12y squared. Negative 6y times one is negative 6y. And just to realize that
+this isn't just some type of voodoo that we're doing. It completely makes sense
+when you think about in terms of an area model like this.

@@ -1,0 +1,56 @@
+- [Voiceover] We've already talked about how to write an equilibrium expression. So if we have some generic acid HA that donates a proton to H2O, H2O becomes H3O+ and HA turns into the conjugate base which is A minus. And so here's our equilibrium expression and the ionization constant
+Ka for a weak acid. We already talked about the fact that it's going to be less than one. So here we have three weak acids. Hydrofluoric acid,
+acetic acid and methanol. And over here are the Ka values. So, you can see that a hydrofluoric acid has the largest Ka value. Even though they're all
+considered to be weak acids, all right, 3.5 times
+10 to the negative four is larger than 1.8 times
+10 to the negative five. So hydrofluoric acid is
+stronger than acetic acid and acetic acid is stronger than methanol. But again, they're all
+considered to be weak acids relative to the stronger ones. So let's talk about pKa. The pKa is defined as the negative log of the Ka. So if we wanted to find
+the pKa for methanol all we have to do is take the Ka and take the negative log of it, so that pKa is equal to the negative log. Negative log of 2.9 times 10 to the negative 16. So let's get out the
+calculator and let's do that. Negative log of 2.9 times 10 to the negative 16. And this gives us 15.54
+when we round that. So the pKa of methanol, the pKa of methanol is equal to 15.54. We could write in a pKa column right here and for methanol it's 15.54. If you did the same
+calculation for acetic acid you would get 4.74. And once again, if you did
+this for hydrofluoric acid, you would get 3.46. As we go up on our table here, we're increasing in acid strength. So out of our three weak acids, hydrofluoric acid is the strongest so it has the largest value for a Ka but notice it has the
+smallest value for the pKa. So the lower the value for pKa, the more acidic your acid. So 3.46 is lower than 4.74 and so hydrofluoric acid is
+more acidic than acetic acid. The problem asks us to calculate the pH of a 1 molar solution of vinegar which is acetic acid in water. Let's start by writing
+our acid base reaction. We have acetic acid. So CH3COOH plus water and if acetic acid
+donates a proton to water, water would turn into
+H3O+, the hydronium ion and we would also get the acetate anion. CH3COO minus the conjugate
+base to acetic acid. So before we get to this problem, let's just pretend that
+we're starting with 100 molecules of acetic acid. So 100 molecules of acetic acid here and let's say none of them have reacted. This is before any reaction has occurred which means we don't
+have any of our products. We don't have any hydronium ions, we don't have any acetate anions. And acetic acid is a weak acid. If a strong acid would ionize 100%, so all 100 of those molecules pretty much would ionize. But since acetic acid is weak, let's pretend like only one of those acetic acid molecules
+donates a proton to water. So we're gonna lose one
+molecule of acetic acid and that's gonna turn
+into the acetate anion. So if we lose one molecule of acetic acid, we gain, all right, we
+gain one acetate anion. And therefore, if we protonate
+one molecule of water with that proton, we're going to gain one hydronium ion. So, we would say that we would have 99 molecules of acetic acid and then we have one hydronium ion and we would have one acetate anion. So that's the kind of thinking that we're going to
+apply to concentration. Next, we're gonna start with an initial concentration here. We're starting with a one
+molar solution of acetic acid so I can write here 1.00 as
+my initial concentration. And just like before,
+we're going to pretend like nothing has happened yet. So the concentration of hydronium is zero and the concentration of the
+acetate anion is also zero. So next we're gonna
+write a C here for change and let's define X as the concentration of acetic acid that reacts. So, if we have a concentration
+of acetic acid as being X, let me go ahead and
+I'll just write X here, that means we're gong to lose a certain concentration of acetic acid. And therefore, going to gain the same concentration
+of the acetate anion and we're going to therefore, gain the same concentration
+of the hydronium ion. So, when everything comes to equilibrium, so our equilibrium concentrations would be one minus X for the concentration of acetic acid and for the concentration of hydronium we would have X. And for the concentration
+of acetate anion, we would also have X. Now, let's write our
+equilibrium expressions. Let's get a little more room down here. Our equilibrium expressions. So Ka would be equal to
+concentration of hydronium ion. The concentration of hydronium ion times the concentration of acetate anion. And this is all over, all over the concentration of acetic acid and we leave water out. So all over the concentration
+of acetic acid here. All right, let's plug in what we know. So the equilibrium
+concentration of hydronium, that's X, right? So that's X. Let's go ahead and put that in here so we can put X in for
+concentration of hydronium. And concentration of the acetate anion, that's also X. That's the concentration
+of the acetate anion so I put in an X here too. All over the concentration of
+acetic acid at equilibrium. That's one minus X. So I put in here 1.00 minus X and this is equal to
+the Ka for acetic acid. So we have that on our table above. Let's go back up here to the table that we talked about earlier and here is the Ka for acetic acid. 1.8 times 10 to the negative five. So we plug that in, we plug that in here. Let's plug in 1.8 times
+10 to the negative five. Now, at this point you could solve for X but you need to use the quadratic formula. So let's make an assumption at this point and we're going to assume that X, our concentration is much, much smaller than one molar because that makes our
+life easier for the math. Because if X is much,
+much smaller than one, one minus X is approximately
+the same thing as one. So this is an extremely small number, subtracting it from one
+isn't gonna do anything. Isn't gonna do much of anything. We're gonna make this assumption and say that one minus X is equal to one and that just makes our lives easier. So now we have 1.8 times
+10 to the negative fifth is equal to X squared over one. So all we have to do now is solve for X. Let's get out the
+calculator here, turn it on. We just need to take the square root of 1.8 times 10 to the negative five. And so we get .0042. Let's go ahead and write that down here. Let's get some more room. And X is equal to 0.0042. And remember what X represents. X represents the concentration
+of hydronium ion. X here represents the concentration of hydronium ion at equilibrium. So this is equal to our
+concentration of hydronium ion and now we can calculate the ph which was the whole point of the problem. Let's calculate the pH of our solution. So the pH will be equal
+to the negative log of the concentration of hydronium. So the negative log of .0042 and we can use our calculator for that. Let's go ahead and take
+the negative log of .0042 and that's going to give us a pH of 2.38. Let me go ahead and write that. So our pH is 2.38. That is the pH of our vinegar solution.

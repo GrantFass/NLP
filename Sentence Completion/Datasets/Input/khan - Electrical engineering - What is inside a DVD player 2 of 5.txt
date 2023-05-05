@@ -1,0 +1,48 @@
+- [Instructor] So this is our switch mode power supply for the DVD player. Now, the switch mode power supply operates at a high frequency. Linear power supplies
+operate at lower frequencies. The key differences are that
+switch mode power supplies tend to be smaller in form factor. They produce more
+electromagnetic interference, so they have to have a lot more filtering, but they also operate
+with much more efficiency. They can change the amount
+of power they supply and they therefore are able to... They don't use near as much
+power as a linear power supply. So those are the main differences there. Now, if you look right here, you can see this is where the power
+comes in from the house. There's a fuse here and this
+fuse is to protect the house from any failure on the board. So if there's a failure,
+the fuse will fail. This safety capacitor is also designed to fail in the case of a short. And it's got all these
+markings on it for regulation. It's basically meant to fail, if there's a short on the board and protect the house,
+again, if there's a problem. The induction coils here,
+and this capacitor here, they're basically used to filter out noise from the power supply. The power supply, since it
+operates at a high frequency produces noise. And these prevent the
+noise from going back through to the house and causing
+other problems in the line. Now, if you look here, you
+can see these four diodes. Diodes prevent current
+flow in one direction. So they act like an electrical valve. So, the four diodes are set up there to act as a bridge rectifier. And they take the current that
+comes in, which is DC current or AC current, and they
+convert it to DC current. So I can show you really
+quickly right here. The power normally comes in like this. And that's an AC wave, sign wave. And we want the power to
+flow in a straight line, which is DC. So the AC, basically if
+you look at it it means the current's flowing in one direction, then it switches and flows in the other. So it's going like this. So we want to convert it to DC. So those four diodes, these four guys right here, convert it to DC by basically flipping the wave over like this. And then the power only
+flows in one direction. Which is a key aspect there. Let's look at some of
+the other components. We have this resistor right here. This resistor helps the
+board in current sensing. Then we have these two capacitors here. They are basically part of an electromagnetic interference filter. And they help to clean up
+the voltage for that purpose. This is the transformer. The transformer is a high
+frequency transformer. In order for a transformer to function, there has to be a change in the voltage. The way we make change in the
+voltage is we do what's called pulse width modulation. The voltage is going to
+be coming out like this. And then it's creating a square wave, what's called a square wave. This is direct current,
+DC. But it's being... So this is 100% power and this is zero... So it's being switched
+on and off very fast. That turning on and off allows for the induction to happen, which occurs inside of
+this transformer here. The transformer steps the
+voltage down from 120 volts to both 12 volts and five volts. That pulse width modulation,
+or that square wave is being regulated by
+this chip right here. This is the IC chip, that controls the PWM or pulse width modulation. You can see there are a
+number of resistors here. They're to protect the circuitry
+on the IC chip most likely. We've got some diodes as well, those control the flow of current. The opto-isolator is used
+to sample output voltage and regulate it during different, basically different load conditions. And this guy right here,
+it looks like a transistor but it is actually a shunt regulator, which basically functions
+like a zener diode, or a variable zener diode. A zener diode allows current
+to flow in one direction to a certain point and
+then above a certain point, it allows current to
+flow in both directions. So, this sort of functions
+like a variable zener diode. And I wanted to say
+thank you to Toom-Too-Pro who provided some awesome
+feedback on the first video, and taught me a lot about
+how regulated power supplies or switch-mode power supplies can work.

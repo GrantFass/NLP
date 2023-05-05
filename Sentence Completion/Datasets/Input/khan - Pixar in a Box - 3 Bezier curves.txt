@@ -1,0 +1,12 @@
+(light clicks) (jettison pod whooshes)
+(air ship whines) - You probably noticed that
+in order to get smooth motion, you ended up having to pose the ball in pretty much every frame. The computer's helping, but
+it's still a lot of work to get something that looks smooth. Instead of linear interpolation, we can use something called Bézier curves. If you've ever used design
+or drawing software, you've probably used Bézier
+curves without even knowing it. This is named after a French
+engineer, Pierre Bézier, who invented this method to describe the smooth curves needed
+when designing cars. These kinds of functions made up of Bézier curves are called splines. I also mentioned them in the first video. Bézier curves come with
+these handles that let us control the shape of the
+graph between our key poses. We get this nice curve that
+eases out of the first pose, and ramps down to the second one. If you look at how these values map, you can see something that looks
+just like our timing chart. Now you try it out. You should be able to get much smoother motion using Bézier curves. (ball smacks rhythmically)

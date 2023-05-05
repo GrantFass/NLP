@@ -1,0 +1,29 @@
+- [Instructor] There's
+some interesting patterns in binary numbers. And I find that by
+understanding these patterns, I have better intuitive understanding for what binary number I'm looking at. So let's look at a few
+patterns in this video. We'll start with odd numbers. The decimal number three is odd and in binary it's 0011. Then there's decimal five that's odd. And in binary that's 0101. Then seven, in binary that's 0111. Finally, nine, in binary is 1001. So do you noticed the pattern in these binary numbers here? I'll give you a hint if
+you're not seeing it. (instructor humming) All of these binary numbers end in a one. In fact, the only way
+to make an odd number in the binary number system is if it ends in a one. That's because the one is the ones place and every other place is a power of two. And odd number is a number
+that if you'd divide it by two, gives a remainder of one. So that means that we
+always have to have a one in that ones place to make an odd number. Now we should be able to
+look at any binary number and say if it's odd or even. Let's try that out for
+some very large numbers. Which one of these is odd? Well, let's just look at
+the ones place and see. Zero, zero, one, zero. Okay, this one is the odd one out. These other ones, they're all even. So even though I have no
+clue what these numbers are, I do know that this is the odd number. So now we have a little
+more of an intuitive understanding of binary numbers, but let's keep exploring
+and see what else there is. Another interesting pattern is when a binary number is all ones. So we can have one, we can have one, one we can have one, one, one, and we can have one, one, one, one. Lots of ones. So in decimal, this is the same as one for this first value. Three is one, one. Seven is one, one, one. And 15 is one, one, one, one. So what is special about
+these decimal numbers here? one, three, seven, and 15? It's probably not obvious at first, but each of these are actually
+a power of two minus one. So this one is the same as two minus one. Three is the same as four minus one. Seven is the same as eight minus one. And 15 is the same as 16 minus one. We can also write these in
+terms of their powers of two's. So this is two to the one minus one. Two to the two minus one. Two to the three minus one. And two to the four minus one. So whenever a binary number has one in all of its places, then it will always equal to largest number that can be represented
+by that number of bits. This is a lot like in the decimal system where there's nine, nine, nine, nine, nine, nine, and nine, nine, nine, nine. If we add one, we'd go over and this is a largest value that can be expressed in
+that number of digits. That's what we're looking at here. We can also write the number of bits that we're dealing with here. So the number of bits, this is one bit, this is two bits, this is three bits, and this is four bits. So we can see that for four bits, the highest number that can be represented is two to the fourth minus one. For three, it's two to the
+three minus one, et cetera. So that means if we know the
+number of bits that we have, we know the highest value
+that could be represented and we know that that high value will be a one in every place. So we can use that information to help us have a better understanding
+of binary numbers. So consider this binary number; 11111. What is this equal in decimal? Well, it's got one, two,
+three, four, five bits. So that means this must be
+two to the fifth minus one. Two to the fifth is the
+same as two times two times two times two times two, which is the same as 32, and then if we minus one, we get that this is 31. So without having to add these up, we find out what this is. Now we could have it
+done it the old way too. So let's see what this is. The one place, two place, four place, eight place, 16 place. And we can say 16 plus eight is 24, plus four is 28, plus two is 30, plus one is 31. So either way we do it, we get the same value. This just gives us another
+way of understanding binary numbers and having a
+better intuition for them.

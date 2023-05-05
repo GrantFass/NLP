@@ -1,0 +1,100 @@
+I've drawn an arbitrary
+triangle right over here, and I've also drawn its three
+medians: median EB, median FC, and median AD. And we know that where the three
+medians intersect at point G right over here, we
+call that the centroid. What I want to do in this
+video is prove to you that the centroid is exactly 2/3
+along the way of each median. Or another way to
+think about it, we can pick any one
+of these medians, and let's say let's pick EB. What I want to do
+is I want to prove that EG is equal to 2 times GB. So whatever distance this is
+it's twice this distance there. Or another way to
+think about it is EG is 2/3 along the way of EB. And the logic that I'm
+using to prove this you can use for any of
+the medians to show that the centroid is exactly
+2/3 along the way of any median, or divides it into
+a segment that's twice as long as
+the other segment. And to do that, let's focus--
+I want to focus on triangle ABE right over here. And I'm going to draw this
+median as essentially the base. So let me draw it that way. I'm going to try to
+color code it similarly. So we draw it a little
+bit flatter than that. So it's like that. And then we have the
+two yellow sides, so it looks something like this. It looks something like that. And then we have the
+centroid, right over here at G. That is our
+centroid, and then we have this magenta
+line going to A. Let me draw it a little
+bit neater than that. We have that line
+going to A, and then we have this blue line going
+to F right over here. And let me label all the points. Go back to the orange color. So this is going to be
+E, this is going to be B, this is going to be A, this is
+going to be F right over here. And just to make sure we have
+all the same markings, that little marking there is that
+marking, these two markings, these two markings are on
+this side right over there. And the whole way that I'm
+going to prove that EG is twice as long as GB is just
+refer to the result that we did, I think,
+a couple of videos ago that the medians divide
+this triangle into six smaller triangles that all
+have equal area. So another way to think about
+it is each of these three small triangles have equal area. These are three of the total
+of six smaller triangles. So these three all
+have equal area. So let's think about this
+triangle right over here. Let's think about this
+triangle, triangle AGB. This is triangle AGB
+right over there. Those are the same triangles. And let's compare that to
+triangle EAG right over here. Let's compare it
+to this triangle, which is this triangle
+right over here on the original drawing. Now, they both have
+the exact same height. If you view EG as their base--
+or I the guess their shared base, they don't have
+the exact same base. The smaller triangle
+has the base E-- sorry, the smaller orange triangle
+has GB as it's base. The larger blue triangle
+has EG as its base, but they definitely both have
+the same height, or altitude, when you draw it this way. So their height, in both
+cases, is this right over here. Now the other thing
+that we do know is that this blue
+triangle EAG has twice the area of
+the orange triangle. How do we know that? Because it's got two of
+these triangles in it. So one way to think about it
+is if this orange triangle has area x, actually let
+me call it a-- well I already used a, so I'm
+going to call it area x-- then each of these
+blue triangles have area x. Or you could say this entire
+blue region has area 2x. So if you look at this blue
+triangle right over here, we know that 1/2 times base
+times height is equal to area. So we get 1/2-- the base is EG. 1/2-- I'll do that
+in the green color-- 1/2 EG times height times
+this yellow height is going to be equal to 2x. I'm just applying the formula
+for area of a triangle. 1/2 base times height
+is equal to area. This is our area. Now, let's do the same thing
+for this orange triangle. 1/2-- let me scroll over a
+little bit to the right-- we have 1/2 GB times
+the yellow height is going to be equal to x. Well we can substitute it. If this is equal to x, we can
+place this entire expression right over here for x. So let's do that. We get 1/2-- and
+you might already see where this is going, but
+I won't skip any steps here-- we get 1/2 times EG times
+h is equal to 2 times x. But instead of x, I'm
+going to write this here. Is equal to 2 times 1/2
+times GB times this length-- times the base of the
+smaller triangle times h. And now we can
+just simplify this. We have 2 times 1/2
+is just going to be 1. You can divide both
+sides by h, and we are left with 1/2
+EG is equal to GB. Or we could write EG
+over 2 is equal to-- let me do it in the same
+color since I've gone this far with
+the same colors. So we can write 1/2
+EG is equal to GB. And we're done. This is essentially saying
+that GB is half of EG. So for example, if EG is
+2, this is going to be 1. If EG is 4, this
+is going to be 2. So we've actually
+proven our result. Well actually, let's
+go back to-- this is the result we
+wanted to prove. To get to there we just multiply
+both sides of this equation by 2. You multiply this, the
+left-hand side by 2, you get EG. You multiply the right-hand
+side by 2, you get GB. So we've proven that
+EG is twice GB . And you can apply the same
+logic to any of the medians to show that the
+centroid is exactly 2/3 along the way of the median.

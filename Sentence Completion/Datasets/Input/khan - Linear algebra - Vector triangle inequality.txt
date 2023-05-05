@@ -1,0 +1,244 @@
+In the last video, we showed
+you the Cauchy-Schwarz Inequality. I think it's worth rewriting
+because this is something that's going to show up a lot. It's a very useful tool. And that just told us if I have
+two vectors, x and y, they're both members of Rn. And they're both nonzero
+vectors. And that was an assumption we
+had to make when we did the proof, otherwise there was a
+potential of dividing by one of their magnitudes. So that would've been
+a big no-no. But if we assume that they're
+both nonzero, then we can say that the absolute value of their
+dot products is going to be less than or equal
+to the products of their individual lengths. So that's the length of vector x
+and we defined that a couple of videos ago. And then this is the
+length of vector y. And of course, this is just a
+regular number and then each of these are just
+regular numbers. They're not vectors once
+you take a length. The length of a 50 dimensional
+vector could just be the number 3. It's just a scalar value. So this is just scalar
+multiplication here. And we also learned that the
+only time that this inequality turns into an equality is the
+situation where x is equal to some scalar multiple of y. And so in some textbooks you'll
+say-- and this has to be a nonzero scalar multiple. But that's a bit obvious. I told you that x and
+y are nonzero. So if this was 0 then
+x would be 0. And we already said
+that x is not 0. But if you want to say there you
+could say that you know c also is going to be nonzero. But that essentially
+just falls out of this information there. But if this is the case and if
+and only if this is the case, then we can say that the
+absolute value of the dot product of the two vectors
+is equal to the product of their lengths. Now, this is all just
+a review of what I did in the last video. Now what else can we do
+that's useful with it? So let's just play around
+a little bit. I can't claim to be
+experimenting, I know where this is going to go. Let's see what happens
+if I were to take the length of x plus y. So I'm going to add the two
+vectors and then take the length of that vector squared. Well we know from a couple of
+videos ago that the length squared can also be rewritten as
+the dot product of a vector with itself. This right here, x
+plus y, I know it looks like two vectors. But it's two vectors added
+to each other. So it's really a vector. x
+plus y is a real vector. I could graph x plus y. So the length of x plus y
+squared, I can rewrite it as the dot product of that
+vector with itself. So x plus y dot x plus y. And all of these are vectors. These aren't just numbers. And this is the dot product. It's just not normal
+multiplication. But we saw two videos ago that
+the dot product has the distributive and the
+associative and the commutative properties just
+like regular scalar multiplication. So you can kind of FOIL this out
+if that's how you remember multiplying your binomials. Or I will think of it more as
+just doing the distributive property twice. So this can be rewritten
+as x dot x. Actually, let me write it as
+the distributive property because that's sometimes not
+obvious to a lot of people. So let me write this x as a
+yellow x and let me write this whole term as x plus y. So this right here can be
+rewritten as x dot-- so this x dot this x plus y. And then it would be plus
+this y dot-- I want to just switch colors. Plus this y dot x plus y. It's good to see that when
+you're multiplying these, you're just applying the
+distributive property. All I did is I distributed this
+term along each of these terms into sum right here. So then I got this. And then I can distribute each
+of these into the sum. So then this becomes-- I'll be
+careful with the colors-- x dot x plus x dot y. Maybe this was a little bit
+overkill, but I think it's good to see that this isn't
+just some magic here. And we're just using the exact
+properties that we proved with the dot product. So that's that right there. And then it's plus y dot x. Plus this yellow y
+dot the yellow x. Sorry, dot the blue y. So the magnitude or the length
+of our vector x plus y squared can be rewritten like this. And I'll just switch
+back to one color. So this equals that and all of
+that-- what does this equal? This is equal to x dot x. What's x dot x? x dot x is just the magnitude. So let me write this is just
+equal to the magnitude of our vector x. I should stop using the
+word magnitude. The length of our vector
+x squared. And then I have two
+terms here. I have an x dot y
+and a y dot x. We know that x dot y and y dot
+x are really the same thing. We showed that order doesn't
+matter when you take the dot product, just like it doesn't
+matter with regular multiplication. So these are really the same
+terms. So we could write plus 2 times x dot y. And then finally, we have that
+last term sitting here. We have this y dot y. y dot y is the same thing
+as the length of our vector y squared. Now, let's see if we can break
+out our Cauchy-Schwarz Inequality. Or maybe Schwarz, I don't know
+if I'm pronouncing it right. But x dot y. t We have the absolute value
+of x dot y here. But we know that just x dot y is
+going to be-- it has to be less than or equal to the
+absolute value of x dot y. Why is that? Well this could be negative. I could show you
+examples of dot products that are negative. In fact, if x has all positive
+terms and y has all negative terms, you're going to have
+a negative dot product. So this could be negative
+or it could be positive. If it's positive the absolute
+value-- their equal to each other. If this is negative, than this
+absolute value is definitely going to be greater than it. We can add to the Cauchy-Schwarz
+Inequality and this is a bit obvious. We could say look, we could add
+a little x dot y is less than or equal to the absolute
+value of x dot y. Which is less than or equal to
+the length of x times the length of y. So x dot y is definite-- this,
+the dot product of x with y is definitely less than it's
+absolute value of that. Which is definitely less than
+the lengths of those two multiplied. So if I rewrite this, this
+statement right here is definitely less than or equal
+to this exact statement. But if I replace these with the
+lengths of the vectors. So that is definitely less than
+or equal to-- I'm just rewriting this x squared and
+I'll write the plus 2 there. Plus 2. But I want to make it very clear
+what I'm replacing here. And then I have the
+plus length of my vector y there squared. Now this I'm saying, this is
+definitely less than the absolute value of x dot y. Which is definitely less, by the
+Cauchy-Schwarz Inequality, definitely less than the product
+of the two lengths. So I'm just replacing this
+with the product of their two lengths. So I'm going to put the length
+of x times the length of y. And since this is the
+same as that, this is the same as that. But this is definitely
+less than this. This whole term has to be less
+than this whole term. Now let me just remind you
+what we were doing. I said that this thing that I
+wrote over here, this is the same as that. So this thing up here, which is
+the same as that, which is less than that also. So we can write that the
+magnitude of x plus y squared and not the magnitude, the
+length of the vector x plus y squared is less than
+this whole thing that I wrote out here. Or less than or equal to. Now, what is this thing? Remember, I mean this might look
+all fancy with my little double lines around
+everything. But these are just numbers. This length of x squared,
+this is just a number. Each of these are numbers and I
+can just say hey, look, this looks like a perfect
+square to me. This term on the right-hand side
+is the exact same thing as the length of x plus
+the length of y. Everything squared. If you just squared this out
+you'll get x squared plus 2 times the length of x times the length of y plus y squared. So our length of the vector x
+plus y squared is less than or equal to this quantity
+over here. And if we just take the square
+root of both sides of this, you get the length of our vector
+x plus y is less than or equal to the length of the
+vector x by itself plus the length of the vector y. And we call this the triangle
+inequality, which you might have remembered from geometry. Now why is it called the
+triangle inequality? Well you could imagine
+each of these to be separate side of a triangle. In fact, let's draw it. We can draw this in R2. Let me turn my graph paper on. Let me see where the
+graphs show up. If I turn my graph paper
+on right there, maybe I'll draw it here. So let's draw my vector x. So let's say that my vector x
+look something like this. Let's say that's my vector x. It's a vector 2, 4. So that's my vector x. And let's say my vector y-- well
+I'm just going to do it head to tail because I'm
+going to add the two. So my vector y-- I'm going to do
+it in nonstandard position. Let's say it's look something
+like-- let's say my vector y looks something like this. Draw it properly. That's my vector y. What does x plus y look like? And remember, I can't
+necessarily draw any two vectors on a two-dimensional
+space like this. I'm just assuming that
+these are in R2. But this is just to
+give you the idea. So then this is their
+sum, right? You took from the tail of
+x to the head of y. So this vector right here
+is the vector x plus y. And that's why it's called
+the triangle inequality. It's just saying that look, this
+thing is always going to be less than or equal to-- or
+the length of this thing is always going to be less than or
+equal to the length of this thing plus the length
+of this thing. And that's kind of obvious
+when you just learn two-dimensional geometry. That look, this is a much more
+efficient way of getting from this point to this point
+than going out here and then going out here. And then, what's the case in
+which this length is equal to these lengths? Well if you keep flattening this
+triangle out and you go to the extreme case where
+maybe the vector x looks like this. And if the vector y is just
+kind of going in the exact same-- vector y is going in
+the exact same direction, maybe it's going a little
+bit further. This is vector x, this
+is vector y. Now x plus y will just
+be this whole vector. Now that whole thing
+is x plus y. And this is the case now where
+you actually-- where the triangle inequality turns
+into an equality. That's why that little
+equal sign is there. The extreme case where essentially, x and y are collinear. And why does that work out? We can even go back to our
+math and understand that. So let me turn my graph off. We can go back to
+our math here. If I go back to this point,
+remember, right here I made the statement, look, this thing
+is definitely less than this thing over here. But what if I made
+an assumption? What if I said that x is equal
+to some scalar times y? And actually, I have to be
+careful because just some scalar times y-- remember, our
+Cauchy-Schwarz Inequality said that look, the inequality turns
+into an equality if x is some nonzero scalar of y. And then we can apply this. We can say that the absolute
+value of x dot y is the same as this over here. But I don't have the absolute
+value of x dot y here. I don't know that this
+is positive. I can say definitively that this
+is a positive quantity because I took the absolute
+value of it. No absolute value here. So the only way that I can
+assure that this is a positive quantity, that this is the same
+thing as the absolute value of x dot y is to enforce--
+if I'm kind of going to go down this road, is to
+enforce that this term right here, that c be positive. Because if c is positive, then
+x dot y, if x dot y then that would be the same thing
+as cy dot y. Which we know is just the same
+thing as c times the magnitude of y squared. And the only way that I can
+ensure that this expression right here is equal to the
+absolute value of x dot y, the only way I can assure this
+is that c is positive. If c is negative, then this is
+going to be a negative number while this is a positive. So if I assume that this is
+positive, then I can say that x dot y is equal to the absolute
+value of x dot y. And since it's a scalar
+multiple, then I could say that that term is equal to, not
+just less than or equal to, the magnitude
+of x's and y's. So hopefully I'm not
+confusing you. So all I'm saying is, if I can
+assume that x is some positive scalar multiple of y,
+that this wouldn't be a less than sign. Then I could say that x dot
+y is the same thing as the absolute value of x dot y
+since this is positive. And if it's the same thing as
+the absolute value of x dot y and it's some scalar multiple
+of each other, than we could go down this other route. We could say that this
+thing here-- I don't want to get too messy. We could say that this
+is equal to that. If this is equal to that, then
+this would have become an equal sign, not a less than
+or equal to sign. And then we would have had the
+limiting case-- I don't want to call it the limiting case. But we could say that x plus y--
+we would've done the same work, but we would've had an
+equal sign the whole way. Would equal the length of x. The length of x plus y would
+equal the length of x plus the length of y in the situation
+where x is equal to some positive scalar times y. So c is greater than 0. These two imply each other. And we saw that geometrically. I lost my axes here, but we see
+that the only time that the length of x plus y is equal
+to the length of x plus the length of y is when
+they're collinear. Over here this plus this is
+clearly-- you can just visually look at it-- longer
+than this right there. So you might be saying Sal,
+once again, this linear algebra's a little bit silly. We learned the triangle
+inequality in eighth or ninth grade. Why did you go through all of
+this pain to redefine it? And this is the interesting
+thing. What I just drew here and this
+is what you learned in ninth grade geometry. This is just in R2. This is just your Cartesian
+coordinates, or I don't want to use the word dimension too
+much because we're going to define that formally. But this is kind of your
+two-dimensional space that's going on. What's interesting or what's
+useful about linear algebra is, we've just defined the
+triangle inequality for arbitrarily large vectors,
+or vectors that have an arbitrarily high number
+of components. Each of these, these don't
+have to be in R2. This is true if we're in R100
+where every vector has a hundred components to it. We've just defined some notion
+of the triangle inequality. We've abstracted well beyond
+just our two-dimensional Cartesian coordinates. Well beyond even our three
+dimensions to essentially, n dimensional space. And I haven't defined dimensions
+yet, but I think you're starting to appreciate
+what they are. But anyway, hopefully you
+found that useful. We can now take this result. And actually, that result with
+this result and define what the notion of an angle between
+two vectors are. Once again, you know, on some
+levels you're like well, why do we have to define an angle? Isn't an angle just-- isn't
+that just an angle? Well yeah, we know what an angle
+is in two dimensions, but what does an angle mean when
+you abstract things to n dimensions? Or when you're in Rn. So that's what we'll talk
+about in the next video.

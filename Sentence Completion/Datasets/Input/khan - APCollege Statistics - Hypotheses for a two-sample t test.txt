@@ -1,0 +1,36 @@
+- [Instructor] "Market
+researchers conducted a study "comparing the salaries of managers "at a large nationwide retail store. "The researchers obtained salary "and demographic data for a
+random sample of managers. "The researchers calculated
+the average salary "of the men in the sample
+and the average salary "of the women in the sample. "They want to test if managers who are men "have a higher average salary
+than managers who are women. "Assume that all conditions
+for inference have been met. "Which of these is the
+most appropriate test "and alternative hypothesis?" And, we can see, they're
+talking about a paired T test and a two-sample T test, and then they talk about
+the alternative hypotheses. So, pause this video and try to figure this out on your own. So first, let's think about the difference between a paired T test
+and a two-sample T test. In a paired T test, we're
+gonna construct hypotheses around a parameter for our population that will often be the mean difference. So, we have one population, so we're talking about the
+paired situation right over here, and so, let's say we say, "Hey, do people run faster when
+they wear shorts or pants?", and so for each member of the population, you can see what you would, if you really had perfect information, you would know, how fast
+did they run with pants and how fast did they run with shorts? And then, you would
+calculate the difference, and then across the whole population, you could actually get
+that mean difference. So, the mean difference of pants minus shorts. And of course, in order to estimate that, or in order to do a
+hypothesis test around that, you would take a sample,
+and then you would calculate the sample mean of the difference of pants minus shorts, and then, you would say, "Hey," assuming the null hypothesis is true, you would construct some null hypothesis, likely that there is no,
+that this mean is zero, and you would say, "Hey, if
+the null hypothesis is true, "that this is actually equal to zero, "what's the probability
+that I got this result?" If that's below your significance level, then you would reject your null hypothesis and it would suggest the alternative that might be that, "Hey, maybe this mean "is greater than zero." On the other hand, a two-sample T test is where you're thinking about
+two different populations. For example, you could be thinking about a population of men, and
+you could be thinking about the population of women. And you wanna compare the
+means between these two, say, the mean salary. So, you have the mean salary for men and you have the mean salary for women, and what you're trying to
+do with the hypothesis test is try to come up with
+some conclusions about the mean difference between
+these two parameters. So, the mean salary for men minus the mean salary for women. And our null hypothesis is usually the no-news-here hypothesis, and so in this situation,
+our null hypothesis is that there is no difference between these means and that our alternative hypothesis in the situation that we are looking at, because they wanna test
+if managers who are men have a higher average salary. If they just wanted to
+test that whether managers who are men have a different salary, then our alternative hypothesis would look something like this, where the mean of men
+minus the mean of women is not equal to zero, but
+they aren't just testing to see if the means are different, they wanna see if men have
+a higher average salary. So, instead of not equal zero there, we would have greater than zero for our alternative hypothesis. So, which choice is that? Well, we're clearly in a
+two-sample T test situation, and we wanna do the greater than, not the not-equal-to, so
+we are in that choice, right over there.

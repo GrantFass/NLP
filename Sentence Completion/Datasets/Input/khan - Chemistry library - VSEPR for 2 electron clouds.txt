@@ -1,0 +1,150 @@
+This next set of
+videos, we're going to predict the shapes
+of molecules and ions by using VSEPR, which is an
+acronym for valence shell electron pair repulsion. And really all this
+means is that electrons, being negatively charged,
+will repel each other. Like charges repel, and
+so when those electrons around a central atom
+repel each other, they're going to
+force the molecule or ion into a particular shape. And so the first
+step for predicting the shape of a
+molecule or ion is to draw the dot structure to
+show your valence electrons. And so let's go ahead and draw
+a dot structure for BeCl2. So you find beryllium
+on the periodic table. It's in group 2, so
+two valence electrons. Chlorine is in group 7,
+and we have two of them. So 2 times 7 is 14. And 14 plus 2 gives us a
+total of 16 valence electrons that we need to account
+for in our dot structure. So you put the less
+electronegative atom in the center. So beryllium goes in the center. We know it is surrounded
+by two chlorines, so we show beryllium bonded
+to two chlorines here. And we just represented
+four valence electrons. So here's two valence electrons. And here's another two
+for a total of four. So, instead of 16,
+we just showed four. So now we're down to
+12 valence electrons that we need to account for. So 16 minus 4 is 12. We're going to put those left
+over electrons on our terminal atoms, which are our chlorines. And chlorine is going to
+follow the octet rule. Each chlorine is
+already surrounded by two valence electrons, so
+each chlorine needs six more. So go ahead and put six
+more valence electrons on each chlorine. And, since I just represented
+12 more electrons there, now we're down to
+0 valence electron. So this dot structure has
+all of our electrons in it. And some of you might think,
+well, why don't you keep going? Why don't you show some of
+those lone pairs of electrons in chlorine moving in to
+share them with the beryllium to give it an
+octet of electrons? And the reason you don't is
+because of formal charge. So let's go ahead and
+assign a formal charge to the central
+beryllium atom here. So remember each of
+our covalent bonds consists of two electrons. So I go ahead and put that in. And if I want to
+find formal charge, I first think about the number
+of the valence electrons in the free atom. And that would be two,
+four-- four berylliums. So we have two electrons
+in the free atom. And then we think about
+the bonded atom here, so when I look at
+the covalent bond, I give one of those electrons
+to chlorine and one of those electrons to beryllium. And I did the same thing
+for this bond over here, and so you can see
+that it is surrounded by two valence electrons. 2 minus 2 gives us a
+formal charge of 0. And so that's one way to think
+about why you would stop here for the dot structure. So it has only two
+valence electrons, so even though it's in period
+2, it doesn't necessarily have to follow the octet rule. It just has to have less
+than eight electrons. And so, again,
+formal charge helps you understand why you can stop
+here for your dot structure. Let me go ahead and
+redraw our molecule so we can see it a
+little bit better. And we'll go ahead and
+move on to the next step. So let me go ahead and
+put in my lone pairs of electrons around
+my chlorine here. So we have our dot structure. Next, we're going to count
+the number of electron clouds that surround the central atom. And I like to use the
+term electron cloud. You'll see many
+different terms for this in different textbooks. You'll see charge clouds,
+electron groups, electron domains, and they have
+slightly different definitions depending on which
+textbook you look in. And really the term
+of electron cloud helps describe the idea
+of valence electrons in bonds and in lone
+pairs of electrons occupying these electron clouds. And you could think about them
+as regions of electron density. And, since electrons
+repel each other, those regions of electron
+density, those clouds, want to be as far
+apart from each other as they possibly can. And so let's go ahead and
+analyze our molecule here. So surrounding the central atom. So we can see that here are some
+bonding electrons right here surrounding our central atom. So we could think about those
+as being an electron cloud. And then over here we have
+another electron cloud. So we have two electron
+clouds for this molecule, and those electron
+clouds are furthest apart when they point in
+opposite directions. And so the geometry or
+the shape of the electron clouds around the
+central atom, if they're pointing in opposite
+directions, it's going to give you a
+linear shape here. So this molecule
+is actually linear because we don't have any lone
+pairs to worry about here. So we're going to
+go ahead and predict the geometry of the
+molecule as being linear. And if that's linear, then
+we can say the bond angle-- so the angle between the
+chlorine, the beryllium, and the other chlorine--
+is 180 degrees. So just a straight line. All right. So that's how to use VSEPR
+to predict the shape. Let's do another example. So CO2-- so carbon dioxide. So we start off by drawing
+the dot structure for CO2. Carbon has four
+valence electrons. Oxygen has six. And we have two of them. So 6 times 2 gives us 12. 12 plus 4 gives us
+16 valence electrons to deal with for
+our dot structure. The less electronegative
+atom goes in the center, so carbon is bonded to oxygen,
+so two oxygens like that. We just represented
+four valence electrons. Right? So two here and two
+here, so that's four. So 16 minus 4 gives us 12
+valence electrons left. Those electrons are going to
+go on our terminal atoms, which are oxygens if we are going
+to follow the octet rule. So each oxygen is
+surrounded by two electrons. So, therefore, each oxygen needs
+six more valence electrons. I'll go ahead and put in
+six more valence electrons on our oxygen. Now you might think we're
+done, but, of course, we're not because carbon is going
+to follow the octet rule. Carbon does not have
+a formal charge of 0 in this dot structure,
+so even though we've represented all of our
+valence electrons now, we need to give carbon an octet. We need to give carbon
+a formal charge of 0. And we can do that by moving
+in this lone pair of electrons into here to share those
+electrons between the carbon and the oxygen, and also with
+this lone pair of electrons. So we move those in like that. And now we can see that carbon
+is double bonded to our oxygen. So now our dot structure
+looks like this. And each oxygen, instead
+of having three lone pairs of electrons, now
+each oxygen only has two lone pairs like that. So there is our dot structure. So let's go back up here
+to look at our steps for predicting the
+shape of this molecule. So step 1 is done,
+draw dot structure to show the valence electrons. Next, we're going to count
+the number of electron clouds surrounding our central atom. So we go back down here, and
+we find our central atom, which is our carbon. And we think about the
+regions of electron density that surround that. So we can count this double bond
+as a region of electron density because we're not worried about
+how many electrons are there. We're just worried
+about the fact that there is a region
+of electron density. So that's one electron cloud. And then over here we have
+another electron cloud. So we have two regions
+of electron density. We have two electron
+clouds here, which are going to
+repel each other. So when we look at
+step 3-- predict the geometry of the
+electron clouds-- predict the geometry
+of the electron clouds around the central atom. Well, those electron
+clouds are going to be opposite to each other. They're going to point
+in opposite directions. So, once again, they're
+going to force this molecule into a linear shape. So this carbon dioxide
+molecule is also linear with 180
+degree bond angle. So, once again, we don't have
+any lone pairs of electrons on our central atom,
+so we don't really have to worry about that. And we can go ahead and predict
+the geometry as being linear. So that's how to approach it. Draw the dot structure. Think about electron
+clouds and think about the shapes
+of your molecules. In the next video,
+we will look at how to approach three
+electron clouds.

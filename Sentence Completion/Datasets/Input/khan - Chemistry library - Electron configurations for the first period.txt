@@ -1,0 +1,50 @@
+- [Voiceover] Let's look at how to write electron configurations
+for the first period. And so here's the first
+period in the periodic table, and we have only two
+elements to worry about. We have hydrogen and then
+over here we have helium. So let's start with hydrogen, atomic number of one. So if there's an atomic number of one, that means there's one
+proton for hydrogen. In a neutral atom, the number of protons is equal to the number of electrons. So if there's one proton
+there must be one electron. So our goal is to write
+an electron configuration for that one electron of hydrogen. And we're gonna use the Aufbau principle. Aufbau is German for "building up". Because as you write
+electron configurations you're thinking about the
+best way to build up an atom. So you're thinking about
+where to put your electrons. Here we have only one
+electron to worry about. So where's the best place to put the one electron for hydrogen? Well, we wanna put that electron as close to the nucleus as possible, in order to maximize the attractive force between the positive charge
+and the negative charge. So therefore, the electron goes into the lowest energy level possible. And that's when n is equal to one. So we talked about
+quantum numbers earlier, if n is equal to one there's
+only one allowed value for l, and that's equal to zero. If l is equal to zero, there's only one allowed
+value for ml right? So the magnetic quantum number, that's equal to zero. So l is equal to zero tells us we're talking about an s orbital, and this tells us how many orientations. Only one value so only
+orientation for an s orbital. An s orbital is shaped
+like a sphere right? So in this sphere, in this three dimensional volume here, this is the most likely place, the most likely region we're going to find this one electron. And so the electron for hydrogen is going to go into an s orbital. An s orbital in the first energy level. So let's go ahead and write
+the electron configuration. We write the electron
+configuration as one s one. Let's talk about what those mean here. So this first one, this is talking about
+the energy level right? The shell, n is equal to one. S says the electron for hydrogen goes into an s orbital. And this superscript one here, this is telling us how many electrons are in that orbital. And here of course we're
+talking about only one electron. So one s one means one electron in an s orbital in the first energy level. There's another way to write
+an electron configuration, or to draw one out, it's called orbital notation. So you draw a line here, which represents an orbital. We're talking about an s orbital in the first energy level, so we could label this orbital
+as being the one s orbital. And we put the one electron of hydrogen into that one s orbital. And let's say the electron
+enters the orbital spin up. So this arrow pointing up is representing one electron with an up spin. So the fourth quantum number ms we could say that's positive 1/2 spin. So here are two ways to write
+the electron configuration. One s one, or we could draw orbital notation like that for hydrogen. Alright, and so we're done
+with hydrogen's one electron. Let's move on to helium now, so two electrons to worry about. So atomic number of two, so two protons and two electrons. So two electrons to worry about. We're still in the first shell, we're still in the first energy level. So n is equal to one. If n is equal to one, l
+must be equal to zero. Ml must be equal to zero, and so we're still
+talking about an s orbital in the first energy level right? So we're still talking about an s orbital in the first energy level. So for helium right? An s orbital in the first
+energy level, like that. Alright, let's think about
+orbital notation for helium here. So we have two electrons, so an s orbital in the first energy level. So we could draw the first
+electron for helium as spin up. And the second electron for helium, we would have to do that spin down. So we have to pair the spins, one spin up and one spin down. So why do we have to do that? So let me go ahead and write, I'm gonna write negative
+1/2 here for the spin. The reason we have to pair the spins is because of the Pauli
+exclusion principle, which says that, "No two electrons in an atom can have "the same four quantum numbers." So this first electron that we put in, the one s orbital right? So this one right here is spin up, that would be these same
+four quantum numbers as, that would be these four
+quantum numbers up here. So instead of rewriting them, I'll just circle them for hydrogen. And so for this second electron here, the one that I put in
+the orbital spin down, that can't have the same
+set of quantum numbers. So n is equal to one, l is equal to zero, ml is equal to zero, all those have to be the same, but the last one here is different. That's why we make it negative 1/2 so it's spin down. And so the two electrons in helium have a different set of
+four quantum numbers right? They differ by the last quantum number. And so that's the idea of the
+Pauli exclusion principle. As a consequence of the
+Pauli exclusion principle, an orbital can contain a
+maximum of two electrons, because you've exhausted
+all of the possible combinations of quantum numbers. We've used them up completely. And so the one s orbital
+is completely full. So we could also write
+the electron configuration for helium right, as one s two. And once again what that means, is we're talking about an s orbital, s orbital in the first energy level, and there are two electrons
+in that s orbital. So one s two is the electron
+configuration for helium. And since we have two
+electrons in the one s orbital, we can't fit in any more electrons. And so the first shell is closed. We have a closed shell. There are no more orbitals
+in the first energy level. If you wanna add another electron, you have to move on to the next shell. And so that takes us
+into the second period on the periodic table.

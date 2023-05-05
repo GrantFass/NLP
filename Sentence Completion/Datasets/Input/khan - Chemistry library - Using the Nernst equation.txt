@@ -1,0 +1,88 @@
+- [Voiceover] You can
+use the Nernst equation to calculate cell potentials. Here we need to calculate
+the cell potential for a zinc-copper cell, where the concentration
+of zinc two plus ions and the concentration of copper
+two plus ions in solution is one molar, and we're at 25 degrees C. So we're talking about
+standard conditions here. Just to remind you of the
+reduction half reaction and the oxidation half reaction, copper two plus ions are reduced. They gain electrons to form solid copper. And solid zinc is oxidized,
+so zinc loses two electrons to form zinc two plus ions. Those two electrons, the
+electrons lost by zin, are the same electrons
+gained by copper two plus, so they cancel out when you
+write your overall reaction. So down here we have our
+overall redox reaction, and the standard cell potential is equal to positive 1.10 volts, so you just add the
+standard reduction potential and the standard oxidation potential. So all of this we've
+covered in earlier videos and now we're gonna see how to calculate the cell potential using
+the Nernst equation. So let's go ahead and write
+down the Nernst equation, which is the cell potential is equal to the standard cell potential, E zero, minus .0592 volts over n, times the log of Q. So this is the form of
+the Nernst equation, this is one of the forms that we can use when our temperature is 25 degrees C. So let's think about
+what these things mean in the Nernst equation. The standard cell potential, E zero, we've already found
+that, that's 1.10 volts. So this 1.10 would get plugged in to here in the Nernst equation. And it's the number of
+moles that are transferred, number of moles of electrons that are transferred in our redox
+reaction, and that's two. Two moles of electrons are transferred. So n is equal to two. Q is the reaction quotient, so Q is the reaction quotient, and Q has the same form as K but you're using
+non-equilibrium concentrations. So think about writing an
+equilibrium expression. To write Q think about
+an equilibrium expression where you have your
+concentration of products over the concentration of your reactants and you leave out pure solids. So we're gonna leave out,
+we'll leave out solid copper and we have concentration
+of zinc two plus, so concentration of our product, over the concentration of our reactants. We're gonna leave out the solid zinc so we have the concentration
+of copper two plus. We know what those concentrations are, they were given to us in the problem. The concentration of zinc
+two plus is one molar, the concentration of copper
+two plus is one molar. So we have one over one. So the reaction quotient for
+this example is equal to one. So let's go ahead and plug in everything. So we have the cell
+potential E is equal to the standard cell potential. That was 1.10 volts, minus .0592 over n, where n is the number
+of moles of electrons, that's equal to two, times the log of the reaction quotient. Well, log of one, our reaction quotient for this example is equal to one, log of one is equal to zero. So we have the cell
+potential is equal to 1.10 minus zero, so the cell
+potential is equal to 1.10 volts. So we know the cell potential is equal to the standard cell potential, which is equal to 1.10
+volts, positive 1.10 volts. So this makes sense, because E zero, the standard cell potential, let me go ahead and
+highlight that up here, the standard cell potential E zero is the voltage under standard conditions. And that's what we have here,
+we have standard conditions. Our concentrations, our
+concentrations are one molar, we're at 25 degrees C, we're dealing with pure
+zinc and pure copper, so this makes sense. The Nernst equation
+should give us that the cell potential is equal to
+the standard cell potential. Let's find the cell potential
+again for our zinc copper cell but this time the concentration of zinc two plus ions is 10 molar, and we keep the concentration of copper two plus ions the same, one molar. So if we're trying to
+find the cell potential we can use our Nernst equation. So the cell potential E is equal to the standard cell potential E zero minus .0592 volts over n times the log of Q where Q
+is the reaction quotient. Let's plug in everything we know. We know the standard cell
+potential is positive 1.10 volts, so we have 1.10 volts. We're trying to find the cell potential E, so E is equal to 1.10 minus .0592 over n. So n is the number of
+moles of electrons that are transferred, so
+that was two electrons. So n is equal to two so
+we plug that in here. Times the log of Q, and
+from the previous example, remember, Q, the reaction quotient is the concentration of zinc two plus... Concentration of zinc two plus over the concentration of copper two plus. So concentration of
+products over reactants, ignoring your pure solids. So for this example the concentration of zinc two plus ions in
+solution is 10 molar. So that's 10 molar over--
+Copper two plus is one molar, so 10 over one. So Q is equal to 10 for this example. So now let's find the cell potential. The cell potential is E. So E is equal to 1.10 minus-- You can actually do all
+of this in your head. So .0592, let's say that's .060. So this is .060, divided
+by two which is .030. So we have .030. Log of 10 is just equal to one, so this is .030 times one. So 1.10 minus .030 is equal to 1.07. So the cell potential
+is equal to 1.07 volts. I like to think about this as the instantaneous cell potential. So when your concentrations
+are 10 molar for zinc two plus and one molar for copper two plus, 1.07 volts is your
+instantaneous cell potential. What happens to the cell potential as the reaction progresses? Well let's think about that, let's go back up here
+to our overall reaction. What happens as we make more
+and more of our products? Well, the concentration
+of zinc two plus ions should increase and we're losing, we're losing our reactants here so the concentration of copper
+two plus should decrease. So what happens to Q? If we're increasing the
+concentration of zinc two plus and decreasing the concentration
+of copper two plus, Q should increase. And what does that do
+to the cell potential? So, in the Nernst equation,
+if we're increasing Q what does that do to E? Well let's go ahead and
+let's just plug in a number. Let's just say that Q is equal to 100. So let's say that your Q is equal to 100. Let's plug that into the Nernst equation, let's see what happens
+to the cell potential. So E is equal to E zero, which, we'll go ahead and plug in 1.10 there. So 1.10 minus .0592 over two times log of 100. So now we're saying
+that Q is equal to 100. So we have more of our products
+as the reaction progresses. So what is the cell potential? E is equal to 1.10, log
+of 100 is equal to two. So log of 100 is equal to two, that cancels out this two here so we have one minus .0592. One minus .0592. I'll just say that's equal to .060, just to make things easier. So 1.10 minus .060 is equal to 1.04. So the cell potential
+is equal to 1.04 volts. So notice what happened
+to the cell potential. So we increased-- Let
+me change colors here. We increased Q. We went from Q is equal to
+10 to Q is equal to 100. What happened to the cell potential? The cell potential went from
+1.07 volts to 1.04 volts. So as the reaction progresses, Q increases and the instantaneous cell
+potential, E, decreases. So Q increases and E decreases. What happens at equilibrium? What is the cell potential at equilibrium? What is the cell potential at equilibrium. If you remember the equation
+that relates delta G to the cell potential, so
+we talked about this one, delta G is equal to negative nFE, and from thermodynamics, at equilibrium, delta G is equal to zero. So if delta G is equal
+to zero at equilibrium, what is the cell potential at equilibrium? E must be equal to zero, so the cell potential is
+equal to zero at equilibrium. Let's think about that. If the cell potential is
+equal to zero at equilibrium let's write down our Nernst equation. The Nernst equation is E is equal to E zero minus .0592 over n, times the log of Q. Well at equilibrium, at
+equilibrium E is equal to zero, so we plug that in. So we have zero is equal to
+the standard cell potential, E zero, minus .0592 over n, times the log of Q. But at equilibrium,
+remember, Q is equal to K. So we can plug in K here. Now we have the log of K, and notice that this is the equation we talked about in an earlier video. The standard cell potential
+E zero is equal to .0592 over n times the log of K. So just an interesting way to think about the Nernst equation. The Nernst equation is
+very useful for calculating cell potentials when you have
+different concentrations.

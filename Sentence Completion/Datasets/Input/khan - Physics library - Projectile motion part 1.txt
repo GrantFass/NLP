@@ -1,0 +1,134 @@
+Welcome back. I'm not going to do a bunch of
+projectile motion problems, and this is because I think
+you learn more just seeing someone do it, and thinking
+out loud, than all the formulas. I have a strange notion that I
+might have done more harm than good by confusing you with a lot
+of what I did in the last couple of videos, so hopefully
+I can undo any damage if I have done any, or even better--
+hopefully, you did learn from those, and we'll
+just add to the learning. Let's start with a
+general problem. Let's say that I'm at the top
+of a cliff, and I jump-- instead of throwing something,
+I just jump off the cliff. We won't worry about my motion
+from side to side, but just assume that I go
+straight down. We could even think that someone
+just dropped me off of the top of the cliff. I know these are getting kind
+of morbid, but let's just assume that nothing
+bad happens to me. Let's say that at the top
+of the cliff, my initial velocity-- velocity initial-- is
+going to be 0, because I'm stationary before the person
+drops me or before I jump. At the bottom of the cliff
+my velocity is 100 meters per second. My question is, what is the
+height of this cliff? I think this is a good time
+to actually introduce the direction notion of
+velocity, to show you this scalar quantity. Let's assume up is positive,
+and down is negative. My velocity is actually 100
+meters per second down-- I could have assumed
+the opposite. The final velocity is 100 meters
+per second down, and since we're saying that down
+is negative, and gravity is always pulling you down, we're
+going to say that our acceleration is equal to
+gravity, which is equal to minus 10 meters per
+second squared. I just wrote that ahead of
+times, because when we're dealing with anything of
+throwing or jumping or anything on this planet, we
+could just use this constant-- the actual number is 9.81, but
+I want to be able to do this without a calculator, so I'll
+just stick with minus 10 meters per second squared. It's pulling me down, so that's
+why the minus is there. My question is: I know my
+initial velocity, I know my final velocity, right before I
+hit the ground or right when I hit the ground, what's
+the distance? In this circumstance, what
+does distance represent? Distance would be the height of
+the cliff, and so how do we figure this out? What's the only formula that
+we know for distance, or actually the change in distance,
+but in this case, it's the same thing. Change in distance is equal
+to the average velocity. When you learned this in middle
+school, or probably even elementary school, you
+didn't say average velocity, because you always assumed
+velocity was constant-- the average and the instantaneous
+velocity was kind of the same thing. Now, since the velocity is
+changing, we're going to say the average velocity. So, the change in distance is
+equal to the average velocity times time. This should be intuitive
+to you at this point. Velocity really is just distance
+divided by time, or actually, change in distance
+divided by times change in time-- or, change in
+distance divided by change in times is velocity. Let me actually change this
+to change in time. Since we always assume-- or we
+normally assume-- that we start at distance is equal to 0,
+and we assume that start at time is equal to 0, we can write
+distance is equal to velocity average times time. Maybe later on we'll do
+situations where we're not starting at time 0, or distance
+0, and in that case, we will have to be a little more
+formal and say change in distance is equal to average
+velocity the change in time. This is a formula we know,
+and let's see what we can figure out. Can we figure out the
+average velocity? The average velocity is just
+the average of the initial velocity and the
+final velocity. The average velocity is just
+equal to the average of these two numbers: so, minus 100 plus
+0 over 2-- and I'm just averaging the numbers-- equals
+minus 50 meters per second. We were able to figure
+that out, so can we figure out time? We know also that velocity,
+or let's say the change in velocity, is equal to the
+final velocity minus the initial velocity. This is nothing fancy-- you
+don't have to memorize this. This hopefully is intuitive to
+you, that the change is just the final velocity minus the
+initial velocity, and that that equals acceleration
+times time. So what's the change in velocity
+in this situation? Final velocity is minus 100
+meters per second, and then the initial velocity is 0, so
+the change in velocity is equal to minus 100 meters
+per second. I'm kind of jumping in and out
+of the units, but I think you get what I'm doing. That equals acceleration
+times time-- what's the acceleration? It's minus 10 meters per second
+squared, because I'm going straight down-- minus 10
+meters per second squared times time. This is a pretty straightforward
+equation. Let's divide both sides by the
+acceleration, by the minus 10 meters per second squared, and
+you'll get time is equal to-- the negatives cancel out, as
+they should, because negative time is difficult, we're
+assuming positive time, and it's good we got a positive
+time answer-- but the negatives cancel out
+and we get time is equal to 10 seconds. There we have it: we figured out
+time, we figured out the average velocity, and so now we
+can figure out the height of the cliff. The distance is equal to the
+average velocity minus 50 meters per second times
+10 seconds. The distance-- this is going to
+be an interesting notion to you-- the distance it's going
+to be minus 500 meters. This might not make a lot of
+sense to you-- what does minus 500 meters mean? This is actually right, because
+this formula is actually the change
+in distance. We said if we did it formally,
+it would be the change in distance. So if we have a cliff-- let me
+change colors with it-- and if we assume that we start at this
+point right here, and this distance is equal to 0,
+then the ground, if this cliff is 500 hundred meters high, your
+final distance-- this is the initial distance-- your
+final distance df is actually going to be at minus
+500 hundred meters. We could have done it the other
+way around: we could have said this is plus 500
+meters, and then this is 0, but all that matters is really
+the change in distance. We're saying from the top of the
+cliff to the ground, the change in distance is
+minus 500 meters. And minus, based on our
+convention, we said minus is down, so the change is 500
+meters down, and that's height of the cliff. That's pretty interesting. If you go to a 500 meter cliff--
+500 is about 1,500 feet-- so that's roughly the
+size of maybe a very tall skyscraper, like the
+World Trade Center or the Sears Tower. If you jump off of something
+like that, assuming no air resistance, which is a big
+assumption, or if you were to drop a penny-- because a penny
+has very little air resistance-- if you were to drop
+a penny off of the top of Sears Tower or a building like
+that, at the bottom it will be going 100 meters per second. That's extremely fast, and
+that's why you shouldn't be doing it, because that is fast
+enough to kill somebody, and I don't want to give you any bad
+ideas if you're a bad person. It's just interesting that
+physics allows you to solve these types of problems. In the next presentation, I'm
+just going to keep doing problems, and hopefully you'll
+realize that everything really just boils down to average
+velocity-- change in velocity is acceleration times time,
+and change in distance is equal to change in time times
+average velocity, which we all did just now. I'll see you in the
+next presentation.

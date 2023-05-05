@@ -1,0 +1,168 @@
+In this video I want to do a
+couple of inequality problems that are deceptively tricky. And you might be saying,
+hey, aren't all inequality problems deceptively tricky? And on some level
+you're probably right. But let's start with
+the first problem. We have x minus 1 over x
+plus 2 is greater than 0. And I'm actually going to show
+you two ways to do this. The first way is, I think, on
+some level, the simpler way. But I'll show you both methods
+and whatever works for you, well, it works for you. So the first way you can think
+about this, if I have just any number divided by any other
+number and I say that they're going to be greater than 0. Well, we just have to remember
+our properties of multiplying and dividing negative numbers. In what situation is
+this fraction going to be greater than 0? Well, this is going to be
+greater than 0 only if both a and-- so we could write both a
+is greater than 0 and b is greater than 0. So this is one circumstance
+where this'll definitely be true. We have a positive divided
+by a positive; it'll definitely be a positive. It'll definitely be
+greater than 0. Or we could have the situation
+where we have a negative divided by a negative. If we have the same sign
+divided by the same sign we're also going to be positive. So or-- a is less than 0
+and b is less than 0. So whenever you have any type
+of rational expression like this being greater than 0,
+there's two situations in which it will be true. The numerator and the
+denominator are both greater than 0, or
+they're both less than 0. So let's remember that and
+actually do this problem. So there's two situations
+to solve this problem. The first is where both of
+them are greater than 0. If that and that are both
+greater than 0, we're cool. So we could say our first
+solution-- maybe I'll draw a little tree like that-- is x
+minus 1 greater than 0 and x plus 2 greater than 0. That's equivalent to this. The top and the bottom-- if
+they're both greater than 0 then when you divide them
+you're going to get something greater than 0. The other option-- we just
+saw that-- is if both of them were less than 0. So the other option is x
+minus 1 less than 0 and x plus 2 less than 0. If both of these are less than
+0 then you have a negative divided by a negative,
+which will be positive. Which will be greater than 0. So let's actually solve in
+both of these circumstances. So x minus 1 greater than 0. If we add 1 to both
+sides of that we get x is greater than 1. And if we do x plus 2 greater
+than 0, if we subtract 2 from both sides of that equation--
+remember I'm doing this right now-- we get x is
+greater than minus 2. So for both of these to hold
+true-- so in this little brown or red color, whatever you want
+to think of it-- in order for both of these to go hold true,
+x has to be greater than 1 and x has to be greater
+than minus 2. This statement we figured out
+means that x has to be greater than 1 and this statement
+tells us that x has to be greater than minus 2. Now, if x is greater than 1 and
+x has to be greater than minus 2, x clearly has to
+be greater than 1. You know, 0 would not satisfy
+this because 0 is greater than minus 2, but it's
+not greater than 1. So for something to be greater
+than 1 and minus 2 it has to be greater than 1. This whole chain of thought
+where I'm saying the numerator and the denominator are greater
+than 0, that's only going to happen if x is greater than 1. Because if x is greater than 1,
+then x is definitely going to be greater than negative 2. Any number greater than
+1 is definitely greater than negative 2. So that's one situation in
+which this equation holds true, and we can even try it out. Let's say x was 2. 2 minus 1 is 1 over 2 plus 2. It's 1/4. It's a positive number. Now let's do the situation
+where both of these are negative. If the x minus 1 is less than
+0, if we add 1 to both sides of that equation that tells us
+so x minus 1 is less than 0. That's the same thing-- if we
+add 1 to both sides of that-- as saying that x
+is less than 1. So that constraint boils
+down to that constraint. Now this constraint, x
+plus 2 is less than 0. If we subtract 2 from
+both sides we get x is less than minus 2. So this constraint boils
+down to that constraint. So in order for both of these
+guys to be negative, both the numerator and the denominator
+to be negative-- we know that x has to be less than 1 and x
+has to be less than minus 2. Now if something has to be less
+than 1 and it has to be less than minus 2, well, it just
+has to be less than minus 2. Anything less than minus 2 is
+going to satisfy both of these. So this boils down to
+just x could also be less than minus 2. And remember, this is an or. Either both the numerator and
+the denominator are positive, or they're both negative. So both of them being positive
+boil down to x could be greater than 1, or both of them being
+negative boils down to x is less than minus 2. So our solution is x could be
+greater than 1 or-- that's both of these positive--
+or x is less than minus 2. That's both of these negative. And if we wanted to draw it on
+a number line-- let me draw a number line just like that. That could be 0 and then
+we have 1, so x could be greater than 1. Not greater than or equal to. So we put a little circle
+there to show that we're not including 1. And everything greater than 1
+will satisfy this equation. Or anything less than minus 2. So we have minus 1, minus 2,
+anything less than minus 2 will also satisfy this equation by
+both making the numerator and denominator negative. And you could try it out. Minus 3. Minus 3 minus 1. I'll just do minus 3 minus
+1 is equal to minus 4. And then minus 3 plus 2. Minus 3 plus 2 is
+equal to minus 1. Minus 4 divided by
+minus 1 is positive 4. So all of these negative
+numbers also work. Now, I told you that I
+would show you two ways of doing this problem. So let me show you another way
+if you found this one maybe a little bit confusing. So the other way-- let
+me rewrite the problem. You get x minus 1 over x
+plus 2 is greater than 0. And actually, let's mix it up
+a little bit and you could apply the same logic. Let's say it's greater than or
+equal-- well, actually no. I'll just keep it the same way
+and maybe in the next video I'll do the case where it's
+greater than or equal just because I really don't want
+to-- maybe I want to incrementally step up the
+level of difficulty. We're just saying x minus
+1 over x plus 2 is just straight up greater than 0. Now one thing you might say is
+well, if I have a rational expression like this, maybe I
+multiply both sides of this equation by x plus 2. So I get rid of it in the
+denominator and I can multiply it times 0 and
+get it out of the way. But the problem is when you
+multiply both sides of an inequality by a number-- if
+you're multiplying by a positive you can keep the
+inequality the same. But if you're multiplying by a
+negative you have to switch the inequality, and we don't
+know whether x plus 2 is positive or negative. So let's do both situations. Let's do one situation
+where x plus 2-- let me write it this way. x plus 2 is greater than 0. And then another situation
+where-- let me do that in a different color. Where x plus 2 is less than 0. These are the two
+possibilities for x plus 2. Actually, in those situations
+can x plus 2 equal 0? If x plus 2 were to be equal to
+0 than this whole expression would be undefined. And so that definitely won't
+be a situation that we want to deal with it. It would an undefined
+situation. So these are our two situations
+when we're multiplying both sides. So if x plus 2 is greater
+than 0 that means that x is greater than minus 2. We can just subtract 2 from
+both sides of this equation. So if x is greater than
+minus 2, then x plus 2 is greater than 0. And then we can multiply
+both sides of this equation times x plus 2. So you have x minus 1 over
+x plus 2 greater than 0. I'm going to multiply both
+sides by x plus 2, which I'm assuming is positive because
+x is greater than minus 2. Multiply both sides
+by x plus 2. These cancel out. 0 times x plus 2 is it just 0. You're just left with x minus
+1 is greater than-- this just simplified to 0. Solve for x, add 1 to
+both sides, you get x is greater than 1. So we saw that if x plus 2 is
+greater than 0, or we could say, if x is greater than
+minus 2, then x also has to be greater than 1. Or you could say if x is
+great-- well, you could go both ways in that. But we say, look, both of
+these things have to be true. If for x to satisfy both
+of these, it just has to be greater than 1. Because if it's greater
+than 1 it's definitely going to satisfy this
+constraint over here. So for this branch we come
+up with the solution x is greater than 1. So this is one situation where
+x plus 2 is greater than 0. The other situation is x
+plus 2 being less than 0. If x plus 2 is less than 0
+that's equivalent to saying that x is less than minus 2. You just subtract 2
+from both sides. Now, if x plus 2 is less than
+0, what we'll have to do when we multiply both
+sides-- let's do that. We have x minus 1
+over x plus 2. We have some inequality
+and then we have a 0. Now if we multiply both
+sides by x plus 2, x plus 2 is a negative number. When you multiply both
+sides of an equation by a negative number you have
+to swap the inequality. So this greater than sign will
+become a less than sign because we're assuming that the
+x plus 2 is negative. These cancel out. 0 times anything is 0. We get that x minus
+1 is less than 0. Solving for x, adding 1 to
+both sides, x is less than 1. So in the case that x plus 2 is
+less than 0 or x is less than minus 2, x must be less than 1. Well, I mean we know-- if you
+say something has to be less than minus 2 and less than 1,
+just saying that it's less than minus 2 will do the job. Anything less than minus 2 is
+going to satisfy this one. But not anything that satisfies
+this one is going to satisfy that one. So this is the only constraint
+we have to worry about. So in the event where x plus 2
+is less than 0, we can just say that x has to be
+less than minus 2. That'll satisfy this equation. So our final result is x is
+either going to be greater than 1 or x is going to
+be less than minus 2. So once again, I can graph
+it on the number line. x is greater than
+1 right there. You have 0, minus 1, minus 2. And then you have x is less
+than minus 2, you're not including the minus 2. And just like that. And that is the exact same
+result we got up here. So whichever version
+you find to be easier. But you can see, they're both a
+little bit nuanced and you have to think a little bit about
+what happens when you multiply or divide by positive
+or negative numbers.

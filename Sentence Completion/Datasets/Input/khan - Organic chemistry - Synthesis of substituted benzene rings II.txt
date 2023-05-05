@@ -1,0 +1,144 @@
+Once again, our goal
+is to synthesize simple organic molecules
+starting from benzene. And this time, our goal is to
+make this molecule over here on the right. Once again, we're going to use
+the concept of retro synthesis, so working backwards
+and thinking about what could be an immediate
+precursor to this molecule here. To do that, let's
+analyze the groups that are attached to our ring. Right here we have
+an amino group. And we know that's an
+ortho/para director. We know that because of
+the lone pair of electrons on this nitrogen right
+next to our ring. And then over here, we have
+a carboxylic acid functional group attached to our ring. And we know this carbonyl carbon
+here is partially positive, which makes this
+a meta director. Now, we haven't
+covered any reactions that would install an amino
+group meta to a carboxylic acid group. But we have talked about
+how to put a nitro group meta to a carboxylic acid group. So let's turn that amino
+group into a nitro group. So let's go ahead and draw
+our benzene ring here. And we'll go ahead and put
+our carboxylic acid down here. And instead of an amino group,
+let's draw a nitro group, like that. So all we need to do
+now is think about a way to reduce our nitro
+group to our amino group. And there are many
+ways to do it. One thing you could
+use would be a metal like iron and some
+hydrochloric acid. You could have used tin. You could have also used
+hydrogen and a metal Catalyst like nickel. So there are many ways
+to reduce a nitro group to an amino group
+on a benzene ring. And now I know how to put
+that nitro group on meta to my carboxylic acid. So we have a meta
+director right here. And so if I take
+that nitro group off, I can come up with the precursor
+to this molecule, which should be just benzoic acid. So I'll go ahead and
+draw benzoic acid here. And I have to think
+about the reagents necessary for a nitration
+reaction, which of course would be concentrated nitric acid
+and concentrated sulfuric acid. And so once again,
+because my carbonyl here on my carboxylic acid
+is meta directing, the nitro group ends up
+in the meta position. So now I have been benzoic acid. And I need to make a
+benzoic acid from benzene. And if you think about
+one of the reactions we did in the benzylic
+position video, we were able to
+create a benzoic acid molecule from an alkylbenzene. And so the immediate
+precursor to this molecule must be some sort
+of alkylbenzene, so a benzene ring with
+an alkyl group on it. So just to make
+things easy, I'll just make it a methyl group
+here, so a methyl group like that, so toluene as
+our immediate precursor to benzoic acid. To oxidize the
+alkyl side chain, I need to add something like
+sodium dichromate, so Na2Cr2O7. A source of protons, so
+something like sulfuric acid, and some heat. And so this is oxidation of
+an alkyl benzene, like that. You could have also
+done this reaction with permanganate
+and heat as well. And you could have chosen
+any number of carbons on your alkyl side chain. So I just chose one
+to make it easy. So this carbon, when
+this group gets oxidized, would turn into that
+carbon right here. Now we would need to convert
+benzene into toluene. And so we could do that using
+a Friedel-Crafts alkylation reaction. And so we need one carbon. So for our alkyl
+chloride, we would need a one-carbon alkyl
+chloride, so CH3 Cl. And our catalyst for
+Friedel-Crafts alkylation would be aluminum
+chloride, like that. So our synthesis is complete. Let's go ahead and run through
+the reactions very quickly. And let's make sure that
+everything makes sense. So we start with benzene. And we do a
+Fridel-Crafts alkylation to put a methyl group onto our
+benzene ring to form toluene. Next, we oxidized that
+alkyl side chain with sodium dichromate to convert it
+into a carboxylic acid, which is now a meta director. So when you nitrate your
+ring, the nitro group gets put on in a position
+meta to your carboxylic acid. Finally, you reduce
+your nitro group to turn it into an amino
+group, and you are done. So let's do one more
+synthesis problem here. And so we can see
+that, this time, our target molecule is
+over here on the right. And immediately, I see a bromine
+at the benzylic position, the carbon right next
+to our benzene ring. And so I know a
+reaction that will put a bromine in the
+benzylic position. If you remember, that's the free
+radical bromination reaction. And so I can go ahead
+and draw the precursor to that molecule, which
+would be a benzene ring. This bromine over
+here is on our ring. And we would have just an
+ethyl group now, like that. And so I would need
+some NBS, some heat. I could use carbon tetrachloride
+as a solvent, a peroxide to initiate the free
+radical mechanism. And this is a free radical
+bromination reaction, which puts a bromine at
+the benzylic position. All right, trying to figure out
+a precursor to this molecule. Let's analyze what sort of
+groups we have on our ring. So this ethyl group
+is an alkyl group. And remember, that's
+an ortho/para director. This bromine here, of course,
+is also an ortho/para director because of lone pairs
+of electrons on it. So this is an
+ortho/para director. We have two ortho/para
+directors on our ring, but those ortho/para directors
+are meta to each other. So we need to think about a
+way to turn one of ortho/para directors into a meta director. And a good way of
+doing that would be to turn our alkyl
+group into a group that has a carbonyl on
+it, so an acyl group. So thinking about the
+precursor molecule here, I draw my benzene ring. I'm going to leave
+my bromine here. And instead of an
+alkyl group, we're going to have an acyl group
+now, because our acyl group is a meta director. So this carbon right here
+is partially positive. So we need to think
+about how to reduce an acyl group to an alkyl group. And one way of
+doing that would be to do a Clemmensen reduction. So you take amalgamated zinc,
+so we take some zinc here, so an amalgam with
+mercury, and also some HCL. And so that will reduce our
+acyl group to and alkyl group, like that. Now that we have an
+acyl group on there, which is a meta director,
+that would allow us to install the bromine meta
+to that acyl group. So when I think about the
+precursor to this molecule, I just take off that bromine. And so I have my ring with
+an acyl group on that ring. And once again, since this
+is a meta director here, all I need to do is a
+bromination reaction. So once again, I would
+need some bromine. And I would need our
+catalyst, so FeBr3. And that reaction will work. Finally, I have to go from
+benzene to this molecule. And once again, I can do that
+with a Friedel-Crafts acylation reaction. I would need two carbons to
+do my Friedel-Crafts acylation reaction. So from my acyl
+chloride, I need to make sure I have two carbons. And once again,
+my catalyst would be something like
+aluminum chloride for this Friedel-Crafts
+acylation. And so this would be
+the complete synthesis. Let's once again run
+through each step starting with benzene. We do a Friedel-Crafts acylation
+to install an acyl group on our ring, like that,
+which is a meta director. So if we follow that
+with a bromination, the bromine is installed
+meta to our acyl group. Our acyl group is then
+reduced, using a zinc amalgam, and converted into an
+ethyl group right here. And then finally, we do a
+free radical bromination to put a bromine at
+the benzylic position. And we are done. So think retro synthesis. And then also
+double-check and make sure your synthesis makes sense.

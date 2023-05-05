@@ -1,0 +1,109 @@
+Where we left off, we had this
+canister, because it had a closed top and it had a vacuum
+above the fluid. The fluid on top had an area
+of A1, and I poked a little hole with a super-small
+area A2. I said that the area of
+A2 is so small, it's 1/1,000 of area 1. Then we used the continuity
+equation. We said the velocity, the rate
+at which the surface is moving up here, V1, times area 1, the
+whole surface area of the liquid, has to be equal to the
+output velocity, which we're trying to figure out as a
+function of everything else times this output area. I made a mistake. I don't know if I did this in
+the last video, or I did this is in the mistake video. So we know that the initial top
+velocity times this top area is equal to the output
+velocity times-- instead of writing area 2, we could write
+area 1 over 1,000. You can get rid of the area 1 on
+both sides, and then you're saying that the velocity up here
+is equal to the rate at which the top of the surface
+moves down and is equal to 1/1,000 of the velocity of the
+liquid spurting out of this little hole. With that, we actually have the
+three variables for the left-hand side of Bernoulli's
+equation. What are the variables on
+the left-hand side? What is the pressure at this
+point where we have a hole? This is an important thin. When we talk about Bernoulli's--
+let me rewrite Bernoulli's equation. It's P1 plus rho gh1 plus rho V1
+squared over 2 is equal to P2 plus rho gh2 plus rho
+V2 squared over 2. We figured out all of these
+terms. Now let's figure out the things that we have
+to input here. What is the pressure
+at point two? This is the important thing. You might want to say, and this
+was my initial reaction, too, and that why I made a
+mistake, is that what 's the pressure at this depth
+in the fluid? That's not what Bernoulli's
+equation is telling us. Bernoulli's equation is telling
+us actually what is the external pressure
+at that hole. When we did the derivation, we
+were saying how much work-- this was kind of the work
+term, although we played around with it a little bit. But if we look at the water
+that's spurting out of the hole, it's not doing any work,
+because it's not actually exerting force against anything
+so it's not actually doing work. When we think about the
+pressure, the output pressure, it's not the pressure at that
+depth of the fluid. You should think of it as the
+external pressure at the hole. In this case, there is no
+external pressure at the hole. Let's say that if we closed
+the hole, then at that point, sure. The pressure would be the
+pressure that's being exerted by the outside of the canister
+to contain the water, in which case, we would end up
+with no velocity. The water wouldn't
+spurt anywhere. But now we're seeing the
+external pressure is zero. That's what the hole essentially
+creates. We're going to say that P2 is
+zero, so this pressure was zero, because we're
+in a vacuum. P2 is also zero, so both
+of these are zero. Remember, that's the
+external pressure. P1 is the external pressure to
+the input to the pipe, and you can view this as a pipe. I could redraw it as a pipe that
+looks like it has a big hole on the top, and it goes
+down to some level to a super-small hole like that. This would be a vacuum, and the
+fluid is just going in and it's spurting out of this end. Anyway, the pressure going into
+the pipe is zero, and we said since we put a hole, the
+pressure coming out of the pipe is zero, so we're
+doing no work. What is this term? This was the potential energy
+term, and we said that h1 is equal to h. We're saying that this is zero
+height, so now this simplifies to rho times gravity times h
+plus rho times V1 squared. V1, we said, is equal to this,
+so this is rho over 2 times V2 over 1,000 squared. I just substituted V2
+over 1,000 for V1. That equals the pressure at
+the hole, the external pressure at the hole, which
+is zero, plus h2. This is h2 right here, which
+we said is zero. We determined that the hole was
+poked at height zero, so this is also zero. That equals this kinetic
+energy-like term. It's not exactly
+kinetic energy. It's rho times V squared
+divided by 2. One thing that we can
+immediately see is that we have all these rhos on both
+sides of the equation, so we can divide both sides by rho and
+get rid of all of those. Then we can multiply both sides
+of the equation by 2, and we get 2gh plus V2 squared
+over-- what's 1,000 squared-- over 1 million. That is equal to V2 squared. We could do the exact thing. We could subtract 1 over 1
+million V2 squared from both sides, and we would get 0.999999
+V2 squared, but let's just say for the sake of
+simplicity, or let's say, if this wasn't 1,000, but 1
+million, and that this surface was much bigger, we see that
+this term becomes very, very, very small. If that hole is one millionth
+of the surface area, then it becomes really insignificant,
+so we can ignore this term because it just makes things
+complicated, and we're assuming this is a really,
+really large number, and that this hole is much smaller than
+the surface area of the fluid. This is like poking a
+hole in Hoover Dam. Hoover Dam is backing up this
+huge lake, and you poke a hole in it, so that hole is going to
+be this very small fraction of the surface area
+of the fluid. You can only make this
+assumption when that output hole is much smaller than
+the input hole. With that said, what is
+the output velocity? The velocity-- you just take
+the square root of both sides-- is the square
+root of 2gh. That is the output velocity. What is the amount of liquid
+that flows out per second? We figured that out already. It's a column of fluid that
+comes out, so per second, the length of the column of fluid
+will be the velocity times time, and then the cross-section
+of that column is equal to the output area. If I wanted to know the flow
+coming out, the flow coming out or the flux coming out would
+be equal to the hole's area times the hole's
+output velocity. That would equal the area times
+the square root of 2gh. We could use that actually solve
+problems in the future if we had actual numbers. I only have a minute
+and a half left. I'll see you in the
+next video.

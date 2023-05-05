@@ -1,0 +1,112 @@
+We've got the function f of x
+is equal to x plus 2 squared plus 1, and we've constrained
+our domain that x has to be greater than or equal
+to negative 2. That's where we've
+defined our function. And we want to
+find its inverse. And I'll leave you to think
+about why we had to constrain it to x being a greater than
+or equal to negative 2. Wouldn't it have been possible
+to find the inverse if we had just left it as the
+full parabola? I'll leave you -- or maybe I'll
+make a future video about that. But let's just figure
+out the inverse here. So, like we've said in
+the first video, in the introduction to inverses, we're
+trying to find a mapping. Or, if we were to say that y --
+if we were to say that y is equal to x plus 2
+squared plus 1. This is the function you give
+me an x and it maps to y. We want to go the other way. We want to take, I'll give you
+a y and then map it to an x. So what we do is, we
+essentially just solve for x in terms of y. So let's do that one
+step at a time. So, the first thing to do, we
+could subtract 1 from both sides of this equation. y minus 1 is equal to
+x plus 2 squared. And now to solve here,
+you might want to take the square root. And that actually will be
+the correct thing to do. But it's very important to
+think about whether you want to take the positive or
+the negative square root at this step. So we've constrained our domain
+to x is greater than or equal to negative 2. So this value right here, x
+plus 2, if x is always greater than or equal to negative
+2, x plus 2 will always be greater than or equal to 0. So this expression right here,
+this right here is positive. This is positive. So we have a positive squared. So if we really want to get to
+the x plus 2 in the appropriate domain, we want to take
+the positive square root. And in the next video or the
+video after that, we'll solve an example where you want to
+take the negative square root. So we're going to take
+theundefined positive square root, or just the principal
+root, which is just the square root sign, of both sides. So you get the square root of y
+minus 1 is equal to x plus 2. And one thing I should have
+remembered to do is, from the beginning we had
+a constraint on x. We had for x is greater than
+or equal to negative 2. But what constraint
+could we have on y? If you look at the graph right
+here, x is greater than equal to negative 2. But what's why? What is the range of y-values
+that we can get here? Well, if you just look at
+the graph, y will always be greater than or equal to 1. And that just comes from the
+fact that this term right here is always going to be
+greater than or equal to 0. So the minimum value that the
+function could take on is 1. So we could say for x is
+greater than or equal to negative 2, and we could add
+that y is always going to be greater than or equal to 1. y is always greater
+than or equal to 1. The function is always
+greater than or equal to that right there. To 1. And the reason why I want to
+write it at the stage is because, you know, later
+on, we're going to swap the the x's and y's. So let's just leave that there. So here we haven't explicitly
+solved for x and y. But we can write for y is
+greater than or equal to 1, this is going to be the domain
+for our inverse, so to speak. And so here we can keep
+it for y is greater than or equal to 1. This y constraint's
+going to matter more. Because over here,
+the domain is x. But for the inverse, the domain
+is going to be the y-value. And then, let's see. We have the square root of y
+minus 1 is equal to x plus 2. Now we can subtract
+2 from both sides. We get the square root of y
+minus 1 minus 2, is equal to x for y is greater
+than or equal to 1. And so we've solved
+for x in terms of y. Or, we could say, let me just
+write it the other way. We could say, x is equal to,
+I'm just swapping this. x is equal to the square root of y
+minus one minus 2, for y is greater than or equal to one. So you see, now, the way
+we've written it out. y is the input into the
+function, which is going to be the inverse of that function. x the output. x is
+now the range. So we could even rewrite
+this as f inverse of y. That's what x is, is equal to
+the square root of y minus 1 minus 2, for y is greater
+than or equal to 1. And this is the
+inverse function. We could say this
+is our answer. But many times, people want
+the answer in terms of x. And we know we could
+put anything in here. If we put an a here, we
+take f inverse of a. It'll become the square root
+of a minus 1 minus 2, 4. Well, assuming a is greater
+than or equal to 1. But we could put an x in here. So we can just rename
+the the y for x. So we could just do
+a renaming here. So we can just rename y for x. And then we would get -- let
+me scroll down a little bit. We would f inverse of x. I'll highlight it here. Just to show you, we're
+renaming y with x. You could rename it with
+anything really, is equal to the square root of x minus 1. Of x minus 1. Minus 2 for, we have to
+rename this to, for x being greater than or equal to 1. And so we now have our inverse
+function as a function of x. And if we were to graph it,
+let's try our best to graph it. Maybe the easiest thing to do
+is to draw some points here. So the smallest value
+x can take on is 1. If you put a 1 here,
+you get a 0 here. So the point 1, negative 2,
+is on our inverse graph. So 1, negative 2
+is right there. And then if we go to 2,
+let's see, 2 minus 1 is 1. The principle root
+of that is 1. Minus 2. So it's negative 1, so
+the point, 2, negative 1 is right there. And let's think about it. Let's see. If we did 5, I'm trying
+take perfect squares. 5 minus 1 is 4, minus 2. So the point 5, 2 is,
+let me make sure. 5 minus 1 is 4. Square root is 2. Minus 2 is 0. So the point 5, 0 is here. And so the inverse graph, it's
+only defined for x greater than or equal to negative 1. So the inverse graph is going
+to look something like this. It's going to look something
+like, I started off well, and it got messy. So it's going to look
+something like that. Just like that. And just like we saw, in the
+first, the introduction to function inverses, these are
+mirror images around the line y equals x. Let me graph y equals
+x. y equals x. y equals x is that
+line right there. Notice, they're mirror
+images around that line. Over here, we map
+the value 0 to 5. If x is 0, it gets mapped to 5. Here we go the other way. We're mapping 5 to -- we're
+mapping 5 to the value 0. So that's why they're
+mirror images. We've essentially
+swapped the x and y.

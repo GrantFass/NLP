@@ -1,0 +1,54 @@
+- [Voiceover] Hello
+everyone, so in this video I'm gonna introduce vector fields. Now these are a concept
+that come up all the time in multi variable calculus,
+and that's probably because they come up all the time in physics. It comes up with fluid
+flow, with electrodynamics, you see them all over the place. And what a vector field is,
+is its pretty much a way of visualizing functions
+that have the same number of dimensions in their
+input as in their output. So here I'm gonna write a function that's got a two dimensional input X and Y, and then its output is going to be a two dimensional vector and each of the components
+will somehow depend on X and Y. I'll make the first one
+Y cubed minus nine Y and then the second component,
+the Y component of the output will be X cubed minus nine X. I made them symmetric here,
+looking kind of similar they don't have to be, I'm
+just a sucker for symmetry. So if you imagine trying to
+visualize a function like this with a graph it would be really hard because you have two
+dimensions in the input two dimensions in the output so you'd have to somehow visualize this thing in four dimensions. So instead what we do, we
+look only in the input space. So that means we look
+only in the X,Y plane. So I'll draw these coordinate axes and just mark it up,
+this here's our X axis this here's our Y axis and for each individual input point like lets say one,two so lets say we go to one,two I'm gonna consider the
+vector that it outputs and attach that vector to the point. So lets walk through an
+example of what I mean by that so if we actually evaluate F at one,two X is equal to one Y is equal to two so we plug in two cubed whoops, two cubed minus nine times two up here in the X component and then one cubed minus nine times Y nine times one, excuse me down in the Y component. Two cubed is eight nine times two is 18 so eight minus 18 is negative 10 negative 10 and then one cubed is one,
+nine times one is nine so one minus nine is negative eight. Now first imagine that this was if we just drew this vector where we count starting from the origin,
+negative one, two, three, four, five, six,
+seven, eight, nine, 10, so its going to have
+this as its X component and then negative eight,
+one, two, three, four, five, six, seven, we're gonna
+actually go off the screen its a very very large vector so its gonna be something here and it ends up having
+to go off the screen. But the nice thing about vectors it doesn't matter where they start so instead we can start it
+here and we still want it to have that negative ten X component and the negative eight, negative one, two, three, four, five, six, seven, eight, negative eight as its Y component there and a plan with the vector field is to do this at not just one,two but at a whole bunch of different points and see what vectors attach to them and if we drew them all
+according to their size this would be a real mess. There'd be markings all over the place and this one might have some
+huge vector attached to it and this one would have some
+huge vector attached to it and it would get really really messy. But instead what we do, just
+gonna clear up the board here we scale them down, this is common you'll scale them down and
+so that you're kind of lying about what the vectors themselves are but you get a much better feel for what each thing corresponds to. And another thing about this drawing that's not entirely faithful to the original function that we have is that all of these
+vectors are the same length. I made this one just kind of the same unit this one the same unit, and over here they all just have the same length even though in reality
+the length of the vectors' output by this function
+can be wildly different. This is kind of common practice
+when vector fields are drawn or when some kind of software
+is drawing them for you so there are ways of getting around this one way is to just use
+colors with your vectors so I'll switch over to a
+different vector field here and here color is used to
+kind of give a hint of length so it still looks organized
+because all of them have the same length but the difference is that red and warmer
+colors are supposed to indicate this is a very
+long vector somehow and then blue would indicate
+that its very short. Another thing you can
+do is scale them to be roughly proportional
+to what they should be so notice all the blue vectors scaled way down to basically be zero red vectors kind of stay the same size even though in reality this
+might be representing a function where the true vector
+here should be really long or the true vector should
+be kind of medium length its still common for people
+to just shrink them down so its a reasonable thing to view. So in the next video I'm
+gonna talk about fluid flow a context in which vector
+fields come up all the time and its also a pretty
+good way to get a feel for a random vector field that you look at to understand what its all about.

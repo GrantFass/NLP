@@ -1,0 +1,78 @@
+- [Voiceover] So we have
+this function, f of x, expressed as a rational expression here, or defined with a rational expression. And we are told at each
+of the following values of x, select whether f has a zero, a vertical asymptote, or
+a removable discontinuity. And before even looking at the choices, what I am going to do,
+because you're not going to always going to have
+these choices here. Sometimes you might just have to identify the vertical asymptotes, or the zeros, or the removable discontinuities, is I am going to factor this out. And hopefully, or I'm going
+to factor the numerator and the denominator to hopefully makes things a little bit more clear. And we are to think
+about what x values make the numerator and, or the
+denominator equal to zero. So the numerator, can I factor that? Well, let's see. What two numbers, their
+product is negative 24, and they add to negative two. See, that would be negative
+six and positive four. So we could write x minus
+six times x plus four. Did I do that right? Negative six times four is negative 24. Negative six x plus four
+x is negative two x. Yeah, that's right. Alright, and now in the denominator, let's see, six times four
+is 24, six plus four is 10. So we can say, six, x
+plus six times x plus 4. So let's look at the numerator first. The numerator zero if x is equal to positive six, or x is
+equal to negative four. The denominator is zero if x is equal to negative six, or x is
+equal to negative four. So, let's think about it. Can we simplify this, what
+we have up here a little bit? And I, in other words, keep in
+mind what I just wrote down. Well it might be, just
+jumping at it, you get an x plus four divided by an x plus four, why can't we simplify this
+expression a little bit? And just write this whole thing, write our original expression as being x minus six over x plus
+six, where x, if we want it to be algebraically equivalent
+we have to constrain the domain, where x cannot
+be equal to negative four. Well this is interesting
+because before, when x equals negative four, we had all this
+weird zero over zero stuff. Well we were able to
+remove it, and we were able to make it this kind of,
+this extra condition. And if you were to graph
+it, it would show up as a little bit of a
+removable discontinuity. A little bit of a point discontinuity, just one point, where the function is not actually, is actually not defined. So in this situation,
+and this is typical where there's a thing that you can factor out, it was making the numerator
+and the denominator equal zero but you can factor that out, so it no longer does it. That's going to be
+removable discontinuity. So x equals negative four is
+a removable discontinuity. And once you've factored
+out all the things that would make it a
+removable discontinuity, then you can think about
+what's going to be a zero and what's going to be
+a vertical asymptote. If it makes, once you've
+factored out everything that's common to the
+numerator and the denominator, if of what's left, something
+makes the numerator equal to zero, well,
+then it's going to make this whole expression equal to zero and so you're dealing with
+a zero, so x equals six. Six would make the
+numerator equal to zero. Six minus six is zero. So there you're dealing with a zero. And to make the denominator equal to zero, you would get x equals negative six. That would make the denominator equal zero so that's a vertical asymptote. It's called a vertical asymptote because as you approach this value, as approach negative
+six, either from values smaller than negative six
+or larger than negative six, the denominator is going to
+become either very, very, very, it's either going to become a
+very, very, very, very small positive number or a very, very,
+very small negative number, so we're going to approach
+zero either from above or below and so when you divide by
+that, you're going to get very large positive values or
+very large negative values. And so your graph does stuff like that. So you have a vertical asymptote. It might either do something like that or it might do something like this, where this is your vertical asymptote, and then when you approach from here, it goes, it bumps up like that. So either way, so that's why
+that's a vertical asymptote. Let's do another one. Alright, so same drill and like before, let, we'll always pause the video and see if you can work
+it out on your own. Let me factor it. So let's see, two numbers,
+product is negative 32. They're going to have
+different signs, eight, four. And then we want the
+large one to be positive since they have to add
+up to positive four x. So x plus eight times x minus four. Yep, I think that's right. And then divided by, this
+is four times four is 16. Four, negative four plus
+negative four is negative eight so this x minus four times x minus four. Now this is really, really interesting because you might say,
+oh, I have an x minus four x minus four, maybe, x equals four is a removable discontinuity. And it would have been unless you had, if you didn't have this over here, because x equals four, even
+after you've factored this. You still can't, the
+expression, the function, is still not going to be
+defined when x equals four. And so this function is
+actually equivalent to x plus eight over x minus 4. I don't have to put that
+extra little constraint like I did before. I don't have to put, I don't have to put this little constraint that describes this removable discontinuity
+because the constraint is still there, after I've factored out, after I've cancelled out this x minus four with this x minus four. And so here, we've, this is
+actually an algebraically equivalent expression to
+this one right over here. And so now, we can think about what the zeros or the vertical asymptotes or the removable
+discontinuities are going to be. Well, something that
+makes the numerator zero without doing it to the
+denominator is going to be a zero. And x equals negative
+eight makes the numerator equal to zero without
+doing anything to, without making the denominator equal to zero. It would make the
+denominator to negative 12. So you could literally just
+evaluate h of negative eight is equal to zero over negative
+12, which is equal to zero. So that's why we call it a zero. What about x equals four? Well, x equals four is going
+to make the denominator only equal to zero, so that's going to give us a vertical asymptote. And we're all done.

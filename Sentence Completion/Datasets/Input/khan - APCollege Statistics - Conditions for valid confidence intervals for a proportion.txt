@@ -1,0 +1,68 @@
+- [Instructor] What we're
+going to do in this video is dig a little bit deeper
+into confidence intervals. In other videos, we compute
+them, we even interpret them, but here we're gonna make sure that we are making the right assumptions so that we can have confidence
+in our confidence intervals or that we are even calculating
+them in the right way or in the right context. So just as a bit of review, a lot of what we do in
+confidence intervals is we're trying to estimate
+some population parameter. Let's say it's the proportion, maybe it's the proportion that
+will vote for a candidate. We can't survey everyone
+so we take a sample. And from that sample, maybe we calculate a sample proportion. And then using this sample proportion, we calculate a confidence interval on either side of that sample proportion. And what we know is that if we do this many, many, many times, every time we do it we
+are very likely to have a different sample proportion. So that'd be sample proportion
+one, sample proportion two. And every time we do it, we might get, maybe this is sample proportion two, not only will we get a different, I guess you can say
+center of our interval, but the margin of error might change because we are using the
+sample proportion to calculate. But the first assumption,
+that has to be true. And even (mumbles) any claims
+about this confidence interval with confidence, is that
+your sample is random. So that you have a random sample. If you're trying to estimate
+the proportion of people that are gonna vote
+for a certain candidate but you are only surveying
+people at a senior community, well, that would not be
+a truly random sample, if we were only to survey
+people on a college campus. So like with all things with statistics, you really wanna make sure that you're dealing with a random sample and take great care to do that. The second thing that we have to assume, and this is sometimes known
+as the normal condition, normal condition. Remember, the whole basis
+behind confidence intervals is we assume that the distribution of the sample proportions, the sampling distribution
+of the sample proportions, has roughly a normal shape like that. But in order to make that assumption that it's roughly normal, we have this normal condition. And the rule of thumb here
+is that you would expect per sample more than 10 successes, successes, successes, and failures each, each. So for example, if your
+sample size was only 10, let's say the true
+proportion was 50% or 0.5, then you wouldn't meet
+that normal condition because you would expect five successes and five failures for each sample. Now, because usually when we're
+doing confidence intervals we don't even know the
+true population parameter, what we would actually just do is look at our sample and just count how many successes and
+how many failures we have. And if we have less than
+10 on either one of those, then we are going to have a problem. So you wanna have at least
+greater than or equal to 10 successes or failures on each. And you actually don't
+even have to say expect because you're going to get a sample and you could just
+count how many successes and failures you have. If you don't see that, then
+the normal condition is not met and the statements you make
+about your confidence interval aren't necessarily going to be as valid. The last thing we wanna really make sure is known as the independence condition. Independence condition. And this is the 10% rule. If we are sampling without replacement, and sometimes it's hard to do replacement. If you're surveying people who are exiting a store, for example, you can't ask them to
+go back into the store or it might be very awkward to
+ask to go back in the store. And so the independence condition
+is that your sample size, so sample, let me just say n, n is less than 10% of the population size. And so let's say your
+population were 100,000 people. If you surveyed 1,000 people, well, that was 1% of the population so you'd feel pretty good that the independence condition is met. And once again, this is
+valuable when you are sampling without replacement. Now, to appreciate how
+our confidence intervals don't do what we think they're gonna do when any of these things are broken, and I'll focus on these latter two. The random sample condition, that's super important
+frankly in all of statistics. So let's first look at a situation where independence condition breaks down. So right over here, you can see that we are using
+our little gumball simulation. And in that gumball simulation, we have a true population proportion, but someone doing these
+samples might not know that. We're trying to construct
+confidence interval with 95% confidence level. And what we've set up here
+is we aren't replacing. So every member of our sample, we're not looking at it
+and putting it back in. We're just gonna take a sample of 200. And I've set up the
+population so that it's a far larger than 10% of the population. And then when I drew a bunch of samples, so this is a situation where I did almost 1500 samples here of size 200, what you can see here is the situations where our
+true population parameter was contained in the confidence interval that we calculated for that sample. And then you see in red
+the ones where it's not. And as you can see, we are
+only having a hit so to speak. The overlap between
+the confidence interval that we're calculating in
+the true population parameter is happening about 93% of the time. And this is a pretty
+large number of samples. If it's truly at a 95% confidence level, this should be happening 95% of the time. Similarly, we can look at a situation where our normal condition breaks down. And our normal condition, we can see here that our
+sample size (mumbles) is 15. Actually, if I scroll down a little bit, you can see that the
+simulation even worries me. There are fewer than
+10 expected successes. And you can see that when I do, once again I did a bunch of samples here. I did over 2,000 samples. Even though I'm trying to set
+up these confidence intervals that every time I compute
+it, that I've overtime, that there's kind of a
+95% hit rate so to speak, here's only a 94% hit rate. And I've done a lot of samples here. And so the big takeaway, not being random will really skew things, but if you don't feel good about how normal the actual
+sampling distribution of the sample proportions are or if your sample size
+is a fairly large chunk of your population and
+you're not replacing and you're violating the
+independence condition, then your confidence level that you think you're computing for when you make your confidence
+intervals might not be valid.

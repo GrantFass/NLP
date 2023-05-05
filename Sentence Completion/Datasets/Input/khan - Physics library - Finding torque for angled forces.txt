@@ -1,0 +1,141 @@
+- [Instructor] I don't know about you, but torque problems
+used to give me anxiety, and I think it was because I
+didn't really understand well what torque meant or how to find it. So what I want to do in
+this video is show you how to find the torque. There are conceptual ways
+and tricks to figure it out, so I want to share those with you so that going forward we
+don't have to be so anxious when we're solving a torque problem. And specifically the problems
+I got most anxious about were these problems where the
+force was at a weird angle, so let's do this. Let's figure out how to find the torque from say this 10 newton force exerted at this angle of 30 degrees. Now one of the first things you want to do when finding the torque
+is identify the axis. The axis is the point about
+which the object's gonna rotate. So let's say it was told
+to us that in this problem the object, whatever it is,
+rotates around the center. So the center here of the
+object would be the axis. Maybe this is a board
+with a nail through it, or maybe this is a bird's eye view of one of those fancy
+revolving glass doors at the nice restaurants and hotels. Regardless, let's say the
+axis was in the very center, and that's crucial to
+know because if a force is gonna exert a torque,
+it has to be applied at some point besides the axis. In other words, if you go try to push open this revolving glass
+door at the very center, nothing's gonna happen
+because it's not gonna rotate. But the farther out you apply this force, the more torque you will get for the amount of force
+that you're exerting. So a force out here would
+apply much more torque than a force right here. That's why the door knobs are
+near the edge of the door. It'd be really hard to open
+a door right near the hinge. If you haven't tried it, try it out. It's really hard. Now that we've identified
+the axis, we could figure out how much torque we're exerting. Now the first thing I might try to figure out the torque
+here is I'd just say, alright torque, I know what torque is. Torque is F times D, or F times R. You could call it an R. But what's important to know
+is that this R represents the vector that points
+from the axis to the point where the force was applied. So in this case, that would represent from this axis right here to the point where the force was applied would be this. This would be R. Note that R is not the
+entire radius necessarily, and it's not the entire
+length of the object. Always from the axis to the
+point where the force is applied and technically this R is a vector. You can think of it as a position vector, but regardless it points from the axis to the point where the force is applied. It doesn't point the other way. The direction is not toward the axis, the direction is always away
+from the axis to that point where the force happens to
+be applied to the object. So let's give this a number. Let's say this happened to
+be two meters from this axis to the point where this
+10 newtons was applied. Now we can solve for this torque, but you have to be careful. A mistake I might've
+made is to say just well, the force was 10 newtons,
+the R here is two meters, so my torque should just be 20, right? Two times 10? But that's not right 'cause this force is not representing the
+total force necessarily. If you just write this
+formula for torque like this, what you really mean is that this force is the perpendicular force to this R. So only the perpendicular
+component of this force is gonna exert a torque on the door. The component parallel to the
+R doesn't exert any torque, and that should make sense. So if I draw this out, let
+me draw the components. If I break this 10 newtons
+up into a component that goes this way, I'll
+call that F parallel because that force is parallel to R. It runs the same direction as R does. And I'll break it up into
+this component as well, this perpendicular component, and I'll call that F perpendicular 'cause this component is
+perpendicular to this R vector. Only this perpendicular component
+is gonna exert a torque, and that should make sense. Torque is a force that causes
+something to start rotating, or to change its rotation. So the only component of this force, of this 10 newtons that is
+gonna cause this door to rotate, is this perpendicular component. This is the way you push on
+a door to make it rotate. You don't pull the axis this way. If I came up and tried to
+open this revolving glass door by pushing that way,
+you'd think I was crazy 'cause that's not gonna
+cause the door to rotate. Similarly, trying to
+pull the door that way is not gonna cause this door to rotate. You need to exert a force
+perpendicular to this R vector in order to get the door to rotate. In other words, only perpendicular
+components of the force, that is perpendicular to the
+R, are going to exert a torque. So it's only this
+component of the 10 newtons that's going to contribute
+toward the torque, and we can find that. If this was 30 degrees, this
+is an alternate interior angle. That means that this is also 30 degrees. So these angles are
+identical based on geometry. That means this component
+that's perpendicular, I can write as well let's
+see, it's the opposite side. That side is opposite of this 30 degrees, so I can say that it's
+gonna be 10 newtons, the hypotenuse would be 10
+newtons times sine of 30. And 10 newtons times sine of
+30 degrees is five newtons. So finally I can say that the
+torque exerted on this door by this force of 10 newtons at 30 degrees would be the perpendicular
+component, which is five newtons, times how far that force
+was applied from the axis, and that was two meters, and
+I get that the torque here is gonna be 10 newton meters. So at this point I wouldn't blame you if you weren't like, see,
+this is why I hate torque. I've gotta remember that this
+two meters is from the axis to the point where the force is applied. I've gotta remember that
+I'm only supposed to take the perpendicular component, and I'm supposed to
+remember that perpendicular means perpendicular to this R vector. You might wonder, is there
+an easier way to do this? Is there a formula that makes it so I don't have to carry
+so much cognitive load when I'm trying to solve these problems? And there is. Since this force component
+is always the component that's perpendicular to the R, we can take that into account
+when writing down the formula. In other words, the way you find that perpendicular component
+is by taking the magnitude of the total force, the 10 newtons, and you multiply by sine of the angle between the R vector and the F vector. That's what we did to
+get this five newtons, so why not just write down
+this formula explicitly in terms of the total
+force times sine theta? That's gonna be the
+perpendicular component, and then multiply by R. So what this represents is this here, this F sine theta is F perpendicular, and then you multiply by
+R just like we always do. Now in most textbooks you'll
+see it written like this. They like putting the
+sine theta at the end. Looks a little cleaner. So if we do F times R times sine theta, now we can just plug in
+the entire 10 newtons in for the force, the entire
+two meters in for the R, and this theta would be
+the angle between the force and the R vector, but that's crucial. You gotta remember if you're
+gonna use this formula instead of this formula,
+you've gotta remember that this angle here is always the angle between the force vector and the R vector, which is the vector from the axis to the point where the force is applied. Which in this case, was 30 degrees. So sometimes it's not obvious. How do you figure out the
+angle between F and R? Well first you identify the direction of F and the direction of R. The safest way to figure
+it out would be to imagine taking this F vector and just moving it so its tail is at the
+tail of the R vector. And then you'd want to figure out okay, how much angle is there
+between this F and this R? Well alternate interior
+angles again, that makes 30. So that is the angle. The angle between the F
+vector and the R vector is the angle we're looking for when we're solving for the torque exerted by a certain force. So let's use this formula. Let me take this formula, let's take this, we're gonna use this to
+solve another example, 'cause the only way to get good at this and to not fear it is to practice a few. Let's take our new formula,
+torque is F R sine theta, and let's say there was a
+force applied right here. And let's say you were
+given these distances here and we want to figure out how much torque does this force of 20 newtons apply if it's at this angle of 60 degrees. So we use our formula. We're gonna use this F is the entire F. Now we don't have to break
+the F into components. We can just say that it's the
+entire 20 newtons of force. The entire magnitude of the force times R, but we got all these. We got three different Rs here. Which one do we use? Remember, R is defined
+to be from the axis, which again is gonna be in the middle, to the point where the force was applied. That's this way, so the
+magnitude of R is one. It's not three, it's not four. If you're given multiple
+numbers you have to be careful. You have to select that
+vector that goes from the axis to the point where the force is applied, so this is the magnitude of
+that vector, which is one meter. And then it's gonna be sine of the angle between the force vector and the R vector. So think about it. Force goes this way, down and right. R goes to the left. The true angle between R and F
+would be we'd have to imagine moving F so that they're tail to tail, and then we could say that F
+is gonna point down and right. R goes to the left. The angle between them
+would be this much angle. Now we can find that in a variety of ways. One thing we could do is imagine making a right triangle here. If that's 60 degrees and this is 90, then this has to be 30 degrees
+since the interior angles of a triangle have to add up to 180. And if that's 30 and this is 90, then that angle has to be 120. So we can stick 120 degrees
+up here as the actual angle between the force vector and the R vector. Now if you missed that,
+the reason we're saying 120 is because 90 plus 30 is 120. So if the angle between R and F is 90 degrees plus 30 degrees, then it's gonna be 120 degrees. That's why we're putting 120 up here as the angle between R and F, but you might be concerned. You might be like, that was a lot of work. I don't want to have to do that. I just want to take my F vector and determine what the
+angle is between F and R. Do I really have to imagine moving it? And you don't, so it's not that hard. Yes technically, tail to
+tail is the way to determine the angle between two vectors, but head to head gives you the same angle. So I could've just looked
+at this angle here. I knew that this was 60,
+and I knew 180 minus 60 gives me 120, so that's
+another way to figure out the angle you put into here. So in other words, you
+do not have to imagine moving this vector tail to tail. If the vectors are butting heads, if you have your F vector and
+your R vector butting heads, just find the angle between the F vector and the R vector that way. It'll still give you the same
+angle, which is 120 degrees. Now you might wonder, what
+if I totally screw up? What if instead of putting in
+120, I just throw in the 60? I mean that was the angle that was given. What would happen then? Turns out you'd still
+get the right answer. The torque formula is kind in this sense because even if I put in 60, sine of 60 is the same as sine of 120. That's not a coincidence here. It's because this angle here,
+this 120 between F and R is supplementary to this 60 degrees. Think about it. This whole angle from this point all the way to there is 180. If this is 120, this 60 degrees would have to be the supplementary angle 'cause these have to add up to 180. And the sine of supplementary angles gives you the same answer. So if I plug in 60 degrees
+up here it would still work. So long story short, even
+though we defined the angle between vectors as the angle between them when they're tail to tail,
+you put 'em head to head, that still gives you the
+same angle as tail to tail, and since we're taking sine of that angle, we can use either of
+these supplementary angles to get the same answer. So just stick your F vector
+next to your R vector, find either of these angles. You can use that in this torque formula and you'll get the right answer. So recapping, you can find
+the torque from a force by taking the perpendicular
+component of that force and multiplying by the
+magnitude of the R vector where this R vector is the
+vector that points from the axis to the point where the force is applied. And by perpendicular,
+we mean perpendicular to the R vector. Or you could use this formula
+where F would represent the entire magnitude of the force. R would be the magnitude of the R vector, and the theta in here represents the angle between the force and the R vector when they're head to head,
+when they're tail to tail, or because sine of
+supplementary angles are equal, you could also take
+the supplementary angle to that angle between F and R.

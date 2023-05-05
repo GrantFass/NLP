@@ -1,0 +1,36 @@
+- [Instructor] We're now
+going to explore factoring a type of expression called
+a difference of squares and the reason why it's
+called a difference of squares is 'cause it's expressions
+like x squared minus nine. This is a difference. We're subtracting between two quantities that are each squares. This is literally x squared. Let me do that in a different color. This is x squared minus three squared. It's the difference between two quantities that have been squared and it turns out that this is pretty
+straightforward to factor. And to see how it can be factored, let me pause there for a second and get a little bit of review
+of multiplying binomials. So put this on the back
+burner a little bit. Before I give you the answer
+of how you factor this, let's do a little bit of an exercise. Let's multiply x plus a times x minus a where a is some number. Now, we can use that, do that using either the FOIL method but I like just thinking of this as a distributive property twice. We could take x plus a and distribute it onto
+the x and onto the a. So when we multiply it by x, we would get x times x is x squared, a times x is plus ax and then when we multiply
+it by the negative a, well, it'll become negative a times x minus a squared. So these middle two terms cancel out and you are left with x
+squared minus a squared. You're left with a difference of squares. x squared minus a squared. So we have an interesting
+result right over here that x squared minus
+a squared is equal to, is equal to x plus a, x plus a times x minus a. And so we can use, and this is for any a. So we could use this
+pattern now to factor this. Here, what is our a? Our a is three. This is x squared minus three squared or we could say minus our a
+squared if we say three is a and so to factor it, this
+is just going to be equal to x plus our a which is three times x minus our a which is three. So x plus three times x minus three. Now, let's do some examples
+to really reinforce this idea of factoring differences of squares. So let's say we want to factor, let me say y squared minus 25 and it has to be a difference of squares. It doesn't work with a sum of squares. Well, in this case, this is going to be y
+and you have to confirm, okay, yeah, 25 is five squared and y squared is well, y squared. So this gonna be y plus
+something times y minus something and what is that something? Well, this right here is five
+squared so it's y plus five times y minus five and the variable doesn't
+have to come first. We could write 121 minus, I'll introduce a new
+variable, minus b squared. Well, this is a difference of squares because 121 is 11 squared. So this is going to be 11 plus something times 11 minus something and in this case, that something is going to be
+the thing that was squared. So 11 plus b times 11 minus b. So in general, if you see
+a difference of squares, one square being subtracted
+from another square and it could be a numeric perfect square or it could be a variable that
+has been squared that can be, that you could take the square root of. Well, then you could say, alright, well, that's just gonna be the first thing that squared plus the second
+thing that has been squared times the first thing that was squared minus the second thing that was squared. Now, some common mistakes
+that I've seen people do including my son when
+they first learned this is they say, okay, it's easy to recognize the difference of squares but then they say, oh,
+is this y squared plus 25 times y squared minus 25? No, the important thing to realize is is that what is getting squared? Over here, y is the thing getting squared and over here it is five
+that is getting squared. Those are the things
+that are getting squared in this difference of squares and so it's gonna be y plus
+five times y minus five. I encourage you to just try this out. We have a whole practice
+section on Khan Academy where you can do many many more
+of these to become familiar.

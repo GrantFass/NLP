@@ -1,0 +1,46 @@
+- [Voiceover] Answer
+the following questions about the solubility of calcium hydroxide, and they give us the solubility product. Write a balanced chemical equation for the dissolution of
+solid calcium hydroxide in pure water. So we're going to start
+off with calcium hydroxide. And it is solid, and it is going to be in equilibrium. When it's dissolved, you have calcium ions that have a positive two charge. Writing aqueous here since it's dissolved in our solution, a solution of water, and then plus you have
+your hydroxide ions, also dissolved in the water. For every calcium, you
+have two hydroxides. We see that we are balanced, one calcium, one calcium, two hydroxides, two hydroxides. All right, let's do the next part. Calculate the molar solubility
+of calcium hydroxide, not in pure water, but in a solution that already has a concentration of another salt, calcium nitrate. It's a .1 molar concentration, .10 molar concentration
+of calcium nitrate, which you might recognize is a very soluble salt. It's very soluble, it's a nitrate salt, which are very soluble. So how do we think about this? How do we think about the molar solubility of calcium hydroxide? How much incremental calcium can be dissolved when you already have some calcium? And for whatever the
+concentration of calcium that gets dissolved, you're gonna have twice the concentration of
+hydroxide that gets dissolved. You might have guessed,
+or intuited, or have known that this will involve
+the solubility product. So the solubility product is equal to the concentration of the product of the concentrations of the two things that
+actually get dissolved. So you have your calcium ions and you have your hydroxide ions, hydroxide ions, and since you two have moles of this for every mole of the calcium, we square it just like that. Now some of you might be saying, hey, this looks kind of like an equilibrium constant, but if we were dealing with
+an equilibrium constant, we would divide by the concentration of the reactants. And we could have done an
+equilibrium constant here, used an equilibrium constant, but the concentration of the reactant, this is in its solid state. If we imagine what's
+happening right over here, we have a block, you can imagine having a block of solid calcium hydroxide here inside the water, and we've been saturated. So we've saturated as
+much of the ions as we can into our solution. And so every time you have
+some calcium hydroxide that gets dissolved, you have an equal amount that forms from the solution. And so if you were doing
+a equilibrium constant, you would divide by the concentration of the solid calcium hydroxide. We're not used to thinking
+about concentrations of solids in terms of molarity and things like that, but that's going to be constant because if there's any
+of the calcium hydroxide that gets dissolved, well
+the volume goes down, and if any gets formed,
+the volume goes up. So the concentration stays constant. The convention is you multiply both sides by that to get a solubility product, and that's where the
+solubility product comes from. I'll do another video that goes into much more depth than that. But anyway, how do we use this? Well, we already have, let me write this down, we already have some calcium ions. So we already have 0.10 molar calcium ions dissolved. I don't even have to
+write dissolved there. We already have that in the solution. We are going to add x molar, I guess I could say, calcium ions through dissolving the calcium hydroxide. And that means that we
+would have two x molar concentration, I could write it this way, concentration of hydroxide because for every,
+whatever the concentration of calcium ions, you're gonna have twice the concentration of hydroxide because for every calcium molecule, you're gonna have two hydroxide molecules. So how do we use that with this solubility product? Well, you already have
+this right over here, you already have 0.10 already, and then you're going to add x. So that's that right over there. I think this notation that I wrote here might be a little bit confusing. So bear with me. So maybe not putting the brackets there will make it a little
+bit easier to understand because there's clearly already a concentration. All right, so this is going
+to be the concentration of calcium ions, the ones that you already had plus the ones that you add. And then your concentration of hydroxide, well, that's going to be two x. For every calcium you add, you're gonna add twice as many hydroxides. And of course, you square that. That�s going to be equal
+to the solubility product, which they tell us is
+1.3 times 10 to the -6th. So we have 1.3 times 10 to the -6th. Now if you try to solve this outright, it's going to get quite complicated. You're gonna end up, this is going to be four x squared, and you multiply it times this, you're gonna get an x squared term, and then you�re getting
+an extra third term. Not that easy to solve. A simplifying assumption that we make when we solve these, especially because this nitrate salt is so soluble, much more soluble than this salt right over here, this hydroxide salt, and so you can assume this is, this part right over here is approximately 0.1 since x is much smaller than 0.10. That's the assumption you make. You have to know that okay, well first of all, this is going to be hard to solve the way it is, but then the fact that we're adding a much less soluble thing to something that is nowhere close to saturation, this is a
+very high concentration. We can go back fill to see if we make this assumption, whatever we solve for x, if it gets us still pretty close to this solubility product. So if we make that assumption, we get 1.3 times 10 to the -6th is equal to 0.10 times four x squared, or we could get x squared is equal to 1.3 times 10 to the -6th divided by 0.10, and then times four, or we could say divided by 0.40, or we could say that x is going to be the square root of this. So x is going to be equal to, let's get a calculator out, so we have 1.3 EE times 10 to the -6th divided by .4 is equal to that, and now we want to take
+the square root of that. And let's see, we're dealing with how many significant figures are over here? Well looks like it's about two. So 0018. So approximately, let me write that a little bit neater, approximately 0.0018 molar. Let me see if that's, is that what I got? Yeah, .0018 molar. And so that's our answer. If you want to feel better about it, you can substitute this back into our original equation here and say, okay, this does still get me something close to 1.3 times 10 to the -6th. And if you try that, you will see that that
+is actually the case. Now let's do this last part. In the box below, complete the particle
+representation diagram that includes four water molecules with proper orientation around the calcium ions. Well, the water molecules we know are polar. If this is the oxygen here and this is a hydrogen, this is a hydrogen, we have our lone pairs of electrons here. So you have a partially
+negative charge there, and you have partially positive charges at the hydrogens that get
+their electrons hogged, and so you're gonna orient it. So they just want us to draw four. So the oxygen end is going to be oriented towards
+the positive calcium because you have a
+partially negative charge being attracted to the positive charge. So that's one, that is two, that is three, and that is four. They told us to draw only
+four right over there. If you want to be clear, you can say those are oxygens right over there, and these are the
+hydrogens right over here. The hydrogens have a partially, that end of the molecule has
+a partially positive charge so it's going to be repelled from the calcium ion, and then the other side
+that has the lone pairs, well, that's gonna have a
+partially negative charge so it's going to be attracted to the positive charge. And there you go.

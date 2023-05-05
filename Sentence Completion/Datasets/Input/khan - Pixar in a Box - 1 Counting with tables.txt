@@ -1,0 +1,14 @@
+- Hi, I'm Fran Kalal. I'm a cloth and sim technical director at Pixar Animation Studios. That means I get to take what
+I know about art and design and make outfits, and what I know about math and physics to make them move. I'm here today to talk to you about crowds like the large one behind me. Except that the one behind me is physical, and the ones we need to make for our films are virtual. That means they exist
+only on the computer. We saw in the last video
+how lots of robots were made using only a few parts through the use of combinatorics. So follow me to learn more about what combinatorics is and
+how we use it at Pixar. To understand how many robots we can make from a bin of parts, let's
+start with an example where a robot has one head and one body. And I've got two different
+heads to choose from and three different bodies. So I can take this head with this body, or this same head with this body, and that's already two different robots. And clearly I can make a whole lot more. A great way to keep track
+of this is with a table where I'm going to place
+the heads along the columns and the bodies along the rows. This cell means put
+this head on this body. There are six cells on the table, so there are six different robots even though we only have
+five different parts. This is a great example of the fact that finding a good way
+to think about a problem makes it easier to solve. How many robots could you make if there were different
+numbers of heads and bodies? You can explore that question
+in the next exercise.

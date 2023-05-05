@@ -1,0 +1,163 @@
+OK, I filled your brain with a
+bunch of partial derivatives and psi's, with respect
+to x's and y's. I think now it's time to
+actually do it with a real differential equation,
+and make things a little bit more concrete. So let's say I have the
+differential, y, the differential equation, y cosine
+of x, plus 2xe to the y, plus sine of x, plus-- I'm
+already running out of space-- x squared, e to the y,
+minus 1, times y prime, is equal to 0. Well, your brain is already,
+hopefully, in exact differential equations mode. But if you were to see this
+pattern in general, where you see a function of x and y,
+here-- this is just some function of x and y-- and then
+you have another function of x and y, times y prime, or times
+dy, d of x, your brain should immediately say if this
+is inseparable. And I'm not going to try to
+make it separable, just because that'll take
+a lot of time. But if it's not separable, your
+brain said, oh, maybe this is an exact equation. And, you say, let
+me test whether this is an exact equation. So if this is an exact equation,
+this is our function M, which is a function
+of x and y. And this is our function
+N, which is a function of x and y. Now, the test is to see if the
+partial of this, with respect to y, is equal to the partial
+of this, with respect to x. So let's see. The partial of M, with respect
+to y, is equal to-- let's see, y is-- so this cosine of x is
+just a constant, so it's just cosine of x. Cosine of x plus-- now,
+what's the derivative? Well, 2x is just a constant,
+what's the derivative of e to the y, with respect to y? Well, it's just e
+to the y, right? So we have the constant on
+the outside, 2x times the derivative, with respect to
+y, so it's 2xe to the y. Fair enough. Now, what is the partial
+derivative of this, with respect to x? So N sub x, or the partial of
+N, with respect to x-- so what's the derivative of sine
+of x, with respect to x? Well, that's easy, that's cosine
+of x, plus 2x times e to the y, right? e and y is just
+a constant, because y is constant when we're taking the
+partial, with respect to x. So plus 2xe to the y. And then minus 1, the derivative
+of a constant, with respect to anything
+is going to be 0. So the derivative of N-- the
+partial of N, with respect to x, is cosine of x, plus 2xe to
+the y, which, lo and behold, is the same thing as the
+derivative, the partial of M, with respect to y. So there we have it. We've shown that M of y is equal
+to-- or the partial of M, with respect to y-- is equal
+to the partial of N, with respect to x, which
+tells us that this is an exact equation. Now, given that this is an exact
+equation-- oh, my wife snuck up behind me,
+I was wondering. I thought there was
+some critter in my house, or something. Anyway, so we know that this is
+an exact equation, so what does that tell us? Well, that tells us that there's
+some psi, where the partial derivative of psi, with
+respect to x, is equal to M, and the partial derivative of
+psi, with respect to y, is equal to N. And if we know that psi,
+then we can rewrite our differential equation as the
+derivative of psi, with respect to x, is equal to 0. So let's solve for psi. So we know that the partial of
+psi, with respect to x, is equal to M. So we could write that. We could write the partial of
+psi, with respect to x, is equal to M, which is y cosine
+of x, plus 2xe to the y. That's just here. That's my M of x. We could have done
+it the other way. We could have said the partial
+of y-- the partial of psi, with respect to y, is this
+thing over here. But let's just do it with x. Now, to at least get kind of a
+first approximation of what size-- not an approximation, but
+to start to get a sense of it-- let's take the derivative
+of both sides, with respect to-- sorry, take the
+antiderivative-- take the integral of both sides,
+with respect to x. So if you take the derivative of
+this, with respect to x, if you integrate-- sorry, if
+you were to take the antiderivative of this,
+with respect to x. So let me just write
+that down. The partial, with
+respect to x. We're going to [? integrate ?] it, with respect to x. That is going to be equal to
+the integral of this whole thing, with respect to x. Cosine of x plus 2xe to the y. We're integrating with
+respect to x. And normally when you integrate
+with respect to x, you'd say, OK, plus c, right? But it actually could be a
+plus-- since this is a partial, with respect to x, we
+could have had some function of y here in general, because
+y, we treat it as a constant, right? And that makes sense, because
+if you were to take the partial of both sides of this,
+with respect to x, if you were to take the partial of a
+function that is only a function of y, with respect
+to x, you would have gotten a 0 here. So when you take the
+antiderivative, you were, like, oh well, there might have
+been some function of y here that we lost when
+we took the partial, with respect to x. So anyway, this will
+simplify to psi. psi is going to be equal to the
+integral, with respect to x, or the antiderivative, with
+respect to x, here, plus some function of y that we might
+have lost when we took the partial, with respect to x. So let's do that. Let's figure out
+this integral. I'll do it in blue So y
+is just a constant. So the antiderivative of y
+cosine of x, is just y sine of x, plus-- either the y
+is constant, so 2x. The antiderivative of 2x, with
+respect to x, is x squared, so it's x squared e to the y. And then plus some
+function of y. And if you want to verify this,
+you should take the partial of this, with
+respect to x. If you take the partial of
+this, with respect to x, you're going to get this in
+here, which is our function, M, up here. And then when you take the
+partial of this, with respect to x, you'll get 0, and
+it'll get lost. OK, so we're almost there. We've almost figured out our
+psi, but we still need to figure out this function of y. Well, we know that if we take
+the partial of this, with respect to y, since this
+is an exact equation, we should get this. We should get our N function. So let's do that. So the partial-- I'll switch
+notation, just to expose you to it-- the partial psi, with
+respect to y, is going to be equal to-- so here, y sine
+of x, sine of x is just a constant. y is just y, so the
+derivative of this, with respect to y, is
+just sine of x. Plus the derivative of e to the
+y is e to the y. x squared is just a constant. So it's just x squared e to
+the y, plus-- what's the partial of f of y, with
+respect to y? It's going to be f prime of y. Well, what did we do? We took M, we integrated with
+respect to x, and we said, well, we might have lost some
+function of y, so we added that to it. And then we took the partial of
+that side that we've almost constructed, and we took
+the partial of that, with respect to y. Now, we know, since this is
+exact, that that is going to equal our N. So our N is up there. Cosine of x plus-- So that's
+going to be equal to-- I want to make sure I can read it up
+there-- to our N, right? Oh no, sorry. N is up here. Our N is up here. Sine of x-- let me write
+that-- sine of x plus x squared, e to the y, minus 1. So sine of x plus x squared,
+e to the y, minus 1. That was just our N,
+from our original differential equation. And now we can solve
+for f prime of y. So let's see, we get sine of x
+plus x squared, e to the y, plus f prime of y, is equal to
+sine of x plus x squared, e to the y, minus 1. So let's see, we can delete
+sine of x from both sides. We can delete x squared e to
+the y from both sides. And then what are
+we left with? We're left with f prime
+of y is equal to 1. And then we're left with f of
+y is equal to-- well, it equals y plus some constant,
+c, right? So what is our psi now? We wrote our psi up here, and we
+had this f of y here, so we can rewrite it now. So psi is a function of x and
+y-- we're actually pretty much almost done solving it-- psi
+is a function of x and y is equal to y sine of x, plus x
+squared, e to the y, plus y-- oh, sorry, this is f prime
+of y, minus 1. So this is a minus 1. So this is a minus y plus c. So this is going to be
+a minus y plus c. So we've solved for psi. And so what does that tell us? Well, we said that original
+differential equation, up here, using the partial
+derivative chain rule, that original differential equation,
+can be rewritten now as the derivative dx of psi is
+equal to-- psi is a function of x and y-- is equal to 0. Or if you were to integrate both
+sides of this, you would get that psi of xy is equal
+to c is a solution of that differential equation. So if we were to set this is
+equal to c, that's the differential equation. So we could say, y sine of x
+plus x squared, e to the y, minus y-- now we could say, plus
+this c-- plus this c, you call it c1, is equal to c2. Well, you could subtract the c's
+from both sides, and just be left with a c at the end. But anyway, we have solved
+this exact equation, one, first, by recognizing it was
+exact, by taking the partial of this, with respect to y, and
+seeing if that was equal to the partial of N,
+with respect to x. Once we saw that they were
+equal, we're like, OK, this is going to be exact. So let's figure out psi. Since this is exact, M is going
+to be the partial of psi, with respect to x. N is the partial of psi,
+with respect to y. Then to figure out y, we
+integrated M, with respect to x, and we got this. But since we said, oh, well,
+instead of a plus c, it could have been a function of y there,
+because we took the partial, with respect to x, so
+this might have been lost. To figure out the function of y,
+we then took our psi that we figured out, took the partial
+of that, with respect to y, got this. And we said, this was an exact
+equation, so this is going to equal our N of x y. We set those equal to each
+other, and then we solved for f of y. And then we had our final psi. Our final psi was this. And then the differential
+equation, because of the chain rule of partial derivatives,
+we could rewrite the differential equation as this. The solution is this, and so
+this is the solution to our differential equation. See you in the next video.

@@ -1,0 +1,34 @@
+- [Voiceover] Let G of X equal
+one fourth X to the fourth, minus four X to the third
+power, plus 24 X squared. For what values of X does the graph of G have an inflection point? Or have a point of inflection? So let's just remind ourselves what a point of inflection is. A point of inflection is
+where we go from being con, where we change our concavity. Or you can say where our second derivative G prime of X switches signs. Switches, switches signs. So let's study our second derivative. In order to study or
+secondary, let's find it. So we know that G of X
+is equal to one fourth X to the fourth, minus
+four X to the third power, plus 24 X squared. So given that, let's
+now find G prime of X. G prime of X is going to be equal to, I'm just going to apply the
+power rule multiple times. Four times one fourth is just one. I'm not going to write that one down, it's going to be one times X
+to the four minus one power. So four to the third power, minus three times four is 12, X to three minus one power, X to the second power,
+plus two times 24, 48. X to the two minus one,
+or X to the first power, I can just write that as X. So there you have it. I have our first derivative, now we want to find our second derivative. G prime prime of X is just the derivative of the first derivative
+of the first derivative with respect to X, and some
+more of the power rule, three X squared minus 24 X to the first, or just 24 X, plus 48. So let's think about where
+this switch is signed. And this is, this is
+a continuous function, is going to be defined for all Xs, so the only potential candidates of where it could switch signs are when this thing equals zero. So let's see where it equals zero. So let's set that equal to zero. Three X squared minus 24 X plus 48 is equal to zero, let's see, everything is divisible by three so let's divide everything by three. So you get X squared minus eight X, plus 16, plus 16 is equal to zero. And let's see, can I factor this? Yeah, this would be X minus
+four X times X minus 4. Or just you do this as
+X minus four squared is equal to zero, or X
+minus four is equal to zero. So, or where X equals four. So G prime prime of four is equal to zero. So let's see what's happening
+on either side of that. Let's see if G, if we're actually, if we're actually switching signs or not. So let me draw a number line here. And so this is, so this is two, three, four, five, and I could keep going. And so we know that something interesting is happening right over here, G prime prime of four is equal to zero, G prime prime of four is equal to zero. So let's think about what
+the second derivative is when we are less than four. And so, actually let me just
+try G prime prime of zero, since that will be easy to evaluate. G prime prime of zero, well it's just going to be equal to 48. So when we are less than four, our second derivative, G
+prime, the second derivative, is greater than zero. So we're actually going
+to be concave upwards over this interval to the left of four. Now let's think about
+to the right of four. Two, use a different color. So what about to the right of four? And so let me just evaluate, what would be the easy thing to evaluate? Well I could evaluate G prime, why not do, or of the second derivative, G prime prime, I should say, of 10? So, G, I'll do it right over here, Let me do it, well, I'm running a little bit of
+space, so I'll just scroll down. So G prime prime of 10 is going
+to be equal to three times 10 squared, so it's 300 minus 24 times 10. So minus 240, plus 48. So let's see, this is 60. This is, so 300 minus 240 is 60 plus 48, so this is equal to 108. So it still positive. So on either side of
+four, G prime prime of X is greater than zero. So even though even though
+the second derivative at X equals four is equal to zero, on either side we are concave upwards. On either side, the second
+derivative is positive. And so, and that was the
+only potential candidate. So there are no, there are no values of X for which G has a point of inflection. X equals four would have been a value of X at which G had a point of inflection, if we switch, if the secondary derivative switched signs here, if it
+went from positive to negative, or negative to positive, but it's just staying
+from positive to positive. So this second derivative was positive, it just touches zero right here, and then it goes positive again. So we're going back to the question, for what X values does the graph of G have a point of inflection? No X values. I'll put an exclamation
+mark there just more drama.

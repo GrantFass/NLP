@@ -1,0 +1,204 @@
+Let's say I have a position
+vector function that looks like this. r of t is equal to x of t
+times the unit vector i plus y of t times the unit vector j. And let me actually graph this. So let's say, r of t, I want
+to draw it a little bit straighter than that. So that's my y-axis, that is my
+x-axis, and let's say r of t, and this is for t is less
+than, let me write this. So this is for t is
+between a and b. So when t is equal to a, we're
+at this vector right here. So if you actually substitute t
+is equal to a here, you'd get a position vector that would
+point to that point over there. And then, as t increases, it
+traces out a curve, or the endpoints of our position
+vectors trace a curve that looks something like that. So when t is equal to b, we get
+a position vector that points to that point right there. So this defines a path. And the path is going in
+this upward direction, just like that. Now let's say that we have
+any another position vector function. Let me call it r of t. It's a different one. It's the green r. r of t. Instead of being x of t times
+i, it's going to be x of a plus b minus t times i, and instead
+of y of t, it's going to be y of a plus b minus t times i. And we've seen this in
+the last two videos. This, the path defined by this
+position vector function is going look more like this. Let me draw my axes. This is my y-axis,
+that is my x-axis. Maybe I should label
+them, y and x. This path is going to
+look just like this. But instead of starting here
+and going there, when t is equal to 1, let me make it
+clear, this is also true for a is less than or equal to
+t, which is less than b. So t is going to
+go from a to b. But here, when t is equal
+to a, you substitute it over here, you're going
+to get this vector. You're going to start over
+there, and as you increment t, as you make it larger and
+larger and larger, you're going to trace out that same path,
+but in the opposite direction. And so when t is equal to b,
+you put that in here, you're actually going to get x of a
+and y of a there, right, the b's cancel out, and so you're
+going to point right like that. So these are the same, you
+could imagine the shape of these paths are the same, but
+we're going in the exact opposite direction. So what we're going to do in
+this video is to see what happens, how, I guess you could
+say, if I have some vector field f of xy equals p
+of xy i plus q of xy j. Right? This is just a vector
+field over the x-y plane. How the line integral of this
+vector field, of this vector field over this path, compares
+to the line integral the same vector field over that path. How that compares to this. We'll call this
+the minus curve. So this is the positive
+curve, we're going to call this the minus curve. So how does it, going over
+the positive curve, compare to going over the minus
+curve? f of f dot dr. So before I break into the
+math, let's just think about a little bit. Let me draw this
+vector field f. So maybe it looks, I'm just
+going to draw random stuff. So you know, on every point in
+the x-y plane, it has a vector, it defines or maps a vector, to
+every point on the x-y plane. But we really care about the
+points that are on the curve. So maybe on the curve, you
+know, this is the vector field at the points on the curve. And let me draw it
+over here, too. So all the points on the curve
+where we care about, this is our vector field, that
+is our vector field. And let's just get an intuition
+of what's going to be going. We're summing over the dot,
+we're taking each point along the line, and we're summing,
+let me start over here. We're taking each point along
+the line, let me do it in a different color. And we're summing the dot
+product of the value of the vector field at that point, the
+dot product of that, with dr, or the differential of our
+position vector function. And dr, you can kind of
+imagine, as an infinitesimally small vector going in the
+direction of our movement. And we take this dot product
+here, it's essentially, it's going to be a scalar value,
+but the dot product, if you remember, it's the magnitude
+of f in the direction of dr, times the magnitude of dr. So it's this, you can imagine
+it's the shadow of f onto dr. Let me zoom into that,
+because I think it's useful. So this little thing that I'm
+drawing right here, let's say that this is my path. This is f at that point. f at that point looks
+something like that. And then dr at this point
+looks something like that. Let me do it in different
+color. dr looks something like that. So that is f. And so the dot product of these
+two says, ok, how much of f is going in the same
+direction as dr? And you can kind of
+imagine, there's a shadow. If you take the f that's going
+in the same direction as dr, the magnitude of that times the
+magnitude of dr, that is the dot product. In this case, we're going
+to get a positive number. Because this length is
+positive, this length is positive, that's going to
+be a positive number. Now what if our dr was going
+in the opposite direction, as it is in this case? So let me draw maybe that
+same part of the curve. We have our f, our f will
+look something like that. I'm drawing this exact
+same part of the curve. But now our dr isn't
+going in that direction. Our dr that at this point
+is going to be going in the other direction. We're tracing the curve in
+the opposite direction. Our dr is now going to be
+going in that direction. So if you do f dot dr, you're
+taking the shadow, or how much of f is going in the direction
+of dr, you take the shadow down here, it's going in the
+opposite direction of dr. So you can imagine that when you
+multiply the magnitudes, you should get a negative number. Our direction is now opposite,
+they're not going in the-- the shadow of f onto the same
+direction is dr is going in the opposite direction as dr.
+In this case, it's going in the same direction as dr. So the intuition is that maybe
+these two things are the negative of each other. And now we can do some
+math and try to see if that is definitely,
+definitely the case. So let us first figure out,
+let's write an expression for the differential dr. So in this
+case, dr, dr dt is going to be equal to x prime of t times i
+plus y prime of t times j. In this other example, in the
+reverse case, our dr, dr dt, is going to be, what's
+it going to be equal to? It's the derivative of
+x with respect to t. The derivative of this term
+with respect to t, that's the derivative of the inside, which
+is minus 1, or minus, times the derivative of the outside
+with respect to the inside. So that's going to be,
+derivative of the inside is minus 1, times the derivative
+of the outside with respect to the inside. x prime of a
+plus b minus t times i. And then same thing
+for the second term. Derivative of y of this term
+with respect to the inside, which is minus 1, times the
+derivative of the outside with respect to the inside, which is
+y prime of a plus b minus t. So this is going to be the
+derivative of the inside, times y prime of a
+plus b minus is t j. So this is dr dt in this case,
+this is dr dt in that case. And if we wanted to write the
+differential dr in the forward curve example, it's going to be
+equal to x prime of t times i plus y prime of t times
+j times the scalar dt. I could multiply it down into
+each of these terms, but it keeps it simple, just
+leaving it on the outside. Same logic over here. dr is equal to minus x. I changed my shade of green,
+but at least it's still green. a plus b minus t i minus y
+prime a plus b minus t j, and I'm multiplying
+both sides by dt. Now we're ready to express
+this as a function of t. So this curve right here, I'll
+do it in pink, the pink one is going to be equal to the
+integral from t is equal to a to t is equal to b of f of f of
+x of f of x of t y of t dot this thing over here, which is,
+I'll just write out here, I could simplify it later. x prime of t i plus
+y prime of t j. And then all of that
+times the scalar dt. This'll be a scalar value, and
+then we'll have another scalar value of dt over there. Now, what is this going
+to be equal to if I take this reverse integral? The reverse integral is going
+to be the integral from, I'm going to need a little more
+space, from a to b, of f of not x of t, but x of a plus b minus
+t y of a plus b minus t. I'm writing it small
+so I have some space. Dot, this is a vector, so dot
+this guy right here, dot dr. Dot minus x prime of a plus b
+minus t i, minus y prime of, I'm using up too much space. Let me scroll, go
+back a little bit. Actually, let me take it
+make it even simpler. Let me take this minus
+sign out of it. Let me put a plus, and
+then I'll put the minus sign out front. So the minus sign is just a
+scalar value, so we could put that minus sign out, you know,
+when you take a dot product, and if you multiply a scalar
+times a dot product, you could just take the scalar out,
+that's all I'm saying. So we take that minus sign
+out to this part right here. And then you have x prime of a
+plus b minus t i plus y prime of a plus b minus t, scroll
+over a little bit, t j dt. So the this is the forward,
+this is when we're following it along the forward curve, this
+is when we're following it along the reverse curve. Now like we did with the
+scalar example, let's make a substitution. I want to make it very
+clear what I did. All I did here, is I just
+took the dot product, but this negative sign,
+I just took it out. I just said, this is the same
+thing as negative 1 times this thing, or negative 1 times this
+thing is the same thing as that. So let's make a substitution on
+this side, because I really just want to show you that this
+is the negative of that, right there, because that's what
+our intuition was going for. So let me just focus
+on that side. So let me make a substitution. u is equal to a plus b minus t. Then we get du is equal
+to minus dt, right? Just take the derivative
+of both sides. Or you get dt is
+equal to minus du. And then you get, when t
+is equal to a, u is equal to a plus b minus a. So then, u is equal to b. And then when t is equal to
+b, u is equal to a, right? Which is equal to b, a
+plus b minus b is a. u is equal to a. So this thing, using that
+substitution simplifies to, and this is the whole point, that
+simplifies to minus integral from u is, when t is a, u is b. From b, when t is b, u is a. The integral from u is equal
+to b to u is equal to a of f of x of u y of u, right? That is u, that is u. Dot x prime of u times i,
+that's u right there, plus y prime of u times j. And then, instead of a
+dt, I need to put a du. dt is equal to minus du. So I could write minus du
+here, or just to not make it confusing, I'll put the du
+here, and take the minus out front. I already have a minus out
+there, so they cancel out. They will cancel out,
+just like that. And so you might say, hey Sal,
+these two things look pretty similar to each other. They don't like they're
+negative of each other. And I'd say, well, you're
+almost right, except this guy's limits of integration are
+reversed from this guy. So this thing right here, if
+we reverse the limits of integration, we have to
+then make it negative. So this is equal to minus the
+integral from a to b of the vector f of x of u y of u dot
+x prime of u i plus y prime of u j du. And now this is identical. This integral, this definite
+integral, is identical to that definite integral. We just have a
+different variable. We're doing dt here, we have du
+here, but we're going to get the same exact number for any a
+or b, and given this vector f and the position
+vector path r of t. So just to summarize everything
+up, when you're dealing with line integrals over vector
+fields, the direction matters. If you go in the reverse
+direction, you're going to get the negative version of that. And that's because at any point
+we take the dot product, you're not going in the, necessarily,
+you're going in the opposite direction, so it'll be the
+negative of each other. But when you're dealing with
+the scalar field, we saw on the last video, we saw that it
+doesn't matter which direction that you traverse the path in. That the positive path
+has the same value as the negative path. And that's just because we're
+just trying to find the area of that curtain. Hopefully you found
+that mildly amusing.

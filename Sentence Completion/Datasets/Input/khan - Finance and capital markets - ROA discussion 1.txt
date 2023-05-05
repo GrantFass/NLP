@@ -1,0 +1,158 @@
+One of the viewers pointed out
+not incorrectly that one definition of return on asset--
+so this whole video's going to be on return on asset--
+that one definition of return on asset, and if you
+look it up on some of the finance sites or even some
+finance textbooks, they'll tell you it's net income
+over total assets. Which is different from
+what I told you. And other sources, namely
+Wikipedia, will tell you that it is actually-- so this
+is one definition of return on asset. Another definition
+is net income. I'll just abbreviate
+that as NI. Net income plus interest. So
+they're adding back your interest. And then they're
+subtracting out the tax savings due to interest. And we could a whole video on
+the tax savings from interest. And when it makes more sense
+to raise money with debt versus equity, because of the
+cost of interest. But that also increases your chance
+of bankruptcy, the more debt you take on. We could do a series
+of videos on that. But tax savings from interest.
+Divided by assets. This is a definition that
+Wikipedia gives you. And then the very first
+definition I gave you was operating profit over assets. And then I'll add one more
+definition to this video, just because I think it's worth
+talking about. And I think this is kind of a
+general theme in finance, is that there's all these
+formulas for things. And people memorize them. But in the process, you lose
+a lot of the intuition. And it's also important to
+realize that there are multiple ways of defining the
+exact same terms. So people can confidently say
+the ROA is this. And you know what? It's never a bad question
+to ask them what they mean by ROA. And I think you'll also be
+surprised by how many people won't be able to tell you
+what they mean by ROA. But then the last one, if I have
+time to go over, we'll call it EBIT. I know that look like
+a very strange word. EBIT divided by assets. But just so you know what EBIT
+is, EBIT is just Earnings Before Interest and Taxes. So this is just the same thing
+as net income plus interest plus taxes. So it's kind of a pre-tax
+ROA divided by assets. So these are all different
+things. And you might already say, wait
+if I took net income-- let's actually talk about
+this for a second. Let's compare EBIT to
+operating profit. You might immediately say, if
+I took net income-- so let's remember EBIT is just an acronym
+for Earnings Before Interest and Taxes. So let's see. If our earnings are $350,000. And we were to add back the
+taxes and the interest. So we add back the taxes, which
+gets us to pre-tax. And we add back the interest,
+at least in this example, we get to an operating
+profit number. So you might say, why is there
+a different term EBIT instead of, why don't people just always
+use operating profit? And the reason why there's a
+different term is, sometimes you can have the non-operating
+profit. So let's say that out of this
+$10 million of assets-- and I didn't go there in the first
+example because I didn't really want to complicate the
+issue, but I'll complicate the issue a little bit now. Let's say out of this $10
+million of assets, let's say that $9 million are
+operating assets. They're the enterprise. They're the things that are
+needed to generate the operating profit. And then you had another
+$1 million of assets of this $10 million. That the company really doesn't
+need to operate. They just have it around. Maybe they're speculating
+on oil prices. Or they're just hedging
+something. Or they just have a super
+flush bank account. So these assets might
+be generating non-operating income. So you could have a line here
+for interest income or investment income. Let me put that. Investment income. And then the company might have
+made some money there. It might make $10,000 on
+investment income. And of course that'll
+drop to this line. This'll then become $510,000. The taxes will be $153,000. And the net income
+is $357,000. Because we have a
+30% tax rate. And that make sense, right? I added an extra $10,000
+of income here. And then at the end of the day,
+you're going to tax at 30%, so this should be $7,000
+more of earnings. So that makes sense. $357,000. But this is the difference
+between operating income and EBIT. EBIT in this case would be the
+operating profit plus this investment income. So EBIT, in the case that I
+just added some investment income, would be $1,010,000,
+while operating profit would be $1 million. I didn't want to go there in
+the first video, and that's why I just said operating profit
+divided by assets. But if you really consider all
+of the assets, and if you assume that there are some
+assets there that are non-operating. They're not really used to
+make widgets, or to sell widgets or market widgets, or
+help the CEO in any way do his or her job. Then whatever this generates
+is actually non-operating income. And so EBIT factors that in. So EBIT, I kind of view that
+it goes backwards. It starts with net income. And then it adds back the taxes
+and interest. While operating profit, you start at
+the top line and you go down. But in general if you take
+EBIT and you take out the non-operating income, you get
+back to operating profits. So that's what EBIT
+is right here. And so you can already imagine
+that both EBIT and the way I defined it initially, operating profit divided by assets. They're ways of saying, before
+you consider taxes, what are your assets doing for you? So once again, if this is a
+balance sheet, this is the assets, here are your
+liabilities. Debt could be one of them. But in general it could be
+a bunch of other things. You might owe other vendors
+money or whatever. Then you have your equity. It's important whenever
+you talk about any of these ratios. What context? Are you trying to pass the CFA
+exam, or are you trying to impress your MBA professor? Or are you trying to get an
+intuition for helping to become a better investor? And if you are an investor,
+you're probably going to want to do the last of the three. And there, ROA, the Return on
+Assets is telling you, how good is this company at getting
+a return out of this thing right here? I don't care how they paid for
+it, whether they had debt. I don't want to think
+about, are they good at getting low interest? I don't want to think about, is
+their CFO good at getting a better interest rate
+than another CFO? Or are they better at evading
+taxes than another company? All I care is the assets that
+they have, how good are they at putting those
+assets to work? And what type of a return
+can they get? So if I calculate it using you
+EBIT divided by assets, or operating profit divided by
+assets, if I use either of these as my metric for ROA and
+Company A has a 10% ROA and Company B has a 15% ROA, then
+I say, you know what? I don't care whether B's guy
+is better at getting a low interest rate. Or getting some type of tax
+handout from the government. Or doing something fancy
+with where he keeps his subsidiaries. I just want to know which
+management is better at getting a return out
+of these assets. And these metrics will
+tell you that. Because it tells you either how
+much operating profit is being generated from here,
+or it could tell you how much EBIT. In this case, an EBIT might be a
+little bit more informative. Because some of income might
+be generated from non-operating assets. So maybe the company holds some
+stock, or it holds some gold or something. Or it holds some forward
+contracts to hedge its exposure to oil or foreign
+currency or something. So in general if you want to
+know what I think is the best ROA, I would say it's EBIT over
+assets, which is very close to operating profit
+over assets. And now you say, well Sal, why
+are these other things here? And why don't you like
+them as much? Well, net income over assets,
+I think the reason why that definition exists is because:
+one, net income does factor into these things that frankly
+I didn't want to think as much about. But when you talk about return,
+what you get off the asset, you still are going
+to pay taxes on them. And if you do have some
+financing, you will be paying some interest on that. So that's why this comes out. Where they actually just
+take the bottom line. When people talk about top line
+and bottom line, now you know where those words
+come from. Top line is revenue. It's the top line of the
+income statement. And your bottom line, that's
+the bottom line of the income statement. That's where the word
+comes from. So that one definition takes
+this and they divide by the total assets. But the reason why I don't like
+that is this definition does not separate out that one
+company might be better at evading taxes or paying taxes. And another company might be
+better at somehow getting better financing
+from the bank. And that's not what matters. I care about the assets. I care just about the
+left-hand side of the balance sheet. While this is taking into
+consideration some of the factors on that side of
+the balance sheet. For example, let's say you have
+two identical companies. This could be an interesting
+example. You have one company-- Actually
+I just realized I'm out of time. I'll continue the example in
+the next video, and I'll explain a little bit about the
+tax savings from carrying debt or interest. See you
+in the next video.

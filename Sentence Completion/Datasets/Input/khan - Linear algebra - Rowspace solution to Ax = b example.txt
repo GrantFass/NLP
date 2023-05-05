@@ -1,0 +1,248 @@
+I've got this 2 by 2 matrix A
+here, and I've got this other member of R2, this vector b. Let's figure out all of the
+interesting things that we can figure out about this matrix
+and this vector. So the first thing of interest,
+and this is all going to essentially help us
+visualize what we learned in the last video, is the
+null space of A. To figure out the null space
+of A, we know that the null space of A is equal to the null
+space of the reduced row echelon form of A. So let's just find out the
+reduced row echelon form of A. Let's say we leave the
+first row the same, we get 3 minus 2. And let's replace the second row
+with the second row, minus 2 times the first, so 6,
+minus 2 times 3 is 0. And minus 4, minus 2
+times minus 1 is 0. And then let's replace the first
+row with the first row divided by 3. So then that becomes 1 minus
+2/3, and the second row is still 0. So that's the reduced row
+echelon form of A. And we want to find
+its null space. So we want to find all of
+the vectors that we can multiply it by. So this is the vector x1,
+x2, that is equal to the 0 vector in R2. So the second row gives us no
+information, 0 times x1, plus 0 times x2 is equal to 0. No information there. So our only constraint
+is the first row. 1 times x1-- let me write it
+here-- so 1 times x1, plus-- let me write it this way--
+minus 2/3 times x2 is equal to that 0. Is equal to that
+0 right there. Or we could write that x1
+is equal to 2/3 x2. So if we wanted to write the
+null space of A-- actually, before I write that, just to
+simplify things and just to show you that x2 isn't some
+special number, let's just say that x2 is equal to t, where
+t is some real number. And then we would have x1
+is equal to 2/3 times t. So the null space of our matrix,
+the null space of A, is going to be equal to the set
+of all x1, x2's, that are equal to some real number
+t times the vector. x2 is equal to t times 1, and
+x1 is equal to 2/3 t. So 2/3, 1. Just like that. That is our null space. All of the multiples of
+the vector 2/3, 1. And actually just to make this
+a little bit simpler, we can pick c, let's pick t,
+sorry, let's pick t to be equal to 3c. So then what do you have? If this is equal to 3c, if you
+multiply the 3 times these, we could rewrite this as being
+equal to the x1's, x2's that are equal to the scalar c, where
+that is some other real number, times 3 times 2/3
+is 2, 3 times 1 is 3. And the whole reason why I did
+that is just to write the null space with a slightly simpler
+basis vector. The one that didn't have
+any fractions in it. Or we could also write that
+the null space is equal to the span. The span of the vector 2, 3. All of these statements
+are equivalent. So we figured out
+the null space. Maybe another interesting thing,
+especially if we're going to make this relate to
+what we did in the last video, is find a solution set to the
+equation Ax is equal to b. To do that, we just set up
+an augmented matrix. So we set up an augmented
+matrix, 3 minus 2, 6 minus 4, and we augment it
+with b, 9, 18. And then we put the left-hand
+side in reduced row echelon form, and we get-- let's keep
+the first row the same-- we get 3 minus 2, and then 9. Let's replace the second row
+with the second row minus 2 times the first. So we get 6
+minus 2 times 3, is 0, minus 4 minus 2 times minus 2,
+that's 0 as well. Minus 4 plus 4. 18 minus 2 times 9, that's 18
+minus 18, that's also 0. Almost there. Now let's just replace the first
+row with the first row divided by 3. So the second row is going
+to stay the same. And the first row is going to
+be 1 minus 2/3, and then we get a 3 there. So if we wanted to rewrite this
+is as an equation, we would write that the matrix 1
+minus 2/3, 0, 0, times the vector that's in our solution
+set, x1, x2, is equal to the vector 3, 0. Or another way to say it, the
+second row gives us no real constraint, so we don't have
+to pay attention to it. The first row tells us that
+x1 minus 2/3, times x2 is equal to 3. Or, that x1 is equal
+to 3, plus 2/3 x2. Let's do the same
+exercise here. If we say that x2 is equal
+to t, then x1 is equal to 3 plus 2/3t. Or we could say that the
+solution set to Ax is equal to b is equal to the set of all x1,
+x2's that are equal to-- let's see, x1 is equal to 3 plus
+2/3, so plus t times 2/3. Let's write it like that. So plus right there. And x2 is just equal to t, so
+let's just go 1 times t plus, well let's just say 0. So that's our solution
+set right there. And you might immediately
+recognize that it's some particular solution plus some
+scaled up version of our null space right there. That's our solution set. I could do that same
+substitution that we did over here. I could say that let's replace
+t with 3c, and so we could rewrite this as being equal to--
+let's rewrite it neatly-- x1, x2 is equal to the vector--
+I'm going to run out of space-- 3, 0, plus c, times--
+let me scroll over a little bit-- plus c, times the
+vector, 3 times 2/3 is 2, 3 times 1 is 3. So it's equal to the vector 3, 0
+plus some member of our null space, right? The null space was the span
+of 2, 3, or all the scalar multiples of our null space. And this is where c is
+any real number. So that's our solution set. That's our null space. Now, one other thing that might
+be of interest, just because it's the orthogonal
+complement to the null space, and this relates to what we were
+doing in the last video, is what the row space of A is. So the row space of
+A is just the column space of A transpose. This is the row space. This is the row space of A. And what is this equal to? This is equal to the span
+of the row vectors of A. So we have 3 minus 2, and
+we have 6 minus 4. But this guy is just 2 times
+that vector right there, so we can just ignore it. So it's just the span of
+the vector 3 minus 2. Now let's graph all of these. So we have the row space, we
+have the solution set and we have the null space. Let's see if we can graph it. We can make a reasonable graph
+of this thing right here. So I have my vertical
+axis right there. I have my horizontal
+axis right there. Now what does the null
+space look like? It's all the multiples
+of 2, 3. So if I go out 1, 2 and then I
+go up 1, 2, 3, the vector 2, 3 looks like this in the
+standard position. And the null space is all of
+the multiples of this. So, all the multiples of that. So if you do all the multiples
+of that, you get a line that looks something like this. If you do all the multiples of
+that vector, you get a bunch of vectors that point to
+every point on this green line right there. So that right there is
+the null space of A. Now what is the solution set? The solution set is
+the vector 3, 0. So it is the vector
+3, 0, so 1, 2, 3. So it is the vector 3 , 0, plus members of the null space. So if you take any of these --
+let's say if you add 2, 3-- 2, 3 would look like this. But you're adding any
+multiple of 2, 3. So when you add all the
+different multiples of 2, 3, you get this line right here. It's shifted, essentially,
+by that vector 3, 0. So this right here is
+the solution set. So solution to Ax
+is equal to b. That's the solution
+set right there. Now, what's our row space? The row space is all of
+the multiples of the vector 3 minus 2. So what does 3 minus
+2 look like? The vector 3 minus 2, we go 1,
+2, 3, and then we go down 2. So you go 1, 2, and it's going
+to look like this. That's going to look something
+like this, and then if you were to graph it and you can
+see, well, it's going to look something like-- I want to do it
+relatively neatly-- so it's going to look something
+like this. Let me do it in another
+color actually. It's going to look like
+that right-- I can't do it at all straight. Oh, this is horrible. Something about the bottom right
+hand side of my-- that's a pretty decent attempt. So that right there
+is my row space. Because if you have 3 minus 2
+you get roughly to that point, and then you want all
+of the multiples of that vector, right? 3 minus 2, if you multiplied it
+by minus 1, you would get the vector minus 3, 2, so
+it would look like this. It would be minus 3, 2. It would look like this, 1, 2,
+3 and then up 2, it would be like that, so all of the scalar multiples of that as well. That is our column space,. And notice-- I'm sorry that is
+our row space-- and notice that our row space is orthogonal
+to our null space. Now this is a nice visual
+representation of everything we can do essentially with this
+matrix right here, which is our matrix A. But in the last video, we had
+a very interesting result. We had a very interesting
+result. We said that if we have some
+b-- let me do it in a new color-- we found out that if we
+had some b that is a member of the column space of A, then
+the solution with the smallest length, or we can say the
+smallest, or the shortest solution to Ax is equal to b is
+a unique member of the row space of A. Now let's see, this is our big
+takeaway from the last video. And it might have seemed
+a little hard to visualize before. But now that we have graphed
+it all out, I think we can visualize it. This blue line right here
+is a solution set. The row space right here is this
+line that's perpendicular to the solution set. But notice, one of the vectors
+on it is both pointing to something, pointing to a
+position on the solution set, and it is in my row space. This vector right here, that
+I'm doing in a bold green, That vector right there, we
+could call that vector r, because that vector is both a
+member of my row space, right? It points-- if you do it as a
+position vector, it points to a point on the line that
+represents our row space. All of the members of our
+row space point to points on this line. But at the same time, it also
+points to a point right there that is a member of
+our solution set. And notice, it is the only
+vector in our row space that points to a point that is a
+member of our solution set. And if you just look at it
+from a geometric point of view, all of the other solutions
+point to all of the other points on that line. So, that's a solution right
+there, this is a solution right there, that is a
+solution right there. All of the vectors that point
+to things on this solution line right there, there's
+all solutions. But the very shortest one
+is this green one. This green one is essentially
+orthogonal to it because it's a member of the row space. And this essentially has the
+same slope as our null space. It's orthogonal, so it's kind of
+the shortest path distance to getting to our
+solution set. And for this exact example, we
+can actually figure out what this shortest vector r is. We've got the vector 3,
+0, over here, right? The vector 3, 0 is this
+vector right here. So if you take 3, 0 minus your
+vector-- so let me say r. Let me write this way. Our vector r, the special
+shortest solution, it's going to be a member of our
+column space. Our column space is a
+span of 3 minus 2. So it's going to be equal
+to some scalar multiple of 3 minus 2. Now, we know that 3, 0 points
+to another solution on our solution set. But we know that if we take the
+difference of these two vectors-- if I take 3, 0 and
+from that I subtract the vector r, what do I get? I get this vector right there. Let me do that in
+another color. I get this pink vector
+right there. That pink vector, it's not in a
+standard position, but that pink vector is going to be a
+member of our null space. That pink vector is going to be
+a member of our null space. So if I take 3, 0. That, minus my r, so minus c,
+times 3 minus 2, right? That's going to be this pink
+vector right there. So if I were to take the dot
+product, so this vector right here-- let me make this clear;
+that vector is this pink vector right there-- that's
+in my null space. I could shift it over. It's not in standard position
+there, but [? I'll have to ?] do it in the standard position,
+it points to something on my null
+space line. So that's in my null space. So if I were to dot it with any
+member of my row space, it's going to be equal to 0. The row space is the orthogonal
+complement of the null space. So let me take the dot product
+of that, with some member of my row space. Might as well just take the
+basis vector for my row space. That's a member of
+my row space. So if I dot it with 3-- sorry, I
+don't want you to write that as a fraction-- 3 minus 2. If I dot it with 3 minus 2,
+that will be equal to 0. So let's see if we
+can solve for c. So we get, let's see if we do
+this, we get this inside part, this pink vector right
+there is going to be 3 minus 3c, right? And then you're going to
+have 0 minus minus 2c, so that's just 2c. So this part right here
+simplifies to that. I just perform the scalar
+multiplication and then the subtraction. And then if we dot that with
+my basis vector for my row space, 3 minus 2, this
+should be equal to 0. So what do we get? We get 3 times 3, which is 9,
+minus-- let me see, 3 times 3-- minus 3, or minus 3c times
+minus 2-- let me write it this way-- plus-- let me
+do it this way. This is probably the easiest
+way to do it. Sorry, I was actually
+doing it wrong. This is the first entry,
+so you have 3 minus 3c, times 3, right? 3 minus 3c-- the first entry
+times the first entry here-- plus 2c, times minus
+2, is equal to 0. I was performing that dot
+product in a strange way. I think I got a little caught
+off guard by these two terms. But anyway, the first term times
+the first term, plus the second term times
+the second term. That's what our dot
+product is. This isn't the matrix. This is just a first and a
+second term right there. So then what do we have here? We have 3 times 3 is 9, minus
+9c, minus 4c, is equal to 0. This is 9 minus 13c
+is equal to 0. Or we get 13, let's see, 9
+is equal to 13c, or c is equal to 9 over 13. So just like that we've solved
+for our special vector r. We said, hey look, if you take
+this 3, 0 vector and the difference between that and our
+vector r, you're going to get some vector, right here,
+that is in our null space. And if you take the dot product
+of that with some member in our row space,
+you're going to get 0. And the dot product is that
+entry times that entry, plus that entry times that entry. And so you get c is equal
+to 9 over 13. So our special vector r, the
+unique shortest solution to the equation Ax is equal to 0,
+is 9 over 13 times the vector, times our basis vector 3 minus
+2, or we could write that as 27 over 13, right? And then we have 3 times--
+and then 2 times 9 is minus 18 over 13. And that right there is our
+shortest vector in our row space that satisfies
+this equation. Let me write it better. It's the unique member of our
+row space that also happens to be the shortest solution
+to Ax is equal to b. So this is an example of what
+we talked about in the last video, and hopefully you see
+visually why this is so.

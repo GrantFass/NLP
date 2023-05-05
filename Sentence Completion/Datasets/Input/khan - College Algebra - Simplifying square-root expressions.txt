@@ -1,0 +1,39 @@
+- [Instructor] Let's get some practice. Simplifying radical expressions
+that involve variables. So let's say I have two times the square root of seven x times three times the square root of 14 x squared. Pause the video and see
+if you can simplify it. Taking any perfect squares out multiplying and taking any perfect squares out of the radical sign. Well, let's first just multiply this thing. So, we can change the order of multiplication. This is going to be the same thing as two times three times the square root of seven x times the square root of 14 x squared. And so this is going to be equal to six times and then the product of two radicals, you can view that as the
+square root of the product. So six times the square root of and I'll actually I'll just leave it like this. Seven times x and then let me actually factor 14. 14 is two times seven times x squared. Actually let me extend my radical sign a little bit. And the reason why I
+didn't multiply it out. Obviously we could've
+multiplied it in our head. X times x squared is x to the third. And we could've said, seven times 14 is what 98. We could've done that. But when you're trying to factor out perfect squares, it's actually easier if it's in this factored form here. Especially because, from a variable point of view you can view this as a
+perfect square already. And then 14's not a perfect square, seven isn't a perfect square but seven times seven is. Seven times seven is a perfect square. That is 49 of course. So let's rewrite this a little bit to see what we can do. This is going to be six times and I could write it like this. The square root of let's put all the perfect squares first so seven times seven that is 49 that's those two. X squared 49 x squared and then I could once again separate the two
+radicals right over here. So whatever else is left. So I've already used the seven,
+the seven, the x squared I have a two x left. Times two x. Hopefully you'll appreciate
+that these two things are equivalent. I could've put one big radical sign over 49 x squared times two x which would've been exactly
+what you have there, but, if you're taking the
+radical of the product of things, that's the same thing as the product of the radicals. It's come straight out of
+our exponent properties. But what's valuable about this is we now see this is six times now we can take the the square root of 49 x squared this is going to seven x square root of 49 is seven square root of x squared is going to be x and then we multiply that times the square root of two x times the square root of two x and so now we're in the home stretch. Six times seven is 42 x times the square root of two x and the key thing to appreciate is I keep using this property that a radical of products or the square root of products is the same thing as a
+product of the square root. So even this step that I did here, if you wanted, you could've
+had an intermediary step. You could've said that the
+square root of 49 x squared is the same thing as square root of 49 times the square root of x squared which would get us square
+root of 49 is seven square root of x squared is x right over there. Let's do let's do another one of these. So let's say I have square root of two a times the square root of 14 a to the third times the square root of five a. So like always, pause this video and see if you can
+simplify this on your own. Multiply them and then take
+all the perfect squares out of the radical. So let's multiply first. So this is gonna be the same thing as the square root of two times 14 times five. So let me actually just I'm just going to two and five are prime. 14 I can factor it as two times seven so this is gonna be two times, instead of
+14 I'm going to write two times seven and then times five and then we have a times a to the third times a well actually let me write that as a to the fifth. We have a to the first,
+times a to the third, times a to the first, and the exponents you get a to the fifth. Now, what perfect squares do we have here? Well we already see a perfect square in terms of two times two and then a to the fifth
+isn't a perfect square if you think of terms of the variable a but you can view that as a
+perfect square a to the fourth times a. So let's rearrange this a little bit. And so this is going to be equal to the square root of let me put my perfect squares out front. The square root of four, two times two times a to the fourth and then let me put my non perfect squares times I have a seven a five and an a that I haven't used yet so seven times five is 35 so it's 35 a and now just like we said before, we could let me do it we could say hey look, this is the same thing as
+the square root of four times the square root of a to the fourth it's using exponent properties and then times the square root of 35 a. Now principle root of
+four is positive two. You can view this as
+a positive square root and then square root of a to the fourth the principle root is
+going to be a squared and then we're going to have that times the square root of 35 a and we're done. Let's do one more example and this time, we're going
+to involve two variables which as we'll see isn't that much more complicating. So let's simplify the square root of 72 x to the third z to the third so the key is can we factor 72 is not a perfect square but is there a perfect
+square somewhere in there? And you immediately see that
+if you're trying to factor it you get 36 times two and 36 of course is a perfect square. And likewise x to the
+third and z to the third are not each perfect squares but they each have an x
+squared and z squared in them. So let me rewrite this. This is the same thing This is the same thing as I can write let me put all my
+perfect squares up front. So I have 36 36 I'm gonna take an x squared out x squared I'm gonna take a z squared out z squared and then we're left with is we took a 36 out so we're left with a two times two and if we took an x squared out of this we're left with just an x x to the third divided by x squared is x two x and then z to the third
+divided by z squared is just z and you can verify this multiply this all out. You should be getting you should be getting
+exactly what we have here. I do that little line on
+the z to differentiate so it doesn't look like my twos. 36 times two is 72 x squared times x is x to the third. Z squared times z is z to the third. But now this is pretty
+straighforward to factor because let me just I'll do more steps than
+you would probably do if you were doing it on your own but that's because the whole point here is to learn. So two x z so that's just using exponent properties. And so everything here
+is a perfect square. This is going to be the square root of 36 times the square root of x squared times the square root of z squared which is going to be square root of 36 is principle root of 36 is six principle root of x squared is x principle root of z squared is z and we're gonna multiply that times square root of two x z and we are done.

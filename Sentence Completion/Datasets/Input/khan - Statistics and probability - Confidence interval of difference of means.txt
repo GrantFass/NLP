@@ -1,0 +1,179 @@
+We're trying to test whether
+a new low-fat diet actually helps obese people
+lose weight. 100 randomly assigned people are
+assigned to group one and put on the low-fat diet. Another 100 randomly assigned
+obese people are assigned to group two and put on a diet of
+approximately the same amount of food, but not
+as low in fat. So group two is the control,
+just the no diet. Group one is the low
+fat group, to see if it actually works. After four months, the mean
+weight loss was 9.31 pounds for group one. Let me write this down. Let me make it very clear. So the low fat group, the mean
+weight loss was 9.31 pounds. So our sample mean for group
+one is 9.31 pounds, with a sample standard deviation
+of 4.67. And both of these are obviously
+very easy to calculate from the
+actual data. And then for our control group,
+the sample mean, 7.40 pounds for group two. With a sample standard deviation
+of 4.04 pounds. And now, if we just look at it
+superficially, it looks like the low-fat group lost more
+weight, just based on our samples, than the
+control group. If we take the difference
+of them. So if we take the difference
+between the low-fat group and the control group, we get 9.31
+minus 7.40 is equal to, let's get the calculator out, 1.91. So the difference of our
+samples is 1.91. So just based on what we see,
+maybe you lose an incremental 1.91 pounds every four months
+if you are on this diet. And what we want to do in this
+video is to get a 95% confidence interval around
+this number. To see that in that 95%
+confidence interval, maybe, do we always lose weight? Or is there a chance that we can
+actually go the other way with the low-fat diet? So in this video, 95%
+confidence interval. In the next video, we'll
+actually do a hypothesis test using this same data. And now to do a 95% confidence
+interval, let's think about the distribution that we're
+thinking about. So let's look at the
+distribution. Of course we're going to think
+about the distribution that we're thinking about. We want to think about the
+distribution of the difference of the means. So it's going to have
+some true mean here. Which is the mean of
+the difference of the sample means. Let me write that. It's not a y, it's
+an x1 and x2. So it's the sample mean of x1
+minus the sample mean of x2. And then this distribution right
+here is going to have some standard deviation. So it's the standard deviation
+of the distribution of the mean of x1 minus the
+sample mean of x2. It's going to have some standard
+deviation here. And we want to make an
+inference about this. Or I guess, the best way to
+think about it, we want to get a 95% confidence interval. Based on our sample, we want to
+create an interval around this, where we're confident that
+there's a 95% chance that this true mean, the true mean
+of the differences, lies within that interval. And to do that let's just think
+of it the other way. How can we construct an interval
+around this where we are 95% sure that any sample
+from this distribution, and this is one of those samples,
+that there is a 95% chance that we will select from this
+region right over here. So we care about a 95% region
+right over here. So how many standard deviations
+do we have to go in each direction? And to do that we just have
+to look at a Z table. And just remember, if we have
+95% in the middle right over here, we're going to have 2.5%
+over here and we're going to have 2.5% over here. We have to have 5% split
+between these two symmetric tails. So when we look at a Z table,
+we want the critical Z value that they give right
+over here. And we have to be
+careful here. We're not going to look up 95%,
+because a Z table gives us the cumulative probability
+up to that critical Z value. So the Z table is going to
+be interpreted like this. So there's going to be some Z
+value right over here where we have 2.5% above it. The probability of getting a
+more extreme result or Z score above that is 2.5%. And the probability of getting
+one below that is going to be 97.5%. But if we can find whatever Z
+value this is right over here, it's going to be the same
+Z value as that. And instead of thinking about
+it in terms of a one tail scenario, we're going to think
+of it in a two tail scenario. So let's look it up for
+97.5% on our Z table. Right here. This is 0.975, or 97.5. And this gives us
+Z value of 1.96. So Z is equal to 1.96. Or 2.5% of the samples from this
+population are going to be more than 1.96 standard
+deviations away from the mean. So this critical Z value right
+here is 1.96 standard deviations. This is 1.96 times the standard deviation of x1 minus x2. And then this right here is
+going to be negative 1.96 times the same thing. Let me write that. So this right here,
+it's symmetric. This distance is going to be
+the same as that distance. So this is negative 1.96 times
+the standard deviation of this distribution. So let's put it this way,
+there's a 95% chance that our sample that we got from our
+distribution-- this is the sample as a difference of
+these other samples. There's a 95% chance that 1.91
+lies within 1.96 times the standard deviation of
+that distribution. So you could view
+it as a standard error of this statistic. So x1 minus x2. Let me finish that sentence. There's a 95% chance that 1.91,
+which is the sample statistic, or the statistic that
+we got, is within 1.96 times the standard deviation
+of this distribution of the true mean of of the
+distribution. Or we could say it the
+other way around. There's a 95% chance that the
+true mean of the distribution is within 1.96 times the
+standard deviation of the distribution of 1.91. These are equivalent
+statements. If I say I'm within three feet
+of you, that's equivalent to saying you're within
+three feet of me. That's all that's saying. But when we construct it this
+way, it becomes pretty clear, how do we actually construct
+the confidence interval? We just have to figure out
+what this distance right over here is. And to figure out what that
+distance is, we're going to have to figure out what the
+standard deviation of this distribution is. Well the standard deviation of
+the differences of the sample means is going to be equal to,
+and we saw this in the last video-- in fact, I think I have
+it right at the bottom here-- it's going to be equal
+to the square root of the variances of each of those
+distributions. Let me write it this way. So the variance, I'll
+kind of re-prove it. The variance of our distribution
+is going to be equal to the sum of the
+variances of each of these sampling distributions. And we know that the variance
+of each of these sampling distributions is equal to the
+variance of this sampling distribution, is equal to the
+variance of the population distribution, divided
+by our sample size. And our sample size in
+this case is 100. And the variance of this
+sampling distribution, for our control, is going to be equal
+to the variance of the population distribution for
+the control divided by its sample size. And since we don't know
+what these are, we can approximate them. Especially, because our n is
+greater than 30 for both circumstances. We can approximate these with
+our sample variances for each of these distributions. So let me make this clear. Our sample variances for each
+of these distributions. So this is going to be our
+sample standard deviation one squared, which is the sample
+variance for that distribution, over 100. Plus my sample standard
+deviation for the control squared, which is the
+sample variance. Standard deviation squared
+is just the variance divided by 100. And this will give us the
+variance for this distribution. And if we want the standard
+deviation, we just take the square roots of both sides. If we want the standard
+deviation of this distribution right here, this is the variance
+right now, so we just need to take the square roots. Let's calculate this. We actually know these values. S1, our sample standard
+deviation for group one is 4.67. We wrote it right
+here, as well. It's 4.76 and 4.04. The S is 4.67, we're going
+to have to square it. And the S2 is 4.04, we're going
+to have to square it. So let's calculate that. So we're going to take the
+square root of 4.67 squared divided by 100 plus 4.04
+squared, divided by 100. And then close the
+parentheses. And we get 0.617. Let me write it right here. This is going to be
+equal to 0.617. So if we go back up over here,
+we calculated the standard deviation of this distribution
+to be 0.617. So now we can actually calculate
+our interval. Because this is going
+to be 0.617. So if you want 1.96 times that,
+we get 1.96 times that 0.617, I'll just write the
+answer we just got. So we get 1.21. So the 95% confidence interval
+is going to be the difference of our means, 1.91, plus or
+minus this number, 1.21. So what's our confidence
+interval? So the low end of our confidence
+interval, and I'm running out of space, 1.91 minus
+1.21, that's just 0.7. So the low end is 0.7. And then the high end, 1.91
+plus 1.21, that's 2.12. let me just make sure of that. My brain sometimes doesn't work
+properly when I'm making these videos. 3.12. So just to be clear, there's not
+a pure 95% chance that the true difference of the true
+means lies in this. We're just confident that
+there's a 95% chance. And we always have to put a
+little confidence there, because remember, we didn't
+actually know the population standard deviations, or the
+population variances. We estimated them
+with our sample. And because of that, we don't
+know that it's an exact probability. We just have say we're confident
+that it is a 95% probability. And that's why we just say it's
+a confidence interval. It's not a pure probability. But it's a pretty neat result. So we're confident that there's
+a 95% chance that the true difference of these two
+samples-- and remember, let me make it very clear, the expected
+value of the sample means is actually the same thing
+as the expected value of the populations. And so, what this is giving us
+is actually a confidence interval for the true difference
+between the populations. If you were to give everyone,
+every possible person, diet one. And every possible
+person diet two. This is giving us a confidence
+interval for the true population means. And so when you look at this,
+it looks like diet one actually does do something. Because in any case, even at the
+low end of the confidence interval, you still have
+a greater weight loss than diet two. Hopefully, that doesn't
+confuse you too much. In the next video, we're
+actually going to do a hypothesis test with
+the same data.

@@ -1,0 +1,81 @@
+Let's see if we can stumble
+our way to another logarithm property. So let's say that the log
+base x of A is equal to B. That's the same thing as saying
+that x to the B is equal to A. Fair enough. So what I want to
+do is experiment. What happens if I multiply this
+expression by another variable? Let's call it C. So I'm going to multiply both
+sides of this equation times C. And I'll just switch colors
+just to keep things interesting. That's not an x that's a C. I should probably just
+do a dot instead. Times C. So I'm going to multiply both
+sides of this equation times C. So I get C times log base x of
+A is equal to-- multiply both sides of the equation--
+is equal to B times C. Fair enough. I think you realize I
+have not done anything profound just yet. But let's go back. We said that this is the
+same thing as this. So let's experiment
+with something. Let's raise this side
+to the power of C. So I'm going to raise this
+side to the power of C. That's a kind of caret. And when you type
+exponents that's what you would use, a caret. So I'm going to raise
+it to the power of C. So then, this side is x
+to the B to the C power, is equal to A to the C. All I did is I raised both
+sides of this equation to the Cth power. And what do we know about when
+you raise something to an exponent and you raise that
+whole thing to another exponent, what happens
+to the exponents? Well, that's just exponent
+rule and you just multiply those two exponents. This just implies that x to the
+BC is equal to A to the C. What can we do now? Well, I don't know. Let's take the logarithm
+of both sides. Or let's just write this--
+let's not take the logarithm of both sides. Let's write this as a
+logarithm expression. We know that x to the BC
+is equal to A to the C. Well, that's the exact same
+thing as saying that the logarithm base x of A to
+the C is equal to BC. Correct? Because all I did is I rewrote
+this as a logarithm expression. And I think now you
+realized that something interesting has happened. That BC, well, of course, it's
+the same thing as this BC. So this expression must be
+equal to this expression. And I think we have another
+logarithm property. That if I have some kind of a
+coefficient in front of the logarithm where I'm multiplying
+the logarithm, so if I have C log-- Clog base x of A,
+but that's C times the logarithm base x of A. That equals the log
+base x of A to the C. So you could take this
+coefficient and instead make it an exponent on the term
+inside the logarithm. That is another
+logarithm property. So let's review what we know
+so far about logarithms. We know that if I write-- let
+me say-- well, let me just with the letters I've been using. C times logarithm base x of
+A is equal to logarithm base x of A to the C. We know that. And we know-- we just learned
+that logarithm base x of A plus logarithm base x of B is equal
+to the logarithm base x of A times B. Now let me ask you a question. What happens if instead of
+a positive sign here we put a negative sign? Well, you could probably figure
+it out yourself but we could do that same exact proof that
+we did in the beginning. But in this time we will
+set it up with a negative. Let's just say that log
+base x of A is equal to l. Let's say that log base
+x of B is equal to m. Let's say that log base x of A
+divided by B is equal to n. How can we write all of these
+expressions as exponents? Well, this just says that
+x to the l is equal to A. Let me switch colors. That keeps it interesting. This is just saying that x
+to the m is equal to B. And this is just saying that
+x to the n is equal to A/B. So what can we do here? Well what's another
+way of writing A/B? Well, that's just the same
+thing as writing x to the l because that's A,
+over x to the m. That's B. And this we know from our
+exponent rules-- this could also be written as x to the
+l, x to the negative m. Or that also equals
+x to the l minus m. So what do we know? We know that x to the n is
+equal to x to the l minus m. Those equal each other. I just made a big
+equal chain here. So we know that n is
+equal to l minus m. Well, what does that do for us? Well, what's another
+way of writing n? I'm going to do it up here
+because I think we have stumbled upon another
+logarithm rule. What's another way
+of writing n? Well, I did it right here. This is another
+way of writing n. So logarithm base x of
+A/B-- this is an x over here-- is equal to l. l is this right here. Log base x of A is equal to l. The log base x of A minus m. I wrote m right here. That's log base x of B. There you go. I probably didn't
+have to prove it. You could've probably tried
+it out with dividing it, but whatever. But you know are hopefully
+satisfied that we have this new logarithm property right there. Now I have one more logarithm
+property to show you, but I don't think I have time to
+show it in this video. So I will do it in
+the next video. I'll see you soon.

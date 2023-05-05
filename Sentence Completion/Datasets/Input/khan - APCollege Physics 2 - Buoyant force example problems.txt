@@ -1,0 +1,114 @@
+Let's say that I have some
+object, and when it's outside of water, its weight
+is 10 newtons. When I submerge it in water-- I
+put it on a weighing machine in water-- its weight
+is 2 newtons. What must be going on here? The water must be exerting some
+type of upward force to counteract at least
+8 newtons of the object's original weight. That difference is the
+buoyant force. So the way to think about is
+that once you put the object in the water-- it could be a
+cube, or it could be anything. We know that we have a downward
+weight that is 10 newtons, but we know that once
+it's in the water, the net weight is 2 newtons, so there
+must be some force acting upwards on the object
+of 8 newtons. That's the buoyant force that
+we learned about in the previous video, in the video
+about Archimedes' principle. This is the buoyant force. So the buoyant force is equal
+to 10 minus 2 is equal to 8. That's how much the water's
+pushing up. And what does that
+also equal to? That equals the weight of the
+water displaced, so 8 newtons is equal to weight of
+water displaced. What is the weight of
+the water displaced? That's the volume of the water
+displaced times the density of water times gravity. What is the volume of
+water displaced? It's just the volume of water,
+divide 8 newtons by the density of water,
+which is 1,000 kilograms per meter cubed. A newton is 1 kilogram meter
+per second squared. Then, what's gravity? It's 9.8 meters per
+second squared. If we look at all the units,
+they actually do turn out with you just ending up having
+just meters cubed, but let's do the math. We get 8 divided by 1,000
+divided by 9.8 is equal to 8.2 times 10 to the negative 4. V equals 8.2 times 10 to the
+minus 4 cubic meters. Just knowing the difference in
+the weight of an object-- the difference when I put
+it in water-- I can figure out the volume. This could be a fun game
+to do next time your friends come over. Weigh yourself outside of water,
+then get some type of spring or waterproof weighing
+machine, put it at the bottom of your pool, stand on it, and
+figure out what your weight is, assuming that you're dense
+enough to go all the way into the water. You could figure out somehow
+your weight in water, and then you would know your volume. There's other ways. You could just figure out how
+much the surface of the water increases, and take
+that water away. This was interesting. Just knowing how much the
+buoyant force of the water was or how much lighter we are when
+the object goes into the water, we can figure out the
+volume of the object. This might seem like a very
+small volume, but just keep in mind in a meter cubed, you
+have 27 square feet. If we multiply that number
+times 27, it equals 0.02 square feet roughly. In 0.02 square feet, how many--
+in a square foot, there's actually-- 12 to the
+third power times 12 times 12 is equal to 1,728 times 0.02. So this is actually
+34 square inches. The object isn't as small as you
+may have thought it to be. It's actually maybe a little bit
+bigger than 3 inches by 3 inches by 3 inches, so it's
+a reasonably sized object. Anyway, let's do another
+problem. Let's say I have some balsa
+wood, and I know that the density of balsa wood is 130
+kilograms per meter cubed. I have some big cube of balsa
+wood, and what I want to know is if I put that-- let
+me draw the water. I have some big cube of balsa
+wood, which I'll do in brown. So I have a big cube of balsa
+wood and the water should go on top of it, just so
+that you see it's submerged in the water. I want to know what percentage
+of the cube goes below the surface of the water? Interesting question. So how do we do that? For the object to be at rest,
+for this big cube to be at rest, there must be zero net
+forces on this object. In that situation, the buoyant
+force must completely equal the weight or the force
+of gravity. What's the force of gravity
+going to be? The force of gravity is just the
+weight of the object, and that's the volume of the balsa
+wood times the density of the balsa wood times gravity. What's the buoyant force? The buoyant force is equal to
+the volume of the displaced water, but that's also the
+volume of the displaced water and it's the volume of the cube
+that's been submerged. The part of the cube that's
+submerged, that's volume. That's also equal
+to the amount of volume of water displaced. We could say that's the volume
+of the block submerged, which is the same thing, remember,
+as the volume of the water displaced times the density
+of water times gravity. Remember, this is density
+of water. So remember, the buoyant force
+is just equal to the weight of the water displaced and that's
+just the volume of the water displaced times the density
+of water times gravity. Of course, the volume of the
+water displaced is the exact same thing as the volume
+of the block that's actually submerged. Since the block is stationary,
+it's not accelerating upwards or downwards, we know that
+these two quantities must equal each other. So V, the volume of the wood,
+the entire volume, not just the amount that's submerged,
+times the density of the wood times gravity must equal the
+volume of the wood submerged, which is equal to the volume of
+the water displaced times the density of water
+times gravity. We have the acceleration
+of gravity. We have that on both sides,
+so we can cross it out. Let me switch colors to
+ease the monotony. What happens if we divide both
+sides by the volume of the balsa wood? I'm just rearranging
+this equation. I think you'll figure it out. We divide both sides by that,
+and you get the volume submerged divided by the volume
+of the balsa wood-- I just divided both sides by VB
+and switched sides-- is equal to the density of the balsa
+wood divided by the density of water. Does that make sense? I just did a couple of quick
+algebraic operations, but hopefully that got rid of
+the g, and that should make sense to you. Now we're ready to solve
+our problem. My original question is
+what percentage of the object is submerged? That's exactly this number. If we say this is the volume
+submerged over the total volume, this is the
+percent submerged. That equals the density of
+balsa wood, which is 130 kilograms per meter cubed,
+divided by the density of water, which is 1,000 kilograms
+per meter cubed, so 130 divided by 1,000 is 0.13. Vs over VB is equal to
+0.13, which is the same thing as 13%. So, exactly 13% percent of this
+balsa wood block will be submerged in the water. That's pretty neat to me. It actually didn't have
+to be a block. It could have been shaped
+like a horse. I'll see you in the
+next video.

@@ -1,0 +1,73 @@
+- [Voiceover] In this video
+we're gonna talk about diamagnetic anisotropy. So some pretty fnacy words there. We talked about diamagnetism
+in an earlier video and we used current in a
+loop of wire as an analogy. So if current is moving in this direction in a loop of wire, so I represents current, a magnetic field is created. And at the very center of this loop, the magnetic field is
+pointing straight down. As you move away from the center, I can draw in some more
+magnetic field lines, so we didn't do this in the earlier video, and as you get closer to
+the edge of this loop, inside of the loop the magnetic field will be pointing down, but outside of the loop of wire, the magnetic field will be pointing up. Same thing on this side,
+so pointing down inside and the magnetic field points
+up on the outside of the loop. So when you're talking about current you're thinking about
+positive charges moving. But that's not what's happening. We know that electrons
+are really what are moving and moving charges
+create a magnetic field. The electrons are moving in a direction opposite to how we define current. So we have electron
+density moving this way and we get a magnetic field. If we think about benzyne, benzyne has six pi electrons, so up here is benzyne. So let's go ahead and
+identify the pi electrons. Two, four, and six. And if we put benzyne in
+an applied magnetic field, so here is our applied
+magnetic field B naught, so it's pointing up. Those six pi electrons of
+benzyne are going to circulate to create an induced magnetic field. So let me go ahead and draw a picture of the pi electrons in
+benzyne circulating. So the pi electrons are
+going in this direction. If the pi electrons are
+going in that direction, then we know the induced magnetic field will be pointing down here. So at the very center the
+induced magnetic field will be pointing down. So induced magnetic field points down. As you move away from the center, once again we can draw in some
+more magnetic field lines, and then as you get to
+the edge of the ring, edge of the benzyne ring here, once again inside of the ring the magnetic field points down, but outside of the ring the magnetic field is gonna point up. It's the same thing on this side. Inside it points down, outside of the ring, the
+magnetic field points up. So let's think about the magnetic field experienced by this proton. So that proton experiences the applied magnetic field B naught, but it also feels this
+induced magnetic field, which is in the same direction as the external magnetic field. So this is the direction of
+the induced magnetic field outside of the ring. So the effective magnetic
+field felt by this proton, you'd have to add the
+induced magnetic field to the applied magnetic field to find the effective magnetic field. So outside of the ring we get a larger magnetic field. So we get a large magnetic field, we get a large difference between the alpha and the beta spin states in terms of energy. And a greater difference
+in terms of energy means a higher frequency absorbed. And therefore you get a
+higher chemical shift. And so the proton on
+benzyne has a chemical shift of approximately 7.27 parts per million. So this is just for any proton on any kind of benzyne ring here. Your general range is
+gonna be 6.5 to eight. And so if there are several molecules that demonstrate this
+effect very dramatically, and let's take a look at one of them. So how do we know that
+this effect is even true? So if I look at this molecule, we're gonna have a giant ring here. So let me go around so you can see the outline
+of this giant ring. So a much bigger ring than benzyne. We have a lot of pi electrons. So more pi electrons then benzyne, so I'll just highlight some of them. Two, four, six, eight, and so on. You can see we have alternating single, single double bonds
+here in this molecule. And so if you put this molecule into an external magnetic field, you're gonna get the same
+situation as benzyne. So let's think about
+these inner protons here. So we have six inner protons. If we look at the diagram for benzyne, if you have an applied
+external field B naught, in the center, right in
+the center of the ring, the inner protons experience an induced magnetic field that's down. It opposes the external magnetic field. So let me go ahead and draw that out here. So if we apply an external
+magnetic field B naught, the inner protons have
+an induced magnetic field caused by the movement
+of those pi electrons. The induced magnetic field
+opposes the applied field. And so the effective magnetic field felt by those inner protons is smaller. So we get a smaller, we get a smaller effective magnetic field. Smaller effective magnetic field means a smaller energy difference between the alpha and
+the beta spin states. Therefore we get a lower frequency signal and a lower chemical shift. And the chemical shift for
+these six inner protons turns out to be negative
+two parts per million. So think about what that means. Negative two is past TMS. So if I go back up here, TMS was at zero. So negative two would be to the right. I don't even have room to show it on this chemical shift right here. So way past TMS. So a pretty dramatic effect. We can look at the protons outside of the ring as well. So let me go and highlight those. So we have 12 protons outside of the ring. Since those protons are
+outside of the ring, the induced magnetic field is now in the same direction as the applied magnetic field. So therefore we get a larger
+effective magnetic field felt by one of those protons. A larger magnetic field means a greater difference in energy between your alpha and beta spin states, so you get a higher frequency signal and a higher chemical shift. The chemical shift is about
+nine parts per million. So the dramatic difference between these chemical shifts for these inner and outer protons, shows you how powerful this effect can be. Let's use this effect to explain the shift for a proton on a triple bond. So if we think about acetylene, so here's acetylene, and we're thinking about
+the signal for this proton. Let's think about the
+carbon it's attached to. So this carbon right
+here is sp hybridized. And in the previous video, we talked about the fact
+that an sp hybrid orbital has more s character than an sp two or sp three hybrid orbital. And therefore the electron density is going to be closer to that carbon. So you can think about
+an sp hybridized carbon as being more electronegative than an sp two or sp
+three hybridized carbon. So the electron density is
+closer to this carbon here, which you would think
+would deshield this proton and give you a higher chemical shift than a proton on a double bond. But that's not what we observed. The shift for this proton turns out to be approximately two to 2.5. So it's actually a lower chemical shift than a proton on a double bond. And let's see if we can explain why. So if we apply an external magnetic field, so B naught is our applied
+external magnetic field, we know that causes pi
+electrons to circulate. And if we have an upright
+orientation of acetylene, so the orientation of
+the molecule matters, so if it's facing in this direction, the pi electrons are
+gonna circulate like this. And just like we talked about in benzyne, if the pi electrons circulate like that we get an induced magnetic field down in this direction, like that. So we can draw a few more
+magnetic field lines like that. And think about the magnetic
+field experienced by let's say, this proton. So this proton is feeling
+the applied magnetic field, it's also feeling the
+induced magnetic field. But the induced magnetic field is in the opposite direction of the applied magnetic field. So we could draw the
+induced magnetic field opposing the applied magnetic field. So that proton that I circled there, actually feels a smaller
+effective magnetic field here. So if you have a smaller
+effective magnetic field, you're decreasing the energy difference between your alpha and beta spin states. So you get a lower chemical
+shift than expected due to this effect. And so that's currently how we explain the chemical shift of somewhere around 2.5 for a proton on a triple bond. And so this effect holds true
+any time you have pi electrons that can circulate when you put a molecule in an applied magnetic field. And so we could also use this to explain, for example the proton on a double bond. So here's some pi electrons. Or the proton, here we have
+next to a carbonyl here. So we have pi electrons here. So any time you have pi electrons, this effect can be present. And as we've seen, it can be a very powerful effect and really affect the chemical shift.

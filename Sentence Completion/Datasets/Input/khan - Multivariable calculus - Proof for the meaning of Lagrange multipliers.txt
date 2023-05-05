@@ -1,0 +1,164 @@
+- [Grant] All right, so last video I showed you guys this really crazy fact. Now, we have our usual setup here for this constrained
+optimization situation. We have a function we wanna maximize, which I'm thinking of as
+revenues for some company, a constraint, which I'm thinking of as some kind of budget for that company, and as you know if you've
+gotten to this video, one way to solve this
+constrained optimization problem is to define this function
+here, the Lagrangian, which involves taking this function that you're trying to maximize, in this case the revenue, and subtracting a new variable, lambda, what's called the Lagrange multiplier, times this quantity, which
+is the budget function, however much you spend as a function of your input parameters, minus the budget itself, which you might think of
+as $10,000 in our example. So that's all the usual setup, and the crazy fact,
+which is just declared, is that when you set this
+gradient equal to zero, and you find some solution, and there will be three
+variables in this solution: h*, s*, and lambda*, that this lambda* is not meaningless. It's not just a proportionality constant between these gradient vectors, but it will actually tell you how much the maximum
+possible revenue changes as a function of your budget, and the way to start writing
+all of that in formulas would be to make explicit the fact that, if you consider this value, the
+$10,000 that is your budget, which I'm calling b, a
+variable and not a constant, then you have to
+acknowledge that h* and s* are dependent on b, right? It's a very implicit relationship, something that's kind of
+hard to think about at first, because as you change b, it
+changes what the Lagrangian is, which is gonna change where
+its gradient equals zero, which changes what h*,
+s*, and lambda* are, but in principle, they are some function
+of that budget, of b, and the maximum possible revenue is whatever you get when you
+just plug in that solution to your function r, and the claim I made, that I
+just pulled out of the hat, is that lambda*, the lambda value that comes
+packaged in with these two when you set the gradient of
+the Lagrangian equal to zero, equals the derivative
+of this maximum value, thought of as a function of b. Maybe I should emphasize that. We're thinking of this maximum value as a function of b, with respect to b. So that's kind of a mouthful. It takes a lot just to even
+phrase what's going on, but in the context of an economic example, it has a very clear, precise meaning, which is, if you increase
+your budget by a dollar, if you increase it from
+$10,000 to $10,001, you're wondering, for that tiny change in
+budget, that tiny db, what is the ratio of the
+resulting change in revenue? So in a sense, this lambda* tells you, for every dollar that
+you increase the budget, how much can your revenue increase if you're always maximizing it? So why on earth is this true, right? This just seems like it
+comes out of nowhere. Well, there are a couple
+clever observations that go into proving this. The first is to notice what happens if we evaluate this
+Lagrangian function itself at this critical point, when you input h*, s*, and lambda*, and remember, the way that
+these guys are defined is that you look at all of the values where the gradient of the
+Lagrangian equals the zero vector, and then, if you get
+multiple options, you know, sometimes when you set
+the gradient equal to zero you get multiple solutions, and whichever one maximizes
+R, that is h*, s*, lambda*. So now I'm just asking, if you plug that, not into the gradient of the Lagrangian, but to the Lagrangian
+itself, what do you get? Well, you're going to get we just look at its definition up here, R evaluated at h* and s*, right? And we subtract off lambda* times B of h*, s*, minus the constant that
+is your budget, you know, something you might think of as $10,000, whatever you set little b equal to. Okay, Grant, you might say,
+why does this tell us anything? You're just plugging in stars instead of the usual variables, but the key is that if
+you plug in h* and s*, this value has to equal zero because h* and s* have to
+satisfy the constraint. Remember, one of the cool parts about this Lagrangian
+function as a whole is that when you take its partial
+derivative with respect to lambda, all that's left is this
+constraint function minus the constraint portion. When you set the gradient
+of the Lagrangian equal to the zero vector, one component of that is to set the partial derivative
+with respect to lambda equal to zero, and if you remember from
+the Lagrangian video, all that really boils down to is the fact that the
+constraint holds, right? Which would be your
+budget achieves $10,000. When you plug in the appropriate
+h* and s* to this value, you are hitting this
+constrained amount of money that you can spend. So by virtue of how h* and s* are defined, the fact that they are solutions to the constrained optimization problem means this whole portion goes to zero. So we can just kind of cancel
+all that out, and what's left what's left here is the maximum
+possible revenue, right? So evidently, when you evaluate the Lagrangian
+at this critical point, at h*, s*, and lambda*, it equals M*. It equals the maximum possible value for the function you're
+trying to maximize. So ultimately, what we want is to understand how that
+maximum value changes when you consider it a
+function of the budget. So evidently, what we can look for is to just ask how the Lagrangian changes as you consider it a
+function of the budget. Now, this is an interesting
+thing to observe, because if we just look up at the definition of the Lagrangian, if you just look at this formula, if I told you to take
+the derivative of this with respect to little b, how much does this change
+with respect to little b, you would notice that this goes to zero. It doesn't have a little b. This would also go to zero, and all you'd be left with would be negative lambda times negative b, and the derivative of
+that with respect to b would be lambda. So you might say, oh yeah,
+of course, of course, the derivative of that
+Lagrangian with respect to b, once we work it all out, the only term that was
+left there was the lambda, and that's compelling, but ultimately it's not entirely right. That overlooks the fact that L is not actually
+defined as a function of b. When we defined the Lagrangian, we were considering b to be a constant. So if you really wanna consider this to be a function that involves b, the way we should write it, and I'll go ahead and erase this guy, the way we should write this Lagrangian is to say, you are a function of h*, which itself is dependent on b, and s*, which is also
+a function of b, right? As soon as we start
+considering b a variable and not a constant, we have to acknowledge
+that this critical point, h*, s*, and lambda*,
+depends on the value of b. So likewise, that lambda*, lambda* is also gonna be a function of b, and then we can consider,
+as a fourth variable, right, so we're adding on yet another
+variable to this function, the value of b itself, the value of b itself here. So now, when we wanna know, what is the value of the Lagrangian at the critical point, h*, s*, lambda*, as a function of b, all right? So that can be kind of confusing. What you basically have is this function that only really depends
+on one value, right? It only depends on b, but it kinda goes through
+a four-variable function, and so, just to make it explicit, this would equal the value of R as a function of h*, and s*, and each one of those is a
+function of little b, right? So this term is saying,
+what's your revenue? Evaluate it on the maximizing
+h and s for the given budget, and then you subtract off lambda*. Oh here, I should probably I'm not gonna have room here, am I? So what you subtract off, minus lambda* at B of h*, and s*, but each of these guys is
+also a function of little b, little b, minus little b, right? So you have this large kind of complicated
+multivariable function. It's defined in terms of h*'s and s*'s, which are themselves very implicit, right? We just say, by definition these are whatever values make
+the gradient of L equal zero. So very hard to think about
+what that means concretely, but all of this is really just dependent on the single value, little b, and from here, if we wanna
+evaluate the derivative of L, we wanna evaluate the
+derivative of this Lagrangian with respect to little b, which is really the only
+thing it depends on. It's just via all of
+these other variables, we use the multivariable chain rule, and at this point, if you don't know the
+multivariable chain rule, I have a video on that. Definitely pause. Go take a look. Make sure that it all makes sense. But right here, I'm just gonna be assuming that you know what the
+multivariable chain rule is. So what it is, is we take the partial we're gonna look at
+the partial derivatives with respect to all four of these inputs. So we'll start with the partial derivative
+of L with respect to h*, with respect to h*, and we're gonna multiply that by the derivative of h* with respect to b, and this might seem like a
+very hard thing to think about, like, how do we know how
+h* changes as b changes? But don't worry about it. You'll see something magic
+happen in just a moment. And then we add in partial derivative of L with respect to that second variable, s*, with respect to whatever
+the second variable is, multiplied by the derivative of s* with respect to b. You can see how you really need to know what the multivariable
+chain rule is, right? This would all seem
+kind of out of the blue. So what we now add in is the partial derivative of L
+with respect to that lambda*, with respect to lambda*, multiplied by the derivative of lambda* with respect to little b, and then finally, finally, we take the partial
+derivative of this Lagrangian with respect to that little b, which we're now considering
+a variable in there, right? We're no longer considering
+that b a constant. Multiplied by, well,
+something kinda silly: the derivative of b
+with respect to itself. So now, if you're thinking that this is gonna be
+horrifying to compute, I can understand where you're coming from. You have to know the derivative of lambda* with respect to b. You have to somehow
+intimately be familiar with how this lambda* changes as
+you change b, and like I said, that's such an implicit
+relationship, right? We just said that lambda*
+is, by definition, whatever the solution to
+this gradient equation is. So somehow you're supposed to know how that changes when you
+slightly alter b over here? Well, you don't really
+have to worry about things, because by definition, h*, s*, and lambda* are whatever values make the
+gradient of L equal to zero, but if you think about
+that, what does it mean for the gradient of L to
+equal the zero vector. Well, what it means is that
+when you take its derivative with respect to that first
+variable, h*, it equals zero. When you take its derivative with respect to the second variable, that equals zero as well, and with respect to this third variable, that's gonna equal zero. By definition, h*, s*, and lambda*, are whatever values make it the case, so that when you plug them in, the partial derivative of the Lagrangian, with respect to any one of
+those variables, equal zero. So we don't even have to worry
+about most of this equation. The only part that matters here is the partial derivative
+of L with respect to b, that we're now considering a variable, multiplied by, well, what's db/db? What is the rate of change of a variable with respect to itself? It's one. It is one. So all of this stuff, this
+entire multivariable chain rule, boils down to a single
+innocent-looking factor, which is the partial derivative of L, partial derivative of L
+with respect to little b, and now there's something
+very subtle here, right? Because this might seem obvious. I'm saying the derivative
+of L with respect to b equals the derivative
+of L with respect to b, but maybe I should give a
+different notation here, right? Because here, when I'm taking
+the derivative, really, I'm considering L as a
+single-variable function, right? I'm considering, not what happens as you can freely change
+all four of these variables. Three of them are locked into place by b. So maybe I should really
+give that a different name. I should call that L*. L* is a single-variable function, whereas this L is a
+multivariable function. This is the function where you
+can freely change the values of h, and s, and lambda,
+and b, as you put them in. So if we kind of scroll up
+to look at its definition, which I've written all over, I guess. Here, let me actually rewrite
+its definition, right? I think that'll be useful. I'm gonna rewrite that L, if I consider it as a
+four-variable function of h, s, lambda, and b, that what that equals is R evaluated at h and s, minus lambda, multiplied by this constraint function B evaluated at h and s, minus little b, and this is now when I'm considering
+little b to be a variable. So this is the Lagrangian when you consider all four of these to be freely changing as you want, whereas the thing up here that I'm considering a
+single-variable function, has three of its inputs locked into place. So effectively, it's just a single-variable
+function with respect to b. So it's actually quite miraculous that the single-variable
+derivative of that L, here, I should L*, with respect to b, ends up being the same as
+the partial derivative of L, this L, where you're free
+to change all the variables, that these should be the same. Usually, in any usual circumstance, all of these other terms would
+have come into play somehow, but what's special here is that by the definition of this L*, the specific way in which these h*, s*, and
+lambda*'s are locked into place happens to be one in which all of these partial
+derivatives go to zero. So that's pretty subtle, and
+I think it's quite clever, and what it leaves us with is that we just have to evaluate
+this partial derivative, which is quite simple, 'cause we look down here, and you say, what's the partial derivative
+of L with respect to b? Well, this R has no b's in it, so don't need to care about that. This term over here, its partial
+derivative is negative one just 'cause there's a b here, and that's multiplied
+by the constant lambda, so that all just equals lambda, but if we're in the situation where lambda is locked into
+place as a function of little b, then we'd write lambda* as a
+function of little b, right? So if that feels a little
+notationally confusing, I'm right there with you, but the important part here,
+the important thing to remember is that we just started
+considering b as a variable, and we were looking at
+the h*, s*, and lambda*, as they depended on that variable. We made the observation
+that the Lagrangian, evaluated at that critical point, equals the revenue evaluated
+at that critical point. The rest of the stuff just cancels out. So if you wanna know the derivative of M*, the maximizing revenue,
+with respect to the budget, how much does your maximum revenue change for tiny changes in your budget? That's the same as
+looking at the derivative of the Lagrangian with
+respect to the budget, so long as you're considering it only on values h*, s*, lambda*, that are critical points
+of the Lagrangian, and all of that really nicely boils down to just taking a simple partial derivative that gives us the relation we want.

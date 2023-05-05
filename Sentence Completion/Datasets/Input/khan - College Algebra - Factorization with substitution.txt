@@ -1,0 +1,47 @@
+- [Instructor] We're told
+that we want to factor the following expression
+that they have right here and they say that we can
+factor the expression as U plus V squared where U and V are either constant integers or single variable expressions. What are U and V? And then they ask us to
+actually factor the expression. So pause this video and see
+if you can work on that. All right, so let's go
+with the first part of it. So they say they can factor the expression as U plus V squared. So how do we see this expression in terms of U plus V squared? Well one way is to just remind ourselves what U plus V squared even is. U plus V squared, this
+is just going to be a, the square of a binomial
+and you've seen this in many, many other videos. This is going to be U
+squared plus two times the product of these two terms. So 2UV plus V squared. If you've never seen this before or not sure where this
+came from, I encourage you to watch some of those early videos where we explain this out. But, does this match this pattern? Well can we express
+this term as U squared? Well if this is U
+squared, then U would have to be equal to X plus seven and when I say, actually I
+should be a little careful. Can we express this entire
+thing right over here as U squared? If U squared is equal
+to X plus seven squared, that means that U is going
+to be equal to X plus seven and then this right over here would have to be V squared. If this is V squared,
+then that means that V is equal to Y squared
+because Y squared squared is equal to Y to the fourth. So V is equal to Y squared. Now they already told us that this, this could be factored as the
+expression U plus V squared, but let's make sure that
+this actually works. Is this middle term right over here, is this truly equal to
+two times U times V, 2UV? Well let's see. Two times U would be
+two times X plus seven times V times Y squared and that's exactly what
+we have right over here. It's 2Y squared times X plus seven. So this kind of hairy looking expression actually does fit this
+pattern right over here. So you can view it as U plus V squared where U is equal to X plus seven and V is equal to Y squared. Now using that, we can now
+actually factor the expression. We can write this thing as being equal to U plus V squared. And we know what U and V are. So this is, this whole expression is going to be equal to
+U, which is X plus seven, and I'll put it in
+parentheses just so you see it very clearly, plus V
+plus Y squared squared, 'cause that's exactly
+what we wrote over there. And of course, you don't have
+to write these parentheses. You could rewrite this as X plus seven plus Y squared squared. Let's do another example. So here, once again, we are told that we want to factor the following expression and they're saying that we
+can factor the expression as U plus V times U minus V where U and V are either constant integers or single variable expressions. So pause this video and try
+to figure out what U and V are and then actually factor the expression. All right, well let's just
+remind ourselves in general what U plus V times U minus V is equal to. Well, if this is unfamiliar to you, I encourage you to watch the videos on difference of squares. When you multiply this all out this is going to give you
+a difference of squares. U squared minus V squared. If you actually take the
+trouble of multiplying this out, you're going to see that that middle term, that middle third term, or
+the middle terms I should say, cancel out, so you're just
+left with the U squared minus the V squared. And so does this fit this pattern? Well in order for this to be U squared and for this to be V squared, that means U squared
+is equal to 4X squared so that means that U
+would have to be equal to the square root of that
+which would be two times X. Notice, U squared would be 2X
+squared which is 4X squared and then V would have to be equal to the square root of 9Y to the sixth. With the square root of nine is three and the square of Y to
+the sixth is going to be Y to the third power. And then we could use that
+to factor the expression, 'cause we could say hey, this right over here is the same thing as U squared minus V squared, so it's going to be equal to, we can factor it out as, or factor it as, U minus or U plus V times U minus V. So what's that going to be equal to? So U plus V is going to
+be equal to 2X plus 3Y to the third and then U minus V is going to be equal to 2X,
+which is our U right over here, minus our V, minus 3Y to the third. So there you have it. We factored the expression. You might want to write it down here but we just did it right
+up there and we're done.

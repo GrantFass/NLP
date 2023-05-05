@@ -1,0 +1,209 @@
+- [Voiceover] When a major
+league baseball player throws a fast ball, that ball's
+definitely got kinetic energy. We know that cause if you get in the way, it could do work on
+you, that's gonna hurt. You gotta watch out. But here's my question: does
+the fact that most pitches, unless you're throwing a knuckle ball, does the fact that most
+pitches head toward home plate with the baseball spinning
+mean that that ball has extra kinetic energy? Well it does, and how
+do we figure that out, that's the goal for this video. How do we determine what the rotational kinetic energy is of an object? Well if I was coming at
+this for the first time, my first guest I'd say okay, I'd say I know what regular
+kinetic energy looks like. The formula for regular kinetic energy is just one half m v squared. So let's say alright, I want
+rotational kinetic energy. Let me just call that k rotational and what is that gonna be? Well I know for objects that are rotating, the rotational equivalent of
+mass is moment of inertia. So I might guess alright instead of mass, I'd have moment of inertia
+cause in Newton's second law for rotation I know that
+instead of mass there's moment of inertia so maybe I replace that. And instead of speed
+squared, maybe since I have something rotating I'd
+have angular speed squared. It turns out this works. You can often derive, it's
+not really a derivation, you're just kind of guessing
+educatedly but you could often get a formula for the
+rotational analog of some linear formula by just
+substituting the rotational analog for each of the variables,
+so if I replaced mass with rotational mass, I get
+the moment of inertia. If I replace speed with rotational speed, I get the angular speed and
+this is the correct formula. So in this video we needed
+to ride this cause that is not really a derivation,
+we didn't really prove this, we just showed
+that it's plausible. How do we prove that
+this is the rotational kinetic energy of an
+object that's rotating like a baseball. The first thing to recognize
+is that this rotational kinetic energy isn't really a new kind of kinetic energy, it's
+still just the same old regular kinetic energy for
+something that's rotating. What I mean by that is this. Imagine this baseball
+is rotating in a circle. Every point on the baseball
+is moving with some speed, so what I mean by that is
+this, so this point at the top here imagine the little
+piece of leather right here, it's gonna have some speed forward. I'm gonna call this mass
+M one, that little piece of mass right now and I'll
+call the speed of it V one. Similarly, this point on
+the leather right there, I'm gonna call that M two,
+it's gonna be moving down cause it's a rotating circle,
+so I'll call that V two and points closer to the
+axis are gonna be moving with smaller speed so
+this point right here, we'll call it M three, moving
+down with a speed V three, that is not as big as V two or V one. You can't see that very well, I'll use a darker green
+so this M three right here closer to the axis, axis
+being right at this point in the center, closer to the
+axis so it's speed is smaller than points that are
+farther away from this axis, so you can see this is kinda complicated. All points on this baseball
+are gonna be moving with different speeds so points
+over here that are really close to the axis, barely moving at all. I'll call this M four and it would be moving at speed V four. What we mean by the
+rotational kinetic energy is really just all the regular
+kinetic energy these masses have about the center
+of mass of the baseball. So in other words, what
+we mean by K rotational, is you just add up all of these energies. You have one half, this
+little piece of leather up here would have some kinetic energy so you do one half M
+one, V one squared plus. And this M two has some kinetic energy, don't worry that it points downward, downward doesn't matter for
+things that aren't vectors, this V gets squared so
+kinetic energy's not a vector so it doesn't matter that
+one velocity points down cause this is just the
+speed and similarly, you'd add up one half M
+three, V three squared, but you might be like this is impossible, there's infinitely many
+points in this baseball, how am I ever going to do this. Well something magical is about to happen, this is one of my favorite
+little derivations, short and sweet, watch what happens. K E rotational is really just the sum, if I add all these up
+I can write is as a sum of all the one half M V
+squares of every point on this baseball so imagine
+breaking this baseball up into very, very small pieces. Don't do it physically but
+just think about it mentally, just visualize considering
+very small pieces, particles of this baseball
+and how fast they're going. What I'm saying is that
+if you add all of that up, you get the total
+rotational kinetic energy, this looks impossible to do. But something magical is about to happen, here's what we can do. We can rewrite, see the problem here is V. All these points have a different speed V, but we can use a trick,
+a trick that we love to use in physics, instead
+of writing this as V, we're gonna write V as, so
+remember that for things that are rotating, V
+is just R times omega. The radius, how far from the axis you are, times the angular velocity,
+or the angular speed gives you the regular speed. This formula is really
+handy, so we're gonna replace V with R omega, and this
+is gonna give us R omega and you still have to
+square it and at this point you're probably thinking
+like this is even worse, what do we do this for. Well watch, if we add this
+is up I'll have one half M. I'm gonna get an R squared
+and an omega squared, and the reason this is
+better is that even though every point on this baseball
+has a different speed V, they all have the same
+angular speed omega, that was what was good about
+these angular quantities is that they're the same for
+every point on the baseball no matter how far away
+you are from the axis, and since they're the
+same for every point I can bring that out of the
+summation so I can rewrite this summation and bring
+everything that's constant for all of the masses out
+of the summation so I can write this as one half times the summation of M times R squared
+and end that quantity, end that summation and just
+pull the omega squared out because it's the same for each term. I'm basically factoring
+this out of all of these terms in the summation, it's like up here, all of these have a one half. You could imagine factoring out a one half and just writing this whole quantity as one half times M one V one squared plus M two V two squared and so on. That's what I'm doing
+down here for the one half and for the omega squared,
+so that's what was good about replacing V with R omega. The omega's the same for all of them, you can bring that out. You might still be
+concerned, you might be like, we're still stuck with
+the M in here cause you've got different Ms at different points. We're stuck with all
+these R squareds in here, all these points at the
+baseball are different Rs, they're all different
+points from the axis, different distances from
+the axis, we can't bring those out so now what do we
+do, well if you're clever you recognize this term. This summation term is
+nothing but the total moment of inertia of the object. Remember that the moment
+of inertia of an object, we learned previously,
+is just M R squared, so the moment of inertia of a point mass is M R squared and the moment of inertia of a bunch of point
+masses is the sum of all the M R squareds and that's
+what we've got right here, this is just the moment of
+inertia of this baseball or whatever the object is,
+it doesn't even have to be of a particular shape, we're gonna add all the M R squareds, that's
+always going to be the total moment of inertia. So what we've found is
+that the K rotational is equal to one half times this quantity, which is I, the moment of inertia, times omega squared and that's the formula we got up here just by guessing. But it actually works
+and this is why it works, because you always get
+this quantity down here, which is one half I omega
+squared, no matter what the shape of the object is. So what this is telling
+you, what this quantity gives us is the total
+rotational kinetic energy of all the points on that
+mass about the center of the mass but here's
+what it doesn't give you. This term right here does not include the translational kinetic
+energy so the fact that this baseball was flying
+through the air does not get incorporated by this formula. We didn't take into account the fact that the baseball was moving through the air, in other words, we
+didn't take into account that the actual center
+of mass in this baseball was translating through the air. But we can do that easily
+with this formula here. This is the translational kinetic energy. Sometimes instead of writing
+regular kinetic energy, now that we've got two we
+should specify this is really translational kinetic energy. We've got a formula for
+translational kinetic energy, the energy something has due
+to the fact that the center of mass of that object is
+moving and we have a formula that takes into account the
+fact that something can have kinetic energy due to its rotation. That's this K rotational,
+so if an object's rotating, it has rotational kinetic energy. If an object is translating it has translational kinetic energy, i.e. if the center of mass is moving, and if the object is
+translating and it's rotating then it would have those both
+of these kinetic energies, both at the same time and
+this is the beautiful thing. If an object is translating
+and rotating and you want to find the total kinetic
+energy of the entire thing, you can just add these two terms up. If I just take the translational
+one half M V squared, and this would then be the
+velocity of the center of mass. So you have to be careful. Let me make some room
+here, so let me get rid of all this stuff here. If you take one half M,
+times the speed of the center of mass squared, you'll
+get the total translational kinetic energy of the baseball. And if we add to that the
+one half I omega squared, so the omega about the
+center of mass you'll get the total kinetic energy, both
+translational and rotational, so this is great, we can
+determine the total kinetic energy altogether, rotational
+motion, translational motion, from just taking these two terms added up. So what would an example of this be, let's just get rid of all this. Let's say this baseball,
+someone pitched this thing, and the radar gun shows that
+this baseball was hurled through the air at 40 meters per second. So it's heading toward home
+plate at 40 meters per second. The center of mass of
+this baseball is going 40 meters per second toward home plate. Let's say it's also, someone
+really threw the fastball. This thing's rotating
+with an angular velocity of 50 radians per second. We know the mass of a
+baseball, I've looked it up. The mass of a baseball
+is about 0.145 kilograms and the radius of the baseball,
+so a radius of a baseball is around seven centimeters,
+so in terms of meters that would be 0.07 meters, so
+we can figure out what's the total kinetic energy,
+well there's gonna be a rotational kinetic
+energy and there's gonna be a translational kinetic energy. The translational kinetic
+energy, gonna be one half the mass of the baseball
+times the center of mass speed of the baseball squared which
+is gonna give us one half. The mass of the baseball was
+0.145 and the center of mass speed of the baseball is 40,
+that's how fast the center of mass of this baseball is traveling. If we add all that up we
+get 116 Jules of regular translational kinetic energy. How much rotational
+kinetic energy is there, so we're gonna have
+rotational kinetic energy due to the fact that the
+baseball is also rotating. How much, well we're gonna
+use one half I omega squared. I'm gonna have one half, what's
+the I, well the baseball is a sphere, if you look up the
+moment of inertia of a sphere cause I don't wanna have
+to do summation of all the M R squareds, if you
+do that using calculus, you get this formula. That means in an algebra
+based physics class you just have to look this
+up, it's either in your book in a chart or a table or you
+could always look it up online. For a sphere the moment of
+inertia is two fifths M R squared in other words two fifths
+the mass of a baseball times the raise of the baseball squared. That's just I, that's the
+moment of inertia of a sphere. So we're assuming this
+baseball is a perfect sphere. It's got uniform density,
+that's not completely true. But it's a pretty good approximation. Then we multiply by this omega squared, the angular speed squared. So what do we get, we're
+gonna get one half times two fifths, the mass of
+a baseball was 0.145. The radius of the baseball
+was about, what did we say, .07 meters so that's .07
+meters squared and then finally we multiply by omega squared
+and this would make it 50 radians per second and we square it which adds up to 0.355 Jules so hardly any of the
+energy of this baseball is in its rotation. Almost all of the energy is
+in the form of translational energy, that kinda makes sense. It's the fact that this
+baseball is hurling toward home plate that's gonna
+make it hurt if it hits you as opposed to the fact
+that it was spinning when it hits you, that doesn't
+actually cause as much damage as the fact that this
+baseball's kinetic energy is mostly in the form of
+translational kinetic energy. But if you wanted the total
+kinetic energy of the baseball, you would add both of these terms up. K total would be the
+translational kinetic energy plus the rotational kinetic energy. That means the total kinetic
+energy which is the 116 Jules plus 0.355 Jules which give us 116.355 Jules. So recapping if an object is both rotating and translating you can
+find the translational kinetic energy using one
+half M the speed of the center of mass of that
+object squared and you can find the rotational
+kinetic energy by using one half I, the moment of inertia. We'll infer whatever shape it is, if it's a point mass
+going in a huge circle you could use M R
+squared, if it's a sphere rotating about its center
+you could use two fifths M R squared, cylinders
+are one half M R squared, you can look these up
+in tables to figure out whatever the I is that
+you need times the angular speed squared of the object
+about that center of mass. And if you add these
+two terms up you get the total kinetic energy of that object.

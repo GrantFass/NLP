@@ -1,0 +1,77 @@
+Voiceover:We have two vectors here. Vector A, it has a magnitude of three so the length of this blue arrow is three. Its direction, it forms a 33
+degree angle with the positive, I guess you could say the positive x axis. I haven't drawn that here and vector B has a magnitude of two, the length of this arrow is two and it forms a 135 degree
+angle with a positive x axis. What I want to think about in this video and maybe the next one depends
+on how we do with the time is what is the magnitude
+and direction of the sum of these two vectors. What is the magnitude and
+direction of the vector A plus B? I encourage you to pause this video and try to work this through on your own before I work through it. Well to think about this, I'm going to decompose
+each of these vectors into their horizontal and
+their vertical components. For example vector A could be viewed as the sum of this
+horizontal pointing vector plus this vertical pointing vector. Another way of thinking
+about this horizontal vector, this right over here, this is going to be a scaled up version of the unit vector I and so this is going
+to be something times I and this vector right over
+here is going to be something times the unit vector in
+the vertical direction. The vertical direction might
+look something like that or let's see if this is
+three then the unit vector, yeah, actually would
+look something like that. That's what the J unit vector looks like and this is what the I unit
+vector would look like. This is a scaled up version of it. It's something times I and
+this is something times J. The same exact argument right over here. This is going to be something
+times the I unit vector, its horizontal component and its vertical component
+is going to be something times the J unit vector. What we really need to do is figure out the magnitudes
+of these horizontal and vertical components and then we know how much to scale up I and how much to scale up J. Let's think through this a little bit. This one might jump out at you immediately is this is a 30, 60, 90 triangle. This is a 30, 60, 90 triangle
+then this side right over here is going to be half the
+length of the hypotenuse. This is going to be half of three, so it's three over two and
+this one right over here, let me do that in same color. This is going to be three,
+that's not the same, that's a different color. This is going to be three over two and then this length right over here. This is going to be square root of three times the shorter side. This is three times the
+square root of three over two. I just took this and multiplied
+it by the square root of three and once again that just came
+out of 30, 60, 90 triangles. Now another way that you could tackle this is to use your, what would you know about your trig functions? You say, "Okay I know
+this angle right here" "is a 30 degree angle,
+this is the opposite side." You could say, "Well,
+the opposite over three" "is going to be equal to
+the sine of 30 degrees," let me right this down. Soh cah toa. Sine of 30 degrees is going to
+be equal to the opposite side over the length of the hypotenuse. Over three or we could
+say that the opposite side is equal to three times
+the sine of 30 degrees. If you put this in your calculator, sine of 30 degrees is one half and so you're going to
+get three halves here. Similarly for this side, this side is adjacent
+to the 30 degree angle. You could say cosine, cosine
+is adjacent over hypotenuse. You could say that cosine of 30 degrees is equal to adjacent over the hypotenuse or multiplying both sides by three. The adjacent is going to be equal to three times the cosine of 30 degrees and the cosine of 30 degrees
+if you type in your calculator, you're actually going to
+get some type of a decimal but it's square root of three over two. Three square root of three over two and you can verify this if you like. We see here, sine of 30 is indeed one half and cosine of 30 well you get this kind of crazy decimal but notice that is the same thing as square root of three divided by two. The exact same value right over here but we were able to figure that out just using what we know
+about 30, 60, 90 triangles. Now this triangle, you might
+say, "Well, what's the angle?" What angles do we know about it? Well this angle right over here is this is supplementary
+to this 135 degree angle. This is a 45 degree angle. This is 90 so this is 45. This is a 45, 45, 90 degree triangle. Now you could say that
+using the trig identities and what we did right
+over here that this length is going to be the hypotenuse times the cosine of 45 degrees and you could say that
+this length right over here is going to be the hypotenuse
+times the sine of 45 degrees. Using the exact same logic here and as you get more practice
+with finding the components, you'll realize, okay,
+you take the hypotenuse times the cosine of this angle. You're going to get the adjacent side. If you do the hypotenuse
+times the sine of this angle, you're going to get the opposite side but we could use this sine of 45 degrees. Once again if you put in your calculator, you get a crazy decimal but we can figure that out,
+we know 45, 45, 90 triangles. Sine of 45 degrees is
+square root of two over two. Cosine of 45 degrees is also
+square root of two over two. I know my writing is
+getting a little bit messy and actually I should have
+done all of these in green, square root of two over two. What's the length of that green vector? What's two times square
+root of two over two, that's going to be square root of two. What's the length of this orange vector? It's two times square root of two over two so it's going to be square root of two. Now we know the magnitudes
+of the component vector is a horizontal and vertical
+components of each of these so now we can write these out as the sum of these horizontal and vertical vectors. Vector A, we can write
+as square root of three or three square roots of
+three over two times I. That's this vector right over here, we scaled up the I unit vector by three squares root of three over two plus three halves times J. This right over here is
+this vector right over here. Scaled up version of the J unit vector and if you add this orange
+vector to this green vector, you get vector A. Similarly, vector B is equal to the length of the horizontal component and we got to be very careful. It's length is square root of two but it's going in the leftward direction. We're going to put a
+negative on it times I. If we just squared it, I is
+doing something like this, square root of two times
+I would look like that. Negative square root of two
+would point it to the left. This is negative square
+root of two times I and then we're going to have plus square root of two times J. Now that we've broken them
+up in their components, we're ready to figure out what, at least broken up into its components what A plus B is. A plus B is equal to, well
+it's going to be the sum of all of these things. Let me just write that down. It's going to be that, copy and paste. That plus this, let me
+just copy and paste it and you're going to get that but of course we can simplify this. We can add the I unit
+vectors to each other. If I have three times
+the square root of three over two Is and then I have another negative square root of two I, I can add that together. This is going to be equal to three times the square root of three over two minus square root of two times I and then I can add this to this and I'm going to get plus three halves plus square root of two times J. It looks a little bit complicated but we could type it in to our calculator and get approximations of
+each of these two values and we essentially have
+a at least a broken down into its components
+representation of A plus B. In the next video, we're
+now going to take this and figure out the actual
+magnitude and direction of A plus B.

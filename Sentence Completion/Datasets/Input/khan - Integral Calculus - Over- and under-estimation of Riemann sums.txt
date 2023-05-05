@@ -1,0 +1,52 @@
+- [Narrator] Consider the left
+and right Riemann sums that would approximate the area
+under y is equal to g of x between x equals two and x equals eight. We want to approximate this
+light blue area right here. Are the approximations over
+estimations or underestimations? So, let's just think about each of them. Let's consider the left
+and right Riemann sums. First the left. I'm just gonna write left for
+short but I'm talking about the left Riemann sum. They don't tell us how many
+subdivisions to make for our approximation so
+that's up to us to decide. Let's say we went with three subdivisions. Let's say we want to make them equal. They don't have to be,
+but let's say we do. The first one would go from two to four, the next one would go from four to six, and the next one would
+go from six to eight. If we do a left Riemann sum, you use the left side of
+each of these subdivisions in order to find the height. You evaluate the function at
+the left end of each of those subdivisions for the height of
+our approximating rectangles. We would use g of two to
+set the height of our first approximating rectangle, just like that. Then we would use g of four
+for the next rectangle. We would be right over there. Then you would use g of six
+to represent the height of our third and our final
+rectangle, right over there. Now, when it's drawn out like
+this, it's pretty clear that our left Riemann sum is going
+to be an overestimation. Why do we know that? Because these rectangles, the
+area that they're trying to approximate is contained
+in the rectangles. And these rectangles have
+this surplus area so they're always going to be larger than the areas that they're trying to approximate. And in general, if you have a function that's
+decreasing over the interval that we care about right over here, strictly decreasing the entire time. If you use the left edge of
+each subdivision to approximate, you're going to have an overestimate. Because the left edge, the value of the function there, is going to be higher than
+the value of the function at any of the point in the subdivision. That's why for decreasing function, the left Riemann sum is going
+to be an overestimation. Now let's think about the
+right Riemann sum and you might already guess that's
+going to be the opposite but let's visualize that. Let's just go with the
+same three subdivisions. But now let's use the
+right side of each of these subdivisions to define the height. For this first rectangle the
+height is going to be defined by g of four. That's right over there. And then for the second one
+it's going to be g of six. That is right over there. For the third one it's
+going to be g of eight. Let me shade these in to make
+it clear which rectangles we're talking about. This would be the right Riemann
+sum to approximate the area. It's very clear here that this is going to be an underestimate. Underestimate because we see
+in each of these intervals, the right Riemann sum or the
+rectangle that we're using for the right Riemann sum
+is a subset of the area that its trying to estimate. We're not able to, it doesn't
+capture this extra area right over there. And once again, that is because this is a
+strictly decreasing function. So if you use the right end
+point of any one of these or the right side of any of
+these subdivisions in order to define the height, that right value of g is going
+to be the lowest value of g in that subdivision so it's
+going to be a lower height than what you could say is even the
+average height of the value of the function over that interval. So you're going to have an
+underestimate in this situation. Now, if your function
+was strictly increasing, then these two things would be
+swapped around and of course, there are many functions
+that are neither strictly increasing or decreasing and then it would depend on the function. Sometimes even, it would depend on the type
+of subdivisions you choose to decide whether you have an
+overestimate or an underestimate.

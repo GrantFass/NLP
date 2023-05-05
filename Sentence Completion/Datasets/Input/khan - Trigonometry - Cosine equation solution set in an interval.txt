@@ -1,0 +1,54 @@
+- [Instructor] In a previous
+video, we established the entire solution set
+for the following equation. And we saw that all the x's
+that can satisfy this equation are a combination of these
+x's and these x's here. The reason why I'm
+referring to each of them as numerous xs is that for
+any integer value of n, you'll get another solution. For any integer value of n,
+you'll get another solution. What I wanna do in this video is to make things a
+little bit more concrete. And the way that we're going
+to do it is by exploring all of the x values that
+satisfy this equation that sit in the closed interval from negative pi over two to zero. So I encourage you like always, pause this video and have
+a go at it by yourself before we work through it together. All right, now let's work
+through this together. So the first helpful thing is we have these algebraic expressions. We have things written in terms of pi. Let's approximate them
+all in terms of decimals. So even pi over two, we
+can approximate that. Let's see, if pi is approximately 3.14, half of that is approximately 1.57, so we could say this is approximately the closed interval from -1.57 to zero. - 1.57 isn't exactly negative pi over two, but it'll hopefully be suitable for what we're trying to do here. And now let's see if we can write the different parts of these expressions, or at least approximate them as decimals. So this could be rewritten
+as x is approximately, if you were to take 1/8
+times the inverse cosine of -1/6, I encourage you to verify this on your own on a calculator, you would get that that's
+approximately 0.22. And then pi over four
+is approximately 0.785. So this expression would
+be approximately 0.22 minus 0.785 times n, where n could be any integer. And then this one over here on the right, let me do that in this yellow,
+x could be approximately equal to, well if this
+evaluates to approximately 0.22, then this is just the negative of it, so it's going to be -0.22. And then it's plus what approximately pi over four is, so 0.785n. And now what we could do
+is just try different n's and see if we're starting
+above or below this interval, and then see which of
+the x values actually fall in this interval. So let's just start here. If we just start at n equals zero, actually why don't I set
+up a little table here, we have n here and if we
+have the x value here, when n is zero, well, then
+you don't see this term, and you just get approximately 0.22. Now let's compare that to the interval. The upper bound of that interval is zero. So this does not sit in the interval. So this is too high and we would want to define the x's that sit in the interval. We wanna find lower values. So it's good that here, where
+you're subtracting 0.785, so I would use positive
+integer values of n to decrease this 0.22 here. So when n equals one, we would
+subtract 0.785 from that, and I'll round all of these
+to the hundredths place, and that would get us to -0.57, and that does sit in the interval. So this looks good. So this would be a solution in that interval right over here. And let's try n equals two. So we would subtract 0.785 again, and that would get us to -1.35, not 25, 35, and that also sits in the interval. It's larger than -1.57,
+so that looks good. Let's subtract 0.785
+again, when n equals three, that would get us -2.14. Well, that's all of a
+sudden out of the interval because that's below the lower bound here. So this is too low. So using this expression,
+we've been able to find two x values that sit in the
+interval that we care about. Now let's use these x
+values right over here and I'll set up another table. So, let's see we have our n
+and then we have our x values. So let's start with n equals
+zero 'cause that's easy to compute, and then
+this term would go away, and we'd have -0.22, and that's actually in this interval here, it's below zero, it's larger than -1.57,
+so that one checks out. But now to really explore, we
+have to go in both directions. We have to increase it or decrease it. So if we wanted to increase it, we could have a situation
+where n equals one. So if n equals one, we're
+gonna add 0.785 to this. Now you immediately know
+that that's going to be a positive value, if you
+computed it, it'd be 0.57, which is larger than
+zero, so this is too high. So now we could try going lower than -0.22 by having negative values of n. So if n is equal to -1, that
+means we're subtracting 0.785 from this right over here
+which would get us to -1.01. Well, that one works out,
+so that's in our interval. And now let's subtract 0.785 again. So I'll have n equals -2. And so if I subtract 0.785 again, I could round that to -1.79, which is lower than -1.57, so it's out of our
+interval, so it's too low. So all of the x values
+that are in our interval that satisfy this equation
+are these two right over here. And this one and this one, and we are done.

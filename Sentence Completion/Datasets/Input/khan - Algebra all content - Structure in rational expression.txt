@@ -1,0 +1,78 @@
+Let's say we we're told that
+the position of a particle can be figured out
+from, or the position of a particle as
+a function of time is given by this
+crazy expression. The position could be
+positive or negative. And this expression is t minus
+a, times a minus t, times t minus a, times t
+minus b, all of that over the square root of
+a squared plus b squared. And they also tell
+us that c is greater than b, is greater than
+a, is greater than 0. So given that information,
+we have two statements right over here. We have the position at times
+c on the left hand side. And over here, we have
+the number of times that our function is equal to 0,
+the number of times that p of t is equal to 0. What I want you to do is
+pause the video right now and think about which
+of these statements provides a larger value. Is p of c greater than or less
+than the number of times p of t equals 0? And I guess a third and fourth
+option would be that you maybe don't have enough information
+to figure this out or maybe that these are equal. So I encourage you to
+figure that out right now. Which of these are larger? Or do you not have
+enough information? Or are they equal? So I'm assuming you've
+given a go at it. So let's think
+about each of them. So let's think about
+what p of c is. So p of c is going to
+be equal to, right here p-- I don't want to
+arbitrarily switch colors, which I sometimes do. p of c is going to be
+equal to, let's see. It's going to be c minus a. I'll do this all
+in this one color. It's going to be c minus
+a, times a minus c, times c minus a, times c
+minus b, all of that over the square root of
+a squared plus b squared. So what do we know
+about this quantity? What do we know about this
+quantity right over here? Let me highlight
+all the Cs here. So c minus a, a minus
+c, c minus a, c minus b. Well, they tell us that
+c is larger than a and b and that they're all positive. So maybe we can come
+up with some statement about whether this thing
+is positive or negative, whether this expression is. So what's c minus a going to be? Well, c is greater than a. So this is going to be positive. What about a minus c? Well, a is less than c. So this is going to result
+in a negative number. c minus a, well, this is
+going to be a positive again. And then c minus b is also
+going to be a positive. c is greater than both b and a. And what do we have
+here in the denominator? Well, the square root
+of a squared plus b squared, well, this is just
+going to be a positive value. So what do we have
+going on here? Here in the numerator, I have
+a positive times a negative, times a positive,
+times a positive. So what's that going to be? Well, that's going
+to be a negative. A positive, times a positive,
+times a positive is positive. And then you throw
+that negative in there. So you're going to get a
+negative over a positive. And what's a negative
+divided by a positive? Well, that's going
+to be a negative. So we don't know what
+the actual value is. But all we do know is
+that this provides us with a negative value. So this ends up being
+a positive value. Then we could make a statement
+that this, we just say, hey, this is a negative
+value as well. But we might not have
+enough information. So let's think about the number
+of times p of t is equal to 0. Well, p of t is
+equal to 0 whenever the numerator right
+over here is equal to 0. And when would the
+numerator equal 0? Well, I have the product of
+this 1, 2, 3, 4 expression. So if any one of these
+expressions is 0, then the entire numerator
+is going to be 0. So let's think about how you
+can make these expressions 0. So the expression could be 0. This will be 0 if
+t is equal to a. This would also be 0
+if t is equal to a. And this would also be
+0 if t is equal to a. And this would be 0
+if t is equal to b. So there's two values
+for t that will make this numerator equal to
+0, t equals a or t equals b. So there's two times. So the number of times that
+p of t is equal to 0 is two. So now let's answer
+our question. What is larger, the number
+2, is the number positive 2, versus some negative number? Well, 2 is larger than
+any negative number. So this is the larger quantity.

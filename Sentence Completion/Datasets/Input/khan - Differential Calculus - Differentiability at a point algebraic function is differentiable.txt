@@ -1,0 +1,37 @@
+- [Voiceover] Is the function given below continuous slash
+differentiable at x equals three? They've defined it piece-wise, and we have some choices. Continuous, not differentiable. Differentiable, not continuous. Both continuous and differentiable. Neither continuous not differentiable. Now one of these we can knock
+out right from the get go. In order to be differentiable
+you need to be continuous. You cannot have differentiable
+but not continuous. So let's just rule that one out. And now let's think about continuity. So let's first think about continuity. And frankly, if it isn't continuous, then it's not going to be differentiable. So let's think about it a little bit. So in order to be continuous, f of ... Using a darker color. F of three needs to be equal to the limit of f of x as x approaches three. Now what is f of three? Well let's see, we've fallen
+to this case right over here, because x is equal to
+three, so six times three is 18, minus nine is
+nine, so this is nine. So the limit of f of x
+as x approaches three needs to be equal to nine. So let's first think about the limit as we approach from the left hand side. The limit as x approaches three. X approaches three from the
+left hand side of f of x. Well when x is less than three we fall into this case, so f of x is just going to be equal to x squared. And so this is defined and continuous for all real numbers, so we can just substitute the three in there. So this is going to be equal to nine. Now what's the limit of as we approach three from the right hand side of f of x? Well as we approach from the right, this one right over here is f of x is equal to six x minus nine. So we just write six x minus nine. And once again six x minus nine is defined and continuous for all real numbers, so we could just pop a three in there and you get 18 minus nine. Well this is also equal to nine, so the right and left hand, the left and right hand limits both equal nine, which is equal to the value
+of the function there, so it is definitely continuous. So we can rule out this
+choice right over there. And now let's think
+about differentiablity. So in order to be differentiable ... So differentiable, I'll
+just diff-er-ent-iable. In order to be differentiable the limit as x approaches three of
+f of x minus f of three over x minus three needs to exist. So let's see if we can evaluate this. So first of all we know
+what f of three is. F of three, we already evaluated this. This is going to be nine. And let's see if we can
+evaluate this limit, or let's see what the
+limit is as we approach from the left hand side
+or the right hand side, and if they are approaching the same thing then that same thing that they
+are approaching is a limit. So let's first think about the limit as x approaches three
+from the left hand side. So it's over x minus three,
+and we have f of x minus nine. But as we approach from
+the left hand side, this is f of x, as x is less than three, f of x is equal to x squared. So this would be instead of f of x minus 9 I'll write x squared minus
+nine, and x squared minus nine. This is a difference of squares, so this is x plus three
+times x minus three, x plus three times x minus three. And so these would cancel out. We can say that is
+equivalent to x plus three as long as x does not equal three. That's okay because we're
+approaching from the left, and as we approach from the left x plus three is defined
+for all real numbers, it's continuous for all real numbers, so we can just substitute
+the three in there. So we would get a six. So now let's try to evaluate the limit as we approach from the right hand side. So once again it's f of
+x, but as we approach from the right hand side,
+f of x is six x minus nine. That's our f of x. And then we have minus f
+of three, which is nine. So it's six x minus 18. Six x minus 18. Well that's the same thing
+as six times x minus three, and as we approach from the right, well that's just going to be equal to six. So it looks like our
+derivative exists there, and it is equal to limit
+as x approaches three of all of this because
+this is equal to six, because the limit is
+approached from the left and the right is also equal to six. So this looks like we are both continuous and differentiable.

@@ -1,0 +1,143 @@
+- Let's talk about the
+Second Law of Thermodynamics. This law is weird. There's about 10 different
+ways to state it, which is one reason why it's weird. Let's start with one of the
+most common ways to state it, which is, if you've got a
+cold object and a hot object, heat will never be seen
+to flow spontaneously from a colder object to a hotter object. So if you have these two sitting together, maybe an ice cube and
+a hot piece of metal, and you make them touch, heat's going to flow between them, but we know what's gonna happen. The heat's gonna flow from the hot object to the cold object, and never the other way. At least, not spontaneously. You can force heat from a cold object to a hot object, like we
+do with a refrigerator or a freezer, but that's
+using a heat pump. And those refrigerators
+and freezers are doing work to force that heat from the
+cold region into the hot region. It won't do it spontaneously by itself. You've got to force it to do it. So what the second law says,
+or at least one version of it, is that that process will never be seen to happen in reverse. The heat will never be seen to flow from the cold object to the hot object. Now, you might be thinking, "Duh. "Do we really need a law to tell us that?" But it's not so obvious,
+because you can still conserve energy and momentum and all the other rules of
+physics and laws of physics by allowing heat to flow from the cold object to the hot object. In other words, let's say the cold object started with 10 Joules of thermal energy and the hot object started with ... It's hotter, so let's just say it has 30 Joules of thermal energy. You could imagine five Joules of energy going from the cold
+object into the hot object which would leave you
+with five Joules of energy for the cold object, 35
+Joules of thermal energy for the hot object. You still have 40, just
+like you did before. You didn't break the law
+of conservation of energy. It's just, energy won't go that way. So why? Why is thermal energy never seen to flow from the cold
+object to the hot object, even though it satisfies every
+other known law of physics besides the second law? Well, before we answer that question, I think it'd be useful to talk about an alternate version of the second law, which looks something like this. The total disorder will
+never be seen to decrease. What do I mean by "disorder"? Imagine you had a room and
+there were blue spheres. And they're bouncing around wildly. So these all have some
+velocity and random directions. And when they strike a wall or each other, they lose no energy. So they keep bouncing around like crazy. And then there's another
+section of the room with red spheres, and these are also bouncing around randomly. They lose no energy. They
+keep doing their thing. Except, there's a divider in this room that doesn't allow the red spheres to go onto the blue spheres'
+side, and vice versa. These can't mix up. So right now, this is an ordered state because the reds are
+separated from the blues. So we say that this state has a certain amount of order to it. But let's imagine we removed the divider. Now what's gonna happen? Well, you'll see these things mix up. This blue sphere will move over here, and it'll bounce onto this side. This red sphere will go over here. They'll just keep getting mixed up. And at some given moment,
+you might find the spheres in some configuration like this. They're still bouncing around, but now they're all mixed up and we say that this state has a
+higher amount of disorder. This is not ordered. We say that this is more disordered, which supports the second law. The second law says, if you let things do what they wanna do spontaneously, your system will go from
+a more ordered state to a more disordered state. And you'll never see it go the other way. We can stand in this room and wait. But you're probably never gonna see the blue spheres line
+up all on the left side and the right spheres
+line up on the right side. With 12 total spheres, maybe
+if you wait long enough, a really long time, you might catch it where all the red spheres are on one side and blues are on the other. But image this. Imagine
+now, instead of six reds and six blues, there's
+100 reds, 1,000 reds, maybe 10 to the 23d and
+Avogadro's number of reds, and now they're all mixed up. The odds of ever seeing them
+get back to this ordered state are basically zero. The probability isn't exactly zero, but the probability is very, very low that you would ever see a disordered state with that many number of particles reassemble themselves
+into an ordered state. So we kind of just know
+that from experience and what we've seen in
+our day-to-day lives. But you still might be
+wondering, "How come? "How come we never see a disordered state "go to an ordered state?" Well, it basically has
+to do with counting. If you were to count all the possible ways of lining up the reds
+over here on this side and the blues on the left-hand side, there'd be a lot of combinations that would satisfy that condition. I mean, you could swap
+this red with that red, and this red with that red, all on the right-hand side. All these reds could get swapped around. And these blues, as well. They can get swapped around
+on the left-hand side. You get a large number of variations that would satisfy the condition of blues on the left, reds on the right. But now I want you to ask yourself, how many possibilities
+are there for having blues and reds spread out
+through the whole room? Well, you could probably
+convince yourself, there's more. And it turns out, there'll be a lot more. Now this red doesn't have to just maintain its position on the
+right-hand side somewhere. This red can get swapped
+out anywhere over here. I can swap a red with this blue, and this blue with this red, and this red with this red,
+and this blue with this blue. I can move them all over. Now that these spheres have the whole room through which they can mix, the amount of states that
+will have blues and reds mixed throughout the whole room will vastly outnumber the amount of states that have just reds on one side and just blues on the other side. And this simple idea is the basis for the Second Law of Thermodynamics. Roughly speaking, the
+Second Law of Thermodynamics holds because there are so
+many more disordered states than there are ordered states. Now, I'm gonna tell you something
+that you might not like. This particular disordered
+state that I have drawn, this exact one, is just as likely as this exact ordered state. In other words, if I get rid
+of the barrier over here, if you came in, you'd be just as likely to find the room in
+this exact configuration as you were to find it in
+this exact configuration. These two exact states are equally likely, which sounds weird. It makes you think, "Well,
+you're just as likely "to find an ordered state
+than a disordered state." But no. This particular
+state is just as likely as this other particular state. But there are so many more mixed-up states than there are separated states. Even though any particular
+state is just as likely, since the mixed-up states vastly outnumber the separated states, if
+you pick one at random, it's gonna be a mixed-up state because there are so many more of them. Imagine putting these all into a hat. Imagine writing down all the possible configurations of states,
+ordered, disordered, in between. You put them all into a hat,
+you pull one out randomly, any particular state is just as likely. But since there's so many
+more disordered states, you pick one out randomly, it's probably gonna be mixed up. And if there's a large
+number of particles, you're almost certain to find it mixed up. So to help us keep these ideas straight, we need some different terms. Physicists came up with a couple terms. One is a macrostate. And a macrostate is basically saying, okay, the particle are mixed up. That's one possible macrostate. And we could be more precise. We can say, the reds and the blues can be anywhere within the box. Another possible macrostate would be to say that the particles are separated, that is to say, reds are on this side, anywhere on that side,
+but on the right side, and blues are on the left side,
+anywhere on the left side. These terms are referring to a macrostate, an overall description
+of what you would see. Now, there's another term, a microstate. And a microstate is a
+precise, exact description of the nitty-gritty details of what every particle is doing within there. If I just tell you, "The
+particles are mixed up," you're not gonna know
+exactly where they are. Similarly, if I just tell
+you, "They're separated," you're not gonna know
+exactly where they are. You'll know they'll be
+on the right-hand side, the red ones will, but you won't know. Maybe this red ones moves down here, maybe this red one moves up here. The microstate is an exact description. This red one's right here,
+going a particular speed. This blue one's right here,
+going a particular speed. If you specify the exact location, blue right here, blue right there, going that fast, red right here, what you're describing
+to me is a microstate. And so the second law, another way of thinking about it, there are more microstates
+for a disordered macrostate than there are micorstates
+for an ordered macrostate. And that's why we see systems
+go from order to disorder. It's really just a statistical result of counting up the
+possible number of states. You might be wondering,
+what does this have to do with heat going from hot to cold, all this talk about
+microstates and macrostates? Well, it's not just position
+that can get disordered. It's velocities that can get disordered, energy that can get disordered, and that's more of like
+what's happening up here. The positions of the hot molecules aren't necessarily moving
+over into the cold range. But the energy over here
+is getting dissipated into the cold area. So image it this way. Let's get rid of all this. And imagine you had a
+room with a gas in it, but this gas was kind of weird. At this particular moment,
+all the gas molecules on the right-hand side
+were moving really fast, and all the gas molecules
+on the left-hand side were moving really slow. So the room was separated
+into a cold region and a hot region, just
+like this energy is. This is ordered, or at
+least, somewhat ordered. It's more ordered than it's going to be. If you wait a while,
+this is all gonna mix up. You're gonna have some
+fast-moving particles over here, some slow ones over here. It's all gonna be blended together. And so, what would you say
+if you were standing in here? At first, you'd feel cold because these particles
+don't have a lot of energy. Then you start feeling warmer and warmer. You'd say heat is flowing over to the left because you feel faster-moving particles striking your body. And so you'd rightly
+say that heat is moving from the right of this room
+to the left of this room. It flows from the hot to the cold. And that's what's happening up here. Heat flows from the hot to the cold. You might object. These
+are solids, I said, copper and an ice cube. A copper atom's not gonna make it over into the cold ice cube. But the energy is gonna move. So you can make the
+same argument over here. Don't allow these, let's say
+these are the copper atoms moving around fast, or at least
+jiggling in place rapidly. When they bump into the
+slower-moving water molecules in the ice cube, they're gonna
+give those water molecules some of their energy. And this energy's gonna become mixed up. The energy will become disordered. It will go from this ordered state, where the high energy is over
+here and low energy's here, to a disordered state where the energy's distributed somewhat evenly. So essentially what I'm saying is, if you consider the macrostate, where the hot molecules are separated from the cold molecules,
+there will be less microstates that satisfy that condition than there will be microstates
+that satisfy the condition for a macrostate where
+the energy is mixed up and you're just as likely to
+find a fast-moving particle on the left as you are on the right. This will have vastly more microstates, many more possible ways of
+making up a mixed-up state than there are microstates
+that create a separated state. I mean, there's gonna be a lot. I'm talking a lot of microstates that satisfy this condition
+for this macrostate, separated. But there will be so many more microstates for the mixed-up
+case, this dominates. That's why you always see heat flow from a hot object to a cold object, just because it's statistically inevitable with the large number of
+particles that you have here. There are so many more
+ways of heat flowing from hot to cold than
+there are from cold to hot, statistically speaking, you just never see it go the other way. Energy will always, at
+least spontaneously, if you let it do what it wants to, energy's always going to
+dissipate and evenly distribute. That's why it goes from
+the hot to the cold. This energy's trying to get mixed up, just because statistically, there are so many more ways for that to happen. Now, I need to tell you
+that there's actually a scientific term for
+the amount of disorder, and we call it the entropy. Physicists use the letter
+S to denote the entropy. And if you wanna know the
+formula for the entropy, you could look on Bolzmann's grave. This is Ludwig Bolzmann. He's got it on his gravestone.
+How awesome is that? The entropy S is k, Bolzmann's
+constant, times log. This is actually natural log of W. And W is the number of microstates for a particular macrostate. So you got some configuration,
+you wanna know the entropy? Just look at what macrostate it's in, count up how many microstates are there for that macrostate, take log of it, multiply by Bolzmann's constant, that gives you the entropy. And there's a term for this W. It's called the Multiplicity, because it's determining the multitude of microstates that satisfy the conditions for a particular macrostate. Now, entropy is cool. Entropy is weird. Entropy is somewhat mysterious and still, probably, has secrets
+for us to unlock here. I don't have time to go
+into all of them here, but if you read up on it,
+entropy has a role to play in the fate of the universe, the beginning of the
+universe, the arrow of time, maybe our perception, all
+kinds of facets of physics that are extremely interesting. And entropy, you always find
+this guy lurking around. And one place you always find entropy is in the Second Law of Thermodynamics, because it allows us a third
+way to state the second law, which is that the total
+entropy of a closed system will always be seen to increase. Technically, if it's a reversible process, the entropy could stay the same. But honestly, for all
+real-world processes, the entropy's gonna increase
+for a closed system, which is to say that
+the disorder increases.

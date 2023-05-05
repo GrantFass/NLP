@@ -1,0 +1,22 @@
+- Now that we're comfortable with the geometry of our cells
+let's flesh out some details. Let's take a closer look
+at the shading packet. Notice
+each cell contains some skin around the edge with the scale
+sticking out in the middle. We need
+to decide how far it is between the edge of the cell
+and the start of a scale. This gap will expose the skin that the scales are growing out of. In our program we can do this with this parameter called scale size. If we maximize the scale size it covers all the skin which looks wrong. So we need to pull it back slightly to get the gap we need. That looks nice but notice the distance between the scales is the same everywhere. Right, that's not very natural. We've added a control here to vary the distance between scale edges. That look perfect. Next, we need to make the scales look like they're extruding,
+sticking out from the skin. In our program we can control how far they stick out with
+this extrude parameter. - Now we have a model for our dino-skin that we can start shading. - Let's take a look at the shading packet and examine the color notes. It says each scale should have a slightly different color and the skin should be
+darker and leathery. So we'll add some color controls here. One for the skin and one for scales. To pull this off we have a really cool trick. We define a range of colors
+from the smallest scale, here, to the largest scale, here. And now our program will color each scale based on its size. So the smaller scales will
+look more like this color, and the larger scales will
+look more like this color. And all of the other scales
+will be somewhere in between. That's very cool. It saves us time because we don't have to define the color of
+each scale individually. Now, see how the color varies very naturally according
+to the scale size. We also added a preview button to give us a rough idea on
+how our pattern will look. - Neat. Okay, now it's your turn to use all these ideas to create
+your own dino-skin. - And in the final exercise we can use all the tools we
+introduced in this lesson. - And when you're happy with your creation move onto the next lesson where we'll be adding microscopic level detail. This should really make
+our dino leg look great. Do you always have a model
+first and then start shading? - Most of the time we have the model first and then we realize that
+we need something that has a little bit of a different geometry and we wanna add certain details in certain areas of the model. So sometimes we end up changing the model after shading has already started.

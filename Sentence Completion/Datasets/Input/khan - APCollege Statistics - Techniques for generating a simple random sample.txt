@@ -1,0 +1,55 @@
+- [Teacher] Let's say that your school has a population of 80 students in it. Maybe it's not your whole school. Maybe it's just your grade. So there's 80 students in your population and you wanna get an estimate
+of the average height in your population and
+you think it's too hard for you to go and measure
+the height of all 80 students so you decide to find a simple or take a simple random sample. You think it's reasonable
+for you to measure the heights of 30 of these students and so what you wanna
+do is randomly sample 30 of the 80 students and
+take their average height and say, well, that's probably
+a pretty good estimate for the population parameter for the average height
+of the entire population. So once you decide to do this, you say, well, how do I
+select those 30 students and how do I select it so that I feel good that it is actually random? And there's several ways
+that you could approach this. One way to do it is associate every person in your school with a piece of paper
+and put 'em all in a bowl and then pick 'em out so let's do that. So let's say this is alphabetically the first person in the school. They're on a slip of paper then the next slip of
+paper gets the next person and you're gonna go all the way down so you're gonna have 80 pieces of paper. They all should be the same size and then you throw them all, you throw them all into
+a bowl of some kind and this seems like a
+very basic way of doing it but it's actually a pretty effective way of getting a simple, of getting a simple random sample. So I'll try to draw a little, I don't know, that looks like
+a fish bowl or something. Alright, so that's our bowl. And so all the pieces of paper go in there and then you put a blindfold on someone and they can't feel what names are there and so they should pick out the first 30 without replacing them because you obviously
+don't wanna pick the same, you don't wanna pick
+out the same name twice. And those 30 names that you pick, that would be your simple random sample and then you could measure their heights to estimate the average
+height for the population. This would be a completely
+legitimate way of doing it. Other ways that you could do it, if you have a computer or a calculator, you could use a random number generator and the random functions on
+computer programming languages on your calculator, they
+tend to be something, someplace you'll see
+something like a math.rand Rand's short for random. You might see something like random. You might see, you might see something like random without anything passed into it. It might give you a number
+between zero and one or zero and 100 and you
+have to be very careful on how you use this to
+make sure that you have an even chance of picking certain numbers but what you would do in this situation if you had access to some
+random number generator and it could even pick out a random number between one and 80 including one and 80 is you would maybe line up all the students' names alphabetically and so the first student alphabetically assigned the number 01 and you could just say one if you're using a random number generator but I'll use two digits for it just because it'll be
+useful and consistent and in a little bit, we'll
+use another technique where it's gonna be nice to be consistent with our number of digits. And so the next one, 02 and you go all the way to 79 and all the way to 80 and then you use your
+random number generator to keep generating numbers from one to 80 and as long as you don't get repeats, you pick the first 30 to be
+your actual random sample. Another related technique which is a little bit more old school but is definitely the way that
+it has been done in the past and even done now sometimes is to use a random digit table. You still start with
+these number associations with each student in the class and then you use a randomly
+generated list of numbers and so let's say that's our randomly generated list of numbers and it keeps going well beyond this and you start at the beginning and you say, okay, we're
+interested in getting, we're interested in getting
+30 two digit numbers from one to 80 including one and 80. So one technique that you could use is you start right at the
+beginning and you could say, alright, this is a randomly
+generated list of numbers. So the first number here is 59. Is 59 between one and 80? Sure is, as long as we, if this was a 01, that would have worked. If this was an 80, that would have worked. If this was a 00, it wouldn't have worked. If this was an 81, it
+wouldn't have worked. This would be our, this right over here, that would be our first name that we, you could imagine the same as picking that first name out of the hat, whoever's associated with number 59. Now, you would move on. You get the next two digits. The next two digits are 83. They don't follow into
+our range from one to 80 so we're not going to use it then you would look at
+the next two digits. So we get a five and a nine. Well, that fits in our range
+but we already picked 59. We already picked person 59 so we're not gonna pick 59
+again so we keep moving on then we get a 37. Well, that's in our range,
+we haven't picked that yet. We do that then we get a 00. Once again, not in our range. I think you see where this is going. 91. Not in our range. 23. It's in our range and
+we haven't picked it yet so we're gonna pick the 23. I think you see where this is going. We're gonna keep going down this list in the way that I've just
+described until we get, until we get 30 of these. We've just gotten three. We just have to keep on going and this isn't an exhaustive list of all of the different ways
+that you can get random numbers but it starts to give you some
+techniques in your toolkit and you might say, oh, well,
+why don't I just randomly come up with some numbers in my head? And I would really suggest
+that you don't do that because humans are famously
+bad at being truly random and you might wanna do something like even use something that you
+think is a random process but you realize later
+that it wasn't as random as you thought. So once again, multiple techniques but these are some of the
+I would say best practices for actually generating
+a simple random sample.

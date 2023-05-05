@@ -1,0 +1,70 @@
+- [Instructor] So right
+here we have a classic geometric random variable. We're defining it as the
+number of independent trials we need to get a success where
+the probability of success for each trial is lowercase p and we have seen this before
+when we introduced ourselves to geometric random variables. Now, the goal of this
+video is to think about well what is the expected value of a geometric random variable like this and I'll tell you the answer, in future videos we
+will apply this formula, but in this video we're actually going to prove it to ourselves mathematically. But the expected value of
+a geometric random variable is gonna be one over the
+probability of success on any given trial. So now let's prove it to ourselves. So the expected value
+of any random variable is just going to be the
+probability weighted outcomes that you could have. So you could say it is the probability... The probability that our
+random variable is equal to one times one plus the probability that our random variable
+is equal to two times two plus and you get the general idea. It goes on and on and on and a geometric random
+variable it can only take on values one, two, three,
+four, so forth and so on. It will not take on the value zero because you cannot have a success if you have not had a trial yet. But what is this going to be equal to? Well, this is going to be equal to, what's the probability
+that we have a success on our first trial? And actually let me
+just write it over here. So this is going to be P. What is this going to be? What is the probability
+that we don't have a success on our first trial, but we
+have one on our second trial? Well, this is going to be one minus p, that's the first trial where
+we don't have a success, times a success on the second trial and actually let me do
+a few more terms here. So let me erase this a little
+bit, do a few more terms. So this is going to be the
+probability that X equals two. Sorry, the probability that
+X equals three times three and we're gonna keep
+going on and on and on. Well, what's this going to be? Well, the probability that X equals three is we're gonna have to get
+two unsuccessful trials and so the probability of
+two unsuccessful trials is one minus P squared and then one successful
+trial just like that. So you get the general idea. If I wanted to rewrite this
+and I'm just gonna rewrite it to make it a little bit simpler. So the expected, at least for
+the purposes of this proof, so the expected value of X is equal to, I'll write this as 1p
+plus 2p times one minus p plus 3p times one minus p squared and we're gonna keep
+going on and on and on forever like that. So how do we figure out this sum? And now I'm going to do a little bit of mathematical trickery or
+gymnastics, but it's all valid and if any of ya'll have seen the proof of taking an infinite geometric series, then we're gonna do a
+very similar technique. What I'm gonna do here
+is I'm gonna think about well what is one minus p
+times this expected value? So let's do that. So if I say one minus p times
+the expected value of X, what is that going to be equal to? Well, I would multiply
+every one of these terms times one minus p. So one p times one minus p would be 1p times one minus p. You would get that right over there. What about 2p times one minus p? What would that be equal to? Well, that would be 2p times one minus p and now we're gonna multiply
+it by one minus p again. So you're gonna get one minus p squared and so I think you see where this is going and we're just gonna
+keep adding and adding and adding from there. Now we're gonna do something
+really fun and interesting, at least from a
+mathematical point of view. If this is equal to that, if the left-hand side is
+equal to the right-hand side, let's just subtract this
+value from both sides. So on the left-hand side I would have the expected value of X, that's that, minus this, minus one minus p times the expected value of X. So I'm just subtracting
+this from that side, but let me subtract this from that side. Well, I could subtract
+this expression from that, but this is equivalent, so I'm just gonna subtract this from that and so what do I get? Well, let's see. I'm gonna have one minus p and then if I subtract
+1p times one minus p from 2p times one minus p, well I'm just going to
+be left with plus 1p times one minus p and then if I subtract this from that, I'm gonna be left with 1p
+times one minus p squared and we're just gonna keep
+going on and on and on and so let me simplify this a little bit. If I distribute this negative, this could be plus and then
+this would be p minus one and then if we distribute
+this expected value of X, we get on the left-hand side the, and let me scroll up a little bit. I don't want to scrunch it too much. So let's see, we have
+the expected value of X and then plus p times
+the expected value of X. P times the expected value of X minus the expected value of X, these cancel out, is going to be equal to p
+plus p times one minus p plus p times one minus p squared and it's gonna keep
+going on and on and on. Well, on the left-hand side all I have is a p times expected value of X. If I want to solve for
+the expected value of X, I just divide both sides by p. So I get and this is kind of neat through this mathematical gymnastics, I now have, I'm just dividing
+everything by p, both sides, on the left-hand side I just
+have the expected value of X. If I divide all of these terms by p, this first term becomes one, the second term becomes one minus p, this third term, if I divide by p, becomes plus one minus p
+squared, so forth and so on. Now what's cool about this, this is a classic geometric series with a common ratio of one minus p and if that term is
+completely unfamiliar to you, I encourage you and this
+is why it's actually called a geometric, one of the reasons, arguments for why it's called
+a geometric random variable, but I encourage you to review
+what a geometric series is on Khan Academy if this
+looks completely unfamiliar, but in other places we proved using actually a very similar
+technique that we did up here that this sum is going to be equal to one over one minus our common ratio and our common ratio is one minus p. So what is this going to be equal to? And we are really in the
+home stretch right over here. This is going to be equal to
+one over one minus one plus p. One minus one plus p. Which is indeed equal to one over p. So there you have it, we
+have proven to ourselves that the expected value of
+a geometric random variable using some, I think, cool mathematics is indeed equal to one over p.

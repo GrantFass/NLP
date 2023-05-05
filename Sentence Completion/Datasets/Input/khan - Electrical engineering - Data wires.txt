@@ -1,0 +1,39 @@
+It's very powerful to understand
+how our inputs and outputs can communicate with each
+other, or more specifically, how they can be wired together. Now these two things speak
+the language of numbers. Our inputs are anything
+that is providing data to the brain, so
+any of our sensors. For example, let's pretend
+we plugged in a light sensor. Now the light sensor
+provides a value, and this will depend on
+the sensor you're using. In the case of a
+light sensor, it's providing a value
+between 0 and 100 which represents the intensity
+of the current light condition in front of the sensor. Now our outputs are the
+opposite-- our motor or our lamp or speaker. Outputs we actually
+provide a number to so they know how to behave. And in the case--
+if this was a motor, we would provide it direction
+and power, but for the speaker, we could provide it multiple
+outputs, such as pitch, which is the frequency of a tone,
+and we can also send it volume, and these are the two
+most important features. Now the powerful
+thing to realize is that we could take
+this intensity value and plug it in to, say, pitch. So as the environment changes--
+if we flip the lights on or grab a flashlight-- you
+will actually hear this change in real time using the speaker. So let's grab an input, for
+example, our light sensor and an output, for
+example, the sound block. And to wire blocks
+together, you first have to click on the
+bottom of the block, which will expand this little column
+here, which will give you access to them, and here are
+all my inputs and outputs-- inputs on the left, outputs
+on the right-hand side. So remember, we want to
+take our light intensity-- and if I scroll down, there
+is an intensity output here. And I can click on it
+and then drag this wire and I will plug it into
+the pitch or tone frequency input on this sound block. Now there's also volume
+and other things here. I plugged it into pitch. So now these two blocks
+are wired together. So to get a dynamic
+behavior, you need to drop this inside
+a loop, and then it will continue to
+update and you should be able to hear the difference.

@@ -1,0 +1,190 @@
+So let's see if we can get a
+big picture of everything that's happening in this credit
+default swap market. I'll speak in generalities. Let's say we have Corporation
+A, Corporation B, Corporation C. And let's say we have a bunch of
+people who write the credit default swaps, and I'll
+call them insurers. Because that's essentially what
+a credit default swap is, it's insurance on debt. If someone doesn't pay the
+debt, then the insurance company will pay it for you. In exchange, you're essentially
+giving some of the interest on the debt. So let's say we have Insurer
+1, let's say we have Insurer 2. And some of these were insurance
+companies, some of these were banks. Some of these may have even
+been hedge funds. So these are the people who
+write the credit default swaps, and then there are the
+people who would actually buy the credit default swaps. In the previous example, I had
+Pension Fund 1, that was my pension fund. Then you could have another
+pension fund, Pension Fund 2. Let's re-draw some of the
+connections between the organizations. Let's say Pension Fund 1 were
+to lend $1 billion to A. A will pay Pension Fund 1 10%. But Pension Fund 1 wants to
+make sure that they'll definitely get the money,
+because they can't lend money to people with anything less
+than stellar credit ratings. So they get some insurance
+from Insurer 1. So what they do is out of this
+10%, they pay them some of the basis points. So let's say they pay them
+100 basis points. And in exchange, they get-- I'll
+call it Insurance On A. This is this new notation
+that I'm creating. They get Insurance On A. Fair enough. And the reason why this I1, this
+first insurer was able to do that is because Moody's
+has given them a very high credit rating. And so when they insure
+something, you're essentially the total package, right? The loan to this guy, plus the
+insurance, kind of is like you're lending the money to
+this guy, but you're just getting more insurance-- I
+mean you're getting more interest, right? So this bond becomes
+a Double A bond. Because the odds that you are
+not going to get your money are not the odds that this guy
+defaults, but it's now the odds that this guy defaults. And Moody's or the standard is
+poor, as I've already said. Hey, these guys are good for
+their money, they're Double A or whatever. So now your risk is really a
+Double A risk and not a Double B risk, or whatever. But anyway, this happens. This is Corporation B, and maybe
+Pension Fund 2 wants to lend to Corporation B. Maybe they lend them
+$2 billion. They get, I don't know, they get
+12%, maybe Corporation B is a little bit more
+dangerous. But once again, they go
+to this first insurer. And maybe they get some of it--
+well let's just say they get Insurance On B. And B is a little bit riskier,
+so they have to pay 200 basis points. 200 basis points goes from
+Pension Fund 2 to B. Now this, already, this is a
+little bit dangerous, right? Because you can think about
+what's happening. One, as long as this insurer
+does not get a downgrade from their credit ratings from S&P
+or Moody's or whoever, they can just keep it issuing
+this insurance. There's no limit for how much
+insurance they can issue. There's no law that says, you
+know what, if you insure a billion dollars of debt,
+you have to put a billion dollars aside. So that if that debt defaults,
+you definitely have that billion dollars there. Or if you insure 2 billion here,
+you don't have to put that 2 billion aside. What you have is a bunch of
+people who statistically say, oh, you know, what's the
+probability that all of this debt defaults? So I just have to keep enough
+capital so that probabilistically, whatever debt
+defaults, I can pay it. But you don't keep enough
+capital to pay all of the defaulting debt. So you already see an
+interesting risk forming. What if all of these
+corporations, for whatever reason, do start defaulting
+simultaneously? Then all of a sudden this
+insurance company has to pay more out in insurance then it
+might even have. So you have to wonder whether it even
+deserves this Double A rating, because it actually is taking
+on a lot of risk. But in the short term, while
+these companies are-- everyone is doing well and the economy's
+doing well, it's a great business for these guys. These guys are just collecting
+premiums essentially on the insurance, without having
+to pay out anything. Now let's add another
+twist on it. These pension funds, P1 and P2,
+it was reasonable for them to get insurance, because they
+were giving out these loans and then they got
+the insurance. So they were essentially hedging
+the default risk by buying these credit default
+swaps, which was essentially just an insurance policy
+from this Insurer 1. But you can have
+another party. This is no less legitimate,
+really. But you could call them-- I
+don't know-- let's call it Hedge Fund 1. And they've done a lot of work,
+and frankly, they often are much more sophisticated
+than the pension fund-- in fact, they almost always are. And they say, you know what? Company B looks really, really,
+really, really shady. I think 200 basis points for
+the chance that Company B defaults is frankly cheap. Because I think there's
+a huge probability that Company B defaults. So what I'm going to do, I'm
+not going to lend Company B money, because if anything, I
+think that they're maybe about to go out of business. But what I can do is I can buy
+a credit default swap on Company B's debt. Which is, essentially, I'm
+getting insurance that they fail without actually
+lending the money. So let's say I do that
+from Insurer 2. So I can go and I'll pay Insurer
+2 200 basis points a year, or 2% on the notional
+value of the insurance I'm getting. So let's say it's 200 basis
+points, and let's say that's Insurance On-- I'm making a big
+bet-- so they're going to give me Insurance On B for--
+I don't know-- $10 billion. And something interesting is
+going on here already. B might not have even borrowed
+$10 billion, right? So all of a sudden you have
+this hedge fund that is getting insurance on more
+debt than B has even borrowed money on, right? And it's essentially, you just
+kind of have this side bet between these two parties. This party says,
+you know what? I think it's a good deal. I get 200 basis points on the 10
+billion every year, as long as B doesn't default. And this guy says, I think
+B's going to default. So I think that's a good
+deal on that insurance. And just so you understand the
+math, so the notional value is $10 billion. So what's 2% of 10 billion? 2% on a billion is 20 million,
+so it's $200 million. 200 if I did my math correct. So they'll pay $200 million
+a year to this insurer. So the 200 basis points
+on 10 billion is equal to 200 million. These numbers maybe are a little
+bit on the big side, but who knows? Actually, this could be
+a huge hedge fund. This could be a $10 billion
+hedge fund. Or even worse, maybe it's a
+billion dollar hedge fund, or maybe it's a $20 million hedge
+fund, but they've taken a $180 million loan to essentially
+buy this insurance because they think that B's collapse
+is imminent. So they're willing to take
+that bet right now. You know, it might
+be a good bet. If B collapses tomorrow,
+what's going to happen? They only dished out maybe 200
+million for maybe that first year, although you normally pay
+it on a quarterly basis. So they'll pay 50 million
+every three months. Let's say they pay the first
+payment, 50 million, right? And then over the next three
+months, B just goes bankrupt and people realize that debt
+was worth nothing. Then these guys get
+$10 billion. Right? But something else is
+interesting here. They probably did insurance to
+a lot of other people too, maybe on B's debt. Right? Or maybe they also
+insured A's debt. So maybe they gave
+some insurance on A's debt, as well. So what happens? Let's say B all of a
+sudden defaults. So a couple of things happen. I1 is going to owe P2
+$2 billion, right? I2, the second insurer, is going
+to owe this hedge fund $10 billion. Now let's just assume I2's
+good for the money. They have $10 billion they
+pay to this hedge fund. This hedge fund is great, they
+get great bonuses for the year and they go buy yachts,
+et cetera. But this insurer right here,
+they pay the money they were good for but something
+interesting might happen. All of a sudden Moody's finally
+wakes up, these ratings agencies, and
+says, oh, my God. Well, there's a couple of things
+that might make them say, oh, my God. First of all, they might
+say, oh, look. You have to pay out
+$10 billion. And I doubt that was the only
+person you have to pay, maybe they have to pay out
+a lot of money. Now I2, Insurance Company 2,
+you are undercapitalized. I am now going to downgrade
+your rating. So, you were Double A, but since
+you had to give out all of this capital, Moody's is now
+going to downgrade you to, I don't know, B+. I'm just making these
+ratings up. But that's the sound of how
+these ratings happen, right. A is better, B is worse. The more A's you have,
+the better it is. But all of a sudden, when this
+guy is B+, and this guy insured, let's say, some other
+corporation's debt for this pension fund, now all of a
+sudden this insurance that this pension fund had is no
+longer Double A Insurance. It's now B+ Insurance, and maybe
+this pension fund, by its charter, can't hold
+something that has a B+ credit rating. So they're going to have to
+unwind the transaction, or maybe they'll have to unload
+the debt that was insured. So one, just by Company B
+defaulting, maybe this guy was holding some of Company A's
+debt, and it was insured by Insurance Company 1. Now they're going to have
+to unload that debt. So just one default creates this
+chain reaction, right? This one default happens, this
+guy has to pay this guy money, then this guy gets
+undercapitalized since they have to pay out money. Then Moody's says, oh, my God,
+you're undercapitalized. We're going to reduce
+your ratings. Maybe this guy was insuring
+some of A's debt, but now since he was insuring some of
+A's debt, all of a sudden that insurance is worth less because
+it has a lower rating. And now A's debt, less people
+want to hold it, because there are less people to insure it. I know that's very confusing,
+but this is really the point that Warren Buffett was saying
+when he said that the credit defaults swap market, or in
+general, the derivative market, are financial weapons
+of mass destruction. Because you have so many people
+who didn't have to set aside a capital, right? This guy could insure $10
+billion worth of debt without having to set aside
+$10 billion. And you have so many people
+making all of these side bets, but they're all making
+two core assumptions. One, that these rating
+agencies's ratings are valid. And two, that the other person
+is good for the money. But if all of a sudden you have
+one failure someplace in the system, you could have
+this cascade where one, there's just a lot
+of downgrades. And then a lot of the people
+end up not being good for the money.

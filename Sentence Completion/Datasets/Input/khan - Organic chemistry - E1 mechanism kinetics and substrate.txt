@@ -1,0 +1,147 @@
+- [Instructor] Let's look at the mechanism for an E1 elimination reaction, and we'll start with our
+substrate, so on the left. Let's say we're dealing with alkyl halide. So the carbon that's bonded to our halogen would be the alpha carbon, and the carbon next to that carbon
+would be the beta carbon, so we need a beta hydrogen
+for this reaction. The first step of an E1
+elimination mechanism is loss of our leaving group,
+so loss of leaving group, let me just write that
+in here really quickly, and in this case, the
+electrons would come off onto our leaving group in the
+first step of the mechanism. So we're taking a bond
+away from this carbon, the one that I've circled in red here, so that carbon is going
+from being sp3 hybridized to being sp2 hybridized. So now we have a carbocation, and we know that carbocations, sp2 hybridized carbons have planar geometry around them, so I've attempted to
+show the planar geometry around this carbocation. So that's the first step,
+loss of the leaving group to form a carbocation. In the second step, our base comes along and takes this proton, which
+leaves these electrons behind, and those electrons move
+in to form our alkene, so this is the second
+step of the mechanism, which is the base takes,
+or abstracts, a proton, so base takes a proton to form our alkene. And let me go ahead and
+highlight those electrons, so these electrons here in magenta moved in to form our double bond, and we form our product,
+we form our alkene. So the first step of the mechanism, the loss of the leaving group, this turns out to be the
+rate determining step, so this is the slowest
+step of the mechanism. So if you're writing a rate law, the rate of this reaction would be equal to the rate constant k
+times the concentration of your substrate, so that's
+what studies have shown, that these mechanisms
+depend on the concentration of only your substrate,
+this over here on the left, so it's first order with
+respect to the substrate. And that's because of this
+rate determining step. The loss of the leaving group
+is the rate determining step, and so the concentration
+of your substrate, your starting material,
+that's what matters. Your base can't do anything until you lose your leaving group. And so, since the base
+does not participate in the rate determining
+step, it participates in the second step, the
+concentration of the base has no effect on the rate of the reaction, so it's the concentration
+of the substrate only, and since it's only dependent
+on the concentration of the substrate, that's where
+the one comes from in E1, so I'm gonna go ahead
+and write this out here, so in E1 mechanism, the
+one comes from the fact this is a unimolecular, a
+unimolecular rate law here, and the E comes from the fact that this is an elimination reaction,
+so when you see E1, that's what you're thinking about, it's an elimination reaction,
+and it's unimolecular, the overall rate of the reaction only depends on the
+concentration of your substrate, so if you increase, let's say you have, let's say this was your
+substrate right here, and you increase the
+concentration of your substrate, let me just write this
+down, so if you increase the concentration of your
+substrate by a factor of two, you would also increase
+the rate of reaction by a factor of two, so it's first order with respect to the substrate, so this is some general chemistry here. If you increase the
+concentration of your base by a factor of two, you
+would have no effect on the overall rate of the reaction. So let's talk about one more
+point here in the mechanism, and that is the formation
+of this carbocation. Since we have a carbocation
+in this mechanism, we need to think about the
+possibility of rearrangements in the mechanism, and you
+need to think what would form, what substrate would form
+a stable carbocation, so something like a tertiary substrate forming a tertiary carbocation would be favorable for an E1 mechanism. Here we have a tertiary alkyl halides, and let's say this tertiary alkyl halide undergoes an E1 elimination reaction. So the carbon that's bonded to the iodine must be our alpha carbon,
+and then we would have three beta carbons, so
+that's a beta carbon, that's a beta carbon,
+and that's a beta carbon. So the first step in an E1 mechanism is loss of our leaving group, so if I draw the lone pairs of electrons
+in here on iodine, I know that these electrons in this bond would come off onto iodine
+to form the iodide anion, so let me draw that in
+here, so we would make the iodide anion, and let
+me highlight our electron, so the electrons in this bond come off onto the iodine to form the iodide anion. And this is an excellent leaving group. Iodide is an excellent leaving group, and you know that by
+looking at pKa values. The iodide anion is the conjugate base of a very strong acid, HI,
+with a approximate pKa value of negative 11, so HI is very
+good at donating a proton, which must mean that the
+conjugate base is very stable, so the iodide anion is an
+excellent leaving group. So if we lose the iodide anion, that means we're gonna have a carbocation, so we lost a bond to this carbon in red, so we're gonna form a carbocation, let me go ahead and draw that in, so this is a planar carbocation, and so the carbon, let me go
+ahead and highlight it here, the carbon in red has a
+plus one formal charge, it lost a bond. So that's the first step of
+an E1 elimination mechanism. The second step of an
+E1 elimination mechanism is the base comes along,
+and it takes a proton from a beta carbon, so
+our base in this case would be ethanol, so let
+me go ahead and draw in lone pairs of electrons on the oxygen, so notice we're also
+heating this reaction, so the ethanol is gonna
+function as a base, so ethanol's not a strong
+base, but it can take a proton, so let me go ahead and draw
+in a proton right here, and a lone pair of electrons on the oxygen is going to take this
+proton, and the electrons would move into here to form our alkene, so let me go ahead and draw our product, let me put that in here,
+and let me highlight some electrons, so the electrons in blue moved in here to form our double bond. So a couple of points about this reaction, one point is, when you're
+looking at SN1 mechanisms, the first step is loss of
+a leaving group to form your carbocation, so when
+you get to this carbocation, you might think, well, why is
+ethanol acting as a base here? Why couldn't it act as a nucleophile? And the answer is, the
+ethanol certainly can act as a nucleophile, and it would attack the positively-charged carbon, and you would definitely
+get a substitution product for this reaction as
+well, so if ethanol acts as a nucleophile, you're gonna
+get a substitution reaction, an SN1 mechanism. If the ethanol acts as a base, you're gonna get an E1
+elimination mechanism, so here, we're just gonna focus
+on the elimination product, and we won't worry about
+the substitution product, but we will talk about this
+stuff in a later video, 'cause that would definitely happen. Alright, something else
+I wanna talk about is we had three beta carbons over here, and if I look at these three beta carbons, and I just picked one of them, I just said that this carbon right here, let me highlight it, I just took a proton from this carbon, but it doesn't matter which of those carbons
+that we take a proton off because of symmetry, let me
+go ahead and draw this in over here, so this is my
+carbocation, let's say, and let's say we took a
+proton from this carbon, so our weak base comes along,
+and takes a proton from here, and these electrons have moved into here, that would give us the
+same product, right? So this would be, let me go
+and highlight those electrons, so these electrons in dark blue would move in to form our double bond, but this is the same as that product. Alcohols can also react
+via an E1 mechanism. The carbon that's bonded to the OH would be the alpha carbon,
+and the carbon next to that would be the beta carbon, so reacting an alcohol with sulfuric
+acid and heating up your reaction mixture
+will give you an alkene, and sometimes, phosphoric acid is used instead of sulfuric acid. So we saw the first
+step of an E1 mechanism was loss of a leaving group,
+but if that happens here, if these electrons come
+off onto the oxygen, that would form hydroxide
+as your leaving group, and the hydroxide anion
+is a poor leaving group, and we know that by looking at pKa values. Down here is the hydroxide anion, it is the conjugate base to water, but water is not a great asset, and we know that from the pKa value here, so water is not great
+at donating a proton, which means that the hydroxide
+anion is not that stable, and since the hydroxide
+anion is not that stable, it's not a great leaving group. So let's go ahead and
+take off this arrow here, because the first step is
+not loss of a leaving group, the first step is a proton transfer. We have a strong acid here, sulfuric acid, and the alcohol will act as a base and take a proton from sulfuric acid. And that would form water
+as your leaving group, and water is a much better leaving group than the hydroxide anion, and again, we know that by pKa values. Water is the conjugate base
+to the hydronium ion, H3O+, which is much better at donating a proton, the pKa value is much, much lower. And that means that water is stable, so the first step, the first step when you are doing an E1
+mechanism with an alcohol is to protonate the OH group. So here's our alcohol, and
+the carbon bonded to the OH is our alpha carbon,
+and then these carbons next to the alpha carbon
+would all be beta carbons. We just saw the first
+step is a proton transfer, a lone pair of electrons on the oxygen take a proton from sulfuric acid, so we transfer a proton,
+and let's go ahead and draw in what we would have now, so there'd be a plus-one
+formal charge on the oxygen, so let's highlight our
+electrons in magenta, these electrons took this
+proton to form this bond, and now we have water as a leaving group, let me just fix this
+hydrogen here really fast, and these electrons can
+come off onto our oxygen, so that gives us water
+as our leaving group, and let me go ahead and draw
+in the water molecule here, and let me highlight electrons, the electrons in light blue, in this bond, came off onto the oxygen,
+which forms water, and we know water is a good leaving group. We took a bond away
+from this carbon in red, so that carbon would now be a carbocation, so let me draw in our carbocation here, so the carbon in red is
+now positively charged, so let me draw in a plus-one
+formal charge on that carbon, the next step of our mechanism, we know a weak base comes
+along and takes a proton, one of the protons on one of
+the beta carbons over here, so let's just say it's this one, and I'm just gonna draw in a generic base, so a generic base right
+here, which is gonna take this proton, and then these
+electrons are gonna move in to form our product, so let
+me draw our product in here, and let me highlight those electrons. So the electrons in,
+let's use green this time, the electrons in green moved in here to form our double bond,
+to form our alkene. So I just put a generic
+base, let me go ahead and talk about the base for a second here. I just put in a generic base,
+sometimes you might see water acting as a base, sometimes
+you might see HSO4-, right, the conjugate base to sulfuric
+acid acting as the base, different textbooks give
+you different things, I don't think it really matters, but one of those acting as a
+weak base, it's probably water, takes this proton to form your alkene. Sometimes this reaction is
+called a dehydration reaction since we lost water in the process.

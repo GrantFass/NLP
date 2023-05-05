@@ -1,0 +1,258 @@
+- [Lecturer] Hooke's Law
+tells you how to find the force exerted by an
+ideal or linear spring. And it's a simple law. It tells you the amount
+of force that spring is gonna exert will be
+proportional to the amount that spring has been
+stretched or compressed from its equilibrium or natural length. Which, in equation form
+just says that the magnitude of the spring force, is gonna
+equal the spring constant multiplied by the amount the
+spring has been stretched or compressed. Note this x is not the
+length of the spring. The x is how much that spring
+has been stretched from or compressed from the
+equilibrium position or the unstretched position. So what's an example problem involving Hooke's law look like? Let's say an ideal spring is hanging from the ceiling at rest, and it has an unstretched length L1. And then you hang a mass
+M from the spring at rest and it stretches the
+spring to a length L2. What is an expression for the
+spring constant of the spring? So the force of gravity has to be balanced by the spring force. That means the magnitude
+of the spring force is equal to the magnitude
+of the force of gravity. The spring force is always K times X. What is X gonna represent? It's not gonna be L1 or L2. X is how much the spring
+has been stretched from its equilibrium position
+which would be L2 minus L1. And if we solve for K we
+get mg over L2 minus L1. What's a simple harmonic oscillator? A simple harmonic oscillator's
+any variable who's change can be described by a
+sine or cosine function. What does that function look like? It looks like this. So the variable that's
+changing is a function of time, which could be the vertical
+position of a mass on a spring. The angle of a pendulum or any other simple harmonic oscillator
+is gonna be equal to the amplitude of the motion, which is the maximum
+displacement from equilibrium, times either sine or cosine of two pie times the frequency of the motion times the variable t. Which, since frequency
+is one over the period, you could write as two pie over the period times the time variable t. How do you know whether
+you use sine or cosine? Well sine starts at zero and goes up. And cosine starts at a
+maximum and goes down. So if you know the behavior of your oscillator at t equals zero. You can decide whether
+to use cosine or sine. Something that's important
+to know is how to find the period of an oscillator. The period of a mass
+on a spring is gonna be two pie times the square
+root, the mass connected to the spring divided by
+the spring constant k. Note that this does not
+depend on the amplitude. If you stretch that mass
+farther, it'll go faster and it has farther to go which cancels out and the period remains the same. And the formula for the
+period of a pendulum, which is a mass swinging on a string, is gonna be two pie times the square root the length of the string,
+divided by the magnitude of the acceleration due to gravity. Which also does not
+depend on the amplitude, as long as the angles are small. And it doesn't depend on the mass either. How do you find this period on a graph? Well if you're given
+the graph of the motion of a simple harmonic oscillator
+as a function of time, the interval between peaks is
+gonna represent the period. Or the time is takes for
+this oscillator to reset. So what's an example problem involving simple harmonic motion look like? Let's say in a lab a mass M on Earth can either be hung on a string of length L and allowed to swing back and forward with a period T pendulum, or
+hung on a spring of spring constant k and allowed
+to oscillate up and down with a period T spring. If a 2M mass were used
+instead of the 1M mass, what would happen to the
+period of the two motions? Well the period of a pendulum
+doesn't depend on the mass. And so the period of the
+pendulum would not change. The answer would have to be D. What are waves? Waves are disturbances that
+travel through a medium and transfer energy in momentum
+over significant distances without transmitting any mass
+itself over those distances. What does medium mean? This is a fancy word for
+the material through which the wave can travel. So you can classify a wave
+by the medium it's in. But you could also
+classify waves by the type of disturbance you've created. For transverse waves, the
+disturbance of the medium is perpendicular to the wave velocity. By wave velocity, we mean
+the direction in which the disturbance travels. And by oscillation of the medium, we mean the direction in which
+the particles of the medium actually move. For a wave on a string, the
+particles move up and down but the disturbance travels to the right. So this would be a transverse wave. For longitudinal waves, the
+oscillation or disturbance of the medium is parallel
+to the wave velocity. The classic longitudinal wave is sound. If a sound wave were traveling
+rightward through the air, it would look like a compressed region, and the air itself would
+move back and forth, right and left, parallel to the direction the wave disturbance is traveling. Which makes sound waves longitudinal. For every type of wave, the
+speed of that wave disturbance is gonna be equal to the
+wavelength of the wave divided by the period. In other words, if you
+watched a wave crest, that wave crest would move
+one wavelength every period. And since the speed is distance per time, the speed of the wave crest
+would be one wavelength per period. You could find the wavelength
+on a graph of y versus x by finding the distance between crests. And if you're wondering
+why this doesn't represent the period? It's because this is a
+graph of the wave versus x, versus the horizontal
+position, not the time. You could make a graph
+of y versus the time. And what that would
+represent is the motion of a single point on the
+wave for all moments in time. And for this graph versus time, the interval between peaks is the period. So if you get a graph of a wave, you've gotta check whether
+it's versus x or versus t. If it's versus x, peak to
+peak is the wavelength. And if it's versus t, peak
+to peak is the period. And since one over the period
+is equal to the frequency, we can rewrite this speed formula as the speed of a wave equals
+the wavelength of a wave times the frequency. And the way it's given
+on the formula sheet on the AP exam is that
+the wavelength of a wave is equal to the speed of the
+wave divided by the frequency. Now this formula confuses
+a lot of people though, because they think if you
+increase the frequency, that'll increase the speed of the wave. But that's not true. Increasing the frequency
+will cause the wavelength to decrease and the speed of
+the wave will remain constant. The only way to change the speed of a wave is to change the properties
+of the medium itself. In other words the only
+way to change the speed of the waves on water would
+be to change something about the water itself,
+its density, its salinity, the temperature of that water. Changing frequency isn't gonna
+change the speed of the wave. And neither will changing the amplitude. The only thing that changes
+the speed of the wave is changes to the medium itself. And so what's an example problem
+involving waves look like? Let's say a sound lab is
+being conducted in a lab room with total cubic volume
+V and temperature T. A speaker in the room is hooked
+up to a function generator and it plays a note with
+frequency f and amplitude A. Which of the following
+would change the speed of the sound waves? Increasing the frequency would just make that sound a higher note. But it wouldn't change the
+speed of the sound wave. Increasing the temperature of the room is a change to the medium
+itself so this would change the speed of sound. Decreasing the amplitude's
+just gonna make the sound seem softer and not appear as loud. And decreasing the total volume
+of the space in the lab room doesn't actually effect the medium, it just gives you less of the medium. So the best answer here would be B. The doppler effect refers to
+the change in the perceived frequency when a speaker or a wave source, moves relative to the observer. If a wave source and observer
+are moving toward each other, the wavelength of the sound
+wave is gonna decrease according to that observer. Which would make the
+perceived frequency increase. This happens since if the
+source is heading toward you, as that speaker emits wave pulses, the speaker moves toward the
+wave pulse it just emitted and on this leading edge
+the crests of the wave will be closer together. Since they're closer together,
+the wavelength is smaller. And the rate at which
+these crests are gonna hit the observer is gonna be higher. So this observer's gonna
+hear a higher frequency than is actually being
+played by the wave source when it is at rest. And for the observer on the trailing edge, since the wave source is
+moving away from the pulses it just sent in this direction, these wave crests are gonna
+be spaced further apart, which increases the
+wavelength and decreases the rate at which these crests
+are gonna hit the observer. So this observer's gonna hear a frequency that's less than the actual
+frequency being played by the source when it's at rest. So what's an example problem involving the Doppler effect look like? Let's say the driver of a
+car sees that they're heading straight toward a person
+standing still in the crosswalk. So the driver continuously
+honks their horn and emits a sound of frequency f horn. This is the frequency the horn plays when the car would be at rest. And the driver of the
+car also simultaneously slams on the brakes and skids to a stop right in front of the person
+standing in the crosswalk. What would that person in the crosswalk hear as the car's skidding to a stop? Well since that car is
+heading toward the person, those wave crests are gonna
+be spaced closer together, so this person will hear
+a smaller wavelength and a higher frequency. But as the car slows down,
+this effect becomes less and less dramatic. And once the car stops,
+the wave crests will be spaced out their normal spacing, and the person will just
+hear the regular horn frequency of the car. So first this person's gonna
+hear a higher frequency, but that will eventually
+just become the actual frequency of the horn once the car stops and there's no more
+relative motion between the person and the car. When two waves overlap in the same medium, we call it wave interference,
+or wave superposition. While those waves are overlapping, they'll combine to form a wave shape that will be the sum of the two waves. In other words, while the
+two waves are overlapping, to find the value of the total wave, you just add up the values
+of the individual waves. So if you overlap two
+waves that look identical, they would combine to form
+a wave that's twice as big. And we call this
+constructive interference. And if you overlap two
+waves that are 180 degrees out of phase, they'll combine
+to form no wave at all. We call this destructive interference. So even though while the
+waves are overlapping, you add up their individual
+values to get the total wave. After these waves are done overlapping, they'll pass right through each other. So if I sent a wave pulse down a string at another wave pulse, when these two pulses overlap, the string would be flat
+but shortly after that, the wave pulses would continue
+on their way unaffected. They don't bounce off of each other, or cause permanent damage. It's only while they're overlapping that you'll get the wave interference. So what's an example
+problem involving wave interference look like? Let's say two wave pulses on a string head toward each other as seen
+in this diagram to the right and we wanna know what would
+be the shape of the wave when the wave pulses overlap? So to find the total wave
+we'll add up the values of each individual wave. The blue wave's gonna
+move to to the right, and the red wave's gonna move to the left. And we'll add up the individual values. Zero of the red wave
+plus negative two units of the blue wave will add
+up to negative two units for the total wave. And then positive two
+units of the red wave plus negative two units of the blue wave is gonna equal zero
+units for the total wave. Again positive two units of the red wave plus negative two units of the blue wave add up to zero units for the total wave. And then zero units for the red wave plus negative two units for the blue wave is gonna equal negative two
+units for the total wave. So our total wave will look like this. Since this pyramid just
+took a bite out of this blue rectangular wave. How do you deal with
+standing waves on strings? Well to get a standing wave at all, you need waves overlapping that are going in opposite directions. But even if you have that,
+you're not necessarily gonna get a standing wave. Only certain allowed
+wavelengths will create a standing wave in that medium. And what determines the
+allowed wave lengths is the length of the
+medium and the boundaries of that medium. In other words the ends
+of a string could be fixed or loose, if the end
+of the string is fixed, it's gonna be a displacement node. Node is the word we use to refer to points that have no displacement. And if the end of a string is loose, that end would act as a
+displacement anti node. Anti node being a point that
+has maximum displacement. What would these standing waves look like? Standing waves no longer appear
+to move along the medium, they just oscillate
+back and forth in place. So this anti node would move
+from the top to the bottom back to the top. But you wouldn't see this
+crest move right or left, hence the name standing wave. However the nodes stay put. There's never any displacement at a node. Once you've determined
+the boundary conditions and the length of that medium, the possible wavelengths are set. Because the only allowed standing waves have to start at a node and end at a node. The fundamental standing
+wave refers to the largest possible wavelength standing wave. And in this case it would
+be one half of a wavelength. So the length of the medium
+would have to equal one half of the wavelength of the wave. Similarly for the second harmonic, we still have to start and end at a node, so the next possibility
+would be an entire wavelength which means the length of
+the medium would equal one wavelength of the wave. And if you get to the third harmonic, this is three halves of a wavelength. And there's no limit,
+you can keep going here. To excite these higher standing waves, you gotta keep increasing the frequency, because you'll keep
+decreasing the wavelength of the distance between peaks. So what would a standing wave look like if one of the ends were loose? In that case that end
+would be an anti node, and the fundamental standing
+wave would only take the shape of a fourth of a wavelength. Since it has to go from
+a node to an anti node. That means the length of the
+string would have to equal one fourth of a wavelength. The next possible standing wave would be three fourths of a wavelength. And the next possibility
+would be five fourths of a wavelength. And again this progression keeps on going. So what's an example problem
+involving standing waves on strings look like? Let's say one end of a string of length L is attached to the wall
+and the other end is fixed to a vibrating rod. A student finds that the
+string sets up a standing wave as seen here when the frequency of the rod is set to f nought. What are the speed of
+the waves on the string? Well we know the string length is L. And we can figure out how
+much of a wavelength this is. From here to here would be one wavelength. And there's another half. So the string length L
+is equalling three halves of a wavelength or in other
+words the wavelength here is 2L over three. And we know the speed
+of the wave is always wavelength times frequency. So the speed of the wave here
+is gonna be 2L over three, which is the wavelength of the wave, times the frequency and
+so the best answer is D. How do you deal with
+standing waves in tubes? So just like standing waves in strings, the wavelength of the
+standing waves in a tube are determined by the length of the tube, and the boundary conditions of that tube. But this time instead
+of the sting shaking, you're creating a standing
+wave out of sound waves. Now for the boundary
+conditions of this tube, an open end is gonna act like
+a displacement anti node. Since the air at an open
+end can oscillate wildly. And you get maximum air disturbance. But a closed end of a
+tube is gonna act like a displacement node since
+there'll be no air disturbance at a closed end. So what if both ends of the tube were open giving us anti node anti
+node standing waves? Well the first possibility
+of the largest wavelength standing wave would go from
+anti node to anti node. And this is one half of a wavelength. So the length of this
+tube would have to equal half of a wavelength. The next possibility would
+still go from anti node to anti node. And this is equal to one whole wavelength. It might not look like is
+but from valley to valley, is a whole wavelength. So the length of this tube
+would equal one wavelength. And the next possibility
+would equal three halves of a wavelength. And you should note this
+is the same progression that we had for node node strings. So whether both ends are anti nodes, or both ends are nodes, if both boundary conditions are the same, you get this same progression that goes half of a wavelength,
+one whole wavelength, three halves of a wavelength. Basically any integer or
+half integer wavelength. And what if we closed one
+of the ends of this tube? If we closed one end of the tube, that end would become a displacement node, since the air can't move at that position. Which would make it a node
+and it would have to go to the open end which is an anti node. So the largest possibility this time would be one fourth of a wavelength. The next possibility would
+still go from node to anti node and this would be three
+fourths of a wavelength. And if you notice, this
+is exactly the same as when we had node anti node strings. We had the same progression
+of lambda over four, three lamba over four,
+five lambda over four, any odd integer lambda over four, were the allowed standing wavelengths. So if one end has a
+different boundary condition from the other end this is
+gonna be the progression of allowed lengths of the medium. So what would an example
+problem involving standing waves in tubes look like? Let's say you blow over the
+top of a tube that's open at both ends and it resonates
+with a frequency f nought. If the bottom of the tube is then covered and air is again blown
+over the top of the tube, what frequency would be heard
+relative to the frequency heard when both ends were open? Well when both ends are open, we know the standing wave's
+gonna be an anti node to anti node. Which is one half of a wavelength. Which would equal the length of that tube. So the wavelength would
+be two times the length of the tube. But when we close one of the ends, we turn that end from an
+anti node into a node. So we'd have to go from
+an anti node to a node. Which is only one fourth of a wavelength. So one fourth of a wavelength would equal the length of the tube. And that means lambda equals
+4L, this wavelength doubled. So what would that do to the frequency? Well we know V equals lambda f, and we didn't change the medium here so the speed is gonna remain the same. So if we double the wavelength, we'd have to cut the frequency in half in order to maintain the
+same speed of the wave. So when we close the bottom of this tube, we'd hear half the frequency we heard when both ends were open. Beat frequency refers to the phenomenon where two waves overlap
+with different frequencies. When this occurs, the
+interference of the waves at a point in space
+turns from constructive, to destructive back to
+constructive and so on. Which if this were a sound wave, you'd perceive as a wobble
+in the loudness of the sound. And the reason this happens
+is that if these waves started in phase and
+they were constructive, since they have different frequencies, one wave would start to become
+out of phase with the other. Eventually becoming destructive,
+which would be soft. But if you wait longer, one of these peaks catches up to the next
+peak in the progression, and the waves again become constructive which would be loud again. And the times this takes
+to go from loud to soft to loud again is called the beat period. But more often you'll hear
+about the beat frequency. Which is just one over the beat period. So the beat period is the
+time it takes to go from loud to soft back to loud. And the beat frequency is the number of times it does that per second. How do you determine the beat
+frequency or the beat period? Well the formula used to
+find the beat frequency is actually really simple. You just take the difference
+of the frequencies of the two waves that are overlapping. If there is no difference, if these waves have the same frequency, you'd have a beat frequency of zero which would mean you
+hear no wobbles at all. The further apart these
+two frequencies get, the more wobbles you
+would hear per second. And then to find the beat period, you could take one over
+the beat frequency. So what would an example problem involving beat frequency look like? Let's say these two waves were overlapping and we want to determine
+the beat frequency. The period of the first
+wave is four seconds. That means the frequency of the
+first wave is one over four, or 0.25 hertz. And the period of the
+second wave is two seconds, which means that the frequency
+is one over two or 0.5 hertz. To get the beat frequency
+you subtract one frequency from the other. 0.5 minus 0.25 would be 0.25 hertz.

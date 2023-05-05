@@ -1,0 +1,43 @@
+- [Voiceover] In this video we're gonna do an example problem, where we calculate in internal energy and also calculate pressure volume work. So, we know the external pressure is 1.01 times ten to the 5th pascal, and our system is some balloon, let's say it's a balloon of argon gas, and initially our gas has
+a volume of 2.3 liters, and then it transfers, the gas transfers 485 joules of energy as heat to the surroundings. Once it does that, the final volume of our system, is 2.05 liters. And we're assuming here, that the moles of gas didn't change. The question we're gonna answer is, for this process, what is delta U? So, what the change in
+internal energy for our system? We can use the first law of
+thermodynamics to answer this. The first law tells us that
+the change in internal energy, delta U, is equal to the work done, plus the heat transfer. Before we plug any numbers in here, the first thing I wanna do is make sure I have a good idea of what
+signs everything should be. I think that's one of the trickiest things in these kind of problems. So here, since our
+system transferred energy to the surroundings and
+not the other way around, Q should be negative, because when your system transfers energy to the surroundings, then it's internal energy should go down. Work on the other hand, since V two is less than V one, the volume of our system went down, which means the surroundings had to do work on the gas to get the volume to decrease. We would expect if the surroundings did work on our system, that would increase the internal energy. So that means the work
+done here is positive. We can also calculate work because we know the external pressure, we know it's constant, and work can be calculated as the external pressure
+times the change in volume, and we know both of those things, we know the external pressure and we know the initial and final volumes. So if we start plugging that in, we get that delta U is equal to negative 485 joules, so that's our heat, we know
+it should have a negative sign because the heat was
+transferred to the surroundings. So negative 485 joules, minus, we should have
+a negative sign there, minus the external pressure 1.01, times ten to the 5th pascals, so that's our external pressure
+times our change in volume. So that's our final pressure, 2.05 liters, minus our initial pressure, which is 2.30 liters. We could at this point be like," okay, "we figured it all out, "we just have to stick
+all of these numbers "in a calculator and we're done," and that's probably what my
+first instinct would often be, but there's one more
+thing that we should check before we actually plug in the numbers and have a party. And that's our units, we have our heat, in terms of joules, we probably want our
+change in internal energy in terms of joules too. On this other side, we're calculating our work here, and we have pascals, so pascals times, so we have joules, and joules, we have pascals times liters, so then the question is, okay, we're doing joules minus
+pascals, times liters, we need to make sure that
+whatever we calculate here, in terms of work, also
+has units of joules. Otherwise, we will be, we'll
+be subtracting two things that don't have the same unit, and that's bad.
+(giggles) We'll have to do some sort
+of unit conversion first. So, let's just double check
+that pascals times liters, will give us joules. So the way I did this, is by converting everything
+to the same units. So, if you take joules, which is already SI units, we can actually simplify it more, in terms of other SI units. So, a joule is equal to one kilogram meters squared per second squared. So, joules is equal to, one joule is equal to one kilogram meters
+squared over seconds squared. One pascal, pascals are also in terms of, are also SI units, and if we convert pascals to kilograms, meters, and seconds, we get that one pascal is one kilogram per meter seconds squared. What this tells us is that, we have to multiply
+this by units of volume, and whatever we multiply it by should give us units of joules. So, what we need to do here, is convert our liters to meters cubed. And if we do that, everything is in terms of
+kilograms, meters, and seconds, this meters cancels out with one of these, and we end up with one
+kilogram meters squared per second squared on both sides. So then, everything is in terms of joules. That's not the only way
+that you could've made sure that the units made sense. You could've converted
+them to something else, but basically you just have to make sure that all of the units you're
+using in your equation match each other if
+you're going to add them or subtract them. All of this is to say
+that we need to make sure we convert liters to meters cubed, so that everything works
+out in terms of joules. So if we do that, we get that minus 485 joules, 1.01 times ten to the 5th pascals, times negative .25 liters, which is the change in
+volume, which is negative, the volume went down, so the change in volume
+should be negative, and then we have to
+add one more thing here to convert our liters to meters cubed. So, one liter is equal to one, ten to the minus third, meters cubed. So now our liters cancel out, and pascals times meters
+cubed, gives us joules. So that gives us, that delta U, or change in internal energy, is negative 485 joules, then if we plug this
+all into our calculator to calculate the work, we get positive 25.25 joules. So if we add our heat and our work here, we get that the overall change in internal energy for this process is negative 460 joules. So, the key things to remember here, for this kind of problem, is to double check your
+signs for work and heat, and also to make sure
+all of your units match.

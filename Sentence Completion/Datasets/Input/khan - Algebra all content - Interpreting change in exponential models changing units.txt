@@ -1,0 +1,24 @@
+- [Voiceover] The amount
+of carbon dioxide, CO2, in the atmosphere increases rapidly as we continue to rely on fossil fuels. The relationship between
+the elapsed time, t, in decades, let me highlight that, because that's not a typical unit, but, in decades, since CO2
+levels were first measured, and the total amount of
+CO2 in the atmosphere, so the amount of CO2,
+A, of sub decade of (t), in parts per million, is modeled by the following function. So, the amount of CO2 as a function of how many decades have passed is going to be this, so t is in decades in this model right over here. Complete the following sentence about the yearly rate of change, the yearly rate of change in the amount of CO2 in the atmosphere. Round your answer to two decimal places. Every year, the amount of CO2 in the atmosphere
+increases by a factor of? If they said every decade, well, this would be pretty straightforward. Every decade, you increase t
+by one, and so you're going to multiply by 1.06 again. So every decade, you
+increase by a factor of 1.06. But what about every year? Now, I always find it
+helpful to make a bit of a table, just so we can
+really digest things properly. So I'll say t, and I'll say A of t. So, when t is equal to zero, so at the beginning of our study, well, 1.06 to the zeroth
+power is just going to be one, you have 315 parts per million. So, what's a year later? So, a year later is going
+to be a tenth of a decade. Remember, t is in decades. So a year later is 0.1 of a decade. So, 0.1 of a decade later, what is going to be the
+amount of carbon we have? Well, it's going to be 315 times 1.06 to the 0.1 power. And what is that going to be? Let's see, if we... so 1.06 to the, so to the 0.1 power, I didn't have to actually
+use the parentheses there, is equal to 1.0058, I'll just take it with that. 1.0058. So this is the same thing as 3.5 times 1.0058. And I should say approximately equal to, I did a little bit of rounding there. So, after another year,
+so now now we're at t equals 0.2, we're at
+two-tenths of a decade. Where're we going to be? We're going to be at 3.5 times 1.06 to the 0.2, which is the same thing as 3.5 times 1.06 to the 0.1, and then that raised to the second power. So we're going to multiply by this 1.06 to the one-tenth power again, or we're going to multiply
+by 1.0058 a second time. Another way to think about it, if we wanted to reformulate this model in terms of years, so per year of t, it's going to be 315
+and now our common ratio wouldn't be 1.06, it would
+be 1.06 to the .1 power, or 1.0058, and then we would raise that. Now t would be in years now. Here, it is in decades. And I can say approximately, since this is rounded a little bit. And so, every year, the amount of CO2 in the atmosphere
+increases by a factor of, I could say 1.06 to the 0.1
+power, but if I'm rounding my answer to two decimal places, the, well, we're going to increase by 1.0058, in fact, they should, the
+increase is by a factor of, they should, I'm guessing they want more than two decimal places. Well, anyway, this is arguably,
+this right over here is five significant digits. But anyway, I'll leave it there.

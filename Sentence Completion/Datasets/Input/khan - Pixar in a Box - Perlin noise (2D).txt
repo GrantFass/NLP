@@ -1,0 +1,26 @@
+- So far we've been working with Perlin noise in one dimension. - But remember, the problem we really wanna solve is in two dimensions. - Luckily, we can apply
+the exact same idea in 2D. This part is really fun. - [Woman 2] Remember, to
+generate 1D variation, we used a 2D curve to define the variation of the base color along the line. - [Woman 1] We used the
+x component of the curve to define the horizontal pixel position, and the y component defined
+the brightness of each pixel. - [Woman 2] But to make 2D noise, we'll need to start with a 3D surface to define the variation across the plane. Think of a 3D surface as
+a collection of points which have an x, y, and z component. For example, here is a surface defined by a bunch of random points. - [Woman 1] Think about the x and y coordinates of each point as the finding the pixel position in a 2D
+plane, and the z coordinate will define the brightness of each pixel. - [Woman 2] If we do that, we get a 2D output which looks like this. Notice the peaks of this surface result in lighter points, and
+the valleys are darker. - [Woman 1] As before,
+the output has very sharp boundaries between light and dark areas. That's because the surface isn't smooth. - [Woman 2] Luckily we
+can subdivide this surface in the exact same way we
+smoothed our 2D curve. This will add new in-between
+points to our surface, resulting in smoother transitions. - [Woman 1] And that gives us this very natural looking variation. It's exactly the kind of cloudy pattern identified in the shading packet. - You probably wanna try
+this out for yourself. In the next exercise,
+you can try matching some 2D patterns using this technique. - [Woman 1] We will give
+you a target pattern, and you can match this by
+adjusting one the base color. Two the resolution, this is how far we zoom in or out of our surface. Three, the subdivision, or how much smoothing we apply to the curve. - In this example we're manipulating a few parameters to get our look. But in a real production shading project, how many parameters would you adjust? - Well, background
+characters would actually be usually in the hundreds
+but main characters, like Arlo, you would have up to thousands. If he's in mud, you would control how much mud he gets,
+or the color of the mud, or how dry the mud is supposed to be. He could have rain, and so you would control maybe how fast it is, or the different parts where
+you want the rain to show up. He could have bruises,
+like throughout the journey he gets bruises and he gets part of the journey represented on his body. And you would have controls
+for all of those things, besides colors or maybe
+in certain environments he looks a little bit
+too shiny so you want to bring the shininess down,
+or things like that. So there's just controls
+for pretty much everything. - [Woman 2] Sounds complicated. - [Woman 1] It is!

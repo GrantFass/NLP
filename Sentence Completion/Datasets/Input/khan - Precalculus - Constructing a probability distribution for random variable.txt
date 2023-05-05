@@ -1,0 +1,32 @@
+Voiceover:Let's say we define the random variable capital X as the number of heads we get after three flips of a fair coin. So given that definition
+of a random variable, what we're going to try
+and do in this video is think about the
+probability distributions. So what is the probability of the different possible outcomes or the different possible values for this random variable. We'll plot them to see how that distribution is spread out amongst those possible outcomes. So let's think about all
+of the different values that you could get when
+you flip a fair coin three times. So you could get all heads, heads, heads, heads. You could get heads, heads, tails. You could get heads, tails, heads. You could get heads, tails, tails. You could have tails, heads, heads. You could have tails, head, tails. You could have tails, tails, heads. And then you could have all tails. So there's eight equally, when you do the actual experiment there's eight equally
+likely outcomes here. But which of them, how would these relate to the value of this random variable? So let's think about,
+what's the probability, there is a situation
+where you have zero heads. So what's the probably
+that our random variable X is equal to zero? Well, that's this
+situation right over here where you have zero heads. It's one out of the eight equally likely outcomes. So that is going to be 1/8. What's the probability that our random variable capital X is equal to one? Well, let's see. Which of these outcomes
+gets us exactly one head? We have this one right over here. We have that one right over there. We have this one right over there. And I think that's all of them. So three out of the eight
+equally likely outcomes provide us, get us to one head, which is the same thing as saying that our random variable equals one. So this has a 3/8 probability. So what's the probability, I think you're getting, maybe getting the hang
+of it at this point. What's the probability
+that the random variable X is going to be equal to two? Well, for X to be equal to two, we must, that means we have two heads when we flip the coins three times. So that's this outcome
+meets this constraint. This outcome would get our random variable to be equal to two. And this outcome would make our random variable equal to two. And this is three out of the eight equally likely outcomes. So this has a 3/8 probability. And then finally we could say what is the probability that our random variable X is equal to three? Well, how does our random
+variable X equal three? Well we have to get three heads when we flip the coin. So there's only one out of the eight equally likely outcomes
+that meets that constraint. So it's a 1/8 probability. So now we just have to think about how we plot this, to see
+how this is distributed. So let me draw... So over here on the vertical axis this will be the probability. Probability. And it's going to be between zero and one. You can't have a
+probability larger than one. So just like this. So let's see, if this
+is one right over here, and let's see everything here looks like it's in eighths so let's put everything
+in terms of eighths. So that's half. This is a fourth. That's a fourth. That's not quite a fourth. This is a fourth right over here. And then we can do it in terms of eighths. So that's a pretty good approximation. And then over here we
+can have the outcomes. Outcomes. And so outcomes, I'll say outcomes for alright let's write this so value for X So X could be zero actually let me do those same colors, X could be zero. X could be one. X could be two. X could be equal to two. X could be equal to three. X could be equal to three. So these are the possible values for X. And now we're just going
+to plot the probability. The probability that X has
+a value of zero is 1/8. That's, I'll make a little bit of a bar right over here that goes up to 1/8. So let draw it like this. So goes up to, so this
+is 1/8 right over here. The probability that X equals one is 3/8. So 2/8, 3/8 gets us right over let me do that in the purple color So probability of one, that's 3/8. That's right over there. That's 3/8. So let me draw that bar, draw that bar. And just like that. The probability that X equals two. The probability that X equals two is also 3/8. So that's going to be on the same level. Just like that. And then, the probability
+that X equals three well that's 1/8. So it's going to the same
+height as this thing over here. I'm using the wrong color. So it's going to look like this. It's going to look like this. And actually let me just write
+this a little bit neater. I can write that three. Cut and paste. Move that three a little closer in so that it looks a little bit neater. And I can actually move that
+two in actually as well. So cut and paste. So I can move that two. And there you have it! We have made a probability distribution for the random variable X. And the random variable X can only take on these discrete values. It can't take on the value half or the value pi or anything like that. So this, what we've just done here is constructed a discrete
+probability distribution. Let me write that down. So this is a discrete, it only, the random variable only takes on discrete values. It can't take on any values
+in between these things. So discrete probability. Probability distribution. Distribution for our random variable X.

@@ -1,0 +1,59 @@
+In this video I'm going to
+work through the exact same scenario that we saw in the last video but it will be a little bit more mathy. The reason why I'm going to make it a little bit more mathy is so that you see it's a same idea it's just going to have a
+little bit more cryptic notation but it allows us to generalize the ideas that we saw in the last video. Let's just assume, instead of saying that the marginal propensity to consume in our little island is .6, let's just say our marginal
+propensity to consume is C. What we want to do is
+we want to figure out, given some initial change in expenditure and this guy's change in expenditure will be this guy's change in income. That cycle is round and round due to the multiplier effect. What is going to be the
+total change in our GDP? This is what we care about, we care about our total change in the GDP. Y could be viewed as expenditure or it could be viewed as income depending on how you think about things. Let's say this guy, instead
+of saying that's he's going to spend all in the thousand dollars, let's just call his incremental
+change in expenditure, let's just call that delta Y nought. Delta just means change in, and Y, we could view this
+as aggregate expenditure. I'm putting this little zero here. This is our first iteration, this is the first time that
+we're doing one these deltas. Then as we keep doing them
+we're going to have Y1, Y2, Y3 and so on and so forth. If we think about the total change in GDP, you're definitely going to have this. In the last example this was $1000. This guy is $1000 expenditures, this guy is a $1000 income. Then you have delta Y nought. Then we saw that this guy, his marginal propensity to consume is C. He's going to spend of the income he gets, he's going to spend C times that. He's now going to do Delta Y1. This is the next incremental
+bump in our GDP we're seeing and that's going to be equal
+to C times what he just got. Now, after doing the zero
+iteration in the first iteration our total change is going to be ... Actually let me write it this way, times delta Y1, and delta Y1,
+this is just the same thing as C x delta Y nought. It's fancy notation but it's just saying
+something fairly basic, The exact same thing that
+we said in the last video. Now this guy, all of a sudden, above and beyond what he spent
+in that zeroth iteration, he's now getting delta Y1. He has a marginal propensity to consume, we're just assuming of C. Now he is going to spend C times that. He's now going to make an expenditure of, I'll do this just in the same color, he's now going to do delta Y2 which is equal to C x delta Y1. Now we have delta Y2,
+this new incremental bump and they're getting smaller
+and smaller and smaller but we can go an infinite number of times. Just to remember what this is, delta Y2 is the same
+thing as C x delta Y1. Delta Y1 is the same thing
+as C x delta Y nought. So this thing right over here, this whole thing could be written as C^2 x delta Y nought. This right over here C x delta Y nought. This of course is equal to,
+this is just delta Y nought. We can just keep going. If this guy would then get this amount and he'll spent C times that to the farmer and so if we had a Y3, it would just amount to C times this which is C^3 x delta Y nought and we could keep going on and on and on an infinite number of time but each of these terms are
+going to smaller and smaller because we're going to assume, in order for this to actually work, we're going to assume
+that C is between 0 and 1. Obviously, when someone gets new income and thinking of the simple case, someone is not going to spend more, the marginal propensity to consume, they can't spend more than they just got. In general they're not going
+to spend the whole thing. So we're going to assume
+that it is less than 1. This is exactly the same idea
+that we did in the last one but now it is general and we can simplify this a
+little bit mathematically. This is all equal to our
+delta Y, our total bump in GDP due to that initial spark. If we factor that initial spark out with the delta Y nought. Actually, let me do
+that in different color just so the math becomes clear. We have the delta Y
+nought, delta Y nought, delta Y nought, delta Y nought. When I say nought, I'm talking
+about that zero subscript. If we factor that our, we
+get our total bump in GDP. Whether you want to do
+this output, expenditure or income, is equal to, we're
+going to factor that out, the delta Y nought times, and then we're just left with, you factor the change in
+Y nought here you get 1 and then over here, + C + C^2 + C^3 and you go on and on and on. In the last video I told you
+that this right over here is going to simplify to 1 over 1 - C. This is equal to, this
+part over here is equal to 1 over 1 - C. Now, you might have not been satisfied and since this is a more mathy video it's a good place to actually show you that it would sum up to 1 over 1 - C. Not to introduce too many variables, but let's just call this thing X. Let's just say that X is
+equal to this whole thing right over here. It's equal 1 + C + C^2 + C^3, so on and so forth. Now let's imagine what we would get if we multiply X x C. What happens if I multiply, and I'll do this in a different color. What happens if I multiply C x X? Well then, each of these terms I can multiply by C. 1 x C is C, C x C is C^2, C^2 x C is C^3, C^3 x C is C^4, so on and so forth. Now, what happens if I
+subtract this from that? If I subtract the left hand sides I get X - CX on the left hand side. I'll do that in that pink color. Where did it go? Actually I think I changed
+the color on my ... I'll just write X - CX and
+that's going to be equal to, if you subtract this stuff
+from that stuff over there, you have a C - C, they'll cancel out. Let me do this in yellow. C^2 - C^2, that will cancel out. C^3 - C^3, that would cancel out. Every term other than 1
+is going to cancel out. Everything is going to cancel out and you're just going to
+be left with the 1 here which is a pretty neat trick in my mind. Then we can factor out
+the X right over here. You get X x 1 - C = 1 and then you divide both sides by 1 - C, you get X = 1 over 1 - C. X was exactly this thing right over here. This thing is equal to 1 over 1 - C. This right here, we just showed you exactly what we told you in the last video that the total bump in GDP, this right over here, you could view this as
+the total bump in GDP is going to be equal to
+that initial bump in GDP which we called delta Y nought. That was that initial spending that that farmer did and
+the builders initial income, that the total bump is going to be equal to that initial bump times this expression which we view as the multiplier. This is the multiplier right here is a function of the marginal
+propensity to consume. This right over here, let me label it all. Actually, let me just rewrite it. The total bump in our
+aggregate expenditure or output or income is going to be equal to the initial bump times the multiplier which
+ends up being a function of our marginal propensity to consume. This right over here is our multiplier and this right over here is, you could view that as our initial bump. Just to make sure that it works out from what we saw in the last video. In the last video our
+marginal propensity to consume was .6. C was 0.6 and our initial bump, our initial expenditure
+was equal to 1,000. If you put .6 in here you will get 2.5 and so you get the exact same multiplier and you get the exact
+same total bump in GDP as we got in the last video. At least now we have a little general and you're hopefully a
+little bit more comfortable with some of these
+notation that I'm using. Unfortunately, you'll
+see different notation almost every economics textbook. I just want to make sure that this makes reasonable sense to you.

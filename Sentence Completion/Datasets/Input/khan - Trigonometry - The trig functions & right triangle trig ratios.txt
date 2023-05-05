@@ -1,0 +1,37 @@
+Voiceover:On the right-hand side we have a bunch of expressions
+that are just ratios of different information
+given in these two diagrams. Then over here on the left we have the sine taken of angle MKJ, cosine of angle MKJ, and
+tangent of angle MKJ. Angle MKJ is this angle right over here same thing as theta, so these two angles. These two angles have the same measure. We see that right over there. What we want to do is figure out which of these expressions are equivalent to which of these
+expressions right over here. I encourage you to pause the video and try to work this through on your own. Assuming you've had a go at it, let's try to work this out. When you look at this diagram, it looks like the
+intention here on the left is this evokes the unit circle definition of trig functions because
+this is a unit circle right over here, and this evokes kind of
+the soh cah toa definition because we're just kind of in a plain, vanilla right triangle. Just to remind ourselves, let's just remind ourselves of soh cah toa because I have a feeling
+it might be useful. Sine is opposite over hypotenuse. Cosine is adjacent over hypotenuse, and tangent is opposite over adjacent. We can refer to this and we can also remind ourselves of the
+unit circle definition of trig functions that
+the cosine of an angle is the X coordinate and that the sine of where this ray
+intersects the unit circle, and the sine of this angle is going to be the Y coordinate. What we'll see through this video is that they actually, the
+unit circle definition, is just an extension of soh cah toa. Let's look first at X over one. We have X, X is the X coordinate. That's also the length of this side right over here, relative to this angle, theta. That is the adjacent side. So X is equal to the adjacent side. What is one? Well, this is a unit circle. One is the length of the radius which for this right triangle
+is also the hypotenuse. If we apply the soh cah toa definition, X over one is adjacent over hypotenuse, adjacent over hypotenuse, adjacent over hypotenuse, that's cosine. That's going to be this is
+equal to cosine of theta, but theta is the same thing as angle MKJ. They have the same measure so cosine of angle MKJ is equal to cosine of theta which is equal to X over one. Now let's move over to Y over one. Well, Y is going to be
+the length of this side right over here. Y is going to be, let
+me do this in the blue. Y is going to be this length
+relative to angle theta. That is the opposite side. That is the opposite side. Now which trig function is
+opposite over hypotenuse? Opposite over hypotenuse? That's sine of theta. Sine of theta. So sine of angle MKJ is the same thing as sine of theta. We see that they have the same measure, and now we see that's the same thing as Y over one. Now for both of these I used
+the soh cah toa definition, but we could have also used
+the unit circle definition. X over one, that's the same thing. That's the same thing as X, and the unit circle definition says the X coordinate of where this, I guess you could say, the
+terminal side of this angle, this ray right over here, intersects the unit circle. That by definition, by
+the unit circle definition is the cosine of this angle. X is equal to the cosine of this angle, and the unit circle definition, the Y coordinate is equal
+to the sine of this angle. We could have written
+this as instead of X, Y, we could have written
+this as cosine of theta, sine theta just like that,
+but let's keep going. Now we have X over Y. We have adjacent over, we have adjacent over opposite. So this is equal to
+adjacent over opposite. Tangent is opposite over adjacent, not adjacent over opposite. This is the reciprocal of tangent. This right over here, if we had to, this is equal to one
+over tangent of theta. We later learn about
+cotangent and all of that which is essentially this, but it's not one of our choices. So we can rule this one out. Then we have Y over X. Well, this is looking good. This is Y is opposite. Opposite. X is adjacent relative to angle theta. Adjacent. So this is the tangent of theta. This is equal to tangent of theta. Tangent of angle MKJ is the same thing as tangent of theta which is equal, which is equal to Y over X. Now let's look at J over K, so J over K. Now we're moving over to this triangle, J over K. Relative to this angle because this is the angle that we care about, J is the length of the adjacent side, and K is the length of the opposite side, of the opposite side. This is adjacent over opposite. This is equal to adjacent over opposite. Tangent is opposite over adjacent not adjacent over opposite. So once again this is the reciprocal of the tangent function
+not one of the choices right over here so we
+can rule that one out. Now K over J. Well, now this is opposite over adjacent. Opposite over adjacent. That is equal to tangent of theta. This is equal to tangent of theta, or tangent of angle MKJ. This is equal to K over J. Now we have M over J, M over J. Hypotenuse over adjacent side. This of course is equal to the hypotenuse. Hypotenuse over adjacent. Well, if it was adjacent over hypotenuse, we'd be dealing with cosine, but this is the reciprocal of that. This is actually one
+over the cosine of theta not one of our choices, not one of our choices here so I'll just rule that one out over there. Then we have it's reciprocal, J over M. That's adjacent over hypotenuse. Adjacent over hypotenuse is cosine. This is equal to cosine of theta, or cosine of angle MKJ so
+we could write it down. This is equivalent to J over M. Then one last one, K over M. Well, that's opposite over hypotenuse, opposite over hypotenuse. That's going to be sine of theta. This right over here is
+equal to sine of theta which is the same thing
+as sine of angle MKJ which is the same thing as
+all of these expressions. This is equal to K over M, and we are done.

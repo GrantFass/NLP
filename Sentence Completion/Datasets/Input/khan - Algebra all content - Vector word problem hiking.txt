@@ -1,0 +1,47 @@
+Keita left camp three days ago on a journey into the jungle. The three days of his
+journey can be described by displacement, distance
+and direction vectors, or displacement vectors, and displacement is
+distance with the direction, and the vectors are d1, d2, and d3. They list them right over here. The distances are given in kilometers. How far is Keita from camp
+at the end of day three? So let's just think
+about what is happening. On day one, let's say this
+is his starting point. His displacement, he starts
+here and he goes there, but if you break it down based on, I guess if you call this direction Let me draw a little compass here. If you say that this is north, this is east, this is west, and that this is south, you can break it down by how much he went in the east direction and how much he went
+in the north direction. So this is saying he went
+seven in the east direction. One, two, three, four, five, six, seven. Seven in the east direction, and he went eight in the north direction. One, two, three, four,
+five, six, seven, eight. Just like that. This is seven and this is eight. Then on day two, he went six units, I guess these are kilometers, six kilometers to the east, one, two, three, four, five, six, and he went two kilometers
+to the north, one, two. So he ends up right over here. Six and two, and then finally day three, the component of his displacement that is to the east is two, and the component of his displacement that is to the north is nine. And so to figure out
+how far he is from camp at the end of day three,
+we just have to figure out what is his total displacement? What is the length of the vector that is the sum of all of these? So what is the length of
+this vector right over here? Let's call this d sub t for total, displacement d sub t for total. Displacement total, total displacement. And you can see how this is arranged, that our total displacement
+vector is just going to be the sum of d1, let me do those in the appropriate colors. It's just going to be the
+sum of d1, d2, and d3. And if you're summing these vectors, you can just add the
+corresponding component. So for example, the total
+displacement is going to be equal to the sum of the horizontal, I should say the displacement
+in the east direction. So it's going to be
+seven plus six plus two, and then in the north direction you have eight plus six, or sorry,
+eight plus two plus nine. And so our total displacement vector if we were to write it in this form, is going to be, this is 13 plus two, so it's going to be 15 to the east, or the component of displacement in the eastern direction is 15, and in the northern direction
+is 10 plus nine, 19. So that's this vector right over here. It's 15, it's component in the east is 15, and to the north is 19. Let me make that clear. So this distance right over here, or if I were to make this
+a triangle the length of this side of the triangle here is 19 and that's his total displacement
+in the northern direction, and his total displacement in the eastern direction is that 15. So what's going to be the length
+of our displacement vector or what's the magnitude of
+our displacement vector? The magnitude of our
+total displacement is, well it's the Pythagorean theorem. This is a right triangle. 15 squared plus 19 squared is going to be the magnitude squared. Or we could say that
+the magnitude is equal to the square root of 15
+squared plus 19 squared, plus 19 squared. So let me get my calculator out. All right, so I have the square root of 15 squared plus 19 squared gives, 24, let's see, they want us to
+round to the nearest tenth, 24 point two. So 24 point two kilometers. Then they say what direction is Keita from camp at the end of day three? Round to the nearest degree. Your answer should be
+between zero and 180 degrees. So distance I'm assuming, this
+would just be the convention, they should be a little bit more precise here in their wording or a little bit less ambiguous. The convention is, the angle relative to, if we were thinking of
+the coordinate axes, the positive X axis, on this you could say
+the eastern direction, so it's really this angle right over here, let's call that theta. How could we figure out what theta is? It's part of this right triangle. We know this side has length 19 and we know this side has 15. So we know the opposite side theta and we know the adjacent side theta, so what trig function involves
+opposite and adjacent? Well tangent involves
+opposite and adjacent, so we could write that
+the tangent of theta is equal to 19 over 15, is equal to opposite over
+adjacent, 19 over 15, and to solve for theta we can just say, now we've got to make sure that our angle, if we just take the inverse tangent here, is actually the angle we're looking for, but inverse tangent, the convention is, it will give you an angle that is between negative pi over two and pi, if we're thinking in radiants, but since we're thinking in degrees, it'll give you an angle between negative 90
+degrees and 90 degrees, and this angle is clearly in that. It's actually between zero and 90 degrees. So when we take inverse tangent, we know that we're going
+to get the right angle. Otherwise we would have
+to make some adjustments. So theta is going to be equal to the inverse tangent of 19 over 15, which is equal to, let's
+get our calculator out, let's make sure that we are in, yep we are in degree mode, and so let's take the inverse
+tangent of 19 divided by 15, which is equal, let's see they want us to round to the nearest degree, so 52 degrees if we round
+to the nearest degree. 52 degrees, which also looks
+right, right over here. This looks like a little bit
+more than a 45 degree angle, which 52 degrees seems to fit the bill, and we are done.

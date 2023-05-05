@@ -1,0 +1,34 @@
+- [Instructor] So over
+here I have two functions that have been visually
+or graphically defined. On the left here I have
+the graph of g of x, and on the right here I
+have the graph of h of x. And what I want to do is figure out what is the limit of g of
+h of x as x approaches one. Pause this video and see
+if you can figure that out. All right, now let's do this together. Now the first thing that
+you might try to say is, all right, let's just figure out first, the limit as x approaches one of h of x. And when you look at that,
+what is that going to be? Well, as we approach one from the left, it looks like h of x is approaching two. And as we approach from the right, it looks like h of x is approaching two. So it looks like this
+is just going to be two. And let me see, okay, well maybe we can then
+just input that into g. So what is g of two? Well, g of two is zero, but the limit doesn't seem defined. It looks like when we
+approach two from the right, we're approaching zero. And when we approach two from the left, we're approaching negative two. So maybe this limit doesn't exist. But if you're thinking that, we haven't fully thought through it, because what we could do
+is think about this limit in terms of both the left-handed
+and right-handed limits. So let's think of it this way. First, let's think about what is the limit as x approaches one from the
+left-hand side of g of h of x. All right, when you
+think about it this way, if we're approaching one from
+the left right over here, we see that we are
+approaching two from the left, I guess you could say, we're
+approaching two from below. And so the thing that we
+are inputting into g of x is approaching two from below. So the thing that we are inputting into g is approaching two from below. So if you approach two from below, right over here, what is g approaching? It looks like g is
+approaching negative two. So this looks like it is going
+to be equal to negative two, at least this left-handed limit. Now let's do a right-handed limit. What is the limit as x approaches one from the right hand of g of h of x? Well, we can do the same exercise. As we approach one from the right, it looks like h is
+approaching two from below, from values less than two. And so if we are
+approaching two from below, because remember, whatever h is outputting
+is the input into g. So if the thing that
+we're inputting g into g is approaching two from below, that means that g, once again, is going to be approaching negative two. So this is a really, really,
+really interesting case, where the limit of g of
+x as x approaches two does not exist. But because on h of x, when we approach from both the
+left and the right hand side, h is approaching two from below. We just have to think
+about the left-handed limit as we approach two from
+below or from the left on g, because in both situations, we
+are approaching negative two. And so that is going to be our limit. When the left-handed and
+the right-handed limit are the same, that is
+going to be your limit. It is equal to negative two.

@@ -1,0 +1,153 @@
+This is the same problem that
+we had in the last video. But instead of trying to figure
+out whether the data supplies sufficient evidence to
+conclude that the engines meet the actual emissions
+requirement, and all of the hypothesis testing, I thought I
+would also use the same data that we had in the last video to
+actually come up with a 95% confidence interval. So you could ignore the
+question right here. You can ignore all of this. I'm just using that same data
+to come up with a 95% confidence interval for the
+actual mean emission for this new engine design. So we want to find a 95%
+confidence interval. And as you could imagine,
+because we only have 10 samples right here, we're
+going to want to use a T-distribution. And right down here
+I have a T-table. And we want a 95% confidence
+interval. So we want to think about the
+range of T-values that 95-- or the range that 95% of T-values
+will fall under. So let's think about this way. So let me draw a T-distribution right over here. So a T-distribution looks
+very similar to a normal distribution but it
+has fatter tails. This end and this end will be
+fatter than in a normal distribution. And then we want to find an
+interval, so if this is a normalized T-distribution the
+mean is going to be 0. And we want to find interval
+of T-values between some negative value here and some
+positive value here that contains 95% of the
+probability. So this right here
+has to be 95%. And to figure what these
+critical T-values are at this end and this end, we can
+just use a T-table. And we're going to use the
+two-sided version of this because we're symmetric
+around the center. So you look at the two-sided,
+we want a 95% confidence interval, so we're going to
+look right over here, 95% confidence interval. We have 10 data points,
+which means we have 9 degrees of freedom. So 9 degrees of freedom for
+our 10 data points. We just took 10 minus 1. So if we look over here, so for
+a T-distribution with 9 degrees of freedom, you're
+going to have 95% of the probability is going to be
+contained within a T-value of-- so the T-value is going
+to be between negative, so this value right here is 2.262,
+and this value right here is negative 2.262. That's what this right
+here tells us. That if you contain all the
+values that are less than 2.262 away from the center of
+your T-distribution, you will contain 95% of the
+probability. So that is our T-distribution
+right there. Let me make it very clear. This is our T-distribution. So if you randomly pick
+a T-value from this T-distribution, it has a 95%
+chance of being within this far from the mean. Or maybe we should
+write this way. If I pick a random T-value, if
+I take a random T-statistic-- let me write it this way--
+there's a 95% chance that a random T-statistic is going
+to be less than 2.262, and greater than negative 2.262. 95% percent chance. Now when we took this sample, we
+could also derive a random T-statistic from this. We have our sample mean and our
+sample standard deviation, our sample mean here is 17.17-- figured that out in the
+last video, just add these up, divide by 10-- and
+our sample standard deviation here is 2.98. So the T-statistic that we can
+derive from this information right over here-- so let me
+write it over here-- the T-statistic that we could derive
+from this, and you can view this T-statistic as being
+a random sample from a T-distribution. A T-distribution with 9
+degrees of freedom. So the T-statistic that we
+could derive from that is going to be our mean, 17.17
+minus the true mean of our population. Or actually you would say the
+true mean of our sampling distribution, which is also
+going to be the same as the true mean of our population,
+because that's our population mean over there, divided by s,
+which is 2.98 over the square root of our number of samples. We've seen this multiple
+times. This right here is
+the T-statistic. So by taking this sample you
+can say that we've randomly sampled a T-statistic from
+this 9 degree of freedom T-distribution. So there's a 95% chance that
+this thing right over here is going to be between-- is going
+to be less than 2.262 and greater than negative 2.262. So the 95% probability still
+applies to this right here. Now we just have to do some
+math, calculate these things. So let me get my
+calculator out. And so let me just
+calculate this denominator right over here. So we have 2.98 divided by
+the square root of 10. So that's 0.9423. So what I'm going to do is I'm
+going to multiply both sides of this equation by this
+expression right over here. So if I do that-- so let me just
+do that right over-- so if I multiply this entire-- this
+is really two equations or two inequalities
+I should say. That this quantity is greater
+than this quantity and that this quantity's greater
+than that quantity. But we can operate on all of
+them at the same time, this entire inequality. So what we want to do is
+multiply this entire inequality by this value
+right over here. And we just calculated it at
+that value-- let me write it over here-- that 2.98-- I'll
+write it right over here-- 2.98 over the square root
+of 10 is equal to 0.942. So if I multiplied this entire
+inequality by 0.942 I get, on this left-hand side over here
+I have negative 2.262 times 0.942-- and it's a positive
+number that we're multiplying the whole inequality by, so the
+inequality signs are still going to be in the same
+direction-- is less than-- we're multiplying this whole
+expression by the same expression in the denominator
+so it'll cancel out. So we're just going to be less
+than 17.17 minus our population mean, which is going
+to be less than 2.262 times, once again, 0.942. Let me scroll over to the
+right a little bit. 0.942. Just be clear, I'm just
+multiplying all three sides of this inequality by this number
+right over here. In the middle this
+cancels out. So if I multiply-- I'll just
+write it over here-- 0.942, 0.942, 0.942. This and this is the same number
+so that's why those cancel out. And now let's get the calculator
+to figure out what these numbers are. So if we have the 0.942
+times 2.262. So we're going to say
+times 2.262 is 2.13. So this number right
+over here on the right-hand side is 2.13. This number on the left is just
+the negative of that. So it's negative 2.13. And then we still have our
+inequalities-- is going to be less than 17.17 minus the mean,
+which is less than 2.13. Now what I want to do is
+I actually want to solve for this mean. And I don't like that negative
+sign in the mean. I'd rather have this
+swapped around. I'd rather have the
+mean minus 17.17. So what I'm going to do is
+multiply this entire inequality by negative 1. If you do that, if you multiply
+the entire thing times negative 1, this quantity
+right here, this negative 2.13 will become
+a positive 2.13. But since we are multiplying
+an inequality by a negative number you have to swap
+the inequality sign. So this less than will become
+a greater than. This negative mu will become
+a positive mu. This positive 17.17 will become
+a negative 17.17. We're going to have to swap this
+inequality sign as well, and this positive 2.13 will
+become a negative 2.13. And we're almost there. We just want to solve for mu. Have this inequality expressed
+in terms of mu. So what we can do is now just
+add 17.17 to all three sides of this inequality, and we are
+left with 2.13 plus 17.17 is greater than mu minus 17.17 plus
+17.17 is just going to be mu, which is greater than-- so
+this is greater than mu, which is greater than negative
+2.13 plus 17.17. Or a more natural way to write
+it since we actually have a bunch of greater than signs,
+that this is actually the largest number and this-- oh
+sorry, this is actually the smallest number and this over
+here is actually the largest number, is actually flipped--
+you can just re-write this inequality the other way. So now we can write-- actually
+let's just figure out what these values are. So we have 2.13 plus 17.17. So that is the high
+end of our range. So that is 19.3. So this value right over here,
+so this is 19-- let me do it in that same color-- this value
+right here is 19.3 is going to be greater than mu,
+which is going to be greater than-- and this is negative
+2.13 plus 17.17. Or we could have 17.17 minus
+2.13, which gives us 15.04. And remember, the whole thing,
+all of this, we started with, there was a 95% chance that a
+random T-statistic will fall in this interval. We had a random T-statistic,
+and all we did is a bunch of math. So there's a 95% chance that any
+of these steps are true. So there's a 95% chance
+that this is true. There's a 95% chance that the
+true population mean, which is the same thing as the mean of
+the sampling distribution of the sample mean, there's a 95%
+chance, or that we are confident that there's a 95%
+chance, that it will fall in this interval. And we're done.

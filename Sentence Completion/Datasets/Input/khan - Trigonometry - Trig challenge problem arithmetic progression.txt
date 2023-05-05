@@ -1,0 +1,160 @@
+- [Instructor] If the angles
+A, B and C of a triangle are in an arithmetic progression, and if a, b and c, lowercase, a, b and c, denote the lengths of the
+sides opposite to the capital, the angles A, capital A, capital B and capital C respectively, then what is the value of this
+expression right over here? So let's see if we can
+work our way through this. So let's just draw the triangle just so we have a visualization of what all of the letters represent. So we have the angles A, B, and C, so let me just draw them like this. So we have the angles A, B, and C. And then the sides opposite
+them are the lowercase version. So the side opposite to
+capital A is lowercase a, the side opposite to
+capital B is lowercase b, and the side opposite to the
+angle capital C is lowercase c. Now the first piece of
+information they tell us is that the angles capital
+A, capital B, and capital C of the triangle are in
+arithmetic progression. Arithmetic progression, very fancy word, but on arithmetic progression is, is a series of numbers that are separated by the same amount. So let me give you some examples. So one, two, three, that's
+an arithmetic progression. Two, four, six arithmetic progression. Were separated by two every time. I could do 10, 20, 30, also
+an arithmetic progression. These are all arithmetic progression. So all they're saying is, is
+to go from angle A to angle B, however much that is it's
+the same amount to go from angle B to angle C. So let's see what that tells us, what that tells us about, or maybe tells us maybe it doesn't tell us anything about those angles. So if we could say we have angle A and then we have the notion angle B. So we could say that B is
+equal to A plus some constant. We don't know what that is. It could go up by one, it could go by two, it could go by 10. We don't know what it is. So A plus N. And then C would be equal to B plus N, which is the same thing, which is the same thing as B is A plus N. So this is A plus N plus N,
+which is equal to A plus 2N. So what does that do? The other thing we know about
+three angles in a triangle is that they have to
+add up to 180 degrees. So this, this, and this have
+to add up to 180 degrees. Let's try it out. So we have A plus A plus N plus A plus 2N, plus A plus 2N is going to
+be equal to 180 degrees. We have one, two, three A's here. So we get 3A plus we have
+one N and then another 2N, 3A plus 3N is equal to 180 degrees. Or you can divide both sides by three. And you get A plus N is to, A
+plus N is equal to 60 degrees. So what does that tell us? Well, A could still be
+anything 'cause if N is one, then A is 59. If N is 10, then A is gonna be 50. So it doesn't give us much
+information about the angle A. But if you look up here, do
+you see an A plus N anywhere? Well, you see it right over here. B is equal to A plus N. And we just figured out that A plus N has to be equal to 60 degrees. So using this first piece of information, we were able to come up with
+something pretty tangible, B must be equal to 60 degrees. And you could try it out
+with a bunch of numbers. These could be 59, 60 and 61. That's an arithmetic progression. And once again, B is the
+middle one, right over here. These could be 50, 60, and 70, could be 40, 60, and 80. But no matter what the
+arithmetic progression is in order for these three
+angles to add up to 180, the middle one has to
+be equal to 60 degrees. We're doing pretty well so far. So let's see what we can do at
+the next part of the problem. And I'm trying to save
+some screen real estate right over here. Okay, so they want us
+to figure out the value of the expression, a over
+c sin of 2C capital C plus c over a sin of two capital A. So let's let me just write it down. So we have, I'll do it in,
+I'll do it in blue, a over c , a over c sine of two times capital C plus c over a sine of two times capital A, what's that going to be equal to? So whenever you see stuff like
+this, you've got a two here, two here, frankly the best things you do is just to experiment with your trigonometric identities and
+see if anything pops out at you that might be useful. And a little bit of a clue here. The first part of the problem helped us figure out what B is. It helped us figure out what B is, but right now the
+expression has no B in it. So right now this information
+seems kind of useless, but if we could put this
+somehow in terms of B, then we'll have we'll, we'll be making progress because
+we know information about angle B. So let's see what we can do. So the first thing I would
+use is well sine of two A, let me just rewrite each of
+these. So sine of, I should say, sine of two times anything. That's just the same thing
+as I think this is called the double angle formula. So this
+is, although I might be wrong, I always forget the actual names of them, but sine of two times something is two sine of that something times the cosine of that . Times
+a cosine of that something, and you'll see that in any
+trigonometric book on the inside cover, even a
+lot of calculus books, let's do that for the, the
+same thing right over here. So sine of two A over here
+is going to be two sine of A cosine of A, that's just a standard
+trigonometric identity. And we in the trigonometric playlist, we proved that identity. I
+think we do it multiple times. And then out in front, we
+have our coefficients still. We have a over c times this
+plus c over a times, this. Now is there anything we can do? And remember in the back of our mind, we should be thinking of how
+can we use this information that B is equal to 60. So if we can somehow put this
+in the form to get a B here. And when I think about how do
+you get to a B here, I think, well, you know, we have a triangle here. So the things that relate
+the sides of a triangle when, especially when it's not a right triangle, is we're really going to deal
+with the law of sines and the law of cosines and the law of sines. Let me just rewrite it over
+here just for our reference. So the law of sines would say, sine of A, over a is equal to sine of B over b, which is equal to sine of C over c. And it looks like we
+might be able to use that. And let me just write the
+law cosines here just in case it's useful in the future. So
+the law of cosine C squared, it's really the Pythagorean
+theorem with a little adjustment for the fact that it's
+not a right triangle. So C squared is equal to a
+squared plus b squared minus two a b cosine cosine of C of capital C. So there's law of sines
+and law of cosines. Let's see if we can
+somehow use both of these to put these in terms of B,
+which we have information about. Well, the first thing
+is I could rewrite this, so this has sine of C over c, and this is a sine of A
+over a ,so let me do that. So I have, let me do this. So I have the two a, I
+have two a cosine of C, let me write that separately. So I have two a cosine
+cosine of capital C, and then times sine of C over c , times I'll do that in white, sine of C. That's a capital C, sine of capital C over lowercase c that's that term and that term right over there. And then to that I'm adding
+,to that I'm adding imma do the same thing over
+here. I have two times, I'm going to separate these guys out. Actually. Now I want to do the sines. So let me separate. I'm going to separate
+this guy and this guy out. And so I get plus two c cosine of A times, sine of capital A over lowercase a times sine of capital
+A over a lowercase a . Now what did this do for me? Well, look at the laws, look at the lot of sines right over there. I have sine of C over c
+that's that over there. And then I have sine of A
+over a that's that over there, capital A over lowercase a. They're both equal to sine of B over b. So we're making progress.
+We, we ha we've relayed we started introducing B into
+the equation and that's where the expression, and that's what we actually
+have information about. So this could be rewritten
+as sine of B over b. So this is the same thing
+as sine of capital B over lowercase b. And this is the same thing
+as sine of capital B over lowercase b. And they're
+both being multiplied, or both of these terms
+are multiplying are, are being multiplied by that two a cosine of capital C times that, and then plus two c, the lowercase c cosine
+of capital A times that. so we can factor out the sine of B over b. Let's do that. Let's factor it out. So this is the same thing as
+this is the same thing as two, a two a and I already have a
+sense of what the next step is. I'm leave a little space here,
+two a times cosine of C plus this, and these are being multiplied. I left some space there,
+plus two c, two lowercase c times the cosine times the
+cosine of A and all of this, all of this times, the
+sine, the sine of B over b. And we know what we already
+know that B is 60 degrees. So we can evaluate this
+pretty, pretty easily, but let's just, let's just continue to see
+if we can somehow somehow put this right over here in terms of B. Well, if you look over here,
+we have two a cosine of C two c cosine of A, it looks it's starting to
+look pretty darn close, pretty darn close. Each of these terms look
+pretty darn close to this part, to this part of the law
+of cosines over there. And actually let's, let's solve for that part of
+the law of cosines to see what we could do. So if you add, if you add two a b cosine C to both sides, you get two a b cosine of
+capital C plus c squared is equal to a squared plus b squared. Or if you subtract c
+squared from both sides, you get two a b cosine of capital C is equal to a squared plus
+b squared minus c squared. And this is interesting. I know we can switch around
+the letters later on, but this looks pretty darn
+close to this. So what if, and this looks pretty darn close
+to this, except we're here. We're dealing with an a instead
+of a C we've just switched the letters around and we
+could rewrite this. Actually, let me rewrite it just for fun. I could rewrite this over here
+as two two c b, not rewrite I can swap the letters
+times the cosine of A. Here I'm swapping the A's and the C's is equal to c squared plus
+b squared minus a squared. There's nothing unique about the side C, I can do this with all
+of the sides. So here, when you have a big C here,
+you have an a and b out front, and then you have the, a squared plus b squared
+minus the small c squared. If you have a big A, then you're gonna have
+the c b in the front, and then you're subtracting
+the, a squared right over here. And this is useful because
+this term right over here, this term right over here, it looks almost like this term over here. If we just have to, if we
+could just multiply this by b. So let's do that. We can
+multiply that by b in fact, let's multiply this whole
+numerator, this whole term by b. If we multiply this whole
+term by B what do we get? We get a b there, we get a b there. And of course you can't
+just arbitrarily multiply an expression by b that'll change its value. So what we can do is
+multiply the expression by b, which we just did. We
+distributed the b across here, but then we'll also divide
+by b where at which so I'll divide by b that's the equivalent of
+multiplying denominator, the denominator there not b squared. That's the equivalent of
+multiplying the denominator there by b that's the same
+thing as dividing by b. We've multiplied by b , divided by b, or that's the same thing as just turning this into b squared. Now, what does this give us? Well, we have this term right over here. This term right over here is
+now the exact same thing as that over there. So it is now a squared plus
+b squared minus c squared. And then this term right over
+here is now the exact same thing as this thing over here, which is the same thing as
+that we're using the law of cosines. So this is plus
+c squared plus b squared, minus a squared. And then all of that times, this sine of B sine of
+capital B over b squared. Now, what does this
+give us the, we have an, a squared and a negative a squared things are starting to simplify, a squared negative a squared. We have a negative c squared
+and a positive c squared. So what are we left with? We're just left with two b squared. So our whole expression has
+simplified to two b squared sine of B sine of capital B
+over lowercase b squared. These cancel out. So our whole
+expression simplifies to, two sine of B. And from, from the get
+go, we knew what B was. We know it's 60 degrees. So this is equal to two
+times the sine of 60 degrees. And if you don't have the
+sine of 60 degrees memorize, you can always just break
+out a 30, 60, 90 triangle. So let me draw. This is a right triangle, right over here. This is 60 degrees
+hypotenuse has length one. We're dealing with the unit circle. The, the side is 30 degrees. The side opposite. The 30 degrees is one
+half the side opposite. The 60 degrees is squared
+of three times that so it's squared three over two. You can even use the Pythagorean
+theorem to figure out once you know one of them, you could figure out the other one. So it's the sine of sine is
+opposite over hypotenuse. So square to three over two over one, or it's just square to three over two. So this is equal to two, two times. There's a home stretch. It's very exciting square
+root of three over two, these cancel out. So we are left with the
+square root root of three. That's a, that's a pretty neat problem. And just in case, you're curious, this came from the 2010 IIT. IIT's are these hard to get
+into engineering and science universities in India, and they give you this exam to
+like hundreds of thousands of kids. And, you know, the
+top, the top, I don't know, like 2000 actually get into
+one of the IITs, but anyway, I just thought it was a
+pretty, pretty neat problem.

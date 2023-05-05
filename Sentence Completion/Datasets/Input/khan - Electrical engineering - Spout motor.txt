@@ -1,0 +1,56 @@
+OK, so we've got
+Spout's motor here. We're going to go
+inside of Spout's motor and take a look at what's
+inside it and how it works. But first, let's take
+a look at the outside. So we've got a piece
+of stamped steel. This is cold rolled steel. It's coated, or plated, in zinc
+to protect it from rusting. Then we've got a plastic
+outer housing on this side. And it has two copper contacts. The power goes in through
+one of the contacts and out through the
+other one, depending on the way the power's
+flowing through this circuit. And then we've got a axle here. And this is made out of
+steel, and it's chrome plated. On the end here, there
+is a brass bearing that allows the motor
+to spin at a good speed. So let's see if we
+can loosen this. There's a couple clips here on
+the sides you can peel back. Bent this one back
+a little already. There we go. So on the inside,
+the two tabs connect to these two pieces
+of metal here. And those are called brushes. These are copper brushes. And they brush up against
+and conduct electricity down to this guy, which
+is called the commutator. The commutator commutes
+the power from the brushes to the field windings,
+these guys right here. And inside of the
+field windings-- you can see these are solid
+core field-- there's a soft iron core. And the soft iron core makes the
+magnetic field more powerful. So it's more effective than
+if you just had an air core. And these things work just like
+your nail with the copper coil wound around it. They create an
+electromagnetic field. And so the power comes in,
+flows through the coil, is energized, and
+creates an electromagnet, which pushes against the magnet
+inside of the housing here. So there's a north pole
+and a south pole magnet. And so the power comes in,
+pushes against this magnet, rotates, and as it
+rotates, the field flips and pushes against
+the south pole magnet. And then as it rotates
+again, the field flips again, and it pushes against
+the north pole magnet. And that's why you
+get the rotation. And the reason why
+that flipping occurs is because of something
+called the right hand rule. The power is traveling
+in one direction, and so the field is moving. You take your thumb,
+and that's the direction of the electricity flow. And then the fingers in
+the direction of the field. So when the power's
+going in, the field's moving in one direction. When the power coming
+out, the field's moving in another direction. So that's why you need a
+north pole and a south pole to keep the motor rotating. So in any case, that's basically
+how the motor inside of Spout works. And in order to reverse
+the motor direction, all you have to do is change
+the positive and negative on these little
+connections here. So you take the positive
+side from the battery and connect it here,
+and the negative and connect it
+here, or switch it. And that's going to
+make the motor back up. And we'll see that in the
+details on the Spout videos.

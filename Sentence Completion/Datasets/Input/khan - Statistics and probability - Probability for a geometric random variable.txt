@@ -1,0 +1,19 @@
+- [Instructor] Jeremiah makes 25% of the three-point shots he attempts. Far better than my percentage. For warm up, Jeremiah likes to shoot three-point shots until
+he successfully makes one. Alright, this is the telltale signs of a geometric random variables. How many trials do I have to take until I get a success? Let M be the number of
+shots it takes Jeremiah to successfully make his
+first three-point shot. Okay, so they're defining
+the random variable here, the number of shots it takes, the number of trials it takes until we get a successful
+three-point shot. Assume that the results of
+each shot are independent. Alright, the probability
+that he makes a given shot is not dependent on
+whether he made or missed the previous shots. Find the probability that
+Jeremiah's first successful shot occurs on his third attempt. So, like always, pause this video and see if you can have a go at it. Alright, now let's work
+through this together. So, we wanna find the probability. So, M is the number of shots it takes until Jeremiah makes
+his first successful one and so, what they're really asking us, find the probability
+that M is equal to three, that his first successful shot occurs on his third attempt. So, M is equal to three. So, that the number of
+shots it takes Jeremiah to make his first
+successful shot is three. So, how do we do this? Well, what's the probability
+of that happening? Well, that means he has to
+miss his first two shots and then make his third shot. So, what's the probability of
+him missing his first shot? Well, if he has a 1/4 chance of making his shots, he
+has a 3/4 probability of missing his shots, so this will be 3/4, so he misses the first shot, times, he has to miss the second shot and then he has to make his third shot, so there you have it. That's the probability. Miss, miss, make and so, what is this going to be? This is equal to nine over 64ths. So, there you have. If you wanted to have this as a decimal, we could get a calculator out real fast, so this is nine divided by 64 is equal to roughly 0.14. Approximately 0.14 or another way to think about it is a roughly 14% chance or 14% probability that his first successful shot occurs in his third attempt.

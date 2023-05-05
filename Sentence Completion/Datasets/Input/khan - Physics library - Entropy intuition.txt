@@ -1,0 +1,306 @@
+I've now supplied you with two
+definitions of the state variable entropy. And it's S for entropy. The thermodynamic definition
+said that the change in entropy is equal to the heat
+added to the system divided by the temperature at which
+the heat is added. So obviously, if the temperature
+is changing while we add the heat, which is
+normally the case, we're going to have to do a little
+bit of calculus. And then you can view this as
+the mathematical, or the statistical, or the
+combinatorical definition of entropy. And this essentially says that
+entropy is equal to some constant times the natural log
+of the number of states the system can take on. And this is the case when all
+the states are equally probable, which is a pretty
+good assumption. If you have just a gazillion
+molecules that could have a gazillion gazillion states,
+you can assume they're all roughly equally likely. There's a slightly more involved
+definition if they had different probabilities,
+but we won't worry about that now. So given that we've seen these
+two definitions, it's a good time to introduce you to the
+second law of thermodynamics. And that's this. And it's a pretty simple law,
+but it explains a whole range of phenomena. It tells us that the change in
+entropy for the universe when any process is undergone
+is always greater than or equal to 0. So that tells us that when
+anything ever happens in the universe, the net effect is that
+there's more entropy in the universe itself. And this seems very deep,
+and it actually is. So let's see if we can apply it
+to see why it explains, or why it makes sense, relative
+to some examples. So let's say I have two
+reservoirs that are in contact with each other. So I have T1. And let's call this
+our hot reservoir. And then I have T2. I'll call this our
+cold reservoir. Well, we know from experience. What happens if I put a hot cup
+of water, and it's sharing a wall with a cold glass of
+water, or cold cube of water, what happens? Well, their temperatures
+equalize. If these are the same substance,
+we'll end up roughly in between, if they're
+in the same phase. So essentially, we have a
+transfer of heat from the hotter substance to the
+colder substance. So we have some heat, Q, that
+goes from the hotter substance to the colder substance. You don't see, in everyday
+reality, heat going from a colder substance to a
+hotter substance. If I put an ice cube in, let's
+say, some hot tea, you don't see the ice cube getting
+colder and the hot tea getting hotter. You see them both getting to
+some equal temperature, which essentially the tea is giving
+heat to the ice cube. Now in this situation there
+are reservoirs, so I'm assuming that their temperatures
+stay constant. Which would only be the case
+if they were both infinite, which we know doesn't exist
+in the real world. In the real world, T1's
+temperature as it gave heat would go down, and T2's
+temperature would go up. But let's just see whether the
+second law of thermodynamics says that this should happen. So what's happening here? What's the net change
+in entropy for T1? So the second law of
+thermodynamics says that the change in entropy for the
+universe is greater than 0. But in this case, that's equal
+to the change in entropy for T1 plus the change in entropy
+for-- oh, I shouldn't-- instead of T1, let me
+call it just 1. For system 1, that's this hot
+system up here, plus the change in entropy
+for system 2. So what's the change in
+entropy for system 1? It loses Q1 at a high
+temperature. So this equals minus the heat
+given to the system is Q over some hot temperature T1. And then we have the heat being
+added to the system T2. So plus Q over T2. This is the change in entropy
+for the system 2, right? This guy loses the heat, and is
+at temperature 1, which is a higher temperature. This guy gains the heat, and
+he is at a temperature 2, which is a colder temperature. Now, is this going to
+be greater than 0? Let's think about
+it a little bit. If I divide-- let
+me rewrite this. So I can rearrange them, so that
+we can write this as Q over T2 minus this one. I'm just rearranging it. Minus Q over T1. Now, which number is bigger? T2 to T1? Well, T1 is bigger, right? This is bigger. Now, if I have a bigger number,
+bigger than this-- when we use the word
+bigger, you have to compare it to something. Now, T1 is bigger than this. We have the same number
+in the numerator in both cases, right? So if I take, let's say, 1
+over some, let's say, 1/2 minus 1/3, we're going
+to be bigger than 0. This is a larger number than
+this number, because this has a bigger denominator. You're dividing by
+a larger number. That's a good way to
+think about it. You're dividing this Q by some
+number here to get something, and then you're subtracting
+this Q divided by a larger number. So this fraction is going to be
+a smaller absolute number. So this is going to
+be greater than 0. So that tells us the second
+law of thermodynamics, it verifies this observation we
+see in the real world, that heat will flow from the hot
+body to the cold body. Now, you might say, hey, Sal. I have a case that will show
+you that you are wrong. You could say, look. If I put an air conditioner in a
+room-- Let's say this is the room, and this is outside. You'll say, look what the
+air conditioner does. The room is already cold, and
+outside is already hot. But what the air conditioner
+does, is it makes the cold even colder, and it makes
+the hot even hotter. It takes some Q and it goes
+in that direction. Right? It takes heat from the cold
+room, and puts it out into the hot air. And you're saying, this defies
+the second law of thermodynamics. You have just disproved it. You deserve a Nobel Prize. And I would say to you, you're
+forgetting one small fact. This air conditioner inside
+here, it has some type of a compressor, some type
+of an engine, that's actively doing this. It's putting in work to
+make this happen. And this engine right here--
+I'll do it in magenta-- it's also expelling some more heat. So let's call that
+Q of the engine. So if you wanted to figure out
+the total entropy created for the universe, it would be the
+entropy of the cold room plus the change in entropy for
+outside-- I'll call it outside, maybe I'll call
+this, for the room. Right? So you might say, OK. This change in entropy for the
+room, it's giving away heat-- let's see the room is roughly at
+a constant temperature for that one millisecond we're
+looking at it. It's giving away some Q at
+some temperature T1. And then-- so that's a minus. And then this the outside is
+gaining some heat at some temperature T2. And so you'll immediately
+say, hey. This number right here is a
+smaller number than this one. Right? Because the denominator
+is higher. So if you just look at this,
+this would be negative entropy, and you'd say hey, this
+defies the second law of thermodynamics. No! But what you have to throw in
+here is another notion. You have to throw in here the
+notion that the outside is also getting this heat from the
+engine over the outside temperature. And this term, I can guarantee
+you-- I'm not giving you numbers right now--
+will make this whole expression positive. This term will turn the total
+net entropy to the universe to be positive. Now let's think a little bit how
+about what entropy is and what entropy isn't in
+terms of words. So when you take an intro
+chemistry class, the teacher often says, entropy
+equals disorder. Which is not incorrect. It is disorder, but you have
+to be very careful what we mean by disorder. Because the very next example
+that's often given is that they'll say, look. A clean room-- let's say your
+bedroom is clean, and then it becomes dirty. And they'll say, look. The universe became
+more disordered. The dirty room has more disorder
+than the clean room. And this is not a case
+of entropy increase. So this is not a good example. Why is that? Because clean and dirty are
+just states of the room. Remember, entropy is a
+macro state variable. It's something you use to
+describe a system where you're not in the mood to sit there and
+tell me what exactly every particle is doing. And this is a macro variable
+that actually tells me how much time would it take for
+me to tell you what every particle is doing. It actually tells you how many
+states there are, or how much information I would have
+to give you to tell you the exact state. Now, when you have a clean room
+and a dirty room, these are two different states
+of the same room. If the room has the same
+temperature, and it has the same number of molecules in it
+and everything, then they have the same entropy. So clean to dirty, it's
+not more entropy. Now, for example, I could
+have a dirty, cold room. And let's say I were to go into
+that room and, you know, I work really hard
+to clean it up. And by doing so, I add a lot of
+heat to the system, and my sweat molecules drop all over
+the place, and so there's just more stuff in that room, and
+it's all warmed up to me-- so to a hot, clean room with sweat
+in it-- so it's got more stuff in here that can be
+configured in more ways, and because it's hot, every molecule
+in the room can take on more states, right? Because the average kinetic
+energy is up, so they can kind of explore the spaces of how
+many kinetic energies it can have. There's more potential
+energies that each molecule can take on. This is actually an increase
+in entropy. From a dirty, cold room
+to a hot, clean room. And this actually goes well
+with what we know. I mean, when I go into room and
+I start cleaning it, I am in putting heat into the room. And the universe is becoming
+more-- I guess we could say it's the entropy
+is increasing. So where does the term
+disorder apply? Well, let's take a situation
+where I take a ball. I take a ball, and it
+falls to the ground. And then it hits the ground. And there should have been a
+question that you've been asking all the time, since the
+first law of thermodynamics. So the ball hits the
+ground, right? It got thrown up, it had some
+potential energy at the top, then that all gets turned into
+kinetic energy and it hits the ground, and then it stops. And so your obvious question is,
+what happened to all that energy, right? Law of conservation of energy. Where did all of it go? It had all that kinetic energy
+right before it hit the ground, then it stopped. Right? It seems like it disappeared. But it didn't disappear. So when the ball was falling, it
+had a bunch of-- you know, everything had a little
+bit of heat. But let's say the ground
+was reasonably ordered. The ground molecules were
+vibrating with some kinetic energy and potential energies. And then our ball molecules
+were also vibrating a little bit. But most of their motion
+was downwards, right? Most of the ball molecules'
+motion was downwards. Now, when it hits the ground,
+what happens-- let me show you the interface of the ball. So the ball molecules at the
+front of the ball are going to look like that. And there's a bunch of them. It's a solid. It will maybe be some
+type of lattice. And then it hits the ground. And when it hits the ground-- so
+the ground is another solid like that-- All right, we're
+looking at the microstate. What's going to happen? These guys are going to rub
+up against these guys, and they're going to transfer
+their-- what was downward kinetic energy, and a very
+ordered downward kinetic energy-- they're going
+to transfer it to these ground particles. And they're going to bump into
+the ground particles. And so when this guy bumps into
+that guy, he might start moving in that direction. This guy will start oscillating
+in that direction, and go back and forth
+like that. That guy might bounce off of
+this guy, and go in that direction, and bump
+into that guy, and go into that direction. And then, because that guy
+bumped here, this guy bumps here, and because this guy bumps
+here, this guy bumps over there. And so what you have is, what
+was relatively ordered motion, especially from the ball's point
+of view, when it starts rubbing up against these
+molecules of the ground, it starts making the kinetic
+energy, or their movement, go in all sorts of random
+directions. Right? This guy's going to make this
+guy go like that, and that guy go like that. And so when the movement is no
+longer ordered, if I have a lot of molecules-- let me do it
+in a different color-- if I have a lot of molecules, and
+they're all moving in the exact same direction, then my
+micro state looks like my macro state. The whole thing moves
+in that direction. Now, if I have a bunch of
+molecules, and they're all moving in random directions,
+my ball as a whole will be stationary. I could have the exact same
+amount of kinetic energy at the molecular level, but
+they're all going to be bouncing into each other. And in this case, we described
+the kinetic energy as internal energy, or we describe it as
+temperature, where temperature is the average kinetic energy. So in this case, when we talk
+about, the world is becoming more disordered, you think about
+the order of maybe the velocities or the energies
+of the molecules. Before they were reasonably
+ordered, the molecules-- they might have been vibrating a
+little bit, but they were mainly going down in the ball. But when they bump into the
+ground, all of a sudden they start vibrating in random
+directions a little bit more. And they make the ground
+vibrate in more random directions. So it makes-- at the
+microstate-- everything became just that much more
+disordered. Now there's an interesting
+question here. There is some probability you
+might think-- Look, this ball came down and hit the ground. Why doesn't the ball just--
+isn't there some probability that if I have a ground, that
+these molecules just rearrange themselves in just the right
+way to just hit these ball molecules in just
+the right way? There's some probability, just
+from the random movement, that at get some second, all the
+ground molecules just hit the ball molecules just right to
+send the ball back up. And the answer is yes. There's actually some
+infinitesimally small chance that that happens. That you could have a ball
+that's sitting on the ground-- and this is interesting--
+could have a ball that's sitting on the ground, and while
+you're looking, you'll probably have to wait a few
+gazillion years for it to happen, if it happens at all--
+it could just randomly pop up. And there's some random, very
+small chance that these molecules just randomly vibrate
+in just the right way to be ordered for a second, and
+then the ball will pop up. But the probability of this
+happening, relative to everything else, is
+essentially 0. So when people talk about
+order and disorder, the disorder is increasing, because
+now these molecules are going in more random
+directions, and they can take on more potential states. And we saw that here. And you know, on some level,
+entropy seems something kind of magical, but on some
+level, it seems relatively common sense. In that video-- I think was the
+last video-- I had a case where I had a bunch of
+molecules, and then I had this extra space here, and then
+I removed the wall. And we saw that these molecules
+will-- we know, there's always some modules
+that are bouncing off this wall before, because we probably
+had some pressure associated with it. And then as soon as we remove
+that wall, the molecule that would have bounced there
+just keeps going. There's nothing to stop
+it from there. In that direction, there's
+a lot of stuff. It could bump into other
+molecules, and it could bumping into these walls. But in this direction, the
+odds of it bumping into everything is, especially for
+these leading molecules, is essentially 0. So it's going to expand
+to fill the container. So that's kind of
+common sense. But the neat thing is that the
+second law of thermodynamics, as we saw in that video, also
+says that this will happen. That the molecules will all
+expand to fill the container. And that the odds of this
+happening are very low. That they all come back and
+go into a ordered state. Now there is some chance, just
+from the random movements once they fill, that they all just
+happen to come back here. But it's a very, very
+small probability. And even more-- and I want to
+make this very clear-- S is a macro state. We never talk about
+the entropy for an individual molecule. If we know what an individual
+molecule is doing, we shouldn't be worrying
+about entropy. We should be worrying about
+the system as a whole. So even if we're looking at
+the system, if we're not looking directly at the
+molecules, we won't even know that this actually happened. All we can do is look
+at the statistical properties of the molecules. How many molecules they are,
+what their temperature is, all their macro dynamics,
+the pressure, and say, you know what? A box that has these molecules
+has more state than a smaller box, than the box when we
+had the wall there. Even if, by chance, all of the
+molecules happened to be collecting over there, we
+wouldn't know that that happened, because we're not
+looking at the micro states. And that's a really important
+thing to consider. When someone says that a dirty
+room has a higher entropy than a clean room, they're looking
+at the micro states. And entropy essentially is
+a macro state variable. You could just say
+that a room has a certain amount of entropy. So entropy is associated with
+the room, and it's only useful when you really don't
+know exactly what's going on in the room. You just have a general sense of
+how much stuff there is in the room, what's the temperature
+of the room, what's the pressure
+in the room. Just the general macro
+properties. And then entropy will
+essentially tell us how many possible micro states that
+macro system can actually have. Or how much information--
+and there's a notion of information entropy--
+how much information would I have to give you to tell
+you what the exact micro state is of a system at
+that point in time. Well anyway. Hopefully you found this
+discussion a little bit useful, and it clears up some
+misconceptions about entropy, and gives you a little bit more
+intuition about what it actually is. See you in the next video.

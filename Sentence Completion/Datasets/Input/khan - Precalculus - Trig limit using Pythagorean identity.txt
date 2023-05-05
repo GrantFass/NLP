@@ -1,0 +1,55 @@
+- [Voiceover] Let's see
+if we can find the limit as theta approaches zero
+of one minus cosine theta over two sine squared theta. And like always, pause
+the video and see if you could work through this. Alright, well our first
+temptation is to say, "Well, this is going to be the same thing "as the limit of one minus cosine theta "as X approaches, or not X, "as theta approaches zero. "of theta, as theta approaches zero, "over the limit, "as theta approaches zero "of two sine squared theta." Now, both of these expressions which could be used to define a function, that they'd be continuous
+if you graph them. They'd be continuous at theta equals zero, so the limit is going
+to be the same thing, as just evaluating them
+at theta equals zero So this is going to be equal
+to one minus cosine of zero over two sine squared of zero. Now, cosine of zero is one and
+then one minus one is zero, and sine of zero is
+zero, and you square it, You still got zero and
+you multiply times two, you still got zero. So you got zero over zero. So once again, we have
+that indeterminate form. And once again, this indeterminate form when you have zero over zero,
+doesn't mean to give up, it doesn't mean that
+the limit doesn't exist. It just means, well maybe there's some other
+approaches here to work on. If you got some non-zero
+number divided by zero, then you say, okay that
+limit doesn't exist and you would say, well you
+just say it doesn't exist. But let's see what we can
+do to maybe, to maybe think about this expression in a different way. So if we said, so let's just say that this, let me use some other colors here. Let's say that this right over here is F of X. So, F of X is equal to
+one minus cosine theta over two sine squared theta, and let's see if we can
+rewrite it in some way that at least the limit
+as theta approaches zero isn't going to, we're
+not gonna get the same zero over zero. Well, we can, we got
+some trig functions here, so maybe we can use some
+of our trig identities to simplify this. And the one that jumps out at me is that we have the sine squared of theta and we know from the
+Pythagorean, Pythagorean Identity in Trigonometry, it comes
+straight out of the unit circle definition of sine and cosine. We know that, we know
+that sine squared theta plus cosine squared theta is equal to one or, we know that sine squared theta is one minus cosine squared theta. One minus cosine squared theta. So we could rewrite this. This is equal to one minus cosine theta over two times one minus
+cosine squared theta. Now, this is one minus cosine theta. This is a one minus cosine squared theta, so it's not completely obvious yet of how you can simplify it, until you realize that
+this could be viewed as a difference of squares. If you view this as, if you view this as A
+squared minus B squared, we know that this can
+be factored as A plus B times A minus B. So I could rewrite this. This is equal to one minus cosine theta over two times, I could write this as
+one plus cosine theta times one minus cosine theta. One plus cosine theta
+times one minus, one minus cosine theta. And now this is interesting. I have one minus cosine theta in the numerator and I have
+a one minus cosine theta in the denominator. Now we might be tempted to say, "Oh, let's just cross that out with that "and we would get, we would simplify it "and get F of X is equal to one over "and we could distribute this two now." We could say, "Two plus two cosine theta." We could say, "Well, aren't these the same thing?" And we would be almost right, because F of X, this one right over here, this, this is defined this right over here is defined when theta is equal to zero, while this one is not defined when theta is equal to zero. When theta is equal to zero, you have a zero in the denominator. And so what we need to do in order for this F of X or in order to be, for this to be the same thing, we have to say, theta
+cannot be equal to zero. But now let's think about the limit again. Essentially, what we want
+to do is we want to find the limit as theta approaches zero of F of X. And we can't just do direct substitution into, if we do, if we
+really take this seriously, 'cause we're gonna like, "Oh well, if I try to put zero here, "it says theta cannot be equal to zero "F of X is not defined at zero." This expression is defined at zero but this tells me, "Well, I really shouldn't
+apply zero to this function." But we know that if we
+can find another function that is defined, that is
+the exact same thing as F of X except at zero, and it is continuous at zero. And so we could say, "G of X is equal to one over two plus two "cosine theta." Well then we know this
+limit is going to be the exact same thing as the limit of G of X, as theta approaches zero. Once again, these two functions are identical except F of X is not defined at theta equals zero, while G of X is. But the limits as theta approaches zero are going to be the same. And we've seen that in previous videos. And I know what a lot of you are thinking. Sal, this seems like a very, you know, why don't I just, you
+know, do this algebra here. Cross these things out of this. Substitute zero for theta. Well you could do that and
+you would get the answer, but you need to be clear
+if, or it's important to be mathematically clear
+of what you are doing. If you do that, if you
+just crossed these two out and all of a sudden you're expression becomes defined at zero, you are now dealing with
+a different expression or a different function definition. So to be clear, if you want
+to say this is the function you're finding the limit of, you have to put this constraint in to make sure it has the exact same domain. But lucky for us, we can say, if we've had another, another
+function that's continuous at that point that doesn't
+have that gap there, that doesn't have that
+point discontinuity out, the limits are going to be equivalent. So the limit as theta
+approaches zero of G of X, well, that's just going to be since it's continuous at zero. We could say that's just going to be, we can just substitute. That's going to be equal to G of zero which is equal to one over two plus cosine two, one over two
+plus two times cosine of zero. Cosine of zero is one, so it's just one over two plus two, which is equal to, deserve a little bit of a drum roll here. Which is equal to one fourth. And we are done.

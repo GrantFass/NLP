@@ -1,0 +1,23 @@
+- [Voiceover] The graph
+of f is shown below. Let g(x) be equal to the def intergral from zero to x, of f(t)dt. Now at first when you
+see this you're like, wow this is strange, I have a function that is being defined by an integral, a def integral, but one
+of it's bounds are X. You should just say well this is okay, a function can be defined any which way, and as we'll see, it's
+actually quite straight forward to evaluate this. So g of negative two, g of negative two, and I'll do the negative
+two in a different color, g of negative two, what we do is take this
+expression over here, this def integral, and
+where ever we see an X, we replace it with a negative two. So this is going to be equal to, the integral from zero to X, and I'll write X in a second, f(t)dt. Well X is now negative two,
+this is now negative two. So how do we figure out what this is? Before we even look at this graph, you might say okay this
+is the region under, the area of the region under the graph, y equals f(t), between
+negative two and zero. But you have to be careful, notice, our upper bound here is
+actually a lower number than our lower bound right over here. So it will be nice to swap those bounds so we can truly view it
+as the area of the region under f(t), above the t axis,
+between those two bounds. When you swap the bounds,
+this is going to be equal to negative def integral, from negative two, negative two to zero, of f(t)dt, and now what we have right over here, what I'm squaring off in magenta, this is the area under the curve f, between negative two and zero. So between negative two and zero, so that is this area, right over here, that we care about. Now what is that going to be? There's a bunch of different
+ways that you could do this, you could split it off
+into a square and triangle. The area of this square here is four, it's two by two, make
+sure to look at the units, sometimes each square doesn't
+represent one square unit, in this case it does, so that's four, and then up here, this is half of four. If it was all of this, that would be four, this triangle is half
+of four, so this is two. Or you could view this as base
+times height times one half, which is going to be two
+times two times one half. So this area is six, so this part is six, but we can't forget that negative sign, so this is going to be
+equal to negative six. So g(-2) is negative six.

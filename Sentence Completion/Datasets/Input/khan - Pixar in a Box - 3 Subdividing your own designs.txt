@@ -1,0 +1,10 @@
+- So far, we've been doing subdivisions with just four points, which make a blob. But, if you're gunna make something as cool as a Pixar character, you're gunna need a lot more points. For example, suppose that I wanna model the outline of a hand or, maybe,
+the profile of a character. Fortunately, subdivision doesn't care how many points you start out with. In this interactive, you
+can move points, as before, but you can also add as many
+new points as you'd like. Just click on an interior of
+an edge to create a new point. And, then, use the mouse to drag the new point
+wherever you want it. I can make a crude looking
+hand shaped like this. Use this slider to control
+how many subdivisions are used to give a smoother result. Using this interactive, make
+a hand or whatever you'd like. Maybe, a dinosaur, or the
+outline of Mike Wazowski, or whatever interests you. Be creative!

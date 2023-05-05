@@ -1,0 +1,109 @@
+All we have left to do is
+evaluate this integral, which is really an
+exercise in kind of evaluating trigonometric
+integrals more than anything else. But it never hurts
+to get that practice, so let's just do
+it step by step. So we see sine cubed theta. No obvious way to directly
+take the antiderivative of sine cubed theta. But if we had some mixtures
+of sines and cosines there, then we could start essentially
+doing U-substitution, which at this point you
+probably can do in your head. So what we could do is we
+could write this is a product. So we can write this
+as the sine of theta-- so I'll do this part
+right over here. This is sine of theta
+times sine squared theta. And sine squared
+theta can be rewritten as 1 minus cosine squared theta. So this is the same thing
+as sine of theta times 1 minus cosine squared theta. And if we multiply
+this out, this gives us sine theta minus sine
+theta cosine squared theta. And this is much easier
+for us to integrate, although it looks like a
+more complicated expression because it's easy take the
+antiderivative of sine theta. And now it's easy take
+the antiderivative of this because we have the derivative
+of cosine theta sitting right over here. So this is going to be
+cosine cubed theta over 3. So, essentially, we're doing
+U-substitution right over here. But I'll save that for second. Let's rewrite all of
+these in a way that's easy to take the
+antiderivative of it. Cosine squared theta, we know
+this is a common trig identity. That's the same thing as 1/2
+of 1 plus cosine of 2 theta. And once again, this
+is a much, much easier to take the antiderivative of. So I'll write plus 1/2
+plus 1/2 cosine of 2 theta. And now, all of this
+is actually quite easy to take the antiderivative
+of, and so I'll just rewrite it again. So minus 4 cosine theta plus
+4 cosine theta sine theta minus cosine theta sine
+squared theta d theta. I just was able to sneak it in. And so that's our integral
+between 0 and 2 pi. So let's just take
+the antiderivative in every one of these steps. It's starting to get
+a little bit messy. I'll try to write a
+little bit neater. The antiderivative
+of sine of theta is negative cosine of theta. If you take the derivative
+of cosine theta, you get negative sine theta. Then the negatives
+cancel out, and you get that right over there. Then over here, we
+have the derivative of cosine theta, which
+is negative sine theta. So we can essentially
+kind of treat this-- we could kind of
+make the substitution that u is cosine theta. That's essentially what
+we're doing in our head. So the antiderivative
+of this is going to be equal to plus
+cosine cubed theta over 3. And then the antiderivative
+of 1/2 with respect to theta is just going to
+be plus 1/2 theta. The antiderivative of
+cosine 2 theta-- well, we want the derivative of
+this thing sitting someplace. The derivative of this
+thing over here is 2. So if we put a 2 here, we can't
+just multiply by 2 arbitrarily. We'd have to multiply
+and divide by 2. So we could put a 2 here,
+and then we could also-- but we'd also have
+to divide by 2. So then that would become a 4. And we haven't changed this. Notice, this is now
+2/4 cosine of 2 theta, the exact same thing as
+1/2 half cosine 2 theta. But this is useful because now,
+the way I've written it here, we have the derivative of
+2 theta right over here. And so we can just
+say, well, we'll just take the antiderivative
+to this whole thing, which is going to be sine of 2 theta. But we still have the 1 so that
+the antiderivative of this part right over here is
+the sine of 2 theta. And then we have
+the 1/4 out there. So plus 1/4 sine of 2 theta. And then the antiderivative
+of cosine theta is just sine theta,
+so minus 4 sine theta. Antiderivative of
+this right over here, we can kind of pick whichever
+way we want to do it. But we could say, well, the
+derivative of sine theta is cosine theta. So this is going to be the same
+thing as 4 sine squared theta over 2. Or instead of saying over 2,
+instead of writing that 4, I'll just divide the 4 by
+the 2, and I will get a 2. So let me erase that and
+put a 2 right over here. And you can work
+it out yourself. If you were to take the
+derivative of this thing right over here, it'd be the
+derivative of sine theta. If you'd just use
+the chain rule, which would be cosine theta,
+and then times 4 sine of theta. So that's exactly what
+we have right over here. And then we have this last part. The derivative of sine
+theta is cosine theta. And so once again, just
+like we've done before, the antiderivative
+of this whole thing is going to be negative
+sine cubed of theta over 3. And we need to evaluate
+this entire expression between 0 and 2 pi. So let's see how it evaluates. So first, let's evaluate
+everything at 2 pi. So this evaluated at
+2 pi is negative 1. This evaluated at 2 pi is 1/3. This evaluated at 2 pi
+is just going to be pi. This evaluated at 2 pi is
+0, because sine of 4 pi is going to be 0. This evaluated at 2
+pi is going to be 0. This evaluated at 2
+pi is going to be 0. And this evaluated at
+2 pi is going to be 0. So that's a nice simplification. So that's everything
+evaluated at 2 pi. And from that,
+we're going to have to subtract everything
+evaluated at 0. So cosine of 0, well, that's
+going to be once again 1. And we have a negative
+sign, so it's negative 1. Then you're going
+to have plus 1/3. And then you're going to have 0. And then all these other
+things are going to be 0. And so if you
+simplify it, you get-- this is going to be equal to
+negative 1 plus 1/3 plus pi. And then we have plus
+1 plus 1 minus 1/3. Well, that cancels with that. That cancels with that. And we deserve a drum roll now. It all simplified
+just like when we use Stokes' Theorem in
+like the four videos. Actually, I think it
+was a little bit simpler to just directly evaluate
+the line integral over here. We got it simplifying
+to just pi.

@@ -1,0 +1,167 @@
+- [Instructor] So if you
+powered through the last video, you saw that these
+elastic collision problems can get pretty nasty, the
+algebra gets pretty ugly. What we did, if you missed it, maybe you skipped right to this easy one, and that's cool with
+me, but what you missed, or what you saw if you did watch it, is that we used conservation of momentum, but we had two unknown final velocities. We didn't know the
+velocity of either object after the collision, so we
+had to solve this expression for one of the velocities,
+and then plug that into conservation of kinetic
+energy, which we can do, because kinetic energy's conserved
+for an elastic collision. But since we square this expression, it gets big and ugly, and it
+gets multiplied by other stuff. And now you have to combine terms, and you end up just having
+to pray that you didn't just make an algebra error,
+or lose a sign in here. And even if you do get lucky
+and the whole thing works out, and you get an answer,
+if you rounded at all during this process, your answer's going to be off by a little bit. So the obvious question
+is, is there a simpler way of solving these elastic
+collision problems, where you've got two
+unknown final velocities? And there is a simpler way,
+and that's what I'm going to show you in this video. So to derive this simpler
+way of solving the problem, we're going to do what
+we always do in physics to derive a nice result, we're going to, instead of solving this problem
+numerically, with numbers, we're going to solve it
+symbolically, with symbols. And what I mean by that
+is, instead of calling the mass of the golf ball .045 kilograms, let's just say this is
+any particular mass, and we'll just call it mg,
+for mass of the golf ball. And you might be like, "Well,
+how's that going to help? "We're going to have a
+bunch of variables in here, "instead of numbers, it's
+still going to be a mess." Still going to get a little messy, but what this does, when you
+solve problems symbolically, it often times allows you
+to see patterns, symmetries, cancellations that are happening
+here in your calculation that aren't so obvious when there's a bunch of numbers around. When it's a bunch of numbers,
+it just looks like a big mess. When you've got symbolic
+expressions in here, sometimes something magical happens, and that's what's going to happen here, and it's going to give us a
+result that's way simpler. So let's do this, let's solve
+this problem symbolically. We're going to get rid
+of all these numbers, and we're going to turn these variables, instead of calling it 40 meters per second for the initial velocity
+of the tennis ball, we're going to leave it symbolic. So instead of giving a number,
+we're going to call this, I'll call it vt, for the tennis ball, then I'll write i, for initial. So this is the initial
+velocity of the tennis ball, and we'll do the same
+thing for the golf ball. Instead of calling it 50
+meters per second to the left, we'll call it vgi, the initial
+velocity of the golf ball. So when I wrote 50 before, I
+meant the size of the velocity. But this time, when I write
+vg, I mean the velocity. In other words, this
+vgi might be negative. In fact, if the golf
+ball's going leftward, it's going to be a negative number. But that's okay, it's symbolic. We're going to treat
+this vgi as the velocity, so it could be a negative number, or it could be a positive number if the golf ball were going to the right. We're going to do the
+same thing for the masses. We already wrote the mass
+of the golf ball's mg, now we're going to write the
+mass of the tennis ball as mt. And now we're gong to solve,
+same way we did before, we're going to use
+conservation of momentum. So our initial momentum would
+be, mass of the tennis ball times the initial velocity
+of the tennis ball, vti. And then plus mass of the golf ball, times the initial velocity
+of the golf ball, vgi. And you might be like, "Wait, this should "be a negative sign, right?" No, I know this golf ball's going left, but I'm letting this vgi be the velocity. So there's a hidden negative sign in here. If it's going leftward,
+this vgi would equal some negative number, in other words, so I wouldn't want to
+put another negative, or I'd be canceling off the
+negative that would be in here, that's why I get to write a plus here. And this is going to
+equal the final momentum of the tennis ball, mt times
+vt final, plus the final momentum of the golf
+ball, mg, times vg final. And it's good to keep
+track of your unknowns. Right now, I don't know
+the final velocities. I'm given all these initial values of the velocity, and the masses. So those we can consider "given" up here. The things I don't know
+are the final velocities. So again, just like before,
+when we did this numerically, I can't solve for either one of these, because there's two of them. So often times, what you do when you're solving problems symbolically, since you're going to want to
+clean them up at some point, you try to look any ways
+that you can simplify. There aren't many ways we can simplify, but I could bring this
+mt term over to the left, and bring this mg term over to the right, so I could write this as mt times vti, minus mt times vt final. And similarly, on the right hand side, I'd get mg, vg final, and then I'm subtracting this term from both sides. So, I'd get minus mg vg initial, and you notice, we can
+pull out a common factor. You might be like, "Why
+are we doing this?" Well, if I was doing
+this for the first time, I wouldn't necessarily know, either. But it's often good practice to try to simplify as much as possible. And in this case, this
+is going to be crucial. This is going to be an important step to trying to simplify this entire process. Right now, I can see how
+that wouldn't be obvious, but you got to just
+trust in me for a minute. We're going to want to do this, because it'll make our lives
+much better here in a second. And on the right hand
+side, I'll write it as mg times vg final, minus vg initial. So just so you're keeping track,
+the variables I don't know are this vt final, and this vg final. So I'm still stuck on
+this right hand side. It looks a little nicer, because
+I've got terms grouped up, but I'm still, if this
+collision's elastic, going to have to use
+conservation of kinetic energy. So, we'll do this over here. So if I take the total
+initial kinetic energy, and I set that equal to the
+total final kinetic energy, I'll have 1/2 mass of the tennis ball, vti, the initial velocity
+of the tennis ball, squared, so it's really just the initial
+speed of the tennis ball, squared, plus the initial
+kinetic energy of the golf ball, which would be 1/2 mg, vgi squared. And this is going to have to
+equal the final kinetic energy of all the objects, so I'll have a 1/2 mass of the tennis ball, final velocity of the
+tennis ball, squared, plus 1/2 mass of the golf ball, final velocity of the golf ball squared. And again, we're doing
+this to clean this up. We want to get a nice
+expression at the end, so I'm going to cancel some terms. Look at, 1/2s in everything. So I can cancel 1/2 from every term here by just dividing both sides by 1/2, or I can imagine multiplying
+both sides by two. And that would get rid of all these 1/2s. And then I'm going to the
+same trick I played over here. I'm going to get all my
+mt terms on one side, and all my mg terms on another side. Again, it might not be obvious
+why we're going to do this, but I'm telling you, something
+magical's about to happen, so you got to take my word for it. If I write mt times vti squared, and then I'm going to subtract this term from both sides to get the mts together, so I'll have a minus mt vt final squared. And then that's going to equal, because what I'm going to
+do is subtract this term from both sides, so I
+get the mgs together. So I got this term over here all ready, mg vg final squared
+minus, and then this term that I'm subtracting from both sides, mg vg initial squared,
+and I play the same game I played over here, I
+pull out a common factor. I can pull out a common
+factor of mt, I get mt, times vti squared minus vt final squared. And that's going to equal
+mg, times the quantity vg final squared minus vg initial squared. And now, things are getting interesting. If you look at this left
+equation, and this right equation, they're looking a lot more like
+each other, which is great. Because what I want to do is
+plug this right hand equation into the left hand
+equation in a clever way, that causes things to cancel. That's why I'm doing it this way. I mean, we could have done brute force, just like we did numerically. Solve for one of these velocities, plus it straight into
+one of these velocities, get a huge mess, and try
+to like combine terms. But this way we're doing it right here's going to be much cleaner,
+so what do we do? At this point, I want to
+make this left hand equation look more like this right hand equation. So is there any way I can change
+this difference of squares into a difference of just velocities? And there is, if you remember, I can write this squared
+term, I can write this as mt times the quantity vti minus vt final, multiplied by vti plus vt final. Because when I multiply these together, I'm going to get vti squared,
+minus vt final squared, and then the cross terms
+are going to cancel. If you don't believe
+me, try it on your own. Check to make sure this
+multiplies out to get that. And it will, so I'm going to
+replace this term with this, and that's going to equal, I'm going to do the same thing on the right hand side. I'm going to write this as mg times the quantity vg final minus vg initial, and then that multiplied by the quantity vg final plus vg initial, and again, this will multiply to give me that. If you don't believe me,
+try it out on your own. And now, we're in
+business, check this out. This is where the magic's going to happen. I've got mt, vti minus vt final, here. And I've got that exact
+same expression over here. So what I'm going to do is
+take this entire expression, mg times the quantity of
+vg final minus vg initial, and I'm going to plug it in for that. And you might be like, "How
+come, what, why can we do that?" And it's because this term
+here, mt times this difference, is the exact same as this term here, mt times this difference,
+and I know that this term equals that term, they're the same thing. I can replace this, anywhere I see this, I can replace it with that,
+because they're equal. So that's allowed, I
+don't affect the equality if I just plug this term in for that term, because they're equal. So that's what I'm going to do. I'm going to take this term for mg, I'm going to plus this all the way in over to this hand side,
+and what am I going to get? I'm going to get mg, times
+vg final minus vg initial. So that's what this whole term equals. But it still multiplied by that, so I got to bring this down, and still multiply by this one, which is vt initial plus vt final. And that's going to equal
+this right hand side, just stays the same, I
+didn't do anything to that. And now, do you see it? Do you see how wonderful this is? I can divide both sides
+by mg, that cancels out, and that's kind of weird,
+there's going to be no mass left in this expression that we find. So the relationship
+that we're about to get doesn't depend on the masses
+of the objects colliding, which is a little weird, and cool. But even better, look at this term, vg final minus vg initial,
+that's right over here, vg final minus vg initial. So I can divide both sides by
+that, and that cancels out. And we're going to get one
+of the simplest expressions you could imagine, let
+me make some room for it. Let me clear this up, we're going to get that vt initial, the initial
+velocity of the tennis ball, plus vt final, the final
+velocity of the tennis ball, has to equal vg initial, I'm
+going to switch the order here, because they're adding, and
+you can switch the order of things you're adding, just so it looks like the left hand side, vg initial, the initial
+velocity of the golf ball, plus vg final, the final
+velocity of the golf ball. Look at how beautiful this is. It says that in an elastic collision, if you take the initial and final velocity of one of the objects, that has to equal the initial plus final
+velocity of the other object, regardless of what the masses
+of the objects colliding are. And I would have never seen this unless we would have
+solved this symbolically to see that stuff cancels,
+this would not be obvious. I could have solved a million
+of these elastic problems, and probably never would have guessed that this was the case. And the big reason why this is useful is because now we can use
+this simple expression, as opposed to using
+conservation of kinetic energy. Conservation of kinetic
+energy was the thing that was giving us all the problems, because it had the square of the speeds. And when we plugged an
+expression in and squared it, we got this nasty algebraic expression that we had to deal with. But now, with this simple
+expression between velocities, we can simply solve for one
+of these unknown velocities in this equation, and plug it into the conservation
+of momentum equation. There will be no squaring
+of an expression. You're still going to have to plug one equation into the other, but the process will be much cleaner, much simpler, and much less
+prone to algebra errors. And in the next video,
+I'll show you an example of how to use this process to quickly find the final velocity of either
+object in an elastic collision. So recapping, we used
+a symbolic expression for conservation of momentum, plugged that into the conservation of energy formula, and ended up with a
+beautiful, simple result that we're going to be
+able to use to solve elastic collision problems
+in a way that avoids having to use conservation
+of energy every single time.

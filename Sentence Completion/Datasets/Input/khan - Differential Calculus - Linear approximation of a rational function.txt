@@ -1,0 +1,71 @@
+- [Voiceover] So there are situations where you have some type of a function, this is clearly a nonlinear function. F of x is equal to one over x minus one, this is its graph or at
+least part of its graph right over here. But where you wanna approximate
+it with a linear function especially around a certain value, and so what we're going to do is, we wanna find an approximation,
+let me write this down, I wanna find an approximation for, actually meant to be clear, I wanna find a linear approximation so I'm gonna approximate it with a line. I wanna find a linear
+approximation, approximation of f, of f, around, and you need to know where you're going to be approximating it, around x equals negative one. So what do we mean by that? Well let's look at this graph over here, on this curve, when x is
+equal to negative one, f of negative one is
+negative, is negative 1/2, which sticks us right over
+there, let me use a better color, so it's right over there
+and what we wanna do is approximate it with a line around that. And what we're essentially going to do is we're gonna approximate it with the equation of the tangent line. The tangent line is
+going to look something, something like that and as we can see, as we get further and further from, from x equals negative one, the approximation gets worse and worse but if we stay around
+x equals negative one, what's a decent, it is
+a, as good as you can get for a linear approximation
+or at least in this example is a very good linear approximation. So when people say, hey,
+find the linear approximation of f around x equals negative one or they say, what is the following
+is the best approximation and all of your choices are, are lines, well essentially, they're
+asking you to find the equation of the tangent
+line at x equals negative one. So let's do that. So in order to find the
+equation of the tangent line, the equation of a line is
+y is equal to mx plus b where m is a slope and
+b is the y intercept. There's other ways that
+you could think about it. You could think about it,
+in terms of point slope where you could say, y
+minus some y that sits on that line is equal to
+the slope times x minus the corresponding x one,
+so x one comma y one sits on that line some place. Actually, I like to write
+this point slope form like this sometimes, y minus
+y one over x minus x one is equal to b because this comes as straight out of the idea. Look, if x one and y one are on the line, the slope between any
+other point on the line and that point is going to
+be your slope of your line. So we could think about
+it, any of these ways. So let's first find the
+slope of the tangent line and that's where the derivative is useful. So f, actually let me
+just write f of x again, so I'm gonna write it as x minus one to the negative one power, that makes it a little bit clearer that
+we can use the power rule and a little bit of a chain rule, so the derivative of f with
+respect to x is equal to, so the derivative of x minus
+one of the negative one with respect to x minus one,
+well that's just going to be, I'm just gonna use the power rule here, it's gonna be negative
+one times x minus one to the negative two and then
+we're gonna multiply that times the derivative of x
+minus one with respect to x, well that's just going to be one, right. The derivative of x with
+respect of x is one, the derivative of negative
+one with respect to x is zero, so we could say times one here if we like or we could just not write that 'cause it don't change the value. And so let's evaluate that when
+x is equal to negative one. So f prime of negative one is equal to, I could just write this is, negative, all right like this way,
+negative one over negative one minus one squared and so this
+is going to be negative two down here, so this is equal
+to negative, negative 1/4. So, the slope of our tangent line is, so I could write this way,
+m is equal to negative one, negative 1/4 and so now,
+we just have to write its equation down. So we already know, an x one and a y one that sits on the line,
+in fact we want to use the point when x is equals negative one so we know that the
+point negative one comma, we could just input it right over here, f of negative one is negative 1/2, one over negative one
+minus one, negative 1/2. So we know that this negative
+one comma negative 1/2, that that is on our curve
+and it is on our line, that's the point at which the tangent and the curve actually intersect. And so we can use any of these, to now write the equation of our line, we could say, y, under right here, y minus y one, so minus negative 1/2 is going to be equal
+to, is going to be equal to our slope, negative 1/4, I'm just using the point's
+slope version of our equation, is equal to our slope times x minus x one, so x minus or x squared
+that we know sits on this, so minus negative one. And so let me now write all
+of this in a neutral color, this will be y plus 1/2
+is equal to, and I can, so this is gonna be plus
+one right over there, so I can distribute the negative 1/4. So it's negative 1/4 x minus 1/4 minus 1/4 and then I can subtract
+1/2 from both sides so I'm gonna get y is
+equal to negative 1/4 x and then if I already am subtracting 1/4 and I subtract another half
+is gonna be negative 3/4 so minus three, minus 3/4. So, and that's actually pretty
+close to what I drew up here, this should be intersecting
+the y-axis at negative 3/4. So there you have it, this, this line, or you could even say, this equation, is going to be a very
+good linear approximation, about as good as you can get
+for a linear approximation for that nonlinear function
+around x equals negative one. You might say, well why
+didn't they just ask me to find the equation of the tangent line at x equals negative
+one, well they could have but there's a little bit of
+extra cognitive processing here, we say, okay, I can
+actually use the equation of the tangent line at to approximate this function around
+x equals negative one.

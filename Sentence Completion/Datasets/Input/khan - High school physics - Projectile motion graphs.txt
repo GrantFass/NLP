@@ -1,0 +1,81 @@
+- [Instructor] So in
+each of these pictures we have a different scenario. We have someone standing at
+the edge of a cliff on Earth, and in this first scenario, they are launching a
+projectile up into the air. In this one they're just
+throwing it straight out. They're not throwing it up or
+down but just straight out. And here they're throwing the projectile at an angle downwards. And so what we're going
+to do in this video is think about for each of
+these initial velocity vectors, what would the acceleration versus time, the velocity versus time, and the position versus
+time graphs look like in both the y and the x directions. So I encourage you to pause this video and think about it on your own
+or even take out some paper and try to solve it
+before I work through it. So let's first think about acceleration in the vertical dimension, acceleration in the y direction. We're assuming we're on
+Earth and we're going to ignore air resistance. We can assume we're in some
+type of a laboratory vacuum and this person had maybe
+an astronaut suit on even though they're on Earth. What would be the acceleration
+in the vertical direction? Well the acceleration due to
+gravity will be downwards, and it's going to be constant. We're going to assume
+constant acceleration. So the acceleration is
+going to look like this. And if the magnitude of the acceleration due to gravity is g, we could call this negative g to show that it is a downward acceleration. Once the projectile is let loose, that's the way it's
+going to be accelerated. Now what about in the x direction? Well if we assume no air resistance, then there's not going
+to be any acceleration or deceleration in the x direction. So it's just going to be, it's just going to stay right at zero and it's not going to change. And what I've just drawn
+here is going to be true for all three of these scenarios because the direction
+with which you throw it, that doesn't somehow affect
+the acceleration due to gravity once the ball is actually
+out of your hands. So now let's think about velocity. So what is going to be the
+velocity in the y direction for this first scenario? Well we could take our
+initial velocity vector that has this velocity at an angle and break it up into
+its y and x components. So this would be its y component. We just take the top part of
+this vector right over here, the head of it, and go to the left, and so that would be the
+magnitude of its y component, and then this would be the
+magnitude of its x component. So the y component, it starts positive, so it's like that, but remember our acceleration
+is a constant negative. So our velocity is going to
+decrease at a constant rate. So our velocity in this first scenario is going to look something, is going to look something like that. Now what about the velocity
+in the x direction? We see that it starts positive, so it's going to start positive, and if we're in a world
+with no air resistance, well then it's just
+going to stay positive. Notice we have zero acceleration, so our velocity is just
+going to stay positive. One of the things to really keep in mind when we start doing
+two-dimensional projectile motion like we're doing right over here is once you break down your
+vectors into x and y components, you can treat them
+completely independently. That something will
+decelerate in the y direction, but it doesn't mean that
+it's going to decelerate in the x direction. Now what would the velocities look like for this blue scenario? Well our velocity in our y direction, we start off with no
+velocity in our y direction so it's going to be right over here. But then we are going to
+be accelerated downward, so our velocity is going
+to get more and more and more negative as time passes. And notice the slope on
+these two lines are the same because the rate of
+acceleration is the same, even though you had a
+different starting point. Now what about the velocity
+in the x direction here? It looks like this x initial velocity is a little bit more than this one, so maybe it's a little bit higher, but it stays constant once again. Now let's look at this third scenario. In this third scenario, what is our y velocity,
+our initial y velocity? Well it would look something like that. And our initial x velocity
+would look something like that. If we were to break things
+down into their components. So our y velocity is starting negative, is starting negative, and then it's just going to
+get more and more negative once the individual lets go of the ball. Because you have that
+constant acceleration, that negative acceleration, so it's gonna look something like that. And what about in the x direction? Well looks like in the x
+direction right over here is very similar to that one, so it might look something like this. I'll draw it slightly higher
+just so you can see it, but once again the velocity
+x direction stays the same because in all three scenarios, you have zero acceleration
+in the x direction. Now last but not least
+let's think about position. So they all start in the exact same place at both the x and y dimension, but as we see, they all have
+different initial velocities, at least in the y dimension. So let's start with
+the salmon colored one. So the salmon colored one, it starts off with a some
+type of positive y position, maybe based on the height of
+where the individual's hand is. And then what's going to happen? Well it's going to have
+positive but decreasing velocity up until this point. At this point its velocity is zero. So its position is going to go up but at ever decreasing
+rates until you get right to that point right over there, and then we see the velocity
+starts becoming more and more and more and more negative. So it would look something like, something like that. Now what would be the x position of this first scenario? Well if we make this position
+right over here zero, then we would start our x
+position would start over here, and since we have a constant
+positive x velocity, our x position would just
+increase at a constant rate. It would do something like that. Now what about this blue scenario? Well this blue scenario, we are starting in the exact same place as in our pink scenario, and then our initial y velocity is zero, and then it just gets
+more and more and more and more negative. So it would look something, it would look something like this. Now what about the x position? Well our x position, we had a slightly higher velocity, at least the way that I drew it over here, so we our x position would
+increase at a constant rate and it would be a slightly
+higher constant rate. So it would have a slightly higher slope than we saw for the pink one. Now the yellow scenario, once again we're starting
+in the exact same place, and here we're already starting
+with a negative velocity and it's only gonna get more
+and more and more negative. So it's just gonna do something like this. It's gonna get more and
+more and more negative. It's a little bit hard to see, but it would do something like that. And if the in the x direction, our velocity is roughly the
+same as the blue scenario, then our x position over
+time for the yellow one is gonna look pretty pretty similar. So this is just a way to visualize how things would behave
+in terms of position, velocity, and acceleration
+in the y and x directions and to appreciate, one, how to draw and visualize these graphs and conceptualize them, but also to appreciate that you can treat, once you break your initial
+velocity vectors down, you can treat the different dimensions, the x and the y dimensions, independently.

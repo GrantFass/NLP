@@ -1,0 +1,60 @@
+- [Voiceover] What I
+hope to do in this video is give you a satisfying
+proof of the product rule. So let's just start with our
+definition of a derivative. So if I have the function F of X, and if I wanted to take
+the derivative of it, by definition, by definition, the derivative of F of X is the limit as H approaches zero, of F of X plus H minus F of X, all of that over, all of that over H. If we want to think of it visually, this is the slope of the
+tangent line and all of that, but now I want to do something a little bit more interesting. I want to find the derivative with respect to X, not just of F of X, but the product of two functions, F of X times G of X. And if I can come up with
+a simple thing for this, that essentially is the product rule. Well if we just apply the
+definition of a derivative, that means I'm gonna take the limit as H approaches zero, and the denominator I'm gonna have at H, and the denominator,
+I'm gonna write a big, it's gonna be a big rational expression, in the denominator I'm gonna have an H. And then I'm gonna evaluate
+this thing at X plus H. So that's going to be F of X plus H, G of X plus H and from
+that I'm gonna subtract this thing evaluated F of X. Or, sorry, this thing evaluated X. So that's gonna be F of X times G of X. And I'm gonna put a
+big, awkward space here and you're gonna see why in a second. So if I just, if I evaluate this at X, this is gonna be minus F of X, G of X. All I did so far is I just
+applied the definition of the derivative, instead
+of applying it to F of X, I applied it to F of X times G of X. So you have F of X plus H, G of X plus H minus F of X, G of X, all of that over H. Limit as H approaches zero. Now why did I put this
+big, awkward space here? Because just the way I've
+written it write now, it doesn't seem easy to
+algebraically manipulate. I don't know how to evaluate this limit, there doesn't seem to be
+anything obvious to do. And what I'm about to show you, I guess you could view it
+as a little bit of a trick. I can't claim that I would
+have figured it out on my own. Maybe eventually if I
+were spending hours on it. I'm assuming somebody was
+fumbling with it long enough that said, "Oh wait, wait. "Look, if I just add and
+subtract at the same term here, "I can begin to
+algebraically manipulate it "and get it to what we all know "as the classic product rule." So what do I add and subtract here? Well let me give you a clue. So if we have plus, actually, let me change this, minus F of X plus H, G of X, I can't just subtract, if I subtract it I've got to add it too, so
+I don't change the value of this expression. So plus F of X plus H, G of X. Now I haven't changed the value, I just added and
+subtracted the same thing, but now this thing can be manipulated in interesting algebraic ways to get us to what we all love about the product rule. And at any point you get inspired, I encourage you to pause this video. Well to keep going, let's just keep exploring this expression. So all of this is going to be equal to, it's all going to be equal to the limit as H approaches zero. So the first thing I'm gonna do is I'm gonna look at, I'm
+gonna look at this part, this part of the expression. And in particular,
+let's see, I am going to factor out an F of X plus H. So if you factor out an F of X plus H, this part right over here is going to be F of X plus H, F of X plus H, times you're going to be left
+with G of X plus H. G of, that's a slightly
+different shade of green, G of X plus H, that's that there, minus G of X, minus G of X, oops, I forgot the parentheses. Oops, it's a different color. I got a new software program
+and it's making it hard for me to change colors. My apologies, this is not
+a straightforward proof and the least I could do is
+change colors more smoothly. Alright, (laughing) G of X plus H minus G of X, that's that
+one right over there, and then all of that over this H. All of that over H. So that's this part here and then this part over here this part over here, and
+actually it's still over H, so let me actually circle it like this. So this part over here I can write as. So then we're going to have plus... actually here let me, let me factor out a G of X here. So plus G of X plus G of X times this F of X plus H. Times F of X plus H minus this F of X. Minus that F of X. All of that over H. All of that over H. Now we know from our limit properties, the limit of all of this business, well that's just going
+to be the same thing as the limit of this as H approaches zero plus the limit of this
+as H approaches zero. And then the limit of the product is going to be the same thing
+as the product of the limits. So if I used both of
+those limit properties, I can rewrite this whole
+thing as the limit, let me give myself some real estate, the limit as H approaches
+zero of F of X plus H, of F of X plus H times, times the limit as H approaches zero,
+of all of this business, G of X plus H minus G of X, minus G of X, all of that over H, I think you might see where this is going. Very exciting. Plus, plus the limit, let me write that a
+little bit more clearly. Plus the limit as H
+approaches zero of G of X, our nice brown colored G of X, times, now that we have our product here, the limit, the limit as H approaches zero of F of X plus H. Of F of X plus H minus F of X, minus F of X, all of that, all of that over H. And let me put the parentheses
+where they're appropriate. So that, that, that, that. And all I did here, the limit, the limit of this sum, that's gonna be the sum of the limits, that's gonna be the limit of this plus the limit of that, and then the limit of
+the products is gonna be the same thing as the
+product of the limits. So I just used those
+limit properties here. But now let's evaluate them. What's the limit, and I'll do them in different colors, what's this thing right over here? The limit is H approaches
+zero of F of X plus H. Well that's just going to be F of X. Now, this is the exciting part, what is this? The limit is H approaches
+zero of G of X plus H minus G of X over H. Well that's just our, that's the definition of our derivative. That's the derivative of G. So this is going to be, this is going to be the
+derivative of G of X, which is going to be G prime of X. G prime of X. So you're multiplying these two and then you're going to have plus, what's the limit of H
+approaches zero of G of X? Well there's not even any H in here, so this is just going to be G of X. So plus G of X times the limit, so let's see, this one is in brown, and the last one I'll do in yellow. Times the limit as H approaches zero, and we're getting very close, the drum roll should be starting, limit is H approaches zero of F of X plus H minus F of X over H. Well that's the definition
+of the derivative of F of X. This is F prime of X. Times F prime of X. So there you have it. The derivative of F of
+X times G of X is this. And if I wanted to write
+it a little bit more condensed form, it is equal to, it is equal to F of X times the derivative
+of G with respect to X times the derivative
+of G with respect to X plus G of X, plus G of X times the derivative
+of F with respect to X. F with respect to X. Or another way to think about it, this is the first function
+times the derivative of the second plus the second function times the derivative of the first. This is the proof, or a proof, there's actually others
+of the product rule.

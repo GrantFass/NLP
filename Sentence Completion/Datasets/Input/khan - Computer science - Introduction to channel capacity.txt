@@ -1,0 +1,23 @@
+Voiceover: It also became clear that there was one other way to increase the capacity of a communication system. We can increase the number of different signaling events. For example, with Alice and Bob's string communication system, they soon found that
+varying the type of plucks allowed them to send
+their messages faster. For example, hard,
+medium versus soft plucks or high-pitch versus low-pitch plucks by tightening the cable different amounts. This was an idea implemented
+by Thomas Edison, which he applied to the Morse code system, and it was based on the idea that you could use weak
+and strong batteries to produce signals of different strengths. He also used two directions, as Gauss and Weber did, forward versus reverse current and two intensities. So he had plus three volts, plus one volt, minus one volt, and minus three volt. Four different current values which could be exchanged. It enabled Western Union to save money by greatly increasing
+the number of messages the company could send without building new lines. This is known as the Quadruplex telegraph and it continued to be used into the 20th century. But again, as we expanded the number of different signaling events, we ran into another problem. For example, why not send a thousand or a million different
+voltage levels per pulse? Well as you may expect, fine grained differences
+lead to difficulties on the receiving end. And with electrical systems, the resolution of these differences is always limited by electrical noise. If we attach a probe
+to any electrical line, and zoom in closely enough, we will always find
+minute undesired currents. This is an unavoidable
+result of natural processes such as heat or geomagnetic storms and even latent effects of the Big Bang. So the differences
+between signaling events must be great enough that noise cannot randomly bump a signaling event from
+one type to another. Clearly now we can step back and begin to define the capacity of a communication system using these two very simple ideas. First, how many symbol
+transfers per second? Which we called symbol rate. And today it's known simply as baud, for Émile Baudot. And we can define this as n where it's n symbol transfers per second. And number two, how many differences per symbol? Which we can think of as the symbol space. How many symbols can we
+select from at each point? And we can call this s. And as we've seen before, these parameters can be thought of as a decision tree of possibilities because each symbol can be thought of as a decision where the number of branches depend on the number of differences. And after n symbols, we have a tree with s to the power of n leaves. And since each path through this tree can represent a message, we can think of the number of leaves as the size of the message space. This is easy to visualize. The message space is simply the width of the base of one of these trees. And it defines the total number of possible messages one could send given a sequence of n symbols. For example, let's say Alice sends Bob a message which consists of two plucks and they are using a
+hard versus soft pluck as their communication system. This means she has the ability to define one of four
+possible messages to Bob. And if instead they were using a system of hard versus medium versus soft plucks, then with two plucks, she had the ability to define one of, three to the power of two equals, nine messages. And with three plucks, this jumps to one of 27 messages. Now if, instead, Alice and Bob were exchanging
+written notes in class, which contain only two
+letters on a piece of paper, then a single note would contain one of 26 to the power of two, or 676 possible messages. It's important to realize now that we no longer care about the meaning applied to
+these chains of differences, merely how many different
+messages are possible. The resulting sequences could represent numbers, names, feelings, music, or perhaps even some alien alphabet we could never understand. When we look at a
+communication system now, we can begin to think about it's capacity as how many different things you could say and we could then use the message space to define exactly how many differences are possible in any situation. And this simple yet elegant idea forms the basis for how information will be later defined. And this is the final step that brings us to modern information theory. It emerges in the early 20th century.

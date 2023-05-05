@@ -1,0 +1,65 @@
+We see in a triangle, or I
+guess we know in a triangle, there's three angles. And if we're talking
+about a right triangle, like the one that I've
+drawn here, one of them is going to be a right angle. And so we have two other
+angles to deal with. And what I want to
+explore in this video is the relationship between
+the sine of one of these angles and the cosine of the other, the
+cosine of one of these angles and the sine of the other. So to do that, let's just
+say that this angle-- I guess we could call
+it angle A-- let's say it's equal to theta. If this is equal to
+theta, if it's measure is equal to theta degrees, say,
+what is the measure of angle B going to be? Well, the thing that
+will jump out at you-- and we've looked at
+this in other problems-- is the sum of the
+angles of a triangle are going to be 180 degrees. And this one right over
+here, it's a right triangle. So this right angle takes
+up 90 of those 180 degrees. So you have 90 degrees left. So these two are going to
+have to add up to 90 degrees. This one and this one,
+angle A and angle B, are going to be
+complements of each other. They're going to
+be complementary. Or another way of
+thinking about it is B could be written
+as 90 minus theta. If you add theta to 90
+degrees minus theta, you're going to get 90 degrees. Now, why is this interesting? Well, let's think about what
+the sine of theta is equal to. Sine is opposite
+over hypotenuse. The opposite side is BC. So this is going
+to be the length of BC over the hypotenuse. The hypotenuse is side AB. So the length of BC
+over the length of AB. Now, what is that
+ratio if we were to look at this angle
+right over here? Well, for angle B, BC
+is the adjacent side, and AB is the hypotenuse. From angle B's
+perspective, this is the adjacent over
+the hypotenuse. Now, what trig ratio is
+adjacent over hypotenuse? Well, that's cosine. Sohcahtoa, let me
+write that down. Doesn't hurt. Sine is opposite
+over hypotenuse. We see that right over there. Cosine is adjacent
+over hypotenuse, cah. And toa, tangent is
+opposite over adjacent. So from this
+angle's perspective, taking the length of BC,
+BC is its adjacent side, and the hypotenuse is still AB. So from this
+angle's perspective, this is adjacent
+over hypotenuse. Or another way of
+thinking about it, it's the cosine of this angle. So that's going to be
+equal to the cosine of 90 degrees minus theta. That's a pretty
+neat relationship. The sine of an angle is equal
+to the cosine of its complement. So one way to think about
+it, the sine of-- we could just pick any
+arbitrary angle-- let's say, the sine of 60
+degrees is going to be equal to the cosine of what? And I encourage you to pause
+the video and think about it. Well, it's going to be
+the cosine of 90 minus 60. It's going to be the
+cosine of 30 degrees. 30 plus 60 is 90. And of course, you could
+go the other way around. We could think about
+the cosine of theta. The cosine of theta is going to
+be equal to the adjacent side to theta, to angle
+A, I should say. And so the adjacent
+side is right over here. That's AC. So it's going to be AC
+over the hypotenuse, adjacent over hypotenuse. The hypotenuse is AB. But what is this ratio from
+angle B's point of view? Well, the sine of
+angle B is going to be its opposite side,
+AC, over the hypotenuse, AB. So this right over here,
+from angle B's perspective, this is angle B's sine. So this is equal to the sine
+of 90 degrees minus theta. So the cosine of an angle
+is equal to the sine of its complement. The sine of an angle is equal
+to the cosine of its complement.

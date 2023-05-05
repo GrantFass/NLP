@@ -1,0 +1,107 @@
+Voiceover:We have an infinite series here, and the first thing I'd like you to try is to pause this video and
+see if you can express this as an infinite geometric series, and if you can express it as
+an infinite geometric series, see what its sum would be given
+an interval of convergence. Figure out over what
+interval of xs would your infinite geometric series converge and what would that sum actually be. I'm assuming you've given a go at it, so let's try to work
+through this together. The first thing I want to do is let me just factor out a common factor. This might simplify it in
+terms of trying to express it. Let's see. If I factor out, it
+looks like all of these are divisible by three x squared. I can rewrite this as
+three x squared times one minus x to the third
+power plus x to sixth power minus x to the ninth power, and a pattern is starting to emerge. Let me actually close the
+brackets with the same color, with that pink right over there. Let's see. This looks like we are taking
+powers of x to the third, so let me write it that way. This is the same thing
+as three x squared times, we could write this first term, or I guess I could say the zeroth term. This is x to the third to the zeroth power then minus, this is x to the
+third to the first power, and then plus this is x to
+the third to the second power, and then I think you see what's going on. This is x to the third to the third power, and of course, we can keep going. But now we have to worry about the switching of signs
+that we keep having. This would be negative one. This is positive, which is the same thing as negative one in the zero power. This is negative, which is
+negative one to the first power, so let's actually write it this way. We can write it as three x squared times this first term we could
+write as negative one, or we could just write as
+negative x to the third to the zeroth power, and then you're going to say plus. With plus, we could say
+negative x to the third to the first power. Negative one to the first
+power is negative one. x to the third to the first
+power is x to the third plus negative x to the
+third to the second power plus negative x to the
+third to the third power. That's this term right over here. Negative one to the third
+power is negative one, and of course, x to the third
+to the third is x to the ninth and it keeps going. This makes it a lot clearer
+what our common ratio is. Our common ratio here is
+negative x to the third. Over what interval would this converge? It's going to converge if our common, if the absolute value of our common ratio is less than one. We are going to converge if the absolute value of our common ratio, the absolute value of our common ratio, which is negative x to the
+third is less than one. Or another way of saying
+this is the same thing, the absolute value of a
+negative is going to be the same thing as the
+absolute value of a positive, so that's the same way of
+saying the absolute value of x to the third is less than one, or saying that x to the
+third is less than one and is greater than negative one. The way that's going to happen, if you take the cube roots
+of both sides of this, or all the sides of this inequality, you're going to get that
+x is going to be between negative one and one. This right over here is our
+interval of convergence, interval of convergence. If we restrict our xs to that, what is this going to sum to? This infinite geometric
+series, our common ratio, its absolute value is less than one, and so this is going to sum to, this is going to be
+equal to our first term, I guess we could say, or the thing that's multiplying
+them by this whole thing, but if you multiply it out, this would be our first term. It's going to be three x squared, all of that over one
+minus our common ratio, so one minus negative x to the third, that's just going to be
+one plus x to the third. Everything we've done so far is we've shown that this, let me actually write it this way, that this thing is equal to this thing over the interval of convergence. Let me write, copy and paste
+it, so write like that, over the interval of convergence. If x is between negative one and one, these two things are the same. Now, we can start to put
+our calculus hat on here because this looks interesting. This, you might remember, this looks like the derivative
+of something that's familiar. One plus x to the third,
+what's the derivative of that? That's three x squared. It looks like this right over
+here is the derivative of the natural log of one plus x to the third or the absolute value of
+one plus x to the third. If you don't believe me, let's take the
+anti-derivative of this thing right over here. In fact, for fun, let's take the anti-derivative
+of both sides of this, and if we do that, then we
+will have shown essentially a geometric series representation of whatever the anti-derivative
+of this thing is. I encourage you to pause the video again and try to take the anti-derivative of both sides of this equation. We're going to take the anti-derivative of the left-hand side, and we're going to take
+the anti-derivative, the anti-derivative of
+the right-hand side. Now on the left-hand side, I mentioned that it looks like we have an expression and its derivative. That just calls out for u-substitution. If we say that u is equal
+to one plus x to the third, let me write this down, u is equal to one plus x to the third, then what's du going to be? Then du is going to be
+equal to three x squared dx. Notice, we have u and then du. du is this right over here. This expression right over
+here could be rewritten as, let me go over here, this could be rewritten as
+the integral of du over u, or I could say, actually, let me write this, one over u du, which of course is equal to, which is going to be
+equal to the natural log of the absolute value of u, the natural log of the absolute value of u plus some constant. We of course know that u
+is one plus x to the third, so this is going to be
+equal to the natural log of the absolute value of
+one plus x to the third, one plus x to the third plus c, plus c. Now, we're restricting
+our domain for x being between negative one and one. So for that domain, this
+thing is always going to be, this whole thing actually is
+always going to be positive, so what we can do, we don't have to write
+the absolute value sign, so this is going to be
+equal to the natural log, let me write it, the natural log of one
+plus x to the third, one plus x to the third plus c, plus c. That's this left-hand side, and the right-hand side is actually a lot more straightforward. This is just a straightforward polynomial. Now, as you can imagine,
+we're going to get some type of constant there, so let me differentiate them a little bit. Let me call this one c one, and then on the right-hand
+side, what do we get? The anti-derivative of
+this is going to be, let's see, the anti-derivative of x
+squared is x to the third divided by three. This first term, the anti-derivative, is just going to be x to the third power. The derivative of x to the
+third is three x squared. Now, this term right over here, negative three x to the fifth, the anti-derivative of x to the fifth is x to the sixth over six, x to the sixth over six, but then we have that three over here. Three over six is two, so it's negative x to the sixth over two. Actually, let me do that
+in a different color, just so we can keep track of it. This one right over here is negative, the anti-derivative is negative
+x to the sixth over two, and then, let's see, I'm running out of colors. The anti-derivative of x to the eighth is x to the ninth over nine, so it's going to be plus x to the ninth, and then we have this three. Three over nine is three. And I think you see a pattern happening. And then let's just do
+one more of these for fun. x to the 12th over 12,
+but we have this three, so negative x to the 12th over four, and then we keep going, and then we're of course going to have, we're going to have some constant. Actually, let me put the
+constant in the front. Let me copy and paste that, or cut and paste that
+so I have some space. Let me write over here. I'll put some other constant, c two, it doesn't have to be the same one, plus all of this. Now to simplify this, I could subtract c one from both sides or essentially from c two, and then I'm going to
+have the natural log of one plus x to the third power. One plus x to the third power, this is kind of neat what we've just done, with a little bit of integration, is equal to c two minus c one. This is some constant
+minus some other constant, so that's just going to be
+some arbitrary constant, plus all of this business. We can even figure out what
+the constant is going to be by trying out some values of x that's in our restricted domain. x equals zero is between
+negative one and one, so let's see what happens
+when x is equal to zero to solve for c. If x is equal to zero, we get natural log of
+one is equal to c plus, all of these terms are going to be zero, zero to the third power
+minus zero to the sixth on and on and on, plus zero plus zero, or another way, and natural log of one, of course, [either what] power is one, well, that's zero, so c must be zero. C is equal to zero. This thing right over
+here is equal to zero. What we have just done, using
+a little bit of integration, is starting with a ... let's just appreciate what went on. Starting with an
+arbitrary infinite series, we showed it could be represented
+as a geometric series. We defined it into rule of convergence over which this would converge, over which the common
+ratio's absolute value is less than one, and then using that, we expressed its sum, and then we took the
+anti-derivative of both sides to figure out an expansion
+for the natural log of one plus x to the third power, which, at least in my
+mind, that was pretty neat. Natural log of one plus
+x to the third power is x to the third power
+minus x to the sixth over two plus x to the ninth over three, so on and on and on. Actually, just to give
+ourselves some closure here, let's write it in sigma notation. We could write the natural
+log of one plus x to the third over our restricted domain, where the absolute value
+of x is less than one, is equal to the sum from, let's say, n equals one to infinity of x to the third to the nth power, so to the first power, the
+second power, third power, over n. This is x to the third over one, x to the third squared over two, oh, and I of course have
+to throw in, let's see, this first one is, we're going to have to
+care about the sign, so let me throw in a negative one. Let's see. Negative one to the first
+power should be negative, but here, it's positive, so I'll say negative
+one to the n plus one, negative one to the n plus one power. Does that work? I think it does. When n is equal to one, this thing just becomes one. This is x to the third over one. When n is equal to two, this becomes negative,
+which it needs to be, and then this becomes x to
+the sixth, and we're over two, and so there you go. We are done. I found that pretty satisfying.

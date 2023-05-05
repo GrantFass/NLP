@@ -1,0 +1,26 @@
+- [Instructor] So I have two
+different xy relationships being described here. And what I would like to do in this video is figure out whether each
+of these relationships, whether they are either
+linear relationships, exponential relationships, or neither. And like always, pause this video and see if you can figure it out yourself. So let's look at this first
+relationship right over here. And the key way to tell whether
+we're dealing with a linear, or exponential, or neither relationship, is think about, okay,
+for given change in x, and you see, each time here, we are increasing x by the same amount. So we're increasing x by three. So given that we're increasing
+x by a constant amount, by three each time, does y
+increase by a constant amount? In which case, we would be dealing with a linear relationship. Or is there a constant ratio
+between successive terms when you increase x by a constant amount. In which case, we would be dealing with an exponential relationship. So let's see. Here we're going from
+negative two to five. So we are adding seven. When x increases by three,
+y increases by seven. When x is increasing by three,
+y increases by seven again. When x increases by three,
+y increases by seven again. So here, it is clearly
+a linear relationship. Linear relationship. In fact, you can even, relationship, you could even plot this on a line if you assume that these
+are samples on a line. You could think even about
+the slope of that line. For a change in x, for
+a given change in x, the change in y is always constant. When our change in x is three, our change in y is always seven. So this is clearly a linear relationship. Now let's look at this one. Let's see. Looks like our x's are
+changing by one each time, so plus one. Now what are y's changing by? Here it changes by two. Then it changes by six. Alright, it's clearly not linear. Then it changes by 18. Clearly not a linear relationship. If this was linear, these
+would be the same amount, same delta, same change
+in y for every time, 'cause we have the same change in x. So let's test to see if it's exponential. If it's an exponential, for each of these constant changes in x's, when we increase x by one every time, our ratio of successive
+y's should be the same. Or another way to think about it is what are we multiplying y by? So to go from one to three, you multiply, you multiply by three. To go from three to nine,
+you multiply be three. To go from nine to 27,
+you multiply by three. So in a situation where every time you increase x by a fixed
+amount, in this case one, and the corresponding y's get multiplied by some fixed amount, then you're dealing with an
+exponential relationship. Exponential. Exponential relationship right over here.

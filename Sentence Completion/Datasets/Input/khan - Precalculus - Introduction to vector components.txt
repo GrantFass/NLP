@@ -1,0 +1,62 @@
+- [Instructor] In other
+videos, we have talked about how a vector can
+be completely defined by a magnitude and a
+direction, you need both. And here we have done that. We have said that the magnitude of vector a is equal to three units, these parallel lines here on both sides, it looks like a double absolute value. That means the magnitude of vector a. And you can also specify
+that visually by making sure that the length of this vector
+arrow is three units long. And we also have its direction. We see the direction of
+vector a is 30 degrees counter-clockwise of due East. Now in this video, we're
+gonna talk about other ways or another way to specify
+or to define a vector. And that's by using components. And the way that we're gonna do it is, we're gonna think about the tail of this vector and the
+head of this vector. And think about as we go
+from the tail to the head, what is our change in x? And we could see our change in x would be that right over there. We're going from this x
+value to this x value. And then what is going
+to be our change in y. And if we're going from
+down here to up here, our change in y, we can
+also specify like that. So let me label these. This is my change in x, and
+then this is my change in y. And if you think about it, if someone told you your
+change in x and change in y, you could reconstruct this
+vector right over here by starting here, having that change in x, then having the change in y
+and then defining where the tip of the vector would be
+relative to the tail. The notation for this is
+we would say that vector a is equal to, and we'll have parenthesis, and we'll have our change
+in x comma, change in y. And so if we wanted to get tangible for this particular
+vector right over here, we know the length of
+this vector is three. Its magnitude is three. We know that this is, since
+this is going due horizontally and then this is going
+straight up and down. This is a right triangle. And so we can use a little
+bit of geometry from the past. Don't worry if you need a little
+bit of a refresher on this, but we could use a little bit of geometry, or a little bit of
+trigonometry to establish, if we know this angle,
+if we know the length of this hypotenuse, that
+this side that's opposite the 30 degree angle is gonna
+be half the hypotenuse, so it's going to be 3/2. And that the change in x is going to be the square root of three times the 3/2. So it's going to be three,
+square roots of three over two. And so up here, we would
+write our x component is three times the square
+root of three over two. And we would write that
+the y component is 3/2. Now I know a lot of you might be thinking this looks a lot like coordinates
+in the coordinate plane, where this would be the x coordinate and this would be the y coordinate. But when you're dealing with vectors, that's not exactly the interpretation. It is the case that if the vector's tail were at the origin right
+over here, then its head would be at these coordinates
+on the coordinate plane. But we know that a vector is not defined by its position, by the
+position of the tail. I could shift this vector around wherever and it would still be the same vector. It can start wherever. So when you use this
+notation in a vector context, these aren't x coordinates
+and y coordinates. This is our change in x,
+and this is our change in y. Let me do one more example to show that we can actually go the other way. So let's say I defined some vector b, and let's say that its x
+component is square root of two. And let's say that its y
+component is square root of two. So let's think about what
+that vector would look like. So it would, if this is its tail, and its x component which is its change in x is square root of two. So it might look something like this. So that would be change in x
+is equal to square root of two. And then its y component would
+also be square root of two. So I could write our change in y over here is square root of two. And so the vector would
+look something like this. It would start here and
+then it would go over here, and we can use a little bit of geometry to figure out the magnitude and the direction of this vector. You can use the Pythagorean
+theorem to establish that this squared plus this squared is gonna be equal to that squared. And if you do that,
+you're going to get this having a length of two, which tells you that the magnitude of
+vector b is equal to two. And if you wanted to figure
+out this angle right over here, you could do a little bit of trigonometry or even a little bit
+of geometry recognizing that this is going to be a
+right angle right over here, and that this side and that
+side have the same length. So these are gonna be the same angles which are gonna be 45 degree angles. And so just like that, you could
+also specify the direction, 45 degrees counter-clockwise of due East. So hopefully you appreciate
+that these are equivalent ways of representing a vector. You either can have a
+magnitude and a direction, or you can have your components and you can go back and
+forth between the two. And we'll get more practice
+of that in future videos.

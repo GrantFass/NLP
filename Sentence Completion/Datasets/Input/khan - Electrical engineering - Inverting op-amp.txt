@@ -1,0 +1,49 @@
+- [Voiceover] Now I come
+to another configuration for an op-amp. And it's partially drawn here. And I'm gonna talk about this as I draw the rest of this circuit in. So this is gonna be made
+from a resistor configuration that looks like this. We'll have a resistor on the top. And this will be v-out, as we did before. And now we have a connection like this and the connection here to ground. This terminal is the minus terminal; and this terminal is
+the positive terminal. This is upside down from
+what we've done so far. But now pay particular attention here, this one has the minus on top. So now we have R1 and R2. And this is v-in. In particular, what we wanna
+do is find an expression for v-out as a function of v-in. All right. And in this video, I'm
+gonna do it the hard way. And what the hard way
+means is we're gonna do all the algebra to do this. And then in the next video I'm
+gonna show you the easy way. The easy way is really fun to learn, and it really helps to see
+it the hard way one time just so you appreciate the easy way. The other thing we get to do in this video is we'll do the algebra and
+we'll see how this gain, we take advantage of this
+gain to make some assumptions. OK, so let's go after this. Let's develop an expression
+for v-out in terms of v-in. First, let's write some things
+we know about v-out, OK? We know that v-out equals A times... Now, it's usually v-plus minus v-minus. This is v-plus. This is v-minus. Usually the expression here
+is v-plus minus v-minus. And since v-plus is zero, we're just gonna put in minus v-minus. This is equivalent to saying that v-minus equals minus v-out over A. So what else can we
+write for this circuit? OK, let's look at these resistors. Let's call this plus and minus vR1; and we'll call this one plus minus vR2. So there's a current flowing
+here, and that we'll call I. So I'm just gonna use Ohm's Law on R1 here and write an expression for I. I equals vR1 over R1. Right? Another way I can write that. What's this voltage here? This is v-minus. So I can write this in terms
+of v-minus, and that equals v-in minus v-minus over R1. That's the current going
+through this guy here. Now I'm gonna use something special. I'm gonna use something special that I know about this amplifier. What I know about an op-amp
+is that this current here is equal to zero. There's no current that
+flows into an ideal op-amp. So I could take advantage of that. What that means is that I flows in R2. So let me write and expression for I based on what I find
+over here, based on R2. I can write I equals, let's do it, it's vR2 over R2. And I can write vR2 as: v-minus minus v-out over R2. All right, so I took
+advantage of the zero current flowing in here to write
+an expression for current going all the way through. All right. So now we're gonna set these
+two equal to each other. Now we're gonna make these
+two equal to each other. Let me go over here and do that. V-in minus v-minus over R1. That equals this term here, which is v-minus minus v-not, v-out rather, over R2. How many variables do we have here? We have v-out, we have
+v-in, and we have v-minus. And what I want is just v-out and v-in, so I'm gonna try to eliminate v-minus; and the way I'm gonna do that
+is this expression over here. We're gonna take advantage
+of this statement right here to replace minus v-out over A. So I'll do that right here. So let me rewrite this. It's gonna be v-in minus minus v-out over A, so I get to make this a plus, and this becomes v-out over A all divided by R1. And that equals... V-minus is minus v-out over A minus v-out over R2. All right, let's roll down a little bit, get some room, and we'll keep going. What am I gonna do next? Next, I'm gonna multiply both sides by A, just to get A out of the bottom there. So now I get A times v-in plus v-out over R1 equals minus v-out minus Av-out over R2. There's a lot of algebra
+here, but trust me, it's gonna simplify down
+here in just a minute. All right, so now I'm gonna break this up into separate terms so I
+can handle them separately. Av-in over R1 plus v-out over R1 equals minus v-out over R2 minus Av-out over R2. Let's change colors so we don't get bored. Next, what I'm gonna do is start to gather the v-out terms on one side and the v-in terms on the other side. So that means that this v-out term here is gonna go to the other side. Av-in over R1 equals, let's do minus v-out over R2 minus Av-out over R2. And this term comes over as minus v-out over R1. Haven't made any sign errors yet. Now let me clear the R1. We'll multiply both sides by R1. Av-in equals R1 over R2 minus v-not minus R1 over R2 Av-not minus v-not. Yeah, the R1s cancel on that last term. All right. Av-in equals. Out of here I can factor this term here. Minus R1 over R2 times v-not, I can factor that out of here and here. So I can do minus R1 over R2 v-not times one plus A minus v-not. So let's take a look at this expression and use our judgement to
+decide what to do next. Now, because A is so huge, that means that this first
+term is gonna be gigantic compared to this v-not term here. V-not is some value like five volts or minus five volts or
+something like that. And A times this is something like 100,000 or 200,000, something like that. It dwarfs this v-not, so I'm
+gonna ignore this for now. I'm just gonna cross that out, and we'll move forward
+without that little v-not on the end of the expression. This is after we've left that out. Now we have v-in on this side. And I'm gonna take A
+over to the other side. One plus A over A. And this is a point where we
+get to use our judgement again. Again, A is a huge number, like a million; and so A plus one is a million and one. That fraction is really
+really close to one, so I'm gonna ignore it; I'm
+gonna just say it's one. So we'll send this one to one. And let me roll up a little bit more, just to have a little bit more room. Now what we have is what? V-in equals minus R1 over R2 times v-out. And I want the expression
+just in terms of v-out, so I'm gonna spin this around, and we'll get v-out equals minus R2 over R1 times v-in. So this is what our
+op-amp is doing for us. It basically says v-out is the ratio of two resistors times v-in. The gain of the overall circuit is determined by the ratio
+of those two resistors. And very importantly, there's
+a minus sign in front of it. The minus sign came all the way through. Again, let me sketch
+the circuit real quick. We had the minus sign on top. There's v-out. And there was R1 and R2. And the positive input,
+the non-inverting input, was connected to ground. OK? So this pattern with the resistor going over the top to the minus, this is called a inverting op-amp. And this is a really familiar
+pattern in op-amp circuits. You can see these on schematics, and you'll be designing these on your own. So this was quite a bit of algebra it took to get down to this point, and in the next video I'm gonna show you a really easy way to shortcircuit all this and be able to do this
+analysis really quickly; and that's called the virtual ground.

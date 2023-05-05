@@ -1,0 +1,172 @@
+Let omega be the complex
+number cosine of 2 pi over 3 plus i sine of 2 pi
+over 3, then the number of distinct complex numbers
+z satisfying this determinant equaling 0. So we have this 3 by 3
+determinant equaling 0. So let's just evaluate
+this determinant and see if we can solve
+for z, or figure out how many complex numbers z
+that we get satisfying this-- what's essentially an equation. So let's evaluate
+the determinant. So if we start with
+this term up here it's going to be this term times
+the determinant of this sub 2 by two matrix. So it's going to be
+z plus 1, times z plus omega squared, times
+z plus omega, minus 1. So this is the determinant
+of the sub 2 by 2 matrix right over here-- the sub 2
+by 2 determinant-- and that's the z plus 1. And then we have to swap signs. We go here. We want to put a
+negative sign out front. You have that
+checkerboard pattern when you evaluate determinants. So minus omega times-- you
+block out that row, that column. So the sub-determinant is
+omega times z plus omega. Let me just multiply
+that out right now. So that's z omega plus omega
+squared, minus omega squared, times 1. So that's pretty neat. We already got something
+that simplifies a little bit. And then we have to worry
+about this omega squared. So it's going to be plus omega
+squared times omega times one-- omega times 1
+is omega-- minus omega squared times z plus omega. So minus omega squared z
+minus omega to the fourth. And remember this
+whole expression needs to be equal to 0. This whole thing needs
+to be equal to 0. Now let's see if we can simplify
+this thing a little bit. So let me first multiply
+these two guys in here. So z times z is z squared. Z times omega is z omega. Omega squared times
+z is omega squared z. And then omega
+squared times omega is omega to the third power--
+plus omega to the third power. And then we have
+this minus 1 here. And then all of that's going
+to be multiplied by z plus 1. Let me just continue
+with this blue part since we're already
+focused here. So this is going to be
+z times all of this. So it's going to be z to
+the third power plus z squared omega, plus
+omega squared z squared, plus omega to the
+third z minus z. I just multiplied z
+times all of this. And then plus 1
+times all of this. So plus this thing again,
+z squared plus z omega, plus omega squared z, plus
+omega to the third, minus 1. And then let's simplify
+this over here. So that in green,
+these canceled out. So we're just left
+with-- I'll do the same green-- negative
+omega times z omega. So it's minus z omega squared. And then over here
+in magenta we have plus omega to the third power
+minus omega to the third z. Oh, let me be careful. That would be omega
+to the fourth. Omega squared
+times omega squared is omega to the fourth--
+omega to the fourth z. And then omega squared
+times omega to the fourth is omega to the sixth. And we have a negative sign. So negative omega to the sixth. And of course, this whole
+thing needs to be equal to 0. Well, let's see if
+we can simplify this. Let's just group the terms--
+the different powers of z. So we have a z to
+the third here. And that is the only z to
+the third that we have. And then let's group
+the z squared terms. So this is a z squared term. This is a z squared term. That's a z squared term. And then we don't have
+any more z squared terms. And so the
+coefficients-- this is going to be the same thing as
+omega squared-- that's this one right over here-- plus omega,
+plus 1, times z squared. So we've taken
+care of everything that I've underlined
+in pink over here. Now let's worry
+about the z terms. I'll do it in this color. So this is a z term. We're just multiplying times z. This is a z term. This is a z term. That is also a z term. And then do we have
+any other z terms? Well, this is a z
+term right over here. And in fact, these
+two cancel out. You have negative
+z omega squared, positive z omega squared. So this and this cancel out. And so our only z terms
+are these three over here. So we have plus
+omega to the third. And then we have plus
+omega to the third. Oh let me-- this
+color is too close. Plus omega to the third. And then our next z is minus 1. But then we actually
+have this omega here. So plus omega minus 1. I was getting confused
+because this white is so close to this pink. So it's omega to the third
+minus 1, plus omega, times z. And then oh, we
+can't forget this. We have this term over here. Omega to the fourth times z. So we have minus 1
+omega to the third z. Then we have minus 1 z. Then we have plus omega z. And then we have negative
+omega to the fourth z. So I'll just put it out here. I'm not doing it in a nice
+descending power order, but I don't want to have
+to rewrite all of this. So then we took care
+of all of the z terms. And then what we have
+left is just what we can view-- the constant
+terms, from a z point of view. So we have omega--
+So plus omega cubed. Actually, we have
+two omega cubed. We have an omega cubed here
+and an omega cubed there. We've taken care of those. And then we have minus
+omega to the sixth. And then we have minus 1. And all of this
+needs to equal 0. Now, this might look
+pretty daunting, especially when omega looks
+like this fairly complex-- well, it is a complex expression. But maybe, or probably,
+it popped into your mind that this can also be expressed
+as an exponential using Euler's formula. We know that e to the i theta is
+equal to cosine of theta plus i sine of theta. So omega can be
+rewritten as, omega is the exact same thing
+as e to the 2 pi over 3 i. That's what omega is. And what is e to
+the 2 pi over 3 i? We can evaluate that here. It's cosine 2 pi over 3. And we can get our
+unit circle out. 2 pi over 3 corresponds
+to 120 degrees. So let me get my
+unit circle out just so we can figure out
+what the values are. And the reason why I'm
+doing this-- I'm actually going to evaluate it here
+just to get a number here-- but the reason I'm doing this
+is it becomes much easier to take the powers of
+e to the 2 pi over 3 i than to take the powers
+of this thing over here. But if we take the
+unit circle, if we're at 120 degrees on the
+unit circle like this, this is 2 pi over 3. Then we have a situation. This angle over here is
+going to be 60 degrees. And so our height is going to
+be square root of 3 over 2. And our x-coordinate is
+going to be negative 1/2. So this is going to be
+equal to negative 1/2. Cosine of 2 pi over
+3 is negative 1/2. And then our sine of 2 pi over
+3 is square root of 3 over 2. But that's being
+multiplied by an i. So plus square
+root of 3 over 2 i. So that is omega. Now, let's think
+about omega squared. Omega squared is
+going to be this raised to the second power. So it's e to the-- we just
+multiply it by 2. e to the 4 pi over 3 i. We just multiply this by 2. So it's equivalent
+to 240 degrees. So it's equivalent to
+this right over here. So let me write it. This is the same thing
+as cosine of 4 pi over 3, plus i sine of four pi over 3. And here our x-coordinate
+is going to be the same. It's going to be negative 1/2. So this is equal
+to negative 1/2. And our y-coordinate is negative
+square root of 3 over 2 i. Now let's think of omega
+to the third power. Omega to the third power is
+equal to e to the 2 pi i, which is equal to cosine of 2
+pi plus i sine of 2 pi. Well, sine of 2 pi is just 0. Cosine of 2 pi is equal to 1. Then we go to omega
+to the fourth power, because that also shows
+up in these expressions. So we have omega to the
+fourth power is equal to-- we just multiply it times 4--
+it's e to the 8 pi over 3 i. 8 pi over 3 is equivalent
+to-- so this was 2 pi over 3. This is 4 pi over 3. This is essentially 6 pi over 3. And then 8 pi over 3
+becomes-- is essentially the same angle as 2 pi
+over 3-- so its value is going to be the same. Negative 1/2 plus square
+root of 3 over 2 i. And then we don't have
+an omega to the fifth, but we do have an omega
+to the sixth here. So let's just figure that out. Omega to the sixth-- well,
+that's just omega cubed squared. And omega cubed is 1. So it's just going
+to be 1 squared, or it's also going to be 1. Now with that out of
+the way, let's see what these things simplify to. Hopefully they
+simplify to something. So this expression
+right here-- omega squared-- we have--
+I'll write it up here. We have negative 1/2 minus
+square root of 3 over 2 i. That's omega squared. Then we have plus omega. Omega is right here. Negative 1/2 plus square
+root of 3 over 2 i. And then we have a plus 1. So the negative square
+root of 3 over 2 i and the positive square root
+of 3 over 2 i cancel out. Negative 1/2 minus 1/2 is
+negative one, plus one. Those cancel out. So this whole expression
+comes out to be 0. So we can ignore. This is going to be
+0 no matter what. Now let's look at
+this over here. This is omega cubed. Omega cubed we know
+is 1, plus omega, which is-- so I
+should write minus 1/2 plus square root of
+3 over 2 i, minus 1, minus omega to the fourth. Well, omega to the fourth
+is the same thing as omega. Omega to the fourth is
+the same thing as omega. So you have omega
+minus something that's the same thing as itself. Those are going to cancel out. Omega cubed is 1. So the 1 and the 1 are
+going to cancel out. So this is also equal to 0. I think I see a pattern here. And then finally, let's look
+at these characters over here. 2 times omega
+cubed-- this is just going to be a 2 here--
+minus omega to the sixth. Well, that's just minus 1. And then you have a minus 1. So this 2, minus 1, minus 1. This is also equal to 0. So that whole determinant that
+whole equation has simplified to z to the third
+power is equal to 0. And the only number,
+that when they take it to the third power-- real,
+or complex, or anything-- is going to be 0. z equals 0 is the only solution. But they're not asking us that. They're asking the number
+of distinct complex numbers z satisfying this. So z equals 0 is the only
+one that satisfies this. So the number of complex
+numbers satisfying it is 1.

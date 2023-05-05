@@ -1,0 +1,50 @@
+- [Voiceover] So in the last video we started working on the analysis of an RLC circuit that
+had a forcing function, and the math for doing
+that gets really hard. And so what we decided to
+do was see what happens if we limit ourselves to
+using just sinusoidal inputs, inputs that look like sines and cosines. So I wanna continue the introduction to the sinusoidal analysis technique and just give you a preview of
+where we're headed with that. So when we make this limitation
+to sinusoidal inputs, there's a big prize at the end. And the prize is that the
+differential equations turn into algebra. That's the reason we're doing this. It just basically because really simple, just like the resistor
+circuits that we used to do, they were all algebra. There was no calculus. We're gonna turn these
+kinds of differential equation circuits into algebra. So if we're able to convert this circuit into an algebra problem instead
+of a differential equation, that means we could use
+Kirchhoff's Voltage Law. We could use Kirchhoff's Current Law. We could use node voltage. The node voltage method or
+the mesh current method. Just like we did for resistors. And this whole set of techniques then automatically gets applied to circuits that have inductors
+and capacitors in them, just like we learned how
+to do with resistors. It's a major simplification. So let me draw this circuit
+over here again real quick, the one we were looking at earlier. We have V. We have an inductor here. We have a resistor and a capacitor. So for V, in, we're gonna limit ourselves to just sinusoids. So that means that the input
+is gonna look something like A cosine, omega t plus phi. Phi is a phase angle. And we're gonna represent this in a way that looks like this. This is gonna get transformed or changed into something that looks like this. It's gonna be called
+A at the angle of phi. This is an angle symbol. And this is referred to as a phasor. This has a name this way of writing. This way of writing down sinusoids. If I have a sinusoid that looks like this is a function of
+time, I could write it as a phasor where I say V
+equals A at an angle of phi and understood is that
+there's this omega t term, this cosine omega t term nearby. So the other thing we're
+gonna learn about is how to transform a circuit. So we can use this sinusoidal
+steady state analysis. So the inductor, it
+gets transformed from L, instead we write down SL, where S is that same natural frequency. Whenever we have a resistor,
+we write down just R, just like we usually do, and
+whenever we have a capacitor, we write one over SC, and again, this S is the same thing as we had before, the natural frequency. And in a future video, we'll justify why we could make this
+transformation and what this means. The big payoff here is I'm
+gonna write a KVL equation around this loop and watch what happens. Watch how easy this is, it's amazing. So let me real quick I'm gonna just indicate signs of these voltages. There's the inductor voltage. There's the resistor voltage. There's the capacitor voltage. And here's the voltage on V, in. Like that, we'll give it that polarity. It's not obvious yet, but I
+get to use these quantities, SL and one over SC, just like they were a
+resistance value in Ohm's Law. And watch how this happens. I'm just gonna write KVL around this loop. And what I get is that V, in is equal to the voltage
+across the inductor plus the resistor plus the capacitor, and I can write it like this. I can write SL times i plus R times i plus one over SC times i. And if I can write that again, I'll write that one more time, it's i times SL plus R plus one over SC. All right, that was a
+straightforward application of Kirchhoff's Law. Now if we look at this expression here, look at this right here, this is the characteristic equation. We just wrote down the
+characteristic equation. Characteristic. We just wrote down the
+characteristic equation of this circuit using these
+transformed components. Now what I wanna do next, we're gonna actually get a new concept. I can write an equation like this. I can say V, in, divided by i, I'm just gonna take i over
+this side of the equation here, equals SL plus R plus one over SC. This is an interesting idea. Here is a ratio, right here. This is a ratio of voltage to current. Now if this was just a plain resistor, V over i for a plain ole
+resistor, is what, is R. That's an expression of Ohm's Law. So now I have another expression over here for something that's written in terms of my component values and this natural, this frequency S that's going on in here, and this is gonna lead us to
+a general idea of resistance that is called impedance. So that's what this is right here. This is this ratio of voltage to current and the symbol usually
+used for impedance is a Z. So this is where we're headed
+over the next several videos. To justify what we're doing here, we need to go through some steps, and so what we're gonna do
+in the next couple of videos is we're gonna do some review. So here are the things we're gonna review. We're gonna review some trigonometry. So cosine and sine and those functions and what they mean, especially when they're functions of time. We're also gonna review Euler's identity. Euler's identity is important, because it's the thing that allows us to relate e to the jx and we
+get some sort of relationship to sine of x and cosine of x. And if you remember when we were solving differential equations,
+this was always the form that was the easiest solution to come up with, e to the something. And if we're limiting
+ourselves to sines and cosines for inputs, we need to have a way to make a really easy way to solve equations. So Euler's identity is the trigger that allows us to do that. Now when we use Euler's identity, we're gonna get this little complex number that keeps coming up. So we're gonna review complex numbers. That's the three review topics. And then we're gonna move
+on and we're gonna do after that, we'll define
+something like these phasors. Then we'll look at the transformation. So that's SL and R and one over SC. Phasor is the idea
+where we change a cosine into something at a phase angle. And then finally what we get
+to do is we get to solve. So that's the sequence of events. That's what's coming up over
+the next couple of videos. It's a really powerful technique for handling some very
+complicated circuits and getting it to do what we want.

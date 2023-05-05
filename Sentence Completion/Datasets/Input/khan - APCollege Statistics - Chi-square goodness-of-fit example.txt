@@ -1,0 +1,45 @@
+- [Instructor] In the
+game rock-paper-scissors, Kenny expects to win, tie,
+and lose with equal frequency. Kenny plays rock-paper-scissors often, but he suspect his own games were not following that pattern. So he took a random sample of 24 games and recorded their outcomes. Here are his results. So out of the 24 games, he won four, lost 13, and tied seven times. He wants to use these results to carry out a chi-squared goodness-of-fit test to determine if the
+distribution of his outcomes disagrees with an even distribution. What are the values of the test statistic, the chi-squared test statistic, and P-value for Kenny's test? So pause this video and see
+if you can figure that out. Okay, so he's essentially
+just doing a hypothesis test using the chi-squared statistic. Because it's a hypothesis that's thinking about multiple categories. So what would his null hypothesis be? Well, his null hypothesis
+would be that he has that all of the outcomes
+are equal probability. Outcomes equal equal probability. And then his alternative hypothesis would be that his outcomes have not equal not equal probability. Remember we assume that the
+null hypothesis is true. And then assuming if the
+null hypothesis is true, the probability of getting a
+result at least this extreme is low enough, then we would reject our null hypothesis. Another way to think about it is if our P-value is below threshold, we would reject our null hypothesis. And so what he did is he took a sample of 24 games, so n is equal to 24. And then this was the data that he got. Now before we even calculate
+our chi-squared statistic, and figure out what's the probability of getting a chi-squared
+statistic that large or greater, let's make sure we meet the
+conditions for inference for a chi-squared goodness-of-fit test. So you've seen some of them, but some of them are a
+little bit different. One is the random condition. I'll write 'em up here. The random condition. And that would be that there's truly a random sample of games. And it tell us right here,
+he took a random sample of his 24 games. So we meet that condition. The second condition, when we're talking about
+chi-squared hypothesis testing, is the large counts. Large counts condition. And this is an important
+one to appreciate. This is that the expected number of each category of outcomes is at least equal to five. Now you might say, hey, wait, wait, I only got four wins. Or Kenny only got four wins
+out of his sample of 24. But that does not violate
+the large counts condition. Remember, what is the expected number of wins, losses, and ties? Well if you were assuming
+the null hypothesis, where the outcomes have equal probability, so the expected the expected I could write right over here. It would be that it's 1/3, 1/3, 1/3. And so 1/3 of 24 is 8, 8, and 8. That's what Kenny would expect. And since because all of these
+are at least equal to five, we meet the large counts condition. And then the last condition is the independence condition. If we aren't sampling with replacement, then we just have to feel good that our sample size is no more
+than 10% of the population. And he can definitely play more
+than 240 games in his life, so we would assume that we
+meet that condition as well. And so with that out of the way, we can actually calculate
+our chi-squared statistic and try to make some
+inference based on it. And so, let's see, our chi-squared statistic is going to be equal to, so for each category, it's going to be the difference between the expected and what
+he got in that sample squared divided by the expected. So the first category is wins. So that's going to be four minus eight, four minus eight, squared over an expected
+number of wins of eight, plus losses, so that's 13 minus eight. 13 is how many he got, how many he lost, minus eight expected, squared, over the number expected plus he got seven ties, he would have expected eight, squared, all of that over eight. And so let's see what is this. Four minus eight is negative four, you square that, you get 16. 13 minus eight is five, you square that, you get 25. Seven minus eight is negative one. Square that you get one. And 16 divided by eight
+is going to be two. 25 divided by eight is
+going to be, let's see, that's three and 1/8th, so that's 3.125, and then 1/8th is 0.125. 0.125. You add these together, so let's see, it's gonna be two plus 3.125, 5.125 plus another 0.125 so that's going to be 5.25. So our chi-squared statistic is 5.25. And now to figure out our P-value, our P-value is going to be equal to the probability of getting a chi-squared statistic greater than or equal to 5.25. And you could use a
+chi-squared table for that. And we always have to think
+about our degrees of freedom. We have one, two, three categories. So our degrees of freedom is
+going to be one less than that, or three minus one, which is two. So our degrees of freedom is going to be equal to two. And that makes sense, because you know for a certain number of games, if you know the number of wins, and you know there's a
+certain number of losses, you can figure out the number of ties. Or if you know any two
+of these categories, you can always figure out the third. So that's why you have
+two degrees of freedom. And so let's get out
+our chi-squared table. So we have two degrees of freedom, so we are in this row. And where is 5.25? So, 5.25 is right over there. And so our probability is going
+to be between 0.10 and 0.05. So our P-value is going to be greater than
+0.05 and less than 0.10. And so for example, if ahead of time, and he should have done
+this ahead of time, he set a significance level of 5% and our P-value here is greater
+than 5% which we just saw, he would fail to reject in this situation the null hypothesis. But they're not asking us that here. All they're asking us is
+what is our chi-squared value and what range is our P-value in. Well, let's see, 5.25
+are both of these values, and we saw we got a
+P-value between 5% and 10%. So it is choice A right over there.

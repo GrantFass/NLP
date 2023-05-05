@@ -1,0 +1,90 @@
+- [Instructor] In this
+video, we're going to explore how a two by two matrix can be interpreted as representing a transformation
+on the coordinate plane. So let's just start with some examples or some conceptual ideas. So the first conceptual idea is that any point on our coordinate plane here and this of course is our X
+axis and this is our Y axis, can be represented by a
+combination of two vectors. You could have this
+vector right over here. That goes exactly one unit
+in the horizontal direction. We can represent that as a
+vector like this, one, zero, when you write a vector
+vertically like this the convention is that the top number here is what we're doing in the X direction. And then the bottom number, the zero is what we're doing
+in the vertical direction or the Y direction, so this
+is the one, zero vector. And then this right over
+here, what would we call that? Well that we would call
+the zero, one vector because it doesn't go at
+all in the X direction. And it only goes up
+one in the Y direction. Now just to feel good that any
+point on the coordinate plane can be represented as a
+weighted sum of these. Let's just pick a point at random. Let's say this point, all right over here, let's call it point A. And you could represent that as a vector that looks something like this, I'll do it as a dotted line, but this could be represented as a positional vector like that. And of course, if we're
+thinking about it in coordinates we would just say this is at
+the coordinate three comma one. The X coordinate is a three,
+the Y coordinate is one. But if we wanted to express
+it in terms of a vector, we could write it out as three, one, the X direction we're moving
+three from the origin, positive three and the Y direction we're moving one to get there. And you could see that
+we can represent this as a weighted sum of these two vectors. We can write this as, this is
+the same thing as three times our one, zero vector, one, zero plus one times our zero
+one, vector zero one vector. And you can see it visually, this yellow vector that points
+to point a right over there. You can have three of this
+vector, one, two, and then three. And then one of the orange vector. Now I said that I would
+explain how two by two matrices can represent a transformation. And the way that you
+could think about it is if I have a two by two
+matrix that looks like this, so let me just draw the matrix, where the first column is one, zero and then the second column is zero, one. This just tells you what to
+do with these two vectors. I know this might be a little
+bit confusing at first, but let's just walk through it together. So the way I've represented it, this first column says
+what is the transformation you want to apply to
+this one, zero vector, this first blue vector? Well, we're just keeping it one zero. So we're not changing it, it's the same. One, zero vector here
+one, zero vector here. Likewise, zero, one vector
+here, zero, one vector here. So this two by two matrix
+actually represents what's sometimes known as
+the identity transformation. It maps any point on the
+coordinate plane back to itself. It doesn't change the points, but I'm showing this because
+now I'm going to show a two by two matrix that represents a non identity transformation. For example, let me draw the matrix again. So let's say I have the matrix, instead of one, zero here I'm
+going to write a two, one here instead of a zero, one here
+let me write a one, two. So in this transformation,
+what we're doing is we're turning this one, zero
+vector into a two, one vector. You're going to see what I'm
+talking about in a second. So what does a two, one vector look like? Let me do it in that color. Well, we go two in the X
+direction one in the Y direction. So it's going to look like this, it's going to look like that. And then what does a one,
+two vector look like? Well, it goes one in the X direction and then two in the Y direction,
+so it looks like this. And the way that this
+represents a transformation is that anything that was a weighted sum of the one, zero and the
+zero, one vectors originally, you can now view as a
+weighted sum of the two, one and the one, two vectors. And so we can now think
+of another point A prime, that's not going to be
+three of the ones zeros and one of the zero ones. We can think of it as,
+let me write it over here, as three of the two, ones plus one of the one twos,
+one of these one, two. So where would that put that now? What we're going to go,
+go three of the two, ones. So this is one of them,
+this is two of them and then this is three of them. And then I'm going to have
+one of the one, two vectors, this orange vector right over here. And so I'm going to have one of those. And so that will take me to A prime. This is my new point
+after the transformation, I go to A prime. So I've gone from this
+point A to this A prime. And this two by two matrix is
+telling us how to transform. Now we can do that with multiple points. Now, if I talk about a
+point here at the origin that was originally at the origin point B, well that's zero of the orange vector, zero of the blue vectors. So even after the transformation, it's going to be zero
+of the two, one vector and zero of the one, two vectors. So it's just going to stay in place. It's just going to map to itself. So B is equal to B prime, and we could also imagine another point. Let's say right over here,
+let's call that point C. Well point C is originally
+two of the blue vectors and none of the orange vectors. So after the mapping, it'll
+be two of the two, one vectors and none of the one, two vectors. So two of the two ones. So if you go one, two, and
+then none of the one, twos you're going to get C
+prime right over there. And so notice, if originally
+you had a triangle between A, B and C, let
+me draw it like this. So originally you had
+this triangle A, B, C what is it now gotten mapped,
+what is it now mapped to? Well, it's now mapped to big triangle. I'll do my best to draw
+it relatively straight so we land on target. So that's that side. And then we have this side
+going from B prime to C prime and then we wanna connect that
+side from C prime to A prime. Now you might be saying, so how do you know that the
+lines map onto other lines? How do you know this transformation didn't all of a sudden make
+this line squiggly or zigzag? And that's one of the
+interesting properties of the type of transformation
+we're talking about. A two by two matrix will
+represent a linear transformation. And there's two ways to think
+about it in this context, a linear transformation
+will always map the origin onto itself and it will always
+map a line onto another line, it won't turn that line into a curve, or it won't make it zigzag somehow. Now the last thing you
+might be wondering is, Hey what about all these transformations we had from geometry, these
+similarity transformations, things like rotations
+reflections, dilations, can you do those with matrices? And the simple answer is yes, you can do them as long as
+you keep the origin in place. And you can actually
+using a two by two matrix come up with a whole series of
+other linear transformations that are much more, let's call it exotic, than just the rotations,
+reflections and dilations.

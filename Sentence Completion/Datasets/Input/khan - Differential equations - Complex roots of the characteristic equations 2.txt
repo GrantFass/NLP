@@ -1,0 +1,138 @@
+So where we left off, I had
+given you the question-- these types of equations are fairly
+straightforward. When we have two real
+roots, then this is the general solution. And if you have your initial
+conditions, you can solve for c1 and c2. But the question I'm asking is,
+what happens when you have two complex roots? Or essentially, when you're
+trying to solve the characteristic equation? When you're trying to solve
+that quadratic? The B squared minus 4AC,
+that that's negative. So you get the two roots end up
+being complex conjugates. And we said OK, let's say that
+our two roots are lambda plus or minus mu i. And we just did a bunch
+of algebra. We said, well if those are the
+roots and we substitute it back into this formula for
+the general solution, we get all of this. And we kept simplifying it, all
+the way until we got here, where we said y is equal to e
+to the lambda x, plus c1, et cetera, et cetera. And we said, can we simplify
+this further? And that's where we took out
+Euler's equation, or Euler's formula, or Euler's definition,
+depending what you want, which I'm always in
+awe of every time I see it or use it. But we've talked a lot about
+that in the calculus playlist. We could use this to maybe
+further simplify it, so I wrote e to the mu xi as cosine
+mu x plus i sine mu x. And I wrote e to the minus mu xi
+is cosine minus mu x plus i sine minus mu x. And now we could use a little
+bit about what we know about trigonometry. Cosine of minus theta is equal
+to cosine of theta. And we also know that sine of
+minus theta is equal to minus sine of theta. So let's use these identities
+to simplify this a little bit more. So we get y is equal to e to
+the lambda x times-- and we could actually distribute the c1
+too-- so times c1 cosine of mu x, plus i times c1 sine of mu
+x, plus-- all of this is in this parentheses right here--
+plus c2-- instead of cosine of negative mu x, we know
+this identity. So we can just write this as
+cosine of mu x as well, because cosine of minus x is the
+same thing as cosine of x. Plus i times c2-- sine of minus
+mu x is the same thing as minus sine of x. So actually, let's take this--
+take the minus sine out there. So minus sine of mu x. And let's see, it seems like
+we're getting to a point that we can simplify it even more. We can add the two cosine terms.
+So we get the general solution, and I know this
+problem requires a lot of algebraic stamina, but as long
+you don't make careless mistakes you'll find it
+reasonably rewarding, because you'll see where things
+are coming from. So we get y-- the general
+solution is y is equal to e to the lambda x, times-- let's
+add up the two cosine mu x terms. So it's c1 plus c2
+times cosine of mu x. And let's add the two sine of
+mu x terms. So plus i-- we could call that c1i-- that's
+that-- minus c2i times sine of mu x. And we're almost done
+simplifying. And the last thing we can
+simplify is-- well you know c1 and c2 are arbitrary
+constants. So let's just define this
+as another constant. I don't know, let's call it--
+I'll just call it c3, just to not confuse you by using c1
+twice, I'll call this c3. And now this might be a little
+bit of a stretch for you, but if you think about it, it
+really makes sense. This is still just a
+constant, right? Especially if I say, you know
+what, I'm not restricting the constants to the reals. c could be an imaginary
+number. So if c is an imaginary number,
+or some type of complex number, we don't even
+know whether this is necessarily an imaginary
+number. So we're not going to make
+any assumptions about it. Let's just say that this is some
+other arbitrary constant. Call this c4, and we can worry
+about it when we're actually given the initial conditions. But what this gives us, if we
+make that simplification, we actually get a pretty
+straightforward, general solution to our differential
+equation, where the characteristic equation
+has complex roots. And that I'll do it
+in a new color. That is y is equal to e to
+the lambda x, times some constant-- I'll call it c3. It could be c1. It could be c a hundred
+whatever. Some constant times cosine of
+mu of x, plus some other constant-- and I called it c4,
+doesn't have to be c4, I just didn't want to confuse it with
+these-- plus some other constant times the
+sine of mu of x. So there's really two things
+I want you to realize. One is, we haven't done
+anything different. At the end of the day, we still
+just took the two roots and substituted it back into
+these equations for r1 and r2. The difference is, we just kept
+algebraically simplifying it so that we got
+rid of the i's. That's all we did. There was really nothing new
+here except for some algebra, and the use of Euler's
+formula. But when r1 and r2 involved
+complex numbers, we got to this simplification. So in general, as you get the
+characteristic equation, and your two roots are mu plus
+or minus-- oh sorry, no. Your two roots are lambda plus
+or minus mu i, then the general solution is
+going to be this. And, if you had to memorize it,
+although I don't want you to, you should be able to
+derive this on your own. But it's not too hard to-- and
+actually if you ever forget it, solve your characteristic
+equation, get your complex numbers, and just substitute
+it right back in this equation. And then with the real numbers,
+instead of the lambda and the mu, with the real
+numbers, just do the simplification we did. And you'll get to the
+exact same point. But if you're taking an exam,
+and you don't want to waste time, and you want to be able
+to do something fairly quickly, you can just remember
+that if I have a complex root, or if I have complex roots to
+my characteristic equation, lambda plus or minus mu i, then
+my general solution is e to the lambda x, times some
+constant, times cosine of mu x plus some constant, times
+sine of mu x. And let's see if we can do
+a problem real fast that involves that. So let's say I had the
+differential equation y prime prime plus the first
+derivative plus y is equal to 0. So our characteristic equation
+is r squared plus r plus 1 is equal to 0. Let's break out the
+quadratic formula. So the roots are going to be
+negative B, so it's negative 1 plus or minus the square root
+of B squared-- B squared is 1-- minus 4 times AC-- well A
+and C are both 1-- so it's just minus 4. All of that over 2, right? 2 times A. All of that over 2. So the roots are going to be
+negative 1 plus or minus the square root of negative
+3 over 2. Or we could rewrite this
+as, the roots r. r is equal to negative 1/2 plus
+or minus-- well we could rewrite this as i times the
+square root of 3, or square root of 3i over 2. Or we could write this is
+as square root of 3 over 2 times i. Actually, that's the best
+way to write it, right? You just take the i out. So that takes the negative 1
+out, and you are left with square root of 3 over 2. So these are the roots. And now we if we want the
+general solution we just have to throw this right
+back into that. And we'll have our
+general solution. Let me write that
+right down here. So our general solution will be
+y is equal to e to the real part of our complex conjugate. So e to the the minus
+1/2 times x, right? This is our lambda. Times some constant-- I'll write
+c1 now-- c1 times cosine of the imaginary part without
+the i-- so cosine of square root of 3 over 2x, plus c2
+times sine of square root of 3 over 2x. Not too bad. We had complex roots and it
+really didn't take us any more time than when we had
+two real roots. You just have to realize this. And then you have to just
+find-- use the quadratic equation to find the complex
+roots of the characteristic equation. And realize that
+this is lambda. This minus 1/2 is lambda. And that the square root of
+3 over 2 is equal to mu. And then substitute back into
+this solution that we got. Anyway, in the next video, I'll
+do another one of these problems and we'll actually have
+initial conditions, so we can solve for c1 and c2. See you in the next video.

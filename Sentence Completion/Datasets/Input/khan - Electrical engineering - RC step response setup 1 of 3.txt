@@ -1,0 +1,66 @@
+- [Voiceover] In the last video
+we looked at this RC circuit and we gave it a step
+input with a step source, a step from V nought up to V S, with a sharp change right
+here at T equals zero. And we sort of took an intuitive guess at what this voltage looks like here. That's V and T. And in this video we're going to develop a precise expression for what happens here to this voltage across the capacitor. And as we said, this is a
+very very common circuit, there's millions and millions
+of these types of circuits inside every computer, so it really pays to understand this one quite well. Because this is a function of time, because we have a function of time here, this is going to end up
+needing some techniques from calculus to really
+figure out properly. So this is going to be a place where our calculus skills
+are really necessary. And I'm also going to
+assume that you've listened to the video on RC natural response where we worked out the expression for the natural response when
+there was no voltage here, where this was zero. The natural response looks like V equals V not E to the minus T over RC. And there's a video on Khan
+Academy about natural response and there's also an
+article you can read too. So let's get back here,
+let's analyze this fourmulae. And one of the things we can do is, well, first thing we always do is
+we always label the quantities that we want in here, and
+I'll put, there's the current, and here we'll call this voltage of R, and if I've used a
+lowercase letter V or I, that means that quantity
+is changing with time and if I use a big, a
+capital letter V here, that means that those values
+don't change with time. So that's why notation. And when we analyze the
+circuit, a good thing to do is just to look at what
+are the compound equations for this thing. So let's talk about Ohm's
+Law for this resistor here. We know that V R equals I times R Or another way that we can write that is I equals V R over R So the other expression that I could write for the capacitor is the
+capacitor of I equation which is I equals C DV DT and this means the slope of the voltage or the rate of change of the voltage times C is equal to the current. Alright, so far so good. I have one I. There's actually only
+one I in this circuit. So this I here is equal to this one here, that's a good relationship for us to know. Oh and we also have two
+different V variables, we have regular V that's
+across the capacitor and we have V sub R. So let me see if I can write V sub R in terms of V. And one thing I can
+tell from this circuit, this point right here, this is V S. This point right here this is V C. So I can write V R equals V S minus V C. Alright, that's going
+to be useful. Alright. So now what I'm going to do is I'm going to set these two I's equal to each other and at the same time I'll plug in this expression V S minus V C for V R up here. It will go in right here. So we can write C DV DT equals one over R times V R V R is V S minus V C. I shouldn't write V C, I'll just write V. I'll take that out there because we don't need that subscript. And multiply through by
+one over R et on, we get C DV DT equals one over R V S minus one over R V and we'll get C DV DT minus one over R times V equals V S Alright so now we have, this
+is our differential equation. It's a differential equation because it has derivatives in it. In particular this is called a non-homogeneous ordinary differential equation. It's ordinary because
+there's a first derivative, the first derivative
+has a power of one here, that's the ordinary. It's a differential equation
+because it has a derivative and it's called non-homogeneous because this side over here, this is not V or a derivative of V. So this equation is sort of mixed up, it's non-homogeneous. When we did the natural response analysis, this term right here was zero in that equation, so we were
+able to solve this rapidly. So we're going to develop
+a new strategy here for solving this kind of equation this kind of non-homogeneous ODE. So this equation is a little tricky to solve because this
+is not zero over here. We have a mixture of things going on here. This side of the equation represents the forcing function. This is what the circuit
+is being driven to by that step response
+input voltage source. And this side here we're
+going to get tied up with the initial conditions that that capacitor has, so there's sort of two
+things going on here, that make this a little more complicated than usual to solve. And so what our strategy is,
+we take on a strategy here. We break the problem down into two pieces. This is always what engineers do when they're faced with something that is a little
+complicated, is you try to break it into bits and pieces. So what we're going to
+do is, our strategy is to figure out what we
+call the natural response. And we're going to figure
+out something called the forced response. And then we're going to add those together with a plus sign, and that's going to be equal to what we
+call the total response. So this is what the circuit really does. Alright so we got two new words here. One is the forced response,
+and one's the total response. And if we remember before,
+the natural response was what the circuit did
+when nothing was forcing it. We just put in some initial
+energy, some charge, and let the circuit sort of sag toward wherever it was going. That's the natural response. The forced response is going to be what the input source
+forces the circuit to do. And when we take those two
+things and add them together we'll get what the circuit
+is going to do altogether. And this is another good
+application of super position. We're going to take two
+things that the circuit does and analyze them separately and then add them
+together, superimpose them, to get the total response. So they way we do this, the strategy is for the natural response, basically we take for
+the initial conditions, that's the charge on the capacitor, we'll take whatever we get. We'll take the initial Q
+and the initial V W, V not. And when we look at the inputs, we'll set the inputs to zero. So that's how we analyze,
+that's the conditions for the natural response. And when we take the forced response we do the opposite, what we do is we set the initial conditions to zero, simplify the circuit down and we use the inputs that
+are actually applying. In this case, it was V of S. And then you get the total response, we add those together, with a plus sign. So then for the total response, you get the initial conditions,
+which is Q and V not, and you get V S, all together. So that's our strategy. And by turning it into
+two simpler problems, basically we make this
+differential equation a little bit simpler to solve two times than trying to solve it
+all together at once. We'll stop here now and in the next video, we'll follow through on the strategy of combining the forced response
+with the natural response.

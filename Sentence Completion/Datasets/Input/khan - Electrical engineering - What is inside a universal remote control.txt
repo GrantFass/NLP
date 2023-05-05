@@ -1,0 +1,58 @@
+- All right this is a
+universal remote control we're going to take it apart today, see what's inside it
+and what makes it tick. There are two different kinds
+of universal remote controls. There are learning remotes and then there are ones that
+function on code libraries. So this one functions on a code library. The learning remotes tend
+to be more expensive, but what the learning remotes do is you have a learning remote and you can you can put it next to the original remote and basically it uses the original remote to program the learning remote and then it will function there and those like I said tend to be more
+expensive, more complex. This one just has a code library built in and so you enter a certain
+sequence of numbers and you can pull up a certain code and then that will allow this to trigger whatever device that code goes with. So I've already cut the box apart here. Let's go ahead and pull the remote out. Okay, so you can see it's got a number of
+different buttons on here, can each perform different functions, and there's a little LED, a light emitting diode
+that lights up there. And let's take the back part of it out and this is a, this is
+a little battery cover and the battery cover is injection molded and you can tell that
+for a number of reasons. One is it's very precisely made and the other is that it has a has these little injection,
+ejector pins marks on it. So those little circles are pins that were used to to push the part out of
+the mold after it was made. And you can see right here it says ABS plastic. So it's an ABS plastic part, and ABS was selected
+because it's fairly low cost and impact resistant and we all know that remote controls tend to get beat up and knocked around a lot, so
+that's a good plastic to use. So let's see if we can pop this apart. Usually these, these devices have, yeah there we go. All right, this one's molded together. All right. All right, so this device is used uses what's called an
+interference fit or a snap fit, and again the bottom housing and the top housing are
+made out of ABS plastic. You can see that again right here, just the ABS symbol there and the plastic recycling symbol. And anyways so these things are called bosses or stand-offs and they hold the circuit board in place, and these are the little tabs that allow it to snap together. Now the reason it doesn't have any screws is that it helps to reduce cost. So this remote was very inexpensive and so reducing cost was a key way to to be able to produce it for a low amount and still make money selling them. Okay so you can see we've got a number of
+different components here. These things, these springs right here are what the batteries connect to. So there's springs on the inside here and then other ones here. So there, it looks like
+it uses triple A batteries and the power goes through these springs to the other side of the board and we have a, it looks
+like a resister here, maybe a filter of some sort and a capacitor, dielectric capacitor. And then up here we've got a infrared LED. So that shines light in
+the infrared spectrum. So you can't see it with the visibile eye. If you had an infrared
+camera you could see it, it would be shining like a flashlight, but since we can't see in
+infrared it looks invisible, which is kind of nice,
+because you don't want to constantly be shining
+a flashing on your TV or your stereo, and then there's a little
+indicator LED here. So let's turn that over. Then we have our printed circuit board and our buttons. Another reason for injection
+molding is it's very precise and so you can get really nice clean fit. So these buttons fit nicely into there. These buttons are a great way to reduce cost too, because they're, there's no springs that
+cause the buttons to return. It's actually the material itself. So this material is a
+material called Santoprene and it has a particular resilience and so it causes the button to return to its original
+location after it's pressed and there's no need for springs. And then there's these little conductive contacts down here, and those conductive contacts
+when a button is pressed connect these little conductive exposed fingers here. So there's these little parts and I'm not sure if you
+can see those very clearly, but these little tiny parts here have these interlocking exposed contacts. And so they're shaped like this, and so when you push a button it causes the conductor on the back here to come into contact with
+those exposed fingers and it makes the, sends
+the electrical impulse to this guy, which is a a little integrated circuit and it stores the code library and it also interprets the signals from each of these switches. So if you're watching,
+you know, channel four and you push, you know, you
+want to watch channel four and you push channel four and it triggers this connection here then this thing sends, tells the tells the batteries to
+send power to the LED and it blinks and the infrared LED blinks in a particular pattern and that pattern is interpreted
+by your stereo or your TV and it causes the stereo
+or TV to change to that station or channel. And you can see on the back this whole board right here
+is made out of fiber glass and it's got a thin layer of
+copper applied to the back. You can see in places
+the copper is etched away and there's just, the places where you see the sort lighter green
+is where the copper is and the places where it's
+darker there's no copper. So what that does is it allows
+you to create like wires that connect everything together. The copper acts like a
+wire, it's a conductor, and the spaces between the copper function like an insulator. So you don't have any shorts, but so these little
+copper connections here are, allow for a current to flow and they send signals back
+to the microprocessor, again the microprocessor interprets those and then sends signals to the infrared LED which sends the signals off to your TV. And if you could see this with an infrared, again, if you could see it
+with an infrared camera you'd see different sequences of flashes coming from this LED and those would be what
+triggers the change in in your TV or your stereo, and the contacts here are coated so that they don't
+corrode and also so that that they are insulated somewhat. They're coated usually with
+like a lacquer coating. And then this shiny metal
+here this is called solder and it basically fasten
+connectors like this to the other side of the board and make sure that there's a
+conductive connection there so that the power from the
+batteries gets sent to the board. Anyway that's it, that's
+our universal remote.

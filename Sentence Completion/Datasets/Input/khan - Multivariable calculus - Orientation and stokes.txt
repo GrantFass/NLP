@@ -1,0 +1,85 @@
+I've rewritten Stokes'
+theorem right over here. What I want to focus
+on in this video is the question of
+orientation because there are two different orientations
+for our boundary curve. We could go in that
+direction like that, or we could go in the
+opposite direction. We could be going like that. And there are also two
+different orientations for this normal vector. The normal vector might
+pop out like that, or it could actually go
+into the surface like that. So we have to make sure that
+our orientations are consistent, and what I want
+to do is give you two different ways
+of thinking about it. And you might think
+of others, but these are the ones that work for me. In order for Stokes'
+theorem to hold, we have to make sure
+that we're not actually picking the negative of one
+or the other orientations. And so the easiest way
+for me to remember-- it is if our normal
+vector is-- let's say, it goes in that direction. And if you have some
+hypothetical person traversing the boundary of our surface,
+and their direction is pointed. And their head is pointed
+in the same direction as the normal vector-- so
+this is the normal vector. So their head is pointed
+in the exact same direction as the normal vector-- or you
+could say maybe their body or, really, their head-- So that's them. Then the direction that you
+would have to actually traverse the boundary is the direction
+that would allow this person to keep the surface
+to their left. So over here, he would have
+to go in this direction in order to keep the
+surface to his left. So he would have to
+go just like that. If we oriented the
+surface differently-- so let me redraw the
+surface right over here and draw similar surface. So if we had a surface-- so
+this surface looks very similar. This is a very similar
+looking surface that I'm drawing
+right over here just to give a idea of
+some of the contours. But if we said that the normal
+vector for this surface, if we orient it in the opposite
+way-- so if we said that the normal vector here
+was actually pointing downward like that, then
+we would have to, in order for Stokes'
+theorem to hold, we would have to
+traverse the boundary in a different direction
+because, once again, if I draw my little character
+right over here, his head is pointed in the
+direction of the normal vector. He is now upside down. So let me draw him. So this is him running
+right over here. I could draw a better job. This is him running
+right over here. Now, in order to keep--
+and from his point of view, this would kind of look
+like a some type of a pool or a ditch of some kind. It would actually go down. Here, it looks
+like a hill to him. But since he's
+upside down, in order for him to keep the
+boundary to his left, he would have to now go
+in the other direction. So depending on the orientation
+of your normal vector, which is really the orientation
+of your actual surface, will dictate how you need
+to traverse the path. Now, another way to think
+about it-- and this idea was introduced by one of
+the viewers on YouTube, but it's a valid way
+of thinking about it-- is to imagine that the
+surface is a bottle cap. And so let me draw some
+type of a bottle over here. So I'll draw. Let me draw a bottle. You could imagine some type
+of a glass soda bottle. So what we really care about
+is the cap of the bottle-- so make it feel like it's glass. So there, that's our bottle,
+And let me draw its cap. Let me draw the
+cap of the bottle because that's
+what we care about. We can kind of imagine
+that being the surface. So this is the
+cap of our bottle, and you just need to
+think about, well, which way would I have
+to twist the cap in order to make the cap move up, in
+order to take the cap off. And you could think of the
+normal vector as the direction that the cap would move, and
+the twisting is the direction that you would have
+to traverse the path. So you would have to
+twist the bottle that way, or you could think
+about the other way. If you twisted the
+bottle the other way, then the cap would move down. So the normal vector
+is the direction that the cap would
+move, and the direction that you would traverse
+the boundary is how you would actually twist it. So either of these are
+ways of thinking about it, but they're important to
+keep in mind, especially once the shapes start
+getting a little bit more convoluted and oriented
+in strange ways.

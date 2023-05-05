@@ -1,0 +1,134 @@
+- [Instructor] Okay, so we
+know that electrical charges create electric fields
+in the region around them but people get confused
+by electric field problems so you got to get good at
+at least two things here if you wanna proficient at
+dealing with electrical field. You should get good at
+determining the direction of the electric field
+that's created by a charge. If you've got some charge and you wanna know which
+way does that charge create an electric field, you should get really good at that. And if you know the
+direction of the field, you should get good at
+finding the direction of the electric force exerted on a charge. If there's some charge floating around in an electric field, you should be able to say, oh, okay, I can determine
+the electric force. Not too bad. If you get good at these two things, these problems are gonna be way easier and the whole process is
+gonna make a lot more sense. Let's figure out how to do this. How do you do these things? We'll do the first one first. Let's try to tackle this one. Let's try to figure out
+how do you determine the direction of the electric field that's created by a charge. Let's say we didn't know, this
+is what the electric field look like around a positive charge. I just gave this to you but how do we know that this
+is what the electric field's supposed to look like? What we can do is this. We can say that we know the
+definition of electric field is that it's the amount
+of electrical force exerted per charge. In other words, if you
+took some test charge, think of this Q as the test charge and we usually just make
+this a positive test charge so this is easier to think about. If you took some positive
+test charge into some region let's do that, let's put some
+positive test charge in here. We take this test charge,
+we move it around. All we have to do to figure out the direction of the electric field, since this Q would be positive, we can just figure out what direction is the electric force on
+that positive test charge. In other words, the direction
+of the electric field E is gonna be the same direction
+as the electric force on a positive test charge. Because if you know
+about vector equations, look at this electric fields vector, this electric forces vector. This electric field is just gonna adopt the same direction as the electric force as long as this Q is positive. If this Q were negative
+it would flip the sign of this electric force and then the E would point
+the opposite direction. But if we keep our test charge positive then we know, okay, the electric field's just gonna point the same direction as the electrical force on
+that positive test charge. Here's what I mean. We take our positive test charge. We move it around. If I wanna know the electric
+field at this spot right here, I just ask myself, which way does the electrical force point on that test charge? The electric force
+would point to the right since it's being repelled by this other positive charge over here. I know that the electric
+force points to the right, these charges repel each other. And since the electric
+force points to the right, that means the electric
+field in this region also points to the right. It might not have the same magnitude. The electric force might be 20 newtons and the electric field might
+be 10 newtons per coulomb but they have the same direction. And I can move this charge somewhere else, let's say I move it over here. Which way would the electric force point? Well, these positive
+charges are still repelling. I'd still have an electric
+force to the right. That electric force would be smaller but it would still point to the right and that means the electric field also still points to the right, it would be smaller as well but it would still point to the right. And if we wanna determine
+the electric field elsewhere, we can move our positive test charge, I'll move it over to here. I'll ask which way is the electric force on this positive test charge? That would be in this direction since these positive charges
+are repelling each other, they're pushing each other away so this positive always gets pushed away from this other positive charge. And so, that also means
+that the electric field is pointing in that direction as well. We keep doing this. I can move this somewhere else. I can move this positive charge down here. The charges repel so the electric force would point downward. And that means the electric
+field would also point down. If you keep doing this, if you keep mapping what's the direction of the electric force on
+a positive test charge? Eventually, you realize oh,
+it's always just gonna point radially out away from
+this other positive charge. And so we know the electric field from a positive charge is just gonna point radially outward, that's
+why we drew it like this. Because this positive charge would push some positive test charge
+radially away from it since it would be repelling it. Positive charges create electric fields that point radially away from them. Now what if the charge creating the field were a negative charge? So, let's try to figure that one out, let me get rid of this. Let's say the charge
+creating the electric field were negative, a big negative charge, how do we determine the electric field direction around this negative charge? We're gonna do the same thing, we're gonna take our positive test charge and we're gonna keep our
+test charge positive, that way we know that the direction of the electric force on
+this positive test charge is gonna be the same direction as the electric field in that region. In other words, the
+positivity of this test charge will just make it so
+that the electric field and electric force point
+in the same direction. And if we do that, I'll move this around. We'll just put it at this point here, we'll move this test charge here. Which way is the force
+on that test charge? This time it's getting attracted
+to this negative charge. Opposite charges attract so the electric force would point this way and since it's a positive test charge and it preserve the
+direction in this equation, that means the electric field also points in that leftward direction. And we can keep mapping the field we'll move the test charge over to here. The electric force this
+time is gonna point up because this positive test charges is attracted to this negative charge. And if the electric force points up, that means the electric field
+also points up in that region. And you'd realize the electric force is always gonna pull
+a positive test charge toward this negative
+creating the field around it. And because of that, the electric field created by a negative charge
+points radially inward toward that negative charge. This is different. Positive charge created
+a field that pointed radially away from because it always repelled
+the positive test charge. But a negative charge
+creates an electric field that points radially into because it's always attracting
+a positive test charge. Basically what I'm saying is that if we got rid of all these, clean this up, the electric field from a positive charge points radially outward but if it were a negative charge, you'd have to erase all these arrowheads and put them on the other end. Because the electric field
+from a negative charge points radially inward
+toward that negative charge. In other words, the
+electric field created by a negative charge at some
+point in space around it is gonna point toward that negative charge creating that electric field. And so, that's how you could determine the direction of the electric
+field created by a charge. If it's a positive charge you know the electric field points
+radially out from that positive. And if it's a negative charge, you know the field points radially inward toward that negative charge. Okay, so that was number one here. We found the direction of the electric field created by a charge. Check, we've done this. Now we should get good at finding the direction of the electric force exerted on a charge in a field. What does that mean? Let's say you had a region of space with electric field pointing to the right. What's creating this electric field? I don't know. It doesn't even really matter. This is why the electric
+field is a cool idea. I don't really need to know what created this electric field. I mean, it could be
+positive charges over here creating fields that point
+radially away from them. But it could also be
+negative charges over here creating fields that
+point radially toward them or both, we don't really know. It doesn't really matter. As long as I now have an electric field that points to the right, I can figure out the direction
+of the electric force on a charge in that field. Let's put a charge in this field. We'll just start with a positive charge. We'll put this charge in here. Since the electric field is equal to the electric force on a charge divided by that charge, if this is a positive charge and this charge we put
+down here is positive, then the electric force
+points in the same direction as the electric field and vice versa. The electric field and electric force would point the same direction if the charge feeling that
+force is a positive charge. This is just a long way of saying that the electric force
+on a positive charge is gonna point in the same direction as the electric field in that region. If there's an electric field
+that points to the right like we have in here then the electric force on a
+positive charge in that region is also gonna point to the right. And you might be thinking well, duh, isn't that kind of obvious? Doesn't this equation say that the electric force has to be the same direction as the electric field. Almost, not quite. There's one exception. If this charge in here were negative, if you put a negative charge in here, now this force vector gets
+multiplied by a negative, well, divided by a negative
+but the same thing. Dividing by negative ones like
+multiplying by negative one. You would swap the direction
+of this force vector and this electric field would point the opposite direction as the force on a negative charge in that region, and that's confusing. In other words, check this out. Say we took a negative
+charge in this region and we wanted to know which way would the electric force
+be on this negative charge due to this electric field
+that points to the right. Well, if the electric
+field points to the right and this charge is negative, then the electric force
+has to point to the left. And the reason is if this
+force vector is leftward and we divide it by a negative sign, that's gonna take this force vector and turn it from left to right. That means the electric field would be pointing to the right. If the charge experiencing
+the electric force is negative because multiplying a
+vector by negative one changes its direction, the electric force and the electric field are gonna have opposite directions. A negative charge feels a force in the opposite direction
+as the electric field but a positive charge feels a force in the same direction
+as the electric field. And I'll repeat that
+because it's important. Positive charges experience
+an electric force in the same direction
+as the electric field. And negative charges
+experience an electric force in the opposite direction
+as the electric field. People mess this up all the time. This confuses people a lot so here's a way that might
+make it seem a little simpler. Notice that neither of these charges are creating this electric field that's exerting the force on them but let's draw some possibilities for charges that might be
+creating this electric field. One way to create an
+electric field to the right is by having a bunch of
+positive charges over here, creating electric fields that
+point radially away from them. That would create an
+electric field to the right. And what would be the force
+on these charges then? Well, we know positive charges
+repel other positive charges so the electric forces to the right. And positive charges
+attract negative charges so the electric force
+would point to the left. This convention of
+electric forces pointing in the same direction
+as the electric field for a positive charge and electric forces pointing
+in the opposite direction of the electric field
+for a negative charge agrees with what we already know about opposites attracting
+and likes repelling. It's just that people get confused when we don't draw these charges that are creating the electric field, sometimes people forget how to find the direction of the force. If you want to, you can
+always draw them in there. The other possibility is that to create fields to the right, we can put negative charges over here. These might be creating
+that electric field because they'd create fields that point radially into them because that's what negative charges do. And which way will the forces be? These negatives would be attracting this positive to the
+right just like we said in the same direction
+as the electric field. Whether that electric field created by positives or negatives, it doesn't matter. If the electric field points to the right, positive charges feel
+the force to the right. And then a negative charge in this region would be repelled by these negatives or attracted by these positives and it would feel a force to the left. It doesn't matter whether it was positives or negatives creating the field. If the field points right, positive charges are gonna feel a force in that region to the right. Negative charges are gonna feel a force in that region to the left. Let's do one more for practice. Let's say you had this example. Let's say you had a negative charge and it was experiencing an
+electric force downward. Now we wanna know what direction is the electric field in this region? Well, if the electric force on a negative charge is downward, the only way that happens is for there to be an electric field in this region that points upward. Because negative charges are gonna feel an electric force in
+the opposite direction as the electric field. The direction of the E would
+be the opposite direction as the direction of F or it could just ask
+what charge would cause an electric force downward
+on this negative charge? A big positive charge
+down here would do it. Well, positive charges create fields that point radially away from them. So in this region up here it would have to point radially upward since that's a away from
+the positive charge. Or you could say something else that would cause an electric force downward on this negative charge would be a big negative charge up here. And negative charges always create fields that point radially into them. What would the field be
+in this region down here, it would still point upward because upward would be radially in toward the negative charge
+creating that field. Recapping, you can find the direction of the electric field created by a charge since positive charges create fields that point radially away from them. And negative charges create fields that point radially toward them. And you can find the direction of the electric force on a charge since positive charges are
+gonna feel an electric force in the same direction as the
+electric field in that region. And negative charges are
+gonna feel an electric force in the opposite direction to the electric field in that region.

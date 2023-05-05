@@ -1,0 +1,71 @@
+- [Voiceover] In this
+video we're going to go through an example reaction that uses Le Chatelier's principle. So what we're gonna do is, we're gonna apply Le Chatelier's principle to look at various
+changes to this reaction when we perturb our
+reaction from equilibrium. Just as a reminder, what do I mean when I say, This reaction is at equilibrium.? So what that means is we
+have a reversible reaction. We have the forward reaction
+which has some rate K forward. The reverse reaction
+has some rate K backward and a dynamic equilibrium. These rate are equal to each other, so all of the concentrations
+are going to stay constant, and then what we do is we
+decide to see what happens when we add some carbon dioxide gas. If we add carbon dioxide gas, the concentration of carbon
+dioxide gas will go up, or you can think about it
+as a partial pressure going up. And Le Chatelier's principle tells us, that if we had a reaction at equilibrium and then we perturbed
+it by adding more CO2, it will shift to try to reduce
+the effect of that change. It will favor the reverse
+reaction, so if we add CO2, what happens is, we favor our reactants. Another way we can see this is by looking at the equilibrium
+constant for this reaction. We can write our equilibrium constant K, where this is a capital K. It's kind of confusing, but I will try to make
+this look like a capital K. (laughs) We can write it in two ways, we can write it in terms
+of the molar concentration, and if we write Kc, the expression will be
+the product concentration, our CO2 gas concentration. And that's it, because
+when we write out Kc, we write out concentrations of gases and we write out
+concentrations of solutions, but we don't include solids. Kc is just the concentration
+of CO2 at equilibrium. I'm going to write an eq there just to show that's the
+equilibrium concentration. I said that you can also write it in terms of partial pressures, so there's our fancy capital
+K with a p subscript, which means that instead
+of concentrations, we're writing everything for gases in terms of partial pressures. We have the partial
+pressure of CO2 and again, that's it, because
+everything else is a solid, so we don't include those in
+our equilibrium expression. Writing these expressions
+out will be really helpful for our second condition. We're going to think about what happens, when you increase the volume of our container. We can rewrite the partial pressure, actually, in terms of the volume, so if you use the ideal gas law, the partial pressure of CO2 is equal to the moles of CO2 times RT divided by the volume. Similarly, we can rewrite
+molar concentration in terms of moles divided by volume. If we increase the
+volume of our container, increasing the volume, since
+it's in the denominator, will make our pressure go down, so our partial pressure
+of CO2 will go down and we won't be at equilibrium anymore and the same for the concentration, since our perturbation is decreasing the carbon
+dioxide concentrations, Le Chatelier's principle says, that our reaction will try
+to counteract that change. It will try to get back to equilibrium and try to get the CO2
+concentration back up, so it will have to favor products. Our reaction will favor
+the products to try to get the moles of CO2 back up, so that we get back to the
+equilibrium concentration of CO2 and the equilibrium partial pressure. The third change we're gonna look at is what happens when you add argon gas. Argon gas is an inert gas. We don't expect it to react to anything. One thing that will happen
+when you add the argon gas is it will increase the overall
+pressure of your container, so it will increase the total pressure. But that actually doesn't tell us what it does to our equilibrium. Let's look back at our
+equilibrium expressions Kc and Kp. We can see that the partial
+pressure for Kp only depends on the moles of our CO2 and our volume. Since we didn't change the moles of CO2 and we also didn't change the volume. Even though we increased P-total, the partial pressure
+of CO2 stayed the same. That means we didn't perturb
+our reaction from equilibrium and since we didn't perturb
+it from equilibrium, there'll be no shift. We are still at equilibrium. The concentrations will
+still stay the same. What happens when we add
+more calcium carbonate? That's our starting
+material and it is a solid. Our equilibrium expressions are determined by our CO2 concentrations, so adding more calcium carbonate, which is a solid, isn't actually going
+to perturb our reaction from equilibrium. Our reaction is still
+going to be at equilibrium and we will get no
+shift in concentrations. We're actually gonna
+look at one more thing. We're going to think about what happens when you add a catalyst. Let's say we want to
+speed up this reaction. We can envision what's going on here when we add the catalyst
+by using an energy diagram. If we have an energy diagram. We have energy on the Y axis and we're looking at
+the difference in energy between our reactants,
+or starting materials, with our products and I just sort of made up
+these relative energies. The way that I have this drawn here, we can see that our product is lower energy than our starting material and our forward rate,
+Kf, which is is up here, is determined by the size
+of this activation barrier between our starting material
+and our transition state. Our backward rate, Kb, is determined by the size of this energy barrier, so the difference in energy between the product and
+our transition state. If we add a catalyst to our reaction, we can think about it as
+lowering the activation energy for our reaction and that means we have
+a lower energy barrier for our forward reaction, so our forward reaction
+is gonna get faster, but it's also gonna lower the
+rate of our backward reaction. K backward, or Kb, is also gonna speedup and since it speeds up both the forward and the backward reactions adding a catalyst also
+won't perturb your reaction from equilibrium. Adding a catalyst will result
+in no shift in concentrations. So the main things to remember
+from this problem, I think. the things I find most tricky anyway, are that adding an inert gas, it'll increase your total pressure, but it won't actually change
+any of your partial pressures. It won't shift your
+reaction from equilibrium and the same thing is true
+for solids and catalysts. All of those three things: inert gases, solids, and catalysts, will not shift your
+reaction from equilibrium.

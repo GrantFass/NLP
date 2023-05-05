@@ -1,0 +1,12 @@
+(metal clattering) - You've just seen how any color can be represented by blending together different amounts of three colors, red, green and blue. For example, the RGB
+value of this gold color is 100% red, slightly less green, and no blue, but as you may have noticed
+in the previous exercise, it's fairly difficult to
+find the correct RGB values to match a desired color. So artists have developed new ways to specify colors in a more intuitive way. One popular method they use is called HSL, short for hue, saturation, and lightness, similar to the HSV we saw earlier. Artists use a tool called a color wheel to pick the hue and saturation they like. Hue is what we normally call color, is based on the position
+around this wheel, such as this red. Saturation defines how pure a color is, and saturation is based on the distance from the center of this wheel. If we want to desaturate, we move inward, and if we want to saturate, we move outward. For example, to saturate
+this shade of red, we remove any contribution
+of green and blue, whereas to desaturate it, we instead increase the contribution of green and blue. Taken to the extreme,
+this trends towards grey because the three color
+contributions are equal. So at full desaturation, our red becomes achromatic, or colorless. If an artist wants to use a strong yellow, they first have to find
+the yellow hue they want. Then they move in the radial direction to saturate or desaturate it. Finally, there is lightness, which is adjusted using a separate slider. For example, we can take our yellow from very low lightness like this to a very high lightness like this. You can already see
+that this is a much more intuitive way of finding colors compared to using RGB values. Okay, let's pause here so you can get the hang
+of HSL color selection in the next exercise.

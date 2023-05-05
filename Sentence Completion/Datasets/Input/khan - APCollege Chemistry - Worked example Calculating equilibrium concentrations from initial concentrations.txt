@@ -1,0 +1,50 @@
+- [Instructor] For the
+reaction bromine gas plus chlorine gas goes to BrCl, Kc is equal to 7.0 at 400 Kelvin. If the initial concentration
+of bromine is 0.60 molar and the initial concentration of chlorine is also 0.60 molar, our
+goal is to calculate the equilibrium concentrations
+of Br2, Cl2 and BrCl. To help us find the
+equilibrium concentrations, we're gonna use an ICE table, where I stands for the
+initial concentration, C stands for the change in concentration and E stands for
+equilibrium concentration. For the initial concentrations, we have 0.60 molar for bromine, 0.60 molar for chlorine, and if we assume the reaction hasn't started yet, then we're gonna put a zero
+in here for our product, BrCl. Next, we think about Br2
+reacting with Cl2 to form BrCl. Some of the bromine is going to react, but we don't know how much, so we're gonna call that amount x, and we're gonna lose some of that bromine when we form our product,
+so we're gonna write minus x under bromine in our ICE table. Next, we think about mole ratios. In the balanced equation,
+it's a one to one mole ratio of bromine to chlorine. Therefore, if we're losing x for bromine, we're also going to lose x for chlorine. So I can write here minus x
+under chlorine in the ICE table. When Br2 and Cl2 react
+together, we lose our reactants, and that means we're gonna
+gain some of our products. To figure out how much, we
+need to look at mole ratios. So the mole ratio of bromine
+to BrCl is one to two, therefore if we're losing x for Br2, we must be gaining two x for BrCl. So I can go ahead and write
+plus two x under BrCl. Next, let's think about
+equilibrium concentrations. If the initial concentration
+of bromine is 0.6 and we're losing x, the
+equilibrium concentration must be 0.60 minus x. And the same thing for chlorine. It would be 0.60 minus x. For BrCl, we start off with
+zero, and we gained two x. Therefore at equilibrium,
+the equilibrium concentration would be equal to just two x. The next step is to use
+the balanced equation to write an equilibrium
+constant expression. So we would write Kc is equal to, and then we look at our balanced equation, and for our product we have BrCl with a two as a coefficient, so Kc would be equal to the
+concentration of BrCl squared, and we're gonna divide
+that by the concentration of our reactants, which would be Br2, so the concentration of Br2
+raised to the first power, because the coefficient of one, times the concentration of Cl2 also raised to the first power. The concentrations in an
+equilibrium constant expression are equilibrium concentrations,
+therefore we can plug in the equilibrium concentrations
+from our ICE table. So the equilibrium concentration
+for BrCl was two x, the equilibrium concentration
+for Br2 was 0.60 minus x, and the same for chlorine, so
+we can plug that in as well. Here we have our
+equilibrium concentrations plugged into our equilibrium
+constant expression, and also Kc was equal to 7.0
+for this reaction at 400 Kelvin so 7.0 is plugged in for Kc. Our goal is to solve for x, and
+I've re-written it down here because 0.60 minus x times 0.60 minus x is equal to 0.60 minus x squared. And if you write it this
+way, it's a little bit easier to see that we can solve for x by taking the square root of both sides. So let's go ahead and take
+the square root of both sides and solve for x. Taking the square root of both sides gives us 2.65 is equal to
+two x over 0.60 minus x. To solve for x, we would
+then multiply both sides by 0.60 minus x to give us this, and then after a little more algebra, we get 1.59 is equal to 4.65x. So x is equal to 1.59 divided by 4.65, which is equal to 0.34. Now that we know that x is equal to 0.34, we can plug that into our ICE table and solve for our
+equilibrium concentrations. So for the equilibrium
+concentration of Br2, it's 0.60 minus x, so
+that's 0.60 minus 0.34, which is equal to 0.26 molar. So 0.26 molar is the equilibrium
+concentration for bromine. For chlorine, it would
+be the same calculation, 0.60 minus x would be 0.60 minus 0.34, so the equilibrium
+concentration of chlorine is also 0.26 molar. For BrCl, it's two times x
+so that's two times 0.34, which is equal to 0.68 molar. So 0.68 molar is the equilibrium
+concentration for BrCl.

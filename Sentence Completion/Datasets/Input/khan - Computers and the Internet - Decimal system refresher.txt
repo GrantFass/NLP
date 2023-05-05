@@ -1,0 +1,9 @@
+- [Instructor] Let's
+star with the refresher of the decimal system. Since understanding decimal will help us to understand binary. Consider this number 234. We often say that the
+four is in the ones place. The three is in the tens place. And the two is in the hundreds places. That makes this number equal to two times a 100, plus three times 10, plus four times one. All equal 234. Now we can also say that this ones place is 10 raised to the power of zero. The tens place is 10
+raised to the power of one. And the hundreds place is 10
+raised to the power of two. If we're going to add another place here, this would be a 1,000 and
+that would be the same as 10 raised to the power of three. Each place represents a power of 10. And that's why this is the decimal system from the Latin for 10. To figure out what
+number we're looking at, we just look at the digit
+that's in that place and we multiply it times its place. So a one here would be one
+times a 1,000, plus 234. And that's the decimal system.

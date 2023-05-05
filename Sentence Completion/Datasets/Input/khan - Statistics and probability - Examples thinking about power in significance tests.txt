@@ -1,0 +1,42 @@
+- [Instructor] A significance
+test is going to be performed using a significance level of 5/100. Suppose that the null
+hypothesis is actually false. If the significance level
+was lowered to 1/100, which of the following would be true? So pause this video and see if you can answer it on your own. Okay, now let's do this together. Let's see, they're talking
+how the probability of a type II error and/or
+the power would change. So before I even look at the choices, let's think about this. We have talked about in previous videos that if we increase our
+level of significance, that will increase our power. And power is the probability
+of not making a type II error, so that would decrease the probability of making a type II error. But in this question
+we're going the other way. We're decreasing the
+level of significance, which would lower the probability
+of making a type I error, but this would decrease the power. It actually would increase. It actually would increase the probability of making a type II error. Which of these choices
+are consistent with that? Well, choice A says that
+both the type II error and the power would decrease. Well, these two things
+don't move together. If one increases, the other decreases. So we rule that one out. Choice B also has these
+two things moving together, which can't be true. If one increases, the other decreases. Choice C, the probability of a
+type II error would increase. That's consistent with what we have here. And the power of the test would decrease. Yep, that's consistent
+with what we have here, so that looks good. And choice D is the opposite of that. The probability of a type
+II error would decrease. They're talking about
+this scenario over here, and that would have happened if they increased our significance
+level, not decreased it, so we could rule that one out as well. Let's do another example. Asha owns a car wash
+and is trying to decide whether or not to
+purchase a vending machine so that customers can buy
+coffee while they wait. She'll get the machine if she's
+convinced that more than 30% of her customers would buy coffee. She plans on taking a
+random sample of n customers and asking them whether or
+not they would buy coffee from the machine, and she'll
+then do a significance test using alpha equals 0.05 to
+see if the sample proportion who say "yes" is significantly
+greater than 30%. Which situation below would result in the highest power for her test? So, again, pause this
+video and try to answer it. Well, before I even look at the choices, we could think about what
+her hypotheses would be. Her null hypothesis is, you can kind of view it as the status quo. No news here. And that would be that the
+true population proportion of people who want to buy coffee is 30% and that her alternative
+hypothesis is that no, the true population proportion, the true population parameter
+there is greater than is greater than 30%. If we're talking about what would result in the highest power for her test. So, a high power. A high power means the lowest probability of making a type II error. And in other videos we've talked about it. It looks like she's dealing
+with the sample size. And what is the true proportion of customers that would buy coffee? And the sample size is under her control. The true proportion isn't. Don't wanna make it seem like somehow you can
+change the true proportion in order to get a higher power. You can change the sample size. But the general principle is, the higher the sample
+size, the higher the power. So you want the highest
+possible sample size. And you're going to have a higher power if the true proportion is further from your null hypothesis proportion. We want the highest possible n, and that looks like an n of
+200, which is there and there. And we want a true proportion of customers that would actually buy coffee as far away as possible
+from our null hypothesis, which, once again, would
+not be under Asha's control. But you can clearly see
+that 50% is further from 30 than 32 is, so this one, choice D is the one that looks good.

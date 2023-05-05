@@ -1,0 +1,37 @@
+- [Instructor] So we have listed here are two significant properties
+of indefinite integrals. And we will see in the future that they are very, very powerful. All this is saying is
+the indefinite integral of the sum of two different functions is equal to the sum of
+the indefinite integral of each of those functions. This one right over here
+says the indefinite integral of a constant, that's not
+gonna be a function of x, of a constant times f
+of x is the same thing as the constant times the
+indefinite integral of f of x. So one way to think about it is we took the constant out of the integral, which we'll see in the future, both of these are very useful techniques. Now, if you're satisfied with
+them as they are written, then that's fine, you can move on. If you want a little bit of a proof, What I'm going to do
+here to give an argument for why this is true is use
+the derivative properties. Take the derivative of both sides and see that the equality holds once we get rid of the integrals. So let's do that. Let's take the derivative
+with respect to x of both sides of this. Derivative with respect to x. The left side here, well,
+this will just become whatever's inside the indefinite integral. This will just become f of x plus g of x plus g of x. Now what would this become? Well, we could just go to
+our derivative properties. The derivative of the sum of two things, that's just the same thing as
+the sum of the derivatives. So this'll be a little bit lengthy. So this is going to be the
+derivative with respect to x of this first part plus the
+derivative with respect to x of this second part. So this first part is the
+integral of f of x dx, we're gonna add it. And this is the integral of g of x dx. So let met write it down. This is f of x and then this is g of x. Now, what are these things? Well, these things, let me
+just write this equal sign right over here. So then this is going to be equal to the derivative of this with respect to x is just going to be f of x. And then the derivative
+with respect to here is just going to be g of x. And this is obviously true. So now let's tackle this. Well, let's just do the same thing. Let's take the derivative of both sides. So the derivative with
+respect to x of that and the derivative with
+respect to x of that. So the left-hand side will
+clearly become c times f of x. The right-hand side is going to become, well, we know from our
+derivative properties, the derivative of a
+constant times something is the same thing as the
+constant times the derivative of that something. So then we have the integral, indefinite integral of f of x dx. And then this thing is
+just going to be f of x. So this is all going to be
+equal to c times f of x. So once again, you can see that
+the equality clearly holds. So hopefully this makes you feel good that those properties are true. But the more important thing
+is you know when to use it. So, for example, if I were
+to take the integral of, let's say, x squared plus cosine of x, the indefinite
+integral of that, we now know it's going to
+be useful in the future. Say, well, this is the same thing as the integral of x squared dx plus the integral of cosine of x dx. So this is the same
+thing as that plus that. Then you can separately evaluate them. And this is helpful, because
+we know that if we are trying to figure out the integral of, let's say, pi times sine of x dx, then we can take this constant out. Pi is in no way dependent on x, it's just going to stay be equal to pi. So we can take it out and
+that is going to be equal to pi times the integral of sine of x. Two very useful properties, and hopefully you feel a lot
+better about them both now.

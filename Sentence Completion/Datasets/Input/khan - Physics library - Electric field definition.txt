@@ -1,0 +1,146 @@
+- [Instructor] So here's a question. If you got two positive charges, we know they're gonna repel. So if I put these next to each other, this blue charge would repel the green charge and vice versa, but how is that working exactly? I mean there's nothing
+in between these charges. How is the blue charge
+pushing on the green charge when it's not even touching it? So this is kind of a weird thing, right? If I want to push on something in my room, I need to walk up to that thing and actually physically touch it, and then give it a shove. Yet this blue charge
+seemingly exerts a force on the green charge with just
+empty space in between, right? There's no strings here. What is the mechanism? So physicists were kind of embarrassed and concerned about this. So it was like, all right,
+we can calculate exactly how much force there
+would be on each charge but we don't really know how
+that is actually working. It doesn't seem to be making any sense that a charge can push on another charge across potentially vast
+stretches of the universe here. This could be a huge distance and yet somehow this
+charge over here knows, ah, there's a charge
+over here pushing on me. How is that possible? This isn't new to electrical forces. This was a problem when Newton came up with the force of gravity. When Newton figured out how to calculate the force of gravity, he showed, okay, we can calculate how much
+the earth is gonna pull on the moon and people were like, this is great because now we can calculate and predict the orbits of
+the planets and comets. But when people were like, hey,
+Newton, that's really cool, but how is the earth pulling on the moon when there's nothing in between? Newton was basically
+like I don't know exactly why that works but I know the math lets me predict it exactly. And so ever since the time of Newton, this has been kind of in the
+back of physicists' minds for hundreds of years now as we let up to the electric force. People were kind of like, all right, how was this force at a distance
+actually being transmitted? Is there something in between here that's actually letting
+the earth pull on the moon? So finally when people were dealing with this electrical phenomenon, they decided, all right, it's time, it's time to answer how the two objects exert forces on each other across what a potentially
+vast distances of space. The person who came up with an explanation was named Michael Faraday. So this is Michael Faraday right here. He did his science in the
+1800s generally regarded as one of the most
+important physicist/chemist of all time really. What Faraday said is this, he said, guys, here's how it's working. So this positive charge over here. So forget about the other positive. Forget about this green
+positive for a minute. Let's just focus on this blue one. He said, here's what the
+blue charge is really doing. He said this blue charge is creating an electric field all around it and we'll abbreviate this
+electric field with a capital E. Since it's a vector, we'll put a little vector
+arrow over the top. So Faraday said this
+positive charge creates an electric field everywhere
+around it at all times whether there's other
+charges nearby or not. The electric field gets weaker and weaker the farther out you go. So near the charge you've
+got a big electric field and then the farther away you go, the weaker the electric field is. So this is kind of like a
+spider web surrounding a spider except the spider is like the charge and the web is like the electric field. Now you gotta be careful. People see this and they think oh, this is just like electric force, right? But this is not a force. These vectors here are not forces. This is where people get really mixed up. They look like forces
+because people are like we use arrows to draw forces before. Aren't these just forces? They're not. It's a vector so we
+represent them with arrows but the electric field is not the exact same
+thing as electric force. So you gotta keep that straight. They are not the same thing. They're very related but
+they are not the same thing. Electric force is F. We represent it with F and maybe a little e for electric force and since it's a vector maybe we can draw it with a vector sign. But the electric force is not the same thing as electric field E. How are they related? Here's how it works. So even though the electric
+field is not a force, it can cause an electric
+force on other charges. So as it stands right now, if all we had was a positive charge, creating its electric field
+in the region surrounding it, there would be no electric force. You need two charges to
+have an electrical force. This charge is not gonna
+exert a force on itself. This blue charge and they
+keep these all straight. Let's just give this a name. We'll call this Q one. This charge Q one
+creates an electric field but that electric field,
+I'll call it E one because it's created by Q one. This E one does not
+exert a force on Q one. It will exert a force on any other charges that wander into this region. So this electric field
+that gets created by Q one just sits and waits patiently just like a spider web
+waits around the spider for another charge to wander in. Then it will exert a force on it. Let's put another charge in here. Let's say this positive charge
+has wandered into this zone for some reason who knows why. If it wanders into this region, there will be an electric
+force on this charge. Here's the story that
+Michael Faraday told us that made us feel better about how this force at a distance works. Michael Faraday said, "Here's
+what's really happening. "This positive charge Q one
+is creating an electric field "all around it including
+this point over here "where Q two is." So we'll call this charge Q two. So there was already an
+electric field at that point that was being created by Q one. Now, when this Q two
+wanders into this region, the Q two just has to look at
+its immediate surroundings. At this point right here it
+sees this electric field. It senses it and it knows, okay, an electric field
+pointing to the right. That's gonna cause a
+force on me to the right. So it causes an electric force. The electric field is
+not an electric force but it will cause an
+electric force on a charge that wanders around into it. You might wander how is this any better. Well it keep things local. So physicists like it when things stay what we call a local. By local, we mean,
+okay, this charge Q two. In order to figure out what it should do, all it has to know about is the things and the space immediately surrounding it. So it just samples the electric field that at this point right here, it says, oh, there's an electric
+field pointing this way. I'm gonna feel an electric
+force into that direction. In other words, it doesn't have to know. It doesn't have to say, oh
+there's this positive charge on this other side of the galaxy and that's the thing
+exerting a force on me. Nope, it just knows. Oh, there's an electric field right here. That's all I need to know to figure out the electric force on me. So that's sort of how Faraday
+got around this question of how does one object exert
+a force on another object when there's nothing in between. He said there's a mediator basically that this first charge
+creates a field everywhere including at this point and then that field is
+creating a force on this charge that wanders into that zone. So yes, conceptually
+the way you could think about it is this. This charge Q one is creating
+the electric field E one. This electric field in this
+region is causing a force on this charge Q two and that's how Q two
+knows to feel the force it's supposed to feel
+which keeps things local. This Q two just has to
+know about the field right in its vicinity in order
+to figure out what to do. It doesn't have to know about things on the other side of the universe. But you could complain at this point. You might be like, "Wait a minute. "Doesn't Q two also create
+its own electric field? "Wouldn't Q two also
+create an electric field "every where around it?" We could call that E two since it's created by charge too. Doesn't it create its own electric field just like all charges do? Yeah, it does. In fact it will create an
+electric field over here next to Q one and that's how Q one knows it's supposed to feel the force it feels in the direction that it feels it. So that's how these
+charges talk to each other. You could think about it that way. The way charges talk to each other is with the electric field. One charge creates an electric field over by the other charge. That charge feels the force. The other charge creates a
+field by the first charge. That first charge feels the force. So conceptually that's how
+this electric field works and that's how it does. So at this point you
+might not be impressed. You might be like, "Are
+we just making up a story "to make ourselves feel better here? "Is this just some elaborate
+fairy tale that makes us "so that we don't feel so awkward "talking about things exerting forces "on each other at a distance? "Is there any benefit for doing this?" And there is, there's a big benefit. Mathematically in terms of physics, talking about the electric field makes describing the physics way easier. In fact it makes it so that
+you don't even have to know about the charge creating
+that field at all. If you have a way of knowing the field even if you don't know what
+charge is creating that fied, you could figure out what
+the force is gonna be on any charge in that
+field without even knowing the charge that created that field and that turns out to happen a lot. So knowing the electric
+field is extremely useful. It lets you determine the
+electric force on a charge even if you don't know what
+charge is exerting that force. So up to this point, I've
+been trying to motivate why we would want this
+idea of the electric field, why physicists would
+come up with this idea. But I wouldn't blame you if at this point you aren't thinking, I still don't know what electric field is. I know what it isn't. Electric field is not electric force but what exactly is the electric field. So let me give the electric
+field a proper definition here. The electric field E at a point in space is defined to be the
+amount of electric force per charge exerted at that point in space. So this is what the electric field is. It's the force per charge. The way physicists usually
+think about this is imagine throwing a test charge in here. We call this a test charge. We'd like to imagine that
+this charge is really little so that it doesn't completely
+likes swamped and overwhelmed. The other charge is creating this field. Otherwise if you threw
+some huge charge in here, all the other charge would scatter and it would change the whole situation. So let's say we put a really
+small test charge in here. If I want to know what the
+electric field is at a point in space, I'd just bring
+my test charge over here, measure the amount of electric
+force on that test charge and then I just divide
+by how much was there in that test charge. What was the charge of that test charge? I'll call this charge two. If I take the force on charge two, divide it by charge two, that would be the value
+of the electric field at that point in space. So this is how we define
+the electric field. The definition of electric field is the amount of force per charge. In other words, let's
+put some numbers in here. Let's say Q two was two coulombs. This is actually an
+enormous amount of charge. This is kind of unrealistic example but it will make the numbers come out nice and conceptually it's the same thing. So a positive two
+coulombs was placed here. That's the value of Q two. Let's say when we measure
+the force on Q two, we're getting 10 newtons of force. In that case, we can just say, "All right, then the electric field, "in that region of that vicinity "is gonna be 10 newtons of
+force per two coulombs of charge "and we get an electric field of five. "Then the units are newtons per coulomb." And that makes sense because
+what the electric field is really telling you is
+how many newtons of force you would get per coulomb. If you put more coulombs
+at that point in space, there'd be a greater force. This number is telling
+you the number of newtons you would get per coulomb. Since we had two coulombs
+at this point in space and there was five newtons per coulomb, the force was 10 newtons. So this number five newtons
+per coulomb is important because it's the same for
+any charge you put there. This is why the electric field is useful. At this point in space right here, if the electric field is five, it's five newtons per coulomb no matter what charge you put there. So if I put a four coulombs
+charge at that point, since there's five
+newtons for every coulomb, there'd be a 20 newton force there because there's five
+newtons for every coulomb. If there's four coulombs, there'd
+be five times four newtons which is 20 newtons. So you can imagine rearranging
+this formula another way. You could just multiply those sides by Q and you get that the
+electric force on a charge is equal to the value of that
+charge at that point in space multiplied by the value
+of the electric field at that point in space. But it's important to note
+this electric field is not created by this charge Q two. This was created by some other charge or collection of charges. Remember this charge Q one is
+creating this electric field E one and that electric field is causing this electric force on Q two. Q two did not create
+the electric field E one that it interacted with. Q one created that electric field E one. So people get mixed up. They see this formula. They start to think maybe this Q two is creating
+this electric field. It's not. This electric field is
+causing the electric force on that charge, not the other way around. This Q two is not creating this field. This field is causing
+the force on that charge. So this formula is extremely useful. If you know the electric
+field at a point in space, you can figure out the
+electric force on any charge at that point by just multiplying
+the two values together to get the electric force. So you can see now that the electric field is not the electric force. It's the amount of
+electric force per charge at a point in space. Very related but different. Different enough that you have
+to keep these ideas separate. Electric field is not electric
+force, and vice versa. Electric force is not electric field. The electric field is the amount of electric force per charge and the electric force on a
+charge at some point in space is the amount of charge
+times the electric field at that point in space. So recapping, electric charges
+create electric fields. These electric fields
+enter and cause forces on charges that exists in that region. The value of the electric
+field is representing the number of newtons of force per coulomb at that point in space. In terms of a formula, the electric field is the amount of force per charge or in other words the
+amount of electric force is the charge times the electric field at that point in space.

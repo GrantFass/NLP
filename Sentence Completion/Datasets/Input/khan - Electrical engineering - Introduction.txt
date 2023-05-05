@@ -1,0 +1,65 @@
+So how do we take
+our products here that we've taken apart-- except
+for the bottle, which is just a recycled good-- and we want
+to see if we can create value by building something
+new out of the parts that we've taken out of all
+these different components here. So what we've done is we've
+designed a new product that's kind of designed to get kids
+excited about math and science, and in order for all these
+products to work for us, we need to incorporate
+some electronics. So we have an Arduino. It's a basically
+programmable chip that you can easily wire
+to other components. It's great for prototyping. And we have a L298
+chip, which is this guy, on a motor control. It's set up as a
+motor controller here, and the board that you can
+see here comes as a kit. So we put that
+together, and that'll allow us to control the
+speed and direction of motors so that we can move
+our little bot around. And then we have a
+little sound chip here, and so that allows us to
+record and playback sound. And so we'll control
+everything with the Arduino. The motor controller will
+let us drive motors around, and then this guy will help us
+to record and play back sound. And we're going to use some of
+the parts from these products to make something cool. So after three weeks
+of development, we've come up with Bit-Zee Bot. Bit-Zee is a little
+programmable robot that drives around and
+has a little personality. You can control Bit-Zee with
+a universal remote control-- the one that we took
+apart, actually. And that sends a signal
+right here to the IR sensor. And then that communicates
+with the Arduino board and tells the Arduino board
+that it just got a signal. And the Arduino can turn on
+and off different functions, so we can make Bit-Zee
+do a little dance, make its lights come on. And Bit-Zee has a
+couple of switches here. There's a switch here
+and a switch here, and those came out of the radio. And then you can that Bit-Zee's
+nose came from a bottle cap, and its eyes came
+from a bottle cap. And the power for Bit-Zee
+is just some batteries that you can get from Radio
+Shack in a battery holder, and the motors came
+from the hair dryer. So here's one of the
+hair dryer motors. And basically, we use that as
+a wheel to push Bit-Zee around. Bit-Zee's also got the ability
+to record and play back sound, so we use that, and you
+can use the remote control to trigger that function. We've also got a
+motor controller here, and that, of course,
+allows us to control the motors, the
+speed, and direction. The camera that we took apart,
+we mounted to the board here, and that came out
+of this camera. And you can use that to
+take photos of things. And again, the
+Arduino controls that, and we control the Arduino
+with the remote control. And you can see there's what's
+called a bread board here, and that's where
+all the wires go to basically to allow
+us to connect more things to the
+Arduino And we have a number of resistors
+and transistors here. The resistors
+limit current flow, and the transistors are
+functioning as switches, so they allow us to control
+different devices, again, with our Arduino here. So this is Bit-Zee, and
+Bit-Zee has got a personality. You can see Bit-Zee lights
+up and does different things when it gets its
+bumper pressed or when it bumps into something. So we're going to show
+you more about Bit-Zee in the next few sessions.

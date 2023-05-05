@@ -1,0 +1,42 @@
+The quotient of two
+polynomials-- a of x and b of x-- can be
+written in the form a of x over b of x is equal to
+q of x plus r of x over b of x-- where q of x and r
+of x are polynomials and the degree of r of x is
+less than the degree of b of x. Write the quotient
+7x to the sixth plus x to the third plus 2x plus
+1 over x squared in this form. Well, this one is
+pretty straightforward because we're
+dividing by x squared. So you could literally
+view this as 7x to the sixth
+divided by x squared plus x to the third divided
+by x squared plus 2x divided by x squared plus 1
+divided by x squared. So we could just do
+this term by term. What's 7x to the sixth
+divided by x squared? Well, x to the sixth divided by
+x squared is x to the fourth. So it's going to be 7x
+to the fourth power. And then, same thing
+right over here. Plus x to the third
+divided by x squared. Well, that's just going to be x. So plus x. And then, we're going to
+have 2x divided by x squared. But remember, we
+want to write it in a form of r of x over
+b of x-- where r of x has a lower degree than b of x. Well, 2x has a lower
+degree than x squared. Here this is degree 1. This is degree 2. So you could write it as
+plus 2x over x squared. Like that. And then, you could write
+plus 1 over x squared. So you could do this--
+plus 1 over x squared. So you could write it like that. But that's not exactly
+the form that they want. They want us to write it q
+of x-- and you could view that as 7x to the fourth plus x. And then, they want plus
+r of x over b of x So plus some polynomial over
+x squared in this case. So instead of writing it as 2x
+over x squared plus 1 over x squared, we could just write
+it as 2x plus 1 over x squared. So one way to think about it. So let me just put
+some parentheses here so that it interprets
+my typing correctly. So notice, this part
+of the polynomial, these terms have an equal or
+higher degree than x squared. So I just divided those. 7x to the sixth divided by x
+squared is 7x to the fourth. x to the third divided
+by x squared is x. And then, once I got two terms
+that had a lower degree than x squared, I just left on there. I just said plus whatever 2x
+plus 1 divided by x squared is. And that's the form that they
+wanted us to write it in. We'll check our answer. And we got it right.

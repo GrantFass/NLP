@@ -1,0 +1,98 @@
+You go for a job interview. And the first thing that your
+interviewer says is, look, you have great work experience. You seem like a
+nice young person. But what I really care about
+is your logical reasoning capabilities. So what she says
+is, just sit down. I'm going to ask you a question
+about some math expressions. And you say, sure, shoot away. Give me some questions
+about math expressions. And she says, all right. So you have two integers,
+integer a and integer b. And she tells you that
+integer a is greater than 0, and integer b is less than 0. Then she says that
+we also know that a/b is greater than a times b. So then she says, tell me
+some interesting things about a and b and
+a/b and a times b. And you say, OK, I'll
+give my best shot. And I encourage you to
+actually pause now and try to think about how these
+things might relate, or how b might be
+constrained, or a might be constrained,
+and then unpause it. So I assume you've
+unpaused it, so let's think about this a little bit. So the first thing, we know that
+a is positive, b is negative. So if I take a positive
+divided by a negative, what am I going to get? Well, this right over here, a
+positive divided by a negative is going to be a negative. What happens if I take a
+positive times a negative? Well, ab is also going
+to be a negative. A positive times a negative
+is also a negative. So really what we're
+saying is that we have two negative quantities,
+and this one right over here is greater than that one. So let's visualize
+that on a number line. So let's say that this
+right over here is 0. This right over here is
+the positive direction. This is the negative direction. We know both of these are
+negative, but a/b is larger. So a/b is going to be to
+the right of a times b. So we know that a/b,
+it has to be negative. It has to be the left of 0. a/b is going to be to
+the right of a times b. So one way to think about it is
+they're both negative, but a/b is going to be less negative. Or another way of
+thinking about it, it's going to have a
+smaller absolute value. Its distance from 0, which
+is another way of thinking about absolute value, its
+distance to the left of 0 is less than a times b's
+distance to the left of 0. But because they're
+both negative, and we're talking about
+distances from the left of 0, the one that has a smaller
+distance to the left of 0 is less negative, and is
+therefore a greater number. So, so far your interviewer
+seems impressed. So that was pretty good. You were able to get a
+lot of clues just out of this little bit of
+information that I gave you. But tell me more. Tell me more about
+what b has to be and whether we can
+constrain it in some way. And you say, well, OK. I've got some clues here, the
+fact that this absolute value right over here is going to be
+less than this absolute value. We know that the
+absolute value of a/b is going to be less
+than a times b, than the absolute
+value of a times b. Once again, it's going
+to be not as far left of 0 as a times b is. So that's how we can
+make that statement. But let's actually manipulate,
+algebraically manipulate this inequality here. We could multiply
+both sides times b. So let's do that. Let's multiply
+both sides times b. b Is less than the 0. So if you're
+multiplying both sides of an inequality by
+something less than 0, it swaps the inequality. That's why I got rid of it. I'm going to rewrite it. So b times a/b is
+going to negative. We know it's negative. So it's going to be
+less than ab times b. If we just multiply it
+out, these cancel out. We get a is less than
+a times b squared. Well, now if we
+want to simplify it, we can divide both sides by a. And since a is
+greater than 0, it does not change the inequality. So we divide both sides by a. This becomes 1, and this
+just becomes b squared. So we're left with 1
+is less than b squared. Or another way we could think
+about this, we could say, well, if 1 is less than b squared,
+that means that b-- let's be careful here-- that means
+that the absolute value of b is going to be greater than 1. So this means that the absolute
+value of b is greater than 1. And you say, wait,
+Sal, how did you get from that to that
+right over there? Well, just think about
+this a little bit. If I square something, and
+if it's greater than 1-- so that means that either
+b is less than negative 1, because if it was negative
+1, if you squared it, you would get 1. If it was greater than negative
+1, or just directly greater than negative 1, if it was
+negative 0.99, then when you square it, it would
+be something less than 1. So that doesn't work. So b has to be less
+than negative 1 or b has to be greater than 1, because
+for the same exact logic. If it was exactly equal
+to 1, if you squared it, this would be equal. If it was 0.5, then
+squared it would be 0.25, which wouldn't
+be greater than. So you know both of
+these things are true. And this is another
+way of saying that the absolute value
+of b is greater than 1. Now, we have our
+other constraint, that b is less than 0. So since we know
+b is less than 0, we can take this
+out of the picture. And if the absolute value
+of b is greater than 1, and b is less than
+0, then we know that b has to be
+less than negative 1. So wherever negative 1 is, b
+is going to be less than that. And your interviewer is very
+impressed and she says, look, you've done very
+good reasoning here. I think you deserve the job.

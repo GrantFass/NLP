@@ -1,0 +1,77 @@
+- [Voiceover] Let's take
+a reaction where A plus B gives us our products. And the lower case a and the lower case b represent the coefficients
+for our balanced equation. It makes sense if we increase
+the concentration of A and B, right, A and B would be
+closer together in space and more likely to react, therefore increasing the
+rate of our reaction. And this is true for most reactions. If you increase the
+concentration of your reactants, you increase the rate of your reaction. We can check this by
+doing some experiments. So let's say we wanna figure out what the effect of the
+concentration of A has on our rate of our reaction. So we're gonna hold the
+concentration of B constant, so we hold the concentration of B constant in our experiments. We change the concentration of A, and we see what effect that has
+on the rate of our reaction. We're going to use the
+initial rate of the reaction. And that's because as
+our reaction proceeds, the concentration of
+products will increase. And since reactions are reversible, if we have some products present, right, that can affect the rate of our reaction. And that's not our goal. Our goal is to figure out
+what the concentration, what effect the concentration
+of our reactants has on our rate. And so we use the initial rate, where we have only reactants present, and no products. So in our first experiment, let's say the concentration
+of A is one molar, and the rate of our reaction, the initial rate of our reaction is .01 molar per second. And our second experiment, we increase the concentration
+of A to two molar. We hold the concentration of B constant, and we observe the rate of our reaction to increase to .02 molar per second. So we've increased the concentration of A by a factor of two. And what happened to our rate? Our rate went from .01 to .02. So the rate increased by two as well. All right, let's compare
+our first experiment with our third experiment now. We're going from a
+concentration of A of one, to a concentration of A of three. So we've increased the concentration of A by a factor of three. And what happened to the rate? The rate went from .01 to .03. So the rate increased
+by a factor of three. All right, to figure out the relationship, if you think to yourself,
+two to what power X is equal to two? Obviously that would be two to the first. Two to the first is equal to two. All right, we could have done it for our other comparison as well. Three to what power X is equal to three? Obviously three to the
+first is equal to three. So the rate, the rate of our
+reaction is proportional to, and that's what this
+funny symbol means here, the rate of our reaction is proportional to the concentration of
+A to the first power. All right, let's do the same thing for the concentration of B. So we do some experiments where we change the concentration of B, and we see what effect that
+has on our initial rate. So for all of these, we're gonna hold the
+concentration of A constant, therefore, whatever we
+do to B is reflected in the rate of our reaction. So in our first experiment, the concentration of B is one molar and the rate is .01 molar per second. And then we change the
+concentration of B to two molar. Right, we double the concentration of B while holding the
+concentration of A constant. And we observe the initial
+rate of our reaction to be .04 molar per second. So we've increased the
+concentration of B, not A, and let me change that (laughs). We've increased the concentration of B by a factor of two. We've gone from one molar to two molar. And what happened to the rate? The rate went from .01 to .04. So we've increased the
+rate by a factor of four. Let's compare our first experiment with our third experiment now. We're going from a concentration of B of one molar to three molar. So we've increased the concentration of B by a factor of three. And what happens to the rate? The rate goes from .01 to .09. So we've increased the
+rate by a factor of nine. So now we think to
+ourself, two to what power, I'll make it Y, two to what power is equal to four? Obviously Y would be equal to two. Two to the second power is equal to four. Or three to what power Y is equal to nine? Obviously, three to the
+second power is equal to nine. So we've determined that
+the rate of our reaction is proportional to the concentration of B to the second power. All right, now we can put those together. We can put these together to write what's called a rate law. Ok, So we know that the
+rate of our reaction is proportional to the concentration of A to the first power, and we know that our rate is proportional to the concentration of
+B to the second power. And then we put in, we
+put in what's called a rate constant here, K. And this represents our rate law. So let's go through these one by one here. So, capital R is the rate
+of our reaction, right? This is the rate of our reaction. All right? K is what's called the rate constant. So this is the rate constant. And there's a difference
+between the rate of our reaction and the rate constant. If we change the concentration
+of our reactants, we change the rate of our reaction. But if we change the
+concentration of our reactants, we don't change the rate constants, right? And this is constant. It does depend on the temperature, though, so we'll talk about that in later videos. Here we have that the reaction is concentration of A to the first power. We say the reaction is first order in A. So we say that our
+reaction is first order, first order in A. And we found, we found that
+it's second order in B. Right, so we had a two here. So this is second order, second order in B. And we can also talk
+about the overall order of our reaction. So if we're first order in A, right, we're first order in A, and second order in B, the overall order, the overall order would be one plus two,
+which is equal to three. So the overall order of
+our reaction is three. All right, let's go back up
+here to the general reaction that we started with, all right, so let's go back, right back up to here. We have, we have this. And let's write a general rate law. So if this is your reaction,
+your general rate law would be R is equal to your rate constant, times the concentration
+of A to some power, I'll make it X, times
+the concentration of B to some power which I will make Y. And the reason why I'm showing you this, is to show you that you can't
+just take your coefficients, right, you can't take your coefficients and stick them into here. Right? So it doesn't work that way. You'd have to know the
+mechanism of your reaction. So these orders have to be
+determined experimentally. So you have to look at your
+experimental data here. And the orders affect the
+units for your rate constant. For example, let's go back down to here. And let's figure out the
+units for the rate constant for this example. So the rate of our reaction, the rate of our reaction was
+in molar per seconds, right? This is molar per second. We're trying to find the units for K. The units for concentration are molar. All right, so this would be molar, and this would be to the first power. And this would be molar
+to the second power. So we'd have molar to the second power. All right, so solving for K, right, you could just go ahead and cancel out one of these molars right
+here, and solve for K. So you would get, this
+would be one over seconds now on the left. So one over seconds, right,
+and divide by molar squared. So one over seconds times molar squared. Or you could write this one over molar squared times seconds. Those would be your units for K for this reaction, right? With an overall order of three. But it can change. Right? It can change depending on the order. Now let's look at this reaction. We have only one reactant, A, turning into our products. And if we look at the two experiments, in our first experiment,
+the concentration of A is one molar, and the
+initial rate of reaction is .01 molar per second. If we double the concentration
+of A to two molar, the rate stays the same. It's still point zero
+one molar per second. So even though the concentration of A is going from one molar to two molar, right, that's doubling the concentration, or increasing the concentration
+of A by a factor of two, the rate stays the same. So you could say, the rate,
+it's the rate times one. 'Cause it's the same rate. So two, all right, so two to what power X, two to what power X is equal to one? Obviously X would have
+to be equal to zero. Two to the zero power is equal to one. So any number to the zero
+power is equal to one. So this reaction is zero order, it's zero order in A. Now if we wanted to write our rate law, we would write the rate of the reaction is equal to the rate constant K times the concentration of A. We have only one reactant here. And since this is zero order in A, we could just write the
+rate of the reaction is equal to the rate constant K. And so if you wanted to know the units for the rate constant K, well, the rate is in molar per second. And so those would also
+be your units for K. K would be in molar per second. So here's an example of how
+your units for K change, depending on the overall
+order of your reaction.

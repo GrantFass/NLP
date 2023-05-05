@@ -1,0 +1,154 @@
+Like we've done in the last
+several videos, let's assume that we have some set
+of basis vectors B. And let's say our basis
+is going to be v1 v2 all the way to vk. So this will span a subspace
+of dimension k. And let's assume that each of
+these guys are members of Rn. So v1 v2 all the way to vk. They're all members of Rn. Now in the last video, we saw
+that we can define a change of basis matrix. And it's a fancy word, but all
+it means is a matrix that has these basis vectors
+as its columns. So v1, v2 all the way to
+vk as its columns. So we're going to have k columns
+and we're going to have n rows. Because each of these guys are
+members of Rn, so they're going to have n entries. So we're going to have n rows. So it's going to be
+an n by k matrix. And we saw in the last video
+that if I have some vector a that is a member of Rn-- and
+assuming that a is in the span of B-- I can represent a. I could say that a is equal to
+the change of basis matrix times the coordinates of a with
+respect to our basis. This is what we saw
+in the last video. If I have the coordinates of
+a with respect to B, I can multiply it by the change of
+basis matrix and I'll get my vector a in standard
+coordinates. Or if I have my vector a in
+standard coordinates, then I can solve for my vector a in
+coordinates with respect to B. We saw that in the last video. Now let's take a special case. Let's assume that
+C is invertible. What does that mean? Or what does that
+tell us about C? Well if C is invertible,
+it's two things. It means that C is a square
+matrix or has the same number rows and columns. And that its rows or columns--
+You can pick either of them-- have to be linearly
+independent. So linearly independent, let's
+just pick columns. Now the second statement
+is a bit redundant. We know that C has linearly
+independent columns, because its columns are bases
+for a subspace. So a basis, by definition, all
+of the vectors have to be linearly independent. So we know this is
+a bit redundant. But what's interesting is if we
+know that C is invertible, C has to be square. And if all of these vectors are
+members of Rn, then k has to be equal to n. So C is square means that k is
+equal to n or that we have n basis vectors. Now if that's the case,
+what is the span of B? Think about it. We have n linearly independent
+vectors in Rn. So any time you have n linearly
+independent vectors in Rn, those guys are
+a basis for Rn. Because any basis that has n
+entries-- and they're all linearly independent-- is going
+to be a basis for Rn. So then B is a basis for Rn. So if we know that C is
+invertible, we also know that you can get to any vector in Rn
+by some linear combination of your basis vectors
+right there. In the last video, we had to
+make sure that this guy was in the span of these vectors. But now we don't have to make
+sure, because if C is invertible, then the span of B
+is going to be equal to Rn. Or another way you could say
+it is if the span of B is equal to Rn. If we have n vectors here, if k
+was equal to n, then we know that the span of B would
+be equal to Rn. And so we'd have n vectors here,
+n linearly independent columns here, and it would be
+an n by n matrix with all of the columns linearly
+independent. So then C would be invertible. So we could write
+if and only if. And we could write
+it the other way. If the span of B is Rn,
+then C is invertible. And that's useful, because if
+either of these things are true, then we can rewrite
+the same equation. So let's say if we know this and
+we're looking for that, we can just multiply
+C times that. Let's say we know this and
+we're looking for that. Before we had to do that
+augmented matrix and solve for it, whatnot. But if we know C is invertible,
+then one, we know that any vector here can
+be represented in the span of our basis. So any vector here can be
+represented as linear combinations of these guys. So you know that any vector can
+be represented in these coordinates or with
+coordinates with respect to our basis. We can multiply both sides of
+this equation times C inverse. And what do you get
+if you multiply? So it becomes C inverse C times
+our coordinates of a with respect to B is equal
+to C inverse times a. This is just the identity
+matrix right there. Another way of writing this is
+that the coordinates of a, with respect to our basis B,
+which spans all of Rn, is equal to C inverse times
+our vector a. Let's apply this a little bit. Let's apply this. Let's use this information, what
+we've done in this video. Let's do some concrete
+examples. So let's say I have
+some basis. Let me define two vectors. I'll do it this way. So let's say I have v1 is equal
+to the vector 1, 3. And let's say v2 is equal
+to the vector 2, 1. And I have a basis that is equal
+to the set of v1 and v2. Now I'll leave it for you to
+verify that these guys are linearly independent. But if I have two linearly
+independent vectors in R2, then B is a basis for R2. And if we write the change of
+basis matrix, if we say C is equal to 1, 3, 2, 1, we know
+that C is invertible. And actually to show that C
+is invertible, we can just calculate its inverse. So what's the determinant
+of C? The determinant of C is equal to
+1 times 1 minus 2 times 3. So it's equal minus 5. That's the determinant of C. And so C inverse-- We figured
+out a general formula for doing this for 2 by 2 matrices--
+is equal to 1 over the determinant of C, so 1
+over minus 5 times-- You switch these two guys, so you
+switch the 1's, and you make these two guys negative. So minus 2, and then minus 3. And the very fact that this guy,
+the determinant of C, was non-zero told us that
+this was invertible. But anyway, this is C inverse. So let's say that I have
+some vector a that is a member of R2. I'm just going to pick
+some random numbers. Let's say that a is
+equal to 7, 2. And I want to find out what the
+coordinates of a are with respect to my basis B. Well we go to this situation. We know what a is, so we just
+multiply a times C inverse to get this guy right here, to get
+the coordinates of a with respect to B. So let me write that down. So what is C? So C is that. C inverse is that. So we could write the
+coordinates of a with respect to B is equal to C inverse
+times the standard coordinates of a. Or this is the same thing. Let me put the actual
+numbers here. The coordinates of a with
+respect to B are going to be equal to C inverse, which is
+minus 1/5 times 1 minus 3 minus 2, 1, times
+a, times 7, 2. And what is this equal to? This is equal to minus 1/5. And then we're going to get 1
+times 7 plus minus 2 times 2. So it's minus 4. So 7 minus 4 is 3. And then we're going to get
+minus 3 times 7, which is minus 21, plus 1 times 2. So minus 21 plus 2
+is minus is 19. So the coordinates of a with
+respect to the basis B are going to be equal to-- Let me
+just multiply the negative 1/5-- you get minus 3/5. And then you get plus 19/5. So 19 over 5. Just like that. And let's verify that. This means that a is equal to
+minus 3/5 times our first basis vector plus 19/5 times
+our second basis vector. Let's verify that
+that's the case. So let's see, minus 3/5 times
+1, 3, plus 19/5 times 2, 1. Let's see what this is
+going to be equal to. Let me write the two vectors. This is minus 3/5 times
+3 is minus 9/5. And there we're going to
+add it to this guy. So this guy is 2 times
+19 is 38/5. Right? And then 19/5 times 1 is 19/5. And then if you add
+these two vectors together, what do we get? We get minus 3/5 plus 38/5. That's 35/3. 35/5 is 7, minus
+9/5 plus 19/5. That's 10/5 or 2. And there you have it. That was our original a. So we see that a can definitely
+be represented as minus 3/5 times our first basis
+vector plus 19/5 times our second basis vector. Now that was a case where we
+had some vector a and we wanted to represent it in
+coordinates with respect to B. What if we had the other way? What if we said that some vector
+w's coordinates with respect to B are-- I'll do
+something simple-- are 1, 1. Then what is w in standard
+coordinates? Well there we can
+just multiply. Remember w is just equal to
+the change of basis matrix times w's coordinates with
+respect to the basis B. So w is going to be equal to
+the change of basis matrix, which is just 1, 3, 2, 1, times
+the coordinates of w with respect to B times 1, 1. Which is equal to 1 times
+1 plus 2 times 1 is 3. And then 3 times 1
+plus 1 plus 1. So 3 times 1 is 3,
+plus 1 is 4. So w is just equal to
+the vector 3, 4. So there you see if our change
+of basis matrix is invertible, which is really just another way
+of saying that are basis spans Rn-- in this example it
+was R2-- then you can easily go back and forth between
+coordinate representations in our standard coordinates and
+coordinate representations with respect to our basis. Right? This is with respect
+to the basis. This is in standard
+coordinates. And you can do that just simply
+by either using this information or just saying,
+oh, the coordinates with respect to the basis equal to
+C inverse times a, or the inverse of our change of
+basis matrix times a. Or saying our coordinates with
+respect to the standard basis is just equal to the change
+of basis matrix times the coordinates with respect
+to the basis.

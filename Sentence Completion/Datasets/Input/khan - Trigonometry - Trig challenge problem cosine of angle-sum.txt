@@ -1,0 +1,54 @@
+Voiceover:We're told theta
+is between pi and 2pi, and cosine of theta is equal to negative square root of 3 over 2, and phi is an acute angle, and we can assume it's
+a positive acute angle. So we could say an acute positive angle or as a positive acute angle. And cosine of phi is equal to 7/25. Find cosine of phi plus theta exactly. So essentially, can we figure
+it out without a calculator? I encourage you to pause this video and think about it on your own. Let's see if we can work through it. When we see, "Find cosine
+of phi plus theta," we're finding the cosine of
+the addition of 2 angles, so to me at least, that screams out that maybe
+the angle addition formula can help us evaluate this, especially because we know
+what cosine of theta is, cosine of phi is, and then maybe we can also use those to figure out what sine of
+theta and sine of phi are. So let's just write out
+the angle addition formula. It tells us that cosine of phi plus theta is equal to cosine of
+both of those angles, the product of the cosines
+of both of those angles. So cosine phi times cosine theta minus, so if this was a positive,
+this is going to be a negative, if this was a negative,
+this would be a positive, minus the product of the
+sines of both of these angles, so sine of phi times sine of theta. And we already know some
+of this information. We know what cosine of phi is. Cosine of phi is 7/25. So that is 7/25. We know what cosine of theta is. Cosine of theta is negative
+square root of 3 over 2. Negative square root of 3 over 2, so we're going to take a
+product here for this term. Now we need to figure out what sine of phi and sine of theta are. Lucky for us, we have
+the Pythagorean identity. The Pythagorean identity tells
+us that sine squared theta plus cosine squared theta is equal to 1. Or we could say that sine squared theta is equal to 1 minus cosine squared theta, or that sine of theta is
+equal to the plus or minus square root of 1 minus
+cosine squared theta. For example, we could use
+this now to figure out what sine of theta is. We could say sine of
+theta is going to be equal to the plus or minus square root of 1 minus cosine squared theta. Cosine squared theta is negative
+square root of 3 over 2. If you square it, that's
+going to be positive, and if you square 3, if you square the square root of 3, you're going to get 3, and if you square 2,
+you're going to get 4. The plus or minus square
+root of 1 minus 3/4, which is equal to the plus
+or minus square root of 1/4, which is equal to plus or minus 1/2. Now which one is it going to be? Is sine of theta going to be
+positive 1/2 or negative 1/2? To think about that, we could draw ourselves a
+little unit circle here. That's my Y-axis. That is my X-axis. Let me draw a little unit circle here, as neatly as I can. A little unit circle right over there. Now what do they tell us about theta? They tell us that theta
+is between pi and 2 pi, so it's between pi and 2 pi. So our angle, our terminal, I guess the terminal ray of the angle is going to sit, is going to be in the
+third or fourth quadrants. We're saying sine of theta is equal either positive 1/2 or negative 1/2, so it's either positive 1/2, which could mean it's one of
+these angles right over here, or it's negative 1/2, which means it's one of
+these angles right over here. This tells us that we're in
+the third or fourth quadrant, so sine of theta, we don't know if theta is this angle or if theta is this angle right over here, but we know if it's in the
+third or fourth quadrant, the sine of it is going
+to be non-positive. We know that for this theta, sine of theta is going to be negative 1/2, negative 1/2. So this right over here is negative 1/2. Now let's think about sine of phi. Sine of phi is going to be equal to plus or minus square root of 1 minus cosine of phi squared. Cosine of phi is 7/25, so that's 49 over 625. Let's see. What is that going to be? Let me do it over here. 625 over 625 minus 49 over 625, I just rewrote 1 as 625 over 625. That's going to be 625
+minus 50 would be 575. That's going to be one more. That's going to be 576 over 625, so it's equal to the
+plus or minus square root of 576 over 625. And let's see. I know what the square root of 625 is. It's 25. 576 , is it 24? 24 times 24, yup, it is 576. So this is equal to the
+plus or minus 24/25. So sine of phi is 24/25. Remember, the sine of an
+angle is the Y-coordinate of where the terminal ray
+intersects the unit circle. So we're either looking
+at one of these angles. We're either looking
+at one of those angles, if the sine is a positive, so we're either looking at
+this angle or that angle, or we're looking at a
+terminal ray down here again. Now they tell us that phi
+is a positive acute angle. So we know that we're dealing
+actually with this scenario, this scenario right over here. Sine of phi is going to
+be the positive 24/25, so that's 24/25. Now we just have to multiply the numbers and then do the subtraction. This is going to be equal to 725 ... let me just write it down. This is going to be equal to
+negative 7 square roots of 3 over 25 times 2 is 50, over 50, minus, but then we're going to
+have a negative out here, so we could say plus. Negative times negative is positive. And then 24 over 25
+times 1/2 is 12 over 25, so plus 12 over 25. But actually, let me just write it over 50 since we have a 50 right over here. This is going to be plus 24 over 50. And so this is going to be equal to 24 minus 7 times the
+square root of 3 over 50. And we are done.

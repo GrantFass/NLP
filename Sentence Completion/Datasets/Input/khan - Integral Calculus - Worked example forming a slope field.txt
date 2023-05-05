@@ -1,0 +1,31 @@
+- [Instructor] In drawing
+the slope field for the differential equation, the
+derivative of y with respect to x is equal to y minus 2x, I would place short line segments at select points on the xy-plane. Complete the sentences. At the point (-1,1) I would draw a short segment of slope blank, and like always pause this
+video and see if you can fill out these three blanks. The short segments that
+you're trying to draw to construct this slope field, you figure out their slope based on the differential equation
+so you're saying when x is equal to -1 and y is equal to 1, what is the derivative
+of y with respect to x, and that's what this
+differential equation tells us. So for this first case, the
+derivative of y with respect to x is going to be equal to
+y, which is 1 - 2 times x, x is negative 1, so this is going to be -2
+but you're subtracting it so it's gonna be +2, so the derivative of y with
+respect to x at this point is going to be 3, so I would
+draw a short line segment or a short segment of slope 3, and we keep going, at the point (0,2). Well let's see, when x is 0 and y is 2 the derivative of y with
+respect to x is going to be equal to y which is 2 - 2 times 0, well that's just going to be 2. And then last but not
+least, for this third point the derivative of y with
+respect to x is going to be equal to y which is 3
+- 2 times x, x here is 2, 2 times 2, 3 - 4 is equal to -1, and that's all that problem asks us to do, now if we actually had
+to do it, it would look something like, I'll try
+to draw it real fast, so let's see, let me make sure I have space for all of these points here, so that's my coordinate axis and I want to get the point (0,2), actually I want to go all the way to (2,3) so let me get some space here, so 1, 2, 3, and then 1, 2, 3, and then we have to go
+-1 and once we might go right over here, and
+so for this first one, this exercise isn't asking
+us to do it but I'm just making it very clear how we
+would construct the slope field, so the point (-1,1), a
+short segment of slope 3, so slope 3 would look something like that, then at the point (0,2) a slope of 2, (0,2), the slope is going to
+be 2 which looks something like that, and then at the point (2,3), at (2,3), a short segment of slope -1, so (2,3) a slope segment of slope -1, it would look something like that, and you would keep doing
+this at more and more points, if you had a computer to do
+it that's what the computer would do, and you would draw
+these short line segments to indicate what the
+derivative is at those points and you get a sense of,
+I guess you would say the solution space for
+that differential equation.

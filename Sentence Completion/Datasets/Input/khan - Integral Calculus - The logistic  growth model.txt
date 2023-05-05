@@ -1,0 +1,56 @@
+In the last video, we took a stab at modeling population as a function of time. And we said, okay, well
+maybe the rate of change of population with respect to time is going to be proportional to the population itself. That the rate will increase as the population increases. And when you actually try to solve this differential equation, you try to find an N of
+T that satisfies this, we found that an exponential would work. An exponential satisfies
+this differential equation. And it would look like this visually. It would look like this, it would look like this visually. Where you're starting at
+a population of N not, this is the time axis, this is the population axis. And as time increases, population increases exponentially. Now we said there's an issue there. What if Thomas Malthus is right? That the environment can't support... let's say that the
+environment can't support... let me do this in a new color. Let's say that the environment
+really can't support more than K, more than a population of K. Then clearly the population can't just go and go right through the ceiling. They're not going to be able to have food, or water or resources
+or whatever it might be. They might generate too much pollution. Who knows what it might be. And so this first stab
+at modeling population doesn't quite do the trick. Especially if you are
+kind of in Malthus's camp. And that's where PF, and once again I'm sure I'm mispronouncing the name, Verhulst is going to
+come into the picture. Because he read Malthus's work, and said, "Well yeah, I think
+I can do a pretty good job "of modeling the type of behavior "that Malthus is talking about." And he says what we really want is something... Let me write it, so the rate... let's try to model. Let's set up another
+differential equation. And now let's say okay, instead of, if N is substantially smaller than what the environment
+can support, then yeah, that makes sense to
+have exponential growth. But maybe we can dampen this, or maybe we can bring this growth to zero as N approaches K. And so how can we actually modify this? Maybe we can multiply it by something that for when N is small, when N is much smaller than K, this term right over here
+is going to be close to one and when N is close to K, this term is close to zero. So let me write that. So these are our goals for
+this term, right over here. When N is much smaller than K, so now the population is
+not constrained at all, people can have babies and those babies can be fed and then they can have
+babies, et cetera, et cetera, then this thing should be close to one. And so then you have
+essentially our old model. But then as N approaches K, then this thing should approach, then this term or this expression should approach zero. And what that does is as N approaches the natural limit, the
+ceiling to population, then no matter what this is doing, if this thing is approaching zero, that's going to make the actual rate of growth approach zero. So food is going to be more scarce, it's going to be harder to find things. And so what can I construct here, dealing with N and K that
+will have these properties? And for fun, you might actually want to pause the video and see
+if you can construct a fairly simple algebraic statement using N and K and maybe the number one if you find the need, for an expression that
+has these properties. Well, let's see. What if we start with a one and we subtract N over K? Does this have those properties? Well yeah, sure it does. When N is really small, or I should say when it's a small fraction of K, this is going to be a small fraction, then this whole thing is going to be pretty close to one. It's going to be a
+little bit less than one. And when N approaches K, as N gets closer and
+closer and closer to K, then this thing right over here is going to approach one, which means this whole expression is going to approach zero. Which is exactly what we wanted. And this thing right
+over here is actually, and this is used in tons of applications, not just in population modeling but that's kind of one of its first reasons or motivations. This differential equation right over here is actually quite famous. It's called the logistic
+differential equation. And in the next video, we're actually going to solve this. And it's actually, this is a separable differential equation. You can actually solve it just using standard techniques of integration. it's a little bit hairier than this one, so we're going to work
+through it together. And we're going to look at the solution. The solution to the logistic
+differential equation is the logistic function, which once again essentially models population in this way. But before we actually solve for it, let's just try to interpret this differential equation and think about what the shape of this
+function might look like. And to do that, let me draw some axes here. Let me draw some axes here. So that's my time axis, that's my population axis, let me scroll up a little
+bit because sometimes the subtitles show up around here and then people can't see what's going on. So let's think about a
+couple of permutations, a couple situations. So if our initial, if our
+N at time equals zero, remember N is a function of T. If at time equals zero N is equal to zero, then this term is going to be zero and then your rate of
+change is going to be zero, and so you're not going
+to add any population. And that's good. Because if your population is zero, how are you going to actually be able to add population? There's no one there to have children. So there's actually one constant solution to this differential equation, which is just N of T is equal to zero. And this satisfies the
+logistic differential equation. Hey, if your population starts at zero if N sub not is zero, then you're just going
+to be at zero forever. Well that's actually what
+would happen in real life if there's no one there to have kids. Now let's think about another situation. What if our population, what if N not is equal to K? What happens if N not is equal to, so that's K right over there, what happens if at time equals zero, this is our population. Well if N is equal to K, then this is one minus one, then this thing is zero, and so our rate of population change is going to be zero. So essentially if my population is zero then after a little bit of time, my population is still the same K. If my rate of change
+of population is zero, that means my population
+is staying constant. And so my population's just going to stay there at K. And that's actually believable. Malthus would actually probably say that you're gonna have, maybe it grows a little bit beyond the
+capacity of the environment and then you have some flood, or some hurricane or some famine and it goes around. But for our purposes, you can never model anything perfectly. For our purposes, that's pretty good. You're at the limit of what the environment can handle, so you just kind of stay there. That's actually another constant solution. that N of T, if it starts, and now you can kind of appreciate why initial conditions are important. If you start at zero you're
+going to stay at zero, if you start at K you're
+going to stay at K. So that is N of T just stays K. But now let's think of a
+more interesting scenario. Let's assume an initial population that's someplace between zero and K. So this is going to be... I'm going to assume initial population that is someplace, it's greater than zero, so there are people to
+actually have children, and it is less than K, so we aren't fully maxing
+out the environment. Or the land or the food or the water or whatever it might be. So what's going to happen? So, and once again, I'm just going to kind of sketch it, and then we're going to
+solve it in the next video. So when N is a lot less than K, it's a small fraction of K, this term is going to be the main one that's influencing it. Because this is a small fraction of K, I mean even the way I drew it, it looks like it's about
+a sixth or a seventh or an eighth of K, so it's one minus 1/8. So it's gonna be 7/8 times this. So really, this is what's going to dictate what our rate of growth is. And if this is kind of dictating it, we're kind of looking more of a... well, let's just think of it this way. As the population grows, the rate of change is going to grow. So it's going to look something like this. As our population gets larger, our slope is getting higher. It's getting steeper and steeper. But then as N approaches K, then this thing is gonna become, this is gonna be close to one minus... close to one. And so this is going to
+become a very small number, it's going to make this
+whole thing approach zero. So as N approaches K, the whole thing, the rate of change is going to flatten out. And we're gonna asymptote towards K. And so the solution to the logistic differential equation should look something like this. Depending on what your
+initial conditions are. If your initial condition is here, maybe it does something like this. If your initial condition's here, maybe it does something like this. And once again, this is what's fun about doing differential equations. Before even doing the fancy math, you can kind of get an intuition, just by thinking through
+the differential equation of what it is likely to be. Down here, or when N
+is much smaller than K its rate of increase is increasing as N increases, and over here as N gets close to K, its rate of increase is decreasing. Now let's actually in the next video, actually solve for what
+N, a solution to this and see if that confirms
+what our intuition is.

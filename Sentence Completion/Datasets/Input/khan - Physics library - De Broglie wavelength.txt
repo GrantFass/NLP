@@ -1,0 +1,108 @@
+- [Narrator] So in the early 20th century, physicists were bamboozled because light, which we thought was a wave, started to behave in certain experiments as if it were a particle. So, for instance, there
+was an experiment done called the photoelectric effect, where, if you shine light at a metal, it'll knock electrons out of the metal if that light has sufficient energy, but if you tried to explain
+this using wave mechanics, you get the wrong result. And it was only by resorting
+to a description of light as if it could only deliver
+energy in discrete packets that Einstein was able to describe how this photoelectric effect worked, and predict the results that they actually measure in the lab. In other words, light
+was only giving energy in certain bunches, equal to something called planks constant, multiplied by the frequency of the light. It either gave all of this
+energy to the electron, or it gave none of the
+energy to the electron. It was never half and half. It never gave half of this energy, it was sort of all or nothing. But this was confusing to people. 'Cause we thought we had established that light was a wave, and we thought that
+because if you shine light through a double slit, if it were a particle, if light were just a bunch of particles, you would expect particles to just either go through the top hole and give you a bright spot right here, or go through the bottom hole, give you a bright spot right here, but what we actually measure when you do this experiment with light, is that the light seemingly
+diffracts from both holes, overlaps, and it gives you a diffraction pattern on the screen. So instead of just two bright spots, it gives you this constructive
+and destructive pattern that would only emerge if the light beam were passing through both slits, and then overlapping, the way waves would, out of two holes on this
+other side of the double slit. So this experiment showed that
+light behaved like a wave, but the photoelectric effect showed that light behaved more like a particle, and this kept happening. You kept discovering different experiments that showed particle-like behavior, or different experiments that showed wave-like behavior for light. Finally, physicists resigned to the fact that light can seemingly have
+particle-like properties, and wave-length properties, depending on the
+experiment being conducted. So that's where things sat when in 1924, a young French physicist, a
+brilliant young physicist, named Louis de Broglie, now, it looks like you pronounce
+this "Louis de Broe-glee", and that's what I always said. I always read this and I said
+"de Broe-glee" in my mind, and I knew that wasn't right. If you look it up, it's
+more like "Louis de Broy", so get rid of all that, replace
+it with a "y" in your mind, Louis de Broglie, in 1924, wrote a paper, and he did something
+no one else was doing. Everyone else was worried about light, and light behaving like
+a particle or a wave, depending on the experiment; Louis de Broglie said this,
+"What about the electron? "You got this electron flying off here," he said, "if light, which
+we thought was a wave, "can act like a particle, "maybe electrons, which
+we thought were particles, "can act like a wave." In other words, maybe
+they have a wavelength associated with them. He was trying to synthesize these ideas into one over arching framework in which you could describe
+both quanta of light, i.e. particles of light, and particles, which we thought were just particles, but maybe they can behave
+like waves as well. So maybe, he was saying,
+everything in the universe can behave like a particle or a wave, depending on the experiment
+that's being conducted. And he set out to figure out
+what would this wavelength be, he figured it out, it's called
+the "de Broe-lee" wavelength, oh, I reverted, sorry, "de Broy" wavelength, not the
+"de Broe-glee" wavelength. The de Broglie wavelength,
+he figured it out, and he realized it was this. So, he actually postulated it. He didn't really prove this. He motivated the idea, and then it was up to
+experimentalists to try this out. So he said that the wavelength associated with things that we thought were matter, so sometimes these were
+called matter waves, but the wavelength of, say, an electron, is gonna be equal to Planck's constant, divided by the momentum of that electron. And so, why did he say this? Why did he pick Planck's constant, which, by the way, if you're not familiar
+with Planck's constant, it is like the name
+suggests, just a constant, and it's always the same value, it's 6.626 times 10, to the negative 34th joule seconds. It's really small. This was a constant discovered
+in other experiments, like this photoelectric effect, and the original blackbody experiments that Planck was dealing with. It's called Planck's constant, it shows up all around modern
+physics and quantum mechanics. So how did Louis de Broglie
+even come up with this? Why Planck's constant over the momentum? Well, people already knew for light, that the wavelength of a light ray is gonna also equal Planck's constant, divided by the momentum of
+the photons in that light ray. So the name for these particles
+of light are called photons. I'm drawing them localized in space here, but don't necessarily
+think about it that way. Think about it just in terms of, they only deposit their energy in bunches. They don't necessarily have to be at a particular point
+at a particular time. This is a little misleading,
+this picture here, I'm just not sure how else
+to represent this idea in a picture that they only deposit their energies in bunches. So this is a very loose drawing, don't take this too seriously here. But people had already discovered this relationship for photons. And that might bother
+you, you might be like, "Wait a minute, how in the
+world can photons have momentum? "They don't have any mass. "I know momentum is just m times v, "if the mass of light is zero, "doesn't that mean the
+momentum always has to be zero? "Wouldn't that make this
+wavelength infinite?" And if we were dealing
+with classical mechanics, that would be right, but it turns out, this is not true when you travel near the speed of light. Because parallel to all these discoveries in quantum physics, Einstein realized that
+this was actually not true when things traveled
+near the speed of light. The actual relationship,
+I'll just show you, it looks like this. The actual relationship is
+that the energy squared, is gonna equal the rest mass squared, times the speed of light to the fourth, plus the momentum of
+the particles squared, times the speed of light squared. This is the better
+relationship that shows you how to relate momentum and energy. This is true in special relativity, and using this, you can get this formula for the wavelength of light
+in terms of its momentum. It's not even that hard. In fact, I'll show you here,
+it only takes a second. Light has no rest mass, we know that, light has no rest mass,
+so this term is zero. We've got a formula for
+the energy of light, it's just h times f. So e squared is just gonna
+be h squared times f squared, the frequency of the light squared, so that equals the momentum
+of the light squared, times the speed of light squared, I could take the square
+root of both sides now and get rid of all these squares, and I get hf equals momentum times c, if I rearrange this, and get h
+over p on the left hand side, if I divide both sides by momentum, and then divide both sides by frequency, I get h over the momentum is equal to the speed of
+light over the frequency, but the speed of light over the frequency is just the wavelength. And we know that, because
+the speed of a wave is wavelength times frequency, so if you solve for the wavelength, you get the speed of the
+wave over the frequency, and for light, the speed of
+the wave is the speed of light. So c over frequency is just wavelength. That is just this relationship right here. So people knew about this. And de Broglie suggested, hypothesized, that maybe the same relationship works for these matter particles
+like electrons, or protons, or neutrons, or things that
+we thought were particles, maybe they also can have a wavelength. And you still might not be satisfied, you might be like, "What,
+what does that even mean, "that a particle can have a wavelength?" That's hard to even comprehend. How would you even test that? Well, you'd test it the same way you test whether photons and light
+can have a wavelength. You subject them to an experiment that would expose the
+wave-like properties, i.e., just take these electrons, shoot them through the double slit. So, if light can exhibit
+wave-like behavior when we shoot it through a double slit, then the electrons, if
+they also have a wavelength and wave-like behavior, they should also demonstrate
+wave-like behavior when we shoot them
+through the double slit. And that's what people did. There was an experiment
+by Davisson and Germer, they took electrons, they shot
+them through a double slit. If the electrons just created
+two bright electron splotches right behind the holes,
+you would've known that, "Okay, that's not wave-like. "These are just flat out
+particles, de Broglie was wrong." But that's not what they discovered. Davisson and Germer did this experiment, and it's a little harder, the wavelength of these
+electrons are really small. So you've gotta use atomic structure to create this double slit. It's difficult, you should
+look it up, it's interesting. People still use this, it's
+called electron diffraction. But long story short,
+they did the experiment. They shot electrons through here, guess what they got? They got wave-like behavior. They got this diffraction
+pattern on the other side. And when they discovered that, de Broglie won his Nobel Prize, 'cause it showed that he was right. Matter particles can have wavelength, and they can exhibit wave-like behavior, just like light can, which was a beautiful synthesis between two separate realms of
+physics, matter and light. Turns out they weren't
+so different after all. Now, sometimes, de Broglie
+is given sort of a bum rap. People say, "Wait a minute, all he did "was take this equation that
+people already knew about, "and just restate it
+for matter particles?" And no, that's not all he did. If you go back and look at
+his paper, I suggest you do, he did a lot more than that. The paper's impressive,
+it's an impressive paper, and it's written beautifully. He did much more than this, but this is sort of the thing people most readily recognize him for. And to emphasize the importance of this, before this point,
+people had lots of ideas and formulas in quantum mechanics that they didn't completely understand. After this point, after this pivot, where we started to view matter
+particles as being waves, previous formulas that worked, for reasons we didn't
+understand, could now be proven. In other words, you
+could take this formula and idea from de Broglie, and show why Bohr's atomic
+model actually works. And shortly after de Broglie's paper, Schrodinger came around and basically set the stage for the entire
+rest of quantum physics. And his work was heavily influenced by the ideas of Louis de Broglie. So recapping, light can have particle-like or wave-like properties, depending on the experiment, and so can electrons. The wavelength associated
+with these electrons, or any matter particle, can be found by taking Planck's constant, divided by the momentum
+of that matter particle. And this wavelength can
+be tested in experiments, where electrons exhibit
+wave-like behavior, and this formula accurately
+represents the wavelength that would be associated
+with the diffraction pattern that emerges from that wave-like behavior.

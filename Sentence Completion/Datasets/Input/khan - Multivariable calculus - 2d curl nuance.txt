@@ -1,0 +1,73 @@
+- [Voiceover] In the last couple videos I've been talking about
+curl where if we have a two dimensional vector field V defined with component functions P and Q, I've said that the 2D
+curl of that function V gives you a new function that
+also takes in x and y's inputs and it's formula is the
+partial derivative of Q with respect to x minus the partial derivative
+of P with respect to y. And my hope is that this
+is more than just a formula and that you can understand how this represents fluid
+rotation in two dimensions but what I want to do here is show how the original intuition
+I gave for this formula might be a little oversimplified because for example, if we look at this, the partial Q, partial x component, I said that you can imagine
+that Q at some point starting off a little bit
+negative so the y component of the output is a little negative, then as you move positively
+in the x direction, it goes to being zero and then it goes to being
+a little bit positive, and with this particular picture, it's hopefully a little bit
+clear why this can correspond to counter-clockwise
+rotation in the fluid, but this is only a very
+specific circumstance for what partial Q,
+partial x being positive could look like. It might also look like Q's
+starting a little bit positive and then as you move in the x direction, it becomes even more positive
+and then even more positive. And according to the formula,
+this should contribute as much to positive curl as this very clear-cut whirlpool example, and to illustrate what
+this might look like, if we take a look at
+this vector field here, if we look at the center, this is kinda the clear-cut whirlpool
+counter-clockwise rotation example. And if we play the fluid
+flow, the fluid does indeed rotate counter-clockwise in the region. But contrast that with what
+goes on over here on the right. This doesn't look like
+rotation in that sense at all. Instead the fluid
+particles are just kind of rushing up through it. But in fact, the curl in
+this region is going to be just as strong as it is over here, and I'll show that with a formula and kind of computing it
+through in just a moment, but the image that you
+might have in your mind is to imagine a paddle wheel of sorts where let's say it's got
+arms kind of like that and then you hold down with
+your thumb that middle portion, so even though the paddle
+wheel left to its own devices would just fly up, I want to say, let's say you're holding
+that down with your thumb but it's free to rotate. Then the vectors on its
+left are pointing up but less strongly than
+the vectors on its right which are even greater, so
+if you imagine that setup and you have your paddle wheel there, then when you play the fluid rotation, holding your thumb down but letting the paddle
+wheel rotate freely, it's also going to rotate just as it would over here in the easier
+to see whirlpool example. And in terms of the formula, this is because a situation
+like this one here, where Q goes from being
+negative to zero to positive, should be treated just the
+same as a situation like this as far as 2d curls is concerned, because this term in the 2d curl formula is going to come out the
+same for either one of these. And it's worth pointing out, by the way, curl isn't something that
+mathematicians and physicists came across trying to
+understand fluid flow. Instead, they found this
+term as being significant and various other
+formulas and circumstances and I think electromagnetism
+might be where it originally came about. But then in trying to
+understand this formula, they realized that you can give
+a fluid flow interpretation that gives a very deep
+understanding of what's going on beyond just the symbols themselves. So let me go ahead and
+walk through this example in terms of the formula
+representing the vector field. It's a relatively
+straightforward formula actually. So P and Q, that x component is going to be negative y and the y component, Q, is equal to x. So when we apply our 2d curl formula and apply the partial Q with respect to x, so partial of this second
+component with respect to x is just one, and then we subtract off the
+partial of P with respect to y which up here is negative one because P is just equal to negative y. So the 2d curl is equal to two and in particular, it's a constant two that doesn't depend on x and
+y, which is pretty unusual, most times that you apply
+2d curl to a vector field you're going to get some
+kind of function of x and y. But the fact that this is constant, tells us that when we look
+over at this fluid flow, the sense in which curl,
+the formula for curl wants to say that rotation
+happens around the center is just as strong as
+it's supposed to happen over here on the right, or anywhere on the plane for that matter. So if we're playing this and if you imagine you have
+the paddle wheel in the center, evidently it would be
+rotating just as quickly as the paddle on the right
+even though it might, I don't know, to me, that
+feels a little unintuitive cause the one on the right I'm thinking, okay, you know, maybe there's
+a little bit more torque on the right side than
+there is on the left and that's kind of a
+counter-balancing act, but the idea that that's actually the same as the very clear-cut, I see
+the counter-clockwise rotation with my eyes, example in the center, does seem a little unusual. But I think it's important to understand what else two dimensional
+curl can look like and what else this formula
+might be representing. So with that, I'll see you next video.

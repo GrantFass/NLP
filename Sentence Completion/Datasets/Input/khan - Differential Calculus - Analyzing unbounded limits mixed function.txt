@@ -1,0 +1,62 @@
+- [Voiceover] So we're told that f of x is equal to x over one
+minus cosine of x minus two, and they ask us to select
+the correct description of the one-sided limits
+of f at x equals two. And we see that right at x equals two, if we try to evaluate f of two, we get two over one minus cosine of two minus two, which is the same thing as cosine of zero, and cosine of zero is just one, and so one minus one is zero, and so the function is not
+defined at x equals two, and that's why it might be
+interesting to find the limit as x approaches two, and
+especially the one-sided limit. And the one-sided limit. Well, we'll obviously leave it at that so let's try to approach this. So there's actually a couple
+of ways you could do it. There is one way you could
+do this without a calculator by just inspecting what's going on here, and thinking about the properties
+of the cosine function, and if that inspires you,
+pause the video and work it out, and I will do that at
+the end of this video. The other way, if you have a calculator is to do it with a little bit of a table like we've done in other example problems. So if we think about x approaching two from the positive direction, well then. We can make a little table here where you have x, and
+then you have f of x. And so for approaching two
+from values greater than two, you could have 2.1, 2.01. Now the reason why I said calculators, these aren't trivial to evaluate because this would be what, 2.1 over 1 minus cosine of, 2.1 minus two is 0.1. I do not know what cosine of
+0.1 is without a calculator. I do know that cosine of zero is one so this is very, very close
+to one without getting to one, and it's going to be less than one. Cosine is never going
+to be greater than one. The cosine function is
+bounded between negative one is less than cosine of x. I'll just write the x, then
+I don't need the parenthesis. Which is less than one. The cosine function just
+oscillates between these two values so this, this thing is
+gonna be approaching one but it's going to be less than one. It definitely cannot be greater than one, and that's actually a good hint for how you can just
+explore the structure here, and then you could say, "All right, 2.01. "Well, that's going to be 2.01 "over one minus "cosine of 0.01." And this is going to even closer to one without being one but it's
+going to be less than one. No matter what, cosine of anything is going to be between
+negative one and one, and it could even be
+including those things but as we approach two, this thing is going to approach one, I guess you could say
+approach one from below. And so you can start to
+make some intuitions here. If it's approaching from
+below, this thing over here, this whole expression
+is going to be positive, and as we approach x equals two. Well, the numerator is positive. It's approaching two. The denominator is positive
+so this whole thing has to be approaching a positive value or it could become unbounded in the positive direction as we'll see, this is unbounded because this thing is even closer to one than this thing, and you would see that
+if you have a calculator but needless to say, this
+is going to be unbounded in the positive direction
+so we're going to be going towards positive infinity so
+these two choices have that, and we can make the exact
+same argument as we approach x in the negative or from below, as we approach two from
+below, I should say. So that's x, and that is f of x, and once again, I don't have
+a calculator in front of me. You could evaluate these
+things at a calculator, and become very clear
+that these are positive, and as we get closer to, they become even larger
+and larger positive values, and the same thing would
+happen if you did 1.9, and if you did 1.99 because here, you'd be
+1.9 over one minus cosine. Now here, you'd have 1.9 minus two so this would be negative 0.1. Let me scroll over a little bit. The second one would be 1.99 over one minus cosine of negative 0.01. And cosine of negative 0.1 is the same thing as cosine of 0.1. Cosine of negative 0.01 is the same thing as cosine of 0.01. So these two things, this is
+going to be equal to that. That is going to be equal to that. And once again, we're gonna be
+approaching positive infinity so the only choice where
+all of that is true is this first one. Whether we approach two
+from the right-hand side or the left-hand side, we're
+approaching positive infinity but the other way you could
+have deduced that is say, "Okay, as we approach two, the numerator is going to be positive 'cause two is positive,
+and then over here, as we approach two, cosine of anything can
+never be greater than one. It's going to approach
+one but be less than one so if this is less than
+as x approaches two. It becomes one when x is equal to two. Well then, this right over here, one minus something less than
+one is going to be positive so you have a positive
+divided by a positive so you're definitely going
+to get positive values as you approach two. And we know, and they've already told us that these are going to be
+unbounded based on the choices so you would also pick that but you should also feel good about it, that the closer that we get to two, the closer that this value
+right over here gets to zero. And the closer that
+this value gets to zero, the closer we get to one. The closer we get to one, the
+smaller the denominator gets. And then you divide by smaller
+and smaller denominators, you're going to become
+unbounded towards infinity, which is exactly what we
+see in that first choice.

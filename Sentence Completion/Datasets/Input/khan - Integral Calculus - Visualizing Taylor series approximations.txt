@@ -1,0 +1,109 @@
+I've talked a lot
+about using polynomials to approximate functions, but
+what I want to do in this video is actually show you that
+the approximation is actually happening. So right over here-- and I'm
+using WolframAlpha for this. It's a very cool website. You can do all sorts of crazy
+mathematical things on it. So WolframAlpha.com-- I got this
+copied and pasted from them. I met Steven Wolfram at a
+conference not too long ago. He said yes, you
+should definitely use WolframAlpha in your videos. And I said, great. I will. And so that's what
+I'm doing right here. And it's super useful,
+because what it does is-- and we could
+have calculated a lot of this on
+our own, or even done it on a graphic calculator. But you usually can do it just
+with one step on WolframAlpha-- is see how well we can
+approximate sine of x using-- you could call it a
+Maclaurin series expansion, or you could call it a
+Taylor series expansion-- at x is equal to 0 using
+more and more terms. And having a good
+feel for the fact that the more terms we add, the
+better it hugs the sine curve. So this over here in
+orange is sine of x. That should hopefully look
+fairly familiar to you. And in previous
+videos, we figured out what that Maclaurin
+expansion for sine of x is. And WolframAlpha does
+it for us as well. They actually calculate
+the factorials. 3 factorial is 6, 5 factorial
+is 120, so on and so forth. But what's interesting
+here is you can pick how many of
+the approximations you want to graph. And so what they did
+is if you want just one term of the
+approximation-- so if we didn't have this whole thing. If we just said that our
+polynomial is equal to x, what does that look like? Well, that's going to be
+this graph right over here. They tell us which
+term-- how many terms we used by how many dots there are
+right over here, which I think is pretty clever. So this right here, that is the
+function p of x is equal to x. And so it's a very
+rough approximation, although for sine of x,
+it doesn't do a bad job. It hugs the sine curve
+right over there. And then it starts to veer
+away from the sine curve again. You add another term. So if you have the x minus
+x to the third over 6. So now you have two
+terms in the expansion. Or I guess we should say we
+were up to the third-order term, because that's how their
+numbering the dots. Because they're not talking
+about the number of terms. They're talking about
+the order of the terms. So they have one
+dot here, because we have only one first-degree term. When we have two
+terms here, since we-- when you do the
+expansion for sine of x, it doesn't have a
+second-degree term. We now have a third-degree
+polynomial approximation. And so let's look
+at the third-degree. We should look for three dots. That's this curve
+right over here. So if you just have
+that first term, you just get that straight line. You add the negative x to
+the third over 6 to that x. You now get a curve
+that looks like this. And notice it starts hugging
+sine a little bit earlier. And it keeps hugging
+it a little bit later. So once again, just
+adding that second term does a pretty good job. It hugs the sine
+curve pretty well, especially around
+smaller numbers. You add another term. And now we're at an order five
+polynomial, right over here. So x minus x to the third over
+6 plus x to the fifth over 120. So let's look for the five dots. So that's this one right over
+here-- one, two, three, four, five. So that's this curve
+right over here. And notice it begins hugging
+the line a little bit earlier than the magenta
+version, and it keeps hugging it a little bit longer. Then it flips back up like this. So it hugged it a
+little bit longer. And you can see I'll keep going. If you have all these
+first four terms, it gives us a seventh
+degree polynomial. So let's look for the
+seven dots over here. So they come in just like this. And then once again, it hugs the
+curve sooner than when we just had the first three terms. And it keeps hugging the
+curve all the way until here. And then the last one. If you have all of these
+terms up to x to the ninth, it does it even more. You start here. It hugs the curve
+longer than the others. And goes out. And if you think about
+it, it makes sense, because what's happening here is
+each successive term that we're adding to the expansion,
+they have a higher degree of x over a much, much,
+much, much larger number. So for small x
+value-- so when you're close to the origin
+for small x values, this denominator is
+going to overpower the numerator, especially
+when you're below 1. Because when you
+take something that has absolute value
+less than 1 to a power, you're actually
+shrinking it down. So when you're
+close to the origin, these latter terms
+don't matter much. So you're kind of
+not losing some of the precision of some
+of the earlier terms. When these tweaking
+terms come in, these come in when
+the numerator can start to overpower
+the denominator. So this last term, it starts
+to become relevant out here, where all of a sudden x to the
+ninth can overpower 362,880. And the same thing
+on the negative side. So hopefully this
+gives you a sense. We only have one, two,
+three, four, five terms here. Imagine what would
+happen if we had an infinite number of terms. I think you get a
+pretty good sense that it would kind of hug the
+sine curve out to infinity. So hopefully that makes you feel
+a little bit better about this. And for fun, you
+might want to go type in-- you can type in
+Taylor expansion at 0 and sine of x, or Maclaurin
+expansion or Maclaurin series for sine of x,
+cosine of x, e to the x, at WolframAlpha.com. And try it out for a bunch
+of different functions. And you can keep adding
+or taking away terms to see how well
+it hugs the curve.

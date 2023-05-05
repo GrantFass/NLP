@@ -1,0 +1,34 @@
+- [Instructor] There are
+many videos on Khan Academy where we talk about factoring polynomials. What we're going to do in this video is do a few more examples of factoring higher degree polynomials. So let's start with a
+little bit of a warmup. Let's say that we wanted
+to factor six x squared plus nine x times x squared
+minus four x plus four. Pause this video and see
+if you can factor this into the product of even more expressions. All right, now let's do this together and the way that this might
+be a little bit different than what you've seen before is this is already partially factored. This polynomial, this
+higher degree polynomial, is already expressed as the product of two quadratic expressions but as you might be able to tell, we can factor this further. For example, six x squared plus nine x, both six x squared and nine
+x are divisible by three x. So let's factor out a three x here. So this is the same
+thing as three x times, three x times what is six x squared? Well, three times two is six
+and x times x is x squared and then three x times what is nine x? Well, three x times three
+is nine x and you can verify that if we were to
+distribute this three x, you would get six x squared plus nine x and then what about this second
+expression right over here? Can we factor this? Well, you might recognize
+this as a perfect square. Some of you might have said, hey, I need to come up with two numbers whose product is four and
+whose sum is negative four and you might say, hey, that's
+negative two and negative two and so this would be x minus two. We could write x minus two squared or we could write it as x
+minus two times x minus two. If what I just did is unfamiliar, I encourage you to go
+back and watch videos on factoring perfect square
+quadratics and things like that but there you have it. I think we have factored
+this as far as we can go. So now let's do a slightly trickier higher degree polynomial. So let's say we wanted
+to factor x to the third minus four x squared plus six x minus 24 and just like always, pause this video and see if you can have a go at it and I'll give you a little bit of a hint. You can factor in this case by grouping and in some ways it's a little bit easier than what we've done in the past. Historically, when we've
+learned factoring by grouping, we've looked at a quadratic and then we looked at the middle term, the x term of the quadratic
+and we broke it up so that we had four terms. Here, we already have four terms. See if you can have a go at that. All right, now let's do it together. So you can't always factor
+a third degree polynomial by grouping but sometimes you can so it's good to look for it. So when we see it written like this, we say okay, x to the
+third minus four x squared, is there a common factor here? Well, yeah, both x to the third
+and negative four x squared are divisible by x squared. So what happens if we
+factor out an x squared? So that's x squared times x minus four and what about these second two terms? Is there a common factor
+between six x and negative 24? Yeah, they're both divisible by six. So let's factor out a six here. So plus six times x minus four and now you are probably
+seeing the homestretch where you have something
+times x minus four and then something else times
+x minus four and so you can, sometimes I like to say
+undistribute the x minus four or factor out the x minus four and so this is going to be x
+minus four times x squared, x squared plus six and we are done.

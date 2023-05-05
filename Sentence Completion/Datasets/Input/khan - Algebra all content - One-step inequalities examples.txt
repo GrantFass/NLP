@@ -1,0 +1,133 @@
+In this video, I want to tackle
+some inequalities that involve multiplying and dividing
+by positive and negative numbers, and you'll
+see that it's a little bit more tricky than just the adding
+and subtracting numbers that we saw in the last video. I also want to introduce you
+to some other types of notations for describing the
+solution set of an inequality. So let's do a couple
+of examples. So let's say I had negative
+0.5x is less than or equal to 7.5. Now, if this was an equality,
+your natural impulse is to say, hey, let's divide both
+sides by the coefficient on the x term, and that is a
+completely legitimate thing to do: divide both sides
+by negative 0.5. The important thing you need to
+realize, though, when you do it with an inequality is
+that when you multiply or divide both sides of the
+equation by a negative number, you swap the inequality. Think of it this way. I'll do a simple example here. If I were to tell you that 1
+is less than 2, I think you would agree with that. 1 is definitely less than 2. Now, what happens if I multiply
+both sides of this by negative 1? Negative 1 versus negative 2? Well, all of a sudden, negative
+2 is more negative than negative 1. So here, negative 2 is actually
+less than negative 1. Now, this isn't a proof, but I
+think it'll give you comfort on why you're swapping
+the sign. If something is larger, when you
+take the negative of both of it, it'll be more negative,
+or vice versa. So that's why, if we're going to
+multiply both sides of this equation or divide both sides of
+the equation by a negative number, we need to
+swap the sign. So let's multiply both sides
+of this equation. Dividing by 0.5 is the same
+thing as multiplying by 2. Our whole goal here is to have
+a 1 coefficient there. So let's multiply both
+sides of this equation by negative 2. So we have negative 2
+times negative 0.5. And you might say, hey, how
+did Sal get this 2 here? My brain is just thinking what
+can I multiply negative 0.5 by to get 1? And negative 0.5 is the same
+thing as negative 1/2. The inverse of that
+is negative 2. So I'm multiplying negative
+2 times both sides of this equation. And I have the 7.5 on
+the other side. I'm going to multiply that
+by negative 2 as well. And remember, when you multiply
+or divide both sides of an inequality by a negative,
+you swap the inequality. You had less than or equal? Now it'll be greater
+than or equal. So the left-hand side,
+negative 2 times negative 0.5 is just 1. You get x is greater than or
+equal to 7.5 times negative 2. That's negative 15, which
+is our solution set. All x's larger than negative 15
+will satisfy this equation. I challenge you to try it. For example, 0 will work. 0 is greater than negative 15. But try something like--
+try negative 16. Negative 16 will not work. Negative 16 times negative
+0.5 is 8, which is not less than 7.5. So the solution set is all of
+the x's-- let me draw a number line here-- greater
+than negative 15. So that is negative 15 there,
+maybe that's negative 16, that's negative 14. Greater than or equal to
+negative 15 is the solution. Now, you might also see solution
+sets to inequalities written in interval notation. And interval notation, it
+just takes a little getting used to. We want to include negative 15,
+so our lower bound to our interval is negative 15. And putting in this bracket here
+means that we're going to include negative 15. The set includes the
+bottom boundary. It includes negative 15. And we're going to go all
+the way to infinity. And we put a parentheses here. Parentheses normally means that
+you're not including the upper bound. You also do it for infinity,
+because infinity really isn't a normal number, so to speak. You can't just say, oh,
+I'm at infinity. You're never at infinity. So that's why you put
+that parentheses. But the parentheses tends to
+mean that you don't include that boundary, but you also
+use it with infinity. So this and this are the
+exact same thing. Sometimes you might also see
+set notations, where the solution of that, they might
+say x is a real number such that-- that little line, that
+vertical line thing, just means such that-- x is greater
+than or equal to negative 15. These curly brackets mean the
+set of all real numbers, or the set of all numbers, where x
+is a real number, such that x is greater than or equal
+to negative 15. All of this, this, and this
+are all equivalent. Let's keep that in mind and do
+a couple of more examples. So let's say we had 75x is
+greater than or equal to 125. So here we can just divide
+both sides by 75. And since 75 is a positive
+number, you don't have to change the inequality. So you get x is greater than
+or equal to 125/75. And if you divide the numerator
+and denominator by 25, this is 5/3. So x is greater than
+or equal to 5/3. Or we could write the solution
+set being from including 5/3 to infinity. And once again, if you were
+to graph it on a number line, 5/3 is what? That's 1 and 2/3. So you have 0, 1, 2, and
+1 and 2/3 will be right around there. We're going to include it. That right there is 5/3. And everything greater than or
+equal to that will be included in our solution set. Let's do another one. Let's say we have x over
+negative 3 is greater than negative 10/9. So we want to just isolate the
+x on the left-hand side. So let's multiply both sides
+by negative 3, right? The coefficient, you could
+imagine, is negative 1/3, so we want to multiply by the
+inverse, which should be negative 3. So if you multiply both sides
+by negative 3, you get negative 3 times-- this you
+could rewrite it as negative 1/3x, and on this side, you
+have negative 10/9 times negative 3. And the inequality will
+switch, because we are multiplying or dividing
+by a negative number. So the inequality will switch. It'll go from greater
+than to less than. So the left-hand side of the
+equation just becomes an x. That was the whole point. That cancels out with that. The negatives cancel out.
+x is less than. And then you have a negative
+times a negative. That will make it a positive. Then if you divide the numerator
+and the denominator by 3, you get a 1 and a 3,
+so x is less than 10/3. So if we were to write this
+in interval notation, the solution set will-- the upper
+bound will be 10/3 and it won't include 10/3. This isn't less than or equal
+to, so we're going to put a parentheses here. Notice, here it included 5/3. We put a bracket. Here, we're not including
+10/3. We put a parentheses. It'll go from 10/3, all the way
+down to negative infinity. Everything less than 10/3
+is in our solution set. And let's draw that. Let's draw the solution set. So 10/3, so we might
+have 0, 1, 2, 3, 4. 10/3 is 3 and 1/3, so it might
+sit-- let me do it in a different color. It might be over here. We're not going to
+include that. It's less than 10/3. 10/3 is not in the
+solution set. That is 10/3 right there, and
+everything less than that, but not including 10/3, is
+in our solution set. Let's do one more. Say we have x over negative
+15 is less than 8. So once again, let's multiply
+both sides of this equation by negative 15. So negative 15 times
+x over negative 15. Then you have an 8 times
+a negative 15. And when you multiply both sides
+of an inequality by a negative number or divide both
+sides by a negative number, you swap the inequality. It's less than, you change
+it to greater than. And now, this left-hand side
+just becomes an x, because these guys cancel out. x is greater than 8 times 15
+is 80 plus 40 is 120, so negative 120. Is that right? 80 plus 40. Yep, negative 120. Or we could write the solution
+set as starting at negative 120-- but we're not including
+negative 120. We don't have an equal
+sign here-- going all the way up to infinity. And if we were to graph
+it, let me draw the number line here. I'll do a real quick one. Let's say that that
+is negative 120. Maybe zero is sitting up here. This would be negative 121. This would be negative 119. We are not going to include
+negative 120, because we don't have an equal sign there, but
+it's going to be everything greater than negative 120. All of these things that I'm
+shading in green would satisfy the inequality. And you can even try it out. Does zero work? 0/15? Yeah, that's zero. That's definitely less than 8. I mean, that doesn't prove it to
+you, but you could try any of these numbers and
+they should work. Anyway, hopefully, you
+found that helpful. I'll see you in the
+next video.

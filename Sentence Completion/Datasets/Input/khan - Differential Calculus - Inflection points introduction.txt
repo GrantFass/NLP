@@ -1,0 +1,44 @@
+If you were paying close
+attention in the last video, an interesting question might
+have popped up in your brain. We have talked about
+the intervals over which the function is
+concave downwards. And then we talked
+about the interval over which the function
+is concave upwards. But we see here that there's
+a point at which we transition from being concave downwards
+to concave upwards. Before that point, the
+slope was decreasing, and then the slope
+starts increasing. The slope was
+decreasing and then the slope started increasing. So that's one way to look at it. Right here in our
+function we go from being concave downwards
+to concave upwards. When you look at our
+derivative at that point, our derivative went from
+decreasing to increasing. And when you look at our second
+derivative at that point, it went from being
+negative to positive. So this must have some type of
+a special name you're probably thinking. And you'd be thinking correctly. This point at which we
+transition from being concave downwards to concave upwards,
+or the point at which our derivative has
+a extrema point, or the point at which our
+second derivative switches signs like this, we call it
+an inflection point. And the most typical
+way that people think about how could you
+test for an inflection point, it's a point, well,
+conceptually, it's where you go from being
+a downward opening u to an upward opening u. Or when you go
+from being concave downwards to concave upwards. But the easiest
+test is it's a point at which your second
+derivative switches signs. So in this case, we went
+from negative to positive. But we could have also
+switched from being positive to negative. So inflection point, your second
+derivative f prime prime of x switches signs. Goes from being
+positive to negative or negative to positive. Switches signs. So this is a case where we
+went from concave downwards to concave upwards. If we went from concave
+upwards to concave downwards, like that, then this inflection
+point up until that point, the slope was increasing. So the second derivative
+would to be positive. And then the slope
+is decreasing, so your second derivative
+would be negative. So here your second
+derivative is going from positive to negative. Here your second
+derivative is going from negative to positive. In either case, you are talking
+about an inflection point.

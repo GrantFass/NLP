@@ -1,0 +1,169 @@
+- [Instructor] What I have
+listed here is several of the derivative rules that
+we've used in previous videos. If these things look unfamiliar
+to you I encourage you to maybe to not watch this
+video because in this video we're going to think about
+when do we apply these rules? What strategies and can
+we algebraically convert expressions so that we
+can use a simpler rule? But this is a quick review,
+this is of course the power rule right over here, very
+handy for taking derivatives of X raised to some power. It's also we can use that
+with the derivative properties of sums of derivatives or
+differences of derivatives to take derivatives of polynomials. This right over here is the product rule. If I have an expression that
+I want to take the derivative of and I can think of it as
+the product of two functions, well then the derivative is
+going to be the derivative of the first function times
+the second function plus the first function times the
+derivative of the second. Once again if this looks
+completely unfamiliar to you or you're a little shaky,
+go watch the videos, do the practice on the power
+rule and the product rule, or in this case the quotient rule. And the quotient rule is
+a little bit more involved and we have practicing videos
+on that and I always have mixed feelings about it
+because if you don't remember the quotient rule, you can
+usually or you can always convert a quotient into a product
+by expressing this thing at the bottom as F of X times
+G of X to the negative one. So you could take the
+derivative with a combination of the products and this
+fourth rule over here, the chain rule. And if any of this is looking
+unfamiliar again don't watch this video, this video is
+for folks who are familiar with each of these derivative
+rules or derivative techniques and now want to
+think about well what are strategies for deciding
+when to apply which. So let's do that. Let's say that I have the
+expression, let's say I'm interested in taking the
+derivative of X squared plus X minus two over X minus one. Which of these rules or
+techniques would you use? Well you might immediately
+say hey look this looks like a rational expression, I
+could say this is my F of X right over here, I could
+say this is my G of X right over here and I could
+apply the quotient rule, this looks like a quotient
+of two expressions. And you could do that and if
+you do all the mathematics correctly, you will
+get the correct answer. But in this case it's good
+to just take a little time to realize well can I
+simplify this algebraically so maybe I can do a little bit less work? And if you look at it that
+way, you might realize wait what if I factored this
+numerator I can factor it as X plus two times X minus one. And then I could cancel these
+two characters out and I can say hey you know what this
+is going to be the same thing as the derivative with
+respect to X of X plus two. Derivative with respect to X
+of X plus two, which is much much much much more straightforward
+than trying to apply the quotient rule. Here you would just take
+the derivative with respect to X of X which is just going
+to be one and the derivative with respect to X of two
+is just going to be zero and so all of this is
+going to simplify to one. If we're taking the derivative
+of that, you're essentially just using the power rule. And so once again just a
+simple algebraic recognition things become much more simple. Let's do another example. So let's say that you were to
+see, or someone were to ask you to take the derivative
+with respect to X of, let me see, so let's say
+you had X squared plus two X minus five over X. So once again you might be
+tempted to use the quotient rule, this looks like the
+quotient of two expressions. But then you might realize
+there's some algebraic manipulations I could
+do to make this simpler. You could express this as a
+product, you could say that this is the same thing as,
+and I'm just going to focus on what's inside the parentheses
+or inside the brackets, this is the same thing as X
+to the negative one times X squared plus 2x minus five
+and then you might want to apply the product rule. But there's even a better
+simplification here. You could just divide each of
+these terms by X or one way to think about it distribute
+this one over X across all the terms, X to the
+negative one is the same thing as one over X and if you do
+that X squared divided by X is going to be X. 2x divided by X is going to
+be two and then negative five divided by X, well you could
+write that as negative five over X or negative five
+X to the negative one. And now I'm taking the
+derivative of this with respect to X is much easier than
+using either the quotient or the power rule. This is going to be, let's
+see the derivative of that is going to be one, derivative
+of two is going to be zero and here even though you
+have a negative exponent, it might look a little
+intimidating, this is just taken using the power rule. So negative one times
+negative five is positive five X to the, if we take one
+less than negative one we're going to go the negative two power. So once again making this
+algebraic recognition simplified things a good bit. Let's do a few more examples
+of just starting to recognize when we might be able to
+simplify things to do things a little bit easier. So let's say that someone said
+hey you take the derivative with respect to X and I'm using
+X as our variable that we're taking the derivative of
+with respect to but obviously this works for any
+variables that we are using. So let's say we're saying
+square root of X over X squared. Pause this video and think
+about how would you approach this if you want to take the
+derivative with respect to X of the square root of X over X squared. Well once again you might
+say this is a quotient of two expressions, might try to
+apply the quotient rule, or you might recognize well
+look this is the same thing, let me just focus on what's
+inside the brackets, you could view this as X to the negative
+two times the square root of X and then you might
+want to use the product rule but you could simplify this even better. You could say this is the same
+thing as X to the negative two times X to the one half
+power and now just using our exponent properties, negative
+two plus one half is negative three halves, so this is the
+derivative X to the negative three halves power. And so here once again we
+took something that we thought we might have to use the
+quotient rule or use the product rule and now this just becomes
+a straightforward using the power rule. So this is just going to be
+equal to, so bring the negative three halves out front,
+negative three halves, X to the negative three halves
+minus one is negative five halves power. So once again just before you,
+especially if you're about to apply the quotient rule
+and sometimes even the product rule, just see is there an
+algebraic simplification, sometimes a trigonometric
+simplification that you can make that eases your job that
+makes things less hairy? As a general tip I can't say
+this is going to be always true but if you're taking some
+type of exam and you're going down some really hairy route
+which the quotient rule will often take you, it's a
+good sign that hey take a pause before trying to run
+through all of that algebra to apply the quotient
+rule and see if you can simplify things. So let's give another example. In this one there's not an
+obvious way and it really depends on what folks'
+preferences are, but let's say you want to take the derivative
+with respect to X of one over 2x to the negative five,
+sorry, one over 2x minus five I should say. Well here you could immediately
+apply the quotient rule here the numerator you view that as F of X. You could view this as the
+same thing as the derivative with respect to X. Instead of 2x minus five, let
+me do that in the blue color. 2x minus five to the negative one power. In this situation, you would
+use a combination of the power rule and the chain rule. You would say okay my G of X
+is 2x minus five and F of G of X is going to be this whole expression. And so if you applied the
+chain rule, this is going to be the derivative of the
+outside function, our F of X with respect to the inside function. The derivative of F of G of
+X with respect to G of X. So it's going to be negative,
+we'll bring that negative out front, so we're
+essentially just going to use the power rule here. Negative 2x minus five to
+the negative two and then we multiply that times the
+derivative of the inside function. So the inside function's
+derivative, the derivative of 2x is two, the derivative
+of negative five is zero so it's going to be times two
+and of course you can simplify so it's a negative two
+times all of this business. Let me do one more example
+here just to hit the point home and once again there isn't a
+must way, there isn't a way that you have to do this,
+but just let you appreciate that there's multiple ways
+to approach these types of derivatives. So let's say someone said
+take the derivative of 2x plus one squared. Pause the video and think
+about how you would do that. Well one way to do it is
+just to apply the chain rule just like we just did. So you could say alright here's
+going to be the derivative of the outside with respect to the inside. So it's going to be two times
+2x plus one to the first power, taking one less than
+that times the derivative of the inside which is just
+going to be two and so this is going to be equal to
+four times 2x plus one, which is equal to, if we
+want to distribute the four, we could say it's 8x plus four. That's a completely
+legitimate way of doing it. Now there are other ways of doing it. You could expand out
+to X plus one squared. You could say hey this is the
+same thing as the derivative with respect to X of 2x squared
+is going to be 4x squared and then two times the product
+of these terms is going to be plus 4x plus one. And now you would just
+apply the power rule. It's a little bit of extra
+algebra up front but you can just go straightforward with
+the power rule and you're going to get this exact same thing. So the whole takeaway here is
+pause look at your expression. See if there's a way to
+simplify it and it's especially a good thing if you can get
+out of using the quotient rule 'cause that sometimes is
+just hard to know or remember and even when you do remember
+it, it can get quite hairy quite fast.

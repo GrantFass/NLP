@@ -1,0 +1,11 @@
+- Hi. My name is Inigo Quilez, and I work in Brave making all the trees, the forest, and all the natural
+environments of the movie. I use a lot of mathematics to do this. (arrow hits target) I think most people think of maths as something boring and mechanical, but that's not the way we
+see mathematics at Pixar. For us, maths are a tool to create images, movement, richness, and fun. This lesson, we'll talk
+about one of the ways we use mathematics to create
+the landscapes of Brave. So let's start with the most simple thing we can find in this
+landscape: one blade of grass. One blade of grass is something
+that starts in a point, grows in a direction, and bends down. It looks like a small, thin curve. This is great news,
+because in mathematics, we have a lot of tools to describe curves. In this case, we choose the parabola, which is a very specific curve. The curve, however, only gives
+us the spine of the blade. We still need to add a thickness to it and a color to make a blade of grass. And in order to populate the whole forest, we need to create millions of such curves, and then give them the
+right thicknesses and colors in order to create something
+organic and natural. Do you want to know more? Stay with us for the rest of the lesson. (beep)

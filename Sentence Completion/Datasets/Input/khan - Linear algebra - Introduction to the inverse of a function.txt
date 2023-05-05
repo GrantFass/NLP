@@ -1,0 +1,242 @@
+Let's say we have some function,
+f, and it's a mapping from the set X to Y. So if I were to draw the set X
+right there, that's my set X. If I were to draw the set
+Y, just like that. We know, and I've done this
+several videos ago, that a function just associates any
+member of our set X-- so I have some member of my set
+X there-- if I apply the function to it, or if we're
+dealing with vectors, we can imagine instead of using the
+word function, we would use the word transformation. But it's the same thing. We would associate with this
+element, or this member of X, a member of Y. So that's why we call
+it a mapping. When I apply this function--
+I'll do it in a different color-- this little member of
+X is associated with this member of Y. If this is right here,
+this is a capital X. Let's say we call this a,
+and let's call that b. We would say that the function
+where a is a member of X and b is a member of Y, we would say
+that f of a is equal to b. This is all a review of
+everything that we've learned already about functions. Now I'm going to
+define a couple of interesting functions. The first one-- I guess it's
+really just one function, I said it's a couple-- but I'll
+call it the identity function. This is a function. I'll just call it
+a big capital I. This identity function
+operates on some set. So let's say this is the
+identity function on set X, and it's a mapping
+from X to X. What's interesting about the
+identity function is that if you give it some a that is a
+member of X-- so lets say you give it that a-- the identity
+function applied to that member of X, the identity
+function of a, is going to be equal to a. So it literally just maps
+things back to itself. So the identity function, if I
+were draw it on this diagram right here, would
+look like this. It would look like-- we pick a
+nice suitable color-- it would look like this. It would just kind
+of be a circle. It just points back
+at the point that you started off with. It associates all points
+with themselves. That's the identity function on
+X, especially as it applies to the point a. If you apply it to some other
+point in X, it would just refer back to itself. That's the identity
+function on X. You could also have an identity
+function on Y. So let's say that b
+is a member of Y. So I drew b right there. Then the Y identity function--
+so this would be that identity function on Y applied
+to b-- would just refer back to itself. So that would be equal to b. This is the identity
+function on Y. So you might say, hey
+Sal, these are kind of silly functions. But we'll use them. They're actually at least a
+useful notation to use as we progress through our explorations of linear algebra. But I'm going to make
+a new definition. I'm going to say that a
+function-- let me pick a nice color, pink-- I'm going to say
+that a function, let me say f since we already established
+it right over here. I'm going to say that f is
+invertible, introducing some new terminology. f is invertible if and only
+if the following is true. I could either write it with
+these two-way arrows like that, or I could write it
+as iff with two f's. That means that if this is true,
+then this is true, and only if this is true. So this implies that, and
+that implies this. So f is invertible-- I'm kind
+of making a definition right here-- if and only if there
+exists a function, I'll call it nothing just yet. I'll call it something
+in a second. I'll write it as this f
+with this negative 1 superscript on it. So f is invertible if and only
+if there exists a function f inverse-- well I guess I just
+called it something. Let me do that in purple. Remember f is just a mapping
+from X to Y. So this function, f inverse,
+is going to be a mapping from Y to X. So I'm saying that f is
+invertible if there exists a function, f inverse, that's a
+mapping from Y to X such that if I take the composition of f
+inverse with f, this is equal to the identity function
+over X. So let's think about
+what's happening. This is just part
+of it actually. Let me just complete the
+whole definition. This is true, this has to be
+true, and the composition of f with the inverse function has
+to be equal to the identity function over Y. So let's just think about
+what's this saying. There's some function-- I'll
+call it right now, this called the inverse of f-- and it's
+a mapping from Y to X. Let me draw it up here. So f is a mapping from X to Y. We showed that. This is the mapping
+of f right there. It goes in that direction. We're saying there has be some
+other function, f inverse, that's a mapping from Y to X. So let's write it here. So f inverse is a mapping from Y
+to X. f inverse, if you give me some value in set
+Y, I go to set X. So this guy's domain is this
+guy's codomain, and this guy's codomain is this guy's domain. Fair enough. But let's see what
+it's saying. It's saying that the composition
+of f inverse with f, has to be equal to
+the identity matrix. So essentially it's saying if I
+apply f to some value in X-- right, if you think about
+what's this composition doing-- this guy's going
+from X to Y. This guy goes from Y to X. So let's think about what's
+happening here. f is going from X to Y. Then f inverse is going
+from Y to X. So this composition is going to
+be a mapping from X to X, which the identity function
+needs to do. It needs to go from X to X. They're saying this equals
+the identity function. So that means when you apply f
+on some value in our domain, so you go here, and then you
+apply f inverse to that point over there, you go back to
+this original point. So another way of saying this
+is that f-- let me do it in another color-- the composition
+of f inverse with f of some member of the set
+X is equal to the identity function applied on that item. These two statements
+are equivalent. So by definition, this
+thing is going to be your original thing. Or another way of writing this
+is that f inverse applied to f of a is going to
+be equal to a. That's what this first
+statement tells us. If you think of it visually,
+it's saying you start with an a, you apply f to it, and you
+get this value right here. That is f of a. I'm saying it equals b, or I
+said it equalled b earlier on. Then if you apply this f
+inverse-- and it doesn't always exist-- but if you apply
+that f inverse to this function, it needs to
+go back to this. By definition it needs to go
+back to your original a. It has to be equivalent to just
+doing this little closed loop right when I introduce you
+to the identity function. Now that's what this statement
+is telling us right here. The second statement is saying
+look, if I apply f to f inverse, I'm getting the
+identity function on Y. So if I start at some point in
+Y right there, and I apply f inverse first, maybe
+I go right here. Let's call that lowercase y So
+this would be f inverse of lowercase y. Then if I were to apply f to
+that-- I know this chart is getting very confusing-- if I
+apply f to this right here, I need to go right back
+to my original Y. So when I apply f to f inverse
+of Y this has to be equivalent of just doing the identity
+function on y. So that's what the second
+statement is saying. Or another way to write it is
+that f of f inverse of y, where y is a member of the
+set capital Y, it has to be equal to Y. You've been exposed to the idea
+of an inverse before. We're just doing it a little
+bit more precisely because we're going to start dealing
+with these notions with transformations and matrices
+in the very near future. So it's good to be exposed to it
+in this more precise form. Now the first thing you might
+ask is let's say that I have a function f, and there does exist
+a function f inverse that satisfies these
+two requirements. So f is invertible. The obvious question, or maybe
+it's not an obvious question is, is f inverse unique? Actually probably the obvious
+question is how do you know when something's invertible. We're going to talk a
+lot about that in the very near future. But let's say we know that
+f is invertible. How do we know, or do we know
+whether f inverse is unique? To answer that question, let's
+assume it's not unique. So if it's not unique, let's say
+that there's two functions that satisfy our two constraints
+that can act as inverse functions of f. Let's say that g
+is one of them. So let's say g is a mapping. Remember f is a mapping
+from X to Y. Let's say that g is a mapping
+from Y to X such that if I apply f to something and then
+apply g to it-- so this gets me from X to Y. Then when I do the composition
+with g, that gets me back into X. This is equivalent to the
+identity function. This was part of the definition
+of what it means to be an inverse. I'm assuming that g is
+an inverse of f. This assumption implies
+these two things. Now let's say that h is
+another inverse of f. By definition, by what I just
+called an inverse, h has to satisfy two requirements. It has to be a mapping
+from Y to X. Then if I take the composition
+of h with f, I have to get the identity matrix on the set X. Now that wasn't just part
+of the definition. It implies even more
+than that. If something is an inverse, it
+has to satisfy both of these. The composition of the inverse
+with the function has to become the identity
+matrix on x. Then the composition of the
+function with the inverse has to be the identity
+function on Y. Let's write that. So g is an inverse of f. It implies this. It also implies-- I'll do
+it in yellow-- that the composition of f with
+g is equal to the identity function on y. Then if we do it with h, the
+fact that h is an inverse of f implies that the composition
+of f with h is equal to the identity function
+on y as well. Let me redraw what I drew in the
+beginning just so we know what we're doing. So if this is a set X right
+here-- let me do it in a different color-- let's say this
+right here is the set Y. We know that f is a
+mapping X to Y. What we're trying to determine
+is is f's inverse unique. So any inverse, so we're saying
+that g is a situation that if you take the composition
+of g with f, you get the identity matrix. So f does that. If you could take g
+you're going to go back to the same point. So it's equivalent. So taking the composition of g
+with f-- that means doing f first then g-- this is the
+equivalent of just taking the identity function in X, so just
+taking an X and going back to an X. It's equivalent to that. So this is g right here. The same thing is true with h. h should also be. If I start with some element in
+X and go into Y, and then apply h, it should also be
+equivalent to the identity transformation. That's what this statement and
+this statement are saying. Now this statement is saying
+that if I start with some entry in Y here and I apply g,
+which is the inverse of f, I'm going to go here. So g will take me there. When I apply f then to that, I'm
+going to go back to that same element of Y. That's equivalent to
+just doing the identity function on Y. That's the same thing as the
+identity function of Y. I could do the same
+thing here with h. I just take a point here, apply
+h, then apply f back. I should just go back
+to that point. That's all of what
+this is saying. So let's go back to
+the question of whether g is unique. Can we have two different
+inverse functions g and h? So let's start with g. Remember g is just a mapping
+from Y to X. So this is going to be equal to,
+this is the same thing as the composition of the identity function over x with g. To show you why that's the case,
+remember g just goes from-- these diagrams get me
+confused very quickly-- so let's say this is
+x and this is y. Remember g is a mapping
+from y to x. So g will take us there. There's a mapping from y to x. I'm saying that this g is
+equivalent to the identity mapping, or the identity
+function in composition with this. Because all this is saying is
+you apply g, and then you apply the identity
+mapping on x. So obviously you're going to get
+to the exact same mapping or the exact same point. So these are equivalent. But what is another
+way of writing the identity mapping on x? What's another way
+of writing that? Well by definition, if
+h is another inverse of f, this is true. So I can replace this in this
+expression with a composition of h with f. So this is going to be equal to
+the composition of h with f, and the composition
+of that with g. You might want to put
+parentheses here. I'll do it very lightly. You might want to put
+parentheses there. But I showed you a couple
+of videos ago that the composition of functions, or
+of transformations, is associative. It doesn't matter if you put
+the parentheses there or if you put the parentheses there. Actually I'll do that. I'll put the parentheses there
+at first just so you can understand that this
+is the same thing as that right there. But we know that composition
+is associative. So this is equal to the
+composition of h with the composition of f and g. Now what is this equal to, the
+composition of f and g? Well it's equal to, by
+definition, it's equal to the identity transformation
+over y. So this is equal to h composed
+with, or the composition of h with, the identity function over
+y with this right here. Now what is this going to be? Remember h is a mapping
+from y to x. Let me redraw it. So that's my x and
+that is my y. h could take some element
+in y and gives me some element in x. If I take the composition of the
+identity in y-- so that's essentially I take some element,
+let me do it this way-- I take some element in
+y, I apply the identity function, which essentially
+just gives me that element again, and then I
+apply h to that. That's the same thing as just
+applying h to the function to begin with. So just going through this
+little exercise we've shown, even though we started off
+saying I have these two different inverses, we've
+just shown that g must be equal to h. So any function has
+a unique inverse. You can't set up two
+different inverses. If you do you'll find that
+they're always going to be equal to each other. So far we know what
+an inverse is. We don't know what causes
+someone to be able to have an inverse or not, but we know if
+they have an inverse, how to think about it. We also know that that
+inverse is unique.

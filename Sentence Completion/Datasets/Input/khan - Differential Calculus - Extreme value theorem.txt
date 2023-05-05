@@ -1,0 +1,130 @@
+So we'll now think about
+the extreme value theorem. Which we'll see is a
+bit of common sense. But in all of
+these theorems it's always fun to think
+about the edge cases. Why is it laid
+out the way it is? And that might give us a little
+bit more intuition about it. So the extreme
+value theorem says if we have some function that
+is continuous over a closed interval, let's say the
+closed interval from a to b. And when we say a
+closed interval, that means we include
+the end points a and b. That is we have these brackets
+here instead of parentheses. Then there will be an
+absolute maximum value for f and an absolute
+minimum value for f. So then that means
+there exists-- this is the logical symbol for
+there exists-- there exists an absolute maximum
+value of f over interval and absolute minimum value
+of f over the interval. So let's think about
+that a little bit. And this probably is
+pretty intuitive for you. You're probably saying,
+well why did they even have to write a theorem here? And why do we even have to
+have this continuity there? And we'll see in a second
+why the continuity actually matters. So this is my x-axis,
+that's my y-axis. And let's draw the interval. So the interval is from a to b. So let's say this is a and
+this is b right over here. Let's say that this right
+over here is f of a. So that is f of a. And let's say this right
+over here is f of b. So this value right
+over here is f of b. And let's say the function
+does something like this. Let's say the function
+does something like this over the interval. And I'm just drawing
+something somewhat arbitrary right over here. So I've drawn a
+continuous function. I really didn't have
+to pick up my pen as I drew this right over here. And so you can see
+at least the way this continuous function
+that I've drawn, it's clear that there's
+an absolute maximum and absolute minimum
+point over this interval. The absolute minimum
+point, well it seems like we hit it right
+over here, when x is, let's say this is x is c. And this is f of c
+right over there. And it looks like we had
+our absolute maximum point over the interval
+right over there when x is, let's say
+this is x is equal to d. And this right over
+here is f of d. So another way to say this
+statement right over here if f is continuous over
+the interval, we could say there exists a c and
+d that are in the interval. So they're members
+of the set that are in the interval
+such that-- and I'm just using the logical notation here. Such that f c is less
+than or equal to f of x, which is less
+than or equal to f of d for all x in the interval. Just like that. So in this case
+you're saying, look, we hit our minimum value
+when x is equal to c. That's that right over here. Our maximum value
+when x is equal to d. And for all the other
+Xs in the interval we are between those two values. Now one thing, we could draw
+other continuous functions. And once again I'm not doing
+a proof of the extreme value theorem. But just to make
+you familiar with it and why it's stated
+the way it is. And you could draw a
+bunch of functions here that are continuous over
+this closed interval. Here our maximum point
+happens right when we hit b. And our minimum
+point happens at a. For a flat function
+we could put any point as a maximum or
+the minimum point. And we'll see that this
+would actually be true. But let's dig a
+little bit deeper as to why f needs
+to be continuous, and why this needs to
+be a closed interval. So first let's think about why
+does f need to be continuous? Well I can easily
+construct a function that is not continuous
+over a closed interval where it is hard to articulate
+a minimum or a maximum point. And I encourage you,
+actually pause this video and try to construct that
+function on your own. Try to construct a
+non-continuous function over a closed interval where
+it would be very difficult or you can't really pick
+out an absolute minimum or an absolute maximum
+value over that interval. Well let's see, let
+me draw a graph here. So let's say that this right
+over here is my interval. Let's say that's a, that's b. Let's say our function
+did something like this. Let's say our function
+did something right where you would have expected
+to have a maximum value let's say the function is not defined. And right where you
+would have expected to have a minimum value,
+the function is not defined. And so right over here
+you could say, well look, the function is
+clearly approaching, as x approaches this
+value right over here, the function is clearly
+approaching this limit. But that limit
+can't be the maxima because the function
+never gets to that. So you could say, well
+let's a little closer here. Maybe this number
+right over here is 5. So you could say, maybe
+the maximum is 4.9. Then you could get your x
+even closer to this value and make your y
+be 4.99, or 4.999. You could keep adding another 9. So there is no maximum value. Similarly here, on the minimum. Let me draw it a little bit so
+it looks more like a minimum. There is-- you can get
+closer and closer to it, but there's no minimum. Let's say that this value
+right over here is 1. So you could get to
+1.1, or 1.01, or 1.0001. And so you could keep drawing
+some 0s between the two 1s but there's no absolute
+minimum value there. Now let's think
+about why it being a closed interval matters. Why you have to include your
+endpoints as kind of candidates for your maximum and minimum
+values over the interval. Well let's imagine that
+it was an open interval. Let's imagine open interval. And sometimes, if we
+want to be particular, we could make this is the
+closed interval right of here in brackets. And if we wanted to do an
+open interval right over here, that's a and that's b. And let's just pick
+very simple function, let's say a function like this. So right over here, if
+a were in our interval, it looks like we hit our
+minimum value at a. f of a would have been
+our minimum value. And f of b looks like it would
+have been our maximum value. But we're not including
+a and b in the interval. This is an open
+interval so you can keep getting closer,
+and closer, and closer, to b and keep getting higher,
+and higher, and higher values without ever quite
+getting to be. Because once again we're
+not including the point b. Similarly, you could
+get closer, and closer, and closer, to a and get
+smaller, and smaller values. But a is not included in
+your set under consideration. So f of a cannot be
+your minimum value. So that on one level, it's kind
+of a very intuitive, almost obvious theorem. But on the other hand,
+it is nice to know why they had to say
+continuous and why they had to say a closed
+interval like this.

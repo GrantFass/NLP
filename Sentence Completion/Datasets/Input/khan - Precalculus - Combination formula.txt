@@ -1,0 +1,71 @@
+- The first time you're
+exposed to permutations and combinations it takes a little bit to get your brain around it,
+so I think it never hurts to do as many examples. But each incremental
+example I'm gonna review what we've done before, but hopefully go a little bit further. So let's just take another example. This is in the same vein. In videos after this I'll
+start using other examples, other than just people sitting in chairs, but let's just stick with it for now. Let's say we have six people again. Person A, B, C, D, E, and F, so we have six people. Now let's put them into four chairs. We can go through this fairly quickly, one, two, three, four chairs. We've seen this show multiple times. How many ways, how many
+permutations are there of putting these six
+people into four chairs? Well the first chair, if
+we seat them in order, we might as well, we
+can say well there'd be six possibilities here. For each of those six possibilities there would be five possibilities
+of who we'd put here, because one person's already sitting down. For each of these 30 possibilities of seating these first two people, there'd be four possibilities of who we put in chair number three. Then for each of these, what
+is this, 120 possibilities there would be three possibilities of who we put in chair four. This six times five times four times three is the number of permutations. We've seen in one of the
+early videos on permutations that, when we talk about
+the permutation formula, one way to write this, if we
+wanted to write in terms of factorial, we could write this as six factorial, six factorial
+which is going to be equal to six times five times four times three times two times one, but we wanna get rid of the two times one. We're gonna divide that, we're gonna divide that. Now what's two times one? Two times one is two factorial. Where do we get that? We wanted the first four, the first four factors of six factorial. That's where the four came from. We wanted the first four
+factors, so the way we got two is we said six minus four. Six minus four, that's gonna give us the number that we wanna get rid of. We wanted to get rid of two or the factors we wanna get rid of. That's going to give us two factorial. If we do six minus four factorial. That's going to give us two factorial, which is two times one. Then these cancel out, and we are all set. This is one way, I put in
+the particular numbers here, but this is a review of
+the permutations formula, where people say, "Hey, if I'm saying n, "if I'm taking n things,
+then I want to figure out "how many permutations are there "of putting them into let's say k spots, "it's going to be equal to n factorial "over n minus k factorial." That's exactly what we did over here, where six is n and k, or four is k. Four is k. Actually let me color code the whole thing so that we see the parallel. All of that is review. Then we went into the
+world of combinations. In the world of combinations, we said permutations make a difference between who's sitting in what chair. For example, in the permutations world, and this is all review, we've covered this in the combinations video,
+in the permutations world A, B, C, D, and D, A, B, C, these would be two different permutations that's being counted in
+whatever number this is. This is what? This is 30 times twelve. This is equal to 360. Each of these, this is one permutation, this is another permutation, and if we keep doing it
+we would count up to 360. But we learned in combinations, when we're thinking about combinations, let me write combinations. If we're saying n choose, n choose k, or how many combinations are there? If we take k things, and
+we just wanna figure out how many combinatio- If we start with n, if
+we have pool of n things, and we wanna say how many combinations of k things are there,
+then we would count these as the same combination. What we really wanna do is we wanna take the number of permutations there are. We wanna take the number
+of permutations there are, which is equal to n factorial over n minus k factorial, over n minus k factorial, and we wanna divide by the number of ways that you can arrange four people. Once again, this takes- I remember the first time I learned it took my brain a little while. If it's taking you a little
+while to think about it, not a big deal. It can be confusing at first, but hopefully if you
+keep thinking about it hopefully you will see
+clarity at some moment. What we wanna do is we wanna
+divide by all of the ways that you can arrange four things. Cuz once again, in the permutations it's counting all of the
+different arrangements of four things, but we don't wanna count all of those different
+arrangements of four things. We wanna just say they're
+all one combination. We wanna divide by the number of ways to arrange four things. Or the number of ways to arrange k things. Let me write this down. What is the number of ways, number of ways, to arrange k things, k things, in k spots. I encourage you to pause the video, because this actually a review from the first permutation video. If you have k spots, let me do it so if this is the first
+spot, the second spot, third spot, and then
+you're gonna go all the way to the kth spot. For the first spot there could be k possibilities. There's k things that
+could take the first spot. For each of those k possibilities, how many things can be in the second spot? It's gonna be k minus one,
+because you already put, you already put something
+in the first spot. Then over here, what's it gonna be? K minus two all the way to the last spot, there's only one thing that
+can be put in the last spot. What is this thing here? K times k minus one times k minus two times k minus three all
+the way down to one. This is just equal to k factorial. The number of ways to
+arrange k things in k spots, k factorial. The number of ways to arrange
+four things in four spots, that's four factorial. The number of ways to arrange three things in three spots, it's three factorial. We could just divide this. We could just divide this by k factorial. This would get us, this would get us, n factorial divided by k factorial, k factorial times, times n minus k factorial, n minus k, n minus k, I'll put the factorial right over there. This right over here is the formula. This right over here is the
+formula for combinations. Sometimes this is also called
+the binomial coefficient. People always call this n choose k. They'll also write it like this, n choose k, especially
+when they're thinking in terms of binomial coefficients. I got into kind of an
+abstract tangent here, when I started getting
+into the general formula. Let's go back to our example. In our example we saw
+that there was 360 ways of seating six people into four chairs. What if we didn't care about
+who's sitting in which chairs and just wanna say,
+"How many ways are there "to choose four people "from a pool of six?" That would be that would be how many ways are there. That would be six. How many combinations if I'm starting with a pool of six, how many combinations are there? How many combinations are there for selecting four? Another way of thinking about it is how many ways are there to, from a pool of six items, people in this example, how many ways are there
+to choose four of them. That is going to be, we could do it- I'll apply the formula first, and then I'll reason through it. And like I always say, I'm not a huge fan of the formula. Every time I revisit it after a few years, actually just rethink about it,
+as opposed to memorizing it, because memorizing is a
+good way to not understand what's actually going on, but if we just apply the formula here, I really want you to understand what's happening in the formula, it would be six factorial
+over four factorial, over four factorial, times six minus four factorial, six, oops let me just, This is six minus four factorial, so this part right over here, six minus four fa- Let me write it out because I know this can be a little bit confusing the first time you see it. So six minus four factorial, factorial, which is equal to, which is equal to six
+factorial over four factorial, over four factorial, times
+this thing right over here is two factorial, times two factorial, which is going to be equal to, we can just write out the factorials,
+six times five times four times three times two times one, over four. Four time three times two times one times, times two times one. Of course that's going
+to cancel with that. Then the one doesn't
+really change the value, so let me get rid of this one here. Let's see, this three can
+cancel with this three. This four could cancel with this four. Then it's six divided by
+two is going to be three. So we are just left with three times five. We are left with, we are left with, there's
+fifteen combinations. There's 360 permutations for putting six people into four chairs, but there's only 15 combinations, because we're no longer counting all of the different arrangements for the same four people
+in the four chairs. We're saying, "Hey if
+it's the same four people, "that is now one combination." You can see how many ways are there to arrange four people into four chairs? That's the four factorial
+part right over here. The four factorial part right over here, which is four times three
+times two times one, which is 24. We essentially just took the 360 divided by 24 to get 15. Once again, I don't think
+I can stress this enough. I wanna make it clear
+where this is coming from. This right over here, let me circle, this piece right over here is
+the number of permutations. This is really just so you can get to six times five times four times three, which is exactly what we did up here, where we reasoned through it. Then we just wanna divide
+by the number of ways you can arrange four items in four spaces.

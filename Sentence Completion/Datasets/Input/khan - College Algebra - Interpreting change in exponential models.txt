@@ -1,0 +1,43 @@
+- [Voiceover] So I've
+taken some screenshots of the Khan Academy exercise
+"Interpreting Rate of Change "for Exponential Models
+in Terms of Change" Maybe they're going to change the title. It seems a little bit too long. But anyway, let's actually
+just tackle these together. So the first of spring an entire field of flowering trees blossoms. The population of locusts
+consuming these flowers rapidly increases as the trees blossom. The relationship between
+the elapsed time t in days since the beginning of spring and the total number of locusts L of t, so the number of locusts
+is going to be a function of the number of days that have elapsed since the beginning of spring, is modeled by the following function. So locusts as a function
+of time is going to be 750 times 1.85 to the "t"th power. Complete the following sentence about the daily rate of change
+of the locust population. Every day the locust population, well, every day think about
+what's going to happen. I'll draw a little table, just to make it hopefully a little bit clearer. So, we draw a little bit of a table. So we'll put t and L of t. So when t is zero, so when
+zero days have elapsed, well that's going to be
+1.85 to the 0th power, that's just going to be one. So you're going to have 750
+locusts right from the get go. Then when t equals one,
+what's going to happen? Well then this is going to be 750 times 1.85 to the 1st power. So it's going to be times 1.85. When t is equal to two, what's L of t? It's going to be 750 times 1.85 squared. Well that's the same thing as 1.85 times 1.85. So notice. And this is just comes out of this being an exponential function. Every day you have 1.85 times as many as you had the day before. 1.85 We essentially take what
+we had the day before and we multiply it by 1.85. And since 1.85 is larger than one, that's going to grow the
+number of locusts we have. So this is going to grow. I'm actually not using, I'm
+not on the website right now so that's why, normally there
+would be a dropdown here. So I'm going to grow by a factor of, well I'm going to grow by
+a factor of 1.85 every day. Let's do another one of these. All right. So this one tells us
+that Vera is an ecologist who studies the rate of change in the bear population
+of Siberia over time. The relationship between
+the elapsed time t in years since Vera began studying the population and the total number of bears N of t is modeled by the following function. All right, fair enough. We've got an exponential thing going on. Complete the following sentence about the yearly rate of change
+of the bear population. Let's just thing about it. Every year that passes, t as in years now, every years that passes is going to be two thirds times the year before. I could do that same table that I just did just to make that clear,
+so let me do that. Whoops. Let me, let me make this clear. So, table. So this is t and this is N of t. When t is zero, N of t you're
+going to have 2187 bears. So that's the first year that she began studying that population. Zero years since Vera began
+studying the population. The first year is going to be 2187 times two thirds to the first
+power, so times two thirds. The second year is going to be 2187 times two thirds to the second power. So that's just two
+thirds times two thirds. So each successive year
+you're going to have two thirds the bear
+population of the year before. You're multiplying the
+year before by two thirds. So every year the bear population shrinks, shrinks by a factor of, by a factor of two thirds. All right, let's do one more of these. So they tell us that
+Akiba started studying how the number of branches
+on his tree change over time. All right. The relationship between
+the elapsed time t in years since Akiba started studying his tree and the total number
+of its branches N of t is modeled by the following function. Compete the following sentence about the yearly percent change
+in the number of branches. Every year, blank percent of branches are added or subtracted from
+the total number of branches. Well I'll draw another table, although you might get used to just being able to look at this and say well look, each year you're going to have 1.75 times the number branches
+you had the year before. And so we have 1.75 times the number of branches the year before, you have grown by 75%, and I'll make that a little bit clearer. So 75%, every year 75% percent of branches are added to the total number of branches. And I'll just draw that table again like I've done in the last two examples to make that hopefully clear. Okay, so this is t and this is N of t. So t equals zero, you have 42 branches. T equals one, it's going
+to be 42 times 1.75. Times 1.75. When t equals two, it's going
+to be 42 times 1.75 squared. 42 times 1.75 times 1.75. So every year you are multiplying times 1.75 so times 1.75, something funky is happening
+with my pen right over there. But if you're multiplying by 1.75, if you're growing by a factor of 1.75, this is the same thing as adding 75%. Once again, you are adding 75%. Think about it this way. If you just grew by a factor of one, then you're not adding anything. You're staying constant. If you grow by 10%, then you're going to be 1.1 times as large. If you grow by 200% then you're going to be two times as large. So this right over here? This right over here is, is, is. If you, let me be very
+careful, what I just said. I think I just mistake that. If you grow by 200%, you are going to be three times as large as you were before. One is constant, and then another 200% would be another two-fold so that would make you three times as large. Don't want to confuse you. My brain recognized that I said something weird right at that end. All right, hopefully you enjoyed that.

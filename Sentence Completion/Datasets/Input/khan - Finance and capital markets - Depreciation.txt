@@ -1,0 +1,185 @@
+So we have a company here. Let's just say it's
+a widget factory again or a widget company. And what I'm going to do is I'm
+going to actually write out its income statement over
+a given number of years. What we did in the first video
+on this series is we just did one snapshot of the
+income statement. I think it was 2008. But here we're looking at the
+income statement over a bunch of years, and in this case, I'm
+just assuming that they have a very stable revenue base,
+that they bring in a very stable amount of
+revenue every year. Now, their cost of goods, I'm
+going to split up this time, because there's two components
+of cost of goods, so I'll just make a cost of goods category
+right here. COGS, but that just stands for
+Cost of Goods Sold, but sometimes you'll hear someone
+say our COGS were this or our COGS were that. Cost of Goods Sold. So they're the variable costs. And this video isn't a video
+on variable versus fixed costs, but you might learn
+a little bit about it. So they're the variable costs,
+and that's literally the actual costs of making
+those widgets. So if the widgets are made out
+stainless steel, it's the cost of buying the stainless steel
+and maybe the electricity bill of melting it and reforming it
+or however you have to work with stainless steel. So let's say the variable costs
+each of these years-- and I'm assuming stainless
+steel prices don't change-- is $100,000. Minus $100,000 every year. And actually, let's
+just say that also includes employee costs. They have people on hourly wages
+that are forming these stainless steel widgets, so that
+incorporates everything. And then the fixed costs
+will essentially be the cost of the factory. And let's say that they
+essentially have to build a new factory every two years, or
+let's say they have to do major repairs to the factory
+every two years. So let's say repairs
+on factory. Because that's part of the cost
+of building the widgets, because if you continue to make
+widgets at this kind of $1 million a year pace, your
+factory has to be retooled or revamped every two years. So let's put this fixed cost.
+So the factory retooling. And most times, and we'll see
+this when you look at an actual company's income
+statement, they're not going to break up the variable and
+fixed costs within their cost of goods sold like this, because
+really, they actually want to hide it from a lot
+of their competitors. They don't want their
+competitors to have too much intelligence on what their
+cost structure is like. It could be used against them
+potentially, or maybe they don't want their customers
+to know. Anyway, factory tooling. So the way I just described it,
+one way to account for it is when you do the factory
+retooling, you essentially just mark it as an expense. So let's say a factory retooling
+costs $500,000. So let's say it's
+minus $500,000. But they do it every
+two years. So you did it in 2005. They didn't have to do
+it in 2006, then they can do it in 2007. They don't have to
+do it in 2008. Fair enough. And then we have their
+gross profit. Here it's $1 million
+minus $600,000. It's $400,000, then it's
+$900,000, then it is $400,000, then it's $900,000. And let's say that their
+SG&A-- SG&A is Selling, General and Administrative
+expenses. I'll leave out marketing
+for now. They're SG&A, let's say it's
+another $500,000 every year. So minus $500,000. And that never changes. $500,000 every year. Minus $500,000. And so their operating profit,
+the amount of pre-tax income, but you know, we're not
+considering financing either, so this is their operating
+profit or their EBIT. So operating profit. And this year, it's
+minus $100,000. Here it's also minus $100,000. But then in these years,
+they make money. It's $400,000 and $400,000. And then we could
+take this down. Let's say they have no
+interest expense. They have no interest expense,
+because that's not the point of this video. And then their pre-tax profit is
+going to be the same thing as the operating profit, so
+minus $100,000, minus $100,000, $400,000--
+I'll make the good years in green-- $400,000. And then, let's just say they're
+in the Caribbean and they don't have to pay taxes. Because that's not the point
+of this, but you can apply some tax rate to this
+and figure out what their net income is. But the point of this is, even
+though their business is ultra stable, they do the exact same
+thing every year, when we look at the pre-tax or the operating
+income, or if we tax it, or even at the net income,
+we see a super lumpy business, because in one year they
+lost $100,000. If you're looking at the
+business, you're like, oh, what a horrible business. But then the next year they make
+$400,000, and then they lose $100,000. And you're like, gee, how
+is that possible? That you have such a sleepy,
+stable business that's just making COGS year in year out,
+and they have the exact same amount of revenue? How is it possible that their
+actual income is so lumpy? And I think you know, because
+you have this every other year factory retooling, where they
+have to spend $500,000 to essentially rebuild their
+factory because of all of the wear and tear that happened
+over the last two years. So the question is, is this a
+good way to account for it, where when you have to--
+I guess you could say-- buy new equipment. Let's say this $500,000 is to
+buy actual new stainless steel shaping tools, so is it a good
+idea to account for it only in the period that you spend it? Because it's not like you're
+only using these tools in this period and that period? You're using these tools
+throughout the period. So the answer is, well, no,
+it's not a good idea. Because the whole purpose of
+accounting is to give the person reading the income
+statement in this case as accurate a picture of the actual
+state of the business as possible. And this, in my opinion, isn't
+an accurate picture, where it creates this huge lumpiness and
+it creates the impression of a volatile business even
+though it's a super, super stable business. So what you do, instead of just
+saying, oh, I had to buy $500,000 worth of equipment in
+2005, so I literally put a $500,000 expense there, and I
+didn't have to do that in 2006, so I have no expense. I had to do it in 2007,
+so I put the expense. Instead of doing that, what
+you do is-- I'll put the balance sheet down here-- so
+whatever the balance sheet was in-- so I'll draw both hand
+sides of the balance sheet. So this is the asset side
+of the balance sheet. And just so you don't get
+confused, there's always a liability side of the balance
+sheet as well. So in 2007, maybe before I spent
+the $500,000, right when I do it, I probably had $500,000
+of cash sitting here. Let me write that down. So I have cash. I'll just put a C there. Cash, $500,000. And instead of just using this
+an expense, and we'll go in the future on kind of how you
+account for things in a little bit more detail and how you
+actually do the debits and credits, but a simple way to
+think about it, instead of using this $500,000 as an
+expense, we just transferred this $500,000 to buy an asset. So when you use cash to buy an
+asset, and that asset has a useful life that's more than
+just that period, you're essentially capitalizing the
+expense or you're essentially creating that asset on
+the balance sheet. So instead of this $500,000 just
+disappearing expense, you say, no, now I have-- let's call
+it F for factory tools. I have factory tools worth
+$500,000, and then that cash will go away. So your assets will not have
+really changed, the absolute value of the assets. You'll have just had $500,000
+going from cash to new factory tools. And so this might be at the
+beginning of when you do it. Let's say this is 1/1/2007. And what you say is, I'm going
+to use these factory tools. They're usable over two years. So what you do is you depreciate
+the tools. So the way you'd think about
+this is instead of having factory retooling, you could
+say factory tool. Instead of retooling I'll
+call that depreciation. I don't know if you
+can read that. So it essentially spreads
+out the cost of that $500,000 a year. So you say, I had a $500,000
+piece of capital equipment, and its useful life
+is two years. So I used half of
+it in year one. So instead of putting $500,000
+there, the depreciation is minus $250,000. Likewise, in this year, no cash
+went out the door, but my equipment got a little
+bit older, so I used half more of it. So it's $250,000. And then my equipment
+is worthless. So this is in 1/1/2005. I have this tool that's
+worth $500,000. Then on 1/1/2006, I will have
+used half of the tool. So now this balance sheet-- I
+copied the numbers, too, but that's 2006. I'm going from 2005 to 2006. So now I will have used
+up half of it. So according to the accounting,
+this equipment is no longer worth $500,000. It's now worth $250,000. You know, that actually
+might make sense. Maybe if I were to sell it in
+the open market, someone might say, you know what? I'm only willing to pay
+$250,000, because you've already used it for a year and
+it only has one year of useful life left, so it's of $250,000
+of value to me. And then the other $250,000
+essentially went to an expense called depreciation, which
+is right there. So every year, you're going to
+have this asset go down on the balance sheets by $250,000. So here at the beginning
+of this year, the asset is worth $500,000. So I'll write that up here. So this is what the
+asset's valued. I'll do it in this
+orange color. So over here, let's say you did
+it right at the beginning of the year, the asset's
+worth $500,000. Now, it's worth $250,000. Now, the asset's worth zero, but
+at the beginning of this year, you buy a new asset
+worth $500,000. Then it's worth $250,000
+again. And this is just an arguably
+long-winded way of saying that the way you account for this
+is you spread out the cost over time, over its useful life,
+and this spreading out is called the depreciation
+of an asset. And I'm running out of time in
+this video, and I'll cover it in the next, but you might have
+also heard of the word "amortization." Amortization
+is to spread out a non-tangible cost over
+a period of time. So for example, depreciation,
+this was factory equipment, and it gets old as I use it,
+so I spread out its cost. That's what depreciation does. And it accurately reflects
+what's actually happening in the business. It's not like I didn't
+have any cost here. I did have cost. I'm
+using an asset up. So therefore, I put
+it down there. Amortization is the exact same
+thing as depreciation, but it applies to things that
+aren't equipment. It applies to-- and I'll do it
+in the next video-- but let's say I had one big expense in
+terms of I had to pay a bunch of fees to the bank, but the
+benefit of those fees are going to be over time. Then I would amortize
+those fees. I'll do that in the
+next video. Anyway, hopefully, you found
+this vaguely useful.

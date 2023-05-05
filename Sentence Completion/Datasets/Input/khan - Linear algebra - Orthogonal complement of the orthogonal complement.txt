@@ -1,0 +1,162 @@
+Let's say I have some subspace
+of rn called v. Let me draw it like this. So that it is r n. And I have some subspace of it
+we'll call v right here. So that is my subspace v. We know that the orthogonal
+complement v is equal to the set of all of the
+members of rn. So x is a member of rn. Such that x dot v is equal to 0
+for every v that is a member of r subspace. So our orthogonal complement of
+our subspace is going to be all of the vectors that
+are orthogonal to all of these vectors. And we've seen before that they
+only overlap-- there's only one vector that's
+a member of both. That's the zero vector. It's right there. Let's take the orthogonal
+complement. Let's say it's this set right
+here in pink, so that's the orthogonal complement. Fair enough. Now, what if we were to think
+about the orthogonal complement of the orthogonal
+complement? So, that's the orthogonal
+complement in pink. We want the orthogonal
+complement of that. So this is going to be all
+of the x's-- let's just write it like this. All of the x's that are members
+of rn such that x dot w is equal to 0. For every w that is a member
+of the orthogonal complement of v. That's what that thing
+is saying. So it's all of the vectors in
+rn that are orthogonal to everything here. Obviously, all of the things in
+v are going to be a member of that because these guys are
+orthogonal to everything in these guys. But maybe this is just a subset
+of the orthogonal complement of the orthogonal
+complement. So maybe this thing in blue
+right here looks like this. Maybe it's a slightly
+larger set than v. Maybe there are some things,
+these things that I'm shading in blue, maybe there are some
+vectors that are orthogonal to the orthogonal complement of v
+but that are outside of v. We don't know that yet. We don't know whether this
+area right here exists. Or maybe the orthogonal
+complement of the orthogonal complement. Maybe that takes us back to v. Maybe it's like the transpose
+or an inverse function where it just goes back to our
+original subspace. Let's see if we can
+think about that a little bit better. Let's say that I have some
+member of the orthogonal complement of the orthogonal
+complement. So let's say I have some vector
+x that is a member of the orthogonal complement of
+the orthogonal complement. Now, we saw on the last video
+that any vector in rn can be represented by a sum of some
+vector in a subspace and the subspace's complement. So we know that x can be
+represented-- we can say that x can be represented as the
+sum of two vectors. One that's in v and one that's
+in the orthogonal complement of v. So one, let's call that the
+vector that's in v and let's call w the vector that's
+in the orthogonal complement of V. Let me write it like this. Where v is a member of the
+subspace v and the vector w is a member of the orthogonal
+complement of v. Right? So this is some member. It could be some guy out here. It could be some
+guy over here. He's a member of the orthogonal
+complement of the orthogonal complement. Which is this whole area here. Which v is a subset of, but
+we're not sure whether v equals that thing. But we say, look, anything
+that's in the orthogonal complement of your orthogonal
+complement, is going to be a member of rn. And anything in rn can be
+represented as a sum of a vector in v and a vector
+in the orthogonal complement of v. So that's all I wrote
+right there. Now, what happens if I take the
+dot product of x with w? What is this going
+to be equal to? This is the orthogonal
+complement of the orthogonal complement. Would you take the dot product
+of any vector in this with any vector in the orthogonal
+complement, which this vector is. Right? It's a member of the orthogonal
+complement. You're going to get
+0 by definition. These are all of the vectors. This factor is definitely
+orthogonal to anything in just v perp right? Anything in v perp perp
+is orthogonal to anything in v perp. So, this thing is going
+to be equal to 0. But what's another way
+of writing x dot w? We could write it like this. This is the same thing
+as v plus w dot w. Which is the same thing as
+v dot w plus w dot w. Now, what is v dot w? v is a member of our
+original subspace. And if you take the dot product
+of anything in our original subspace anything in
+its orthogonal complement, you're going to get 0. So this term right here is going
+to be 0, and you're just going to get this term which
+is the same thing as the length of our vector
+w squared. Now, that has to equal 0. Remember we just
+wrote x dot w. x is a member of the orthogonal
+complement of your orthogonal complement. So, you dot that with anything
+in the orthogonal complement, that's got to be equal 0. But, if we write it the other
+way, if we write it as the sum of v plus w and distribute this
+w, we say that's the same thing as the magnitude
+of w squared. So the magnitude of w squared
+has got to be equal to 0. The magnitude of w squared, or
+the length of w squared, has got to be equal to 0. Which tells us that w
+is the zero vector. That's the only factor in rn
+when you take its length and, especially when you square
+it, you get 0. But you could just
+take its length. So what does that mean? That means that our original
+vector x is equal to v plus w. But w is just equal to 0. So that implies that
+our original vector x is equal to v. And v is a member of
+our subspace v. Right? So that tells us that x is a
+member of our subspace v. So we just showed that if
+something is a member of the orthogonal complement of the
+orthogonal complement then that same vector has
+to be a member of the original subspace. So there is no such thing as
+something being in the orthogonal complement of the
+orthogonal complement and not being a member of our
+original subspace. All of this has to be inside
+of this right there. So there is no outside
+blue space like that. All of that is our original
+subspace if you want to view it that way. Now I just at the beginning of
+the video, anything in our subspace is going to be a
+member of our orthogonal complement. And then you can kind of reason
+that in your head. Let's use the same argument to
+just be a little bit more rigorous about it. Right now we say if anything
+is in the orthogonal complement of the orthogonal
+complement, then it's going to be the original subspace. Let's go the other way. Let's say that something
+is in the original subspace just like that. Let me draw another graph
+right here because this might be useful. Let me draw rn again. Let me draw all of
+rn like that. Now, we have the orthogonal
+complement. Let me just draw that first.
+So v perp And then you have the orthogonal complement of
+the orthogonal complement which could be this
+set right here. Right? This is v perp. I haven't even drawn
+the subspace v. All I've shown is, I have some
+subspace here, which I happen to call v perp. And then I have the orthogonal
+complement of that subspace. So this means that anything in
+rn can be represented as the sum of a vector that's here
+and a vector that's here. So, if I say that w-- let
+me do it in purple. If I say the vector w-- let
+me write it this way. The vector v can be represented
+as the sum of the vector w and the vector x where
+w is a member of the orthogonal complement of v or
+v perp And x is a member of its orthogonal complement. Notice, all I'm saying, I could
+have called this set s. And then this would have been
+s and its orthogonal complement. And we learned that anything in
+rn could be represented as the sum of something in a
+subspace and the subspace's orthogonal complement. So it doesn't matter that v is
+somehow related to this. It can be represented as
+a sum of a vector here plus a vector there. Fair enough. Now, what happens if
+I dot v with w? I'm doing the exact same
+argument that I did before. Well, if you take anything
+that's a member of our original subspace, and you dot
+it with anything in its orthogonal complement, that's
+going to give us 0. What else is that going
+to be equal to? If we write v in this way, v
+dot w is the same thing as this thing dot w. So w plus x dot-- and this is
+going to be equal to w dot w plus x dot w. And what's x dot w? x is in the
+orthogonal complement of your orthogonal complement. And w is in the orthogonal
+complement. So if you take the dot
+product, you're going to get 0. They're orthogonal
+to each other. So this is just equal to w dot
+w or the length of w squared. And since since has to equal
+0, we just have a bunch of equals here, that tells us that
+once again the vector w has to be equal to 0. So that tells us v is
+equal to w plus x. But if w is equal to 0, then v
+is going to be equal to x. So we've just shown that if v is
+a member of the subspace v, then v is a member of the
+orthogonal complement of the orthogonal complement. Right? v is equal to x, which is
+a member of the orthogonal complement or the orthogonal
+complement. So we've proven it both ways. If you look at the original
+statement, we wrote here that if you're a member of the
+orthogonal complement of the orthogonal complement,
+you're a member of the original subspace. So, we've proven this and,
+earlier in the video, we proved that if x is a member of
+the orthogonal complement of the orthogonal complement,
+then x is a member of our subspace. So these two things
+are equivalent. Anything that's in
+the subspace is a member of v perp perp. Anything in v perp perp is
+a member of our subspace. So, our subspace in v perp
+perp are the same set. And of course it overlaps. This equals this. And of course it overlaps with
+V perp and its orthogonal complement only at the zero
+vector right there.

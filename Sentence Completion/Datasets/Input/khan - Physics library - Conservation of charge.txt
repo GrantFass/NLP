@@ -1,0 +1,94 @@
+- There's a law in physics that
+has stood the test of time. Laws come and go. Sometimes we discover new things. We have to scrap them,
+ammend them, adjust them, tweak them, throw them away, but there's one law that has
+been around for a long time and no one has ever, ever
+tried to damage this law or discovered any experiment
+that has shown it to be wrong, and it's called the law
+of conservation of charge. And this is electric charge,
+is what we're talking about in this particular example. So what does this mean? Well, imagine you had a
+box and inside of this box I'm gonna put some charges. So let's say we have a particle here and it's charge is positive two coulombs. And then we have another
+charge flying around in here, and it has a charge of
+negative three coulombs. And we have another charge over here that's got, I don't know,
+positive five coulombs. These are flying around. What the law of
+conservation of charge says is if this box is closed
+up, in the sense that no charge can enter or exit. So I'm not going to let any charge come in and I'm not gonna let any charge go out. If that's the case,
+the total charge inside of this region of space has to be constant when you add it all up. So if you want a mathematical statement, I like math, the mathematical
+statement is that if you add up, the sigma is the
+fancy letter for adding up, all the charges in a given region, as long as, here's the asterisk, as long as no charges
+are incoming or outgoing, then the total amount of
+charge in that region of space has to be a constant. This math looks complicated,
+it's actually easy. All I'm saying is that if
+you add up all this charge... Positive two coulombs plus five coulombs minus three coulombs, you'll get a number and what that number
+represents is the total amount of charge in there. Which is going to be,
+five plus two is seven, minus three is four. Positive four coulombs. You ever open up this box,
+you're always going to find four coulombs in there. Now this sounds possibly obvious. You might be like, duh. If you don't let any of
+these charges go in or out, of course you're only going
+to find four coulombs in there because you've just got
+these three charges. But not necessarily. Physicists know if you
+collide two particles, these things don't have to
+maintain their identity. I might end up with
+eight particles in here at some later point in time. And if I add up all their
+charges, I'll still get four. That's the key idea here. That's why this is not just a frivolous sort of meaningless trivial statement. This is actually saying something useful, because if these protons,
+they're not because this is a positive two
+coulomb and the proton has a very different charge, but for the sake of argument,
+say this was a proton, runs into some other particle,
+an electron, really fast. If there's enough energy,
+you might not even end up with a proton and an electron. You might end up with
+muons or top quarks or if this is another proton, you end up with Higgs
+particles or whatever. And so at some later point in time, here's why this law is
+important and not trivial, because if this really is closed up and the only stuff going
+on in there is due to these and whatever descendants
+particles they create, at some later point in time
+I may end up with, like, say this one, it doesn't even
+have to have the same charge. Maybe this one's positive one coulomb. And I end up with a
+charge over here that has negative seven coulombs. If these were fundamental particles, they would have charges
+much smaller than this, but to get the idea across,
+big numbers are better. And let's say this is
+negative four coulombs. And then you end up with
+some other particle, some other particle you
+didn't even have there. None of these particles were there before. And some charge q. Now we end up with these
+four different particles. These combined, there
+was some weird reaction and they created these particles. What is the charge of this q? This is a question we can answer now, and it's not even that hard. We know the charge of all the others. We know that if you add up all of these, you've got to add up to
+the same amount of charge you had previously, because the law of conservation of charge says
+is if you don't let any charge in or out, the total charge in here has to stay the same. So let's just do it. What do we do? We add them all up. We say that positive one
+plus negative seven coulombs plus negative four coulombs
+plus whatever charge this unknown, mystery particle is. We know what that has to equal. What does that have to equal? It has to equal the total charge, because this number does not change. This was the total charge
+before, positive four coulombs. That means it has to be the
+total charge afterward in there. That's what the law of
+conservation of charge says. So that has to equal positive four. Well, negative seven and
+negative four is negative 11, plus one is negative 10. So I get negative 10 coulombs, plus... Oh, you know what, these
+q's look like nines, sorry about that. This is law of conservation of charge. I'm gonna add a little tail. This isn't the law of
+conservation of nines. So this is a little q. This is a little q, not a nine. And so plus q equals four. Now we know that charge
+has to have a charge of 14 coulombs in order to
+satisfy this equation. But you don't even really need a box. I mean, nobody really does
+physics in cardboard box, so let's say we're doing an experiment and there was some
+particle x, an x particle. And it had a certain amount of charge, it had, say, positive three coulombs. That would be enormous for a particle, but for the sake of argument, say it has positive three coulombs. Well, it decays. Sometimes particles decay,
+they literally disappear, turn into other particles. Let's say it turns into y
+particle and z particle. Just give them random names. And you discover that this y particle had a charge of positive two coulombs and this z particle had a
+charge of negative one coulomb. Well, is this possible? No, this is not possible. If you discover this, something went wrong because this side over here, you started with positive three coulombs. Over here you've gotta end up, according to the law of
+conservation of charge, with positive three coulombs,
+but positive two coulombs minus one coulomb,
+that's only one coulomb. You're missing two coulombs over here. Where'd the other two coulombs go? Well, there had to be some
+sort of mystery particle over here that you missed. Something happened. Either your detector
+messed up or it just didn't detect a particle that had
+another amount of charge. How much charge should it have? This whole side's gotta add up to three. So if you started off with three, over here, these two together, y and z, are only one coulomb. That means that the
+remainder, the two coulombs, the missing two coulombs, has to be here. So you must've had some particle or some missed charge that has
+positive two coulombs. Is that another y particle? Maybe, that's why physics is fun. Maybe it is in there, maybe
+you missed another one. Let me ask you this. So let's say we get rid
+of all these charges. Here's one that freaks
+people out sometimes. Take this. Let's say this had no charge. No charge, it was uncharged. You got some particle with zero coulombs. Is it possible to end up with
+particles that have charge? Yeah, it can happen. In fact, if you have a
+photon that has no charge, it's possible for this photon to turn into charged particles. How is that possible? Doesn't that break the law
+of conservation of charge? No, but you've gotta make sure that whatever charge this gets,
+say positive three coulombs, then this one's going to have to have negative three coulombs so
+that the total amount of charge over here is zero coulombs
+just like it was before. So this is weird, but yeah,
+photon, a beam of light, can turn into an electron, but that means it has to also turn into an anti-electron because it has to have no
+total charge over here. And an anti-electron has the
+same charge as an electron, but positive instead of negative. Which is why it's called a positron. Anti-electrons are call positrons
+because they're the same as electrons, just positive. You don't really need to know that. In fact, you don't need to know a lot about particle physics,
+that's the whole point here. Just knowing conservation of charge lets you make statements
+about particle physics because you know the
+charge has to be conserved and that's a powerful tool
+in analyzing these reactions in terms of what's possible
+and what's not possible.

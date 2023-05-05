@@ -1,0 +1,28 @@
+(bouncing) - Okay, let's dive into
+the use of particles for simulating water. (water splashing) Before talking about how
+lots of particles move, let's start by looking at
+how one particle moves. If I drop a particle, or a ping pong ball, it accelerates towards the ground. We also saw this kind of
+motion in the animation topic. Notice that it bounces back up, but not quite as high as it started. It loses some energy during the bounce, and eventually when it loses
+all of its energy, it stops. Now let's look at our
+ping pong ball simuator where we model each ping pong
+ball using a virtual particle. The virtual particle accelerates downward until it hits an obstacle, and then it bounces back up,
+only with a little less energy. With this simulator,
+we can control how big the particle is using this slider. We can also control how strong the gravity is using this slider. A small gravitational value
+similar to the gravity found on the moon causes the particle to fall more gradually. A larger gravitational value, like the gravity here on Earth, causes the particle to fall
+at a more familiar rate. And sending it to a very
+large gravitational value, like on Jupiter, makes the
+particle fall really quickly. We can also control how much
+energy the particle loses during a bounce, by
+controlling its elasticity. It describes a fraction of energy that is retained when
+the particle bounces. Elasticity is a number
+between zero and one. A value of one means the
+particle loses no energy. It'll bounce forever. This is called perfect elastic collision, and it's something that
+doesn't happen in real life. A value of zero means the
+particle loses all of its energy. In this case, sticking to the floor. Intermediate values give the
+particle more realistic motion. Elasticity is also used
+to control the energy loss when particles hit each other. If we set elasticity to zero,
+then the particles will lose all energy when they collide. Like this, similar to a pile of marbles. And as we increase the elasticity, we get something that looks
+more like rubber balls. And of course, you can also change the size of the particles. Let's pause here so you
+can use the next exercise to get some experience with
+the range of particle behavior you can achieve by
+changing the particle size, gravity, and elasticity. (playful music)

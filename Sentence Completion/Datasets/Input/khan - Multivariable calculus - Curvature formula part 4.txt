@@ -1,0 +1,122 @@
+- [Voiceover] So we've been
+talking about curvature. And this means you've got
+some sort of parametric curve, you might think as parameterized by a vector valued function S of t. And curvature is supposed to measure just how much this curve actually curves. So here it's curving quite a
+bit, curvature should be high. But here it's, you know. relatively straight so curvature should be low. And I brought up in the last video this pretty complicated formula. And to remind you of the circumstances, I was saying that curvature,
+denoted with this little kappa, is typically calculated as the derivative of the unit
+tangent vector function. So we'll think of some kind of function that gives unit tangent
+vectors at every single point. So you know, just a vector with a length of one lying
+tangent to the curve. And that's going to be some kind of function of the same parameter. So big T for unit tangent
+vector, little t for the parameter, hopefully
+that's not too confusing. Then we're taking the derivative
+of this, not with respect to t, the parameter, but with
+respect to arc length, s. And by arc length, I mean
+if you take a tiny step along the curve, and consider
+this to be of size ds, so s typically denotes
+length along a curve, this will be a tiny change in length. You're wondering how much that
+unit tangent vector changes. And specifically what I mean by that, if you kind of imagine
+tangent vectors off sitting in their own space somewhere,
+where each one of them has unit lengths so they're all just
+kind of of the same length and lets say they're all
+stemming from the same points. So rather than drawing them
+stemming from the curve, to show that they're tangent, I just want to show them in their own space. The derivative, the change in
+that tangent vector, would be some, some other vector that
+tells you how you move from one to the other, kind of tells
+you how much it's turning. So the curvature itself is
+given not by that vector, because this would be a vector quantity, but by the absolute value of it. And I said in the last
+video that it turns out that this quantity, when you
+work it out for a vector-value function with components, with componenets x of t, x of t and y of t, that it happens to equal
+this complicated formula. And what I'm gonna do here,
+I going to break it down and show why this formula
+isn't actually all that random. It's actually kind of
+sensible as a description for how much the curve
+really curves at a point. So lets start by looking
+at the numerator here. This x-prime of t, first
+derivative of the first component, times the second derivative of
+the second component, minus, and then kind of symmetrically, y-prime times x double-prime. You might be able to recognize this as a certain cross product. So the cross product, if
+we take x-prime, y-prime, and these are still
+functions of t, as a vector crossed with the vector
+containing the double primes. And if you aren't familiar
+with the cross products or you're feeling a little shaky and you kind of want to review, now would be a good time pause the video, take a look at the cross product videos, and remind yourself both of how to compute it and what the
+underlying intuition is. Because the way that we compute
+a cross product like this is you take the components in the
+diagonal here, you know that rightward diagonal, and
+multiply them together. That's where you get your
+x-prime, y double-prime. And then you subtract off
+the components in the other diagonal, you know it kind
+of feels like a determinant. X double-prime, times y-prime. But the way that you
+interpret this vector, well I'll get to the
+interpretation in just a moment. First, first let me kind of write out what this is in terms of our function S. This first vector is just
+the first derivative of S, so that's S-prime of t,
+the first derivative of S. And we're crossing that with this one, which is the second derivative,
+vector value derivative, but the second derivative of S. So before we, before we
+do anything else lets just start to think about, what do
+both of these vectors mean? How do you interpret the
+S-prime and the S double-prime? I'm going to go ahead and give ourselves a little bit of room here. So I'll draw the curve again. We're on our x, y plane, and
+you have some kind of curve. The function S itself is giving vectors whose tips trace out this curve, right? As T changes, the tips of these
+vectors trace out the curve. And now the first derivative,
+that first derivative vector, S-prime of t, is telling you how that tip should move
+to go along the curve. As you go from one S
+vector to another S vector, what direction should that tip move. And what this means is
+that at every given point, when you kind of do this
+in a limiting fashion and you only look at infinitesimal
+changes in the original vector, you always get some
+kind of tangent vector, right? So all of these are tangent
+vectors, not necessarily unit, you might have like a very
+long tangent vector to indicate that you're traveling very
+quickly across that space. And now, how would you think about the second derivative vector
+here, S double-prime of t? Well the way to do
+that, I like to think of all of the tangents
+vectors then just kind of living in their own space, right? If this here is representing
+S of t, I just want to look in isolation at what
+S-prime of t looks like. So each one of those
+vectors, you know maybe this first one is just is
+very long, gargantuan, indicating you're going very quickly. And then after that you've
+got something else here, maybe it's pointing a little bit down. And you're kind of thinking about how all of these derivative vectors change, but I want them all
+rooted at the same point. Just see what happens when
+they're all rooted at the origin, because that, that gives
+us a way to think about what changing the vector should look like. So in particular, as you're moving from this vector to this one, the tip should be kind of moving in this direction, right? So this second derivative
+value is going to tell us how the tip of the
+first derivative should move. And then similarly over here it tells us how the tip of that should move. And just as an example and
+kind of a hint as to why this has something to do with curvature, if you have a curve
+that turns very sharply, turns very sharply, you would
+have you know a tangent vector that starts by pointing up
+and to the right and then very quickly is pointing down,
+down and to the right. So if they were off, you know
+we'd kind of draw them on their own, rooted in their own location, you can maybe see how the
+second derivative vector is telling it to turn
+somehow in that direction. And if you, you know
+capture not just those two but infinitesimally what's
+going on as you move from one to the next you're gonna get this kind of turning motion
+for all of these guys. So the second derivative
+vector would be pulling perpendicular, perpendicular to that first derivative vector as
+a way of telling it to turn. So just to draw that on
+its own, if you have a first derivative vector, and
+then the second derivative vector is perpendicular to it, it's telling it how it
+should turn in some way. But if it was, you know
+lets say it was not purely perpendicular but it was
+also pointing against, it would be telling that, that vector, that first derivative vector,
+to shrink in some way. So that would be an indication that not only is it turning
+but it's getting smaller, meaning the trajectory based
+on S is probably slowing down. And if it was kind of turning
+it but also pointing away, that would mean it's telling the first derivative vector to grow. So not only should you
+be turning on your curve but you should also be speeding up. But the case we care about
+most is we're just trying to measure how perpendicular it is, right? And this is where the
+cross product comes in, because if you think
+about how you interpret that cross product, how you
+interpret the cross product, it's basically the area
+if you kind of take these two vectors, tip-to-tail as
+they are, and think about the parallelogram that they trace out. Lets see, so this blue dotted line should be parallel to the blue vector. The area of this, of this
+traced out parallelogram for each of them, that's what tells you that's how you interpret
+the cross product. The cross product between
+S-prime and S double-prime. So this cross product, by giving
+you that area, is kind of a measure of just how perpendicular
+these vectors are, right? Because if one of them,
+if they point very much in the same direction, right,
+and they're only slightly perpendicular, that means that
+the parallelogram they trace, they trace out is gonna
+have a very small area. It's gonna be a smaller
+area in comparison. So with that, I don't want
+this video to run too long, so I'm gonna call it in
+here, but then I'll just continue on in the next
+one through the same line of reasoning to build
+to our original formula.

@@ -1,0 +1,61 @@
+- Line segments IN, this
+is segment IN over here, and TO, this is TO here, are reflected over the line Y is equal to negative X minus two. So this is the line that
+they're reflected about this dashed, purple line. And it is indeed Y equals
+negative X minus two. This right over here is
+in slope intercept form. The slope should be negative one, and we see that the
+slope of this purple line is indeed negative one. If X changes by a certain amount, Y changes by the negative of that. If X changes by one, Y
+changes by negative one to get back to that line. If X changes by positive two, Y changes by negative two to get back to another point on that line. And the Y intercept? We see when X is equal to zero, Y should be negative two. When X is equal to zero, Y is indeed negative two. So we've validated that. Then they say, "Draw the
+image of this reflection, using the interactive graph." Alright, so we can move
+these lines around, and we want to reflect these. And I could try to eyeball it, you know, maybe it's something like this. I don't know, it doesn't exactly right. That looks close to the reflection of IN, and for TO I'd want to
+move this down here. TO looks like it would be, I don't know, I'm eyeballing it. This is close, but it can't be close. I want to get exact. So let's, I've copied and
+pasted the original problem on my scratch pad so we
+can find the exact points and so I don't just have to estimate this. So let's go to the scratch pad. So exactly what we just saw. And the main realization is, is that if we want to
+reflect a given point, if we want to reflect a given point, say point I right over here, what we want to do is we want to drop a perpendicular. We want to find a line
+that's perpendicular, or a line that has the point I on it, and it's perpendicular to
+this line right over here. Remember this is the line, let me do this is that purple color. This is the line, Y is equal
+to negative X minus two. Its slope is equal to negative one. So I want a line that
+goes through I, point I, that is perpendicular to this line, and I want to drop it, I want to drop it to, I want to drop it to the line
+that I'm going to reflect on, and then I'm going to go the same distance onto the other side to find to find the corresponding
+point in the image. So how do I do that? Well if this line, if this purple line has a slope of negative one, a line that is perpendicular to it a line that is perpendicular to it so this thing that I'm drawing
+in purple right over here, its slope is going to be the
+negative reciprocal of this. So the reciprocal of negative one is still just negative one. One over negative one
+is still negative one. But we want the negative of that. So the slope here needs to be one. And luckily, that's how I drew it. The slope here needs to be equal to one which is however much I
+change in the X direction I change in the Y direction. We see that. To go from this point to
+this point right over here, we decrease Y by four and we decrease X by four. Now, if we want to stay on this line to find the reflection,
+we just do the same thing. We could decrease X by four, so we'll go from negative
+two to negative six, and decrease Y by four, and we end up at this
+point right over here. So we end up at the point, this is X equals negative six,
+Y is equal to negative four. So this is, this point corresponds to this point right over there. Now, let's do the same thing. Let's do the same thing for point N. For point N, we already know, if we drop a perpendicular, and this is perpendicular, it's
+going to have a slope of one because this purple line
+has a slope of negative one. The negative reciprocal of
+negative one is positive one. And let's see, to go from this point to this point of intersection, we have to go down one and a half. We're going down one and a half, and we're going to the
+left one and a half. So we want to do that on the other side. We want to stay on this
+perpendicular line. So we want to go left one and a half, and down one and a half. And we get to this point right
+over here, which is the point X equals three, Y is
+equal to negative eight. So we are now equidistant. We're on this perpendicular line, still, but we're equidistant on the other side. So the image of IN is going to go through negative six, negative four,
+and three, negative eight. So let me draw that. Let me see if I can remember, negative six, negative four,
+and three, negative eight. So I have a bad memory. So negative six, negative four,
+and three, negative eight. And I was close when I estimated, but I wasn't exactly right. So that's looking pretty good. And actually, we can
+do the exact same thing with points T and point O. Let me do that. So point T, to point T, To get from point T to the
+line in the shortest distance, once again, we drop a perpendicular. This line is going to have a slope of one, because it's perpendicular to the line that has a slope of negative one. And so to get there, we
+have to decrease our X by we have to decrease our X. We're going from X
+equals five to X equals, it looks like, half. So X went down by four and
+a half in the X direction and Y also needs to go
+down by four and a half. So if we want to stay on that line, let's decrease our X by four and a half. So that's half, one, two, three, four. And Y needs to go down by four and a half. So that's half, one, two, three, four, and we get to this point right over here, which is the point X equals negative four, Y is equal to negative seven. And it's negative four, negative seven. Let me, so this should be at, X equals negative four,
+Y equals negative seven. And there's a couple of
+things you could do here. You could just say, hey, this is two long, or two units long, not like,
+too long in length, somehow. This is two units long, so
+maybe this is two units long. So this is feeling pretty good. But let's just go through the
+exercise for point O as well. So point O, once again,
+this is going to have, if we drop a perpendicular, it's going to have a slope of one. So whatever our change
+in X between this point and this point, we're going to have the same change in Y. And our change in X,
+to go from seven to... Seven to one and a half, our change in X is five and a half. So then we do it this way. So the change in X here, so the change in X is equal
+to negative five and a half, five point five. If you subtract five
+point five from seven, you get to one point five. And our change in Y. Our change in Y is also
+negative five point five. Change is Y is negative, you're not going to see that so I'm going to do it differently, negative five point five. And so we need to stay on this line. So we need to change by those same amounts onto the other side of that line. So if we decrease our
+X by five and a half. So half, one, two, three,
+four, five, we get there, and Y by five and a half, half, one, two, three, four, five. We get to the point, X
+equals negative four, Y is equal to negative nine. So we get to the point
+X equals negative four, Y is equal to negative
+nine, and we're done! We have figured out the
+reflection of these two segments.

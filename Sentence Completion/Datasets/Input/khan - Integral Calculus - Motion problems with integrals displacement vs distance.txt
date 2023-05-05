@@ -1,0 +1,66 @@
+- [Instructor] What we're
+going to do in this video is start thinking about the position of an object traveling in one dimension. And to get our bearings there, I'm going to introduce a few ideas. So the first idea is that of displacement. So you might use that
+word in everyday language, and it literally means
+your change in position, your change in position. Now a related idea that
+sometimes get confused with displacement is a notion of distance traveled. You might say well doesn't that, isn't that just the same
+thing as change in position? And you will see shortly, no, it isn't always the same thing. The distance traveled, this
+is the total length of path, total length of path. So what are we talking about? Well let's say, and
+we're going to introduce a little bit of calculus now, let's say that we have a
+particle's velocity function. And so let's say our velocity
+as a function of time is equal to five minus t. Now this is a one-dimensional
+velocity function. Let's say it's just
+telling us our velocity in the horizontal direction. And oftentimes when
+something's one dimension, people forget well that too
+can be a vector quantity. In fact this velocity is a vector quantity because you could think
+of it if it's positive it's moving to the right, and if it's negative
+it's moving to the left. So it has a direction. And so sometimes you will see
+a vector quantity like this have a little arrow on it, or you will see it bolded, or you will see it bolded like that. I like to write an arrow in, although that's not
+always the convention used in different classes. Now let's plot what this velocity function actually looks like, and I did that ahead of time. So you can see here, at time equals zero, let's
+say time is in seconds, and our velocity's in meters per second. So this is meters per
+second right over here, and this is seconds on this axis. At exactly time zero, this object is traveling
+at five meters per second. We can say to the right, it has a velocity of positive five meters per second. But then it keeps decelerating
+at a constant rate, so five seconds into it, right at five seconds, the particle has no velocity, and then it starts
+having negative velocity, which you could interpret as moving to the left. So let's think about a few things. First let's think about
+what is the displacement over the first five seconds, over first five seconds? Well we've seen already multiple times, if you wanna find the change in quantity, you can take the integral
+of the rate function of it. And so velocity is actually
+the rate of displacement is one way to think about it. So displacement over
+the first five seconds, we can take the integral from zero to five, zero to five, of our velocity function, of our velocity function. Just like that. And we can even calculate
+this really fast. That would just be this
+area right over here, which we can just use a
+little bit of geometry. This is a five by five triangle, so five times five is 25, times 1/2, remember area of a triangle's
+1/2 base times height. So this is going to be 12.5, and let's see this is going
+to be meters per second times seconds, so 12.5 meters. So that's the change in position for that particle over
+the first five seconds. Wherever it started, it's now going to be 12.5
+meters to the right of it, assuming that positive is to the right. Now what about over, over the first 10 seconds? Now this gets interesting, and I encourage you to pause
+your video and think about it. What would be the displacement
+over the first 10 seconds? Well we would just do the same thing, the integral from zero to 10 of our velocity function, our one-dimensional velocity function, dt. And so that would be the area from here all the way to right over there. So this entire area. But you might appreciate, when you're taking a definite integral, if we are below the t-axis and above the function like this, this is gonna be negative area. And in fact this area and this area are going to exactly cancel out, and you're going to get zero meters. Now you might be saying how can that be? After 10 seconds how do we, what why is our displacement
+only zero meters? This particle's been
+moving the entire time. Well remember what's going on. The first five seconds,
+it's moving to the right, it's decelerating the whole time, and then right at five seconds, it has gone 12.5 meters to the right. But then it starts, it's velocity
+starts becoming negative, and the particle starts
+moving to the left. And so over the next five seconds, it actually moves 12.5 meters to the left, and then these two things net out. So the particle has gone
+over 10 seconds 12.5 meters to the right and then
+12.5 meters to the left, and so its change in
+position is zero meters. It has not changed. Now you might start, you might start to be appreciating what the difference between displacement and distance traveled is. So distance, if you're talking about
+your total length of path, you don't care as much about direction. And so instead of thinking about velocity, what we would do is think about speed. And speed is, you could view in this case, especially in
+this one-dimensional case, this is equal to the
+absolute value of velocity. Later on when we do multiple dimensions, it would be the magnitude
+of the velocity function, which is what the absolute function, which is what the absolute
+value function does, in one dimension. So what would this look
+like if we plotted it? Well the absolute value
+of the velocity function would just look like that. And so if you want the distance, you would find, the distance
+traveled I should say, you would find the integral
+over the appropriate change in time of the speed
+function right over here, which we have graphed. So notice, if we want
+the distance traveled, so I'll just say I'll write it out, distance traveled over first five seconds, first five seconds, what would it be? Well it would be the
+integral from zero to five of the absolute value of
+our velocity function, which is you can just view
+it as our speed function right over here, dt. And so it would be this area, which we already know to be 12.5 meters. So for the first five seconds, your distance and
+displacement are consistent. Well that's because you have in this case the velocity function is positive, so the absolute value of it
+is still going to be positive. But if you think about over the first 10 seconds, your distance, 10 seconds, what is it going to be? Pause the video and try to think about it. Well that's gonna be the
+integral from zero to 10 of the absolute value of
+our velocity function, which is going to be equal to what? It's going to be this area plus this area right over here. So plus this area right over here. And so this is going to
+five times five times 1/2 plus five times five times 1/2, which is going to be 25 meters. The particle has gone
+12.5 meters to the right, and then it goes back
+12.5 meters to the left. Your displacement, your net
+change in position is a zero, but the total length of path traveled is 25 meters.

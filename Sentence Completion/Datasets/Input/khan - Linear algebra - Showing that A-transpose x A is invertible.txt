@@ -1,0 +1,162 @@
+OK. I've got some matrix A. It's an n by k matrix. Let's say it's not just
+any n by k matrix. This matrix A has a bunch of
+columns that are all linearly independent. So, a1. a2, all the way through ak
+are linearly independent. They are linearly independent
+columns. Let me write that down. a1, a2, all the column
+vectors of A. All the way through ak are
+linearly independent. Now, what does that mean? That means that the only
+solution to x1 times a1 plus x2 times a2, plus all the
+way to xk times ak. The only solution to this is all
+of these x's have to be 0. So, all xi's must
+be equal to 0. That's what linear independence
+implies. Or another way to write it is
+all the solutions to this equation x1, x2, all
+the way down to xk equaling the zero vector. That all the solutions to this
+are all of these entries have to be equal to 0. This is just another way of
+writing this right there. We've seen it multiple times. That's the zero vector
+right there. So if all of these have to be 0,
+that's like saying that the only solution to ax is equal
+to 0, is x is equal to the zero vector. Or another way to say it-- this
+is all coming out of the fact that this guy's columns
+are linearly independent. So linear independence
+of columns. Based on that, we can say, since
+the only solution to ax is equal to 0 is x is equal to
+the zero vector, we know that the null space of a must be
+equal to the zero vector. Or it's a set with the just
+the zero vector in it. And that is all a
+bit of review. Now, n by k. We don't know its dimensions. It may or may not be
+a square matrix. So we don't know, necessarily,
+whether it's invertible and all of that. But maybe we can construct an
+invertible matrix with it. So, let's study a transpose
+times a. a transpose times a. A is an n by k matrix. A transpose will be
+a k by n matrix. So, A transpose a is going
+to be a k by k matrix. So it's a square matrix. So that's a nice place
+to start for an invertible matrix. So let's see if it is
+actually invertible. We don't know anything
+about A. All we know is its columns
+are linearly independent. Let's see if A transpose
+a is invertible. Essentially, to show that it's
+invertible, if we can show that all of its columns are
+linearly independent, then we'll know it's invertible. If we have any-- and I'll
+get back to this at the end of the video. But if you have a square
+matrix with linearly independent columns-- remember,
+the linearly independent columns all are
+associated with pivot columns when you put them in reduced
+row echelon form. So if you have a square matrix,
+then you're going to have exactly-- so if it's a k by
+k matrix, that means you're going to have k-- that means
+that the reduced row echelon form of a matrix will have k
+pivot columns and be k by k. And be a square k by k matrix. And there's only one k by k
+matrix with k pivot columns. And that's the identity
+matrix. The k by k identity matrix. And if when you do something
+to reduce row echelon form, and it you got the identity
+matrix, that means that your matrix is invertible. I could have probably left that
+to the end of the video, but I just want to show you. If we can show that-- we already
+know that this guy's square, that a transpose
+A is a square matrix. If we can show that, given
+that a has linearly independent columns, that a
+transpose times A also has linearly independent columns,
+and given the columns are linearly independent, and it's a
+square matrix, that tells us that when we put it into reduced
+row echelon form, we'll get the identity matrix. And that tells us that this
+thing would be invertible. Let's see if we can prove that
+all of this guy's columns are linearly independent. So let's say I have
+some vector V. Let's say my vector V is a
+member of the null space of a transpose A. That means that if I take a
+transpose A times my vector v, I'm going to get the
+zero vector. Fair enough? Now, what happens if I multiply
+both sides of the equation times the transpose
+of this guy? So I'll get a v transpose--
+actually let me just do it right here. I multiply v transpose
+on this side, and v transpose on this side. You could view this as a
+matrix vector product. Right? Or, in general, if you take a
+row vector times a column vector, it's essentially
+their dot product. So this right-hand side of the
+equation, you dot anything with the zero vector. That is just going to
+be the zero vector. Now what is the left-hand side
+of this going to be? We've seen this before. If you have the transpose of--
+we can view this as, even though it's a transpose of a
+vector, you can view it as a-- it is a row factor,
+but you could also view it as a matrix. Right? Let's say v is a
+k by 1 matrix. v transpose will be
+a 1 by k matrix. We've seen this before. That that is equal to the
+reverse product, the transpose of the reverse product. Or if we take the product of two
+things and transpose it, that's the same thing as taking
+the reverse product of the transposes of either
+of those two matrices. So given that, we can replace
+this right here with a times a vector v transpose-- and we're
+multiplying this vector times av times this vector
+right here. And that is going to be equal
+to the zero vector. Now, what is this? If I'm taking some vector's
+transpose, and let's say this is a vector. Remember, even though I have a
+matrix vector product right here, when I multiply a matrix
+times this vector, it will result in another vector. So this is a vector, and this
+is a vector right here. And if I take some vector and I
+multiply its transpose times that vector-- we've
+seen this before. That is the same thing
+as y dot y. These two statements
+are identical. So this thing right here is the
+same thing as av dot av. And so what does the right-hand
+side equal? The right-hand side is going
+to be equal to 0. Actually let me just make
+a correction up here. When I take v transpose times
+the zero vector, v transpose is going to have k elements. And then the zero vector is also
+going to have k elements. And when I take this product
+that's like dotting it. You're taking the dot
+product of v and 0. So this is a dot product of v
+with the zero vector which is equal to zero, the
+scalar zero. So this right here's
+the scalar zero. I want to make sure
+I clarify that. It wouldn't make sense
+otherwise. So the right-hand side, when I
+multiply the zero vector times the transpose of v, gets
+just the number zero. No vector zero there. So this av dot av is going
+to be equal to 0. Or we could say that the
+magnitude, or the length, of av squared is equal to 0. Or that tells us that av
+has to be equal to 0. The only vector whose length
+is 0, is the zero vector. So av-- let me switch colors. Using that a little
+bit too much. So we know that av
+must be equal to 0, to the zero vector. This must be equal to the zero
+vector since its length is 0. Now, we started off with saying
+v is a member of the null space of a transpose A. v can be any member of the null
+space of a transpose A. But then from that assumption,
+it turns out that V also has to be a member of the
+null space of A. That av is equal to 0. Let's write that down. If v is a member of the null
+space of a transpose A, then v is a member of the
+null space of a. Now, our null space of A,
+because A's columns are linearly independent, it only
+contains one vector. It only contains the
+zero vector. So, if this guy's a member of
+the null space of A transpose A, and he has to be a member
+of the null space of A, there's only one thing
+he can be. There's only one entry there. So then v has to be equal
+to the zero vector. Or another way to say that is,
+any v that's in our null space of a transpose A has to
+be the zero vector. Or the null space of a transpose
+A is equal to the null space of a which is equal
+to just the zero factor sitting there. Now, what does that do for us? That tells us that the only
+solution to a transpose A times some vector x equal to
+zero, this says that the only solution is the zero vector is
+equal to the zero vector. Right? Because the null space of a
+transpose A is the same as the null space of a. And that just has the
+zero vector in it. The null space is just
+the solution to this. So if the only solution to the
+null space is this, that means that the columns of a transpose
+A are linearly independent. You could, essentially, write
+all of the linear combinations of the columns by the weights
+of the entries of x. We actually did that
+at the beginning. It's the same argument
+we used up here. So if all of their columns are
+linearly independent, and I said it over here, a transpose
+A has linearly independent columns, and it's a square
+matrix, that was from the definition of it. So we now know that A transpose
+A if I were to put it-- let me do this way. That tells me that the reduced
+row echelon form of a transpose A is going to be equal
+to the k by k identity matrix which tells me that a
+transpose A is invertible. Which is a pretty neat result. I started with the
+matrix that has linearly independent columns. So it wasn't just any matrix. It wasn't just any run
+of the mill matrix. It did have linearly independent
+columns, but it might have weird dimensions. It's not necessarily
+a square matrix. But I could construct
+a square matrix. a transpose A with it. And we now know that
+it also has linearly independent columns. It's a square matrix. And therefore it is invertible.

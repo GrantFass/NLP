@@ -1,0 +1,116 @@
+- [Instructor] We're doing E two mechanism for a substituted cyclohexane. The key is to think about
+your chair conformations. For example, let's look at
+this substituted cyclohexane on the left here, and let's
+first try to solve this problem without looking at a chair conformation. So I would start by saying my chlorine is attached to my alpha carbon, and the carbons directly
+bonded to the alpha carbon would be the beta carbons, so there's a beta carbon on the right, which I call beta one, there's a beta carbon on the left which I will call beta two. I know that sodium methoxide
+will be my strong base. The ethoxide anion will take a proton from one of those beta carbons and a double bond would form
+between the alpha carbon and one of those beta carbons, and the chlorine would
+leave as the chloride anion, so a double bond forms between the alpha and the beta one carbon, so I'll draw in a double bond here, and the chlorine is now gone, but I would still have this methyl group going away from us in space, so CH3, so that's one possible product, and you might think oh I
+might also form a double bond between the alpha and the beta two carbon, so let me draw a double bond in here, and so my methyl group would just be on a straight line this time, and so you might think that
+could be one of the products, but when you actually think
+about chair conformations, you'll realize that you would
+not realize this product, so this product is not observed, so you would only get this one, and let's look at why. So first, we need to number
+our cyclohexane ring, and remember, when you
+number a cyclohexane ring for a chair conformation, you're not necessarily
+doing IUPAC nomenclature. You're just using
+whatever numbers you need to help you draw a proper
+chair conformation, so I'm going to start with
+the chlorine being number one, then I'm going to go around to the right, so two, three, carbon four, carbon five, and carbon six, so we're not naming this. We're just trying to get
+a chair conformation, so on my chair conformation down here, I always say this is carbon one, and so I need to have the chlorine, the chlorine up at carbon one, and so I only have one choice. The chlorine has to be up axial, and so if I go around to carbon six, so this would be carbon one here, two, three, four, five, and six, I have a methyl group going
+away from me in space, so this would be going down, so I'm gonna draw in a Me for
+a methyl group right here, so it's down axial. So now let's draw in some hydrogens on our beta carbons, so let me highlight our beta carbons here. I'll use red, so this would be, what I've marked is being beta one, so I have two hydrogens on that carbon, so I'll draw those in here, and then my other beta carbon which I called beta two up here, so I only have, so this is beta two, I have only one hydrogen, and it is equatorial. So let's go to a video, so we can analyze which one of these
+protons will participate in our E two mechanism. Here's our chair conformation, and you can see at the alpha carbon, we have the yellow chlorine up and axial. When we go to the beta one carbon, the hydrogen in green is the only one that's anti-periplanar to the halogen. If I turn to the side here, it's easier to see that we
+have all four of those atoms in the same plane, so the green proton is anti-periplanar to the chlorine. The other hydrogen, the one in white, is not anti-periplanar, so it will not participate in our E two mechanism. We go to the beta two carbon, and this hydrogen in white
+is not anti-periplanar, and when we look at the
+down axial position, it's occupied by a methyl group, so that is where a
+hydrogen would need to be if it were to participate
+in an E two mechanism. For E two elimination in cyclohexanes, the halogen must be axial,
+so here is our halogen that's axial, and when
+the halogen is axial in this chair conformation, the only hydrogen that's anti-periplanar is this one in green
+as we saw in the video, so if a strong base comes along, and takes the proton in green, the electrons in here would move in to form our double bond,
+and these electrons come off onto the chlorine, so a double bond forms between the alpha and the beta one carbons, which would give us this
+as our only product, so we don't get a double bond forming between our alpha and our beta two carbon because we would need to have a hydrogen where our methyl group is, so this, if we did have a hydrogen here, this hydrogen would be
+anti-periplanar to our halogen, but in this case, we get only one product, so this is the only product observed, and we figured that out because we drew our chair conformation. Let's do another E two mechanism for a substituted cyclohexane, and I'll start by
+numbering my cyclohexane, so that's carbon one,
+and this is carbon two, this is carbon three,
+and this is carbon four. Again, the numbering is
+not for nomenclature. It's just to help me out
+with my chair conformation, so if I call this carbon one, I need a methyl group going up, which means the methyl
+group must be up axial. At carbon three, I need a
+chlorine that's going down, so this would be carbon two, this would be carbon three, which means the chlorine
+is down equatorial. Then at carbon four, I
+have this isopropyl group going down, so this would be carbon four, and going down means the isopropyl group is down axial. For an E two elimination in cyclohexanes, the halogen needs to be axial, but here, the halogen is equatorial, so next, we need to
+think about a ring flip, so on the right would be our
+other chair conformation, and this is carbon one, so
+if I have my methyl group up axial for the chair
+conformation on the left, it must be up equatorial
+for the chair conformation on the right, and this
+would be carbon two, and this would be carbon three. I need a chlorine that's down, so on the left, the
+chlorine is down equatorial. On the right for this chair conformation, it would be down axial, and then at carbon four, I need to put an isopropyl
+group going down. On the left, the isopropyl
+group was down axial. On the right, it will be down equatorial, so the chlorine is now axial, and so this is my alpha carbon right here, and so I can look for beta carbons, so the carbons next door
+to the alpha carbon, so here's a beta carbon, which
+I'll mark as being beta one, and then here's a beta carbon, which I'll mark as being beta two. So let's look for hydrogens
+that are anti-periplanar on those beta carbons. So here's a hydrogen on beta
+one that's anti-periplanar, and then on beta two, here's a hydrogen that is anti-periplanar. So those are the protons that will be lost in our mechanism, but
+before we draw the products, let's think about which
+one of these conformations is more stable, so we
+saw in earlier videos that you want to put the
+bulky groups equatorial out to the side, so the bulkiest group is this isopropyl group right here, and it's more stable when
+it's out to the side. When this isopropyl group is axial, there's a lot of interaction
+with other groups on the ring, so the
+conformation on the right is the more stable conformation, and let's take a look at that in a video. At carbon one, I have a methyl group that's up axial. This is carbon two, and
+this is carbon three with my chlorine down equatorial. At carbon four, I have my
+isopropyl group down axial, but you can see all of
+the steric hindrance, so that destabilizes this conformation. This is the less stable conformation, so we do a ring flip, and it's hard to do with this model set, but
+I'm going to approximate the other chair conformation, so at carbon one, the methyl group is now up equatorial. At carbon three, the
+halogen is down axial, and at carbon four, the
+bulky isopropyl group is equatorial and out to the side, so the carbon bonded to the
+halogen's my alpha carbon, and next to that would be a beta carbon, and this beta hydrogen is
+anti-periplanar to this halogen. We have another beta carbon over here with another hydrogen
+that's anti-periplanar to this halogen. Finally, let's draw our two products, so let's take a proton from
+the beta one position first, so our base, let me draw it in here, so our strong base is
+going to take this proton, and so these electrons
+would move into here to form our double bond, and these electrons come onto the chlorine to form the chloride anion
+as our leaving group. So this would form a double bond between what I called
+carbons two and three 'cause this is carbon
+one, this is carbon two, this is carbon three,
+and this is carbon four, so we have a methyl group
+that's up at carbon one, so let me draw in our methyl group up at carbon one, so
+we put that on a wedge, so if that's carbon one,
+then this is carbon two, and this is carbon three, and that's where our double bond forms, so the double bond forms
+between carbons two and three, and at carbon four, we have
+this isopropyl group going down, so let me go ahead and put that in, going away from us, we put that on a dash, so that's one product. If our base took this proton, then the electrons would move into here, and these electrons would
+come off onto the chlorine, so if we took a proton
+from the beta two carbon, we would form a double bond
+between carbons three and four, so here's carbons three and four, so I put a double bond in there. I still have a methyl
+group that's going up at what I called carbon one, and my isopropyl group is at carbon four, but since now, this carbon
+is sp two hybridized, I need to draw in this isopropyl group on a straight line, so sometimes, students would put this isopropyl group in on a wedge or a dash, but you're trying to
+show the planar geometry around this carbon, so a
+straight line is what you need, and so those are the two products. Let's do one more, and
+you can see this substrate is very similar to the one we did in the previous example. The only difference is this time, the chlorine is on a
+wedge instead of a dash, so if I number my ring
+one, two, three, four, I've already put in both chair
+conformations to save time, so that's carbon one, this is carbon two, this is carbon three,
+and this is carbon four. On the other chair conformation, this is carbon one, two, three, and four, and notice for the chair
+conformation on the left, we have the chlorine
+in the axial position, so this would be the alpha carbon, and the carbons next to the alpha carbon would be the beta carbons, so this one on the right is a beta carbon, and the one on the left is a beta carbon. We need a proton that's anti-periplanar, and the only one that fits would be this hydrogen right here, so if a base takes that proton, so let me draw in our strong base, taking this proton, these
+electrons would move into here to form our double bond, the electrons come off onto our chlorine, and a double bond forms
+between carbons two and three, so when we draw our product, let me put the ring in here, carbon one has a methyl group that's up, so let me draw in our CH3, which is up, the double bond formed
+between carbons two and three, so this is carbon one, this is carbon two, this is carbon three, we
+draw in our double bond here, and then we have our
+isopropyl group going down at carbon four, so let me
+draw in our isopropyl group going down, and this is the
+only product for the reaction. We don't have any other protons that are anti-periplanar to our chlorine. When we think about our
+two chair conformations, the one on the left has
+all of our groups axial, and the one on the right has
+all of our groups equatorial, so the one on the right is
+actually much more stable, so this is more stable with
+all of the bulky groups out to the side, which means that this is a relatively slow reaction. The reaction is slow
+because the equilibrium favors the conformation that has the bulky groups equatorial, but that's not the conformation that has the requirements
+for our E two mechanism, so it's the less stable conformation that has the anti-periplanar
+hydrogen and chlorine, so this reaction is much slower than the one that we just talked about. Let's go back up here so we can compare. Let's look at this reaction. So for this reaction, the
+more stable conformation is the one with our
+bulky groups equatorial, so the equilibrium
+favors this conformation, and this conformation is also the one that had our hydrogens
+anti-periplanar to our halogen, so this reaction is much faster.

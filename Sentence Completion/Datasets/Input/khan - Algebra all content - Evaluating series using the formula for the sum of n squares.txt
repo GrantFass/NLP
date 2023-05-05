@@ -1,0 +1,99 @@
+Let's try to find the sum
+of this right over here, or let's try to evaluate this
+expression right over here. So we're evaluating what
+this sum turns out to be. Now, there's a bunch
+of ways to do this. You could literally just
+do it by brute force. You could say, well,
+what does this equal when n equals 1, when n equals
+2, all the way to n equals 7? And that would be
+completely legitimate. But I view this
+is an opportunity to look at some properties
+of sigma notation. So let's split this out. So the first thing
+that you might say is, well, look, if
+I were to sum up all of these when n equals 1
+and n equals 2, all the way to n equals 7, it's reasonable
+that this is going to be the same thing as the
+sum of 3 n squared from n equals 1 to 7 plus the
+sum from n equals 1 to 7 of 2n squared-- of
+2n, I should say, that right over there, plus the
+sum from n equals 1 to 7 of 4. And if you find this a
+little bit confusing, I encourage you to expand
+to both of these things out and realize that when
+you rearrange the terms, that you will get
+these two things. I'm not doing a
+rigorous proof here, but hopefully, if you
+were to expand this out, you'd see that this is
+not an unreasonable thing to claim right over here. Now, out of all of
+these, this last piece is pretty easy to evaluate. When n equals 1, this
+thing is equal to 4. When n equals 2, this
+thing is equal to 4. When n equals 3, this
+thing is equal to 4. So you're essentially going
+to take seven 4's and add them together. So this is essentially just
+going to evaluate to 7 times 4, or 28. Now let's look at this
+piece right over here. Now, once again, we can
+just do it by brute force. 2 times 1 is 2 plus
+2 times 2 is 4. So you're going to
+essentially do the first seven multiples of 2 is one way
+you could think about this. Or, if we were to expand
+it out-- actually, let me expand it out. This is going to be 2 plus
+4 plus 6, all the way to, when this is 7,
+all the way to 14. You could factor out a 2. And so this is going to
+become 2 times 1 plus 2 plus 3 all the way to 7. And so you can rewrite
+this piece right over here as 2 times the sum--
+so we're essentially just factoring out the 2--
+2 times the sum, which is the sum from n
+equals 1 to 7 of n. So this is this piece. We still have this 28
+that we have to add. So we have this 28. And we draw the
+parentheses so you don't think that the 28 is
+part of this right over here. And now we can do the
+same thing with this. 3 times n-- we're taking from
+n equals 1 to 7 of 3 n squared. Doing the same exact thing
+as we just did in magenta, this is going to be equal
+to 3 times the sum from n equals 1 to 7 of n squared. We're essentially
+factoring out the 3. We're factoring out the 2. n squared. And once again, we can
+put parentheses just to clarify things. Now, at this point, there
+are formulas to evaluate each of these things. There's a formula to evaluate
+this thing right over here. There's a formula to evaluate
+this thing over here. And you can look them up. And actually, I'll
+give you the formulas, in case you're curious. This formula, one
+expression of this formula is that this is going to
+be n to the third over 3 plus n squared over
+2 plus n over 6. That's one formula for that. And one formula for this piece
+right over here, going from n equals 1 to 7-- sorry. Let me make it clear. This n is actually what your
+terminal value should be. So this should be 7 to
+the third power over 3-- so it's not this n. I was just mindlessly using the
+formula-- 7 to the third over 3 plus 7 squared over 2 plus 7/6. So that's this sum. And this sum, you could
+view it as the average of the first and the last terms. So the first term is 1. The last term is 7. So take their average
+and then multiply it times the number
+of terms you have. So times-- you have 7 terms. So what is this middle
+one going to evaluate to? Well, 1 times-- and of course,
+we have this 2 out front. This green is just this
+part right over here. So you have 2 times this. And over here, you have 3 times
+this business right over here. So if we evaluate this
+one, 2 times-- let's see. 1 plus 7 is 8,
+divided by 2 is 4. 4 times 2 is 8. Times 7, it's 56. So that becomes 56. Now, this-- let's see. This is actually-- well, we
+could evaluate this if we want. And I guess we could
+take out a calculator if we wanted to figure
+out 7 to the third power. Actually, let's just do
+that just to save time here. So let's calculate. So we have 7 to the
+third power divided by 3 plus 7 squared divided
+by 2 plus 7 divided by 6 gives us a drum roll of 140. So this is going to
+be equal to 3 times 140-- let me do it in that
+color-- 3 times 140 plus 56 plus 28. And since we get our calculator
+out, let's just use it. So let's see. 140 times 3 is 420,
+of course, plus 56, plus 28-- we deserve a drum
+roll now-- gets us to 504. So this sum right over
+here is equal to 504. And once again, multiple
+ways you can do it. But it's nice to know
+that there are these ways to break down the problem. And there are all
+these formulas. Now, I encourage you
+to look at the formulas to see how this is actually
+derived and proved. I'm not a big fan
+of just saying, oh, there's a formula for this. You just apply it. The formula here is
+whatever this terminal value is to the third power over
+3 plus that squared over 2, plus that over 6. I encourage you to
+look up on our site, on Khan Academy, the formula
+for the sum of n squares, and it'll tell you where
+this is derived from. And also, the formula for the
+sum of an arithmetic series, and it'll tell you where
+this is derived from.

@@ -1,0 +1,141 @@
+We will now begin our journey
+into the world of statistics, which is really a way
+to understand or get our head around data. So statistics is all about data. And as we begin our journey
+into the world of statistics, we will be doing
+a lot of what we can call descriptive statistics. So if we have a bunch
+of data, and if we want to tell something
+about all of that data without giving them
+all of the data, can we somehow describe it
+with a smaller set of numbers? So that's what we're
+going to focus on. And then once we
+build our toolkit on the descriptive
+statistics, then we can start to make
+inferences about that data, start to make conclusions,
+start to make judgments. And we'll start to do a lot
+of inferential statistics, make inferences. So with that out of
+the way, let's think about how we can describe data. So let's say we have
+a set of numbers. We can consider this to be data. Maybe we're measuring
+the heights of our plants in our garden. And let's say we
+have six plants. And the heights are 4 inches,
+3 inches, 1 inch, 6 inches, and another one's 1 inch,
+and another one is 7 inches. And let's say someone just
+said-- in another room, not looking at your
+plants, just said, well, you know, how
+tall are your plants? And they only want
+to hear one number. They want to somehow
+have one number that represents all of these
+different heights of plants. How would you do that? Well, you'd say, well,
+how can I find something that-- maybe I want
+a typical number. Maybe I want some number that
+somehow represents the middle. Maybe I want the
+most frequent number. Maybe I want the number
+that somehow represents the center of all
+of these numbers. And if you said any
+of those things, you would actually have
+done the same things that the people who first came
+up with descriptive statistics said. They said, well,
+how can we do it? And we'll start by thinking
+of the idea of average. And in every day
+terminology, average has a very particular
+meaning, as we'll see. When many people
+talk about average, they're talking
+about the arithmetic mean, which we'll see shortly. But in statistics, average
+means something more general. It really means
+give me a typical, or give me a middle number,
+or-- and these are or's. And really it's
+an attempt to find a measure of central tendency. So once again, you have
+a bunch of numbers. You're somehow trying
+to represent these with one number we'll call
+the average, that's somehow typical, or middle,
+or the center somehow of these numbers. And as we'll see, there's
+many types of averages. The first is the one that you're
+probably most familiar with. It's the one-- and
+people talk about hey, the average on this exam
+or the average height. And that's the arithmetic mean. Just let me write it in. I'll write in yellow,
+arithmetic mean. When arithmetic is a noun,
+we call it arithmetic. When it's an adjective like
+this, we call it arithmetic, arithmetic mean. And this is really just the
+sum of all the numbers divided by-- this is a human-constructed
+definition that we've found useful-- the sum of
+all these numbers divided by the number of
+numbers we have. So given that, what
+is the arithmetic mean of this data set? Well, let's just compute it. It's going to be 4 plus
+3 plus 1 plus 6 plus 1 plus 7 over the number
+of data points we have. So we have six data points. So we're going to divide by 6. And we get 4 plus 3 is 7,
+plus 1 is 8, plus 6 is 14, plus 1 is 15, plus 7. 15 plus 7 is 22. Let me do that one more time. You have 7, 8, 14, 15,
+22, all of that over 6. And we could write
+this as a mixed number. 6 goes into 22 three times
+with a remainder of 4. So it's 3 and 4/6, which is
+the same thing as 3 and 2/3. We could write this as a
+decimal with 3.6 repeating. So this is also 3.6 repeating. We could write it any
+one of those ways. But this is kind of a
+representative number. This is trying to get
+at a central tendency. Once again, these are
+human-constructed. No one ever-- it's
+not like someone just found some religious
+document that said, this is the way that
+the arithmetic mean must be defined. It's not as pure
+of a computation as, say, finding the
+circumference of the circle, which there really is--
+that was kind of-- we studied the universe. And that just fell out of
+our study of the universe. It's a human-constructed
+definition that we found useful. Now there are other ways
+to measure the average or find a typical
+or middle value. The other very typical
+way is the median. And I will write median. I'm running out of colors. I will write median in pink. So there is the median. And the median is literally
+looking for the middle number. So if you were to order
+all the numbers in your set and find the middle one,
+then that is your median. So given that, what's the
+median of this set of numbers going to be? Let's try to figure it out. Let's try to order it. So we have 1. Then we have another 1. Then we have a 3. Then we have a 4, a 6, and a 7. So all I did is
+I reordered this. And so what's the middle number? Well, you look here. Since we have an even number of
+numbers, we have six numbers, there's not one middle number. You actually have two
+middle numbers here. You have two middle
+numbers right over here. You have the 3 and the 4. And in this case, when you
+have two middle numbers, you actually go halfway
+between these two numbers. You're essentially taking the
+arithmetic mean of these two numbers to find the median. So the median is going
+to be halfway in-between 3 and 4, which is
+going to be 3.5. So the median in
+this case is 3.5. So if you have an even
+number of numbers, the median or the middle two, the--
+essentially the arithmetic mean of the middle two, or
+halfway between the middle two. If you have an odd
+number of numbers, it's a little bit
+easier to compute. And just so that
+we see that, let me give you another data set. Let's say our data
+set-- and I'll order it for us--
+let's say our data set was 0, 7, 50, I don't know,
+10,000, and 1 million. Let's say that is our data set. Kind of a crazy data set. But in this situation,
+what is our median? Well, here we have five numbers. We have an odd
+number of numbers. So it's easier to
+pick out a middle. The middle is the number that is
+greater than two of the numbers and is less than
+two of the numbers. It's exactly in the middle. So in this case,
+our median is 50. Now, the third measure
+of central tendency, and this is the
+one that's probably used least often in
+life, is the mode. And people often
+forget about it. It sounds like
+something very complex. But what we'll see
+is it's actually a very straightforward idea. And in some ways, it
+is the most basic idea. So the mode is actually the most
+common number in a data set, if there is a most
+common number. If all of the numbers
+are represented equally, if there's no one single
+most common number, then you have no mode. But given that
+definition of the mode, what is the single most common
+number in our original data set, in this data
+set right over here? Well, we only have one 4. We only have one 3. But we have two 1's. We have one 6 and one 7. So the number that shows up
+the most number of times here is our 1. So the mode, the most typical
+number, the most common number here is a 1. So, you see, these
+are all different ways of trying to get at a typical,
+or middle, or central tendency. But they do it in very,
+very different ways. And as we study more
+and more statistics, we'll see that they're
+good for different things. This is used very frequently. The median is really good if you
+have some kind of crazy number out here that could
+have otherwise skewed the arithmetic mean. The mode could also be useful
+in situations like that, especially if you do
+have one number that's showing up a lot
+more frequently. Anyway, I'll leave you there. And we'll-- the next few videos,
+we will explore statistics even deeper.

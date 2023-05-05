@@ -1,0 +1,12 @@
+- Now that we've seen how Bézier curves behave geometrically, let's
+take a look at the algebra starting with a three-point polygon. As before, we construct a point Q using linear interpolation, that is a weighted average
+on the line segment AB. Algebraically, Q can be written as Q = (1-t)A + tB Next we construct a point
+R on the line segment BC, which means that R can be written as R = (1-t)B + tC Finally we connect Q and R, and do one final linear interpolation to get P, out point on the curve. P = (1-t)Q + tR From this last equation, it kinda look like P is degree 1 in t. But the first two
+equations also depend on t. So let's substitute the first
+two equations into the third to get this combined expression. Multiplying out the terms and collecting, I can rewrite P as P = (1-t)2*A + 2t(1-t)B +t2*C. All those squared terms show us that P is actually a degree 2 polynomial. Interesting, a three-point polygon leads to a degree 2 polynomial. Thar kinda makes sense
+because we did two stages of linear interpolation. In the first stage we computed Q and R and in the second stage we computed P. Now, what happens to the degree if we start with a four-point polygon? Can you guess? In the first stage, I compute three points using linear interpolation. In the second stage, I compute two points, and in the third stage,
+I compute one point. Since I have three stages, the resulting curve will be degree 3. That means a four-point polygon
+results in a degree 3 curve. You can generalize deCastlejau's algorithm to start with five, six,
+or any number of points. The rule is, if we start with n points, you get a polynomial of degree n-1. Pretty neat. And congratulations on
+finishing this lesson. If you're feeling particularly bold, try your hand at the
+following bonus challenge.

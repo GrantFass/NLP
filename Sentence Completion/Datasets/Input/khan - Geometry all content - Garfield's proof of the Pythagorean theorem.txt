@@ -1,0 +1,134 @@
+What we're going
+to do in this video is study a proof of
+the Pythagorean theorem that was first
+discovered, or as far as we know first discovered,
+by James Garfield in 1876, and what's exciting
+about this is he was not a professional
+mathematician. You might know James Garfield
+as the 20th president of the United States. He was elected president. He was elected in 1880, and then
+he became president in 1881. And he did this proof while
+he was a sitting member of the United States
+House of Representatives. And what's exciting
+about that is that it shows that Abraham
+Lincoln was not the only US politician or not the only
+US President who was really into geometry. And what Garfield realized
+is, if you construct a right triangle--
+so I'm going to do my best attempt
+to construct one. So let me construct
+one right here. So let's say this side
+right over here is length b. Let's say this side is
+length a, and let's say that this side, the hypotenuse
+of my right triangle, has length c. So I've just constructed
+enough a right triangle, and let me make it clear. It is a right triangle. He essentially flipped and
+rotated this right triangle to construct another one that
+is congruent to the first one. So let me construct that. So we're going to have length b,
+and it's collinear with length a. It's along the same
+line, I should say. They don't overlap
+with each other. So this is side of
+length b, and then you have a side of
+length-- let me draw a it so this will be a little
+bit taller-- side of length b. And then, you have your side
+of length a at a right angle. Your side of length a
+comes in at a right angle. And then, you have
+your side of length c. So the first thing we
+need to think about is what's the angle
+between these two sides? What's this mystery angle? What's that mystery
+angle going to be? Well, it looks like
+something, but let's see if we can prove to
+ourselves that it really is what we think it looks like. If we look at this
+original triangle and we call this
+angle "theta," what's this angle over here,
+the angle that's between sides of
+length a and length c? What's the measure of
+this angle going to be? Well, theta plus this
+angle have to add up to 90. Because you add those two
+together, they add up to 90. And then, you have another 90. You're going to get 180
+degrees for the interior angles of this triangle. So these two have
+to add up to 90. This angle is going
+to be 90 minus theta. Well, if this triangle
+appears congruent-- and we've constructed
+it so it is congruent-- the corresponding
+angle to this one is this angle right over here. So this is also going to be
+theta, and this right over here is going to be 90 minus theta. So given that this
+is theta, this is 90 minus theta, what
+is our angle going to be? Well, they all collectively
+go 180 degrees. So you have theta,
+plus 90 minus theta, plus our mystery angle is going
+to be equal to 180 degrees. The thetas cancel out. Theta minus theta. And you have 90 plus our
+mystery angle is 180 degrees. Subtract 90 from
+both sides, and you are left with your mystery
+angle equaling 90 degrees. So that all worked out well. So let me make that
+clear, and that's going to be useful
+for us in a second. It's going to be useful. So we can now say definitively
+that this is 90 degrees. This is a right angle. Now, what we are
+going to do is we are going to
+construct a trapezoid. This side a is parallel
+to side b down here, the way it's been constructed,
+and this is just one side right over here. This goes straight
+up, and now let's just connect these two
+sides right over there. So there's a couple
+of ways to think about the area of
+this trapezoid. One is we could just
+think of it as a trapezoid and come up with its
+area, and then we could think about it as the sum
+of the areas of its components. So let's just first think
+of it as a trapezoid so what do we know about
+the area of a trapezoid? Well, the area of a
+trapezoid is going to be the height of the
+trapezoid, which is a plus b. That's the height
+of the trapezoid. Times-- the way I
+think of it-- the mean of the top and the
+bottom, or the average of the top and the bottom. Since that's this times one
+half times a plus a plus b. And the intuition there,
+you're taking the height times the average of
+this bottom and the top. The average of the
+bottom and the top gives you the area
+of the trapezoid. Now, how could we
+also figure out the area with its
+component parts? Regardless of how we
+calculate the area, as long as we do correct things,
+we should come up with the same result. So how else can we
+come up with this area? Well, we could say it's the
+area of the two right triangles. The area of each of them
+is one half a times b, but there's two of them. Let me do that b in
+that same blue color. But there's two of
+these right triangle. So let's multiply by two. So two times one half ab. That takes into consideration
+this bottom right triangle and this top one. And what's the area
+of this large one that I will color in in green? What's the area
+of this large one? Well, that's pretty
+straightforward. It's just one half c times c. So plus one half c times c,
+which is one half c squared. Now, let's simplify this thing
+and see what we come up with, and you might guess where
+all of this is going. So let's see what we get. So we can rearrange this. Let me rearrange this. So one half times
+a plus b squared is going to be equal
+to 2 times one half. Well, that's just
+going to be one. So it's going to be equal
+to a times b, plus one half c squared. Well, I don't like these
+one halfs laying around, so let's multiply both
+sides of this equation by 2. I'm just going to multiply both
+sides of this equation by 2. On the left-hand side, I'm just
+left with a plus b squared. So let me write that. And on the right-hand
+side, I am left with 2ab. Trying to keep the
+color coding right. And then, 2 times
+one half c squared, that's just going to be
+c squared plus c squared. Well, what happens
+if you multiply out a plus b times a plus b? What is a plus b squared? Well, it's going to be a
+squared plus 2ab plus 2ab plus b squared. And then, our
+right-hand side it's going to be equal to
+all of this business. And changing all the
+colors is difficult for me, so let me copy and
+let me paste it. So it's still going to be
+equal to the right-hand side. Well, this is interesting. How can we simplify this? Is there anything that we
+can subtract from both sides? Well, sure there is. You have a 2ab on
+the left-hand side. You have a 2ab on
+the right-hand side. Let's subtract 2ab
+from both sides. If you subtract 2ab from both
+sides, what are you left with? You are left with the
+Pythagorean theorem. So you're left with a squared
+plus b squared is equal to c squared. Very, very exciting. And for that, we have to
+thank the 20th president of the United States,
+James Garfield. This is really exciting. The Pythagorean theorem, it was
+around for thousands of years before James
+Garfield, and he was able to contribute just
+kind of fiddling around while he was a member of the
+US House of Representatives.

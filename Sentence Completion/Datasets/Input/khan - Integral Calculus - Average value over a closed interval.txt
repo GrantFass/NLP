@@ -1,0 +1,60 @@
+what I want to do in this video is think
+about the idea of an average value of a function over some closed interval so
+what do I mean by that and how could we think about what average value of a
+function even means so let's say that's my y-axis
+and let's say that this is my this right over here is my x-axis and let me draw a
+function here so let's say the function looks something like that that's the
+graph of y is equal to Y is equal to f of X and now let's think about a closed
+interval so we're going to think about the closed interval between a and B
+including a and B that's what makes it closed or including our endpoints we're
+going to think about this interval right over here so between x is equal to a and
+X is equal to B what is the average value of this function one way to think
+about it is what is the average height of this function so how could we what
+would that mean well one way to think about it it would be some height so that
+if we multiply it times the width of this interval we'll get the area under
+the curve so another way to think about it is the area under the curve right
+over here the area let me do this in a different color so the area under this
+curve right over here I'll shaded in yellow we already know that we can
+express this as the definite integral from A to B of f of X DX the average
+value of our function over this closed interval a B let me write that over over
+the closed interval between a and B including a and B we could think about
+it as some height some height let me do this in a new color some value of our
+function some height let me think about maybe some height right over here so
+that if we multiply this height times this width we're going to get the area
+of a rectangle the rectangle is would be the area of this rectangle right over
+here and that rectangle is going to have the same area as the area under the
+curve which is a reasonable way if you kind of remember how when you even think
+about finding the area or one way to find think about the area of
+a trapezoid you can multiply if you have a trapezoid if you have a trapezoid like
+this you have a trapezoid like this this is you can kind of you kind of turn 90
+degrees but your multiply the height times the average width of the trapezoid
+and then that will give you its area so this would be the average width which in
+a which in a trapezoid like this would just be halfway between this function is
+not linear so it's not necessarily going to be halfway in between but it's that
+same idea so how could we use this idea where this is right over here this
+height this height right over here we could call this we could call this the
+functions average the functions average how could we use all of this to come
+back to with a formula for the the the average of a function over this closed
+interval well let's just Express in math what we've already said we already said
+that this function average should be some height so let's say the function
+average so if I that's a height and if I multiply it times the width of this
+interval so this width right over here this width right over here is just going
+to be the larger value minus the smaller value so that's going to be B minus a so
+the average value of the function times the width of the interval should give us
+an area that is equivalent to the area under the curve so it should be equal to
+the definite integral from A to B of f of X DX and so if we just if we knew all
+of this other stuff we could solve for the functions average the functions
+average we divide both sides by B minus a the functions average is going to be
+equal to just dividing both sides by B minus a you're going to get 1 over B
+minus a times the definite integral the definite integral from A to B of f of X
+DX or another way to think about it you're going to figure out what the area
+under the curve is over that interval you're going to divide that by the width
+and then you're going to have the functions average you want me to think
+about you're going to have the average height and once again I'd like to remind
+you that because this is you shouldn't just sit there and try to memorize this
+thing and just just get a conceptual understanding of what this is
+really just trying to say area under the curve divided by the width well that's
+just going to give you the average height that's going to give you the
+average of the function in the next video we'll actually apply this formula
+to see that it's actually straightforward to calculate if you if
+you can figure out the definite integral

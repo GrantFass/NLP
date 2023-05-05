@@ -1,0 +1,106 @@
+- [Voiceover] So in the previous video we solved this problem the hard way. Maybe you watched it, maybe you didn't, maybe you just skipped right
+to here and you're like, "I don't even wanna know the hard way. "Just show me the easy way please." Well, that's what we're
+gonna talk about now. Turns out there's a trick and the trick is after you
+solve this problem the hard way with a five kilogram mass
+and a three kilogram mass, when you find the acceleration, what you get is this. That the acceleration of
+the five kilogram mass is just 29.4 divided by eight kilograms. But when you do enough of these,
+you might start realizing, "Wait a minute. 29.4 Newtons. "That was just the force of gravity "pulling on this three kilogram mass." In other words, the only force that was really propelling this whole entire system forward. Or at least the only external
+force propelling it forward. And then eight kilograms down here. You're gonna be like,
+"Wait. Eight kilograms? "That's just five kilograms
+plus three kilograms. "Is that just a coincidence "or is this telling us
+something deep and fundamental?" And it's not a coincidence. Turns out you'll always get this. That what you'll end up with
+after solving this hard way, you'll get in the very end, you'll get all the external
+forces added up here where forces that make it go like this force of gravity
+end up being positive and forces that try to resist the motion. So if there was friction, that
+would be an external force that tries to resist
+motion, would be up top and then you get the
+total mass on the bottom. And this makes sense. The acceleration of this entire system, if we think about it as a single object--- So if you imagine this
+was just one single object and you asked yourself, "What's the total acceleration
+of this entire system?" Well, it's only gonna depend
+on the external forces and in this case, the only
+external force making it go was this force of gravity right here. You might object. You might be like, "Wait. "What about this tension right here? "Isn't the tension pulling
+on this five kilogram mass "making this system go?" It is but since it's
+an internal force now, if we're treating this entire
+system as our one object, since this tension is
+trying to make it go, you've got another tension over here resisting the motion on this mass, trying to make it stop. That's what internal forces do. There's always equal and opposite on one part of the object than the other so you can't propel yourself forward with an internal force. So these end up cancelling
+out essentially. The only force you have in this case was the force of gravity on top, only external forces, and the total mass on the bottom. And that's trick. That's the trick to quickly find the acceleration of some system that might be complicated if you had to do it in multiple equations and multiple unknowns but much, much easier
+once you realize this. So the trick, sometimes it's called just "Treating systems
+as a single object". Let me just show you really quick. If that made no sense, let me
+just show you what this means. If we just get rid of this. So what I'm claiming is this. If you ever have a system where multiple objects
+are required to move with the exact same magnitude
+of acceleration, right? Because maybe they're
+tied together by rope or maybe they're pushing on each other. Maybe there's many boxes in a row and these boxes all have to be pushed at the same acceleration because they can't get
+pushed through each other. Right, if there's some
+condition where multiple objects must have the same
+magnitude of acceleration, then you can simply find the
+acceleration of that system as if it were a single object. I'm writing, "SYS" for system. By just using Newton's second law, but instead of looking
+at an individual object for a given direction, we're just gonna do all
+of the external forces, all of the external forces on our system, treat it as if it were a single object, divide it by the total mass of our system. And so when you plug in
+these external forces--- These are forces that are external so external means not
+internal to the system. So if I think of this five kilogram box and this three kilogram
+box as a single mass, tension would be an internal force because it's applied internally
+between these two objects, between objects inside of our system. But the force of gravity
+on the three kilogram mass, that's an external force
+'cause that's the Earth pulling down on the three kilogram mass and the Earth is not part of our system. Similarly, the normal
+force is an external force but it's exactly cancelled
+by the gravitational force. So even though those are external, they're not gonna make it in here. I mean, you can put 'em in there but they're just gonna cancel anyway. We only look at forces in
+the direction of motion and if it's a force that causes motion, we're gonna make that a positive force. If it's a force in the direction of motion like this force of gravity is, we make those positive forces. So forces will be plugged
+in positive into here if they make the system go. And that might seem weird. You might be like, "Wait. "How do I decide if it
+makes the system go?" Well, just ask yourself,
+"Is that force directed "in the same direction as
+the motion of the system?" So, we're just saying the
+system is gonna accelerate if there's forces that make it go and we're gonna plug in negative forces, the forces that make the system stop or resist the motion of system. So maybe I should say,
+"Resist motion of the system." In this case, for this one down here, I don't have any of those. So resist motion of the system. I don't have any of those. I could have if I had a force of friction. Then there'd be a external
+force that resist the motion. I would plug in that
+external force as a negative 'cause it resist the motion. So even though this might sound weird, it makes sense if you think about it. The acceleration of our system
+treated as a single object is only gonna depend on the forces that try to make the system go and the forces that try
+to make the system stop or resist the motion. So if we add those accordingly
+with positives and negatives, we divide it by the total mass which gives the total measure
+of the inertia of our system, we'll get the acceleration of our system. It makes sense and it works. Turns out it always works and it saves a ridiculous amount of time. For instance, if we
+wanted to do this problem, if you just gave me this
+problem straight away and you were told, "Do
+this however you want.", I would use this trick. And I would say that the
+acceleration of this system which is composed of
+this five kilogram mass and our three kilogram mass is just gonna be equal to--- I'd ask myself, "What
+force makes this system go? "What force drives this system?" And it's this force of gravity
+on the three kilogram mass that's driving this system, right? If you took this force away, if you eliminated that force, nothing's gonna happen here. This is the force making the system go so I'd put it in my three
+kilograms times nine point eight. And at this point, you might be like, "Well,
+okay, that gravity made it go. "Should I include this gravity, too?" But no, that gravity is
+perpendicular to the motion for one so this gravity isn't making the system, that's just causing this
+mass to sit on the table and for two, it's cancelled
+by that normal force. So those cancel anyway, even though they're external forces. This is it, this is the only
+one that drives the system. So I put that in here and
+I divide by my total mass 'cause that tells me how
+much my system resists through inertia, changes in velocity,
+and this is what I get. I get the same thing I got before, I get back my three point six eight meters per second squared,
+and I get in one line. I mean, this trick is
+amazing and it works, and it works in every example where two masses or more masses are forced to move with
+the same acceleration. So this is great. This'll
+save you a ton of time. This is supposed to be a three here. And to show you how useful it is, let say there was friction, let's say there was a
+coefficient of friction of zero point three. Well, now I'd have a frictional force so there'd be an external
+frictional force here. It'd be applied this five kilogram mass. I'd have to subtract it up here. So if I get rid of this--- So it's not gonna be three
+point six eight anymore. I'm gonna have a force of
+friction that I have to subtract. So minus mu K so the force of friction--- I'll just put force of friction. And so to solve for the force of friction, the force of friction
+is gonna be equal to--- Well, I know three times
+nine point eight is--- Let me just write this in here, 29.4 Newtons minus the force
+of friction it's given by. So there's a formula
+for force of friction. The force of friction is always mu K FN. So the force of friction
+on this five kilogram mass is gonna be mu K which is point three. So it's gonna be zero point
+three times the normal force, not the normal force on our entire system. I don't include this three kilogram mass. It's only the normal force
+on this five kilogram mass that's contributing to this
+force of friction here. So even though we're treating
+this system as a whole, we still have to find individual forces on this individual boxes correctly. So it won't be the entire
+mass that goes here. The normal force on the five kilogram mass is just gonna be five kilograms
+times nine point eight meters per second squared. I divide by my total mass down here because the entire mass is
+resisting motion through inertia. And if I solve this from my
+acceleration of the system, I get one point eight four
+meters per seconds squared. So this is less, less than
+our three point six eight and that makes sense. Now, there's a resistive force, a resistive external force, tryna prevent the system from moving. But you have to be careful. What I'm really finding here, I'm really finding the
+magnitude of the acceleration. This is just giving me the magnitude. If I'm playing this game where positive forces
+are ones that make it go and negative forces are
+ones that resist motion, external forces that is, I'm just getting the
+magnitude of the acceleration. Individual boxes will have that magnitude of the acceleration but they may have positive
+or negative accelerations. In other words, this five kilogram mass
+accelerating to the right, gonna have a positive acceleration. In other words, the acceleration
+of the five kilogram mass will be positive one point eight four and the acceleration of
+the three kilogram mass since it's accelerating downward will be negative one point eight four meters per seconds squared.

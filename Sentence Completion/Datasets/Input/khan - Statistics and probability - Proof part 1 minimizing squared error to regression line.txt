@@ -1,0 +1,121 @@
+In the last video, we showed
+that the squared error between some line, y equals mx plus
+b and each of these n data points is this expression
+right over here. In this video, I'm really just
+going to algebraically manipulate this expression so
+that it's ready for the calculus stage. So we can actually optimize, we
+can actually find the m and b values that minimize this
+value right over here. So this is just going to be a
+ton of algebraic manipulation. But I'll try to color code
+it well so we don't get lost in the math. So let me just rewrite this
+expression over here. So this whole video is just
+going to be rewriting this over and over again. Just simplifying it a
+bit with algebra. So this first term right over
+here, y1 minus mx1 plus b squared, this is all going
+to be the squared error of the line. So this first term over here,
+I'll keep it in blue, is going to be if we just expand it, y1
+squared minus 2 times y1 times mx1 plus b, plus mx1
+plus b squared. All I did is I just squared
+this binomial right here. You can imagine if this was a
+minus b, it would be a squared minus 2ab plus b squared. That's all I did. Now I'll just have to do that
+for each of the terms. And each term is only different by
+the x and the y coordinates right over here. And I'll go down so that we
+can kind of combine like terms. So this term over here
+squared is going to be y2 squared minus 2 times
+y2 times mx2 plus b plus mx2 plus b squared. Same exact thing up here. Except now it was with x2 and
+y2, as opposed to x1 and y1. And then we're just going to
+keep doing that n times. We're going to do it for the
+third, x3, y3, keep going, keep going. All the way until we get the
+this nth term over here. And this nth term over here when
+we square it is going to be yn squared minus 2yn
+times mxn plus b, plus mxn plus b squared. Now, the next thing I want to
+do is actually expand these out a little bit more. So let's actually scroll down. So this whole expression, I'm
+just going to rewrite it, is the same thing as-- and remember
+this is just the squared error of the line. So let me rewrite this
+top line over here. This top line over here
+is y1 squared. And then I'm going to
+distribute this 2y1. So this is going to be
+minus 2y1mx1, that's just that times that. Minus 2y1b. And then plus, and now let's
+expand mx1 plus b squared. So that's going to be m squared
+x1 squared, plus 2 times mx1 times b
+plus b squared. All I did, if was a plus b
+squared, this is a squared plus 2ab plus b squared. And we're going to do that for
+each of these terms. Or for each of these colors, I
+guess you could say. So now let's move to
+the second term. It's going to be
+the same thing. But instead of y1's and
+x1's, it's going to be y2's and x2's. So it is y2 squared minus
+2y2mx2 minus 2y2b plus m squared x2 squared, plus 2 times
+mx2b plus b squared. And we're going to keep
+doing this all the way to get the nth term. I guess color we should say. So this is going to be yn
+squared minus 2ynmxn. And you don't even
+have to think. You just have to kind of
+substitute these with n's now. We could actually
+look at this. But it's going to be the
+exact same thing. Minus 2ynb plus m squared
+xn squared, plus 2mxnb plus b squared. So once again, this is just the
+squared error of that line with n points. Between those n points and the
+line y equals mx plus b. So let's see if we can simplify
+this somehow. And to do that what I'm going to
+do is I'm going to kind of try to add up a bunch
+of these terms here. So if I were to add up all of
+these terms right here, if I were to add up this
+column right over there, what do I get? It's going to be y1 squared plus
+y2 squared all the way to all the way to yn squared. That's those terms
+right over there. So I'm going to have that. And then have this common
+2m amongst all of these terms over here. So let me write that down. So then you have this 2m
+here, 2m here, 2m here. Let me put parentheses
+around here. So you have these terms
+all added up. Then you have minus 2m times all
+of these terms. Actually, let me color code it so you
+see what we're doing. I want to be very careful
+with this math so nothing seems too confusing. Although this is really just
+algebraic manipulation. If I had all of these up, I get
+y1 squared plus y2 squared all the way to yn squared. I'll put some parentheses
+around that. And then to that, we have this
+common term, we have this minus 2m, minus 2m, minus 2m. And so we can distribute
+those out. And so I should actually
+write it like this. So we have a minus 2m, once we
+distribute it out up here, we're just going to be
+left with a y1x1. Or maybe I can call
+it an x1y1. That's that over there with
+the 2m factored out. Let me do that in
+another color. I want to make this
+easy to read. Plus x2y2. Plus xnyn. Well we're going to keep adding
+up-- we're going to do this n times. All the way to plus xnyn. This last term over here,
+ynxn, same thing. So that's the sum. So this stuff over here, the sum
+of all of this stuff right over here, is the same thing as
+this term right over here. And then we have to sum
+this right over here. And you see again, we can factor
+out here a minus 2b out of all of these terms. So we
+have minus 2b times y1 plus y2 plus all the way to to yn. So this business. These terms right over here,
+when you add them up, give you these terms, or this term,
+right over there. And let's just keep going. And in the next video, we're
+probably going to run out of time in this one, I'll simplify
+this more and clean up the algebra a good bit. So then the next term, what
+is this going to be? Same drill. We can factor out
+an m squared. So we have m squared times
+times x1 squared plus x2 squared-- actually, I want to
+color code them, I forgot to color code these over here. Plus all the way
+to xn squared. Let me color code these. This was a yn squared. And this over here
+was a y2 squared. So this is exactly this. So in this last step we just
+did, this thing over here is this thing right over here. And of course we
+have to add it. So I'll put a plus out front. We're almost done with this
+stage of the simplification. So over here, we have a common
+2mb, so let's put a plus 2mb times, once again, x1 plus x2
+plus all the way to xn. So this term right over here
+this is the exact same thing as this term over here. And then finally, we have a b
+squared in each of these. And how many of these b
+squared do we have? Well we have n of these
+lines, right? This is the first line, second
+line, then bunch, bunch, bunch all the way to the nth line. So we have b squared added
+to itself n times. So this right over here is
+just b squared n times. So we'll just write that as
+plus n times b squared. Let me remind ourselves what
+this is all about. This is all just algebraic
+manipulation of the squared error between those n points
+and the line y equals mx plus b. It doesn't look like I've
+simplified it much. And I'm going to stop in
+the video right now. In the next video, we're just
+going to take off right here and try to simplify
+this thing.

@@ -1,0 +1,73 @@
+I'm just using two tones here,
+but you could have very large, or subsets of your program,
+where you get to a point, and you say, OK I
+need this to repeat, based on some condition. So to get into loops,
+the block is right here. If you're working under
+the complete pallet, you will find it under Flow. Here I'm going to click and
+drag and drop it somewhere here, doesn't matter. I'll put it here. And as you can see, the
+loop is actually empty. So if I run this program, I
+won't even get to these tones, because it will get stuck here. I'm going to drag the sound
+blocks inside our loop so we can do something. I will go ahead and
+run this program, to see if it's working. [BEEPING] What if we want to do something
+a little more interesting? Perhaps we want to
+terminate this loop based on some sensor condition. So click on the drop down
+box, and select Sensor. Now a bunch of settings pop up. First it wants to know, OK,
+what setting, what sensor, do you want to use
+to control the loop? And in this case I will leave
+it on Touch Sensor for now. And now I'm going to plug the
+touch sensor into port two. It could be any port, I'm
+using port two right now. You need to select the port that
+this sensor is plugged in to. And finally, the action is
+asking us, OK, what action will cause this
+loop to terminate? When I execute the program,
+it will jump into this loop. And every time it hits the end
+of the loop, it will check, is the button pressed? And if it has not been pressed,
+it will continue to loop. And when I press the button,
+it will terminate the loop. So let's run this
+and see how it goes. [BEEPING] OK, I'm going to press the
+button in three, two, one. And it worked. So this is very interesting,
+because if you think about it, we could have even a color
+sensor controlling the loop. Perhaps when the
+color sensor saw red, or when the sound
+sensor detected a clap. [CLAP] Aside from that, we can
+also control the loop based on time,
+which means we could put in the number of seconds
+we want it to run for. Below time, we have
+count, which tells us how many times a
+loop will iterate. Every time it hits the end and
+jumps back to the beginning, you can think of that
+as one iteration. So if I put the count to 2,
+this loop will just run twice. And the final method to control
+a loop is based on logic. If you select the
+Logic tab, it will be asking for a true or false. And this is a value, which you
+will manually wire into here. And I will leave that
+for another video. The last thing to
+remember about loops, aside from how they
+can be controlled, is that they can be nested,
+which is very powerful. For example, nesting
+means you can drop a loop inside
+of another loop. Now sound will be
+helpful here, because we will be able to listen
+to what's going on. First, I'm going to drag a sound
+block inside this loop here. So our program will begin,
+jump inside the main loop. Then it will hit
+this sound block, play a tone for
+0.5 seconds, play the next tone for 0.5 seconds. Then it will hit this interior
+loop, which we currently have as running forever,
+which we probably don't want, because it will get stuck there. So I'm going to
+put the count to 2, which means when we get here,
+it will run this loop twice. And inside the loop I
+have a new sound block, which I will put to Tone,
+and I'll play a lower tone. So we'll be able to hear
+when we fall into that loop. After our two
+iterations of this loop, it will break out, hit our
+main loop, which will jump back to the beginning, and
+the process will repeat. So let's listen to
+what's going on here. I will run the program. [BEEPING] So when you hear
+that lower tone, that is when we fall
+into the interior loop. And nesting can be
+done many times. I can put two loops
+beside each other here. I could even put a
+third loop inside here. And so on and so forth. So with nesting and control,
+you can do pretty much anything you can think of, in terms
+of repeating behaviors.

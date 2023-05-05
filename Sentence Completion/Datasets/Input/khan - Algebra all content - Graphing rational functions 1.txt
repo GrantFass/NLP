@@ -1,0 +1,135 @@
+right over here I have the graph of f of
+X and what I want to think about in this video is whether we could have sketched
+this graph just by looking at the definition of our function which is
+defined as a rational as a rational expression we have 2x plus 10 over 5x
+minus 15 so there's a couple of ways to do this first you might just want to
+pick out any numbers that are really easy to calculate so for example what
+happens when X is equal to zero so we could say F of 0 F of 0 is going to be
+equal to well all the X terms are going to be 0 so you're going to be left with
+10 over negative 15 which is negative 10 15 which is negative 2/3 so you could
+plot that when x equals 0 f of x or y equals f of X is negative 2/3 and we see
+that point let me do that in a darker color you see that point right over
+there so we could have plotted that point we could have also said when does
+this function equal zero well the function is equal to zero when the only
+way to get the function equal to zero is if you get this numerator equal to zero
+so you could try to solve 2x plus 10 is equal to zero well that's going to
+happen when 2x is equal to negative 10 I just subtracted 10 from both sides and
+if I divide both sides by 2 that's going to happen when X is equal to negative 5
+and you see that you see this right over here when X is equal to negative 5 the
+function intersects the x-axis so that's just two points but that still doesn't
+give us enough to really form this interesting shape over here and you
+could think about what other functions have this type of this type of shape so
+now what I want to think about is the behavior of the function at different
+points so first I want to think about when this function is undefined and what
+type of behavior we might expect for that function when it's undefined so
+this function is going to be undefined the only way I can think of to make this
+undefined is if I make the denominator equal to zero we don't know what it
+means to divide by zero that is undefined so this the function is going
+to be undefined when five x this in blue when five X minus 15 is equal to zero or
+adding 15 to both sides when five X is equal to 15 or dividing both sides by
+five five when X is equal to three f is
+undefined now there's a couple of ways for a function to be undefined at a
+point you could have something like this so let's let me draw some axes right
+over here so let's say that this is three you could have your function it
+could look like this it could be defined it might kind of approach something but
+just not be defined right at three and just keep on going like that or the
+other possibility is it might have a vertical asymptote there and if it has a
+vertical asymptote it's going to look something like this it might it might be
+approach it might just pop up to infinity and then it might pop down from
+infinity on this side or it might go from negative infinity right over here
+that says that's what a vertical asymptote would look like that as we
+approach from the left the graph is approaching a vertical but it never it
+never quite gets two x equals three I guess one we could say it or the
+function is defined not defined at x equals three and as you approach from
+the right the same thing the function just in this case drops down it almost
+becomes vertical its approaching negative infinity as X approaches three
+from the positive direction so how would we know obviously when you look at here
+when you look we know the graph ahead of time and if you say okay this is e this
+is x equals ten so let's see how many this is one two three four five so each
+of these are two so x equals three is right over here
+when you look at the graph if you had the graph in front of you you'd see oh
+look this is indeed a vertical asymptote just looking at the graph you see that
+you have a vertical asymptote at x equals three and let me write that down
+vertical asymptotes vertical asymptotes asymptote at x equals three at x equals
+three but how would you have known that how would you have known that if you
+didn't have the graph here if you just had this we know it's not defined at
+three but how do we know it's not a point discontinuity and not a instead of
+a vertical asymptote well there's a couple of ways to do it one ways you
+could try values near three and see what happens
+so for example you could get your calculator out and you could try let's
+say three point zero one so if you say two times three point zero one plus ten
+X G well that's the numerator and then I'm going to divide that the numerator
+by five times three point zero one minus fifteen it gets us a fairly large number
+it's kind of exploding on us and if we've got even closer so if we did two
+times three point zero zero one plus let me plus ten plus ten divided by five
+times three point zero zero one so now I'm just now I'm trying X is equal to
+three point zero zero one minus 15 minus 15 we see we get even a larger number so
+as X gets closer and closer to three f of X seems to be exploding it seems to
+be approaching positive infinity so that's one way to say okay this looks
+like at least from this side we are approaching we are approaching positive
+infinity so we would have been able to draw we would have been able to draw
+something like that and then you could have tried values below you could have
+tried values below so you could have said I actually let me just let me just
+put the last entry here and let me just change the 3.00 ones to two point nine
+nine nine two point nine nine nine and whoops let me go over here we have two
+point nine nine nine and we get notice we're going really negative now we're
+approaching negative infinity so if you just try that out that would give you a
+pretty good indication that the graph is looking something like that right over
+here which also seems to match connecting these two points that we've
+already thought about but now let's see what's going on as X approaches really
+large values or really negative really positive values are really negative
+values it looks like there is a horizontal asymptote here just looking
+at the graph just looking at the graph it seems like there's some value that as
+X approaches really large values really positive values f of X is going to be
+approaching that value that asymptotes from above
+and as X becomes really negative it looks like f of X is approaching that
+from below but how would we be able to figure that out just by looking at this
+well one thought experiment is just to say well what happens to f of X as X
+approaches infinity so let me write that down as X approaches infinity then then
+f of X is going to approach what well as X approaches larger and larger values
+the positive 10 and the negative 15 start to matter a lot less that the
+highest degree term in the numerator denominator start to dominate so we
+could say as X approaches infinity f of X is getting closer and closer to 2 x
+over 5 X which is which is 2/5 which is equal to 2/5 so you could say f of X is
+approaching 2/5 and if you really want to kind of see that a little bit more a
+little bit more concretely let's imagine different values for X as X gets larger
+and larger and larger so if we have so X f of X if X is 1 that f of X is just
+going to be 2 plus 10 over 5 minus 15 so here the 10 and the negative and the
+subtracting the 15 matter a lot but if X was if X were a thousand then f of X
+would be 2,000 plus 10 over 5,000 minus 15 so now the 2,000 and 5,000 are really
+kind of setting the agenda and then if X were if X were let's say 1 million 1
+million and I just used blue for a more contrast then f of X would be 2 million
+2 million plus 10 we move over to the right a little bit 2 million plus 10
+over 5 million 5 million minus 15 so here the 10 and the 15 are almost
+inconsequential you could imagine if X were a billion or trillion or googol
+then these then the 10 and the negative 15 starting to matter a lot and lot less
+so as X approaches infinity these matter less the higher degree terms the
+degree terms matter so f of X is going to approach 2x over 5x which is 2/5 so f
+of X is approaching 2/5 and that's what this line looks like 2/5 is the same
+thing as 0.4 so f of X and we see that in the graph f of X is approaching that
+but it's not quite getting close to it it's it was it's not quite getting there
+it's getting closer and closer to it as X goes to infinity but it's not quite
+getting there because you're always going to have that plus 10 and that
+minus 15 there's you're never going to be exactly at 2/5 and the same thing is
+happening as X gets more and more and more negative you can make all of these
+negative values so if if this were negative 1 then it would be negative 2
+negative 5 this was negative 1000 would be negative 2000 over negative 5000 if
+there were negative 1 million it would be negative 2 million over negative 5
+million but you see even in this case f of X is approaching 2x over 5x which is
+approaching 2/5 or you could say it's approaching negative 2 over negative 5
+which is still 2/5 and you see that right over here so we would say that
+this function has a horizontal asymptote horizontal horizontal asymptote
+asymptote at y equals the horizontal line right over here is y is equal to
+2/5 so hopefully this graph here is helping us appreciate what these
+vertical and horizontal asymptotes actually are but if we didn't have the
+graph we could have said okay we're undefined at x equals 3 we could test
+some values around it and so we could say okay look it does look like we're
+approaching negative infinity as X approaches negative 3 from the left it
+looks like we're approaching positive infinity as X approaches negative 3 from
+the right so we could we could put we could draw that kind of blue point right
+there we could graph these two points when does F equal 0
+what happens to F when x equals 0 and then we could think about the behavior
+as X approaches infinity or negative infinity as X approaches negative as X
+approaches infinity or negative infinity and draw this horizontal asymptote and
+between all of those that would have been a pretty good way to be able to
+sketch this actual graph

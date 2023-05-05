@@ -1,0 +1,157 @@
+Let's see if we could do a
+couple more of these conic section identification
+problems. So I have this problem, x
+squared plus y squared minus 2x plus 4y is equal to 4. And so, the first thing I like
+to do is just try to figure out what type of conic
+section this will be. And we have our -- this
+is my x squared term, my y squared term. They're on the same
+side of the equation. And they both have
+positive coefficients. So this tells me that
+we're going to be dealing with an ellipse. And in this case in particular,
+the coefficients are the same number. They're both positive 1. So this is going to tell
+me that this is a circle. So let's get this in
+the standard form. And try to graph the circle. So we're going to want
+to complete the square. So let's take the x terms,
+since we get x squared minus 2x plus something to complete
+the square later on. Plus, and now let's do
+the y squared terms. y squared plus 4y plus
+something is equal to 4. And now what are we at here? We take 1/2 of the
+minus 2, minus 1. Square it. That becomes plus 1. Add a 1. We have nothing out here, so we
+really just added a 1 to the left-hand side of
+this equation. So we have to add 1 to
+the right-hand side. And here we take 1/2 of 4. 1/2 of 4 is 2. 2 squared is 4. Put a 4 here. So you have to add a 4 to the
+right-hand side as well. And we actually did add just a
+4, because there was nothing multiplying the 4 out here. And so this becomes x minus 1
+squared plus y plus 2 squared is equal to 4 plus 1
+plus 4 is equal to 9. And there you have it. We have it in the standard
+form of a circle. You remember that if a circle
+is centered at 0, the standard form would be x squared plus y
+squared is equal to r squared. So this is r squared, this
+is the radius squared. So that tells us the radius
+of the circle is 3. And it was just shifted so that
+its origin, instead of being 0, 0, is at the point 1, minus 2. And the reason why we got 1,
+minus 2, we just have to think about what makes this
+whole expression equal 0? In this case it was the origin. In this case, it's x equals 1. And what makes this whole
+expression equal 0, in this case, it was y is equal to 0. In this case it's y
+is equal to minus 2. So that's our center. That's our radius, and we're
+ready to graph this circle. So it's at, let me see. I should graph the
+circle first. That's fair enough. So it's going to
+be at 1, minus 2. So, 1, minus 2. So it's going to be down here. So it's going to come out, this
+circle's going to start there. It's going to be at 1,
+and then you go 1, 2. So that's pretty
+close to the center. Maybe I should do it at 1, 2. So that's at center. Right there, at 1, minus 2. And then its radius is 3. So this distance right here
+is 3, in any direction. 3. And that is 3. Fair enough, that was a pretty
+straightforward problem. Circles in some ways
+are the simplest. And remember I said it's
+going to be an ellipse. And you say, oh, this isn't
+the standard formula for an ellipse. So just as a refresher, if you
+divide both sides of this equation by 9, what do you get? You get x minus 1 squared
+over 9 plus y plus 2 squared over 9 is equal to 1. And then you see that the
+horizontal axis, I guess. Or the horizontal diameter,
+is going to be 3. Or the horizontal radius
+is going to be 3. And the vertical radius
+is also going to be 3. Because the radius never
+changes in this ellipse. Which is really a circle. Let's do one more. Just to make sure you
+know this stuff cold. So I have 2x squared plus y
+plus 12x plus 16 is equal to 0. Let's look at the x squared
+and the y squared terms. 0's an squared term. But I don't see a
+y squared term. So this is a bit
+of a conundrum. And this will lead us to the
+fourth of our conic sections, which I talk about in the
+first video but we haven't really touched on yet. And that's the parabola. And how do I know
+it's a parabola? You're familiar, and I'll go
+more in future videos on all the different ways that
+a parabola comes about. And how all the points are
+equidistant between one point and a line and all of that. But just in very simple ways,
+you recognize the most simple parabola is y
+is equal to x squared. That parabola looks
+something like this. Where its minimum point, or
+its vertex, is at the origin. Or if you have a parabola like,
+x is equal to y squared. That looks something like this. Where it's a sideways
+version of that one. Where, once again, its
+vertex is at the origin. And just out of interest, so we
+know that this is a parabola, because we have a y and we
+have an x squared, right? They're different degrees. There's no second
+degree term of the y. And just to put this in a form
+that's familiar to you, let's just subtract everything but
+the y from the left-hand side. So you get y is equal to minus
+2x squared minus 12x minus 16. And this is kind of the
+traditional form that you're familiar with. You're probably even used to
+finding the 0'z of this parabola, and we could
+do that right now. We could say, OK, when
+does this equation intersect the x axis. The x axis is when
+y is equal to 0. So that equals 0. You get minus 2x squared
+minus 12x minus 16. And this is different to
+what we normally do. Normally I would immediately
+break into completing the square. But I just want to figure out
+the 0's of this parabola first. So this 0's equal to minus 2
+times factoring out minus 2, you get x plus 6x plus 8. So the 0 is equal to minus 2
+times x plus 2 times x plus 4, I just factored that. And so for this whole thing
+to be 0, either this is 0 or that is 0. And so, either x plus
+2 is equal to 0, or x plus 4 is equal to 0. So x is equal to minus 2,
+and x is equal to minus 4. That's the two 0's
+of this parabola. So we immediately know one
+thing about this parabola, and you've probably already done
+this in your algebra classes. If we were to draw the x axis,
+it intersects the x axis at 1 and minus 2, and 3 and minus 4. That's all we know
+about this right now. So let's see if we can use some
+of our completing the square skills with the conic sections
+we've done so far, to to come up with a little bit more
+information about this parabola. So let's try to complete
+the square with it. I'll rewrite it down here. So it's y is equal to, this
+is the one I'm dealing with. Now, let me just take the x
+terms by themselves, and factor out the minus 2. Minus 2 times x
+squared plus 6x. And I'm going to add
+something else. And then I have a
+minus 16 over there. To make this a perfect square,
+I have to take 1/2 of this, 1/2 of the 6. 1/2 of the 6 is 3. 3 squared is 9. If I add nine to the right-hand
+side of the equation, remember, I didn't just add 9. This is 9 times
+minus 2 I'm adding. So if I subtract, that's minus
+18, if I subtract 18 from the right-hand side, I also have to
+do it from the left-hand side. So, subtract 18 there. And now my equation becomes y
+minus 18 is equal to minus 2 times, what is this? This is x plus 3
+squared minus 16. And let's just get it in a form
+that we might start recognizing from our conic sections. Let's add 16 to both sides. If we add 16 to both sides,
+y minus 18, plus 16. It's going to be y minus
+2, I'll put parentheses around that. Is equal to minus 2
+times x plus 3 squared. And you might wonder why
+I put it in this form. And I did because this'll help
+us, this is kind of the same pattern that you see with all
+of the other conic sections. Like, if I were to tell you to
+graph y is equal to x squared, y is equal to x squared. It would look something like,
+let me draw the - whoops - Draw some axes here. y equals x squared looks
+something like this. It looks like a parabola. I mean, it is a parabola,
+with the vertex at 0, or its minimum point. And that's what the vertex is,
+is the minimum point of, or the maximum point of the parabola. We'll talk more about that,
+you'll learn a lot more about that when we go into calculus. But I think you can recognize
+it, the bottom of the U or the top of the U. If I were to draw y is equal
+to minus x squared, you could plot some points. But it looks
+something like that. If I were to try to graph y is
+equal to 2x squared, it would just be like the y is equal to
+x squared, but it would go up twice as fast. It would look
+something like that. So the vertex at the origin. And finally, if I were to
+graph y is equal to minus 2x squared, it would look
+something like this. It would open downward and it
+would go down twice as fast. Now, this one, this equation
+that we ended up with, right here, this is the same thing as
+y is equal to minus 2x squared. It has the same general shape. But instead of its vertex, or
+its center or its starting point, or whatever you want
+to call it, to be at the origin, it's shifted now. You say what y value makes
+this term zero, well, y is equal to 2. Just why, in this case,
+what y value makes this 0? Well, it's 0 here because
+we were at the origin. And here, what x
+value makes this 0? It's x is equal to minus 3. So this gives us information
+about where the vertex is. It's at x is equal to
+minus 3, y is equal to 2. So it's at x is equal to 1,
+2, 3. y is equal to 1, 2. Right there. We already know those two
+points, because we've figure out it's 0. But even if we didn't know
+those two points -- we know that this has the same
+general shape as y is equal to minus 2x squared. So it's going to open downward. Like this. And a little bit faster than y
+is equal to minus x squared. So it's going to
+look like this. And we know it goes through
+that point and we know it goes through that point. There you go. So we've touched on
+every conic section. And in the next two videos,
+I'll go into a little bit more depth of the theory behind
+conic sections and how they came about and all of that. But I think now you're ready
+to tackle a lot of what you might actually see on
+your algebra test. See you soon.

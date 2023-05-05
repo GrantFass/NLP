@@ -1,0 +1,29 @@
+- [Voiceover] Find the
+components of vector AB. So when they're talking
+about the components, at least in this context, they're just talking about
+breaking it down into if we start at point A and
+we're finishing at point B, how much do we have to
+move in the X direction? So this is going to be
+essentially our change in X. And then how much do we have
+to move in the Y direction to go from point A to point B? So this one over here is
+going to be our change in X. I just wrote the Greek
+letter Delta for change in X. And then, the second
+component is going to be our change in Y. And to think about that, let's just think about what our starting and final points are, our initial and our terminal point are. So, this point right over here, point A, its coordinates are (4,4). And then point B, its coordinates are, let's see its X coordinate is (-7,-8). So let's first think about
+what our change in X is, and like always, I encourage
+you to pause the video and try to work through it on your own. Well let's see, if we're starting at four and then we are going from X equals four. That's where we're starting, to X equals negative seven. So that right over there
+is our change in X. And there's a couple of
+ways you could compute that. You could say, "Look, we
+finished at negative seven. "We started at negative four." You take your final point
+or where you end up, so that's negative seven, and you subtract your
+initial point, minus four, which is going to be equal to negative 11. The negative tells us that
+we decreased in X by 11. And you could see that. If you could just visually
+count the squares, you could say, "Look,
+if I'm going from four "to negative seven, I have to go down four "just to get back to X equals zero, "and then I have to go down another seven. "So I have to go to the left 11 spaces." So that's negative 11. So that's my X component, negative 11. And what is my change in Y? Well I'm going from Y equals four. In fact, I'll start at
+this point right over here. I'm starting at Y equals four. And I'm ending up at Y is equal to, let me do that in that other color. So, I'm starting at Y is equal to four, and I'm ending up at Y is
+equal to negative eight. So our change in Y, our change in Y, what's
+going to be my final Y value, which is negative eight, minus my initial Y value, which is four, minus four, which is equal to negative 12. So negative 12. And you could see that here. If I'm starting up here, I have to go four down just
+to get back to the X axis. Then I have to go down another eight, so I have to go down a total of 12. And you can see something interesting that I've just set up here. You could also view this bigger vector. Vector AB is being constructed of this X, this vector that goes
+purely in the X direction, and this vector that goes
+purely in the Y direction. If you were to add this red
+vector to this blue-green, dark blue-green vector, you would get vector AB, but we'll talk more about
+that in future videos.

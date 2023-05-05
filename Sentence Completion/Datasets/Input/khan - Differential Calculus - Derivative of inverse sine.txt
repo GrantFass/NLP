@@ -1,0 +1,59 @@
+What I would like to explore in this
+video, is to see if we could figure out the derivative of Y is
+with respect to X. If Y is equal to the inverse sine, the
+inverse sine of X. And like always, I encourage you to pause
+this video and try to figure this out on your
+own. And I will give you two hints. First hint is, well, we don't know what
+the derivative of sine inverse of x is, but we do know what the si-, what the
+derivative of the sine of something is. And so if you, maybe if you rearrange this
+and use some implicit differentiation, maybe you
+can figure out what dy, dx is. Remember, this is right over here. This right over here is our goal. But, since you want to figure our the
+derivative of this with respect to x. So, assuming you've had a go at it, so
+let's work through this together. So, if y is the inverse sine of x, that's
+just like saying that, that's equivalent to
+saying that sine of y. Sine of Y is equal to X. Sine of Y is equal to X. So now we have things that we're a little
+bit more familiar with, and now we can do a little bit of
+implicit differentiation. We can take the derivative of both sides
+with respect to X. So, derivative of the left-hand side with
+respect to X and the derivative of the right-hand side
+with respect to X. But what's the derivative of the left-hand
+side with respect to X going to be? And here we just apply the chain rule. It's going to be the derivative of sine of
+Y with respect to Y. Which is going to be, which is going to be
+cosine of Y times the derivative of Y with
+respect to X. So times dy, dx, times dy,dx. And the right-hand side, what's the
+derivate of X with respect to X, well that's obviously just going to
+be equal to one. And so we could solve for dy,dx, divide
+both sides by cosine of Y. And we get the derivative of Y with
+respect to X is equal to one over cosine of Y. Now this still isn't that satisfying cuz I
+have the derivative in terms of Y. So let's see if we can re-express it in
+terms of X. So, how could we do that? Well, we already know that X is equal to
+sine of Y. Let me rewrite it. We already know that X is equal to sine of
+Y. So, if we could rewrite this bottom expression in terms, instead of cosine of
+Y. If we could use our trigonometric
+identities to rewrite it in terms of sine of Y, then we'll be in good shape because X
+is equal to sine of Y. Well, how can we do that? Well, we know from our trigonometric
+identities, we know that sine squared of Y plus cosine squared
+of Y is equal to one. Or, if we want to solve for cosine of Y, subtract sine squared of Y from both
+sides. We know that cosine squared of Y is equal
+to one minus sine squared of Y. Or that cosine of Y, just take the
+principal root of both sides, is equal to the principal root of one
+minus sine squared of Y. So, we could rewrite this as being equal
+to one over, one over, instead of cosine of Y, we could rewrite it as one
+minus sine squared of Y. Now why is this useful? Well, sine of Y is just X. So this is the same if we just substitute
+back in, let me just write it that way so it's a little
+bit clear. I could write it as sine Y squared. We know that this thing right over here is
+X. So this is going to be equal to, and we
+deserve a little bit of a drumroll. One over the square root of one minus,
+instead of sin of Y, we know that X is equal to sin of Y. So, one minus X squared. And so, there you have it. The derivative with respect to X of the
+inverse sine of X is equal to one over the square root of one minus X squared, so
+let me just make that very clear. If you were to take the derivative with
+respect to X of both sides of this, you get dy,dx is equal to this on
+the right-hand side. Or we could say the derivative with
+respect to X of the inverse sine of X is equal to one over the square root
+of one minus X squared. Now you could always reprove this if your
+memory starts to fail you, and actually, that is the best way to
+really internalize this. But this is also just a good thing to
+know, especially as we start, as we go into more and more
+calculus and you see, you might see this in expression and you might say,
+oh, okay, you know, that's the derivative of the inverse sine of X,
+which might prove to be useful.

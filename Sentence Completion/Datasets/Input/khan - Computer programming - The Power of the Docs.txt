@@ -1,0 +1,85 @@
+Voiceover: Ok so you've
+made a few programs, you might be wondering how on earth am I
+supposed to remember all of these commands is it oval or circle or
+ellipse? Is it width and height,
+or is it height and width? Do I have to memorize all
+of this? Thankfully, no! That's what the computer is for. The thing
+is, we always have a computer with us when we are programming, and a computer
+is really good at remembering things, better than we are. So what
+if we just had the computer
+remember all the details for us, and we can just use it like
+a dictionary for programming. Then we can focus on making cool programs, not memorizing a bunch of boring details. That's what we call documentation,
+a document that explains how to program in a particular
+language and environment, with examples and gotchas, so if we
+can't remember the exact details, no worries - we can just look them up! You might think it's boring
+to read documentation, and you are right - it is kind of boring,
+it's a lot more fun to write code. But unless you want to memorize
+absolutely everything (ugh!), you need to learn how to use documentation
+or be able to code your ideas. Even great programmers don't
+try to memorize everything. In fact, great programmers are usually
+some of the best at reading documentation. For example, I'm drawing this smiley face, and I've already drawn the face
+and the eyes using ellipse, a function I know pretty
+well. But I have more work to. First, I want to draw the face with
+thick outlines, like a sticker. I remember that has
+something to do with stroke, but I don't remember exactly the name, so instead of sitting here
+and trying to invent it, which could take hours (or infinity),
+I'll just go to the documentation tab and look around and try and
+find what I'm looking for. Umm, and I'll look under this coloring
+category, cause that seems likely, and look at all the functions here, and then finally at the very
+end, I find stroke weight to change the thickness
+of lines and outlines. So here we see the function
+name and the parameters - just one in this case. So
+what I usually do is start off by just copying that code
+and pasting it into my code. But I immediately get an error:
+"thickness is not defined". That's because thickness
+is a placeholder parameter. It's not a real value, I
+am meant to replace that with what I actually want it to be,
+right, so that could be with a number or a variable that refers to a number, so
+in this case I'll just put a number in. Say, ah, ok, perfect, 10's nice,
+but we know we can fiddle with that and see. oh that's a little
+extreme (laughs). that's too small. All right, so go back - 12. Cool! Now there is something really obvious
+missing in my smily face: the smile. So I basically just want
+something like this, right... And I can look at that
+smile and think, well, doesn't look I'd draw by using
+an ellipse, or line, or rect, cause it's got this curve to it,
+but it doesn't have any inside. So I think, well, I should
+check the docs and see if there is some other way
+to draw a curve like this. So, to the docs machine we go! Scrolling down, scrolling
+down, and looking around. So I'll check out the shapes category... Aha! The very first
+entry in shapes is arc, which is used for drawing an arc,
+which sounds kind of perfect, because that's what the smile is. So this one has a lot
+more parameters in it. I'll start off by pasting this in here... And remember these are placeholder
+parameters so we need to replace them with what we think they should be... All right, so x and y, so maybe x
+and y is where i want it to begin, so we'll say, so our middle is
+100 so maybe it will start at 150, and then y is maybe 250, and then width - width sounds like, you
+know, the width of the arc, so probably a bit less than
+width of the actual face. So maybe it's 200, and then the height... maybe that's the height from the
+top of the arc to the bottom, so go, maybe that's 50. Start and stop... Hmm, I don't actually
+know what those are... Ok, now I'm stuck, because I'm looking
+at this function and trying to use it, but I don't really
+understand these parameters. Well, luckily, what you can do
+is just go back down to the docs and actually click on the function
+that you are interested in, and it will bring up a program
+that shows you how to use it, and actually explains the
+parameters in a lot more detail. So by looking at this, it
+says, ok, x is the x-coordinate of the center of the ellipse
+derived from the ark. Okay, so basically it seems like to
+draw an arc you kinda have to pretend you're drawing an ellipse,
+but only part of it, and calculate everything based on that. So the x and y zap to the center of
+that pretend ellipse we're making, the width and the height are the width
+and height of that pretend ellipse, and start and stop - those
+are the ones I didn't know. Start and stop is the angle...
+ah! Ok, the start angle to
+start the arc at, in degrees, and stop is where to stop it at, right. And we can actually look at
+the examples they've done here, so drawing the arc from 1 to 270, that's
+probably this guy over here, right, because 1 degree to 270 degrees,
+that's what that would look like. Let's try and change it. There we go,
+that makes sense, right, because 1 to 180, that's kind of what we want, right,
+because we want our half arc... Ok, so now I think I understand
+arc well enough to use it, and let's go back to my smiley... All right, so we're going
+from 0 to 180, and... we've almost got it. My x amount
+is off because I didn't realize that x is actually the
+middle of the ellipse, and is a little bit wide, so
+let's go make that smaller! Haha! I now have a real smiley face! Thanks to using the docs I was able
+to do what I wanted much faster. And that's a goal of programming -
+turn our ideas into reality faster. Remember - use the power of the docs!

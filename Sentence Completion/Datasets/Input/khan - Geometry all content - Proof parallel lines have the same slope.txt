@@ -1,0 +1,48 @@
+- [Voiceover] What I wanna
+do in this video is prove that parallel lines have the same slope. So let's draw some parallel lines here. So, that's one line and then
+let me draw another line that is parallel to that. I'm claiming that these
+are parallel lines. And now, I'm gonna draw
+some transversals here. So first let me draw a
+horizontal transversal. So, just like that. And then let me do a vertical transversal. So, just like that. And I'm assuming that the
+green one is horizontal and the blue one is vertical. So we assume that they are
+perpendicular to each other, that these intersect at right angles. And from this, I'm gonna figure out, I'm gonna use some parallel
+line angle properties to establish that this triangle and this triangle are similar and then use that to establish
+that both of these lines, both of these yellow
+lines have the same slope. So actually let me label some points here. So let's call that point
+A, point B, point C, point D, and point E. So, let's see. First of all we know that angle CED is going to be congruent to angle AEB, because they're both right angles. So that's a right angle and
+then that is a right angle right over there. We also know some things
+about corresponding angles for where our transversal
+intersects parallel lines. This angle corresponds
+to this angle if we look at the blue transversal as it
+intersects those two lines. And so they're going to
+be, they're going to have the same measure, they're
+going to be congruent. Now this angle on one side of this point B is going to also be congruent to that, because they are vertical angles. We've seen that multiple times before. And so we know that this angle, angle ABE is congruent to angle ECD. Sometimes this is called
+alternate interior angles of a transversal and parallel lines. Well, if you look at triangle
+CED and triangle ABE, we see they already have
+two angles in common, so if they have two angles in common, well, then their third
+angle has to be in common. So, because this third
+angle's just gonna be 180 minus these other two,
+and so this third angle is just gonna be 180
+minus this, the other two. And so just like that, we
+notice we have all three angles are the same in both of these triangles, well, they're not all the same, but all of the corresponding angles, I should say, are the same. This blue angle has the same
+measure as this blue angle, this magenta angle has the same measure as this magenta angle,
+and then the other angles are right angles, these
+are right triangles here. So we could say triangle AEB, triangle AEB is similar, similar similar to triangle DEC, triangle DEC by, and we could say
+by angle, angle, angle, all the corresponding
+angles are congruent, so we are dealing with similar triangles. And so we know similar
+triangles are a ratio of corresponding sides
+are going to be the same. So we could say that
+the ratio of let's say the ratio of BE, the ratio of
+BE, let me write this down, this is this side right
+over here, the ratio of BE to AE, to AE, to AE, is going to be equal to, so
+that side over that side, well what is the corresponding side? The corresponding side to BE is side CE. So that's going to be the same as the ratio between CE and DE, and DE. And this just comes out of similar, the similarity of the triangles, CE to DE. So once again, once we established these triangles are similar,
+we can say the ratio of corresponding sides
+are going to be the same. Now what is the ratio between BE and AE? The ratio between BE and AE. Well that is the slope of
+this top line right over here. We could say that's the slope of line AB, slope of line connecting, connecting A to B. All right, let me just use,
+I could write it like this, that is slope of, slope of A, slope of line AB. Remember slope is, when
+you're going from A to B, it's change in y over change in x. So when you're going from A
+to B, your change in x is AE, and your change in y is BE, or EB, however you want to refer to it. So this right over here is change in y, and this over here is change in x. Well, now let's look at
+this second expression right over here, CE over DE, CE over DE. Well, now, this is going to be change in y over change in x between point C and D. So this is, this right over
+here, this is the slope of line, of line CD. And so just like that, by
+establishing similarity, we were able see the ratio of corresponding sides are congruent, which shows us that the
+slopes of these two lines are going to be the same. And we are done.

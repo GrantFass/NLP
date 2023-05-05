@@ -1,0 +1,24 @@
+Express the area of a rectangle
+with length 4xy and width 2y as a monomial. Monomial just means
+just one term. So let's think about
+a rectangle. So let me draw a
+rectangle here. And they're telling us that the
+length is 4xy and they're telling us that the
+width is 2y. And just as a bit of a
+refresher, we know the area of a rectangle is just the width
+times the length, or the height times the width, or
+however you want to view it-- just the product of its
+two dimensions. So the area of this rectangle,
+the area is going to be equal to this length, 4xy times
+the width times 2y. We can simplify this. We have a 4 times a 2. Whenever you're just taking a
+product of a bunch of things you can switch the order however
+you like, as long as it's all multiplication. So 4 times 2, that gives us 8. Then we have this
+x sitting here. That is the only x we have
+there, so it's 8 times x. And then we have a y here. We could view that as y to the
+first. And then we have another y there. We could view that as y to
+the first. So y times y. You could view that
+as y squared. Or you could say look, y to
+the first times y to the first-- same base, add the two
+exponents-- 1 plus 1 is 2. So it's 8xy squared. This y squared covers both that
+y and that y over there. And we're done. We've expressed the area of this
+rectangle as a monomial.

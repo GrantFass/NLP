@@ -1,0 +1,132 @@
+I'm going to do one more
+video on entropy. Maybe I'll do more
+in the future. But I thought I would at least
+right now do one more, because I really want to make clear
+the idea of entropy as a macrostate variable. So let me write that down. An S, which is entropy, is
+a macrostate variable. I'm going to write macro
+in bold red. It's a macrostate
+state variable. And I want to emphasize this. And I talked a little bit about
+it in my previous video, but I think even then I wasn't
+as exact as I needed to be. And the reason why I want to
+say it's macro is because there's a very strong temptation
+to point to particular micro states and
+say, does this have higher entropy or lower entropy
+than another? For example, the classic one. Even I did this. Actually, let me make a
+bigger, thicker line. So you have this box that
+has a divider in it. We've gone through this
+multiple times. Let me draw the divider
+like right there. OK. So at first if we have a
+system where all of the molecules are over here-- so
+that's our first scenario. And then our second scenario,
+we've studied this a lot. We blow up the wall here. And we actually calculated
+the entropy. Control. OK. Let me copy it and then
+I'm going to paste it. Let me put these next
+to each other. All right. So I have these two things. And then the second time,
+I blew away this wall. Let me blow it away. Let me erase the wall there. And then we said, once the
+system reaches equilibrium again-- remember, these
+macrostate variables, like pressure, like volume, like
+temperature, like entropy, are only defined once the system
+is in equilibrium. So once the system is in
+equilibrium again, these particles are now-- I wanted the
+same number of particles, so let me erase some of these
+particles, let me move them. Let me see if I can
+select some. There. So we'll have a more even--
+Let me just redraw. 1, 2, 3, 4, 5, 6,
+7, 8 particles. Let me erase what I have. And
+I'll make it with a more even distribution. So then, once I blow away the
+wall, I might have 1, 2, 3, 4, 5, 6, 7, 8. Now, the reason why I'm doing
+all of this is because there's a temptation to say that this
+state, what I just drew you when I, you know, made sure to
+blow these away and draw 8 more, I drew a microstate. This is a microstate. Anytime someone is actually
+drawing molecules for you, they're drawing a microstate. Now, I want to be very clear. This microstate does not have
+more entropy than this microstate. In fact, microstates you
+don't have entropy. Entropy does not make sense. What you can say is a system--
+and this time, I'm going to draw it without the particles. That if I have a container
+that is this big, that contains-- so it has
+some volume. So volume is equal to v1. Its temperature is equal
+to a t1, and it has 8 particles in it. This has some entropy
+associated with it. And what we can say, is if we
+were to double the size of this container, which we did by
+blowing away that wall, now all of a sudden our volume is
+equal to 2 times v1, if we say this is double. Our temperature is still
+equal to t1. We saw that a few videos ago. And we still have 8 molecules. The entropy of this
+system is higher. So now entropy is higher. And I want to make this very
+clear, because you never see it drawn this way. People always want to draw
+the actual molecules. But that confuses the issue. When you draw actual molecules,
+you're showing a particular state. For example, this system, if
+we were to actually measure the microstate, it could be--
+there's a very, very infinitesimally probability--
+but all of the molecules, all 8 molecules might
+be right there. I mean, it's almost, you know,
+you could wait for the whole universe to come and go, and
+it might not happen. But there is some probability
+it would happen. So you can't assign entropy
+to a particular state. All you can do is assign it
+to a particular system. I want to be clear about that. So even I talked about
+a clean and dirty room and all of that. Clean versus dirty room. And the point I was making is,
+the entropy of a room is not dependent on its cleanliness
+or its dirtiness. In fact, you could kind
+of view these as states of a room. But even more, these
+really aren't even states of the room. Because when a room is clean, or
+a room is static at a macro level, they're static. If my books or lying like--
+you know, sometimes people look at a deck of cards and
+say, oh, if I have all my cards stacked up like this, or
+if I have all my cards that are all messy like that, that
+this has higher entropy. And I want to make
+it very clear. I mean, maybe you can kind
+of make an analogy. But that's not the case. Both of these systems
+are macrostates. For example, it's not like
+these cards are vibrating around any more than
+these cards are. It's not like these can take
+on more configurations than these cards can. So when you talk about entropy,
+you're trying to take a macro variable that's
+describing at a micro level. And the cards themselves are not
+the micro level, because they're not vibrating around
+continuously due to some kinetic energy or whatever. It's the cards' molecules that
+are at the micro level. And if these cards, if you have
+the same mass of cars as you have here, and if they're
+at the same temperature, the molecules in these cards can
+take on just as many states as the molecules in these cards. So they're going to have
+the same entropy. Entropy is a macrostate
+variable, or a macrostate function, that describes
+the number of states a system can take on. So here, I would view the
+cards as a system. And what we care about is not
+the number of configurations the cards themselves
+can take on. The cards aren't constantly
+vibrating and changing from one thing to another. It's at the atomic level, at the
+molecular level, that as long as we're above absolute
+zero, which we pretty much always are, things are going
+to be vibrating around continuously, and continuously
+changing its state. So it's almost impossible
+to measure the state. And since it's impossible to
+measure the state, we use something like entropy to
+say, well, how many states can we have? And I mean, all of these things,
+entropy, whether we call it internal energy, whether
+we look at entropy, whether we look at pressure,
+volume, temperature. These are all, if you can think
+about it in some way, these are shortcuts around
+having to actually measure what each molecule is doing. And entropy, you can kind of
+view it as a meta shortcut. I mean, temperature tells you
+average kinetic energy, this tells you all of the energy
+that's in it, this tells you, you know, how frequently the
+molecules are bumping against a certain area. This tells you, on average, kind
+of where the outermost molecules are. Entropy is kind of a, you
+can almost view it as a metastate variable. It tells you how many states,
+how many micro states can we take on? And so I just want to make this
+very clear, because this is often confused, and there's
+a very, very, very strong temptation to point to a
+particular state and to say that that has higher entropy
+than another, that somehow this state is more entropic
+than that state. That's not the case. This system is more entropic
+than this system, than this half box. It has more volume. If it has the same temperature
+with more volume, then its particles can take on more
+possible scenarios at any given moment in time. Anyway, hopefully you found
+that a little bit useful. I just want to make it very,
+very, very clear. Because this is often, often,
+often confused. It is a macrostate variable for
+a system, where a system is composed of things that are
+bumping around randomly. Every millionth of a second,
+they're changing states, so it's very hard to even measure
+one of the microstates. You can't point to a microstate,
+and say, oh, this has higher entropy
+than another. Anyway. See you in the next video.

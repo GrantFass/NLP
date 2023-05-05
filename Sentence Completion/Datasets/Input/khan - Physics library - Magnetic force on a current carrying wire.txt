@@ -1,0 +1,158 @@
+Let's explore the repercussions
+of this equation some more. So what was the equation? It was that the force of a
+magnetic field on a moving charged particle is equal to the
+charge-- that's not what I wanted to do-- is equal to the
+charge of the particle-- and that's just a scalar quantity--
+times the velocity-- the cross product
+of the velocity of the particle-- with the
+magnetic field. Now, isn't the velocity vector
+just the same thing as the distance vector divided
+by time? So the velocity vector is equal
+to-- let's call the distance that the electron
+travels, l. Distance divided by time. So we could rewrite that, that
+the force vector is equal to the charge times-- and I'm doing
+this on purpose-- 1 over time, right? Times the distance vector
+taken-- you take the cross product with the
+magnetic field. All I did is I rewrote velocity
+as per time times distance, or distance
+per time. And this is a scalar quantity,
+at least for our purposes, time only has a magnitude. Maybe we could call
+it change in time. But it doesn't have
+a direction. We're not going at
+an angle in time. So we could take the scalar
+quantity out. It doesn't affect this
+vector cross product. So what we get left with is,
+force is equal to charge per time times-- and this is just a
+regular times, because this is just a number, it's not a
+vector-- times the cross product of the distance vector
+and the magnetic field. And what is charge per time? Coulombs per second? Well, that's just current. So we get that force is equal to
+current times the distance that the current is flowing
+along, taken-- and you take the cross product of that
+with the magnetic field. And sometimes this is written as
+a capital L because it's a vector and all that, but we
+started with a lower case l, so we'll stay with
+the lower case l. So let's see if we can apply
+this formula, which is really the same thing as this. We just took the division by
+time and took it out of velocity so we get distance. And we took it and we divided
+the coulombs, or we took the charge divided by that. So we took charge divided by
+time, or charge per unit of time, you get current. So this is really just another
+way of writing this. It's not even a new formula. You could almost prove
+it to yourself if you ever forget it. But let's see if we can use this
+to figure out the effect that a magnetic field has on
+a current carrying wire. So let me-- actually, I probably
+want to put this up at the top, just so that I have
+space to draw a current carrying wire. So let me rewrite it in green. So you're familiar with the
+formula in all colors. So now our new derivation is
+that the force of a magnetic field on a current carrying wire
+is equal to the current in the wire-- and that's just a
+scalar quantity, although it could be positive or negative
+depending on the direction. Well, current is always a
+positive number, but if this current is going in the opposite
+direction as our distance vector, then it
+might be negative. But I wouldn't worry
+about that for now. Let's just assume this is a
+current in the direction of the distance vector. So it's a scalar quantity
+current times our distance vector l, or maybe the length
+of the conductor. You take the cross product
+of l with the magnetic field vector. So let's see if we
+can apply that. Let's say that we have a wire. Actually, let's do the magnetic
+field first. I've been doing a lot of magnetic
+fields that pop out of the screen. Let's do a magnetic field that
+goes into the screen. And those are even
+easier to draw. They're just x's. Now, why is it an x? Because you're looking at the
+rear end of an arrow. That's why it's an x. And that's why a circle with a
+dot means a field or a vector coming out of the window. Because if an arrow was shot at
+you, all you would see is the tip of the arrow
+with maybe a little circle around it. But anyway, this shows us a
+vector going into the screen. So this is our magnetic field. That is B. I don't know, let's
+assign some value. Let's say that the magnitude
+of B is equal to 1 tesla. And let's say I have a
+wire going through that magnetic field. Let's say the wire is going
+along or it's in the plane of your computer monitor. Let me just draw a wire going
+through the magnetic field. And my question to you-- let
+me tell you a little bit of information about this wire. Let's say the wire is
+carrying a current. So I is going in
+that direction. And it is carrying a current
+of-- I'm just making up numbers-- 5 amperes, or
+5 coulombs per second. My question to you is, what is
+the net force of this magnetic field on a section
+of this wire? And let's make this section of
+the wire, I don't know, let's say it's a 2 meter
+section of wire. So obviously the more wire you
+have, the more charged moving particles you'll have. So the
+larger a section you have, the more of a force you'll have on
+that longer piece of wire. So we have to pick our length. So we want to know, what is
+the force of the magnetic field on this section of wire? From here to here. So let's just go to
+this formula. The force is equal
+to the current. So that's 5 amperes. And remember, just from what we
+learned about electricity, the current is the direction
+that notional positive charges would travel in, and
+suits us fine. Because when we did the first
+equation, we cared about the direction a positive
+charge would go in. And if it was an electron or a
+negative charge, we would put a negative sign there. So that works fine. But if you ever have to
+visualize things as they maybe are in reality, but when you
+talk about electrons it's hard to say that they really are
+reality, because they're almost more an idea
+than an object. But it's always good to remember
+that when the current is flowing in this direction,
+that would be true. Because if they were positive
+charges moving, but we know it's a negative charge moving
+in the opposite direction. Or you can think of it
+as, maybe, holes. Well, I don't want
+to get into that. But anyway, the current-- you
+could visualize it if you like as positive charges going
+in this direction. So the current is going
+this direction. So you could view this
+distance vector that we care about. Its magnitude is 2 meters. Because that's the length
+of wire in question. And its direction is the
+direction of the current. So let me-- this is l. Sometimes I get a little carried
+away on tangents. So that is l. It's 2 meters in
+that direction. I is 5 amperes. And we already figured
+out that the magnetic field is 1 tesla. So what's this going
+to be equal to? So the force is going to be
+equal to-- we're using all SI units, so we don't have to
+convert anything-- 5 amperes times 2 meters in
+that direction. I won't specify right now,
+let's just say that's a magnitude of l. Actually, let me write it. Well, 2 meters times the
+magnetic field, 1 tesla. And so when you take a cross
+product of something, this is just a reminder. l cross B. That's equal to the magnitude of
+l times the magnitude of B times the sine of the angle
+between them times some unit directional vector that
+we figure out with the right hand rule. So we already did
+the magnitude of the distance vector. That was 2 meters. We did the magnitude of
+the magnetic field. And what's the sine of the
+angle between them? Well, if the magnetic field is
+going into the screen, if it's going straight into the screen,
+you could imagine a bunch of arrows shooting
+into the screen. Those are the vectors. While our distance vector, or
+this l is in the screen, they actually are perpendicular,
+in 3 dimensions. So this angle is 90 degrees. So this actually
+just becomes 1. So in terms of the magnitude,
+we're done. The l cross B magnitude
+is 2 times 1 tesla. And then we multiply that
+times the current. And then we actually have the
+magnitude of the force. The magnitude of this force is
+going to be equal to 5 amperes times 2 meters times 1 tesla. Which is equal to 10 newtons. And then the only question left
+is, what is the direction of the force that the magnetic
+field is exerting? And this is where we break
+out the right hand rule. And it's no different. You could just imagine one of
+the positive particles moving in that direction, and just
+use the right hand rule. So let's take our hand out. And if we-- let me
+draw a hand. A right hand. So this is my right hand. If I have my thumb sticking
+out like that. So the l is going to
+be my index finger. The first thing in the
+cross product. And then the B is the
+magnetic field. That's going into the screen. So you can't see it. All you can take my word for it
+is that my middle finger is pointed downwards into the
+screen and then my other fingers are just doing
+something else. And there you have it. Your thumb is actually the
+direction of the force. Your index finger is the
+direction of-- we'll say l for these purposes. And then the magnetic field is
+going into it, so you can't see my middle finger but it's
+pointing downwards. I could draw a little x there,
+to show it's going downwards. And then the force is what
+my thumb is doing. So the force on this wire, or
+at least on that section of wire, is going to be
+perpendicular to the direction of the current. And that direction is going
+to be a 10 newton force. Anyway, I've run out of time.

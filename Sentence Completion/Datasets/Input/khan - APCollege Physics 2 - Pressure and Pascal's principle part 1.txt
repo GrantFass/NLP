@@ -1,0 +1,136 @@
+Let's learn a little
+bit about fluids. You probably have some notion of
+what a fluid is, but let's talk about it in the physics
+sense, or maybe even the chemistry sense, depending
+on in what context you're watching this video. So a fluid is anything
+that takes the shape of its container. For example, if I had a glass
+sphere, and let's say that I completely filled this glass
+sphere with water. I was going to say that we're in
+a zero gravity environment, but you really don't
+even need that. Let's say that every cubic
+centimeter or cubic meter of this glass sphere is
+filled with water. Let's say that it's not a glass,
+but a rubber sphere. If I were to change the shape of
+the sphere, but not really change the volume-- if I were
+to change the shape of the sphere where it looks like this
+now-- the water would just change its shape
+with the container. The water would just change in
+the shape of the container, and in this case, I
+have green water. The same is also true if that
+was oxygen, or if that was just some gas. It would fill the container,
+and in this situation, it would also fill the newly
+shaped container. A fluid, in general, takes the
+shape of its container. And I just gave you two examples
+of fluids-- you have liquids, and you have gases. Those are two types of fluid:
+both of those things take the shape of the container. What's the difference between
+a liquid and a gas, then? A gas is compressible, which
+means that I could actually decrease the volume of this
+container and the gas will just become denser within
+the container. You can think of it as if I blew
+air into a balloon-- you could squeeze that balloon
+a little bit. There's air in there, and at
+some point the pressure might get high enough to pop
+the balloon, but you can squeeze it. A liquid is incompressible. How do I know that a liquid
+is incompressible? Imagine the same balloon filled
+with water-- completely filled with water. If you squeezed on that balloon
+from every side-- let me pick a different color-- I
+have this balloon, and it was filled with water. If you squeezed on this balloon
+from every side, you would not be able to change the
+volume of this balloon. No matter what you do, you would
+not be able to change the volume of this balloon, no
+matter how much force or pressure you put from any side
+on it, while if this was filled with gas-- and magenta,
+blue in for gas-- you actually could decrease the volume by
+just increasing the pressure on all sides of the balloon. You can actually squeeze
+it, and make the entire volume smaller. That's the difference between
+a liquid and a gas-- gas is compressible, liquid isn't, and
+we'll learn later that you can turn a liquid into a gas,
+gas into a liquid, and turn liquids into solids, but we'll
+learn all about that later. This is a pretty good working
+definition of that. Let's use that, and now we're
+going to actually just focus on the liquids to see if we
+could learn a little bit about liquid motion, or maybe even
+fluid motion in general. Let me draw something else--
+let's say I had a situation where I have this weird shaped
+object which tends to show up in a lot of physics books, which
+I'll draw in yellow. This weird shaped container
+where it's relatively narrow there, and then it goes
+and U-turns into a much larger opening. Let's say that the area of this
+opening is A1, and the area of this opening is A2--
+this one is bigger. Now let's fill this thing with
+some liquid, which will be blue-- so that's my liquid. Let me see if they have
+this tool-- there you go, look at that. I filled it with liquid
+so quickly. This was liquid-- it's not just
+a fluid, and so what's the important thing
+about liquid? It's incompressible. Let's take what we know about
+force-- actually about work-- and see if we can come up with
+any rules about force and pressure with liquids. So what do we know about work? Work is force times distance, or
+you can also view it as the energy put into the system--
+I'll write it down here. Work is equal to force
+times distance. We learned in mechanical
+advantage that the work in-- I'll do it with that I--
+is equal to work out. The force times the distance
+that you've put into a system is equal to the force
+times the distance you put out of it. And you might want to review
+the work chapters on that. That's just the little law of
+conservation of energy, because work in is just the
+energy that you're putting into a system-- it's measured
+in joules-- and the work out is the energy that comes
+out of the system. And that's just saying that
+no energy is destroyed or created, it just turns into
+different forms. Let's just use this definition: the force
+times distance in is equal to force times distance out. Let's say that I pressed
+with some force on this entire surface. Let's say I had a piston-- let
+me see if I can draw a piston, and what's a good color for
+a piston-- so let's add a magenta piston right here. I push down on this magenta
+piston, and so I pushed down on this with a force of F1. Let's say I push it
+a distance of D1-- that's its initial position. Its final position-- let's see
+what color, and the hardest part of these videos is picking
+the color-- after I pushed, the piston
+goes this far. This is the distance that I
+pushed it-- this is D1. The water is here and I push
+the water down D1 meters. In this situation, my work
+in is F1 times D1. Let me ask you a question: how
+much water did I displace? How much total water
+did I displace? Well, it's this volume? I took this entire volume and
+pushed it down, so what's the volume right there
+that I displaced? The volume there is going to
+be-- the initial volume that I'm displacing, or the
+volume displaced, has to equal this distance. This is a cylinder of liquid,
+so this distance times the area of the container
+at that point. I'm assuming that it's constant
+at that point, and then it changes after that,
+so it equals area 1 times distance 1. We also know that that liquid
+has to go someplace, because what do we know about
+a liquid? We can't compress it, you can't
+change its total volume, so all of that volume is going
+to have to go someplace else. This is where the liquid was,
+and the liquid is going to rise some level-- let's say that
+it gets to this level, and this is its new level. It's going to change some
+distance here, it's going to change some distance there,
+and how do we know what distance that's going to be? The volume that it changes
+here has to go someplace. You can say, that's going to
+push on that, that's all going to push, and that liquid
+has to go someplace. Essentially it's going to end
+up-- it might not be the exact same molecules, but that might
+displace some liquid here, that's going to displace some
+liquid here and here and here and here and all the way until
+the liquid up here gets displaced and gets
+pushed upward. The volume that you're pushing
+down here is the same volume that goes up right here. So what's the volume-- what's
+the change in volume, or how much volume did you
+push up here? This volume here is going to be
+the distance 2 times this larger area, so we could say
+volume 2 is going to be equal to the distance 2 times
+this larger area. We know that this liquid is
+incompressible, so this volume has to be the same
+as this volume. We know that these two
+quantities are equal to each other, so area 1 times distance
+1 is going to be equal to this area times
+this distance. Let's see what we can do. We know this, that the force
+in times the distance in is equal to the force out times
+the distance out. Let's take this equation-- I'm
+going to switch back to green just so we don't lose
+track of things-- and divide both sides. Let's rewrite it--
+so let's say I rewrote each input force. Actually, I'm about to run out
+of time, so I'll continue this into the next video. See you soon.

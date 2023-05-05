@@ -1,0 +1,62 @@
+- [Instructor] What we're
+gonna do in this video is talk about the idea of
+a sampling distribution. Now, just to make things
+a little bit concrete, let's imagine that we have
+a population of some kind. Let's say it's a bunch of balls, each of them have a number written on it. For that population, we
+could calculate parameters. So, a parameter you could view as a truth about that population. We've covered this in other videos. So for example, you could
+have the population mean, the mean of the numbers
+written on top of that ball. You could have the population
+standard deviation. You could have the proportion of balls that are even, whatever, these are all population parameters. Now we know from many other videos that you might not know
+the population parameter or might not even be easy to find, and so the way that we try to estimate a population parameter
+is by taking a sample, so this right over here is
+a sample size of size n. Sample of size n. And then we can calculate a
+statistic from that sample, based on that sample, maybe
+we picked n balls from there. And so from that, we can
+calculate a statistic that is used to estimate this parameter. But we know that this is a
+random sample right over here, so every time we take a sample, the statistic that we
+calculate for that sample is not necessarily going to be the same as the population parameter. In fact, if we were to take a
+random sample of size n again and then we were to calculate
+the statistic again, we could very well get a different value. So, these are all going to be
+estimates of this parameter. And so an interesting question is what is the distribution of the values that I could get for the statistics? What is the frequency with
+which I can get different values for the statistic that is trying
+to estimate this parameter? And that distribution is what
+a sampling distribution is. So let's make this even a
+little bit more concrete. Let's imagine where our population, I'm gonna make this a very simple example. Let's say our population
+has three balls in it. One, two, three, and they're numbered, one, two, and three. And it's very easy to calculate. Let's say the parameter that
+we care about right over here is the population mean, and that of course is gonna
+be one plus two plus three, all of that over three, which is six divided
+by three which is two. So, that is our population parameter. But let's say that we
+wanted to take samples, let's say samples of two balls at a time and every time we take a
+ball, we'll replace it. So each ball we take, it
+is an independent pick. And we're gonna use those
+samples of two balls at a time in order to estimate the population mean. So for example, this could be
+our first sample of size two and let's say in that
+first sample, I pick a one and let's say I pick a two. Well then I can calculate
+the sample statistic here. In this case, it would be the sample mean which is used to estimate
+the population mean. And for this sample of
+two, it's going to be 1.5. Then I can do it again. And let's say I get a
+one and I get a three. Well now, when I
+calculate the sample mean, the average of one and three
+or the mean of one and three is going to be equal to two. Let's think about all of
+the different scenarios of samples we can get and what the associated
+sample means are going to be. And then we can see the frequency of getting those sample means. And so, let me draw a
+little bit of a table here. So, make a table right over here. And let's see, these are
+the numbers that we pick and remember, when we pick one ball, we'll record that number,
+then we'll put it back in, and then we'll pick another ball. So these are going to
+be independent events and it's gonna be with replacement. And so, let's say we could
+pick a one and then a one. We could pick a one, then
+a two, a one and a three. We could pick a two and then a one. We could pick a two and
+a two, a two and a three. We could pick a three and a one, a three and a two or a three and a three. There's three possible
+balls for the first pick and three possible balls for the second 'cause we're doing it with replacement. And so, what is the sample
+mean in each of these for all of these combinations? So for this one, the sample mean is one. Here, it is 1.5. Here, it is two. Here, it is 1.5. Here, it is two. Here, it is 2.5. Here, it is two. Here, it is 2.5. And then here, it is three. And so, we can now plot the frequencies of these possible sample
+means that we can get and that plot will be
+a sampling distribution of the sample means. So let's do that. So, we make a little chart right over, a little graph right over here. So these are the possible sample means. We can get a one, we can get a 1.5, we can get a two, we can get a 2.5 or we can get a three. And now let's see the frequency of it. I will put that over here. And so let's see, how many ones out of our nine possibilities
+we have, how many were one? Well, only one of the
+sample means was one, and so the relative frequency,
+if we just set the number, we could make this line go up one or we could just say, "Hey,
+this is going to be one "out of the nine possibilities." And so let me just make that. I'll call this right over here. This is 1/9. Now, what about 1.5? Let's see, there's one, two of these possibilities out of nine. So, 1.5, it would look like this. This right over here is two over nine. And now, what about two? Well, we can see there's one, two, three. So three out of the nine
+possibilities, we got a two. So we could say this is two
+or we could say this is 3/9, which is the same thing of course as 1/3. So this right over here
+is three over nine. And then what about 2.5? Well, there's two 2.5's, so two out of the nine times. Another way you can interpret this is when you take a random
+sample with replacement of two balls, you have a 2/9 chance of having a sample mean of 2.5. And then last but not
+least, right over here, there's one scenario out of the nine where you get two three's or 1/9. And so this right over here, this is the sampling distribution, sampling distribution, for the sample mean for n equals two or for sample size of two.

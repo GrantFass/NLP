@@ -1,0 +1,34 @@
+- So far, we've been talking about color in terms of wavelength of light
+and human color receptors. That's the physics part of color. Now let's turn to the perceptual part. We just learned that every color has a hue, saturation, and lightness. But colors appear in our
+world alongside other colors, and that can really
+affect how they appear. It's also when things can
+get really, really weird. For example, look at this image. Notice the two inner color rings. The one on the left looks green. The one on the right looks blue. They're different colors, right? No, if you take away the other colors you'll see that they are
+in fact the same color. And it's not only color
+which can trick us. Different brightness
+levels will also affect how we perceive an image. For example, look at the
+following greyscale image. Take a closer looks at
+these two squares, A and B. One is a black square in the light. The other is a light square in shadow. Do you think they are
+different shades of grey? Nope, let me show you. They are in fact the same shade of grey. So clearly not everything
+is what it seems. How we perceive contrast or brightness depends very much on
+the surrounding image. And it brings us back to
+how the brain processes incoming image signals. The structure of our
+visual system is optimized so that we can do important things, like survive. But a key survival trait is the ability to very quickly identify danger. This requires the ability to rapidly refocus our
+attention when we need to. Our brain does this by automatically refocusing our attention to dramatic changes in color,
+brightness or movement. We call this difference in
+color or illumination contrast. Our brains are hard-wired to notice when colors contrast with each other. In the color mastering suite, we can adjust the contrast
+of an entire image using a contrast slider. It works by increasing or decreasing the differences in brightness, or the illumination
+levels across the image. For example, notice the
+left half of this image has a lower contrast
+level than the right half. Getting this contrast level right is really important in Pixar movies. For example, at the end of Inside Out, in the headquarters there's a scene where the character Anger
+gets really, really angry and to sort of heighten this sense of him, flames exploding from his head, the surrounding area of
+the image is darkened so that the contrast difference is really quite extreme in that moment. These kinds of decisions are made by the Director of Photography. And casually, we refer to them as the DPs. Any decision that involves colors or lighting of any kind
+will involve the DP. Another great example is
+from the movie Toy Story 3. Lotso the bear has sort
+of, in this whole sequence, been the only really
+pink thing in the scene. It's very much about an emotion of love between Lotso's owner and the bear. And then as the bear is lost, there's a scene at the
+end where Lotso's looking in the window at his owner
+and the replacement bear and then what we're trying to do there is sort of have Lotso, the original, seem far less pink than the new bear which is pretty much
+now the sort of center of attention of love and
+heightening that perception of the difference between how pink each of them are was very
+much central to the emotion. In the next exercise, you'll have a chance
+to play with contrast.

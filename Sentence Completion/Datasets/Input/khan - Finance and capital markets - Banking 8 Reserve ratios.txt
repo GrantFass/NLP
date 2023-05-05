@@ -1,0 +1,158 @@
+In the last video, I gave the
+example of this bank that I keep using. In this example, as opposed to
+giving the gold out to make loans and be used for projects
+that gold gets redeposited and then re-lent out. What we did in this examples is
+that the bank-- every time it made a loan, it just made a
+loan and that created an asset and then it had a corresponding
+liability where the liability was either a
+checking account that the entrepreneur could use or bank
+notes, which are essentially cash that the entrepreneur
+could use to pay their laborers or to buy their land or
+whatever they needed to do. So an obvious question was, how
+much could a bank do it? When does this stop? Can a bank just keep increasing
+the left and right hand sides of the
+balance sheet? And to answer this question,
+we'll introduce the idea of a reserve ratio. So just, I guess, a bit of a
+review, just to make sure we're clearly reading
+this balance sheet. Let me label things a little bit
+more because sometimes I assume too much. Remember, these are
+the assets. The assets are all of these. Let me make a bold line here. All of this is the assets of
+this bank, including its building, so its vault
+down there. And then the liabilities. I'll do that in this red. I don't like this red color, but
+these are the liabilities. And the equity-- whoever owns
+the bank, whether it's stockholders or maybe it's
+owned by an individual. Maybe it's owned by me--
+is what's left over. I'll do it in a nice
+neutral color. This is the equity. So the question is, how much can
+the bank continue to issue out more loans and increase
+its assets and its liabilities? Remember, every time it'd issue
+a loan, like for right here, it issued a 100 gold piece
+equivalent loan to D-- and instead of giving D 100 gold
+pieces from, say, right here, it just created a checking
+account for D, which later D paid to A and that's why
+it's labeled A right here. Let me relabel another thing
+because the gold is different colors so you see the gold. This is the gold part
+of the assets. Let me make that very clear,
+that all of this right here is gold. That's all gold and there's
+500 gold pieces. So let's introduce the concept
+of a reserve ratio. Let's think a little bit about
+what even a reserve is. A reserve is something that
+you keep aside because you might need it one day. And in this situation, all of
+these liabilities-- whether they're these bank notes
+outstanding in this example or whether they're these checking
+accounts, these demand accounts-- these are all
+liabilities that someone can come back to the bank on any
+given day and say, hey, I want my gold now-- for
+whatever reason. Maybe I'm leaving town. Maybe I don't trust
+the bank anymore. For whatever reason--
+maybe they just want to make some jewelry. For whatever reason, that person
+wants their gold back. These are demand accounts. These checking accounts are
+demand accounts and these notes are things that can be
+exchanged for gold at any point in time. And we talked a little bit about
+this earlier when we started the whole banking
+discussion, but you have to leave aside a little bit of
+gold just in case someone wants their gold back. So this amount of the gold that
+you have to leave aside as a reserve, relative to the
+total amount of demands you have on that gold, that's
+the reserve ratio. And in this situation, this
+world that we've created, the reserve store value is gold. Later on we're going to get
+ourselves off of this gold system and then that reserve
+store of value is actually going to turn into cash, but
+for right now-- and I think it's easier actually to
+conceptualize gold. Let's stick with gold. The reserve ratio for this bank
+is the amount of gold assets-- you won't see this
+formal definition anywhere because most people are off the
+gold standard right now-- but it's the amount of gold
+assets divided by total-- I don't want to say total
+liabilities because the bank could take out loans that
+aren't demand loans. Everything on the liabilities
+right now are on demand loans, which means whoever has that
+liability can come back and exchange it for gold at any
+moment in time, but the bank could've taken just a regular
+loan-- and a regular loan might not be on demand. A regular loan might be a loan
+that the bank doesn't have to pay back for 10 years, in which
+case there's no reason why the bank would have
+to set aside some gold to pay that back. So let's make our definition
+not total liabilities, but total demand liabilities. So what would be total
+demand liabilities? That would be total bank notes
+in this case-- and bank notes are also something-- we'll
+later leave a world where every bank is issuing bank
+notes, but I just wanted to give you that kind of historical
+context, how bank notes even started off. Total bank notes and
+demand accounts, demand or checking accounts. So let's see what it is for this
+bank that we have here. So our total gold assets are
+500-- and what's our total demand accounts? 100 plus 100 plus 100-- 100,
+200, 300, 400-- 600-- and I think this is another
+100 here-- 700. The total demand liabilities,
+I just figured out, was 700 and the gold assets in
+this bank are 500. So right now the reserve
+ratio of this bank is pretty high-- 5/7. So I don't know what 5/7 is. If I'm doing my mental math
+right, it's about 62%-- 7 goes into 50-- no, no, 7 goes into
+57 times-- it's like 71%. Right. 7 times 7 is 49-- 71%. So that's its reserve ratio. And what keeps banks from just
+keep issuing more assets and debts to expand its balance
+sheet is a reserve ratio requirement. So right now in the United
+States-- although we're not on the gold standard, but you
+could imagine it in this world-- our bank regulators
+might say that your reserve ratio on demand accounts-- so
+the amount of gold you have to set aside for checking
+accounts-- so reserve requirement, we'll call it. Let me change colors just
+to ease the monotony. They might say the reserve
+requirement is equal to-- let's say they want
+to be safe. Let's say they want
+to make it 20%. In the U.S. right now, it's
+10% although the reserve commodity isn't gold anymore. Let's say your reserve
+requirement is 20%. That means as long as-- at any
+given moment in time, more than 20% of these people don't
+demand their money back, the bank's going to have
+liquidity. The bank is going to be able
+to fulfill its promise. Because all of these people
+think at any given moment they can go to the bank and
+get their gold. In order for this system to
+work, there has to be confidence-- and in order for
+there to be confidence, the bank has to be good for it every
+time someone asks for their money. So the bank has to
+stay liquid. So essentially this reserve
+ratio is what the regulators think that a bank needs
+to maintain in order to be liquid. Our bank as it is right now, it
+has a reserve ratio of 71%. So as long as no more than 71%
+of these people-- some of these loans, they might be
+out for a year or two. So as long as, in that year or
+two that these loans are out, as long as no more than 71% of
+these people don't come asking for their gold, we
+should be OK. If all of a sudden for whatever
+weird reason, I don't know, 80% of these people who
+have demand deposits or bank notes come and want to switch
+their money for gold, this bank is going to run out of gold
+and that's a bank run. And there's a couple of reasons
+why that's really bad. One is, all of a sudden these
+demand deposit accounts all of a sudden don't seem to be that
+great because you're not really getting your gold on
+demand because more people are asking for gold than
+there is gold. And the other problem is, all of
+a sudden everyone will lose confidence in the system and
+everyone's going to think, boy, these banks that have
+these nice vault-looking buildings-- maybe they're not
+as safe as I thought. So everyone is going to start
+pulling their money out. And that's called a bank run. So in this example, if I assume
+that this loan is really worth 300 gold pieces
+and it's really going to be paid back and this loan right
+here is really worth 100 gold pieces and it really
+will be paid back, this bank is solvent. It has more assets than
+it does liabilities. So if it has enough time, it
+will be able to pay back all of its liabilities. But if all of these people, all
+of a sudden, come in and want not just 500 gold pieces,
+if they want 600 gold pieces, right, they're owed actually
+700-- so if they want 600 gold pieces, all of a sudden
+everyone's going to lose confidence in the system. These people probably-- if
+they're not able to get that, they're probably going to want
+all their money back so then all of these liabilities
+are going to come due. And then maybe the bank is going
+to have to try to sell these loans to someone else or
+maybe try to collect from someone, but as you can imagine,
+it's a big mess and the whole system which is
+dependent on confidence will just start to crumble. But anyway, the initial question
+is, what is the limit to how much you can expand the
+asset and the liability side of the balance sheet just by
+creating these loans and these deposit accounts? And that limit is driven by the
+reserve ratio, whatever the regulators set. Anyway, I'll see you
+in the next video.

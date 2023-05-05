@@ -1,0 +1,81 @@
+- More complex splitting
+occurs when a proton has two different kinds of neighbors. And a good example of
+this is the blue proton that I circled in Cinnamaldehyde. So the blue proton has a
+signal with a chemical shift about 6.7 parts per million. So down here is a zoomed in view of the signal for the blue proton. Let's look at neighboring protons. So the blue proton is on this carbon, and we have a carbon next door
+right here with one proton, so there's one neighboring proton. Here's another carbon
+next door with one proton, so we have two neighboring protons. So let's try to apply
+the n plus one rule here. So if n is equal to two, we
+have two neighboring protons, we would expect n plus one peaks. So two plus one is equal to three, so a signal with three peaks or a triplet. But that's not what we see for the signal for the blue proton. We see one, two, three, four lines here. So the n plus one rule
+doesn't work in this case. And that's because the n
+plus one rule works when the neighboring protons
+are equivalent and here the two neighboring
+protons are not equivalent. So we need a new way to explain the signal for the blue proton. And we're going to use what's
+called a splitting tree. So we're going to start with
+the signal for the blue proton, so here's the signal for the blue proton. It's going to be split
+by the proton next to it, this proton in red. And the coupling constant between the red and the blue proton is 12 hertz. So let's go ahead and show,
+let's show this signal is split into a doublet,
+so let me go ahead and draw in the blue lines here. So we get the signals
+split into a doublet, the coupling constant is 12
+hertz, so this distance here represents 12 hertz. So why can we think about it
+being split into a doublet? Well you can think about a variation of the n plus one rule here, right? So we're talking about
+one neighboring proton, so n is equal to one, so one
+plus one is equal to two, so we split the signal into
+a doublet with two lines. Alright, now let's
+think about what happens with the other protons, so this one. Ok well that's going to take
+each line of the doublet that we just drew and split
+it into another doublet. So this line gets split into a doublet, and this line gets split into a doublet. The coupling constant
+this time is six hertz. So this distance here
+represents six hertz, and this distance represents six hertz. So why was each line split into two? Well once again we can use a modification of the n plus one rule here. We're talking about one neighbor
+here, so n is equal to one, so one plus one is equal to two, so each line is split into two. So each line is split into a doublet. For this line and for this line. This line is split into a doublet, too. So we get four lines for the
+signal of the blue proton. If we go over here we
+see those four lines, one, two, three and four. And we call this a doublet of
+doublets, or a double doublet. What would happen if the
+coupling constants were the same? So let's just pretend like
+they're both 12 hertz, so let's go ahead and draw what
+we would see for the signal. So we have our blue proton's signal, is split into a doublet
+by the red protons, so let's go ahead and
+draw in our doublet here. And let's say this distance
+represents 12 hertz, so 12 hertz here, and let's
+say the coupling constant over here was also 12 hertz,
+so instead of six hertz. So each line of the doublet
+we just drew is split into another doublet
+from our other neighbor. And this time I'm going to show a coupling constant of 12 hertz. So each line of the doublet in blue is split into another doublet. So the line in blue on the
+left is split into a doublet, and the line in blue on the
+right is split into a doublet, because of our one neighboring proton. Well I changed the coupling
+constant so now I just have to pretend like now we're
+dealing with 12 here, so the coupling constants are the same. And notice what this gives us, this gives us a triplet, right? So here is one line and then
+we're going to get this peak, and then we're going
+to get this peak here. So if the coupling constants are the same, you get a triplet, you get what the n plus one rule predicted. So that's just something
+to think about with the origin of the n plus one rule. Let's do another example. So let's go down here and
+let's look at this molecule. So we're going to focus in
+on this proton here in blue. And we have neighboring protons right? So this neighboring proton,
+the coupling constant between those two is 12
+hertz, and then over here, we have two neighboring protons,
+and the coupling constant between the magenta protons
+and the blue is seven hertz. So let's think about the signal
+for the blue proton here, so here we have the signal
+for the blue proton, which isn't split, let's think
+about what the red proton is going to do. We have one neighbor, so one
+plus one is equal to two. So we're going to split the
+signal for the blue proton in two, so we get a doublet here, so let me go ahead and
+draw in the doublet. The coupling constant was
+twelve hertz, so this distance right here is 12 hertz. Now you have a situation
+where we're thinking about the magenta protons, we have two of them. So n is equal to two, so two
+plus one is equal to three. So the magenta protons are
+going to split each line of the doublet that we just drew into a triplet. So we're going to get a triplet here, let me go ahead and draw that in. So for a triplet, and our
+coupling constant is seven hertz, so let me see if I can draw that here. So that distance is supposed
+to represent seven hertz, So let me draw that in. So this distance is seven
+hertz, this distance corresponds to seven hertz, and one line
+of our doublet is split into a triplet now. Same thing happens for
+the other line, right? Same thing happens for
+this line right here, we need to split that into a triplet because of these magenta protons. So we're going to split that
+into a triplet, once again, we need to think about a
+distance of seven here, seven hertz. So we have on both sides,
+we have seven hertz, let me go ahead and draw that
+in, so this is talking about seven hertz, and this is
+talking about seven hertz. So that one line is split into a triplet, so let's draw that in
+here, one, two and three. So finally, how many peaks
+would we expect for the signal for this blue proton? So one, two, three, four, five, six. So we would expect six
+peaks for this signal, for this blue proton,
+because of the neighboring protons which are on different
+types of environments. So this is complex splitting.

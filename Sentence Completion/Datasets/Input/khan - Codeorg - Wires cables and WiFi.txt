@@ -1,0 +1,63 @@
+(upbeat music) - My name is Tess Winlock, I'm a software engineer at Google. Here's a question. How does a picture, text message, or email get sent from one place to another? It isn't magic. It's the internet. A tangible, physical system that was made to move information. The internet is a lot
+like the postal service. But, the physical stuff that gets sent is a little bit different. Instead of boxes and envelopes, the internet ships binary information. Information is made of bits. A bit can be described
+as any pair of opposites on or off, yes or no. We typically use a one, meaning on, or a zero, meaning off. Because a bit has two possible states, we call in binary code. Eight bits strung
+together, makes one byte. 1,000 bytes all together is a kilobyte. 1,000 kilobytes is a megabyte. A song is typically encoded using about three to four megabytes. It doesn't matter if
+it's a picture, a video, or a song, everything on the internet is represented and sent around as bits. These are the atoms of information. But, it's not like we're
+physically sending ones and zeroes from one place to another,
+one person to another. So, what is the physical stuff that actually gets sent over
+the wires and the airwaves? Well, let's look at a small example here of how humans can physically communicate to send a single bit of information from one place to another. So, say we could turn on a
+light for a one or off for zero. Or use beeps or similar sort of things of, like, Morse code. These methods work, but
+they're really slow, error-prone, and totally
+dependent upon humans. What we really need is a machine. So, throughout history,
+we've built many systems that can actually send
+this binary information through different types
+of physical mediums. Today, we physically
+send bits by electricity, light, and radio waves. To send a bit via electricity, imagine that you have
+two light bulbs connected by a copper wire. If one device operator
+turns on the electricity, then the light bulb lights up. No electricity, no light. If the operators on both ends agree that light on means one
+and light off means zero, then we have a system for sending bits of information from one person
+to another using electricity. But, we have a problem. Let's say that, we want to
+send five zeroes in a row. Well, how can you do that in such a way that either person can actually
+count the number of zeroes? Well, the solution is to
+introduce a clock or a timer. The operators can agree that the sender will send one bit per second and the receiver will sit down and record every single second and
+see what's on the line. To send five zeroes in a row, you just turn off the
+light, wait five seconds. The person on the other end of the line will write down all five
+seconds say, "Zero, zero, zero." And for ones do the
+opposite, turn on the light. Obviously, we'd like to send things a little bit faster
+than one bit per second. So, we need to increase our bandwidth, the maximum transmission
+capacity of a device. Bandwidth is measured by bit rate, which is the number of bits
+that we can actually send over a given period of time,
+usually measured in seconds. A different measure of
+speed is the latency, or the amount of time it takes for one bit to travel from one place to another. From the source, to the requesting device. In our human analogy, one bit per second was pretty fast, but kind of hard for a
+human to keep up with. So, let's say that you
+want to actually download a three megabyte sone
+in, like, three seconds. At eight million bits per
+megabyte, that means a bit rate of about eight million bits per second. Obviously, human can't send or receive eight million bits per second, but a machine could do that just fine. But, now, there's also
+a question of what sort of cable to send these messages over and how far the signals can go. With an ethernet wire,
+the kind that you find in your home or office or school, you see really measurable signal loss over just a few hundred feet. So, if we really want this internet thing to work over the entire world, we need a different way of sending this information really long distances. I mean, like, across an ocean. So, what else can we use? Well, what do we know
+that moves a lot faster than just electricity through a wire? Is, well, light. We can actually send bits as light beams from one place to another
+using a fiber optic cable. A fiber optic cable is a thread of glass engineered to reflect light. When you send a beam of
+light down the cable, light bounces up and down
+the length of the cable until it is received on the other end. Depending on the bounce angle, we can actually send
+multiple bits simultaneously, all of them traveling
+at the speed of light. So, fiber is really, really fast. But, more importantly, the
+signal doesn't really degrade over long distances. This is how you can go hundreds of miles without signal loss. This is why we use fiber optic cables across the ocean floors to
+connect one continent to another. In 2008, there was a cable
+that was actually cut near Alexandria, Egypt,
+which really interrupted the internet for most of
+the Middle East and India. So, we take this internet
+thing for granted. But, it's really a pretty
+fragile physical system. Fiber is awesome, but
+it's also really expensive and hard to work with. For most purposes, you're
+gonna find copper cable. But, how do we move things without wires? How do we send things wirelessly? Wireless bit-sending machines typically use a radio signal to send bits from one place to another. The machines have to actually translate the ones and zeroes into radio waves of different frequencies. The receiving machines reverse the process and convert it back into
+binary on your computer. So, wireless has made our internet mobile. But, a radio signal
+doesn't travel all that far before it completely gets garbles. This is why you can't
+really pick up a Los Angeles radio station in Chicago. As great as wireless is,
+today it still relies on the wired internet. If you're in a coffee shop using Wi-Fi, then the bits get sent
+through this wireless router and then are transferred
+to the physical wire to travel the really long
+distances of the internet. The physical method for sending bits may change in the future. Whether it's lasers
+sent between satellites or radio waves from balloons or drones. But, the underlying binary representation of information and the
+protocols for sending that information and
+receiving that information have pretty much stayed the same. Everything on the internet,
+whether it's words, emails, images, cat videos, puppy videos, all come down to these ones and zeroes being delivered by electronic pulses, light beams, radio waves, and, you know, lots and lots of love. (upbeat music)

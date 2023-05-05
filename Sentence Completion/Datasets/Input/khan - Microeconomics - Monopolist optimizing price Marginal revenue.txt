@@ -1,0 +1,51 @@
+>>Now that we figured
+out the total revenue given any quantity, and we've also been able to
+express it algebraically, I want to think about what
+the marginal revenue is at any one of these points. To think about marginal revenue, marginal revenue is just how much does our total revenue change, given some change in our quantity. Then later, we can use that so that we can optimize the profit for our monopoly over here. I'm going to try to do
+it without calculus. It actually would be very straightforward to do it with calculus because we're essentially
+just trying to find the slope at any point along this curve, but I'll try to do it algebraically and maybe it will even
+give you a little intuition for what we end up doing
+eventually in calculus. The first thing I want to do is essentially find the slope, the slope right over here. The best way to find the
+slope right over here is say how much does my total revenue change if I have a very small change in quantity? If I have a very small change in quantity, how much does my total revenue change? Let me think about it this way. The other ones I will
+be able to approximate a little bit easier. Let's think of it this way. If my quantity is 0, my total revenue is 0. That one's easy. If I increase my quantity very, very, very, very little, so let's just make it 0.001, what is going to be my total revenue? We could think about it
+in terms of this curve right over here, or we could just use this expression, which we derived from
+price times quantity, and we will get, I'll get my calculator out, if our quantity is .001, our total revenue is
+going to be negative ... Let me turn the calculator on. Total revenue is going to be -.001², squared, so that's that part, plus 6 times .001, 6 times .001. That's going to be our total revenue. It's going to be 0.005999. It's 0.00599. Now we can figure out or get a pretty good approximation for that marginal revenue
+right at that point. Our change in quantity is .001, so our ΔQ, this right over here is 0.001. That's our change in quantity, and our change in revenue is 0.00599, and so we just have to divide. We just have to divide
+.005999, that top one, our change in total revenue divided by our change in quantity, divided by .001. We get 5.99999. If you try it with even smaller numbers, if you tried this with .00000001, you'll get 5-point, and you'll get even more 9s going on. The closer that you get, the smaller your change in, and this is what you
+essentially do in calculus. You try to find a super
+small change right over here. This is essentially going to be 6. Our marginal revenue at this point is essentially going to be 6. What I want to do is I'm going to plot marginal revenue here on
+our demand curve as well or on this axis where we've already
+plotted our demand curve. When our quantity is 0, our marginal revenue, if we just barely increase quantity, the incremental total revenue we get is going to be 6. I'll just plot it. I'll just plot it right over there. That makes sense. The marginal benefit in the market is 6, right at that point. If we were to just sell
+a drop of orange juice or I guess we're selling
+oranges in this case, not juice, but if we were to sell
+a millionth of a pound of oranges, we would get the equivalent of roughly $6 per pound for that millionth of a pound because that's the marginal benefit for that very first
+incremental chunk of orange out there in the market, so it makes complete sense. Now let's think about the
+slope at these other points. These, I'm going to approximate. I could do it this way, but I'll just approximate it. I'll just approximate it
+by using other points. If I want to find the
+slope right over here, when our quantity is equal to 1, the slope would look like, the slope would look like that. I'm going to approximate it by finding the slope
+between these two points. I am going to approximate it, and actually, it's going to be a very good approximation. I'll do it later with calculus to show that it is a
+very good approximation. But I'm going to
+approximate it by the slope between these two points. Between those two points, our change in quantity is 2, and our change in total revenue is 8. Our change in total revenue is 8. When we produced 2, or 2,000 pounds, our total revenue was $8,000. So we have a change in total revenue of 8, or 8,000, I guess we could say, divided by a change in quantity of 2,000, so our marginal revenue at this point is 8 divided by 2, or
+8,000 divided by 2,000, which is $4 per pound. When our quantity is 1, our marginal revenue is $4 per pound. It is $4 per pound, just like that. Now, let's think about
+the marginal revenue when our quantity is 2. To do that, I'm going to find the slope
+between these two points. We really want to find
+the slope of that line, but it looks like the slope
+between these two points is a pretty good approximation. It's actually almost an exact number because of the way that
+this is just a parabola, so we can actually do this. But anyway, this is fairly straightforward. Once again, our change in quantity is 2, and our change in total revenue, our change in total revenue is, we're going from 5 to 9, which is 4. This was 9 right over
+here from the last video. Or you could say it's $4,000
+divided by 2,000 pounds gives you $2 per pound. Our marginal revenue right over here, if we have quantity of 2, is $2 per pound. Right at that point, for that incremental millionth of an ounce that we're going to sell them oranges, we're getting the equivalent of $2 a pound of increased total
+revenue from doing that. Let's just do one more point here, and I think you'll see why I'm only going to do one more point. If we try to go up here, and we try to figure out
+what is the marginal revenue or if we essentially say
+what is the slope there, how much do we get an increase in revenue if we just barely increase our quantity, and this is actually easier to look at. This is a maximum point right over here, in the calculus terms. The slope up there is 0. We can even see that by
+approximating the slope between the slope
+between these two points. We have some change in quantity, but we have no change in total revenue, so right at that point. Right over here, the slope is barely positive. Right at that point, the slope is 0, and then right past it, it becomes barely negative. But right at that point, our marginal revenue is 0. When our quantity is 3,000 pounds, our marginal revenue is 0. Then after that, our marginal revenue gets negative. Over here, our marginal revenue gets
+more and more negative. But something very interesting happens. When we plot our marginal revenue curve, or our line, in this case, we are getting a line, we are getting a line, we are getting a line
+that is twice as steep, twice as steep as our demand curve. This is actually generalizable. If we have a linear
+demand curve like this, it can be defined as a line, then your marginal revenue curve for the monopolist will also be a linear
+downward-sloping curve or downward-sloping line, and it will have twice the slope. This slope over here was -1. This slope over here is -2. For every increase in quantity, the price goes down by 2; increase in quantity,
+price goes down by 2; increase in quantity,
+price goes down by 2. This is marginal revenue. Let's remind our self, we've been doing all of this algebra and all of this math here, what is marginal revenue telling us? This was the demand curve. It tells us for any given price what quantity is demanded or for any given quantity, what is the incremental marginal benefit, or I guess what's the price at which they could sell that quantity. From that, we were able to figure
+out the total revenue as a function of quantity, and from that total revenue, we were able to say, well, look, if at any of these quantities, if we were to increase a little bit more, if we were to increase
+quantity a little bit more, how much is our revenue increasing? Obviously, we want to keep increasing quantity while our revenue is ... while the marginal
+revenue we get is larger than our marginal cost. I'll take that up in the next video.

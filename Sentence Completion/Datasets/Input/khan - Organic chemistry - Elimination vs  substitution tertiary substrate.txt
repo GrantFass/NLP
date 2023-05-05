@@ -1,0 +1,118 @@
+- [Interviewer] Let's look at elimination versus substitution for
+a tertiary substrate. For this reaction, we have
+a tertiary alkyl halide, and we know that a tertiary alkyl halide will form a tertiary carbocation, which is a stable carbocation, and therefore an SN1 reaction is possible. An SN2 reaction is not possible because this tertiary alkyl halide has too much steric hindrance
+to undergo an SN2 mechanism. An E1 mechanism is also possible because an E1 mechanism
+requires a stable carbocation. And an E2 reaction is also possible. So we have three choices
+for a tertiary substrate. Next you want to look at your reagent, and here we have sodium chloride, and we know that the chloride
+ion is a very weak base, and it's gonna function
+only as a nucleophile. So if we have a nucleophile here, we're gonna go with substitution reaction, so an SN1 reaction must be
+the case for this example. And we know, in an SN1 mechanism, first step should be
+loss of our leaving group for this tertiary alkyl halide,
+so we form the iodide anion, and we take a bond away
+from this carbon in red. We form a tertiary carbocation. Let me draw this in. We have our six-membered ring,
+we have our methyl group, and the carbon in red is this one. It gets a plus one formal charge, so a positive charge on this carbon. Once we've formed our carbocation, in the next step of our mechanism,
+our nucleophile attacks, and our nucleophile is the chloride ion. Lone pair of electrons on the chlorine are gonna form a bond
+with that carbon in red, and we end up with our product. Let me draw in our ring. We have a methyl group and we
+have a bond to a chlorine now, so let me highlight a lone
+pair of electrons in magenta, form this bond between the chlorine and the carbon in red. We don't have any stereochemistry
+to worry about here because we don't have any chiral centers. This was an SN1 mechanism. First we look at our substrate, and we can see that this
+is a tertiary alkyl halide. The carbon that is directly
+bonded to our halogen is bonded to three other carbons. So a tertiary alkyl halide
+is too sterically hindered to undergo an SN2 reaction,
+so immediately we know that that is out, and when we look at our reagent, this is
+potassium tert-butoxide. Let me draw out the structure for that. We would have a negative one
+formal charge on this oxygen, and this potassium would
+be a plus one charge. Potassium tert-butoxide
+is too sterically hindered to function as a nucleophile, so instantly we know that SN1 is out, and potassium tert-butoxide
+is a strong base, so we know that E1 is out. And that leaves an E2
+mechanism for this reaction. Let me draw the alkyl
+halide over here again. Let me put these in here. And we know that the carbon that's bonded to our halogen is our alpha carbon, and the beta carbons are bonded to that. So this would be a beta carbon,
+this would be a beta carbon, and this would be a beta carbon. Let's say our sterically
+hindered strong base comes along, and takes a proton from this beta carbon. So our base takes this proton, these electrons move into here. At the same time, these electrons come off onto the bromine to form the bromide ion. And we will get one
+product for this reaction, so let me draw it in here. We would now have a double bond, and let me show those electrons. The electrons in magenta moved into here to form our double bond. Let's say we took a proton
+from a different beta carbon. Let me redraw, let me just redraw this. I'll draw the alkyl
+halide in here like this, and again, we know that
+this is the alpha carbon, and let's take a proton
+from this beta carbon now. So I'll draw in a proton, and just think about our base coming
+along, so our base coming along with a negative
+charge, taking this proton. These electrons move into here. At the same time, these electrons come off onto the bromine, so
+that's our E2 mechanism. I'll draw the resulting alkene. There's a double bond in here this time. The electrons in magenta moved into here to form our double bond. When we look at our products,
+we know that the one on the right is actually more stable because the one on the right
+is a trisubstituted alkene, whereas the one on the left is
+only a disubstituted alkene. But when you're dealing with
+a sterically hindered base like potassium tert-butoxide, it turns out that the disubstituted, the less substituted,
+alkene is the major product. And that's just because our
+base is so sterically hindered. Also notice, if our base came along and took a proton from this beta carbon, we would get the same
+product as right here. Here's another tertiary substrate. So we know an SN2 mechanism is out, and when we look at our reagent,
+which is sodium methoxide, sodium has a plus one formal charge, and the oxygen has a
+negative one formal charge. The methoxide ion, we
+saw in an earlier video, is a strong nucleophile and a strong base. And whenever you think strong
+base, think E2 reaction. The E2 reaction is going to dominate here, and an E2 reaction means the methoxide ion is gonna function as a
+base and take a proton from our alkyl halide. Next we analyze our alkyl halide, the carbon bonded to our
+halogen is our alpha carbon, and the carbons directly bonded to the alpha carbon are the beta carbons. Here the beta carbons are identical, so I'm gonna say that's our beta carbon, and let's draw in one beta hydrogen. The methoxide ion comes
+along, so I'll draw that in, so we have a negative one formal charge on our oxygen. This is going to take this proton. At the same time, these electrons move in here to form our double
+bond, and these electrons come off to form our iodide
+ion as our leaving group. For our final product, we're gonna have a double bond here, and
+let's change colors again. The electrons in magenta moved into here to form our double bond. Since our beta carbons are all the same, this is the only product
+for this reaction. Here's the same tertiary alkyl halide we saw in the previous problem, so an SN2 reaction is out, and
+when we analyze our reagent, we know that water is a weak
+nucleophile and a weak base. And since water is a weak
+base, the E2 reaction is out. And that leaves the E1
+reaction and the SN1 reaction, which both proceed via a carbocation. Let's draw the carbocation
+that we would form. These electrons come off
+to form the iodide ion, and we take a bond away
+from the carbon in red to form our tertiary carbocation. Our tertiary carbocation
+has a plus one formal charge on our central carbon,
+so this carbon in red. If water acts as a weak
+base, water can take a proton from one of the carbons next
+door to the carbon in red. I will draw in a hydrogen on this carbon, and if water takes this proton, these electrons would move into
+here to form a double bond. So that's one of the possible
+products for this reaction. We form an alkene, and our
+electrons in magenta moved into here to form our double bond. That's when water acts as a weak base, and that would be an E1 mechanism, but we also have the possibility of an SN1 mechanism, so let's
+draw our carbocation again. Here's our carbocation. Our carbon in red is this one, with a plus one formal
+charge, and this time, we're gonna show water
+acting as a nucleophile. Let's draw in our water molecule with two lone pairs of
+electrons on the oxygen. The nucleophile attacks our electrophile, and we form a bond between the
+oxygen and the carbon in red. Let's draw that in here. Now we have a bond between our oxygen and our carbon in red, which is this one, so a lone pair of electrons on our oxygen formed that bond in here, and our oxygen is still bonded to two other hydrogens. It still has one lone pair of electrons on the oxygen, which gives the oxygen a plus one formal charge. And we would also need, in our next step, to have an acid-base reaction. Another molecule of water could come along and take one of these protons. In the interest of time and space, I'm just gonna write minus H plus here. We lose one of our protons
+and we form our product, which would be this tertiary alcohol. So we have two possibilities
+for this reaction. We could have either an E1 reaction, which would give us this alkene, or an SN1 reaction, which
+would give us this alcohol. For our last example, let's
+look at this tertiary alcohol. We know SN2 is out and we
+have a strong acid present, not a strong base, so
+an E2 reaction is out. And whenever you see a tertiary alcohol with something like sulfuric acid or phosphoric acid and
+heat, think E1 reaction. So we need to form a
+carbocation here, but before we do that, let's analyze
+the structure of our alcohol. The carbon bonded to the
+OH is our alpha carbon, and the carbons directly bonded to that are our beta carbons. I'll call this one beta
+one, this one beta two, and this one beta three. We can't have loss of a
+leaving group right away because the hydroxide ion
+is a poor leaving group, but our sulfuric acid
+is a source of protons, so our first step is to
+protonate the alcohol. The lone pair of electrons
+on the oxygen pick up this proton, and let's
+draw what we would form here. The oxygen would now be
+bonded to two hydrogens. Still has a lone pair of electrons and a plus one formal
+charge on the oxygen. These electrons here in magenta pick up this proton to form this bond. And now we are ready for
+loss of a leaving group. When these electrons
+come off onto the oxygen, they would make water, which
+we know is a stable molecule. It's a good leaving group. And now we're taking a bond
+away from this carbon in red. So now we're gonna form a carbocation. Let's draw in our carbocation. So actually, let me make this
+a better methyl group here, and our carbon in red is this one, so that gets a plus one formal charge. In our E1 mechanism we
+know we're gonna have a weak base come along and take a proton from one of the beta carbons. I'll go with beta three
+for this carbocation here. I'll draw in a hydrogen coming off of this carbon, let me
+mark it in blue here. This carbon in blue was this
+carbon on our starting alcohol. A weak base would have to be water. We just formed water in our previous step, so water comes along
+and takes that proton. Let's draw in our lone pairs of electrons. We're gonna take this
+proton, and these electrons are gonna move in here
+to form our double bond, and that would, of course, get rid of the formal charge on the carbon in red, and give us our product,
+which is an alkene. Let's draw that in here. Our electrons in magenta moved into here to form our double bond, and
+that's a trisubstituted alkene. What about if we took a proton from one of the other beta carbons? Going back over here to our picture of the tertiary alcohol,
+beta one and beta two would actually both give
+us the same product. So we'll just take one of them, and first I'd have to redraw
+my tertiary carbocation. Here it is. Plus one formal charge
+on the carbon in red. And I'll draw in a
+hydrogen on this carbon. So water is going to function as a base. Let me draw in our water molecule here. And it's gonna take this
+proton, and these electrons are gonna move in to form our double bond. So when we draw in our product, we're gonna have a double bond here, and our electrons in magenta
+would move into here. This is only a disubstituted alkene, so this would be the minor product. And the major product would be the trisubstituted alkene,
+which is the more stable one. So this is the major
+product for our E1 reaction.

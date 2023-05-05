@@ -1,0 +1,25 @@
+- [Voiceover] Let's get
+some practice taking sums of infinite geometric series. So we have one over here. And just to make sure that we're dealing with a geometric series, let's make sure we have a common ratio. So let's see, to go from the
+first term to the second term we multiply by 1/3,
+then go to the next term we are going to multiply by 1/3 again, and we're going to keep doing that. So we could rewrite the series as eight plus eight times 1/3, eight times 1/3, plus eight times 1/3 squared, eight times 1/3 squared. Each successive term we
+multiply by 1/3 again. And so when you look at
+it this way, you're like, okay, we could write
+this in sigma notation. This is going be equal to, so
+this, the first thing we wrote is equal to this, which is equal to, this is equal to the sum. And we could start at zero or at one, depending on how we like to do it. We could say from k is equal to zero. And this is an infinite series right here, we're just gonna keep on going forever, so to infinity of, well
+what's our first term? Our first term is eight. So it's going to be eight
+times our common ratio, times our common ratio 1/3 to the k power. Now, let me just verify
+that this indeed works. And I always do this
+just as a reality check, and I encourage you to do the same. So, when k equals zero, that
+should be the first term right over here. You get eight times 1/3 to the zero power, which is indeed eight. When k is equal to one, that's gonna be our second term here. That's gonna be eight times
+1/3 to the first power. That's what we have here. And so when k is equal to two, that is this term right over here. So these are all
+describing the same thing. So now that we've seen that we can write a geometric series in multiple
+ways, let's find the sum. Well, we've seen before and
+we prove it in other videos, if you have a sum from
+k equal zero to infinity and you have your first term a times r to the k power, r to the k power, assuming this converges, so, assuming that the absolute value of your common ratio is less than one, this is what needs to
+be true for convergence, this is going to be equal to,
+this is going to be equal to our first term which is a over one minus our common ratio, one minus our common ratio. And if this looks unfamiliar to you, I encourage you to watch the video where we find the formula,
+we derive the formula for the sum of an
+infinite geometric series. But just applying that over here, we are going to get, we are going to get, this is going to be
+equal to our first term which is eight, so that is eight over one minus, one minus our common ratio, over 1/3. And we know this is going to converge, because our common ratio, the magnitude, the absolute value of 1/3
+is indeed less than one. And so this is all going to converge to, this is going to converge to eight over one minus 1/3 is 2/3, which is the same thing
+as eight times 3/2, which is, let's see this could become, divide eight by two, that becomes four, and so this will become 12.

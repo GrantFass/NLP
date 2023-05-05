@@ -1,0 +1,72 @@
+- [Voiceover] We're going to talk about a really powerful way to analyze circuits called the Node Voltage Method. Before we start talking
+about what this method is, we're going to talk about a
+new term called a node voltage. So far, we already have the idea of an element has a voltage
+across it, and we refer to that as an element voltage, or
+if it's part of a circuit and it's a branch of a circuit, it'd be called a branch voltage. That's a voltage that's associated with a particular element. So now we have the idea of
+something called a node voltage. This is still a voltage,
+it's not anything strange, but if we go over to our circuit here, and we label the nodes. Let's start labeling the nodes,
+we'll call this node here where this junction between
+this resistor and this source, we'll call this node one. This is the junction between
+these two components here. There's another node that's
+these two resistors connected to this current source,
+and that's a single distributed node, so
+we'll call that node two. And down here, these three
+components are connected together in a junction, and that's node three. To define a node voltage,
+the first idea we need is to define a reference node,
+the idea of a reference node. A good choice for the
+reference node is usually one that's connected to the
+terminals of the power sources, or it's the node that's
+connected to a lot of branches, a lot of elements, and node three here is a good choice for a reference node. The way we mark that is with
+a symbol that looks like this, a ground symbol, that's
+called ground in this circuit. There's other kinds of ways
+to indicate a reference node. That's a common way. You can draw one that
+looks like the ground, connected to the ground. Sometimes you'll see it
+with just an upside-down T, like that, that's another
+way to draw a ground. This symbol on a schematic
+indicates the reference node. We've picked a reference node
+to be node three, down here. So, a node voltage is
+measured between a node and the reference node. In our case we have this voltage here, is the node voltage on
+node one, we'll call it V1. This voltage here is
+going to be called V2. And in particular, these
+voltages are measured with respect to node three,
+so there's the minus and plus and minus and plus. We're going to use these node voltages in the Node Voltage Method. First, what I want to do, I want to label my complements here. We're going to call this
+Vs, and make it 15 volts. This resistor's going to
+be R1, and we'll give it a value of 4kohms. We'll call this R2, and we'll
+give it a value of 2kohms. This is the same circuit
+that we analyzed when we did application of the fundamental
+laws in another video. Oh, and the last guy here,
+Is, current source Is, and we'll make that one 3 milliamps. We've analyzed this circuit before. We used Kirchoff's Laws,
+KVL and KCL, to figure out what the voltages and
+currents were in this circuit. We're going to do the same analysis, but this time we're
+going to use what we call the Node Voltage Method. It's basically the same application of the fundamental laws, we
+use Ohm's Law, Kirchoff's Laws, but it's in a really
+clever, organized way, that is really efficient. Whoever thought this up was pretty bright and I'm really glad
+that they wrote it down and shared it with us. What I want to do first is just write down what are the steps of this method? It's not a theory, it's
+a method, so it basically a sequence of steps that you go through to analyze the circuit. I'll write the list right here. First step is pick a reference node. We already did that. The second step is to
+name the node voltages. We already did that,
+we named our nodes V1, that node there is V1 and
+that node there is V2, with respect to the reference node, which is down there at node three. Whenever you talk about node voltages, there's always an assumption
+that one of the nodes is a reference node. The third step is to solve the easy nodes. I'll show you what that means in a second. The fourth step is to write KCL, Kirchoff's Current Law equations. The fifth step is to solve the equations. That's the Node Voltage Method, and we're going to go
+through the rest of this, we've done the first two steps. What does it mean to solve the easy nodes? The easy nodes are the
+ones that are connected directly to a source that
+goes to the reference node. That's an example of an easy node. So V1 is an easy node. So let's solve for V1. By inspection, I can say V1 is 15 volts. That's Step Three. The other node's not easy, the other node has lots of components and something interesting's
+going on over here. So this was step three. Let's label the steps. Here's the Step One. Here's Step Two. And here's Step Three. Now we're ready to go to Step Four, let me move up a little bit. Step Four is write the
+Kirchoff's Current Law equations directly from the circuit. We're going to do this in a special way, We're going to perform at
+this node here, at node two. We're going to write the
+current law for this. That means we got to
+identify the currents. There's a current, we'll
+call that a current, and that's a current. Let me give some names to these
+currents just to be clear. We'll call this one I1
+because it goes through R1. We'll call this one here, I2
+because it goes through R2. This one is already Is. Now let's write Kirchoff's
+Current Law just in terms of I, and we'll say all the
+currents flowing into the node add up to zero, so these
+two have arrows going out, so they're going to get negative signs when we write Kirchoff's Current Law. Let's do that right here. And we write I1 minus I2 minus Is equals to zero. So right now we're working on Step Four. This is the essence of
+the Node Voltage Method. This is where we do something new that we haven't done before. We're going to write these currents in terms of the node voltages. So we can write I1, I1 is
+current flowing this way through this current. I1 equals V1 minus V2 over R1. That's the current flowing in resistor R1, in terms of node voltages. The current flowing down through I2, now we have to subtract I2,
+so we just apply Ohm's Law directly, which means
+that the current in I2 is equal to V2 divided by R2. The last current is Is, minus Is. We'll write that in
+terms of Is, like that, and that equals zero. This means we have now
+completed Step Four. That is KCL written using the
+terminology of node voltages. We could check off that
+we've done Step Four.

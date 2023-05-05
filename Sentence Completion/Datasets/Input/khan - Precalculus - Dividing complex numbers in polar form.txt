@@ -1,0 +1,17 @@
+- [Narrator] So we are given
+these two complex numbers and we want to know what W sub one divided by W sub two is. So pause this video and see
+if you can figure that out. All right, now let's work
+through this together. So the form that they've written this in it actually makes it
+pretty straightforward to spot the modulus and the argument of each
+of these complex numbers. The modulus of W sub one we can see out here is equal to eight. And the argument of W sub one we can see is four Pi over three if we're thinking in terms of radians. So four Pi over three
+radians, and then similarly for W sub two its modulus is equal to two and its argument is equal to seven Pi over six. Seven Pi over six. Now, in many videos we have talked about when you multiply one complex number by another you're essentially transforming it. So you are going to
+scale the modulus of one by the modulus of the other. And you're going to
+rotate the argument of one by the argument of the
+other, I guess you could say you're going to add the angles. So another way to think about it is if you have the modulus of W
+sub one divided by W sub two. Well then you're just going
+to divide these moduli here. So this is just going to be eight over two which is equal to four. And then the argument of W sub one over W sub two. This is, you could imagine
+you're starting at W sub one and then you are going
+to rotate it clockwise by W sub two's argument. And so this is going to be four Pi over three minus seven Pi over six. And let's see what this is going to be. If we have a common
+denominator four Pi over three is the same thing as eight Pi over six minus seven Pi over six which is going to be equal to Pi over six. And so we could write this, the quotient W one divided by W two is going to be equal to if we wanted to write it in this form its modulus is equal to four. It's going to be four times cosine of Pi over six plus i times sine of Pi over six. Now cosine of Pi over
+six, we can figure out Pi over six is the same
+thing as a 30 degree angle. And so the cosine of that is square root of three over two square root three over two. And the sine of Pi over six we know from our 30, 60, 90 triangles is going to be one half. So this is one half. And so if you distribute this four this is going to be equal to four times square root of three over two is two square roots of three and then four times one half is two. So plus two i and we are done.

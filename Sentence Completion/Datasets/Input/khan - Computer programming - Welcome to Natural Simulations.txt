@@ -1,0 +1,26 @@
+Voiceover: The world is a beautiful place. Sometimes we walk outside
+and just revel in it, but other times, because we're programmers and we like to program everything, we walk outside, get inspired by it and then run home to program a simulation of the world around us. Be it's a leaf falling,
+spinning to the ground or maybe it's a fire
+burning in a dry forest. We can program simulations
+of all those things and we can do it here on Khan Academy using JavaScript, ProcessingJS,
+and a bit of math. In this course on natural simulations, we'll think about how and why things work the way they do in the real world, and then figure out how we
+can translate into code. We'll make many simple [cases] because the real world
+is filled with complexity and we don't always need
+to model that complexity in order to achieve a
+[machine] simulation. Of course our computers
+can only handle so much. Whenever a programmer simulates nature we'll always have to fall
+short of a 100% copy. Hey, I think you'll be really impressed with what we can do,
+especially in the browser. We'll start off by
+talking about randomness. A technique you've probably already used in your programs. Then noise, a more
+sophisticated form of that. We can use those to
+model motion of objects in the world, like
+somebody lost in the woods but most objects don't move randomly. Next we'll introduce vectors and forces, which you might have
+covered in physics class and figure out how to programmatically apply forces or objects
+so they can accelerate. Based on being pushed,
+and pulled, and repelled by everything around them. To make it so our objects
+can spin on their own axis while they're moving, we'll brush up on trigonometry and come up with formulas
+for angle acceleration. We can also use
+trigonometry to model things like pendulums and waves, which can really get pretty hypnotic. Finally, we'll create particle systems. Many objects moving together according to their own properties and the systems properties. That will let us model a natural phenomena like water, fire, smoke. Okay, so doesn't that sound awesome? Are you pumped? Are you throwing confetti in the air thinking about how soon you'll be able to program that confetti? I know the feeling and you're
+almost ready to dive in. First we want to give a huge
+shout out to Daniel Shiffman. Daniel's an NYU professor
+that teaches a course on natural simulations. He wrote NatureofCode.com, a whole book about it. Since he CC licensed that book we were able to put it over to JavaScript and bring it over here on Khan Academy, so that all of you can learn it here. Plus do coding challenges along the way. Without Daniel's book, we wouldn't have this exciting course. Now, ready, set, simulate!

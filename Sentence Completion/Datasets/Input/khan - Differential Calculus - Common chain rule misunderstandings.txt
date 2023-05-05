@@ -1,0 +1,51 @@
+What we're gonna do in this video is focus on key misunderstandings
+that folks often have, and we actually got
+these misunderstandings from the folks who write the AP exams, from the actual College Board. So let's say that we are trying to take the derivative of the expression. So let's say we're taking the derivative of the expression, the natural log of sine of x. So the first key misconception
+or misunderstanding that many people have is when you're dealing with transcendental functions like this, and transcendental functions
+is just a fancy word for these functions like
+trigonometric functions, logarithmic functions, that don't use standard
+algebraic operations. But when you see transcendental
+functions like this or compositions of them, many people confuse this with
+the product of functions. So at first when they look at this, they might see this as being the same as the derivative with respect to x of natural log of x, natural log of x, times sine of x. And you can see just the
+way that it's written, they look very similar, but this is the product of two functions. If you said natural log of x is f of x, and sine of x is g of x, this is the product of sine and g of x, sorry this is the product
+of f of x and g of x, and here you would use the product rule. So to actually compute this, you would use the
+product, the product rule. But this is a composition. Here you have f of g of x, not f of x times g of x. So here you have that is our g of x, it equals sine of x, and then our f of g of x is the natural log of sine of x. So this is f of g of x, f of g of x just like that. If someone asks you just what f of x was, well that would be natural log of x, but f of g of x is
+natural log of our g of x, which is natural log of sine of x. So that's the key first thing, always make sure whether you're gonna use, especially with these
+transcendental functions, that hey if this is a
+composition you've gotta use the chain rule, not the product rule. It's not the product. Now sometimes you have a combination, you have a product of compositions, and then things get a
+little bit more involved. But pay close attention to make sure that you're not dealing
+with a composition. Now the next misconception students have is even if they recognize, okay I've gotta use the chain rule, sometimes it doesn't
+go fully to completion. So let's continue using this example. The chain rule here says, look we have to take the
+derivative of the outer function with respect to the inner function. So if I were to say, in this case, f of x is natural log of x, f of g of x is this expression here. So if I wanna do this first part, f prime of g of x, f prime of g of x, well the derivative of
+the natural log of x is one over x. So the natural log,
+derivative of natural log of x is one over x, but we don't want the
+derivative where the input is x. We want the derivative
+when the input is g of x. So instead of it being one over x, it's gonna be one over g of x. One over g of x, and we know that g of x
+is equal to sine of x. That's equal to sine of x. Now one key misunderstanding
+that the folks of the College Board told us about is many students stop right there. They just do this first part, and then they forget to
+multiply this second part. So here we are not done. We need to take this and
+multiply it times g prime of x. And let me write this down. g prime of x, what would that be? Well the derivative of sine
+of x with respect to x, well that's just going to be cosine of x, cosine of x. So in this example right over here, the derivative is going to be, let's see if I can
+squeeze it in over here, it's going to be one over
+sine of x which is this part, times cosine of x. So let me write it down. It is going to be one over sine of x, we'll do that in that other color, one over sine of x, and then times cosine of x. So once again, just to make sure that you don't fall into one of these misconceptions. Let me box this off so it's a little bit, it's a little bit cleaner. So to just make sure that you don't fall into one of these misconceptions here, recognize the composition, that this is not the
+product of natural log of x and sine of x. It's natural log of sine of x. And then when you're actually
+applying the chain rule, derivative of the outside
+with respect to the inside, so the derivative of natural
+log of x is one over x, so that applied when the input is g of x is one over sine of x. And then multiply that
+times the derivative of the inner function. So don't forget to do
+this right over here. Now another misconception
+that students have, is instead of doing what we just did, instead of applying the
+chain rule like this, they take the derivative
+of the outer function with respect to the derivative
+of the inner function. So for example, they would compute this, f prime of g prime of x, f prime of g prime of x. Which in this case, f
+prime of x is one over x, but if the input is g prime of x, g prime of x is cosine of x. So many students end up doing this where they take the
+derivative of the outside, and they apply the input into that, they use the derivative
+of the inside function. This is not right. Be very careful that
+you're not doing that. You do the derivative
+of the outside function with respect to the inside function, not taking it's derivative, and then multiply, don't
+forget to multiply, times the derivative of
+the inside function here. So hopefully that helps a little bit. If all of this looks
+completely foreign to you, I encourage you to watch the whole series of chain rule introductory videos and worked examples we have. This is just a topping on top of that to make sure that you don't
+fall into these misconceptions of applying the product rule when you really need to
+be applying the chain rule or forgetting to do
+part of the chain rule, multiplying by g prime of x, or evaluating f prime of g prime of x. So hopefully that helps.

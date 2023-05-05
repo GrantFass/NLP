@@ -1,0 +1,54 @@
+Voiceover:Jamie's dad gave
+her a die for her birthday. She wanted to make sure it was fair, so she took her die to school
+and rolled it 500 times and kept track of how many times the die rolled each number. Afterwards, she calculated
+the expected value of the sum of 20 rolls to be 67.4, the expected value of the
+sum of 20 rolls to be 67.4. On her way home from
+school, it was raining, and 2 values were washed
+away from her data table. Find the 2 missing absolute frequencies from Jamie's data table. So you see here, she
+rolled her die 500 times, and she wrote down how
+many times she got a 2. She got a 2 110 times, a
+3 95 times, a 4 70 times, a 5 75 times, and then she had written
+down how many times she got a 1 and a 6, but
+then it got washed away, so we need to figure out how
+many times she got a 1 and a 6, given the information on
+this table right over here and given the information
+that the expected value of the sum of 20 rolls is 67.4. I encourage you to pause this video and think about it on your own before I give a go at it. So first, let's think about
+what this expected value, the sum of 20 rolls being 67.4 tells us. That means that the
+expected value of 1 roll, the expected value of the sum of 20 rolls is just 20 times the
+expected value of 1 roll. The expected value of a roll, let me do it here, expected value of a roll
+is going to be equal to 67.4 divided by 20. We can get our calculator out. Let's see. So we have 67.4 divided by 20 is 3.37. So this is equal to 3.37. So how does that help us? We know how to calculate an expected value given this frequency
+table right over here. If we say that this
+number right over here, let's say that's capital A and let's say that this
+number here is capital B, if we were to try to calculate
+the expected value of a roll, what we really want to do is
+take the weighted frequency of each of these values, the weighted sum. So, for example, if we got
+a 1 A out of 500 times, it would be A out of 500 times 1, times 1 plus, I'll do this in different colors, plus 110 out of 500 times 2, plus 110 out of 500 times 2. Notice, this is the frequency which was they got 2 times 2. We're taking a weighted
+sum of these values. And then plus 95 out of 500 times 3, plus 95 out of 500 times 3, plus, I think you see where this is going, 70 over 500 times 4, plus 70 over 500 times 4, almost there, plus, let's see, I haven't
+used this brown color, plus 75 over 500 times, I'll do it here, plus 75 over 500 times 5. Finally, plus B over 500, plus B over 500 times 6, this is going to give us our
+expected value of a roll, which is going to be equal to 3.37. So all of this is equal to 3.37. One thing that we can do, since we have all these 500s and this denominator right over here, let's multiply both sides
+of this equation times 500. If we do that, the left-hand side becomes, well, 500 times A over 500 is
+just going to be A plus 110, plus 110 times 2. So it's going to be 220. Plus 95 times 3, that's
+going to be 15 less than 300, so it's going to be plus 285, plus 285, and then 70 times 4 is 280, plus 280. 75 times 5 is going to be 350 plus 25, 375, so plus 375, plus 6B. let me make sure I'm not
+skipping any steps here, plus 6B is going to be
+equal to this times 500, and that is going to be
+equal to 3.37 times 500 is equal to 1,685, 1,685. All I did to go from this
+step right over here, which I set up saying here,
+this is the expected value of one roll, which we
+already know to be 3.37, is I just multiplied both
+sides of this equation by 500. I just did this times 500, and I did this times 500, and this 500 obviously
+cancels with all of these, and then 500 times 3.37 is 16.85, and so I got this right over here. Now, I got 1, 2, 3, 4, 5, 6. Yup, I did enough. I have the right number of terms. I just want to make sure I'm
+not making a careless mistake. If we want to simplify this, we can subtract 220, 285,
+280, and 375 from both sides. If we did that, we would get A, if we subtract that
+from the left-hand side, we're just going to get A plus 6B, A plus 6B. And on the right-hand side, we are going to get, let's get our calculator out, 1,685 minus 220, 220, minus 285 minus 280 minus 375 gets us to 525. So we get A plus 6B is equal to 525. You say, "OK, you did all that work, "but we still have one
+equation with 2 unknowns. "How do we figure out what
+A and B actually are?" We know something else, We know, and this is actually
+much easier to figure out, we know that the sum of this
+whole table right over here, A plus 110 plus 95 plus 70 plus 75 plus B is equal to 500. Or if we ... Let me write that down. So we know that A plus 110
+plus 95 plus 70 plus 75 plus B needs to be equal to 500. Or we could subtract 110
+plus 95 plus 70 plus 75 from both sides and get, if you subtract it from
+the left-hand side, you're just left with A plus B, A plus B, and on the right-hand side, if we start with 500, so 500 minus 110 minus 95 minus 70 minus 75 gets us to 150. So A plus B must be equal to 150, is equal to 150. Now we have a system of 2
+equations and 2 unknowns, and so we know how to solve those. We could do it by substitution or we could subtract the
+second equation from the first, so let's do that. Let's subtract the left-hand
+side of this equation from that or essentially, we could multiply this one times a negative 1 and then add these 2 equations. The As are going to cancel out, and we are going to be left with 6B minus B is 5B is equal to 375, is equal to 375. Did I do that right? If I add 125 to this, I get to 500, then another 25, I get to 525. So 5B is equal to 375, or if we divide both sides by 5, we get B is equal to 75. B is equal to 75. This right over here is equal to 75. If B is equal to 75, what is A? We know that A plus B is equal to 500. We figured that out a little while ago before we multiplied both sides of this times a negative 1. We knew that A plus B, when B is now 75, so we could say A plus 75, is equal to 150, and that's just from this, we figured out that A
+plus B is equal to 150 before we multiplied both
+sides times a negative. Subtract 75 from both sides, you get A is also equal to 75. And we are done.

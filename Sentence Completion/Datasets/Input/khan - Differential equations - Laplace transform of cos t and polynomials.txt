@@ -1,0 +1,97 @@
+In the last video, we showed
+that the Laplace transform of f prime of t is equal to s times
+the Laplace transform of our function f minus f of 0. Now, what we're going to do
+here is actually use this property that we
+showed is true. And use it to fill in some more
+of the entries in our Laplace transform table, that
+you'll probably have to memorize, sooner or later,
+if you use Laplace transforms a lot. But we already learned that the
+Laplace transform of sine of a t is equal-- and we did
+a very hairy integration by parts problems to show that
+that is equal to a over s squared plus a squared. So let's use these two things we
+know to figure out what the Laplace transform of
+cosine of a t is. So the Laplace transform
+of cosine of a t is equal to what? Well, if we assume that the
+Laplace transform of cosine of a t is the derivative of some
+function, what is it the derivative of? Right? Let me do it on the side. If f prime of t is equal to
+cosine of a t, what is a potential f of t? Well, it's the antiderivative. And we can just forget about the
+constant, because we just have to know nf of t for
+which this is true. So what's the antiderivative
+cosine of it? It's 1/a sine of a t. Right? So if this is f prime of t, then
+that is equal to s times the Laplace transform of its
+antiderivative, or 1/a sine of a t minus the antiderivative
+evaluated at 0. Minus 1/a sine of-- well,
+a times 0 is 0. Well, sine of 0 is 0. So this whole term goes away. This is a constant, right? This 1/a. And we showed that the Laplace transform is a linear operator. So we can take it out. So this is equal to s/a times
+the Laplace transform of sine of a t. And that is equal to
+s/a times a over f squared plus a squared. And the a's cancel out. And that was much simpler than
+the integration by parts we had to do to figure this out. So then we get that the Laplace
+transform of cosine of a t is equal to s over s
+squared plus a squared. And in three minutes, we filled
+in another table in our Laplace transform table. And now we have the two most
+important trig functions. Let's keep going. We haven't really done much
+with polynomials. We know a couple of things. We did this already. We know that the Laplace
+transform of 1 is equal to 1/s. So let's see if we could use
+this and the fact that the Laplace transform of f prime
+is equal to s times the Laplace transform of
+f minus f of 0. Or another way. Let's rearrange this. If we know f, how can we
+figure out some Laplace transforms in terms of
+f prime and f of 0? So let's just rearrange
+this equation. So we get the Laplace transform
+of f prime. I could write of t, but
+that gets monotonous. Plus f of 0 is equal to
+s times the Laplace transform of f. Divide both sides by s. Let me put the Laplace transform
+of-- and I'm also going to the sides. So I guess the Laplace
+transform-- my l's are getting funky. The Laplace transform of
+f is equal to 1/s. I'm just dividing both sides
+by s, so 1/s times this. Times the Laplace transform of
+my derivative plus my function evaluated at 0. And let's see if we can use this
+and this to figure out some more useful Laplace
+transforms. Well what is the Laplace
+transform of f of t is equal to t? Well, just use this property. This is going to be equal
+to 1/s times the Laplace transform of the derivative. Well, what's the derivative
+of t? The derivative of t is 1. So it's the Laplace transform
+of 1 minus f of 0. When t equals 0,
+this becomes 0. Minus 0. So the Laplace transform of t
+is equal to 1/s times the Laplace transform of 1. Well that's just 1/s. So it's 1 over s squared
+minus 0. Interesting. The Laplace transform of 1 is
+1/s, Laplace transform of t is 1/s squared. Let's figure out what the
+Laplace transform of t squared is. And I'll do this one in green. And maybe we'll see
+a pattern emerge. The Laplace transform
+of t squared. Well, it equals 1/s times the
+Laplace transform of it's derivative. So what's it's derivative? Times the Laplace transform of
+2t plus this evaluated at 0. Well, that's just 0. So this is equal to-- well
+we can just take this constant out. This is equal to 2/s times the
+Laplace transform of t. Well, what does that equal? We just solved it. 1/s squared. So it's 2/s times 1/s squared. So it's equal to 2/s
+to the third. Fascinating. Well, let me just
+do t the third. And I think then you'll
+see the pattern. The pattern will emerge. The Laplace transform. And this is actually
+kind of fun. I recommend you do it. It's somehow satisfying. It's much more satisfying than
+integration by parts. So the Laplace transform of t to
+the third is 1/s times the Laplace transform of it's derivative, which is 3t squared. Which is-- take the constant
+out because it's a linear operator. 3/s times the Laplace transform
+of t squared. So it equals what? What's the Laplace transform
+of t squared? It's 2/s to the third. So this equals 3 times 2 over
+what? s to the fourth. And you can put a t/n here and
+use an inductive argument to figure out a general formula. And that general formula
+is-- I think you see the pattern here. Whatever my exponent is, the
+Laplace transform has an s in the denominator with one
+larger exponent. And then the numerator is the
+factorial of my exponent. So in general, and this is one
+more entry in our Laplace transform table. The Laplace transform of t to
+the nth power is equal to n factorial over s to
+the n plus 1. That's a parenthesis. I guess I didn't have to write
+those parenthesis. That just confuses it. But anyway, when you see this in
+a Laplace transform table, it seems intimidating. Oh boy, I have n's and I have n
+factorials and all of that. But it's just saying with this
+pattern we showed, t to the third increase it by 1, so
+s the fourth, put another denominator and take three
+factorial on the numerator, which is 6, right? And that's all it is. So using the derivative property
+of Laplace transform, we figured out the Laplace
+transform of cosine of a t and the Laplace transform of really
+any polynomial, right? Because it's a linear
+operator. So now we know t to the
+nth power, t to the whatever power. And we can multiply
+it by a constant. So we know the basic
+trig functions. We know the exponential
+function. And we know how to take the
+Laplace transform of polynomials. See you in the next video.

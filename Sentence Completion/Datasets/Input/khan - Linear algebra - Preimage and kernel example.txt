@@ -1,0 +1,194 @@
+Let's say I have some
+transformation from R2 to R2. And it's essentially just a
+multiplication times a matrix. And we know that all linear
+transformations can be expressed as a multiplication
+of a matrix, but this one is equal to the matrix 1, 3, 2, 6
+times whatever vector you give me in my domain. Times x1, x2. Now let's say I have some
+subset in my codomain. So let me draw this
+right here. So my domain looks like that. It's R2. And of course my function or
+my transformation maps elements of R2 into elements
+of its codomain which also happens to be R2. I could show it mapping into
+itself, but for the sake of simplicity let's draw
+my codomain here. And our transformation of course
+maps, for any element here, the transformation of that
+will be an association or a mapping into R2. Now what if we take some subset
+of R2, and let's just say it's a set of two vectors,
+the zero vector in R2, and the vector 1, 2. So it's literally, let's
+say it's this point. Let me do it in a
+different color. Let's say this is my
+zero vector in R2. I'm not plotting them. I'm just showing that they're
+in this, they're in R2. That's my zero vector,
+and let's say the vector 1,2 is here. 1,2. What I want to know is, what are
+all of the vectors in my domain whose transformations
+map to this subset? Map to this point? So I want to know, I'm
+essentially, I want to know the preimage of S. So the preimage of S, let
+me be careful, the preimage of S under T. And I said be careful because
+when you say preimage of something without saying under
+something else, it implies that you're taking. Well when you say image of
+something, it implies you're taking the image of an entire
+transformation like I showed you, I think, two videos ago. But when you're taking the image
+or preimage of a set, you make sure you say under
+what transformation. So we want to know the preimage
+of this subset of our codomain under the
+transformation T. Let me write this as
+T inverse of S. And we saw in the last video
+this is all of the x, all of the elements in our domain where
+the transformation of those x's is a member of the
+subset of our codomain that we're trying to find
+the preimage of. Right? Now what is another way
+of writing this? Well this is, you can write this
+as, we're trying to look for all of the x's in our domain
+such that this, let's call this A, that matrix A. Such that A times x
+is a member of S. So that means A times x has to
+be equal to this or has to be equal to that. So that means A times our vector
+x has to be equal to the zero vector. Or A times our vector x has to
+be equal to this vector 1,2. This is the exact same
+statement as this one right here. I just made it a little bit more
+explicit in terms of our actual transformation,
+A times x. And in terms of what
+our actual set is. Our set is just two vectors. So if we want to determine
+the preimage of S. So we write that the preimage
+of S under T. That set there. We essentially have to just
+find all of the x's that satisfy these two equations
+right there. So this equation, so we have
+to find all of the x's that satisfy, the first one right
+here is the matrix 1, 3, 2, 6 times x1, x2 is equal
+to the zero vector. That's this equation
+right there. We need to find all of the
+solutions to that. And you might already
+recognize it. All of the solutions to this,
+all of the x's that satisfy this, is the null space
+of this matrix. I just thought I'd point
+that out on the side. Now, that's not the only one. We also have to solve
+this guy over here. I'll do that in blue. So the preimage of S under
+T is going to be all the solutions to this plus all of
+the solutions to 1, 3, 2, 6 times x1, x2 is equal to 1, 2. Now we can just solve this
+with an augmented matrix. So my augmented matrix would
+look like 1, 3, 2, 6, 0, 0. And here my augmented matrix
+would be 1, 3, 2, 6, 1, 2. Let's put this in reduced
+row echelon form. So let's replace our second row
+with our second row minus 2 times the first row. So what do we get? Our first row stays the same. 1, 3, 0. Let me do them simultaneously. Let me solve these systems
+in parallel. So my first system stays, first
+row stays the same. 1, 3, 1. And in both cases, because I
+just want to get the left hand side of my augmented matrix into
+reduced row echelon form, I can apply the same
+row operation. So I'm replacing my second row
+with 2 times my first row. So 2 minus 2 times 1 is 0. 6 minus 2 times 3 is 0. And of course 0 minus
+2 times 0 is 0. Here 2 minus 2 times 1 is 0. 6 minus 2 times 3 is 0. And 2 minus 2 times 1 is 0. So we get all these zeroes,
+and we're actually done. We have both of these augmented
+matrices in reduced row echelon form. And how do we go back to solve
+all of the x1's and x2's that satisfy these? Well you recognize that our
+first columns right here are pivot columns. And these are associated with
+our variable x1, so we know that x1 is a pivot variable. And we know that the second
+column is a non pivot column. Because it has no 1's in it. And so it's associated
+with x2. And since x2 isn't a pivot
+column, we know that x2 is a free variable. Which essentially means we can
+set x2 to be anything. So let's just set x2. x2 is equal to t, where t is
+a member of the reals. In this case what is x1
+going to be equal to? So here this top equation
+says, let me write it. If we just kind of go back to
+this world right here, this means that x1 plus 3x2 is
+equal to this 0 here. This top line right here says
+x1 plus 3x2 is equal to 1. And so if we say x2 is equal to
+t, this equation becomes x1 plus 3t is equal to 0. Subtract 3t from both
+sides, you get x1 is equal to minus 3t. And then this equation, you
+get x1 is equal to, if we substitute x2 with t, is x1
+is equal to 1 minus 3t. Now if we wanted to write the
+solution sets in kind of vector notation. The solution set for this guy
+right here, for this first equation right there, is going
+to be x1, x2 is equal to what? It's going to be equal to, you
+have your, well, x2 is just going to be equal to t times. It's just going to
+be equal to t. So let me just write it there. x2 is just t times 1. It's just equal to t. I made that definition
+up here. And then what's x1 equal to? It's equal to minus 3 times t. If I put a t out here as
+a scalar, it's just minus 3 times t. So this is a solution for
+this first equation. Some, where t is a member of the
+reals, So it's just scalar multiples of the vector
+minus 3, 1. And if we think of this position
+vector, this'll be a line in R2. And I'll draw that
+in a second. So that's a solution for
+this first equation. And then the solution for the
+second equation, how can we set this up? It's going to be, make sure you
+can see it, It is x1, x2, and let's see. x2 once again is
+just t times 1. Let me just write
+it like this. So it's t times 1. That's x2. Now what's x1? x1 is equal to 1 minus
+3 times t. So if we do a minus 3 that give
+us our minus 3 times t. But we need to do
+1 minus that. Or 1 plus minus 3 times t. So what we can do is, we could
+say that all the solution set here is equal to the vector 1,
+here, so now we have 1 plus minus 3 times t for x1. And here we could say is 0. x2 is equal 0 plus t. Or x2 is equal to t. So this is the solution set
+for the second equation. So our preimage of S. Remember S was just these two
+points in our codomain. The preimage of S under T is
+essentially all of the x's that satisfy these
+two equations. And let's actually
+graphs those. Let me turn on my graphs. That makes it look a little
+bit messy, but let me graph it down here. Let me copy and paste
+my two results. Then I want to paste it. So those are my two results. Put my pen back on. And now what I can do is I
+can graph it right here. So let's see. The solution set for that first
+equation is all the multiples of the vector
+minus 3, 1. So the vector minus 3,
+1 looks like this. Looks like that. That's the vector minus 3, 1. But my solution set
+is all the scalar multiples of minus 3, 1. This is a comma right here. Right? So if I just take all the scalar
+multiples of minus 3, 1, it's going to
+look like this. So if you take 2 times
+it, you're going to have minus 6, 2. So you're going to
+get like that. So it's going to be all of
+these points right here. I wish I could draw a little
+bit neater, but I think you get the idea. It's going to be a
+line like that. That is that solution
+set right there. And then what is this solution
+set right here? It's the vector 1, 0. So we go out 1 and 0,
+so that's there. Plus scalar multiples
+of minus 3, 1. So plus scalar multiples
+of this. So if we just had 1 scalar
+multiple of minus 3, 1 we'll end up right there. But we want to put all the
+scalar multiples of it, because we have this
+t right here. So we're going to end up with
+another line with the same slope essentially, that's just
+shifted a little bit. It's shifted 1 to the right. Now what why did we
+do all of this? Remember what we wanted to find
+out is, what were all of the vectors, let me turn off the
+graph paper, in our domain that when we apply the
+transformation, map to vectors within our subset
+of our codomain. Map to either 0, 0 or
+the vector 1, 2. And we've figured all of those
+vectors out by solving these two equations. And we are able to see that
+these two lines, so when I turn my graph paper on, they
+map to the points. So when these guys, when you
+apply the transformation, I'll draw it all on the same graph. They map, when you apply the
+transformation, to the point 0, 0 and to the point 1, 2. Which was right here. So all of these points, when you
+apply the transformation, and actually all the ones in
+the blue, they map to 0, 0. Because we solved this
+top equation. And all the ones in orange,
+when you apply the transformation, map
+to the point 1, 2. Now this blue line right here. This has a special
+name for it. And I actually touched on is it
+a little bit before, right? Everything in this
+blue line, right? If I call this set right here,
+I don't know, let's call it B for blue. This is the blue line. That's this set of vectors
+right here. Everything there, when I apply
+my transformation of those blue vectors, or if I take the
+image of my blue set under T, it all maps to the
+zero vector. It equals the set of the zero
+vector right there. We saw that right there. And I remember when, well
+earlier in the video I pointed out that, look , this
+set right here. This is equivalent to the
+null space, right? The null space of a matrix is
+all the vectors that if you multiply it by that
+matrix, you get 0. So this is a similar
+idea here. This transformation is
+defined by a matrix. And we're saying, what are all
+of the x's that when you transform them you get
+the zero vector? And so this idea, this blue
+thing right here, it's called the kernel of T. Sometimes it's written just
+shorthand K-E-R of T. And this literally is all of the
+vectors that if you apply the transformation, let
+me write it this way. It's all of the vectors in our
+domain, which was R2, such that the transformation of those
+vectors is equal to the zero vector. There this is the definition
+of the kernel. And if the transformation is
+equal to some matrix times some vector, and we know that
+any linear transformation can be written as a matrix vector
+product, then the kernel of T is the same thing as the
+null space of A. And we saw that earlier
+in the video. Anyway, hopefully you found
+that reasonably useful.

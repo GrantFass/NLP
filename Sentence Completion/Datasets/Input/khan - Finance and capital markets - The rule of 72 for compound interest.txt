@@ -1,0 +1,65 @@
+>>In the last video, we
+talked a little bit about compounding interest, and
+our example was interest that compounds annually, not continuously, like we would see in a lot of banks, but I really just wanted
+to let you understand that although the idea is simple, every year, you get 10% of the money that you started off with that year, and it's called compounding
+because the next year, you get money not just
+on your initial deposit, but you also get money or
+interest on the interest from previous years. That's why it's called
+compounding interest. Although that idea is pretty simple, we saw that the math
+can get a little tricky. If you have a reasonable calculator, you can solve for some of these things, if you know how to do it, but it's nearly impossible
+to actually do it in your head. For example, at the end of the last video, we said, "Hey, if I have
+$100 and if I'm compounding "at 10% a year," that's
+where this 1 comes from, "how long does it take for
+me to double my money?" and end up with this equation. To solve that equation, most calculators don't
+have a log (base 1.1), and I have shown this in other videos. This, you could also say x = log (base 10) 2 / log (base 1.1) 2. This is another way to
+calculate log (base 1.1) 2. I say this ... Sorry. This should be log (base 10) 1.1. I say this because most calculators have a log (base 10) function, and this and this are equivalent, and I have proven it in other videos. In order to say, "How long does it take "to double my money at 10% a year?" you'd have to put that in your calculator, and let's try it out. Let's try it out right here. We're going to have 2, and we're going to take
+the logarithm of that. It's 0.3 divided by ... divided by ... ... I'll open parenthesis
+here just to be careful ... ... divided by 1.1 and
+the logarithm of that, and we close the parentheses, is equal to 7.27 years,
+so roughly 7.3 years. This is roughly equal to 7.3 years. As we saw in the last video, this not necessarily trivial to set up, but even if you understand the math here, it's not easy to do this in your head. It's literally almost impossible
+to do it in your head. What I will show you is a rule to approximate this question. How long does it take for
+you to double your money? That rule, this is called the Rule of 72. Sometimes it's the Rule
+of 70 or the Rule of 69, but Rule of 72 tends to
+be the most typical one, especially when you're
+talking about compounding over set periods of time, maybe not continuous compounding. Continuous compounding, you'll get closer to 69 or 70, but I'll show you what I mean in a second. To answer that same question, let's say I have 10% compounding annually, compounding, compounding annually, 10% interest compounding annually, using the Rule of 72, I
+say how long does it take for me to double my money? I literally take 72. I take 72. That's why it's called the Rule of 72. I divide it by the percentage. The percentage is 10. Its decimal position is 0.1, but it's 10 per 100 percentage. So 72 / 10, and I get 7.2. It was annual, so 7.2 years. If this was 10% compounding monthly, it would be 7.2 months. I got 7.2 years, which
+is pretty darn close to what we got by doing
+all of that fancy math. Similarly, let's say that I am compounding ... Let's do another problem. Let's say I'm compounding 6. Let's say 6% compounding annually, compounding annually, so like that. Well, using the Rule of 72, I just take 72 / 6, and I
+get 6 goes into 72 12 times, so it will take 12 years
+for me to double my money if I am getting 6% on my money compounding annually. Let's see if that works out. We learned last time the
+other way to solve this would literally be we would say x. The answer to this should be close to log, log base anything really
+of 2 divided by ... This is where we get the
+doubling our money from. The 2 means 2x our money, divided by log base
+whatever this is, 10 of, in this case, instead of
+1.1, it's going to be 1.06. You can already see it's a
+little bit more difficult. Get our calculator out. We have 2, log of that
+divided by 1.06, log of that, is equal to 11.89, so about 11.9. When you do all the fancy math, we got 11.9. Once again, you see, this is a pretty good approximation, and this math, this math
+is much, much, much simpler than this math. I think most of us can
+do this in our heads. This is actually a good
+way to impress people. Just to get a better sense of how good this number 72 is, what I did is I plotted on a spreadsheet. I said, OK, here is the
+different interest rates. This is the actual time
+it would take to double. I'm actually using this formula right here to figure out the actual,
+the precise amount of time it will take to double. Let's say this is in years, if we're compounding annually, so if you get 1%, it will take you 70 years
+to double your money. At 25%, it will only take
+you a little over three years to double your money. This is the actual, this is the correct, this is the correct, and I'll do this in blue, this is the correct number right here. This is actual right there. That right there is the actual. I plotted it here too. If you look at the blue line, that's the actual. I didn't plot all of them. I think I started at maybe 4%. If you look at 4%, it takes you 17.6 years
+to double your money. So 4%, it takes 17.6 years
+to double your money. That's that dot right there on the blue. At 5%, it takes you, at 5%, it takes you 14
+years to double your money. This is also giving you an appreciation that every percentage really does matter when you're talking about
+compounding interest. When it takes 2%, it takes you 35 years
+to double your money. 1% takes you 70 years, so you double your money twice as fast. It really is really important, especially if you're thinking about doubling your money, or
+even tripling your money, for that matter. Now, in red, in red over here, I said what does the Rule of 72 predict? This is what the Rule ... So if you just take 72
+and divide it by 1%, you get 72. If you take 72 / 4, you get 18. Rule of 72 says it will take you 18 years to double your money
+at a 4% interest rate, when the actual answer is 17.7 years, so it's pretty close. That's what's in red right there. That's what's in red right there. You can see, so I have plotted it here, the curves are pretty close. For low interest rates, for low interest rates, so that's these interest rates over here, the Rule of 72, the Rule of 72 slightly, slightly overestimates
+how long it will take to double your money. As you get to higher interest rates, it slightly underestimates
+how long it will take you to double your money. Just if you had to think about, "Gee, is 72 really the best number?" this is what I did. If you just take the interest
+rate and you multiply it by the actual doubling time, and here, you get a bunch of numbers. For low interest rates, 69 works good. For very high interest
+rates, 78 works good. But if you look at this, 72 looks like a pretty good approximation. You can see it took us
+pretty well all the way from when I graphed here,
+4% all the way to 25%, which is most of the
+interest rates most of us are going to deal with
+for most of our lives. Hopefully, you found that useful. It's a very easy way
+to figure out how fast it's going to take you
+to double your money. Let's do one more just for fun. I have a, I don't know, a 4 ... well, I already did that. Let's say I have a 9% annual compounding. How long does it take me for me to double my money? Well, 72 / 9 = 8 years. It will take me 8 years
+to double my money. The actual answer, if this is using ... This is the approximate
+answer using the Rule of 72 The actual answer, 9% is 8.04 years. Once again, in our
+head, we were able to do a very, very, very good approximation.

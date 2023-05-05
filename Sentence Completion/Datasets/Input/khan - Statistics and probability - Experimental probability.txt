@@ -1,0 +1,54 @@
+- [Voiceover] There's a
+lot of times, there's a lot of situations in which
+we're studying something pretty straightforward and we can find an exact theoretical probability. So what am I talking about? Just let me write that down. Theoretical probabiity. Well, maybe the simplest example, or one of the simplest examples is
+if you're flipping a coin. And let's say in theory you're flipping a completely fair coin and you're flipping it in a way
+that is completely fair. Well, there you know
+you have two outcomes. Either heads will be on top
+or tails will be on top. So theoretically you say, "well, look, "if I want to figure out the probability "of getting a heads, in theory I have two "equally likely possibilities, and heads "is one of those two equally
+likely possibilities." So you have a 1/2 probability. Once again, if in theory the coin is definitely fair, it's a
+fair coin and it's flipped in a very fair way, then this is true. You have a 1/2 probability. We could also do that with rolling a die. A fair six-sided die is
+going to have six possible outcomes: one, two,
+three, four, five and six. And if you said "what is
+the probability of getting "a result that is greater
+than or equal to three?" Well, we have six equally
+likely possibilities. You see them there. In theory, if they're all equally likely, four of these possibilities
+meet our constraint of being greater than or equal to three. We have four out of the six of these possibilities meet our constraints. So we have a 2/3, 4/6 is the same thing as 2/3, probability of it happening. Now these are for simple things, like die or flipping a coin. And if you have fancy computers or spreadsheets you can even say "hey, "I'm gonna flip a coin a bunch of times "and do all the
+combinatorics" and all that. But there are things that are even beyond what a computer can find the exact theoretical probability for. Let's say you are playing a game, say football, American football, and you wanted to figure
+out the probability of scoring a certain number of points. Well that isn't very
+simple because that's going to involve what human beings are doing. Minds are very unpredictable, how people will respond to things. The weather might get involved. Someone might fall sick. The ball might be wet,
+or just how the ball might interact with some player's jersey. Who knows what might actually result in the score being one point this way, or seven points this way,
+or seven points that way. So for situations like
+that, it makes more sense to think more in terms of
+experimental probability. In experimental probability,
+we're really just trying to get an estimate of something happening, based on data and experience
+that we've had in the past. For example, let's say you had data from your football team and it's
+many games into the season. You've been tabulating
+the number of points, you have a histogram
+of the number of games that scored between zero and nine points. You had two games that scored between zero and nine points. Four games that scored
+from ten to 19 points. You had five games that
+went from 20 to 29 points. You had three games that
+went from 30 to 39 points. Then you had two games that
+go from 40 to 49 points. Now let's say for your
+next game, let's see how many games you've had so far. The game so far is two plus four plus five plus three plus two, so this is six, plus five is 11. Eleven plus five is 16. So you've had 16 games so far this season and you're curious, for your 17th game, you want to figure out,
+what is the probability your points are greater
+than or equal to 30? The probability your
+points are greater than or equal to 30 for game 17. Once again, this is very hard to find the exact theoretical probability. You don't know exactly, you
+can't predict the future. You don't know who's gonna show up sick, how humans are going to
+interact with each other. Maybe someone screams
+something in the stand that just phases the quarterback in exactly the right or the wrong way. You don't know. This is an incredibly, incredibly complex system, what might happen over the course of an entire football game. But you can estimate what'll happen based on what you've seen in
+your past experience. It depends on the defense of the team you're facing and all that. So it's not going to be super exact, but you could estimate,
+based on experiments, based on what you've seen in the past. Here, the experimental probability, and I would say the estimate, because you shouldn't walk away saying, "okay, we absolutely know for sure "that if we conducted this next game "experiment n times that it's definitely "gonna turn out the same." Because this might be the toughest defense that you play all year, this might be the easiest defense
+that you play all year. But if you look at what's happened in the past, out of the 16 games so far, there have been three games, these three plus these two games, where you scored greater than or equal to 30 points. So five out of the 16 situations, you've scored more than that. An estimate of your probability, you could view this as maybe your
+experimental probability, of scoring more than
+30 points based on past experience, based on
+past experience, is five, five out of the 16 games
+you've done this in the past. So you'd say it's 5/16. Now I want to really have you take this with a grain of salt. You should not say "okay, I know for sure "there's a 5/16 probability
+of us winning this game." Because you only have some data points, every team you play is
+going to be different, it's going to be different
+weather conditions, people are going to be in
+different moods, etc., etc. This is really just an estimate. I feel a little bit of reservations even calling it a probability. I would just say that this has been true of five out of 16 games in the past. So it's an indicator of what might be. You might say, "okay, based
+on experience, it's more "likely than not that we don't
+score more than 30 points." But it's really just based
+on experiential data, what's happened in the season. Even the makeup of your football team might have changed. You might have gotten a different coach, you might have learned to train better. Who knows, one of your team members might have grown by three inches. All of these things. So all of this has to be
+taken with a grain of salt. But this is one way of thinking about it. At least having a sense
+of what may happen.

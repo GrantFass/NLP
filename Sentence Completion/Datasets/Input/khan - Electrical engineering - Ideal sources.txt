@@ -1,0 +1,20 @@
+- There's two kinds of ideal
+sources we're gonna talk about. One is an ideal voltage source, and the other is an ideal current source. A ideal voltage source, the symbol is, looks like a circle like that. We put a voltage indication
+right inside there and that's called V. And this is a constant voltage, what I've shown here
+is a constant voltage. And that come from a power supply or it could come from a battery. When it comes from a battery, we have a special symbol for that, the battery symbol looks like this and the convention for
+this, we also label it V. The convention for the
+polarity of a battery symbol is the long line there
+is the plus terminal and the short line right there, that guy is the minus terminal. So that's the convention for a battery. The other type of ideal source
+is called a current source and it also has a symbol with a circle and this one we put an arrow and it goes in the
+direction of the current. The current symbol is I. It can look like that or we could point the arrow
+the other way, like that, depending on how the application goes. And that's an ideal current source. And those are the two
+symbols for constant current. One of the things we can do, we can plot these, we can plot
+theses two voltage sources, the voltage source and the current source. We can plot them on a curve that has coordinates
+as voltage and current. So this would be called an IV curve or an IV plot that we're about to do here. For a constant voltage source, the voltage doesn't change. The current goes up and down, depending on what the rest
+of the circuit demands, but the voltage is the same everywhere, so it plots something like this. That would be the IV plot
+of a constant voltage, where V equals some constant V. And if we wanna plot our
+constant current source on this kind of IV plot,
+this would be something where the current is always the same, the current is the same,
+independent of the voltage. And so a plot of that for a positive current
+would look like this and we would say something
+like I equals a constant I. So that's the IV plot of a current source and the IV plot of a voltage source. Alright, these are the two basic ways we deliver power or signals into circuits. Now we have a complete set of elements that we can build things with.

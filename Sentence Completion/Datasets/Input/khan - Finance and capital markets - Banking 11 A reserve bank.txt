@@ -1,0 +1,180 @@
+Everything we've covered so far
+dealt in a world of only one bank and we all know that
+there are more than one bank in this world. Let's see what happens
+in that example. So I've drawn the balance sheets
+for three hypothetical banks in a world where gold is
+the reserve currency and let's see what happens
+in that world. So let me show you all of the--
+so that's the first one and that's the last one. They all didn't fit on the
+screen, but just so you understand and a bit of review
+of what we covered in the last several videos, in these balance
+sheets, of course the left side are the assets, the
+right-hand side, up until here, is liability. So from here to here,
+that's liabilities. And what's left over
+is the equity. So in every balance sheet, just
+to be consistent, I made this blue color equal
+to the equity. Let me write that down. And just to be consistent, I
+made this little orange color the building, brown
+for building. And this yellow or this gold
+color-- that's actually the gold reserves of that bank. And each of these lines, these
+divide the various other assets of the bank. In this case, they're just
+loans, maybe to different entrepreneurs. And then these green lines
+separate the different demand deposits or checking accounts
+that are with that bank and then the green-- this filled in
+green, for example, in this middle bank-- that shows
+its notes outstanding. Remember, there's two ways that
+you could essentially give someone an IOU
+from this bank. One is to say, oh, you have a
+checking account and you can write checks against it. The other way is to issue this
+bank note and someone can come back later with this bank note
+and you should have to give them an equivalent
+amount of gold. So in this middle bank, this
+green area, that shows its bank notes outstanding. This purple area in this bank,
+that's its bank notes outstanding. And then down here, this
+off-white color is its bank notes outstanding. Fair enough. We've created a world
+with three banks Now what is the problem here
+or, are there any problems? Well, there are a couple
+that I see immediately. The first is, all of
+them might have different reserve ratios. In the last video, I kind of
+talked about a world with regulation, but let's say in
+this world, since every bank is kind of a separate
+entrepreneur, maybe it was originally the goldsmith, they
+all just made their own rule of thumb that if I have this
+amount of demand deposits based on how my customers act
+or whatever or based on my liabilities or however it works,
+I'm going to keep this amount of gold. So maybe this guy's reserve
+ratio-- I don't know what the ratio of this to this is, but
+maybe his reserve ratio is 8%. So for every 100 gold pieces
+of demand deposits and bank notes, he keeps eight gold
+pieces on reserve. Maybe this guy is 10%. Looks a little bit better. Maybe this guy up here is
+keeping a 12% reserve ratio. So there's no consistent
+reserve ratio. So let me write that down. And there's a couple things
+that that might lead to. Maybe this guy right here, he
+was the first bank to start-- or maybe this guy. This guy had a 12% reserve
+ratio-- and people really trusted it for a long time. Every time they deposited money
+and then they came back later, they were able
+to find it. He really lent money
+really well. So that there was never any
+scare on this bank. No one ever felt afraid to
+keep their deposit there. But as the banking business got
+more and more profitable, more and more risky people
+showed up and this guy only has an 8% reserve ratio. And maybe one day, 9% of their
+checking accounts want their money back and this guy's
+not good for it. This guy up here, the 12% guy,
+he knew that 9% could happen. That on any given day 9% of
+your demand deposits might want their gold back. So that's why he kept 12%. But this guy kept an 8% so he
+could get extra interest on more loans. So one day, he can't
+give his gold back and that scares everyone. So everyone comes and you have
+a run on this bank, but he's not the only bank. Everyone starts having less
+trust in the banking system as a whole and so there are runs
+on all of these banks. And that's unfortunate
+for two reasons. One, these guys were
+safe to begin with. They kept enough reserve
+ratio so that people could get their gold. And then the other sad thing
+about it is, if this guy just needed another 1%-- I keep going
+off the video screen-- if this guy just needed another
+1% of gold, he could have borrowed it from that top
+guy and then you would have prevented this whole
+banking crisis. He could have borrowed it
+from either this guy or that guy, right? If this guy's gold gets depleted
+and more people still want money, this guy would
+clearly rather lend the money to this guy as long as he's
+still solvent than have a systemic run on all banks. Bank runs affect everyone. So in this world that we're
+dealing with right now, just one weak link in the chain can
+break the whole chain. If you just have one
+irresponsible bank, it'll create a bank run on all of them
+even though some of the more capital rich banks could
+have lent to the other ones. And then finally-- and I did
+this here and this is a situation that we're not
+familiar with today, but it's a situation that's happened
+many times in history. It happened in the colonies
+before we had our independence. Is that you had a bunch of
+different banks each issuing their own bank notes as
+a form of currency. So this one up here issues the
+purple bill, this bank here issues a green bill, and this
+bank here issues this off-white bill. Besides the confusion, you're
+always going to have all these exchange rate differences,
+et cetera, et cetera. You don't know ahead of time--
+this guy's the riskiest bank so maybe his bills should be
+worth a little bit less than this guy up here. But you don't have-- it really
+just becomes a big mess to the economy for someone in a cash
+register to keep track of. In this case, I only have three
+banks, but imagine if all 13 colonies each had their
+own banks that were each issuing their bank notes and
+you always had to translate between them. And then one bank defaults and
+their bank notes are worth nothing and you have to
+worry about that. So you have another problem;
+inconsistent currency. Inconsistent paper currency. And I think you know where
+I'm going with this. So what's the solution
+to all of this? Well, what if there were a way--
+and I guess you could do this without any extra
+institutions. You could just regulate
+reserve ratios. So that's easy to do. That's just government
+intervention. Just say, if you want to be a
+bank in our world, you have to keep at least 10%
+reserve ratios. But we have to think about who
+regulates that and who sets that reserve ratio, but it's
+fair enough that we need someone to regulate it. We don't need a separate
+institution. But how could we do this
+mechanism where we can prevent bank runs? Especially when there's
+money to lend from one bank to the other. And if we could use a mechanism
+that prevents this and provides a consistent
+currency, then we're all set. Well, the only way you can
+provide a consistent currency is if you only had one bank
+issuing currency. So let's call that bank
+a reserve bank. There you go. So let's say these three banks
+get together-- all the banks in this world get together and
+say, let's start a new institution where we all keep
+our gold reserves there. So what happens is, this guy,
+this guy, this guy, they all keep their gold reserves
+at this central bank. And now with these guys,
+instead of having gold reserves here, what
+do they have? They have checking accounts
+with the reserve bank. Let me write that down. Let me erase the top of that
+balance sheet just because I don't want to make
+things confusing. So that's the balance sheet that
+our reserve bank now has. Now what does this do? Well, it definitely solves that
+bank run problem because now in this world-- and of
+course we're regulating it now-- and I kind of threw that
+out there because this guy will be the regulator. This central bank will be the
+regulator, but what you could say now-- is if for some
+reason-- let's say 11% of these demand deposits come due,
+11% of these people want their money all of a sudden--
+this guy, he just has to go to his reserve bank account and he
+can borrow from one of the other players. The gold is all centrally
+in one place. Now the notes issue-- how
+do we solve that? Well, what if by government law,
+from now on only one bank can issue bank notes and that's
+this central bank. Let's say this middle guy--
+instead of having just a checking account, maybe he took
+half of it as a checking account and half of his gold
+deposits, he gets in these bank notes of this
+reserve bank. So now these turn into bank
+notes of the reserve bank and these bank notes of the reserve
+bank are the only currency that's allowable. So we've already solved two
+problems. We've solved an inconsistent currency. And now think about what
+starts to happen. The reserves of these banks
+no longer become gold. The reserves at the banks that
+people actually interact with now become these bank notes, the
+bank notes of this central reserve bank. And this gold is just sitting in
+some big vault someplace in this world right now. So let's just-- I know it's a
+little bit disjointed-- so reserve ratios. Now you have a central banking
+authority where they all chipped in a little bit of
+money, created this big vault, and this central bank dictates
+reserve ratios. It prevents bank runs because if
+for whatever reason-- let's say on some day all of this
+bank's customers get scared and want their gold back, this
+bank can just go to its checking account and borrow gold
+from the other banks and it'll get transferred to it. But if you think about it, in a
+world where people get used to enough of this one central
+bank note, then people probably won't even want
+that gold back. They'll probably start viewing
+this one currency as the equivalent of gold. So when people actually want
+their money back, they don't even have to give gold. They can just give bank notes,
+but there's this one consistent bank note now from
+this central reserve bank. Anyway, I think I said the word
+central and reserve too much, but I will see you
+in the next video. Hopefully it wasn't too
+complicated and I think you see where this is going. We'll slowly extend this to
+getting off the gold standard and how this relates to the
+Federal Reserve or central banks as we know them today. See you soon.

@@ -1,0 +1,148 @@
+Let's do a little compare and
+contrast between the dot product and the cross product. Let me just make two vectors--
+just visually draw them. And maybe if we have time,
+we'll, actually figure out some dot and cross products
+with real vectors. Let's call the first one--
+That's the angle between them. OK. So let's just go over the
+definitions and then we'll work on the intuition. And hopefully, you have a little
+bit of both already. So what is a dot b? Well first of all, that's the
+exact same thing as b dot a. Order does not matter when you
+take the dot product because you end up with just a number. And that is equal to the
+magnitude of a times the magnitude of b times cosine
+of the angle between them. Let's look at the definition
+of the cross product. What is a cross b? Well first of all, that does
+not equal b cross a. It actually equals the opposite
+direction, or you could view it as the negative
+of b cross a. Because the vector that you end
+up with ends up flipped, whichever order you do it in. But a cross b, that is equal to
+the magnitude of vector a times the magnitude of vector
+b-- so far, it looks a lot like the dot product, but this
+is where the diverge is-- times the sine of the
+angle between them. The sine of the angle
+between them. And this is where it
+really diverges. When we took the dot
+product, we just ended up with a number. This is just a number. There's no direction here. This is just a scalar
+quantity. But the cross product, we take
+the magnitude of a times the magnitude of b, times the sine
+of the angle between them, and that provides a magnitude, but
+it also has a direction. And that direction is provided
+by this normal vector. It's a unit vector. A unit vector gets that
+little hat on it. It's a unit vector, and
+what direction is it? Well, that's defined by
+the right hand rule. This is a vector. It's perpendicular
+to both a and b. And then you might say, a and
+b, the way I drew them, they're both sitting in the
+plane of this video screen, or your video screen. So in order for something to
+be perpendicular to both of these, it either has to pop out
+of the screen or pop into the screen, right? And when you learned about the
+cross product, I said there's two ways of showing a vector
+popping out of the screen. It looks like that because
+that's the tip of an arrow. And to show a vector going into
+the screen, it's like that because that is the
+back of an arrow. The rear end of an arrow. So how do you know which
+of these two it is? Because both of these vectors
+are perpendicular to a and b. That's where you take your right
+hand and you use the right hand rule. So you take your index finger
+in the direction of a, your middle finger in the direction
+of b, and then your thumb points in the direction of n. So let's do that. I'm looking at my hand. It's not an easy thing to do
+with your right hand, but your right hand is going to look
+something like this. Your index finger will go
+in the direction of a. Your middle finger goes
+in the direction of b. So that's my middle finger. And then my other two fingers
+just do what they need to do. I like to just bend them
+out of the way. So they just curl
+around my hand. And then what direction
+is my thumb in? My thumb-- well, actually I drew
+it at the wrong angle. My thumb is actually going
+in this direction, right? Into the page. This is the top of my hand. These are like my veins. Or, if I actually drew it
+correctly, where you would see your hand from side-- so it
+would look like this. You would see your pinky. Your palm and your pinky
+would be like that. And your other finger
+like this. Your middle finger would go
+in the direction of b. Your index finger goes in the
+direction of a, and you wouldn't even see your thumb,
+because your thumb is pointing straight down. But I think you get the point.
+a cross b, this n vector is pointing straight down. It's a unit vector. And this provides
+the magnitude. Unit vector just means it
+has a magnitude of one. So the magnitudes of the cross
+and the dot products seem pretty close. They both have the magnitude
+of both vectors there. Dot product, cosine theta. Cross product sine of theta. But then, the huge difference
+is that sine of theta has a direction. It is a different
+vector that is perpendicular to both of these. Now, let's get the intuition. And if you've watched the videos
+on the dot and the cross product, hopefully you
+have a little intuition. But I review it because I think
+it all fits together when you see them
+with each other. First, let's study a,
+b cosine of theta. If you watched the dot product
+video, cosine of theta, if you took, let's say, b
+cosine of theta. What is b cosine of theta? b cosine of theta-- and you
+could work it out on your own time-- if you say cosine is
+adjacent over hypotenuse, the magnitude of b cosine theta is
+actually going to be the magnitude of, if you dropped a
+perpendicular-- I'll use a different color here-- if you
+dropped a perpendicular here, this length right here--
+that's b cosine theta. Let me draw it separately. I don't want to mess up
+this picture too much. So if that's b. If that's a-- And that's b. That's a. This is theta. b cosine theta, if you drop a
+line perpendicular to a, this is a right angle. b cosine theta, adjacent
+over hypotenuse is equal to cosine theta. So it would be the projection
+of b going in the same direction as a. So it would be this magnitude. That is b cosine theta. So the magnitude of that vector
+right there is the magnitude of b cosine
+of theta. So when you're taking the dot
+product, at least the example I just did, if you view it as
+the magnitude of a times the magnitude of b cosine theta,
+you're saying what part of b goes in the same
+direction as a? And whatever that magnitude is,
+let me just multiply that times the magnitude of a. And I have the dot product. Let's take the pieces that
+go the same direction and multiply them. So how much do they
+move together? Or do they point together? Or you could view it
+the other way. You could view the dot product
+as-- and I did this in the dot product video-- you could view
+it as a cosine of theta, b. Because it doesn't matter. These are all scalar quantities,
+so it doesn't matter what order you take
+the multiplication in. And a cosine theta is
+the same thing. It's the magnitude of the a
+vector that's going in the same direction of b. Or the projection of a onto b. So this vector right here is a
+cosine theta; the magnitude of a cosine theta. And they're actually
+the same number. If you take how much of b goes
+in the direction of a, and multiply that with the magnitude
+of a, that gives you the same number as how much of
+a goes in the direction of b, and then multiply the
+two magnitudes. Now, what is a, b sine theta? a, b, sine theta. Well if this vector right here
+is a cosine theta-- and you learned this when you learned
+how to take the components of vectors. This vector right here is the
+magnitude of a sine theta. You could rewrite this as the
+magnitude of a sine theta times the magnitude of b in that
+normal vector direction. So if you take a sine theta
+times b, you're saying what part of a doesn't go the
+same direction as b. What part of a is completely
+perpendicular to b-- has nothing to do is b. They share nothing in common. It goes in a completely
+different direction. That's a sine theta. And so you take the product of
+this with b and then you get a third vector. And it almost says,
+how different are these two vectors? And it points in a different
+direction. It gives you this-- sometimes
+it's called a pseudo vector, because it applies
+to some concepts that are pseudo vectors. But the most important of these
+concepts is torque, when we talk about the magnetic
+field; the force of a magnetic field on electric charge. These are all forces, or these
+are all physical phenomena, where what matters isn't the
+direction of the force with another vector, it's the
+direction of the force perpendicular to
+another vector. And so that's where the cross
+product comes in useful. Anyway, hopefully, that gave
+you a little intuition. And you could have done
+it the other way. You could have written
+this as b sine theta. And then you would have said
+that's the component of b that is perpendicular to a. So b sine theta actually would
+have been this vector. Or let me draw it here. That would make more sense. This would be b sine theta. So you could switch orders. You could visualize
+it either way. You could say this is the
+magnitude of b that is completely perpendicular to a,
+multiply the two, and use the right hand rule to get
+that normal vector. And we just decided that we're
+going to use the right hand rule to have a common
+convention. But people could have used the
+left hand rule, or they might have used it a different way. It's just a way that we have a
+consistent framework, so that when we take the cross product
+we all know what direction that normal vector
+is pointing in. Anyway. In the next video I'll show you
+how to actually compute dot and cross products when
+you're given them in their component notation. See you in the next video.

@@ -1,0 +1,51 @@
+- [Voiceover] Let's talk
+about buffer capacity. Buffer capacity is a property of a buffer and it tells you how much acid or base you can add
+before the pH starts changing. Basically, as your buffer capacity goes up, which I'm going to abbreviate BC, as your buffer capacity goes up, you can add more of your acid or base before the pH starts changing a lot. That might seem like a pretty vague and qualitative definition,
+so let's go through an example to see what that might look like exactly. The example we're gonna look at is going to be using
+an acetic acid buffer. So acetic acid is CH three COOH. And we're gonna abbreviate
+that in this talk using HA. And this is an aqueous solution and that is reversibly reacting to form H plus ion and CH three COO minus, or acetate. And so we're gonna abbreviate
+acetate in this talk as A minus. So more information about
+this particular buffer. Acetic acid, the Ka is equal to 1.8 times 10 to the minus five. And if we take the negative log of that, that will give us the pKa, which is also useful. And the pKa of acetic acid is 4.74. So that'll tell us a lot about
+the behavior of this buffer. And the last thing we need to know for predicting the behavior of our buffer is what the ratio is
+between our HA and A minus. So we're going to be
+looking at a buffer where A minus over HA, this ratio, is equal to 1.82. Based on this ration,
+we can calculate the pH. So the initial pH of our buffer before we do anything to it, before we add any acid or we add any base, the initial pH of our
+buffer we can calculate using the Henderson–Hasselbalch equation. And so that equation tells
+that pH is equal to pKa plus log of A minus concentration, or acetate, over acetic
+acid concentration. And if you're not 100% confident
+with using this equation, or you want to know where it comes from, we actually have separate videos on it, so I would recommend checking those out. In this video, we're just going
+to use this equation as is. So if we plug in our values here, we get that the initial pKa is equal to 4.74, our pKa, plus log of 1.82, which is our ratio of A minus over HA. So then we know our initial pH is equal to 5.00. What we're gonna do next
+is we're gonna look at two different buffers, and both of them are going
+to be made with acetic acid and with acetate. And we're gonna call them
+buffer one and buffer two. So buffer one has a ratio of A minus NHA that is 1.82. So the pH is going to be five. And the A minus concentration, before we do anything to it, before we add anything, is 0.90 molar. And the HA concentration is going to be 0.49 molar. And our second buffer that
+we're gonna compare it to we will call buffer two. And buffer two also has the
+same ratio of acid to base, except this time both concentrations are gonna be 10 times
+smaller than buffer one. So our A minus concentration
+is 0.090 molar. And our acetic acid
+concentration is 0.049 molar. And what we're gonna do
+here is we're gonna see what happens to the pH of both of these, So they both start out with a pH of five, but how much do they change when we add... We're going to add 0.04 moles of a strong base, sodium hydroxide, to one liter buffer. So when you do that, well it's a buffer. We know that it's going
+to resist the pH change, but what exactly is happening? What's the reaction that
+goes on when you add this in? So when you add your strong base, which is going to
+dissociate to form OH minus, it's going to react with
+the acid in your buffer. So our acid is CH three COOH. And we always assume that a strong base is going to react irreversibly. So one-sided arrow with a weak acid. So what happens is this proton is going to react with OH
+minus and we're gonna get H two O, or water. And we're gonna make CH three COO minus. So that's our base. And so we can see that the hydroxide is going to react one to
+one with our weak acid and it's gonna produce one
+equivalent of our base. So now we can use this information to calculate what happens to our buffer when we add .04 moles of sodium hydroxide. What's gonna happen is it's gonna react with our acid. Which means the concentration
+of the acetic acid is gonna go down by .04 molar. Our new concentration after it's reacted is gonna be 0.45 molar. Sorry, I tried to do that in my head. And what happens to our
+concentration of the base? Remember that when the acid
+reacts with sodium hydroxide we actually make more base, So we have to adjust the
+concentration of A minus upward. It actually makes .04 molar acetate when this reaction happens. So our new concentration
+of our acetate ion is 0.94 molar. So these are our final concentrations. We can no plug them back in to the Henderson–Hasselbalch
+equation to get the pH. So the pH of buffer one, I'll put a little subscript one, is going to be 4.74, the pKa, plus log of 0.94 molar divided by 0.45 molar. And if we plug that into our calculator, we get that the pH after
+we add that hydroxide is 5.06. So it's a little bit higher. It went up by .06. That makes sense. We do imagine it would be higher. If you add base, it becomes more basic and the pH should go up. But it didn't change a whole lot, because it's a buffer. Now let's compare that with
+what happens to buffer two. We add .04 mole sodium
+hydroxide to buffer two. Our acetic acid concentration
+is gonna go down by .04 molar. So our new concentration
+of HA is .009 molar. By the same reaction,
+our base concentration is gonna go up, since when the acid reacts,
+it makes more conjugate base. So we're gonna have to add 0.04 molar to A minus concentration. And so the new concentration
+is going to be 0.13 molar. And we can plug those concentrations into the Henderson–Hasselbalch equation and we get that pH of our buffer two is equal to 4.74, our pKa, plus log of 0.13 molar divided by 0.009 molar. And so that would be, if we
+plugged this into our calculator this is equal to 1.16. So if we add that together with our pKa, we get that the new pH is 5.90 molar. So the pH changed a whole lot more for buffer two than for buffer one. The pH went up by .9 instead of by .06. So if we were comparing
+the buffer capacities of both of these buffers, we would say that buffer one, well, the buffer changes less when you add the same amount of acid or base. So buffer one has the
+higher buffer capacity. Since you don't want these concentrations, A minus and HA, to be too low, the general rule of thumb is that you want your concentrations of HA and A minus between 0.10 molar and 1.0 molar. And by following that rule of thumb, you can make a buffer where you don't have to worry too much about adding too much acid or base before you pH changes, since that's usually why
+you're making a buffer in the first place.

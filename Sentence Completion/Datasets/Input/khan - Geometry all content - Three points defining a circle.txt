@@ -1,0 +1,174 @@
+We know that three
+points define a triangle. So if I were to take
+three random points here, so let's call that point
+A, point B, and then let's say this is point
+C right over here. If we say that these
+three points are the vertices of a triangle,
+they define a unique triangle. So this would be
+triangle A-- try to draw my lines as straight
+as possible-- triangle ABC. Now we've also learned
+in the last few videos that triangle ABC has
+a unique circumcenter. And that is a point that is
+equidistant to these three vertices, it equidistant
+to these three points. So the way can we can find
+it is we draw a perpendicular bisector of each of
+these sides and where the three perpendicular
+bisectors intersect-- and we show that
+they always intersect at a unique point-- that
+is that circumcenter. And I'll do it really
+quick right over here. So let's say that this
+is the perpendicular bisector of that side, this
+is the perpendicular bisector of that side, and this is
+the perpendicular bisector of that side. So these are all perpendicular,
+this is perpendicular, and they each bisect the sides. B to this point is going to
+be equal to this point to A. A to this point is going
+to be equal to that point to C. C to this point is going
+to be equal to that point to B. And this point right over here,
+we've already talked about, we'll call that point O. We
+call that the circumcenter. O is the circumcenter. This is all a little
+bit of review. So if you have three points,
+you have a unique triangle. That unique triangle has a
+unique circumcenter, which is equidistant to the three
+points of the triangle, three-- I should say the three
+vertices of the triangle-- and that distance
+between the circumcenter and the three points, the
+three vertices, I should say. So let me draw that
+in a different color. So this distance, OA, the
+length of OA, the length of OC, and the length of OB,
+so OA is equal to OC is equal to OB, which
+is the c circumradius. And we've learned when we
+first talked about circles, if you give me a
+point, and if we find the locus of
+all points that are equidistant from that
+point, then that is a circle. And when I say a locus, all I
+mean is, the set of all points. If you give me any
+point right over here, so that's an arbitrary point,
+and you also specify a radius, and say what is the set of
+all the points on this two dimensional plane
+that are equidistant, that are that radius
+away from the center? It uniquely defines a circle. That's how we defined a
+circle right over here. And similarly, if
+you say, look, if you start with the
+center at O, and you say all of the points that are
+the circumradius away from O, it will uniquely
+identify a circle. And that circle will contain
+the points A, B, and C because those are the
+circumradius away from O. So they are included
+in that set. So the circle would
+look something like-- let me draw it. It would look
+something like this-- trying my best to draw
+it, just like that. Everything we've
+talked about, just now within the last few
+minutes, is all review. We know all of this. But I went over it just
+to kind of reinstate a pretty interesting idea, that
+if you give me three points that defines a unique
+triangle, and if you have a unique triangle--
+And let me make it clear. This is three
+non-collinear points, so three points not
+on the same line. If you have three points that
+are not on the same line, that defines a unique triangle. For any unique triangle you
+have a unique circumcenter and circumradius. I'll rewrite it, I don't
+want to get lazy and confuse you-- circumradius. And if you give me
+any point in space, any unique point, and a radius,
+the set of all points that are exactly that
+radius away from it, that defines a unique circle. So we went through
+all of this business of talking about
+the unique triangle, and the unique circumcenter,
+and the unique radius, to really just show you that
+if you give me any three points that eventually, really,
+just defines a unique circle. So just as you need three
+points to define a triangle, you also need three
+points to define a circle, two points won't do it. And one way to think about it
+is, if you give me two points, there's an infinite
+number of triangles that I construct with
+those two points, because I could put the
+third point anywhere. I could construct this triangle. I could construct
+this triangle, I could construct this triangle,
+I can construct this triangle. And all of these
+triangles are going to have different circumcenters
+and different radiuses. And so they're going to
+have different circles that circumscribe about
+those triangles. So this one-- so
+for example, this would be one circle
+that could go around, that could circumscribe
+that triangle. You could have this
+circle right over here. So you see clearly,
+very clearly, that two points are not enough. You need three points, three
+points lead to a triangle, lead to a unique circle. So that by itself
+is kind of cool. Now, another question is,
+if I have just a circle, and if it's circumscribed
+about an arbitrary triangle, is the center of that circle
+necessarily the circumcenter? So let's think about
+that a little bit, because there are some
+non-intuitive cases here. So if I draw a circle
+right over here, its center is right over there. And if I draw an
+arbitrary triangle where all of the vertices of that
+triangle are on this circle, is this center necessarily the
+circumcenter of that triangle? So let me draw a
+crazy situation. So let me draw one where
+this thing is clearly outside of the
+triangle, so that we could have a triangle
+that looks like this. And it's clearly all three
+vertices sit on the circle. So you might at first
+say, wait, there's no way this could
+be the circumcenter, it's not even
+inside the triangle. But remember, this
+point right here is equidistant to every
+point on the circle. I should say, every
+point on this circle is equidistant from this point,
+they're all the radius away. And all three points of this
+triangle are on the circle, so they are all exactly a radius
+away from this point right over here. So this distance right over
+here is going to be a radius, this distance right over
+here is going to be a radius, and this distance right over
+here is going to be a radius. Now, this point is clearly
+equidistant from that point and that point. We know that, it's
+exactly R away from both of those
+vertices of the triangle. So if it's equidistant--
+and we proved this in a previous
+video-- if it's equidistant from
+both of those points, it must be on the
+perpendicular bisector of the segment that
+joins those two points. So this must be on the
+perpendicular bisector-- so that's perpendicular
+and it bisects that segment right over there. But we can make the same
+argument for this segment right over here, because this point
+is R from the center-- we'll call it O, I am tired of
+just saying this point. Point O is equidistant
+from-- let me label these, so let's call this A, B, C. So we already said point O
+is equidistant from C and B, so it must be on the
+perpendicular bisector of BC. And it's also
+equidistant from A and B. It's R away from both, because
+A and B both sit on the circle, they're both a radius
+away from the center. So it also must sit on the
+perpendicular bisector of AB. Let me draw it a little
+bit neater, there you go. So it must also be on this
+perpendicular bisector. And then finally, it also
+is equidistant from A. It's for the same distance
+from A is it is from C. Because those are both R away,
+they both sit on the circle, so it must be on the
+perpendicular bisector of AC as well. So AC is right over here. This is what the
+interesting thing is, we're seeing that the
+three perpendicular bisectors of the three sides
+of this triangle, they do definitely
+intersect, but they are intersecting at a point
+outside of that triangle. And that point is the
+center of the circle. So once again, the last idea is,
+O is equidistant from A and C, so it must sit on the
+perpendicular bisector of AC, which would look
+something like this, which would look something like that. So once again, we see the three
+perpendicular bisectors are intersecting at a unique
+point, and O really is the circumcenter. So if you take any circle,
+if you take a circle, and if you put any
+triangle whose vertices sit on the circle, the
+center of that circle is its circumcenter. So we just drew
+a situation where this is the circumcenter that
+sits outside of the triangle proper. So point O is also going
+to be the circumcenter of this triangle
+right over here. And point O is also going
+to be the circumcenter of this triangle
+right over here. It's going to sit on
+all three perpendicular bisectors of this, and
+we know that because it's equidistant from all
+three points of any of these triangles where the
+vertices sit on the circle itself.

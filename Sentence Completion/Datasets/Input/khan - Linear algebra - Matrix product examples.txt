@@ -1,0 +1,221 @@
+In the last video we learned
+what it meant to take the product of two matrices. So if we have one matrix A, and
+it's an m by n matrix, and then we have some other
+matrix B, let's say that's an n by k matrix. And we've defined the product
+of A and B to be equal to-- And actually before I define the
+product, let me just write B out as just a collection
+of column vectors. So we know that B can be written
+as a column vector b1, another column vector b2, and
+all the way it's going to have k of them because it has exactly
+k columns, so bk. So the last video we defined the
+product of A and B , and they have to have the columns
+of A have to be the same as the rows of B in order for
+this to be well-defined. But we define this product to
+be equal to A times each of the column vectors of B. So it's equal to-- let me switch
+back to that color-- it's equal to A times-- do it in
+the color that I did it-- A times b1, and then the second
+column of our product is going to be A times b2. Our third product is going to be
+A times b3, all the way to A times bk. Right there. And the whole motivation for
+this, you've probably you've seen this before, maybe in your
+Algebra II class-- it might have not been defined
+exactly this way, but this is the equivalent to what you
+probably saw in your Algebra II class-- but the neat thing
+about this definition is that the motivation came from the
+composition of two linear transformations whose
+transformation matrices were the matrices A and B. And I showed you that
+in the last video. With that said, let's actually
+compute some matrix-matrix products just so you
+get the hang of it. So let's say that I
+have the matrix A. Let's say that A is equal to the
+matrix 1, minus 1, 2, 0, minus 2, and 1. I keep the numbers low to keep
+our arithmetic fairly straightforward. And let's say that I have the
+matrix B, and let's say that it is equal to 1, 0, 1, 1,
+2, 0, 1, minus 1, and then 3, 1, 0, 2. So A is a 2 by 3 matrix,
+2 rows, 3 columns. And B is a 3 by 4 matrix. So by our definition, what
+is the product AB going to be equal to? Well, we know it's well-defined
+because the number of columns here is equal
+to the number of rows, so we can actually take these
+matrix vector products-- you'll see that in a second-- so
+AB is equal to the matrix A times the column vector,
+1, 2, 3. That's going to be the first
+column in our product matrix. And the second one is going to
+be the matrix A times the column 0, 0, 1. The third column is going to
+be the matrix A times the column vector 1, 1, 0. And then the fourth column in
+our product vector is going to be the matrix A times the column
+vector 1, minus 1, 2. And this, when we write it like
+this, it should be clear why this has to be, why the
+number of columns in A have to be the number of rows in B,
+because the column vectors in B are going to have the same
+number of components as the number of rows in B, so all of
+the column vectors in B-- so if we call this B1, B2, B3, B4,
+all of my bi's-- let me write it this way-- all of my
+bi's where this i could be 1, 2, or 3, or 4, are all
+members of R3. So we only have matrix vector
+products well-defined when the number of columns in your
+matrix are equivalent to essentially the dimensionality
+of your vectors. That's why that number
+and that number has to be the same. Well, now we've reduced our
+matrix-matrix product problem to just four different matrix
+vector product problems, so we can just multiply these. This is nothing new to
+us, so let's do it. And so what is this equal to? So AB,-- let me rewrite it--
+AB, my product vector, is going to be equal to-- so this
+first column is the matrix A times the column
+vector 1, 2, 3. And how did we define that? Remember, one way to think about
+it is that this is equal to the-- you can kind of think
+of it as the-- each of the rows of A dotted with the column
+here of B, or even better, this is the transpose
+of some matrix, right? Let me write this this way. If a is equal to-- sorry-- the
+transpose of some vector, let's say that a is equal to the
+column vector 0, minus 1, 2, then a transpose-- and
+I haven't talked about transposes a lot yet, but I
+think you get the idea. You just changed all of the
+columns into rows-- so a transpose will just be equal
+to 0, minus 1, 2. You just go from a column
+vector to a row vector. So if we called this thing here,
+a transpose, then when we take the product of our
+matrix A times this vector, we essentially are just taking A
+and dotting with this guy for our first row and our
+first column. So let me do it that
+way, so let me write it in that notation. So this is going to be the
+matrix-- or sorry-- the vector 1, minus 1, 2. That's essentially, that row
+right there represented as a column dotted with 1, 2, 3. Actually, let me do it in that
+color just so I can later switch to one color to make
+things simple-- but dotted with 1, 2, 3. So we just took that row, or, I
+guess the column equivalent of that row, and dotted
+with this. And I wrote it like this because
+we've only defined dot products for column vectors. I could do it maybe for row
+vectors, but we don't need to make a new definition. So that's going to be the first
+entry in this matrix vector product. The second entry is going to
+be the second row of A essentially dotted with this
+vector right there, so it's going to be equal to 0, minus 2,
+and 1, dotted with 1, 2, 3. And we just keep doing that--
+and I'll just switch maybe to one neutral color now-- so
+that A times 0, 0, 1. That's going to be the first row
+of A expressed as a column vector, so we can write
+it like this, 1, minus 1, 2 dot 0, 0, 1. And then, actually, and then
+we have our and then the second row of A dotted with this
+column vector, so we have 0, minus 2, 1, dotted
+with 0, 0, 1. Two more rows left. This can get a little tedious
+and it's inevitable that I'll probably make a careless
+mistake, but as long as you understand the process, that's
+the important thing. So the next one, this row of A
+expressed as a column vector, 1, minus 1, 2, and we're going
+to dot it with this vector right there, 1, 1, 0. And then this row of A-- I can
+just look over here as well-- 0, minus 2, 1, dotted
+with 1, 1, 0. And then finally the last two
+entries are going to be the top row of A, 1, minus 1, 2,
+dotted with this column vector, 1, minus 1, 2-- a little
+dot there, remember we're taking the dot product--
+and then finally this second row of A, so 0, minus 2, 1,
+dotted with this column vector, 1, minus 1, 2. And that is going to be our
+product matrix-- and this looks very complicated right
+now but now we just have to compute it, and dot products
+tend to simplify things a good bit-- so what is our matrix--
+our product-- going to simplify to? I'll do it in pink. AB is equal to-- draw the
+matrix right there. So what is the dot product
+of these two things? It's 1 times 1. I'll just write it out. It's 1 times 1, I'll just write,
+1 times 1 is 1, plus minus 1 times 2, so minus 2,
+plus 2 times 3, plus 6. Now we'll do this term right
+here, 0 times 1 is 0, plus minus 2 times 2, so that's
+minus 4, plus 1 times 3, plus 3. Now we're on to this term, 1
+times 0 is 0, plus minus 1 times 0, plus 0, plus 2 times
+1 is equal to plus 2. This term, 0 times 0 is 0, plus
+minus 2 times 0-- let me write it 0 plus minus 2 times
+0 is 0, plus 1 times 1. So plus 1, and here you have 1
+times 1 is 1, plus minus 1 times 1 is minus 1, plus
+2 times 0, so plus 0. Here 0 times 1 is 0, 2 minus 2
+times 1 is minus 2, and then 1 times 0 is plus 0. Almost done. 1 times 1 is 1; minus 1 times
+minus 1 is 1; 2 times 2 is 4. Finally, 0 times 1 is 0; minus
+2 times minus 1 is 2. 1 times 2 is also 2. And we're in the home stretch,
+so now we just have to add up these values. So our dot product of the two
+matrices is equal to the 2 by 4 matrix, 1 minus 2 plus 6. That's equal to 5. Minus 4 plus 3 is minus 1. This is just 2. This is just 1. Then we have 1 minus 1 plus 0
+is just 0, minus 2, right? We just have a minus 2 there, 1
+plus 1 plus 4 is 6, and then 2 plus 2 is 4. And we are done. The product of A B is equal
+to this matrix right here. Let me get my A and B back. We can talk a little bit more
+about what this product actually represented. So let me copy and paste this. Let me scroll down
+a little bit. Go down here, paste. There you go. So this was our A and our B. And when we took the product
+we got this matrix here. Now there is another couple of
+interesting things to notice. Remember, I only said that
+this product is only well-defined when the number
+of columns in A is equal to the number of rows in B. So that was the case
+in this situation. And then notice, we got a 2 by
+4 matrix, which is the number of rows in A times the number
+of columns in B. So we got a 2 by 4 matrix. So another natural question is,
+could we have found, or is it even equal, if we were
+to take the product BA? If we were to even take
+the product BA. So if we tried to apply our
+definition there, what would it be equal to? It would be equal to the matrix
+B times the column 1, 0, then the matrix B times the
+column minus 1, minus 2. And then it would be
+the matrix B times the column 2, 1. Now, can we take this matrix
+vector product? We have a 3 by 4-- this right
+here is a 3 by 4 matrix, and this guy right here
+is a member of R2. So this is not well-defined. We have more columns here than
+entries here, so we have never defined a matrix vector
+product like this. So not only is this
+not equal to this, it's not even defined. So it's not defined when you
+take a 3 by 4 matrix, and you take the product of that
+with a 2 by 4 matrix. It's not defined because
+that number and that number is not equal. And so obviously since this
+is defined and this isn't defined, you know that AB is
+not always equal to BA. In fact, it's not usually equal
+to BA, and sometimes it's not even defined. And the last point I want to
+make is, you probably learned to do matrix-matrix products in
+Algebra II, but you didn't have any motivation for what you
+were doing, but now we do have a motivation. Because when you're taking the
+product of A and B, we learned in the last video that if we
+have two transformations, let's say we have the
+transformation, S is a transformation from R3 to R2,
+and that S is represented by the matrix. So S, given some matrix in
+R3, if you'd apply the transformation S to it, it's
+equivalent to multiplying that, or given any vector
+in R3, applying the transformation S is equivalent
+to multiplying that vector times A. We can say that. And I used R3 and R2 because the
+number of columns in A is 3, so it can apply to a
+three-dimensional vector. And similarly, we can imagine
+B as being the matrix transformation of some
+transformation, T, that is a mapping from R4 to R3, where if
+you give it some vector x in R4, it will produce-- you
+take the product of that with B, and you're going to get
+some vector in R3. Now, if we think of the
+composition of the two-- so let's think about it a little
+bit-- if we have R4 here-- let me switch colors-- we have R4
+here, we have R3 here, and then we have R2 here. T is a transformation
+from R4 to R3. So T would look like that. T is a transformation
+and it's B times x. That's what T is equal to, so
+T is this transformation. And then S is a transformation
+from R3 to R2. So S looks like that. And S is equivalent to
+A times any vector in R3, so that is S. So now we know how to visualize,
+or how to think about, what the product
+of A and B are. The product of A and B is
+essentially, you apply the transformation B first-- so
+let me think of it-- the composition of S-- let me write
+it this way-- so what is the composition of S with T? This is equal to-- of x-- this
+is equal to S of T of x. So you take a transformation
+from R4 to R3, and then you take the S transformation from
+R3 to R2, so this is S of T. S of T is a transformation from
+R4 all the way to R2. And then the neat thing about
+this, if you were to just write this out in its matrix
+representations-- we did this in the last video-- this would
+be equal to the S matrix A times this vector right
+here, which is Bx. But now we know that the
+matrix-- by our definition of matrix vector products-- that
+this guy right here is going to have a transformation. It's going to be equal to-- So
+the composition S of T of x is going to be equal to the
+matrix AB, based on our definition, so the
+transformation AB times some vector x. So the reason why I'm going all
+this is because we just did a matrix-matrix
+product up here. We took the pain of multiplying
+the matrix A times the matrix B and we got this
+value here-- and hopefully I didn't make any careless
+mistakes. But the big idea here, the idea
+that you probably weren't exposed to in your Algebra II
+class, is that this is the matrix of the composition of the
+transformations S and T. So right here, it's the matrix
+of the composition of S and T. So you're not just blindly doing
+some-- matrix-matrix products can be pretty tedious,
+but now you know what they're for. They're actually for the
+composition of two transformations where each of A
+and B are the transformation matrices for each of the
+individual linear transformations. Anyway, hopefully you
+found that useful.

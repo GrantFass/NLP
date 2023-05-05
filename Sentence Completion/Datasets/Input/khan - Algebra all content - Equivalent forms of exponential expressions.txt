@@ -1,0 +1,39 @@
+- [Voiceover] What I hope
+to do in this video is, start with a exponential expression that's in a fairly straightforward form and then turn it into
+one in a hairier form. And let's actually just do it. I'll show the initial expression and then the form that I want
+it in, or that we want it in. And then we can talk a little bit about, why would ever actually wanna do that? So let's say my expression is 1/32 times two to the t power. So this is fairly straightforward
+exponential expression. But let's say we want it, we want it in the form A time B, and this is where it's gonna get hairy, A time B to the t over 10 power, minus one. And so, you're probably
+immediately saying, "Why would I ever wanna take something "nice and simple like this "and turn it into this beastly
+thing right over here?" And the answer is, when
+you get into higher math and you start doing your
+physics and your chemistry, you're going to see, maybe, you know, you got a result like this, but then you look in your textbook, or your professor, it
+has a result like this. Just wanna know, "How do I
+transfer from this to this?" Or actually, sometimes when you transfer to a form like this ... Obviously, I've just arbitrarily
+written this form here. But sometimes when you write it in another form that might
+even be a little hairier, it can give you an intuition
+on the underlying processes that that expression
+is trying to describe. So if you can take that
+on a leap of faith, let's actually try to do it. And, at a minimum, it's
+gonna make you a lot better at exponent properties. So see if you can rewrite
+this in this form. So I'm assuming you took a go at it. So let's try to do it together. So the first thing, the first thing that I might wanna do is, well, let's see if we can ... Let's see. What would I wanna do? The first thing I wanna do is, take this t and get it into a t ... let's get it into a t over 10. So, to do that, we essentially just need to multiply by 10 and divide by 10. So let's multiply by 10, and then also divide by 10. Then we haven't changed the value up here. So we can rewrite this, we can rewrite this as 1/32 times two to the ... So let me circle t ... Do this in a different color. T over 10, t over 10 times 10. Times 10. All right. So we got a t over 10 over here. But then I have this times 10. So how do I deal with this? Well, one thing that I can do ... Let me actually just write
+this the other way around. Let me write it as, let me write it as 10 times t over 10. 10 times t over 10. So hopefully what I just did here isn't a huge stretch here. I just literally multiplied and divide by, divided by 10, times this t over 10. But when I write it this way, an exponent property
+might jump out at you. If I have, if I have a to the b, and then I raise that to the c, that's going to be a to the bc. Or, another way around, a to the bc is going to be a to the b to the c. And so, this piece right over here, I can rewrite it as two to the 10th, and then raise that to the t over 10 power. To the t over 10 power. Once again, two to the 10th and then raise that to the t over 10, that's gonna be the same thing as two to the 10 times t over 10. And of course, we still have
+the one over 32 over here. One over, one over 32. I'm tempted to write that as two to the negative fifth power, but I won't do that just yet. So let's see. What's
+two to the 10th power? Actually, let's just, let's just keep it, let's just keep it as
+two to the 10th power, just for simplicity right now. Later we can, you might know that that's gonna be 1,024. But let's just, let's
+see what else we can do. So we know this is going
+to be some num- ... Actually, let me just write out as 1,024. So we have one over 32 times 1,024 to the t over 10, to the t over 10 power. So it seems like we're getting close. If there was no minus one here, we're essentially done. But now there's this minus one. So how do we deal with that? Well, we can do a
+similar type of strategy. We can subtract one, and then we could add, and then we could add one. Then we're not actually
+changing the value. Just as we multiplied
+by 10 and divide by 10, we're not changing the value up here. If you subtract one and
+add one to the exponent, you're not changing its value. And so, what is this going to be? We wanna leave this minus one here. But we wanna get rid of, we wanna get rid of this plus one somehow. And here, we just have to remind ourselves that, if we have a to the b times a to the c, that's going to be equal to a to the b plus c. If you have the same base, multiplied, same base raised to different exponents and you multiply them, you could just add the exponents. And so you could also
+go the other way around. If you have a to the b plus c, you could break it up into a to the b times a to the c. So, this business right over here, this business right over here, this is 1,024 to the t over 10 minus one, plus one. So we can break this up as, we can break this up as, 1,024, 1,024 to the t over 10 minus one, that's this part here, and then times 1,024 to the one. Times ... Let me make this in a different color. So, let's see green. So this right over here. So times 1,024 to the one power. That's this one power right over here. And of course, we still have the one over, the one over 32. All right. So now we're really close. We have the 1,024 to
+the t over 10 minus one, we have t over 10 minus 1. And now we just have to simplify. We can rewrite. This is going to be equal to, this is going to be equal to, we can just bring the 1,024, 1,024 to the first
+power, that's just 1,024. So that's going to be 1,024 over ... I can put all these commas here if I like. 1,024 over this 32. Let me do that magenta color. Over this 32 times ... home stretch. Times, times 1,024 to the t over, to the t over 10 minus one power. And now we could just simplify this. You might recognize 1,024, we already saw, that was the same thing as two to the 10th power. 32 is the same thing as
+two to the fifth power. So two to the 10th divided
+by two to the fifth ... Actually, this is another
+exponent property at play here, although you could just
+divide the numbers. If you have a to the b over a to the c, this is going to be equal to a to the b minus c. So this is going to be two to the 10 minus five, over this whole thing. This whole thing right over here. And this thing ... See, I wanted to do that
+in a different color ... This thing is just going to be two to the fifth power, or 32. So this is going to be 32 times 1,024. We were in the home stretch here. 1,024 to the t over 10 minus one. So once again, normally in our lives, we like to make things simpler, and I'm a big advocate of that. It's a good life philosophy. But this is a case where we really did make it more complicated. We started with 1/32 times two to the t ... Actually, we could have ... Well, there's other ways we
+could have written that ... And we turned it into this thing with this somewhat hairier exponent. But it's a useful skill to have because you might get a result like what we originally started with, and then someone else might
+get a result like this, and it's very important to realize, "Hey, you actually go the same result. "They're just different ways of expressing "the same exponential expression."

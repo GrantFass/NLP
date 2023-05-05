@@ -1,0 +1,55 @@
+- [Voiceover] Hello
+again, in the last video we were looking at vector fields that only have an X component, basically meaning all of the vectors point just purely to the
+left or to the right, with nothing up and down going on. Then we landed at the idea that the divergence of V, you know when you take the divergence of
+this vector valued function, it should definitely have something to do with the partial derivative of P, that X component of the output, with respect to X, and here I wanna do the opposite, and say, okay, what if
+we look at functions where that P, that
+first component is zero, but then we have some kind
+of positive Q component, some kind of positive,
+well maybe not positive, but some kind of non-zero, so positive or negative Y component, and what this would mean, instead of thinking about
+vector as just left and right, now we're looking at vectors that are purely up or down, kind of up or down. So kind of doing the same
+thing we did last time, if we start thinking about cases where the divergence of our function at a given point should be positive, and an example of that,
+you might be saying, nothing is happening at the point itself, so Q itself would be
+zero but then below it, things are kind of going away so they're pointing down, and above it, things are going up. So in this case down here, Q is a little bit less than zero, the Y component of that
+vector is less than zero, and up here, Q is greater than zero. So here we have the idea
+that as you're going from the bottom up, the Y value of your input is increasing as you're moving upward in space, the value of Q, this Y
+component of the output, should also be increasing because it goes from negative to zero to positive. So now you're starting to get this idea of partial Q with respect to Y, you know, as we change that
+Y and move up in space, the value of Q should be positive, so positive divergence seems to correspond to a positive value here. And the thinking is actually gonna be almost identical to what we did in the last video with the X component, because you can think
+of another circumstance where maybe you actually have a vector attached to your point
+and something's going on, and there even is some
+convergence towards it, where you have some fluid flow in towards the point, but it's just heavily outweighed by even higher divergence, even higher flow away from your point above it, and again you have this idea of Q starts off small, so here's kind of, Q starts off small, maybe
+it's kind of like near zero, and then here Q is something positive and then here it's even more positive, and sort of making up notation here but I want the idea of kind of small and then medium-sized and then bigger, and once again, the idea
+of partial derivative of Q with respect to Y being greater than zero seems to correspond to
+positive divergence, and if you want, you can sketch out many more circumstances and think about what if the vector
+started off pointing down, what would positive and negative and zero divergence all look like, but the upshot of it all, pretty much for the same reasons I went
+through in the last video, is this partial derivative
+with respect to Y corresponds to the divergence. And when we combine this with our conclusions about the X component, that actually is all you need
+to know for the divergence. So just to write it all out, if we have a vector valued
+function of X and Y, and it's got both of its components, we've got P as the X
+component of the output, that first component of the output, and Q, and we're looking
+at both of these at once, the way that we compute divergence, the definition of divergence
+of this vector valued function, is to say divergence of V as a function of X and Y, is actually equal to the
+partial derivative of P with respect to X, plus, the partial derivative
+of Q with respect to Y. And that's it, that is the
+formula for divergence, and hopefully by now,
+this isn't just kind of a formula that I'm plopping down for you, but it's something that
+makes intuitive sense, when you see this term, this partial P with respect to X, you're thinking about, oh yes, yes, because if you have flow that's kind of increasing as you move in the X direction, that's gonna correspond
+with movement away, and this partial derivative of Q with respect to Y term, hopefully you're thinking, ah yes, as you're increasing the Y component of your vector around your point, that corresponds with less
+flow in than there is out, so both of these correspond to that idea of divergence that we're going for, and if you just add them up, this gives you everything
+you need to know. And one thing that's pretty neat, and maybe kind of surprising, is that the way we just
+came across this formula, and started to think about it, was in the simplified case, where you have, you
+know, just pure movement in the X direction or pure
+movement in the Y direction, but in reality, as we know, vector fields can look
+much more complicated, and maybe you have something where you know, it's not just
+in the X direction, and there's lots of things going on and you need to account for all of those, and evidently, just looking at the change in the X component with respect to X, or the change in the Y
+component of the output with respect to the Y
+component of the input, gives you all the
+information you need to know. And basically what's going on here is that any fluid flow
+can just be broken down into the X and Y components where you're just looking at each vector, you know, whatever vector you have, it could be broken down into it's own X and Y components and if you wanna think kind of concretely about the fluid flow idea, maybe you'd say that for your point, if you're
+looking at a point in space, you picture a very small box around it, and the reason you only need to think about X components and Y components is that you're only really looking at, you know, what's going on
+on the left and right side, and then you can kind of calculate what the divergence
+according to fluid flowing in through those sides is, and then you just look at kind of, fluid flowing through
+the top or the bottom, and if you kinda shrink this box down, all you really care about is
+those two different directions, and anything else, anything that's kind of a diagonal into it, is
+really just broken down into what's the Y component there, what's the, you know,
+how is it contributing to movement up through that
+bottom part of the box, and then what's the X component, how's it contributing to movement through that side part of the box. But anyway, I mean the upshot here is just that the formula for divergence only involves these two components.

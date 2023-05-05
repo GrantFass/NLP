@@ -1,0 +1,78 @@
+- [Voiceover] So, I have three
+different functions here. I know they're all called f, but we're gonna just assume
+they are different functions. And, for each of these, I
+want to do three things. I want to find the zeros. And so, the zeros are the input values that make the value of the
+function equal to zero. So, here it'd be the t values
+that make f of t equal zero. Here, it'd be the x values that make the function equal zero. So, I want to find the zeros. I also want to find the
+coordinates of the vertex. And finally, I want to find the equation of the line of symmetry. Line of symmetry. And in particular, to make it
+a little bit more specific, the vertical line of symmetry,
+which will actually be the only line of symmetry for these three. So, pause the video and
+see if you can figure out the zeros, the vertex,
+and the line of symmetry. And I'm assuming you just did that and now I am going to attempt to do it. And if, at any point, you get inspired pause the video again and
+keep on working on it. The best way to learn this
+stuff is to do it yourself. So, let's see, so let's
+first find the zeros. So, to find the zeros, we can set t minus five squared,
+minus nine, equal to zero. So, we could say t ... for what t's does t minus five squared,
+minus nine, equal zero? Let's see, to solve this, we
+could add nine to both sides. And so we could say, if
+we add nine to both sides the lefthand side's just
+t minus five squared. The righthand side is going to be nine. And so, if t minus five squared
+is nine, that means that t minus five could be equal to the positive square root of nine or t minus five could equal the negative square root of nine. And to solve for t, we could
+add five to both sides, so we get t is equal to
+eight or t is equal to, if we add five to both sides here, t is equal to two. And just like that, we
+have found the zeros for this function because if
+t is equal to eight or two, the function is going to be zero. F of eight is zero and f
+of two is going to be zero. Now, let's find the vertex,
+the coordinates of the vertex. The coordinates of the vertex. So, the x coordinate of the vertex, or sorry, I should say the
+t coordinate of the vertex since the input variable here is t, the t coordinate of the
+vertex is going to be halfway in between the zeros. It's going to be halfway in between where the parabola, in this case, is going to intersect the x axis, or the t axis, I keep saying x axis, the t axis for this case. So, halfway between eight and two. Well, it's gonna be the average of them. Eight plus two, over two. That's ten over two, that's five. The t coordinate is five and five is three away from eight
+and three away from two. And, when t is equal to
+five, what is f of t? What is f of five? Well, when t is equal to five, five minus five squared is just zero. And then, f of five is just
+going to be negative nine. And this form of a function,
+this is actually called vertex form because it's very
+easy to pick out the vertex. It's very easy to
+realize, like, okay look, for this particular one, we're
+going to hit a minimum point when this part of the
+expression is equal to zero because this thing, the
+lowest value it can take on is zero cause you're squaring it, it can never take on a negative value. And it takes on zero
+when t is equal to five. And when that's, if this part is zero, then the f of five is
+going to be negative nine. So, just like that, we have
+established the vertex. Now, we actually have a lot of information if we wanted to draw it. So, if we want to draw this function. I'll just do a very quick sketch of it. Whoops. So, a very quick sketch of it. So, that is our t axis, not our x axis, I have to keep reminding myself. And that is my, let's call that my y axis. And we're going to graph
+y is equal to f of t. Well, we know the vertex is at the point five comma negative nine. So, this is, t is equal to five and y is equal to negative nine, so that's the vertex right over there. And then, we know we have zeros at t equals eight and t equals two. So, t equals eight and t equals two. Let me make that a little
+bit in, t equals two. Those are the two zeros. So, eight and two. And so, just like that,
+we can graph f of t, or we can graph y is equal to f of t. So, y is equal to f of t is
+going to look something like let me draw it a little
+... something like that That's the graph of y is equal to f of t. Now, the last thing that I
+said is the line of symmetry. Well, the line of symmetry is going to be the vertical line that
+goes through the vertex. So, the equation of that line of symmetry is going to be t is equal to five. That's really just the t
+coordinate of the vertex. That defines the line of symmetry. Let's do the other two right over here. So, what are the zeros? Well, if you set this equal
+to zero, if we say x plus two times x plus four is equal to zero, well that's going to happen
+if x plus two is equal to zero or x plus four is equal to zero. This is going to happen if we
+subtract two from both sides, when x is negative two,
+and if we subtract four from both sides, or when x
+is equal to negative four. As we said, the vertex, the
+x coordinate of the vertex, is going to be halfway in between these. So, it's going to be negative
+two plus negative four, over two, so that would
+be negative six, over two, which is just negative three. Negative three. And when x is negative
+three, f of x is going to be, let's see, it's going to be negative one times one, right? Negative three plus two is
+negative one, and so times one. So, it's just going to be negative one. There you have it. And the line of symmetry is
+going to be the vertical line x is equal to negative three. And once again, we can
+graph that really fast. So, let me, this is my y axis. See everything is
+happening for negative x's, so I'll draw it a little
+bit more skewed this way. This is my x axis. And we see that we have zeros
+at x equals negative two and x is equal to negative four. So, negative one, two, three, four. So, we have zeros there, negative two, be careful. Negative two and negative four. And the vertex is at negative
+three comma negaitve one. So, negative three comma negative one. Make sure we see that, so this is negative one right over
+here, negative one. This is negative two,
+this is negative four. And so we can sketch out what the graph of y is equal to f of x
+is going to look like. It's gonna look something like that. That is y is equal to f of x. Let's do one more. Hopefully, we're getting the hang of this. So, here, to solve x squared,
+plus six x, plus eight is equal to zero, it will
+be useful to factor this. And so, this can be written as, and if you have trouble doing this,
+I encourage you to watch videos on factoring polynomials, What adds up to six and when you take their product is eight? Well, four and two. Four plus two is six and
+four times two is eight. So, is equal to zero. And then, this is actually
+the exact same thing as what we have in blue right over here. These are actually the
+exact same function. They're just written in different forms. And so, the solutions are
+gonna be the exact solutions that we just saw right
+over here and the graph is going to be the same thing
+that we have right over there. So, same vertex, same line
+of symmetry, same zeros. These functions were just
+written in different ways.

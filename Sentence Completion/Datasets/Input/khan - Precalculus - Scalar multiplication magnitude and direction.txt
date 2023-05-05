@@ -1,0 +1,52 @@
+- [Voiceover] All right,
+so we're told that vector v is equal to x comma y. They're not giving us the actual numbers for the x component and the y component. They're just saying that the x component is going to be the variable x. And the y component is
+going to be the variable y. And the magnitude of vector v
+is going to be equal to five. All right, I think I
+can digest all of that. And it says, fill in
+the blanks to complete the following sentences. So they're saying vector
+w right over here, they didn't have to actually
+write the word vector. They have an arrow on top of the w, so we know it's a vector. So vector w its components
+are three x and three y. So its x component is
+three times the x component of vector v. And its y component is
+three times the y component of vector v. Instead of having a y, it has a three y. Instead of having an x, it has a three x. So w is essentially
+vector v being multiplied by the scalar three. So its magnitude is
+going to be three times the magnitude of vector v. So if vector v has a magnitude of five, vector w's going to
+have a magnitude of 15. It's going to have three
+times the magnitude. All right, now they tell
+us vector z is equal to, so its x component is negative two times the x component of vector v. And its y component is negative
+two times the y component of vector v. So you could view vector z as
+negative two times vector v. Or the scalar negative
+two times the vector v. And so you might say okay
+that means its magnitude is going to be negative two
+times the magnitude of v. But you have to remember, magnitude, that's always going to be positive. One way to think, when we talk about even absolute value we're really thinking about the magnitude of something. We're talking about how long it is. We're not thinking about its direction. So we wouldn't think
+about the negative there. If we think about its direction, this negative is going to flip
+its direction and we could think about that in a second. But if we just think about magnitude, we care about the two. So its going to have
+two times the magnitude of vector v. So instead of five, it's
+going to be five times two, which is ten. So now they say, match
+each vector to defined to a vector that could be its equivalent. So if we think about it, the vector with the smallest magnitude
+is going to be vector v. The other two we're
+multiplying vector v by scalars with an absolute value of more than one. So they're going to
+have larger magnitudes. So the smallest magnitude
+is this one right over here. This is the shortest vector. So that would be our vector v. Now, vector w would be
+one that has three times the magnitude and it's
+going in the same direction. So, this one has three
+times the magnitude. It looks like three times, roughly. And it's definitely going
+in the same direction. And then vector z would have
+two times the magnitude. But since we have, we're multiplying it by the negative scalar, it's going to go in
+the opposite direction. And this looks like it. This purple arrow looks like
+it's about twice the length of this red arrow. And it's going in the opposite direction. So I feel pretty good about
+what we have done here. Let's do one more of these. So, let's do this one here. Here we have a vector v again. It has a magnitude of 10. And it says, fill in
+the blanks to complete the following sentences. Vector w now, so now
+vector w, it's taking each of the components of vector
+v and multiplying them by one-fifth. So you can view vector w as
+being equal to one-fifth, the scalar one-fifth times vector v. The magnitude of w is
+going to be one-fifth the magnitude of v. One-fifth of 10 is just going to be two. Now vector z, it looks
+like it's three-fifths times vector v. We're multiplying each of the
+components times three-fifths. So that's like multiplying
+the entire vector by the scalar three-fifths. So it's magnitude is
+going to be three-fifths the magnitude of vector v. And so three-fifths of 10 is six. All right, then they say,
+match each vector defined above to a vector that could be its equivalent. So here the vector with
+the largest magnitude is vector v. This would be vector v. And the vector with the smallest magnitude is vector w. It's one-fifth the magnitude. So this has a magnitude, should be 10. This should one one-fifth of that which is a magnitude of
+two and it looks like that. And this should be three-fifths of the 10, which is a magnitude of six. And that looks about right, so I feel good with
+what we have filled out. So hopefully that gives you
+a sense of how to tackle these types of example problems.

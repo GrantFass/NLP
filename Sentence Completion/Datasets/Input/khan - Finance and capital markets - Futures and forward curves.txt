@@ -1,0 +1,31 @@
+Male voiceover: Let's
+see if we can understand a thing or two about Futures Curves and I've drawn two futures curves here and really all they show is
+the different settlement prices for the different
+delivery dates of futures. So, let's say that this
+orange curve is one of them. What this says is if today,
+if for delivery today, we wanted to buy or sell an apple, the market rate is 10 cents a pound. This isn't the Futures contract at all. This is actually called the Spot Price. It's essentially the market
+price for that commodity or that security today. We're just using the example of apples. This tells us at time 0, you
+can buy or sell an apple, based on the current market for 10 cents. Now, when we move to 1, the
+way I've labeled this axis, it says one month from now. This is not saying that
+the market price is going to go up one month from now. This is saying that today, if you were to go into the Futures market and say, "I want to sell,"
+or, "I want to buy apples "one month from now. "What type of a settlement price "can I get on my Futures contract?" And based on this Futures Curve, it looks like we could do about 12 cents. I'm gonna repeat what I just said. This is not saying that a month from now that the market price that the Spot Price is going to move up. Only this time 0 is the Spot Price. What this is saying is right now, the market is saying,
+"If you want to enter "into a Futures contract for
+delivery a month from now, "that delivery price will be 12 cents. "If you wanna deliver two months from now, that delivery price
+might be around 15 cents. "If you wanna deliver
+eight months from now, "that delivery price might
+be something like 20 cents." If you wanted to show movement, let's say all of a sudden, people just get more bullish on apples or there's some new
+diet that tells everyone that apples help you lose weight, what you would probably see is this entire curve would shift up So, regardless of delivery date, you would probably see
+this entire curve shift up because people would want apples across the entire Futures Curve. This one that we're
+highlighting right now, I've drawn two Futures Curves. I've drawn an upwards sloping orange one and I've also drawn a
+downward sloping blue one and I'll focus on that
+one in the next video but this upward sloping
+is kind of a normal curve and it's actually called that. It's a Normal Curve because
+this is what you actually expect for most types of commodities. You could imagine why. If this wasn't upward sloping, there would actually be no reason for you to hold onto something. Especially, if this was downwards sloping, you'd be like, "Wow. "If for future delivery dates, "I'm getting lower and lower prices, "why don't I just sell now?" And that would actually
+create downward pressure on the current Spot Price and you could of course, make
+the arbitrage arguments I made in previous videos, why you
+shouldn't in a theoretical setting, see a downward sloping Futures Curve. What we're gonna talk a little
+bit about on the next video, is maybe why you would see a
+downward sloping Futures Curve where the delivery price
+for delivery further out than the Spot Price or
+for further out months than nearby months is actually lower and just to give you a little terminology, this type of curve right here
+is called an Inverted Curve and I'll talk in the next video on why you might see one of those.

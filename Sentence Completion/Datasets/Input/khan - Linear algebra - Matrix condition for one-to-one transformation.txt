@@ -1,0 +1,270 @@
+Let's say I have
+some matrix A. If I'm trying to determine
+the null space of A, I'm essentially asking -- I'm
+essentially just asking, look if we set up the equation Ax is
+equal to the 0 vector, the null space of A is all the x's
+that satisfy this equation. All the x's that satisfy
+that equation. Ax is equal to the
+0 vector, or you could call it the system. And the way you would solve it
+-- and we've done this many times, this was many videos
+ago -- you would make an augmented matrix with this. So the augmented matrix
+would look like that. And you would have the 0 vector
+on the right hand side. And then you'd perform a bunch
+of row operations to put the left hand side into reduced
+row echelon form. So, you would do a bunch
+of operations. The left hand side would go into
+reduced row echelon form. Let's call that reduced
+row echelon form of A. And then the right hand side
+is just going to stay 0, because you performed the
+same row operations. But when you perform those row
+operations on 0, you just get the 0 vector right here. And then when you un-augment--
+when you create the system back from this right here,
+because these two systems are equivalent, you are essentially
+going to have your solution set look something
+like this. You're going to have your--
+let me write it like this, your solution set is
+going to be equal to some scalar multiple. Let's say that, of your free
+variables, your free variables are going to be the
+scalar multiples. And you've seen this
+multiple times, so I'll stay fairly general. But it's going to be some
+multiple times, let's say, vector 1 plus some other scalar
+times vector 2, these scalars tend to be your free
+variables-- times vector 2 all the way to, I don't
+know, whatever, c times your nth vector. I'm just trying to
+stay general. We haven't seen any examples
+that had more than two or three vectors here. But this is what, essentially,
+your null space is spanned by these vectors right there. You get an equation-- you get
+a solution set that looks something like that, and you
+call that your null space. We've done that multiple
+times. Your null space is that,
+so it's all the linear combinations, or it's the span,
+of these little vectors that you get here. And 1 and 2, all the
+way to n, n. This is nothing new. I'm just restating something
+that we've seen multiple, multiple times. We actually did this in
+the previous video. I just maybe never wrote
+it exactly like this. But what about the case when
+you're solving the inhomogeneous equation. So the inhomogeneous equation
+looks like this. So if I want to solve Ax is
+equal to b, I would do something very similar
+to this. I will create an augmented
+matrix. We'll have A on the left hand
+side, and I'd put b on the right hand side, and I'll
+perform a bunch of row operations to put A into reduced
+row echelon form. So, let me do that. So this left hand side will
+be the reduced row echelon form of A. And then the right hand side,
+whatever operations I did on A, I have to do on
+the entire row. So I'll also be doing
+them to b. So I'll have some
+new vector here. Maybe I'll call it the vector--
+maybe I'll call that the vector b prime. It's going to be different
+than b, but let's just call it b prime. And so when you when you go back
+to your-- I guess when you go out of the augmented
+matrix world and rewrite it as a system, and you solve for
+it, and we did this in the last video-- you'll get
+your solution set. Your solution set that satisfies
+this is going to be, x is going to be equal to this
+b prime, whatever this new vector is, this b prime plus
+something that looks exactly like this. It looks exactly like that, in
+fact I'll copy and paste it, it'll look exactly like this. Let me see if it did copy. Copy and paste it. Edit, copy, and let
+me paste it. So it will look something that
+looks exactly like that. And we said in the last video
+that you can kind of-- given this you can kind of think of
+the solution set to the inhomogeneous equation is
+equivalent to some particular solution, let's call that x
+particular, some particular solution, plus some member
+of your null space. So you could say it's plus some
+homogeneous solution. So if you just pick particular
+values for a, b and c, all of the different multiples of the
+vector that span your null space, you'll get some particular homogeneous solution. So what I implied in the last
+video, and I didn't show it to you rigorously, is that any
+solution to the inhomogeneous system-- let me write it this
+way, any solution-- and do it in white-- that's not white--
+any solution to the inhomogeneous system Ax is equal
+to b, this is a claim I made, will take the form-- some
+particular solution-- that was this right here,
+maybe I should do it in green-- this is this right
+here-- When you do the reduced row echelon form, it becomes
+that b prime vector. Plus some homogeneous solution,
+so some member of the null space. Now I didn't prove it to
+you, but I implied that this is the case. And what I want to in this video
+is actually do a little bit of a more rigorous proof,
+but it's actually fairly straightforward. So let's first of all verify
+that this is a solution. So let's verify that
+this is a solution. So let's just put this into
+out original equation. Let's remember our original
+equation was Ax is equal to b. So let's verify. Let me write it as a question. Is that particular solution,
+plus some homogeneous solution, a solution to
+Ax is equal to b? Well to do that you just put
+that in the place of x. So let's try it out. So A times this guy right here,
+times some particular solution, plus some homogeneous
+solution is going to be equal to A times the
+particular solution, plus A times some member of
+my null space. And what is this equal to? That is going to
+be equal to b. Right? We're saying that this
+is a particular solution to this equation. That is going to be equal to b
+and that this is going to be equal to the 0 vector because
+this is a solution to our homogeneous equation. So this is going to be
+equal to b plus 0, or it's equal to b. So A times this vector right
+here is indeed equal to b. So this is a solution. This is a solution, yes. Now the next question is, does
+every solution to the inhomogeneous system, or does
+any solution to the inhomogeneous system,
+take this form? So does any solution x, to Ax
+equal to b, take the form x is equal to some particular
+solution, plus a member of our null space, or plus a
+homogeneous solution. So to do that let's take-- let's
+test out what happens when we multiply the vector
+A times x-- let me write it this way. let's say that x is any solution
+to Ax is equal to b. Let's start off with that. And let's see what happens when
+we take A times x minus some particular solution
+to this. So when we distribute the matrix
+vector product, you get A times our any solution
+minus A times our particular solution. Now what is this going
+to be equal to? We're saying that this is a
+solution to Ax equals b. So this is going to
+be equal to b. And of course, any particular
+solution to this when you multiply it by A is also
+going to be equal to b. So it's going to be b minus b,
+so that's going to be equal to the 0 vector. Or another way to think about
+it is, x, the vector x minus our particular solution is
+a solution to A times x is equal to 0. Think about this if you take
+this, in parentheses right here, and you put it right
+there, and you multiply it times A you get the 0 vector. We just did that, you get the
+0 vector, because when you multiply each of these guys
+by A you get b and you get b minus b. And so that you get 0. So you can say that x minus--
+so our any solution x minus the particular solution of x is
+a member of our null space. Right? By definition our null space is
+all of the x's that satisfy this equation. So, since its a member of our
+null space, we can say that it is equal to-- so our any
+solution minus our particular solution is equal to some member
+of our null space. We could say that it is equal
+to a homogeneous solution. There might be more than one. A homogeneous solution. Now, if we just add our
+particular solution to both sides of this, we get that any
+solution-- remember, we assume that x is any solution to this--
+that any solution is equal to our homogeneous
+solution, is equal to a homogeneous solution, plus a
+particular solution-- or plus our particular solution. So we've proven it both ways. That this is a solution to our
+inhomogeneous equation, and that any solution to our
+inhomogeneous equation takes this form right here. Now why am I so concerned with
+this, and I've been kind of fixated on this inhomogeneous
+equation for some time. But we've been talking about the
+notion of a transformation being one-to-one. That was one of the two
+conditions for a transformation to
+be invertible. Now to be one-to-one-- so let me
+draw a transformation here. So let's say this is my domain,
+X, and this is my co-domain right here, Y, and I
+have a transformation that maps from X to Y. In order for T to be
+one-to-one-- so I'll write it like this, one-to-one. In order for T to be one-to-one
+that means for any b that you pick here, for any
+b that is a member of our co-domain, there is at most
+one solution to A times x. And I'm assuming that A is our
+transformation matrix, so we can write our transformation T
+as being equal to some matrix times our vector
+in our domain. So this would be Ax if this is
+x right here, so T would map from that to that right there. So in order for our
+transformation to be one-to-one, that means if you
+pick any b here, there has to be, at most, one solution
+to Ax is equal to b. Or another way to say that is
+that there is at most one guy that maps into that element
+of our co-domain. There might be none. So there could be no solution
+to this, but there has to be at most one solution. Now, we just said that any
+solution to an inhomogeneous-- let me write it in blue-- any
+solution takes the form-- if there is a solution. So if there isn't a solution,
+that's fine. That will still satisfy
+one-to-one. But if there is a solution, any
+solution is going to take the form x particular plus a
+member of your null space. Where this guy right here is
+a member of the null space. This thing right here just
+applies to that guy. Right here. Any solution if they exist,
+if there are no solutions, that's fine. You can still be one-to-one. But if you do have a solution
+you can have at most one person that maps to it,
+and any solution will take this form. I just showed you that. Now in order to be one-to-one,
+this can only be one solution. The solution set can only
+be one solution. We can only have one solution
+here, right? What does that mean? That means that this guy
+right here cannot be more than one vector. It just has to be one vector. There's only one particular
+solution right there. But this guy right here has to
+be-- for any solution set, depending on how you define
+it, there's only one particular vector there. But this guy, the only way that
+you're only going to have one solution is if your null
+space is trivial, if it only contains the 0 vector. Your null space will
+always, at minimum, contain the 0 vector. In the last video I think I,
+just off the cuff, said that all your null space
+has to be empty. But no, your null space will
+always, by definition, by the fact that it is a subspace,
+it will always contain a 0 vector. You can always multiply
+A times 0 to get 0. So your null space will
+always contain that. But in order to have only one
+solution, your null space can only have the 0 vector so
+that this can only be 0. And so that your only solution
+is going to be the particular solution that you found,
+depending on how you got there, but it's only going to
+be your particular solution. So let me put this this way. So in order to be one-to-one
+your null space of your transformation matrix
+has to be trivial. It has to contain only
+the 0 vector. Now we've covered this many,
+many videos ago. What does it mean if your
+null space only contains a trivial vector? Let me make this clear. So if your transformation vector
+looks like this, A1, A2, all the way to An, and
+you're multiplying it times x1, x2, all the way to xn, and
+the null space is all of the x's that satisfy this equation,
+0, and you are going to have m 0's right there. So if your null space is
+trivial, and we're saying that that is a condition for you
+to be one-to-one, for your transformation to be one-to-one,
+the transformation that's specified
+by this matrix. If your null space is trivial,
+what does that mean? That means that the only
+solution to-- another way of writing this is x1 times a1,
+plus x2 times a2, all the way to xn times an, is equal
+to the 0 vector. These are equivalent statements
+right here. I just multiplied each of
+these terms times these respective column vectors. These are the same thing. Now if you say that your null
+space has to be equal to 0, you're saying that the only
+solution to this equation right here, the only scalars
+that satisfy this equation-- oh sorry, these aren't-- let me
+actually-- because I wrote the scalars as vectors-- so
+this guy right here, this statement right here, is
+equivalent to x1 times a1, plus x2 times a2, plus all the
+way to xn times an, is equal to the 0 vector. Where the x1's through
+xn's are scalars. Now, if we say the null space
+is 0, we're saying the only way that this is satisfied is
+if your x1 all the way to xn is equal to 0. And this means, this is our
+definition actually, of linear independence. That means that a1-- so the null
+space being 0 also means that your column vectors of a--
+let me write it this way-- it also means that a1, a2, all
+the way through an, are linearly independent. Now what does that mean? If all of these guys are
+linearly independent, what is going to be the basis for
+your column space? Remember, the column
+space is the span. The column space of a is equal
+to the span of a1, a2, all the way to an. What we just said, if we're
+dealing with the one-to-one, or one of the conditions, or the
+condition to be one-to-one is that your null space
+has to be 0, or only contain the 0 vector. If your null space contains the
+0 vector, then all of your columns are linearly
+independent. If all of these columns span
+your column space, and they are linearly independent,
+then they form a basis. So that means that a1, a2, all
+the way to an, are a basis for our column space. And then that means if all of
+our column vectors here are linearly independent, they
+obviously span our column space by definition, and they
+all our linearly independent, they form the basis. So the dimension of our basis,
+so the dimension of our column space, that's essentially the
+number of vectors you need to form the basis, is going
+to be equal to n. We have n columns. So it's going to
+be equal to n. Or another way to say it is that
+the rank of your matrix is going to be equal to n. So now we have a condition for
+something to be one-to-one. Something is going to be
+one-to-one if and only if, the rank of your matrix
+is equal to n. And you can go both ways. If you assume something is
+one-to-one, then that means that it's null space here has to
+only have the 0 vector, so it only has one solution. If it's null space only has the
+0 vector, then that means it's columns are linearly
+independent. Which means that they all
+are part of the basis. Which means that you have
+n basis vectors, or you have a rank of n. Let's go the other way. If you have a rank of n, that
+means that all of these guys are linearly independent. If all of these guys are
+linearly independent, then the null space is just
+the 0 vector. The null space is just the 0
+vector, this part of your solution disappears. And then you are only left
+with one solution. So you're one-to-one. So you're one-to-one if and
+only if the rank of your transformation matrix
+is equal to n.

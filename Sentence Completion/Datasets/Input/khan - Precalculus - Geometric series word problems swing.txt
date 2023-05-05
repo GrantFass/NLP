@@ -1,0 +1,49 @@
+- [Instructor] We're told a
+monkey is swinging from a tree. On the first swing, she passes
+through an arc of 24 meters. With each swing, she passes through an arc 1/2 the length of the previous swing. So what's going on here? Let's say this is the top of the rope or the vine that the
+monkey is swinging from. And so on that first swing, I like to draw a little monkey here, so this is my little monkey. So on the first swing, the
+monkey will go 24 meters. Might do something like this. Then that arc is 24 meters, and then on the second swing, it would be, she'd swing back at an arc half the length of the previous swing. So then she would come back and then it would be half the length, and so maybe swing back over here. And then on the next, so that'd be 12, and then on the next swing,
+she would swing half of that, which would be six meters. And so she might swing like this, and that makes sense. That's consistent with our
+experiences swinging from trees, for those of us who have done that. (laughs) So let's look
+at the first choice. Which expression gives the total length the monkey swings in her first n swings? So pause the video and
+see if you can do that, and you can express it as, actually express it two ways, express it as a geometric series, but also express it as the
+sum of a geometric series if it were actually evaluated. So let's do this together. So we already said on the first swing, the monkey goes 24 meters. Now on the second swing,
+and I gave you a hint when I said to express
+it as a geometric series, she swings half that. Now I could just write a 12 here, but the half is interesting. Because that's going to be my common ratio for my geometric series. Every successive swing, the arc length is half the
+arc length of the last swing. So it's going to be 24 times 1/2 and then on the next
+swing, it's going to be 24, it's going to be half of this. So it's going to be 24
+times 1/2 times 1/2. So that's 24 times 1/2
+to the second power. And so this would be
+the first three swings. Notice that the exponent here,
+we got to the second power. So the first n swings, we are going to get to 24 times 1/2, not to the nth power, but to the n minus one power. Notice, after two swings, we only get to 24 times 1/2 to the first power. After three swings, to the second power. So after n swings, to
+the n minus one power. Now, as I said, we don't wanna
+just have this expression. We actually wanna know,
+how do we evaluate this? And the way we evaluate this is we look at the formula,
+which we've explained and we've proven in other videos, the formula for a finite geometric series. So that tells us, and I'll
+just write it over here, the sum of first n terms is a, where a is the first term. So that's going to be
+our 24 in this situation. It's a minus a times our common ratio, I already said that our
+common ratio is 1/2, to the nth power. So one way I like to remember it is, it is our first term minus the first term that we didn't include, or minus what would've been
+the term right after this. All of that over one
+minus our common ratio. And there's other ways that
+you might've seen this written. You could factor an a out, and you might have seen
+something like this: a times one minus r to the n, all of that over one minus
+r, these two are equivalent. But now let's use this. So this is going to be equal to, actually I'll use this
+second form right over here. So our first term a is 24. So we're going to have 24 times one minus our common
+ratio, which is 1/2, to the nth power, well we're talking about the first n swing, so I'm
+just going to leave an n right over there. All of that over one
+minus our common ratio, one minus 1/2. So we could leave it like that or we could simplify it
+a little bit if we like. One minus 1/2 is equal to 1/2, 24 divided by 1/2 is equal to 48, so if you wanted to, you could simplify it to 48 times one minus 1/2 to the nth power. So either of these would be legitimate. Now the second part, they say, what is the total distance
+the monkey has traveled when she completes her 25th swing? And they say, round your final
+answer to the nearest meter. So pause this video and see
+if you can work that out. All right, well, we can just
+use this expression here. And we know that we are
+completing our 25th swing. So n is 25, and so we'll
+just put a 25 there. So that's going to be
+48 times one minus 1/2 to the 25th power. Now this is going to
+be a very, very small, very, very small number. So it's actually going to be pretty close to 48 meters, but let's
+see what this is equal to. And we're going to round
+to the nearest meter. All right, so let's
+get our calculator out. And so let's just evaluate 1/2, I'll just write that as 0.5 to the 25th power, which, as we said, as we
+predicted, is a very small number. And then we're going to
+subtract that from one, so I'll just put a negative
+and then I'll add one to it. And so that is very close to one. And so my prediction is holding true. So if I multiply that times 48, well, if we round to the nearest meter, we get back to 48 meters. So this is going to be 48 meters. And we're done.

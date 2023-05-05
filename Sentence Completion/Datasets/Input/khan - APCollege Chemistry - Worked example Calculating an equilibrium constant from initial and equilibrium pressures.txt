@@ -1,0 +1,42 @@
+- [Instructor] Let's say
+we have a pure sample of phosphorus pentachloride, and we add the PCl5 to a
+previously evacuated flask at 500 Kelvin. And let's say the initial
+pressure of the PCl5 is 1.66 atmospheres. Some of the PCl5 is going
+to turn into PCl3 and Cl2. Once equilibrium is
+reached, the total pressure, let's say, is measured
+to be 2.35 atmospheres. Our goal is to calculate the
+equilibrium partial pressures of these three substances,
+so PCl5, PCl3 and Cl2. And from those equilibrium
+partial pressures, we can also calculate the Kp value for this reaction at 500 Kelvin. To help us find the
+equilibrium partial pressures, we're gonna use an ICE
+table where I stands for the initial partial
+pressure in atmospheres, C is the change in partial pressure, and E stands for the
+equilibrium partial pressure. We already know we're starting with a partial pressure of
+1.66 atmospheres for PCl5. And if we assume that the
+reaction hasn't started yet, we're starting with zero
+for our partial pressures of PCl3 and Cl2. Some of the PCl5 is going to decompose. And since we don't know how much, we're gonna call that amount x. So, we're gonna write minus x here, since we're gonna lose some PCl5. Next, we need to look at mole ratios. So, the mole ratio of PCl5
+to PCl3 is one to one. So, for losing x for PCl5, we must be gaining x for PCl3. The same idea with Cl2, the coefficient in the
+balanced equation is a one. So, if we're losing x for PCl5, that means we're gaining x for Cl2. Therefore, the equilibrium
+partial pressure for PCl5 would be 1.66 minus x. The equilibrium partial pressure for PCl3 would be zero plus x, which is just x. And the equilibrium
+partial pressure for Cl2 would be zero plus x, which is also x. To figure out what x is, we're
+going to use Dalton's law. And Dalton's law says
+that the total pressure of a mixture of gases is equal to the sum of the individual partial pressures of the gases in the mixture. So, we said that the total pressure of all the gases at equilibrium is equal to 2.35 atmospheres. So, we can plug that into Dalton's law. And then, we can take the
+equilibrium partial pressures from our ICE table and plug
+those into Dalton's law as well. So, we're gonna plug in 1.66 minus x for the equilibrium
+partial pressure of PCl5, x for the equilibrium
+partial pressure of PCl3, and x for the equilibrium
+partial pressure of PCl2. So, let's plug in 1.66 minus x. And then, we have plus x and plus x. And let's solve for x. Notice how we have a minus x and a plus x. So, that cancels out. So, we simply subtract 1.66 from 2.35 and we find that x is equal to .69. So, if x is equal to .69, the equilibrium partial pressure
+of Cl2 is .69 atmospheres. And the equilibrium partial pressure PCl3 is also .69 atmospheres. And 1.66 minus .69 gives us the equilibrium partial pressure of PCl5 and that's equal to .97 atmospheres. Now that we have our
+equilibrium partial pressures for all three gases, we can calculate the value
+for the equilibrium constant for this reaction at 500 Kelvin. First, we need to write an
+equilibrium constant expression. So, we would write Kp is equal
+to, and for our products, we have PCl3, so this would be
+the partial pressure of PCl3 times the partial pressure
+of our other product, which is Cl2, so let's put in there the partial pressure of Cl2. And all of that is divided by
+the partial pressure of PCl5. So, this would be the
+partial pressure of PCl5. Next, we plug in our
+equilibrium partial pressures. So, the equilibrium partial
+pressure of PCl3 is .69. The equilibrium partial
+pressure of Cl2 is also .69. And the equilibrium partial
+pressure of PCl5 is .97. Once we plug our numbers in and we solve, we get that Kp is equal
+to .49 at 500 Kelvin.

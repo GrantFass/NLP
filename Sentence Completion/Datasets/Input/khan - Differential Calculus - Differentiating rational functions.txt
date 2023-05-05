@@ -1,0 +1,57 @@
+- [Voiceover] Let's say that y is equal to five minus three
+x over x squared plus three x And we want to figure out what's the derivative
+of y in respect to x. Now it might immediately
+jump out at you that look, y is being defined as a
+rational expression here as the quotient of two
+different expressions. We could even view this as
+two different functions. You could view this one up here as u of x, so you could say this is the same thing, this is the same thing as u of x, over, you could view the one in
+the denominator as v of x. That one right there is v of x and so if you're taking
+the derivative of something that can be expressed in this way, as the quotient of two
+different functions, well then you could use the quotient rule. I'll give you my little
+aside, like I always do the quotient rule, if you ever forget it it can be derived from the product rule and we have videos there, cause the product rule's
+a bit easier to remember. But what I can do is just say, "look, dy dx, if y is
+just u of x over v of x", I'm just gonna restate the quotient rule. This is going to be, this is going to be the derivative of the
+function in the numerator, so. d, dx of u of x times the function in the denominator times v of x minus, I'll do the minus the function in
+the numerator, u of x, times the derivative of the
+function in the denominator times d dx, v of x and we're almost there and then over, over the function
+in the denominator squared the function in the denominator squared. So this might look messy
+but all we have to do now is think about what is
+the derivative of u of x? What is the derivative of v of x? And we should just be able
+to substitute those things back into this expression
+we just wrote down. So let's do that. So the derivative with respect
+to x of u of x, of u of x is equal to, let's see,
+five minus three x. The derivative of five is zero. The derivative of negative three x, well that's just gonna be negative three. That's just negative three. If any of that look
+completely unfamiliar to you I encourage you to review
+the derivative properties and maybe the power rule. Now let's think about
+what is the derivative with respect to x,
+derivative with respect to x, of v of x, of v of x? Well derivative of x squared, we just bring that exponent out front, it's gonna be two times
+x to the two minus one or two x to the first power or just two x and then the derivative
+of three x is just three. So two x plus three. Now we know everything we need
+to substitute back in here. The derivative of u with respect to x, this right over here
+is just negative three. V of x, this we know is
+x squared plus three x. We know that this right
+over here is v of x. And then u of x we know
+is five minus three x. Five minus three x. The derivative of v with respect to x we know is two x plus
+three, two x plus three. And then finally v of x, we
+know is x squared plus three x. So this is x squared plus three x and so what do we get? Well we are going to get, it's
+gonna look a little bit hairy It's going to be equal to negative I'll focus this so first we
+have this business up here. Negative three times x
+squared plus three x. So I'm just gonna distribute
+the negative three. So it's negative three
+x squared minus nine x and then from that we
+are going to subtract the product of these two
+expressions and so let's see, what is that going to be? Well, we have a five times two x, which is ten x a five times three which is 15 we have a negative three x times two x so that is going to be
+negative six x squared minus six x squared, and then
+a negative three x times three so negative nine x. And let's see we can
+simplify that a little bit. Ten x minus nine x, well that's just going to leave us with x. So ten x minus nine x
+is just going to be x and then in our denominator,
+we're almost there. In our denominator we
+could just write that as x plus three x, x squared
+plus three x squared or if we want we could expand it out, I'll just leave it like that x squared plus three x squared and so if we wanna simplify or attempt to simplify this a little bit. It's going to be negative
+three x squared minus nine x and then you're gonna
+have a negative minus x minus x and then minus 15 and then minus negative six x squared so plus six x squared, all of that over x squared plus three x squared or x squared plus three x, squared. I should say it that way. Now let's see this numerator
+I can simplify a little bit. Negative three x squared
+plus six x squared that's going to be
+positive three x squared and then we have in orange, we have negative nine x minus an x, well that's gonna be
+minus ten x, minus ten x and then we have minus 15. So minus 15. So there you have it, we
+finally have finished. This is all going to be equal to this is all going to be equal to three x squared minus ten x minus 15 over x squared plus three x, squared and we are done.

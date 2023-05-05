@@ -1,0 +1,35 @@
+Voiceover:The price of
+things at two supermarkets are different in different cities. Toilet paper in Duluth,
+Minnesota cost 3.99 a package while toilet paper in New
+York City cost 8.95 a package. In Duluth, toothpaste costs $1.95 a tube while in New York City
+it costs $5.25 a tube. The data for this can be encoded in the following grocery matrix. Let's see if this makes sense. They have the price of
+toilet paper in Duluth 3.99 that's this right over here. Then they have the price of toilet paper in New York at 8.95 so that's this right over here. This first row right over here, this is the toilet paper row. I'll just write TP for short,
+that's the toilet paper row and this first column
+looks like it's Duluth while this second column
+looks like it's New York City. Let's see if that works
+out for the other data. In Duluth a toothpaste cost $1.95 a tube, so this data right over
+here, is right over here. This looks like the toothpaste row. Toothpaste actually is also TP so I'll just write out tooth. This is the toothpaste row, this is toothpaste in Duluth, $1.95. Toothpaste in New York City, 5.25. That's how they have set-up
+the data right over here. Which statements are true
+about the above matrix? Select all that apply. The following matrix can also be used to contain the same information as G. That's what's interesting
+about the matrix, what we have right over here is essentially an encapsulation
+of all of the data that we have in this upper paragraph and it's useful because a computer could make use of this data as long as it knows what these rows and what these columns actually represent. The first thing they ask us is whether the following
+matrix can also be used to contain the same information. Let's see, this is the price
+of toilet paper in Duluth and this right over here is the price of toilet paper in New York City. They have the exact same first row, I would say that looks
+like the toilet paper row and that would be Duluth column and this would be the
+New York City column. Then if we define things that way then this would have to
+be the toothpaste row, but the price of toothpaste in Duluth is not 5.25, and the price of
+toothpaste in New York City is not 1.95. This one is not representing
+the same information as that up there. You can't just randomly order this around. Now you could represent it in other ways, you could have another ... Let's say I have the matrix A, we could have picked to
+do something like this where we could have said well maybe this is the toothpaste column and maybe this is the toilet paper column, and that this first row is New York City and the second row is Duluth. You could have done something like this toothpaste in New York City was 5.25, toilet paper in New York City is 8.95, toothpaste in Duluth is 1.95 and toilet paper in Duluth is 3.99. This would have been, this matrix A that I've just constructed, this does contain the same data because if we appropriately
+define our columns and rows to represent toothpaste or toilet paper in New York City or Duluth, you can contain that information. The problem with this one
+is it's not consistent. This first row makes us think, okay this must be the Duluth column, this must be the New York City column and that the second row must be toothpaste since the first row is toilet paper but then they got things mixed up. If they switch these two things around then obviously you get the same matrix but then at least the data
+would have been consistent. I definitely would not
+say that this matrix contains the same information. The second column represents
+the price of toothpaste in the two cities. The second column is this right over here, no, that's not the price of
+toothpaste in the two cities, that's the price of
+the two different goods in New York City, so I wouldn't check that one either. Element G two comma one is equal to 5.25, so when someone says ... If you have the matrix and they give you two comma one. These are the indices of
+the row and the column, so this is a second row, first column. Let's go there, second
+row so this is one, two, second row, first column
+is right over there. G two comma one is not 5.25, so I wouldn't check that one either. A change in the price of
+toilet paper in Duluth can be represented by the matrix. Toilet paper in Duluth is this entry of our matrix right over there. Change in toilet paper in Duluth would represent a change in this 3.99 but they didn't change the 3.99, they changed the 9.75. The 9.75 would represent a change in the price of toilet
+paper in New York City. I wouldn't check that one either, so I would only go with none of the above.

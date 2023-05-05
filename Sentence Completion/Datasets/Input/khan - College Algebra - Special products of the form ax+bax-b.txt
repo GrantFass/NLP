@@ -1,0 +1,41 @@
+Find the product 2x
+plus 8 times 2x minus 8. So we're multiplying
+two binomials. So you could use FOIL,
+you could just straight up use the distributive
+property here. But the whole point of
+this problem, I'm guessing, is to see whether you
+recognize a pattern here. This is of the form a
+plus b times a minus b, where here a
+is 2x and b is 8. We have 2x plus 8 and then 2x
+minus 8. a plus b, a minus b. What I want to do
+is I'm just going to multiply this out for us. And then just see what happens. Whenever you have this pattern,
+what the product actually looks like. So if you were to
+multiply this out, we can distribute the a plus b. We could distribute
+this whole thing. Distribute the whole
+a plus b on the a and then distribute it on the b. And I could have done this
+with this problem right here, and it would have taken us
+less time to just solve it. But I want to find out
+the general pattern here. So a plus b times a. So we have a times a plus
+b, that's this times this. And then a plus b
+times negative b, that's negative
+b times a plus b. So I've done distributive
+property once, now I could do it again. I can distribute the a
+onto the a and this b and it gives me a squared. a times a is a squared,
+plus a times b, which is ab. And now I can do it
+with the negative b. Negative b times a is negative
+ab or negative ba, same thing. And negative b times b
+is negative b squared. Now, what does this simplify to? Well, I have an ab, and
+then I'm subtracting an ab. So these two guys
+cancel out and I am just left with a squared
+minus b squared. So the general pattern,
+and this is a good one to just kind of
+know super fast, is that a plus b times
+a minus b is always going to be a squared
+minus b squared. So we have an a plus
+b times an a minus b. So this product is
+going to be a squared. So it's going to be
+2x squared minus b squared minus 8 squared. 2x squared, that's
+the same thing as 2 squared times x
+squared, or 4x squared. And from that, we're
+subtracting 8 squared. So it's going to be
+4x squared minus 64.

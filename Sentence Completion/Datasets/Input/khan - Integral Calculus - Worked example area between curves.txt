@@ -1,0 +1,31 @@
+- [Instructor] What we're going to do using our powers of calculus is find the area of this yellow region and if at any point you get inspired, I always encourage you to pause the video and try to work through it on your own. So, the key here is you
+might recognize hey, this is an area between curves. A definite integral might be useful, so I'll just set up the
+definite integral sign and so, first we're gonna
+think about what are left and right boundaries of our region? Well, it looks like the left boundary is where the two graphs
+intersect right over here and the right boundary is where they intersect right over there. Well, what is this point of intersection? It looks like it is
+negative one, negative two. We can verify that. In this red curve, if X is negative one, let's see, you square that,
+you'll get one minus three. You do indeed get Y is
+equal to negative two and in this blue function was X is equal to negative one, you get one minus four plus one. Once again, you do indeed get
+Y is equal to negative two and the same thing is true when X is equal to one. One minus three, negative two, one minus four plus one, negative two. So, our bounds are
+indeed, we're going from X equals negative one to
+X equals positive one and now let's think about
+our upper and lower bounds. Over that interval this blue graph is our upper bound and so, we would subtract the lower bound from the upper bound, so we would have X to the fourth, minus four X squared plus one and from that we will subtract X squared minus three DX and in many other videos we have talked about why you do this, why this makes sense to just subtract the lower graph from the upper graph when you're finding the area between them but now we just have to
+evaluate this definite integral, so let's just get down to business. Alright, so we have the integral
+from negative one to one, and so, we have X to the
+fourth, X to the fourth, and now we have minus four X squared and then when you distribute
+this negative sign, you're gonna subtract another X squared, so you're gonna have minus five X squared and then you have plus one and then you're gonna
+subtract a negative three, so it's gonna be one plus three, so it's gonna be plus four DX, DX and just to be clear I should put parentheses right over there because it's really the
+DX is being multiplied by this entire expression and so, let's see, let's find
+the antiderivative of this. This should be pretty straightforward. We're just gonna use
+the reverse power rule multiple times, so this is
+going to be the antiderivative of X to the fourth is X
+to the fifth over five. We just incremented the exponent and divided by that incremented exponent, minus, same idea here, five X to the third over three plus four X and then we are going to evaluate it at one and then subtract from that and evaluate it at negative one. So, let's first evaluate it at one. We're gonna get 1/5 minus 5/3 plus four and now let us evaluate
+it at negative one, so minus, let's see, if
+this is negative one, we get a negative 1/5, negative 1/5 and this is gonna be plus 5/3, plus 5/3 and then this is
+going to be minus four, minus four but then when you distribute the negative sign, we're
+going to distribute this over all of these terms, and so this is going to be, if we make this positive,
+this will be positive, this one will be negative and then this one will be positive, so you have 1/5 plus 1/5 which is going to be 2/5, that and that, and then minus 5/3, minus 5/3, so minus 10 over three and then four plus four, so plus eight and so, we just need to simplify this. This is going to be, let's see, it's going to be eight and then if I write, so plus, I'm gonna write these two
+with a denominator of 15 'cause that's the common
+denominator of three and five. Let's see, 2/5 is 16/15,
+yeah, that's right, five times three is 15. Two times three is six and then 10/3, let's see, if we multiply the denominator times fives, we have to multiply the
+numerator times five, so this is going to be 50/15 and so, what's 6/15 minus 50/15? So, this is going to be equal to eight minus six minus 50 is minus 44, minus 44 over 15 and so what is 44 over 15? 44 over 15 is equal to two and 14/15, so that's really what we're subtracting. We're gonna subtract two and 14/15, so if you subtract two from this you would get six minus 14 over 15 'cause we still have to subtract the 14/15 and then six minus 14/15 is going to be equal to five and 1/15. So, just like that, we were indeed able to figure out this area.

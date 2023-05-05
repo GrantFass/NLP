@@ -1,0 +1,79 @@
+Voiceover:The hottest day of
+the year in Santiago, Chile on average, is January
+seventh, when the average high temperature is 29 degrees Celsius. The coolest day of the year has an average high temperature of 14 degrees Celsius. Use a trigonometric function
+to model the temperature in Santiago, Chile, using 365
+days as the length of a year. Remember that January seventh
+is the summer in Santiago. How many days after January
+seventh is the first spring day when the temperature
+reaches 20 degrees Celsius? So let's do this in two parts. First, let's try to figure
+out a trigonometric function that models the temperature
+in Santiago, Chile. We'll have temperature
+as a function of days, where days are the number of
+days after January seventh. Once we have that trigonometric
+function to model that, then we can answer the
+second part, I guess, the essential question,
+which is, "How many days after January seventh
+is the first spring day when the temperature
+reaches 20 degrees Celsius?" To think about this let's
+graph it and it should become pretty apparent why
+they are suggesting that we use a trigonometric
+function to model this. Because our seasonal
+variations they're cyclical. They go up and down. Actually, if you look at
+the average temperature for any city over the course of the year, it really does look like
+a trigonometric function. This axis right over here. This is the passage of the days. Let's do d for days and that's going to be in days after January seventh. So this right over here
+would be January seventh. And the vertical axis, this
+is the horizontal axis. The vertical axis is going to be in terms of Celsius degrees. The high is 29 and I could
+write 29 degrees Celsius. The highest average day. If this is zero then 14, which
+is the lowest average day. 14 degrees Celsius. So our temperature will vary
+between these two extremes. The highest average day,
+which they already told us, is January seventh we get
+to 29 degrees Celsius. And then the coldest day
+of the year, on average, you get to an average high
+of 14 degrees Celsius. So it looks like this. We're talking about average
+highs on a given day and the reason why a
+trigonometric function is a good idea is because it's cyclical. If this is January
+seventh, if you go 365 days in the future, you're
+back at January seventh. If the average high temperature
+is 29 degrees Celsius on that day, the average high temperature is going to be 29 degrees
+Celsius on that day. Now, we're using a
+trigonometric function so we're going to hit our low point
+exactly halfway in between. So we're going to hit our low point exactly halfway in between. Something right like that. So our function is
+going to look like this. Our function, let me see. I'm going to draw the low point right over there and this is a high point. That's a high point right over there. That looks pretty good. Then, I have the high point
+right over here and then, I just need to connect
+them and there you go. I've drawn one period of our trigonometric function and our period is 365 days. If we go through 365 days
+later we're at the same point in the cycle, we are at
+the same point in the year. We're at the same point in the year. So, what I want you to
+do right now is, given what I've just drawn,
+try to model this right. So, this right over here, let's write this as T as a function of d. Try to figure out an expression
+for T as a function of d and remember it's going to be
+some trigonometric function. So, I'm assuming you've given
+a go at it and you might say, "Well this looks like a cosine
+curve, maybe it could be "a sine curve, which one should I use?" You could actually use either one, but I always like to go with the simpler one. Just think about well
+if these were angles, either actual degrees or radians, which trigonometric function
+starts at your maximum point? Well cosine of zero is one. The cosine starts at your maximum point. Sine of zero is zero, so I'm
+going to use cosine here. I'm going to use a cosine function. So, temperature as a function of days. There's going to be some amplitude
+times our cosine function and we're going to have some
+argument to our cosine function and then I'm probably
+going to have to shift it. So let's think about how we would do that. Well, what's the mid line here? The mid line is the halfway point between our high and our low. So our midpoint, if we were to visualize it, looks just like so. That is our mid line right over there. And what value is this? Well what's the average of 29 and 14? 29 plus 14 is 43 divided by
+two is 21.5 degrees Celsius. So that's our mid line
+so essentially we've shifted up our function by that amount. If we just had a regular
+cosine function our mid line would be at zero, but now
+we're at 21.5 degrees Celsius. I'll just write plus 21.5, that's how much we've shifted it up. Now, what's the amplitude? Well our amplitude is how much
+we diverge from the mid line. Over here we're 7.5 above the
+mid line so that's plus 7.5. Here we're 7.5 below the
+mid line, so minus 7.5. So our amplitude is
+7.5, the maximum amount we go away from the mid line is 7.5. So that's our amplitude. And now let's think about our argument to the cosine function right over here. It's going to be a function of the days. And what do we want? When 365 days have gone by, we want this entire argument to be two pi. So when d is 365, we want this whole thing to evaluate to two pi. We could put two pi over 365 in here. You might remember your
+formulas, I always forget them that's why I always try to
+reason through them again. The formulas, you want two
+pi divided by your period and all the rest, but I just
+like to think, "Okay, look. "After one period, which is
+365 days, I want the whole "argument over here to be two pi. "I want to go around the unit
+circle once and so if this "is two pi over 365, when
+you multiply it by 365 "your argument here is
+going to be two pi." Just like that we've done the
+first part of this question. We have modeled the
+average high temperature in Santiago as a function of
+days after January seventh. In the next video we'll
+answer this second question. I encourage you to do
+it ahead of time before watching that next video
+and I'll give you one clue. Make sure you pay attention to the fact that they're saying the first spring day.

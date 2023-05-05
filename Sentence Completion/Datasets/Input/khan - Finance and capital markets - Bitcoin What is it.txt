@@ -1,0 +1,193 @@
+But what I wanted to do in
+this video is talk about what a bitcoin is in
+more general terms and what differentiating
+characteristics they have compared
+to other approaches. So for starters, bitcoin is just
+an electronic payment system. By electronic payment
+system, I mean it's just a vehicle, a conduit,
+by which two parties can transact over the internet. I call these parties
+Alice and Bob. And let's say Alice
+for whatever reason wants to give money to
+Bob over the internet. And this may be because
+she owes Bob money, or maybe Bob is a
+merchant and Alice is buying something from Bob. Or maybe Bob is
+a not-for-profit, and Alice is making
+a donation to Bob. So there could be
+many reasons why Alice is trying to pay Bob over
+the internet in some capacity. Now, if Bob is willing
+to accept bitcoins, which are a form of
+electronic payments, then Alice can go ahead and
+send Bob some value in bitcoins. And really, a
+bitcoin transaction between Alice and Bob amounts
+to a specially constructed sequence of numbers that
+Alice will basically send over to Bob. And this will be done
+entirely over the internet. These numbers will have certain
+mathematical properties. They make it hard for someone
+to really defraud the system or to conduct some type of
+nefarious action on the system. And the way that
+Alice is actually going to conduct this
+transaction in practice is either by installing a
+special piece of software, which we call a
+bitcoin client, or she can work with a
+third-party service that can handle these
+mechanics for her. But in either case, either
+the client or the service is going to generate
+these numbers for Alice. And on the flip side,
+Bob will also typically either have a piece
+of software installed or he'll use a
+third-party service that will take these
+numbers and allow him to do something
+else with those numbers. For example, Bob can in turn
+buy something on his own with those numbers, or he
+can trade those numbers in for real money and
+so on and so forth. Now, one of the first
+questions you might have-- and I kind of alluded
+to this earlier-- is why would Bob even
+want to accept bitcoins in the first place? After all, a bitcoin is
+just a bunch of numbers. What intrinsic value
+would it conceivably have? And it turns out,
+quite surprisingly, that bitcoins actually
+have real-world value. There are more and more
+merchants popping up each day who accept
+bitcoins for transactions. There are also
+bitcoin exchanges, places where you
+can go and exchange bitcoins for more
+mainstream currencies. And some of exchanges include--
+the major one is one called Mt. Gox. And at Mt. Gox you could exchange a bitcoin
+for a euro or yen or dollar and so on and so forth. Now the current
+price of a bitcoin, the current value of a bitcoin
+in US dollars as of this video, is approximately US$100. per bitcoin. That number is fluctuating. This is a new
+currency, and there's going to be some fluctuation. But as people understand
+the currency better, the hope is that that
+fluctuation will decrease. But I think ultimately,
+the thing to keep in mind is that the value
+of a bitcoin is going to be derived
+from the faith that you have in
+the value of what you can procure
+with that bitcoin. It's just like you would
+for a dollar, a euro or yen. The faith that you have
+in that currency's value is how you value that currency. Now another question
+you might have is why do people even
+bother with bitcoins in the first place. Aren't there other
+more standard ways? Why couldn't Alice
+and Bob use Paypal? Why couldn't they use a credit
+card number to transact? Why couldn't Alice just sent
+Bob an electronic check? Why not use one of these
+other approaches that are more well understood,
+that are more mainstream, that are more established? Why on earth would you possibly
+want to mess with a good thing? So it turns out that there are
+a few properties of bitcoins that are worth noting. For starters, there's privacy. It turns out that within
+the bitcoin ecosystem, within the bitcoin
+network, people can transact without divulging
+who they are in the real world. From the perspective of
+bitcoin, Alice's identity is just going to be a
+sequence of numbers. And that sequence of
+numbers is effectively going to function like
+a pseudonym for Alice. And that sequence of
+numbers has nothing to do with your
+real-world identity. Nobody needs to know this
+is Alice transacting. All they need to worry
+about is their pseudonym within the system. And this is kind of
+but not quite like what you would get if you bought
+something using cash. In that capacity, when you
+buy something using cash, then you don't have to provide
+any details or proof regarding who you are in the real world. And that's different
+from, let's say, using a credit
+card, where you have to provide your name and your
+billing address and so on. Or let's say providing an
+electronic check, where you need to tie that
+electronic check, typically your bank
+account details. Now, I do want to
+also mention here that sometimes when you have a
+cash list or a transaction that uses cash, there is
+now the possibility that people might try to
+use these transactions for malicious purposes to buy
+illicit goods and services. That definitely is
+a risk that occurs when you provide
+anonymity and privacy. But there are certainly
+legitimate reasons why somebody might want to
+conduct a transaction privately and not have the whole world
+know what they're transacting. Another property of
+bitcoin is that it's open. Literally anyone
+can get involved. Literally anyone who was
+an internet connection can make a bitcoin transaction. And all you need to do to
+get started is, as I alluded to earlier, is download
+this special bitcoin client. And the bitcoin client,
+or for that matter you can use a service like Mt. Gox which will effectively
+do the same work as a client for you. But the short of
+it is that anyone who has a bitcoin
+client or who has an account with an
+exchange like Mt. Gox can engage in
+bitcoin transactions. That transaction, the details
+of it, the mechanics of it will be transparent to the user. All the user has to worry
+about-- all Alice needs to worry about-- is
+how much money she has and whether she can
+give that money to Bob. The actual software
+underneath will take care of all the
+underlying mechanics of making that transaction work. Now, this is different. When you think about
+a traditional currency like a dollar, if I want to
+transact something online, typically I need a bank
+account, I need a credit card, and so on and so forth. Then we often take it for
+granted that there are people out there who may
+not have access to a credit card, who may
+not have a bank account. For example, in the United
+States alone it turns out-- and I just looked this up--
+the number of households without a bank
+account, I read it, is somewhere north of about 8%. It's pretty high. There are a lot of
+people out there who wouldn't be able to
+conduct a traditional internet transaction, but who can conduct
+a transaction using bitcoin. And by the way, there
+are people using bitcoin all over the world. And literally it doesn't matter
+where you are in the world, as long as you have an
+internet connection, you can start
+transacting bitcoins. Now, another property of
+bitcoin that's worth mentioning is that it's decentralized. There's no bank or
+centralized entity that can really control what's
+happening in the bitcoin ecosystem. It's all done in this
+kind of ad hoc fashion. And what that means is that
+when you do a transact-- or when Alice transacts
+with Bob over the internet, that transaction doesn't have
+to go through a third party. There's no bank that gets in
+the way of that transaction. And that can have
+certain benefits as well. For example, that means that
+no one entity can directly control the money
+supply of bitcoins. That also means that no one
+entity can see your assets. Or for that matter,
+no one entity can reverse a transaction,
+which is definitely desirable for certain merchants. Some merchants might
+not be able to conduct business online because
+of fraud concerns. And if you have a system where
+the transactions cannot be charged back easily, then from
+the merchant's perspective, they may be able to inhibit
+fraud and thereby that might enable their business
+entirely online. Now I want to point out
+that this last property of decentralization
+definitely causes concern among some people or not
+in bitcoin after all. When you think about it, a
+central authority like a bank does perform an
+important function in the context of a
+traditional currency. For example, banks might
+validate currencies. They might validate
+transactions against fraud. Now, in bitcoin, this
+validation is basically done in a decentralized
+way by the other parties, the other nodes, in
+the bitcoin network. Now, the goal of the remaining
+videos in this series is to walk through the
+underlying mechanics of bitcoin transactions and really
+how they're validated, even though the system
+is decentralized. And there are some
+pretty amazing techniques that are used to
+make all this work. So I suspect that
+at this point, you may have a ton of
+questions about bitcoin, and that's entirely
+to be expected. Bitcoin is a very
+complex protocol. It has many moving parts. And I think it's
+critical when you're trying to understand
+something as complex and wrap your head around
+something as sophisticated as bitcoin, it's important to
+get exposed to all the parts first so that you
+can ultimately get a flavor for how
+they fit together. And hopefully the other
+videos in this series will help you to understand
+these different parts and along the way address
+many of the questions that you might have.

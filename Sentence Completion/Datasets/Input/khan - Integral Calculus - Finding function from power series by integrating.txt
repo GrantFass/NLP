@@ -1,0 +1,51 @@
+- [Instructor] We know that
+for x in the open interval from negative 1/2 to 1/2, that negative two over one minus two x is equal to this series. And it says using this
+fact, find the function that corresponds to the following series. And like always, pause this video and see if you can work through it. All right, so the first
+thing you might say is well how do we know that this
+expression is equal to this series? And you might recognize this
+series as a geometric series where the first term is negative two and then the common ratio
+to get each successive term, we're multiplying by two x,
+we're multiplying by two x. And so for a geometric series like this, the sum is gonna be the first term, negative two over one
+minus the common ratio, which is exactly what we have over there. So that's why we know that. And this right over here, this gives us our radius of convergence, the x values for which this
+thing will actually converge. But now that we feel good
+about this first statement, let's try to answer their actual question. So we wanna find the function that corresponds to the following series. So my instinct is to say, well
+how does this series relate to the series they gave us? Let's see, this first
+term is a negative two, this first term is a negative two x, this is a negative four x, this
+is a negative two x squared. So the thing that might
+jump out at you is that this second series they gave
+us is the antiderivative of this first one. Or we could say this first
+series is a derivative of the second one. What's the derivative of
+negative two x with respect to x? Well, it's negative two. What's the derivative of
+negative two x squared with respect to x? Well, it's negative four
+x and so on and so forth. And so if we were to
+call this, let me call, let me call this thing right over here, actually, let me just say
+that this is equal to g of x. Well, the way I can take
+this right hand side and get g of x is by
+taking the antiderivative, taking the indefinite integral. And so what we can do, we can take the indefinite integral of both sides, dx. So dx. On the right-hand side
+I'm gonna get g of x. And on the left-hand
+side, I am going to get, actually let me write it this way. So on the left-hand side,
+I'll just rewrite it, I'm gonna get the indefinite integral of, I'll write it as negative two dx over one minus two x. And that's just another way of writing what I have on the left-hand side here. This is equal to g of x, right? If I take the antiderivative of this or an antiderivative of this, is this g of x, where the
+constant would've been zero. So I'll say is equal to g of x. And so the key here is well,
+what's the indefinite integral of this stuff, and you
+might immediately recognize what I have here in the bottom, I have its derivative here on the top. If I consider this to be u. If I say u is equal to one minus two x, this is just u substitution, then du is equal to the derivative of this with respect to x which
+is negative two dx. And so I have the du right over here. So let me rewrite all of this. I can rewrite this as
+the integral of du over u is equal to g of x, and this we can rewrite as the natural log of the absolute value of u plus c is equal to g of x. And then we can undo our u substitution, and so for u I'll undo,
+I will substitute back the one minus two x. So I can write the natural log of the absolute value of one
+minus two x is equal to plus c, I don't wanna for get that, plus c is equal to g of x. And so the next thing we wanna
+do is well, what is our c? And the easiest way to figure out c is let's substitute zero for x. And so let's think
+about this a little bit. So if I put a zero
+here, if I put x equals, actually let me just write it again. So I have the natural
+log, if I say x is zero, this is gonna be the natural log of the absolute value of one plus c is equal to g of zero. So what's g of zero? G of zero, everyone of these
+terms is equal to zero. G of zero is equal to zero. So is equal to zero. Well, natural log of one is just zero. So zero plus c is equal to
+zero, c is equal to zero. So there you have it. I just took the
+antiderivative of both sides of this equation right over here. I figured out, when I
+substituted zero for x, then okay, my constant
+here is going to be zero, and I get that, I get that this series, this g of x is equal to the natural log of the absolute
+value of one minus two x, is equal to the natural
+log of the absolute value of one minus two x. Now, if we keep this restriction that we're in this open interval, then this is always going to be positive. And we wouldn't have to
+write the absolute value, but we could be safe by
+writing the absolute value. But there you go. Using the fact above,
+we found the function that corresponds to this following series. And I guess you could
+say that the trick of it was recognizing that the series up here is a derivative
+of the series down here. And so this is going to be the derivative of the following series, and so we just took the
+antiderivative of both sides, or the indefinite integral of both sides.

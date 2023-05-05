@@ -1,0 +1,14 @@
+(techno music) - To hit our design goal given to us from the story department, we'll also have to resize
+objects in our scene. For example, I can put Buzz into the shot, but he's clearly not the
+size indicated in the sketch. We can change the size of Buzz, say making him twice as big by using
+the scaling operation. To scale the object to
+twice its initial size, I have to multiply the
+coordinates of each point in the object by a factor of two. As before with translation,
+I can pick any initial point. Call its coordinates x0 and y0. After scaling it becomes a point x1 y1. This formula shows that the coordinates of each point gets multiplied by two. More generally, making something s times as big means multiplying by s. If s is larger than
+one, things get bigger. And if s is less than
+one, but still positive, things get smaller. We can summarize this by saying that the mathematics of scaling is multiplication. If the scaling factor in x
+is bigger than the one in y, I stretch the object out horizontally. Think about what would happen if the y factor is bigger than x. Also, think about what would
+happen if s is negative. We generally need to
+both scale and translate objects to put them where we want. I've already scaled the Luxoball so I can position it using translation. Again, as I click on an initial position, you can see where that point goes once it's gone through both operations. The formulas tell us that two operations are being performed. In this next exercise, your assignment is to add to the shot you
+created in the last exercise by adding objects that require both translation and scaling operations. Remember if they require rotation, you shouldn't place them
+in the shot just yet. (strong drum beat) Take your time, but honestly the animation department has been waiting for this shot for like two weeks. So, see you in 10 minutes.

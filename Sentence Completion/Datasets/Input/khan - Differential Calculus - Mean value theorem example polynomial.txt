@@ -1,0 +1,68 @@
+Let's say I have
+some function f of x that is defined as being equal
+to x squared minus 6x plus 8 for all x. And what I want to do is
+show that for this function we can definitely find
+a c in an interval where the derivative at the point c
+is equal to the average rate of change over that interval. So let's give ourselves an
+interval right over here. Let's say we care about the
+interval between 2 and 5. And this function is definitely
+continuous over this closed interval, and it's also
+differentiable over it. And it just has to
+be differentiable over the open interval, but
+this is differentiable really for all x. And so let's show
+that we can find a c that's inside the
+open interval, that's a member of the open
+interval, that's in the open interval such
+that the derivative at c is equal to the average rate
+of change over this interval. Or is equal to the slope of
+the secant line between the two endpoints of the interval. So it's equal to f of 5
+minus f of 2 over 5 minus 2. And so I encourage you to
+pause the video now and try to find a c where
+this is actually true. Well to do that, let's just
+calculate what this has to be. Then let's just take the
+derivative and set them equal and we should be able
+to solve for our c. So let's see f of 5 minus f of
+2, f of 5 is, let's see, f of 5 is equal to 25 minus 30 plus 8. So that's negative 5
+plus 8 is equal to 3. f of 2 is equal to
+2 squared minus 12. So it's 4 minus 12 plus 8. That's going to be a 0. So this is equal to 3/3,
+which is equal to 1. f prime of c needs
+to be equal to 1. And so what is the
+derivative of this? Well let's see, f prime of
+x is equal to 2x minus 6. And so we need to figure
+out at what x value, especially it has to be
+in this open interval, at what x value
+is it equal to 1? So this needs to be equal to 1. So let's add 6 to both sides. You get 2x is equal to 7. x is equal to 7/2, which is
+the same thing as 3 and 1/2. So it's definitely in this
+interval right over here. So we've just found
+our c is equal to 7/2. And let's just graph
+this to really make sure that this makes sense. So this right over
+here is our y-axis. And then this right
+over here is our x-axis. Looks like all the
+action is happening in the first and
+fourth quadrants. So that is our x-axis. And let's see, let's say
+this is 1, 2, 3, 4, and 5. So we already know that 2
+is one of the zeroes here. So we know that our function
+if we wanted to graph it, it intersects the
+x-axis right over here. And you can factor this out
+as x minus 2 times x minus 4. So the other place where
+our function hits 0 is when x is equal
+to 4 right over here. Our vertex is going to be right
+in between at x is equal to 3. When x is equal to 3, let's
+see, 9 minus 18 is negative 9 plus 8, so negative 1. So you have the point
+3, negative 1 on it. And so that's enough
+for us to graph. And we also know
+at 5, we're at 3. So 1, 2, 3. So at 5, we are right over here. So over the interval
+that we care about, our graph looks
+something like this. So that's the interval
+that we care about. And we're saying
+that we were looking for a c whose slope is
+the same as the slope of the secant line,
+same as the slope of the line between
+these two points. And if I were to just visually
+look at it, I'd say well yeah, it looks like right around
+there just based on my drawing, the slope of the tangent line
+looks like it's parallel. It looks like it
+has the same slope, looks like the tangent line is
+parallel to the secant line. And that looks like it's
+right at 3 and 1/2 or 7/2. So it makes sense. So this right over here is
+our c. c is equal to 7/2.

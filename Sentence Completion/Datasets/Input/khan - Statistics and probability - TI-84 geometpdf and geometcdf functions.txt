@@ -1,0 +1,80 @@
+- [Instructor] What we're
+going to do in this video is learn how to use a graphing calculator, in particular a TI84. If you're using any other TI
+Texas Instrument calculator it'll be very similar in
+order to answer some questions dealing with geometric random variables. So, here we have a scenario. I keep picking cards from a standard deck until I get a king. So this is a class geometric
+random variable here and it's important that
+in this parentheses it says I replace the cards
+if they are not a king and this important as we
+talk about on other videos because the probability of
+success each time can't change. And so we could define
+some random variable X this is a geometric random
+variable as being equal to the number of picks until we get a king. When we replace the cards
+if they are not a king. And for this geometric random variable, what's the probability
+of success on each trial? Remember what are the
+conditions for a geometric random variable is that
+probability of success does not change on each trial. Well the probability of
+success is going to be equal to there's four kings in a
+standard deck of 52, this is the same thing as one over 13. So this first question is
+what is the probability that I need to pick five cards? Well this would be the
+probability that our geometric random variable X is equal to
+five and you could actually figure this out by hand,
+but the whole point here is to think about how to
+use a calculator and there's a function called geometpdf
+which stands for geometric probability distribution
+function, where what you have to pass it is the probability
+of success on any given trial, one out of 13, and
+then the particular value of that random variable
+that you want to figure out the probability for, so
+five right over there. Now just to be clear, if
+you're doing this on an AP exam and this is one of the reasons
+why a calculator is useful, you can use this on an AP
+exam, AP statistics exam. It's important to tell the
+graders if you're doing it on the free response that
+this right over here is your P and that this right over
+here is your five just so it's very clear that where you
+actually got this information from or why you're actually typing it in. But let's just see how it
+works, what this probability is actually going to amount to. Alright so I have my calculator
+now and I just need to type in geometpdf and then those parameters. And so the place where I
+find that function I press 2nd, distribution right over
+here, it's a little above the vars button. And then I click up, I can
+scroll down or I could just go to the bottom of the list
+and you can see the second from the bottom is
+geometpdf, click Enter there. My P value, my probability
+of success on each trial is one out of 13, and I want
+to figure out the probability that I have to pick five cards. And so then click Enter,
+click Enter again, and there you have it, it's about 0.056. So this is approximately 0.056. Now let's answer another
+question, so here they say what is the probability that
+I need to pick less than 10 cards? So this is the probability
+that X is less than 10 or I could say this is equal
+to the probability that X is less than or equal to nine. And I could say well this
+is the probability that X is equal to one plus the
+probability that X is equal to two all the way to the probability
+that X is equal to nine. But that would take a
+while, even if I used this function right over here. But lucky for us, there's
+a cumulative distribution function, take some space
+from the next question, this is going to be equal
+to geometcdf, cumulative distribution function and once
+again I pass the probability of success on any trial and
+then up to including nine. So let's get the calculator out again. So we go to 2nd, distribution,
+I click up and there we have it geomet cumulative
+distribution function, press Enter, one out of 13 chance
+of success on any trial. Up to and including nine, and then Enter. And there you have it, it's
+approximately 51.3% or 0.513. So this is approximately 0.513. Now let's do one more. What is the probability that
+I need to pick more than 12 cards? And like I'll pause the video
+and see if you can figure this one out, what function
+would I use on my calculator, how would I set it up? Well the probability, this
+is the probability that X is going to be greater than
+12, which is equal to one minus the probably that x
+is less than or equal to 12. And now this we could just use
+the cumulative distribution function again, so this
+is one minus geometcdf cumulative distribution
+function, cdf, of one over 13 and up to and including 12. So what is this going to be equal to? So 2nd, distribution, I click
+up, I get to the function. Click Enter, and so I
+already have that first, the probability of success on
+every trial is one over 13, and then cumulative up to
+12 and so I click Enter. And then well I could click
+Enter there, but I really want to get one minus this
+value, so I can do one minus 2nd Answer, which would be
+just one minus that value, which will be equal to there
+you have it, it's about 38.3% or 0.383. So this is approximately
+equal to 0.383 and we're done.

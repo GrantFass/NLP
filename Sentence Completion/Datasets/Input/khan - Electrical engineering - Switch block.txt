@@ -1,0 +1,65 @@
+Switch statements are
+powerful, because they allow you to change the
+behavior of your robot based on some condition. For example, let's say
+you're writing a program-- and I always draw out
+my programs first-- which does something, say
+it turns on the motors and plays a sound,
+and you get to a point where you want to branch the
+behavior based on a condition. For example, if the touch
+sensor is pressed, go do this, and if the touch sensor is
+not pressed, then go do this. Now this little branch here is
+our switch statement in action, and you should think of it as
+actually splitting the sequence beam into two possible
+execution paths. OK. So let's do a very simple
+example, such as an object detector. [SERIES OF BEEPING SOUNDS] --build our simple
+object detector. The switch statement
+is under flow and is this icon right here. And as you can see, it has
+split the sequence beam into two possible
+execution paths, which are controlled by the setting. Now the setting is down here. We have it set to be controlled
+by a sensor, however, we can select any sensor
+we want to control this. So we're going to do
+an object detector, but we could just as
+easily use a sound level to control the
+execution-- maybe it'll detect the presence of a
+clap-- or a light sensor-- if it's bright, it'll
+control the execution. So I'm going to select
+ultrasonic sensor and make sure I identify
+the correct port it is plugged into. This is my most common
+source of error. I have it plugged into Port 3. And now the important
+part is the comparison. When we use words like
+close, bright, or loud, these are arbitrary. We need to tell our program
+exactly what we mean by close. In this case, I'm going to drag
+the slider between these two states, close and
+far, and I'm going to say close is when
+we're less than 20 inches. Now close, which is represented
+by this flower icon, means our reading if
+there is an object less than 20 centimeters,
+and this mountain, which is our far state, is anything
+greater than 20 centimeters away or if there's
+no object at all. So when we look up here
+at our switch statement, we see there's a ultrasonic
+sensor, so that's correct, and there's now a flower
+and a mountain reminding us if something is detected, it's
+going to take this top path, and otherwise, it's going
+to take this bottom path. I said we will generate a
+tone if we detect an object, so I go to my output here,
+find the sound block, and drag the sound block onto
+the top part of my switch statement. And now you can clearly see how
+there's two execution paths. If it detects something,
+it'll play the sound block. Otherwise, it will do nothing. And what do we want it to
+do if it detects an object? Let's have the sound
+block play a tone. It's set to sound file, but
+I can just click tone here. And then I'll click
+a key-- let's say, it will play a C if
+it detects an object. Before I run this, I want
+to put it inside a loop. Otherwise, this will
+just quickly execute, and I won't have any
+dynamic behavior. So I'm going to grab loop
+from my flow and drop it here. The loop is empty
+by default, and it's going to be an infinite
+loop, which is what we want. So we don't need
+to change anything. I just need to drag-- I'm going
+to highlight all of this-- and drag it into my loop. So there it goes. It automatically
+expanded my loop, and there's my little
+switch statement inside. So let's run it and
+see if it works. [SERIES OF BEEPING SOUNDS]

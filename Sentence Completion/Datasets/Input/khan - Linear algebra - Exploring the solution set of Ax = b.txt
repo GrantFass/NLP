@@ -1,0 +1,209 @@
+Let's say I have some linear
+transformation T from R2 to R2. So that is R2, and
+then this is R2. T just maps from any member of
+R2 to another member of R2, just like that. And I'm going to define T. It's a linear transformation. I'm going to define it. When I take the transformation
+of some member of R2, it's equivalent to multiplying it by
+this matrix, by the matrix 1 minus 3, minus 1, 3. So just to kind of understand
+this transformation a little bit more, let's think about all
+of the values that it can take on in our codomain. So if we say that 1 minus 3,
+minus 1, 3, times any vector in our domain-- so x1, x2-- it's
+going to be equal to some other vector in our codomain. Let me call that vector b. B is a member of R2. So it's going to be
+equal to b1, b2. All I'm doing here is I'm
+essentially-- if I call this right here, I call that matrix
+A-- I'm just trying to find out what are all the possible
+values for Ax is equal to b? I'm trying to find out all of
+the possible b's in this case. So if I were to solve this
+equation for any particular b, what I would do is I
+would put this in reduced row echelon form. Well, first I would make an
+augmented matrix of it. So I would put a 1, a minus
+3, a minus 1, and a 3. And I would augment it with
+the member of our codomain we're trying to be equal to. So b1, b2. And then, I would put it in
+reduced row echelon form. So how can we do that? How can we put it in reduced
+row echelon form? I'll keep my first
+row the same. 1 minus 3, and then b1. And then my second row, I'll
+replace it with my second row plus my first row. So minus 1 plus 1 is 0. 3 plus minus 3 is 0. And then b2 plus b1 is--
+well I can just write that as b1 plus b2. So this is only going
+to have solutions. I have an interesting
+situation here. You've seen it before. I have a row of 0's. And the only way that this
+is going to actually have solutions is if this thing right
+here is also going to be equal to 0. So the only members b that are
+members of Rm that have solutions are the ones where
+if you add up their two terms-- so let's say b is equal
+to b1 and b2-- are the ones where the two terms added
+up have to be to 0. b1 plus b2 have to
+be equal to 0. Or another way you could write
+it is that b2 has to be equal to minus b1. So if we were to actually draw
+our codomain-- let's do it. We always stay in the abstract,
+but sometimes it's useful to draw an
+actual example. Let's say that our
+codomain is R2. Let me draw some axes
+right here. Let's say that this
+is my b1-axis, and this is my b2-axis. I could have called that
+x and y, but I called that b1 and b2. What are all of the members
+of my codomain that have a solution, that have a mapping? Well, b2 has to be equal
+to minus b1. So it's going to
+look like this. It's just going to be a line
+with a slope of negative 1. This is all the b's that
+have a solution. Because if you're not
+on this line. If you're a member of your
+codomain-- this is the codomain right here, R2. R2 is also our domain, but let
+me make it very clear that this is the codomain
+that I've drawn. This is what we're
+mapping into. It's very clear that if we're
+not on this line, if you pick somebody whose two terms don't
+add up to equalling 0, or aren't the negative of each
+other, if you pick someone over here in our codomain, and
+then you try to solve the equation over here, 0 is going
+to equal some non-zero number here and you're not going
+to have a solution. And we touched on this
+in the last video. And so in this case we could
+say that this right here is the image of our
+transformation. Or even another way of
+thinking about it. This is our codomain. Let me draw a domain. So if you take any member of
+R2, and it's always mapping onto something onto that line,
+clearly each point on that line is going to be mapped to
+by more than one vector. So we're not dealing with
+an onto transformation. We saw that in the last video. In order for something to be
+onto, when you put it in reduced row echelon form,
+you cannot have all 0's in one of the rows. Or another way to say it in
+reduced row echelon form, every row has to have
+a pivot entry. Well, let's focus
+on the b's that actually do have a solution. So let's focus on these b's,
+so that when you take a b1 plus b2, it actually is going
+to be equal to 0. So we could have the b, I don't
+know, that could be the b5 minus 5. Obviously the b0, 0
+is going to work. You could have 1, negative 1. Maybe that's right there. Let's focus on those for a
+second and see how many members of our domain
+map into them. So if we take this right here
+and then we apply this equation up here, we only
+have one constraint. We're assuming that this is
+going to be equal to 0. So let's assume that
+we're dealing with the b's in our image. Let's assume that we're dealing
+with something where we can get a solution. That b1 plus b2 is equal to 0. Then what is our constraints? What will map to our vector
+b that we're dealing with? If we just take this topic
+equation right here, we have 1 times x1-- let me switch
+colors-- minus 3 times x2 is equal to b1. And then this row will give us
+no constraints, because it's just going to be
+a bunch of 0's. So this is the only constraint
+for a member of our domain that will map to some particular
+b now that we are picking, some particular
+b that satisfies this constraint. So we could write this solution
+set-- let me rewrite it as x1 is equal
+to b1, plus 3x2. Or if we wanted to write the
+entire solution set, it would look like this. x1, x2 is equal to the vector
+b1, 0, plus-- x1 is b1, plus 3, times x2, so plus
+x2 times 3. And x2 is just going
+to be equal to x2. That's a free variable. So x2 is equal to 0
+plus x2, times 1. So what we're saying here is
+this transformation just maps to this line here for all of the
+vectors in our codomain, where their two entries
+add up to each other. Let's assume that we actually
+have one of those vectors. And so first of all, this is
+definitely not an onto transformation. But let's assume that
+we are dealing with one of those guys. So if we are picking a
+particular one of those guys for a particular b-- let me
+write this down-- that has a solution to Ax is equal to b,
+the solution set will be equal to this thing right here. It'll be equal to x1, x2
+is equal to the first entry of your b. b1, 0 plus x2, times
+the vector 3,1. And if you think about this, if
+you pick a particular b-- so let's say we pick our-- let
+me draw this out, because I think it's nice to
+visualize it all. Actually, maybe I'll
+draw it like this. I don't want to draw
+our blobs anymore. So let me draw my axes. So my axes look like this. We know that the image of our
+transformation is the line with a negative 1 slope, because
+the two entries have to be equal to the negative
+of each other. Let's pick a particular
+b that has a solution. So let's say we pick
+that b right there. In order for it to have a
+solution, its entries have to be the negative of each other. So let's say that's the
+entry 5, minus 5. That is our b. So what we just showed is that
+the solution set, if we want to say, hey, what in our domain
+maps to this guy? So let's think about what
+in our domain maps to this right here. Let's think about what in our
+domain maps to this point right here, to this
+particular b. So that's going to be all of
+the x's that satisfy Ax is equal to 5, minus 5. So x1, x2 is going to be equal
+to b1, it's going to be equal to 5, 0 plus x2, plus any
+scale or multiple of the vector 3, 1. So our solution set is going to
+be, you take the vector 5, 0-- so maybe the vector 5, 0,
+specifies this position right here-- and then you're going to
+add to it multiples of the vector 3, 1. The vector 3, 1 looks like this,
+1, 2, 3 and you go up 1. The vector 3, 1 is going
+to look like this. So if you add multiples of
+this-- multiples of that could stretch out like that or could
+go negative like that-- to this vector 5, 0, you're
+essentially going to-- let me see if I can draw this neatly--
+you're going to end up with a solution set that
+looks like that right there. So if you pick a particular
+b right there that has a solution, we just said that
+everything on this line will map to that point in
+our solution set. And in fact, if you picked
+another point, let's say you picked the point minus 5, 5. Then the solution set that maps
+to that would actually be-- this first term would
+be the minus 5. It would be here. And all of these guys
+would map to that. Well, this all interesting. I mean, we've been doing a
+lot of abstract things. And I think it might be
+satisfying that you're actually seeing something more
+concrete in this example. But I'm doing all of
+this for a reason. Because I want to understand
+what the solution set is to a general non-homogeneous
+equation like this. And to understand it a little
+bit better, let's imagine what is the solution set
+if I were to pick this guy, the 0 vector? Then what's going to be
+the solution set? So if we say that Ax is equal to
+0, then our solution set is going to the vector 0, 0,
+plus x2, times 3, 1. So it's going to be what? This is just the 0 vector,
+so it's going to be here. It's going to be here, and
+it's going to just be multiples of 3, 1. It's going to look something
+like that. What's this? What is the solution set to the
+equation of Ax equal to 0. This is the null space. This, by definition, is
+the null space of A. So notice-- and this is the big
+takeaway from this video-- that for any solution-- we're
+picking b's that actually do have solutions, because we're
+picking them on this line. We're picking them in the
+image of our codomain. The solution set to any Ax is
+equal to some b where b does have a solution, it's
+essentially equal to a shifted version of the null set,
+or the null space. This right here is
+the null space. That right there is the null
+space for any real number x2. Any scale or multiple of
+3, 1 is the null space. I just showed it right there. It's going to be that. And so all of these other
+solution sets are just some particular vector, some
+x particular, plus the null space. Obviously, this vector by
+itself would also be a solution to Ax is equal to b,
+because you can just set x2 to be equal to 0. So in general-- and I haven't
+proven this to you rigorously, but hopefully you kind of get
+the intuition behind it. The solution-- and I'll do this
+in the next video, just because I realize I'm running
+long on time. Assuming Axb has a solution-- in
+the example we just did, we can assume it has, if we pick
+one of these points here. So assuming it has a solution,
+if we pick a point off of our image, then we're not going
+to have a solution. But assuming Axb has a solution,
+the solution set is going to be equal to some
+particular vector-- so you could just think of it as a set
+with just one vector right there-- with, or combined with,
+or the union of that set, with your null space of
+this matrix right here. I haven't proven this to you
+yet, but hopefully you get the intuition of why this is true. We just solved it for
+particular cases that do have solutions. We say, hey, it's going
+to take this form. And I just showed you
+that this is the form of the null space. And the reason why we're doing
+that is because we've been talking about invertibility. And in order to be invertible
+you have to be onto, and 1 to 1. And for something to be 1 to
+1, you have to have at most one solution that maps to
+a particular vector. You might have none. But you might have,
+at most, one. So in order to have, at most,
+one solution-- and the solution set is always going to
+be equal to this, so you're always going to have this
+solution-- so in order to have, at most, one solution,
+your null space can't have anything in it. Or it can just have
+the zero vector. So that means that your null
+space of A has to be trivial, or to be empty, or to just
+have the zero vector. I'll do this a little bit more
+rigorously in the next video, but I think when you do it
+sometimes with the rigor, you don't necessarily get
+the intuition. But this is going to be a very
+interesting takeway, and I think you already understand
+it's leading up to conditions for invertibility.

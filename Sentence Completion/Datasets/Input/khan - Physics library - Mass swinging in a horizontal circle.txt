@@ -1,0 +1,87 @@
+- [Narrator] I want to show you how to do a slightly more sophisticated centripetal force problem, and this one's a classic. This is the one where there's a mass, tied to a string, and that string is secured to the ceiling, and the mass has been
+given an initial velocity, so that it swings around
+in a horizontal circle. So, this mass is going to
+maintain a constant height, it's not moving up or down, but it revolves in a horizontal circle, so if you were to view
+this thing from above, from below, it looks something like this. You'd see the ball tracing
+out a perfect circle. If you were looking at
+this from right below. And the question I want
+to ask is: two things. What is the tension in the rope? And what has to be the speed of the mass? And these are given variables. We know the mass is three kilograms. We know the length of
+the rope is two meters. And this rope is making an
+angle of thirty degrees, with respect to this
+vertical line right here. Now this problem's a
+classic for a good reason. If you don't have a clean
+conceptual understanding of what we really mean by the terms when dealing with centripetal forces. And if you don't have a problem solving strategy to use to tackle problems, this problem will expose you. So that's why we should go over this, to make sure you have
+a clean understanding of exactly what we mean
+by all the different terms and to show you there's
+a strategy you could use to solve any centripetal force problem. And that strategy is this. First, draw a quality force diagram for the object or objects in your problem. So, let's do that first. The forces that are acting
+on this three kilogram sphere are the force of gravity. You'll have a force of
+gravity straight down. That's gonna be m times g. So the way we find the force of gravity is with the formula mass times 9.8. And the only other object
+that's touching this mass is the rope. So the only other force on this mass is the force of tension. So I'm gonna to label that force with a capital T. This'll be the total force of tension from the rope. And, really, the only other step in this problem solving strategy, there's really only two steps, use Newton's second law. But only use it for one
+direction at a time. And we typically only have two directions. I mean, we've got this vertical direction or we've got this horizontal direction. We've got a 50-50 shot. I mean, we've gotta pick one of the two. It's not like you can
+pick the wrong direction. If you pick the wrong direction, it'll just mean that you can't solve because there'll be too many variables. But what you write down in that process is probably gonna be useful
+later in the problem anyway, so don't erase it. If you pick a direction
+that you can't solve, because you have too many variables, just go to the other direction,
+and pick that direction. I know what direction to pick, cause I've done this one before. But if you don't know, the worst thing you do is freeze up. You gotta try something. If you try the wrong direction, no big deal, there's only one other direction to pick. So I'm gonna choose to
+analyze these forces in the vertical direction. So I'm gonna say that the acceleration in the vertical direction, this y direction, is equal to the net force in the y direction divided by the mass. And now I simply ask myself, what is the acceleration
+in the vertical direction? It's not 9.8. A lot of people want to say negative 9.8. But that's only if this
+ball were free-falling. And this ball is not free-falling. In fact, this ball is not even changing it's vertical height. It's remaining at the
+same constant height, and that means not only is
+there no vertical velocity, there's no vertical acceleration. Since the ball's not
+even moving vertically. So, on the left hand side here, this is great, we can put a zero. Zero's are wonderful. They make calculations easier. So this is going to equal the net force in the vertical direction. So one force is gonna to be the force of gravity. So I'll put that in here. You'll have m times g. That force is definitely a vertical force. But you gotta be careful, if we're gonna consider
+upward is positive, this mg is a negative force. So in terms of y-directed forces, downward, typically, the convention is that you
+choose that to be negative. So I'm gonna say that mg is negative. And now we ask ourselves, are there any other vertical forces? Well, we just look at our force diagram. So our force diagram will tell us if there's any other vertical forces. We look over here, the only other force
+is this tension force. And part of this tension force is vertical. We can't put in the entire tension into this formula. We could only do that if this tension was directed vertically upward, but it's not. Part of it's vertically upward, and part of it's horizontal. So part of this tension force is directed this way. I'm gonna call that the x component of the tension. And then part of this tension
+is directed vertically. I'll call that the y
+component of the tension. So we can only plug in this y component of tension into this formula over here, since we're plugging in y-directed forces into this equation. So I could just write plus Ty. But I don't wanna do that. I wanna solve for what T is, not what Ty is. So I wanna write this Ty in terms of T. And I can do that. Look at the triangle this is making. This tension and this Ty is gonna make an angle right here. And that angle has to be the same angle that the rope makes
+with this vertical line. So the tension is not the rope. The tension is a force
+exerted by the rope. And the tension lies along the
+same direction as the rope. But the tension is not the rope. This is a really common misconception. Sometimes people think, oh, the tension is two meters, right? No. That's not even a force. That's the length of the rope. And, yes, the length of the rope lies along the same direction
+as the tension force, but the tension is different from the length of the rope. However, this angle between the tension and this vertical component of the tension is the same as the angle between this rope and the vertical direction. So that means we can label this as thirty degrees right here. And now I can figure out what is the vertical
+component of the tension in terms of T and in terms of theta? I got a right triangle. Here's a right angle. This side that I wanna find out, Ty, is adjacent to this thirty degrees. Since it's adjacent,
+we're gonna use cosine. In other words, we're gonna say that cosine of theta equals adjacent over hypotenuse. People get confused sometimes. They're like, wait, I thought vertical was
+always the opposite side. It'd be the opposite side
+if we knew this angle, But we don't know that angle. We know this vertical angle. And that means that this vertical side is adjacent to that angle. Since we know the angle, we can write the cosine of thirty degrees is gonna equal the adjacent side. Now the adjacent side is Ty. And the hypotenuse is gonna be T. People get freaked out here. They're like, I've got too many variables. But that's okay. We can label this total hypotenuse is T. Even though we don't
+know it, it's alright. We're gonna manipulate symbols and we're gonna solve for Ty. If I multiply both sides by T, I get Ty. The vertical component of the tension is equal to the total tension times cosine of thirty degrees. This is the vertical
+component of the tension. And this is the force that I can plug into my vertical net force. So I'm gonna add, cause this points upward, T, the total tension, times cosine of thirty. And then I have to divide by my mass. So I can solve this for T now. If I multiply both sides by m. M times zero is gonna be zero. I'll move the mg over and then I divide by cosine of thirty. To get that the tension in the rope is gonna equal mg, the force of gravity divided by cosine of thirty. And if we plug in numbers we'll get that T equals, the mass was 3 kilograms, g is always 9.8. Divided by cosine of thirty. Gives us a tension of about 33.9 Newtons. I'll just say that that's 34 Newtons. So that's the tension in the rope. That's the first thing we wanted to find. We just found it over here. That is the tension in the rope. So let's do the next part. Let's try to find the speed. People get a little concerned now. They're like, what do I do? Don't deviate from the plan. We drew our force diagram. We used Newton's second law for one of the directions. You still got work to do, then do Newton's second
+law for another direction. We're just gonna do this
+for the x direction. So we'll do the x direction. I'll see that the acceleration
+in the x direction equals the net force in the x direction divided by the mass. And I'll ask myself the same question. Is there any acceleration
+in the x direction? There wasn't any acceleration
+in the y direction. You might think there's
+not any in the x direction. But there is. This mass is going in a circle. That means there's gonna be centripetal acceleration in this direction. So this horizontal
+direction is, essentially, just the centripetal direction. So to make that more clear, I'm just gonna put ac and Fc. And whenever you have
+centripetal acceleration, we can replace that with v squared. The speed squared divided by the radius. And that's gonna equal
+the net centripetal force over the mass. What force is acting in
+the centripetal direction? Well, you can figure that out. It's just the force that was
+acting in the x direction. Cause this is the x direction. The x direction is the direction that happens to be pointing toward the center of the circle. That's why the x direction here is just the centripetal direction. So to figure out which
+forces are centripetal, I just look at my force diagram. I drew this for a reason. I drew this so when I look at it, I can figure out what forces are vertical, to put in over here, and what forces are centripetal, i.e. horizontal, to put in over here. The only force that's horizontal is the horizontal
+component of the tension. That's this Tx. But, again, instead of
+just plugging in Tx, we'll plug in what this component is. in terms of the angle
+and the total tension. Just like we did over here. Ty was T cosine thirty. So it might not be that big of a surprise that Tx, the horizontal component, is just gonna be T sine thirty. If you don't believe that, you can prove it to yourself. Think about it. This Tx component is the
+opposite to this angle. And for opposite we use sine. So we can say sine of thirty would be the x component, which
+is the opposite side, over the hypotenuse, which is T. And if you solve this for Tx, you multiple both sides by T, you, indeed, get that Tx is just T, the total tension, times sine thirty. So we can plug that back in over here. We know that the only component that's acting as a centripetal force, i.e. that's pointing towards
+the center of the circle, is this x component, which we just found is
+T sine thirty degrees. Now you see why picking
+this direction first wouldn't have allowed us to solve, cause we wouldn't have known the speed, v, and we wouldn't have known the tension T. Only because we chose
+the y direction first, we were able to find the tension. And now that we know this tension, being 34 Newtons, we can plug that in over here and solve for our speed. But there's a really common
+mistake that people make here. People really wanna
+plug in r as two meters, cause they're like, hey, you gave me two meters over here, I'm gonna use it. That's an r, right? Isn't that r? No, that is not r. R here, always, in the centripetal formula for the acceleration, this r represents the radius of the circle that the object is moving in. And this object doesn't move in a circle with a radius of two. The radius of the circle this object's traveling in looks like this. That's the radius of the circle. And that's not two meters. How do we find that? We'll again use trigonometry. We're just gonna say that
+we've got a right triangle. This time, though, we're
+gonna make a right triangle out of the length, not of the force. Not of this tension. We're making a right
+triangle out of the length. But, again, we know that
+side's a right angle. We know that this side's thirty degrees. So we say that this radius
+is the opposite side of that thirty degrees. So we're gonna use sine theta. We're gonna say that the sine of theta, which is thirty, equals the opposite side, and that's r, divided by the total
+length of the string, L. And, so if I solve this for the radius, I get the radius of the circle that this ball is traveling in would be L times sine of thirty, where L would be this two meters. So we'll plug that back in over here. We'll say that v squared divided by r, which is L sine thirty, is gonna equal T sine
+30 divided by the mass. And now we can solve, we can multiple both
+sides by L sine thirty. And we get that v squared is gonna equal T sine thirty times L sine thirty divided by the mass of the sphere. And since I want to find v not v squared, I'll take a square root of both sides, and when I take a square
+root of both sides, I end up with v is the square root of t sine thirty, L sine
+thirty over the mass. So if we plug in our numbers, we get that v is the square root of T, which is 34 Newtons, times sine of 30, times L, and this L is referring
+to this total length which is two meters, times sine of thirty. All divided by the mass,
+which was three kilograms. Which, if you solve, gives
+you a speed of about 2.38. So I'll just say 2.4 meters per second. Which is the speed that
+we were trying to find. So, recapping, when you're solving a sophisticated centripetal force problem, be sure to draw a quality force diagram. Then use Newton's second
+law for a single direction. And only plug forces in that direction into the net force. If the direction you choose happens to lie along the
+centripetal direction, i.e. it points toward
+the center of the circle, then you can use v squared over r, for your centripetal acceleration, But, again, only plug in forces that lie along that direction for the centripetal force. And make sure that you understand
+when we say the radius, we're talking about the
+radius of the circle that the object is traveling in.

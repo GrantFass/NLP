@@ -1,0 +1,139 @@
+Plot the real zeroes of the
+given polynomial on the graph below. And they give us p of x
+is equal to 2 x to the 5th plus x to the 4th
+minus 2x minus 1. And when they say
+plot it, they give us this little widget here. Where if we click at any point
+on this, we get our point. And we get as many
+points as we would like. And we can drag
+these points around. Or if we don't want
+these points anymore, we can just dump them
+in this little trash bin at the bottom right. So let's think about what
+the zeroes of this polynomial actually are. And to do that I'll
+take my scratch pad out. And this is a little
+daunting at first. This is a 5th degree
+polynomial here. Factoring 5th degree polynomials
+is really something of an art. You're really going to have
+to sit and look for patterns. If they're actually expecting
+you to find the zeroes here without the help of a
+computer, without the help of a calculator, then there
+must be some type of pattern that you can pick out here. So let me just rewrite p of x. So p of x is equal to 2 x to
+the 5th plus x to the 4th minus 2x minus 1. And one way that's
+typically seen when you're trying to factor
+this type of polynomial is to try to essentially undo
+the distributive property a few times. And if you want to relate it
+to techniques for factoring quadratics, it's essentially
+factoring by grouping. So for example, you
+see a 2x minus 1, or something that looks like
+a 2x minus 1 right over here. And over here you have a 2x
+to the 5th plus x to the 4th. So you have a 2x
+of a higher degree term plus a 1 x of
+a one degree lower. So there seems to be
+some type of a pattern. 2 times x of a
+higher degree-- this is a first degree
+term-- minus 1 times-- you could do this as x to the
+0-- of a lower degree term. And so let's think
+about it a little bit. What happens if we essentially
+try to group these two terms, and we group these two
+terms right over here. And we try to
+factor out anything to essentially clean
+it up a little bit, to see if we can
+make sense of it. Well these two terms, their
+greatest common factor is x to the 4th. We could write this as x
+to the 4th times 2x plus 1. And this should get us excited
+because this looks pretty close to that,
+especially if we were to factor out a negative 1 here. So we could factor
+out a negative 1. And then this is
+going to be 2x plus 1. And that's exciting because now
+we can factor out a 2 x plus 1 from each of these terms. So you have a 2x plus 1. We're gonna factor
+both of these out, to get 2x plus 1-- which
+we just factored out. And if you factored it out
+of this term right over here, you're left with x to the 4th. And if you factor
+it out this term, you're left with
+just the minus 1. Minus 1. And now this is exciting
+because 2x plus 1, this is pretty
+easy to figure out when does this thing equal 0. And we'll do that
+in a little bit. And this is pretty
+easy to factor. This is a difference of squares. This right over here
+can be rewritten as x squared plus 1
+times x squared minus 1. And of course we still have
+this 2x plus 1 out front. 2x plus 1. And once again we have
+another difference of squares. We have another difference
+of squares right over here. That's the same thing as
+x plus 1 times x minus 1. And let me just write all the
+other parts of this expression. x squared plus 1. And you have 2x plus 1. 2x plus 1. And I think I factored
+p of x about as much as could be reasonably expected. So p of x is equal to
+all of this business. And remember, the whole reason
+why I wanted to factor it is I wanted to figure out when
+does this thing equal 0? So if p of x can be
+expressed as the product of a bunch of these
+expressions, it's going to be 0 whenever at
+least one of these expressions is equal to 0. If any of these
+is equal to 0 then that's just going to make this
+whole expression equal to 0. So when does 2x plus 1 equal 0? So 2x plus 1 is equal to zero. Well you could probably
+do this in your head, or we could do it
+systematically as well. Subtract 1 from both sides,
+you get 2x equals negative 1. Divide both sides by 2, you
+get x is equal to negative 1/2. So when x equals negative 1/2--
+or one way to think about it, p of negative 1/2 is 0. So p of negative 1/2 is 0. So this right over here
+is a point on the graph, and it is one of
+the real zeroes. Now we could try to solve this.
+x squared plus 1 equals 0, and I'll just write it
+down just to show you. If we try to isolate
+the x term on the left-- subtract 1 from
+both sides-- you get x squared is equal
+to negative 1. Now if we were to start thinking
+about imaginary numbers, we could think about
+what x could be. But they want us to
+find the real zeroes. The real zeroes. So there's no real
+number where that number squared is equal to negative 1. So we're not going to
+get any real zeroes by setting this
+thing equal to 0. There's no real number
+x where x squared plus 1 is going
+to be equal to 0. Now let's think about when x
+plus 1 could be equal to 0. We'll subtract 1
+from both sides. You get x is equal
+to negative 1. So p of negative 1
+is going to be 0. So that's another one of
+our zeroes right there. And then finally let's
+think about when x minus 1 is equal to 0. We'll add one to both sides. X is equal to 1. So we have another real
+0 right over there. And so we could plot them. So it's negative 1,
+negative 1/2, and 1. So it's negative 1,
+negative 1/2 and 1. And we can check our
+answer, and we got it right. Now one thing that might be
+bugging you, is like hey Sal, you just happened to group
+this in exactly the right way. What if I try to group
+it in a different way? What if I tried to-- Well
+actually let's try to do that. That could be interesting. Just to show you that
+this isn't voodoo. And actually there's
+several ways to get there. There's several
+ways to get there. So what if instead of writing
+it like this, where you're writing it kind of
+in the highest degree term and the next highest
+degree and so on and so forth, you were to write it like
+this: p of x is equal to 2 x to the 5th minus 2x plus
+x to the 4th minus 1. Well actually, even
+this way you could do a fairly
+interesting grouping. If you grouped
+these two together, you see that they have
+the common factor 2 x. You factor 2x out, you get 2x
+times x to the 4th minus 1. And I think you see
+what's going on. And then this can be
+rewritten as plus 1 times x to the 4th minus 1. Minus 1. And now you can factor out
+an x to the 4th minus 1. And you're left with-- I'll
+do this in a neutral color-- x to the fourth
+minus 1 times 2 x plus 1, which is much
+easier to factor now. A difference of squares. Exactly what we did
+the last time around. So there are several
+ways that you could have reasonably
+grouped this, and reasonably undone the
+distributive property. But I do admit it is
+something of an art. You really just have
+to play around in see, well let's group
+the first two terms, let's see if there's
+a common factor here. Let's group the
+second two terms, let's see if there's
+a common factor here. Hey, once we factor out
+those common factors, it looks like both
+of these two terms have this common
+expression as a factor. And then you could start
+to factor that out.

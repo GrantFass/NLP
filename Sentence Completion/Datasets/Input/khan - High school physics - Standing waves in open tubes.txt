@@ -1,0 +1,139 @@
+- If you blow air over
+the top of a soda bottle, you get a tone. I've got a soda bottle right here. I'm going to show you. Listen to this (inhales): (whistling tone) So the question is, why
+does it make that noise? How come you get that loud sound? And it has to do with something
+called standing waves, or a very closely related
+idea is resonance. And so we're going to talk about this. How do these work? So let's go into here. What I've really got ... I'm going to model this. I'm going to say that I've
+just got a soda bottle. I'm going to model it
+like it's just a tube, a simple tube, and one end is closed. This is important. This end over here is closed. I tried to shade it in, to show you that this end is blocked off. That's the bottom of the soda bottle. This is on its side. And this end over here is open. And so what happens,
+you've got this closed end, you've got this open end,
+you got air in between. What's the air do? Well, when I blow over the top, the air starts to move around. But this air on the closed
+end, it's pretty much stuck. If it tried to ... It wants to oscillate back and forth, that's what these air
+molecules want to do, but every time it tries to oscillate, it just bumps into this
+closed end, loses its energy. And when I try again,
+bumps in, loses its energy, so it doesn't really go anywhere. Whereas, on this side, this
+side's open and, shoot, this air can just dance like crazy, oscillate back and forth. It wouldn't go that far. I'm exaggerating here. So you can see it. But this end will oscillate
+much more than this other end, this closed end. The air just stays there. In the middle, it'll oscillate somewhat, somewhere in the middle. And so, if you wanted to see this, I made a little animation
+so you can see this happen. Here's what it would look like: you see that the closed end,
+the air's not doing anything. At the open end, the air
+can oscillate wildly. And in the middle, it's a varying amount that gets smaller and smaller as you get toward that closed end. Okay, so that's this bottle. That's how we're modeling
+this bottle here. So, you could do this for ... If you cut the bottom out, if you cut the bottom out of the bottle, you'd also be able to
+set up a standing wave. It would look like this. So let's say we've got
+an open end on both ends. So now we got an open end on both ends. This side is open, this side here is open. This means the air now, on this side, isn't stuck anymore. This air can oscillate like crazy. This air over here can
+oscillate like crazy, and it turns out, if
+you blew over a bottle that was cut open on both ends, or if you just had a PVC pipe
+and you blow over the top, you'd get another resonance. You'd get another standing wave. And in the middle, this air
+molecule would just stay still. These would oscillate
+like crazy on the ends and this is what that looks like. It looks a little bit like this. So both ends oscillating like crazy and then right in the middle,
+air not really moving at all. And so, this is a standing wave. It's a standing wave. I don't want ... I actually don't like that name. I like the name dancing wave. I mean, the air is still moving. This air is moving back and forth. This air is not. But lots of the air's
+moving back and forth. And they call it a standing
+wave because, no longer ... remember, with a wave ... with a wave, you had
+this compressed region. And what it looked like, it looked like the compressed region was moving down the
+line with some velocity. So this is a moving wave. But when you set up a standing wave ... I'll show you again. This standing wave doesn't really ... this one here, say ... it's not really ... the compressed region doesn't look like it's moving down the line. Everything just kind of
+bounces back and forth. So, how do we describe
+this mathematically? That's the hard part. This is the part that drives people crazy. What we could do, we
+could try to draw a line. Let's draw some lines that represent where all the air particles are in
+their equilibrium position. Equilibrium position's a fancy name for, this is if the air was ... this is our open, open tube and this is what the air is at when you're just not messing with it. The air is in this
+position, just hanging out. I'm going to draw these lines here, so that we know, this is
+where they want to be. And when they get displaced
+from that position, we'll be able to tell how
+far they've been displaced. So if you did this, if
+you took a PVC pipe, you blew over the top, this is what the air looks like before. Sometime afterward, it
+might look like this. Now the air's displaced. So check it out. This one got displaced
+all the way over to there. This one went to there. This one went to there. This one went just a smidgeon over. This one didn't go anywhere. This one went to the right. And this one went to the right, and this one went to the right. And this one went way over to the right, because it's at the open end. So you've got varying
+amounts of displacement at different points. So what we're going to do,
+we're going to graph this. I'm going to make a graph
+of what this thing is doing. So let's make a X axis, a horizontal axis, This will represent where
+I am along the tube. And then we'll make a vertical axis. This will represent how much
+displacement there actually is. So this top end, so this
+will be displacement, the amount of displacement
+of the air molecule. And then this is just
+position along the tube, where exactly am I along the tube? I'm just going to call it X. And so, if we graph this,
+what are we going to get? Well, what we're going to get is, right here, this air
+molecule at this X position has displaced a lot to the left. And usually leftward's negative. So on this graph, I'm going to represent
+it down here somewhere. I'm going to just pick a point down here. And I'm going to graph ... I'll pick a different color
+so we can see it better. I'm going to graph this. That's a lot of displacement. This one didn't displace at all. That one's just right in the middle, so that's got to be right on the axis, because that represents zero displacement. This is zero displacement over here. And then over here,
+displaced a lot to the right, so that would be a lot of
+displacement to the right. And in between, it's varying amounts and it would look like this. You'd get a graph that
+looks something like that. And what is this? This is a standing wave. This is what we'd see. But it wouldn't stay like this. These particles would ... This one in the middle
+keeps on not doing anything, but this one over here would then move all the way this way and
+oscillate back and forth. And so what you would see this shape do, if you played this in time, this would start to move
+back to equilibrium, so this spot would start
+to move up to here. You'd get another point in
+time where it looked like this, everything not nearly displaced
+as much as it was before. And then you wait a little
+longer, it goes flatline. Everything's back to its
+equilibrium position. Then this one over here
+starts to move to the right, so now it's a little
+bit further to the right than its equilibrium position. And eventually it flip-flops like this, and so you'd get a graph like that. And so this is what happens. If you watched this graph, this graph would dance up and down. This part would move
+all the way to the top and then all the way to the bottom. And it's good to know that does not represent an air
+molecule moving up and down. These air molecules do
+not move up and down. They move left and right. And this graph that we're drawing represents the amount they
+have displaced left or right. And so this graph, this peak
+called a standing wave ' because this peak does not ... this looks like a peak right on a wave. On this graph right here, this peak does not move to the right. It dances up and down now. That's what this thing does. I wish we could have
+called them dancing waves, but they're called standing waves. These peaks move up and down. And the node, this guy
+just stays right here. If this was a regular traveling wave, you'd see this node move to the right, you'd see this peak move to the right. It doesn't do that anymore. And so we call this a standing wave. And I already said it, but this point in the middle
+is given a special name. This point right here is called the node. This is a node, and
+these points at the end, this location here and this location here that oscillate wildly,
+are called antinodes. So the antinodes are points
+where it oscillates wildly and the nodes are points where
+it doesn't oscillate at all. This particle does not move and this point on the
+graph just stays at zero. So the tricky part is, how do we represent this mathematically? This is how we represent it graphically. How do we represent this mathematically? Let me clean this up a little bit. The question is, how much
+of a wavelength is that? How much of a wavelength is this? Well, if you remember,
+one whole wavelength ... I'm going to draw a whole
+wavelength over here. One entire wavelength
+looks something like this. So here's a graph just to represent a wave versus X. An entire wavelength is when it gets all the way
+back to where it started. So from some point in the cycle all the way back to
+that point in the cycle would be one wavelength. How much of a wavelength is this? Well, look, this is only ... It starts at the bottom and then it makes it to the top. But that's it. It stops there. So the question is, well,
+is that a whole wavelength? No, that's only half of a wavelength. So if we wanted to know,
+how much of a wavelength is this in terms of the
+length of this tube? Say this tube has a length L. For this first one, we'd realize that, okay, that's half a wavelength. So L, 1/2 of a wavelength
+is fitting into a length L. So this 1/2 of a wavelength
+equals a certain distance. The distance that 1/2
+of a wavelength equals for this first standing wave we've set up is just 1/2 lambda. What that means is, well,
+then lambda equals two L. So this is it. The lambda of this wave is two L. And we call that the
+fundamental frequency, or the fundamental wavelength. And it's a special name because
+this is the one you'll hear. If you blow over a tube, this
+is the one that you'll hear. It's going to sound loud. This is the wavelength you'll hear. But that's not the only
+one you can set up. The only requirement
+here is that these ends are going to oscillate like crazy. Ends, we know, have to be antinodes. So, in this case, we had
+a node in the middle, two antinodes at the end. The question is, what other
+standing wave could you set up? Another one would be, okay, got to be antinode here, got to be antinode on the other end, but you might have multiple
+nodes in the middle instead of just one node. Say we did something like this. Say we had a wave like that. Now, antinode on this
+end, antinode on this end, it's got to be because, a open, open tube, the open ends have to be the antinodes for the displacement of the particle. And now we've got two nodes
+in the middle, though. So we've got two nodes in the middle, two antinodes. How much of a wavelength is this? Let's check it out. So this was a whole
+wavelength, the whole blue. So this green is all the way up to the top and then all the way to the bottom. Look -- that's a whole wavelength. So in this case, L, the
+length of this tube, is equaling one whole
+wavelength for the second ... this is called the second harmonic. This is also set up. You don't hear it as much. But if you were to
+analyze the frequencies, you'd see that there's a
+little bit of that frequency in there, too, a little
+bit of that wavelength. So in this case, lambda equals L. So this is called the second harmonic. So I'm going to call this lambda two. Lambda two just equals L. This is the second harmonic. And you can find the third harmonic. Let's see; what else would be possible? Let's try another one. You know it's got to
+be antinode on this end because it's open, antinode
+on this end because it's open, but instead of having just one
+or two nodes in the middle, I could have three. So I'm going to come all
+the way up to the top, and I'm going to come all the
+way back down to the bottom, and then I'm going to go all the way back up to the top again. This is antinode on this
+end, antinode on this end, now you got one, two,
+three nodes in the middle. And so, how much of a wavelength is this? Let's try it out. Let's reference our one wavelength. So it starts at the bottom, and then it goes all
+the way up to the top, and then it goes all the
+way down to the bottom, but this one keeps going. This is more than a whole wavelength. Because that's just this part. That's one whole wavelength. Now I got to go all the
+way back up to the top. So this wave is actually
+one wavelength and a half. This amount is one extra
+half of a wavelength, so this was one wavelength and a half. So in this case, L, the
+total distance of the tube, that's not changing here. The total distance of the tube is L. This time, the wavelength
+in there is fitting, and one and 1/2 wavelengths fit in there. That's 3/2 of a wavelength. That means the lambda
+equals two L over three. So in this case, for lambda three, this is going to be
+called the third harmonic. This is the third possible
+wavelength that can fit in there. This should be two L over three. And so, it keeps going. You can have the fourth
+harmonic, fifth harmonic, every time you add one more node in here, it's always got to be antinode on one end, antinode at the other. These are the possible wavelength, and if you wanted the possible,
+all of the possible ones, you can probably see the pattern here. Look: two L, and then just
+L, then two L over three, the next one turns out
+to be two L over four, and then two L over five, two L over six, and so, if you wanted to just
+write them all down, shoot ... lambda n equals -- this is all the possible
+wavelengths -- two L over n, where n equals one, two,
+three, four, and so on. And so, look at, if I had
+'n equals one' in here, I'd have two L. That's the fundamental. You plug in n equals one,
+you get the fundamental. If I plug in n equals
+two, I get two L over two. That's just L. That's my second harmonic, because I'm plugging in n equals two. If I plug in n equals three,
+I get two L over three, that's my third harmonic. This is telling me all
+the possible wavelengths that I'm getting for this standing wave. So that's open, open. In the next video, I'm going to show you how to
+handle open, closed tubes.

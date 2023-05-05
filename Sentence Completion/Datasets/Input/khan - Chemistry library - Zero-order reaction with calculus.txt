@@ -1,0 +1,72 @@
+- Let's see we have a zero order reaction where A turns into our products and when time is equal to zero we're starting with our
+initial concentration of A and after some time period T, we would have the concentration of A at that time. So we could express the
+rate of our reaction, one way to do it would be to
+say the rate of the reaction is equal to the negative change in
+the concentration of A over the change in time. And another way to do this
+would be to right the rate law. So the rate of our reaction is equal to the rate constant K times the concentration of A and since I said this is
+a zero order reaction, this would be A to the zero power. And any number to the zero power is equal to one. Therefore, the rate of the reaction would be equal to K times one or the rate is just equal
+to the rate constant K. So the rate of a zero order reaction is a constant. It's independent of
+the concentration of A. Next, we can set these equal. Right we can say that K is equal to the negative change in
+the concentration of A over the change in time. So we have the negative change
+in the concentration of A over the change in time is equal to the rate constant K. And next we could think
+about our calculus, alright, instead of writing change in A over change in time, we're going to write the rate of change of
+the concentration of A with respect to time. We have our negative sign in here and then we have our K on the side. So we're ready to think about our differential equation and we're gonna multiple
+by both sides by DT. Let's go ahead and multiple both sides by negative DT, so then we would have DA on the left side, right, and then we would have
+negative KDT on the right side. And we're ready to integrate. Right, so we're gonna
+integrate on the left, K is a constant so we can pull it out of our integral on the right. And we go back up here
+to refresh our memories about what would be integrating from. So we'd be going from
+time is equal to zero to time is equal to T and from our initial concentration to our concentration at time T. So you plug those in we're going from time is equal to zero to time is equal to T and then for our concentration we're going from our initial concentration to our concentration at time T. So we have some easy
+integrals here, right? What's the integral of DA? That would be of course A or the concentration of A. So we have the concentration of A, right. We are evaluating this from
+our initial concentration to our concentration of A at time T. On the right side we have
+another easy integral, integral of DT. That's just T. So we have negative KT from zero to T. Next fundamental theorem
+of calculus, right, so we would get the concentration of A minus the initial concentration of A is equal to on the right side, that would be negative KT so we get negative KT here. And so this is one form
+for the integrated rate law for a zero order reaction. We could rearrange this. We could move the initial
+concentration to the right side so we would get the final concentration is equal to negative KT plus the initial concentration of A. And so this is just another way to write our integrated rate law. So here's the integrated rate
+law for a zero order reaction. And if we look at the form of that, it's Y is equal to MX plus B. Y is equal is to MX plus B. So we would put time on the X axis. If we graph time on the X axis, on the Y axis we have
+the concentration of A. We're gonna get a straight line and the slope of that line, the slope of that line M, the slope is equal to negative K. The slope is equal to the
+negative of the rate constant and the Y intercept would be
+the initial concentration of A. So if we just sketch out
+a quick little graph here. Let me put our axis down. So we put time on the X axis, right, so down here we'd have time and on the Y axis we
+have our concentration of A. We're going to get a straight line, right, we're gonna get a straight line and let me see if I can. Let me just switch to a straight line. I don't wanna draw one here. So we got a straight line like this. Okay. And the slope of this line, right, the slope of our line here. The slope would be equal to negative K. So once again we can see
+that from up here, right, the slope is equal to negative K. So M is equal to negative K. And our Y intercept of course would be the initial concentration. This would be the initial
+concentration of A. So this is the integrated rate law for a zero order reaction. Next let's think about the half life. So remember the half
+life is the time required for the concentration of a reactant to decrease to half of
+its initial concentration. So when the time is
+equal to the half life, T one half, we'd plug this in for T. The concentration of A when time is equal to the half life would be half of the
+initial concentration. So the initial concentration
+divided by two. So that would go into here. So let's rewrite what we have. We now have the initial concentration divided by two is equal to negative K times the half life plus the
+initial concentration of A. So let's solve for half life. On the left side we have the
+initial concentration of A divided by two or one half of
+the initial concentration of A on the right side we have the
+initial concentration of A. So this would be one half minus one, which is negative one half. So negative one half of the
+initial concentration of A is equal to negative K times T one half. So solve for T one half or our half life. T one half is equal to this would be the initial
+concentration of A divided by two times K. Two times the rate constant so here is the half life for a zero order reaction. Notice, if you increase the
+initial concentration of A, if you increase the
+initial concentration of A what happens to the half life? They're directly proportional. So if you increase the
+initial concentration of A, the half life should increase. So the half life should increase. Let's look at an example
+of a zero order reaction and this will help us understand
+this idea of half life a little bit better. So our example is the
+decomposition of ammonia. So the decomposition of ammonia into nitrogen and hydrogen. And this reaction occurs on the
+surface of a metal catalyst. So let's say that we're
+using platinum here. So on the left let's call
+this situation one on the left we have a piece of platinum. Imagine this is our platinum surface and since the reaction
+occurs on the surface of the platinum, the ammonia molecules have to be in contact
+with our platinum surface. So let me draw in some ammonia molecules in blue here in contact
+with our platinum surface. Remember this is a zero order reaction. So the rate is equal to the rate constant times the concentration of ammonia to the zero power. So increasing the
+concentration of ammonia, doesn't affect the rate. And this picture helps us understand that a little bit better. If you increase the
+concentration of ammonia, right, I'm adding some more
+ammonia molecules in here. You're not affecting the
+overall rate of the reaction because the ammonia molecules I just added are not in contact with
+our platinum surface. So only these down here are in contact and are able to react. So we increase the
+concentration of ammonia but we didn't have any effect on the rate because the rate of the
+reaction is limited by how much surface area of
+our metal that we have. So that situation number one. Let's think about situation
+number two over here. We have our platinum surface. Let's draw in a bunch
+of ammonia molecules. So here we have some in contact
+with our platinum surface and then here we have even more. We have even more ammonia molecules and obviously most of
+them are not touching the surface of our metal catalyst. So we've increased the concentration, we've increased the
+initial concentration of A, right, of course, A here is our ammonia. And so we must increase the half life. That's what we learned up here. If you increase the
+initial concentration of A, right, you have a longer half life. And that makes sense because our reaction has a constant rate, the more molecules we have present, the longer it takes to
+consume half of them. So we have all these
+molecules up here of ammonia that aren't touching our metal surface and so we're limited by our constant rate and so it's gonna take a lot longer to consume half of the molecules in blue in situation number two. So that's comparing situation number one with situation number two, we've increased the
+initial concentration of A and therefore we have a longer half life.

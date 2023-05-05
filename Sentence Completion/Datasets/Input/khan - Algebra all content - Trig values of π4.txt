@@ -1,0 +1,95 @@
+Voiceover:So we have depicted
+here is a unit circle centered at point A and the
+point B lies on the circle. And then we dropped a perpendicular from point B to point D, point D
+lies on the positive X-axis. So they form this triangle
+ABD, and they tell us at angle BAD, angle bad, it has a
+measure of pi over four radians. What I want to do, in this
+video, is use our knowledge of trigonometry and use
+our knowledge of triangles in order to figure out several things. So the first thing we want
+to figure out is what's the radian measure of angle ABD? Actually let's just do that
+first and then I'll talk about the other things. that
+we need to think about. So I assumed you've paused the video and tried to do this on your own. So let's think about what ABD would be. We know that two of the
+angles of this triangle, so if you know two of the
+angles of this triangle, you should be able to
+figure out the third. Now what might be a little
+bit unfamiliar, we're use to saying that the sum
+of the interior angles of a triangle add up
+to 180 degrees, but now we're thinking in terms of radians. So we could say that the sum of the angles of a triangle add up to,
+instead of saying 180 degrees, 180 degrees is the
+same thing as pi radians. So this angle plus that angle
+are going to add up to pi. So lets just say that
+this right over here, lets just say measure
+of angle ABD in radians, plus pi over four, plus,
+this is a right angle. What would that be in radians? Well a right angle in radians, a 90 degree angle in radians, is pi over two radians. So plus pi over two. When you take the sum of
+them, the interior angles of this triangle, they're
+going to add up to pi radians. Which is of course the
+same thing as 180 degrees. And now we can solve for
+the measure of angle ABD. Measure of angle ABD is equal to pi minus pi over two, minus pi over four. I just subtracted these
+two from both the sides. So this is going to be
+equal to, you can put a common denominator of
+four, then this is four pi over four, this is minus two pi over four, and this, of course,
+is minus pi over four. So four minus two minus one
+is going to get us to one. So this is going to
+get us to pi over four. So the measure of angle
+ABD is actually the same as the measure of angle
+BAD, it is pi over four. So that angle right over
+there is pi over four. Now what does that help us with? So if we know that this is pi over four and that is pi over four
+radians, and once again we know that this is a unit circle. So we know the length
+of segment AB, which is a radius of the circle or is
+the radius of the circle is length one, what else do we
+know about this triangle? Can we figure out the
+lengths of segment AD and the length of segment DB? Well sure, because we have two base angles that have the same measure,
+that means that the corresponding sides are also
+going to have the same measure. That means that this side is going to be congruent to that side. I can reorient it in a way that might make it a little easier to realize. If we were to flip it over,
+maybe not completely fit it over but if we were to make it look like this. So the triangle, we
+could make it look like, a little bit more like this. Actually I want to make it
+look like a right angle though. So my triangle, let me make
+it look like, there you go. So if this is D, this is B, this
+is A, this is our right angle. Now this is pi over four radians and this is also pi over four radians. When your two base angles are the same, you know you're dealing
+with an isosceles triangle. Because they're not all the
+same, it's not equilateral. If all the angles were the
+same this would be equilateral. This is an isosceles
+non-equilateral triangle. So if your base angles
+are the same, then you also know that the corresponding
+sides are going to be the same. These two sides are the same,
+this is an isosceles triangle. So how does that help us figure out the lengths of the sides? Well if you say that
+this side has length X, that means that this side has length X. If this side has length X,
+then this side has length X. and now we can use the
+Pythagorean Theorem. We can say that this X
+squared plus this X squared is equal to the hypotenuse
+square is equal to one square. Or we could write that
+two X squared is equal to one or that X squared
+is equal to one over two or taking the principal
+root of both sides, we get X is equal to one
+over the square root of two. And a lot of folks don't like
+having a radical denominator, they don't like having a rational
+number in the denominator. So we could rationalize the denominator by multiplying by the square root of two over the square root of two,
+which would be, let's see the numerator will have
+the square root of two, and the denominator
+we're just going to have square root of two times
+square root of two is just two. So we've already been able to figure out several interesting things We've been able to figure
+the angle of ABD in radians. We're able to figure out
+lengths of segment AD and the length of segment BD. Now what I want to do
+is figure out what are the sine, cosine, and tangent
+of pi over four radians, given all of the work we have done? So let's first think
+about, what is the sine? We'll do this in the color orange. Given all the work we have done, what is the sine of pi over four radians? And I encourage you once
+again, pause the video, think about the unit circle definition of trig functions, and
+think about what this is. Well the unit circle
+definition of trig functions in this angle, this pi over
+four radians, is forming an angle with the positive X axis. And where it's terminal ray
+intersects the unit circle, the X and Y coordinates of this point are what specify the cosine and sine. So the coordinates of
+this point are going to be the cosine of pi over four
+radians is the X coordinate and the sine of pi over
+four radians is the Y coordinates, sine of pi over four. So what's the Y coordinate going to be if we want pi over four? Well it's going to be this
+length, right over here. Which is the same thing as this length, which is the length of X,
+which is the square root of two over two. Now what is the cosine of pi over four? Once again I encourage you to pause the video to think about it. What's this X coordinate? The X coordinate, is this
+distance right over here, which is once again going to be X, which is square root of two over two. Now, what is the tangent of
+pi over four going to be? Well the tangent of pi over
+four is sine of pi over four over cosine of pi over four. Now both of these are
+the exact same thing. They're both square root of two over two. So you're going to have
+square root of two over two, divided by two over two, well
+that's just going to give you one. And that also makes
+since, because remember the tangent of this angle
+is the slope of this line. And we see the slope,
+for every X we move in the horizontal direction we move X up. So our change in Y over
+change in X is essentially X over X, which is equal to one.

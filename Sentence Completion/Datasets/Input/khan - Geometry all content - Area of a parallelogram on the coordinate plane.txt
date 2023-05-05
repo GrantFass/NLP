@@ -1,0 +1,11 @@
+- [Voiceover] Let's see if we can find the area of this parallelogram, and I encourage you to pause the video and see if you can figure
+it out on your own. Well, we just have to remind ourselves that the area of a parallelogram is just going to be the base -- let me do this in different colors -- it's going to be the base
+of the parallelogram, so I want to do that in a different color, so let me write: the base of the parallelogram times the height of the parallelogram, times the height of the parallelogram. Area is equal to base times height. So, what could we consider to be the base of this parallelogram? Well, we could imagine it
+to be one of these sides. So, we could go from here, and so, I could say... well, I could consider
+this to be the base. So, what's the length of that base? Well, we're just going in
+the vertical direction. We go from "y" equals five, to "y" is equal to negative seven, so this has length 12. We have five above the x-axis,
+and seven below the x-axis, adding up to 12. Or, you could count it: One, two, three, four, five, six, seven, eight, nine, ten, 11, 12. So, this is our base, and we could say that base is equal to 12. And, now, what could
+we view as our height? Well, we could view this dimension, right over here, as our height. And, what is that going to be? Well, you can see very clearly that the height is equal to four. And, it might be a
+little counter-intuitive, 'cause normally, when
+you're talking about height, you're used to thinking
+about how high something is, but you could imagine rotating this around so that the base is laying flat, and then the height is the height, in the traditional sense of the word. But, we could say "h" is equal to four, and now, it's pretty straightforward. Our area is going to be equal to 12, the length of our base times our height, times four, times four, which is clearly just 48. 48, whatever, square, 48 square units.

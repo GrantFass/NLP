@@ -1,0 +1,53 @@
+Simplify the rational
+expression and state the domain. Let's see if we can start with
+the domain part of the question, if we can start
+with stating the domain. Now, the domain is the set of
+all of the x values that you can legitimately input into
+this if you view this as a function, if you said this is
+f of x is equal to that. The domain is a set of all x
+values that you could input into this function and
+get something that is well-defined. The one x value that would make
+this undefined is the x value that would make the
+denominator equal 0-- the x value that would make
+that equal 0. So when does that happen? Six minus x is equal to 0. Let's add x to both sides. We get 6 is equal to x, so the
+domain of this function is equal to the set of all
+real numbers except 6. So, x could be all real numbers
+except 6, because if x is 6 then you're dividing
+by 0, and then this expression is undefined. We've stated the domain, now
+let's do the simplifying the rational expression. Let me rewrite it over here. We have x squared minus
+36 over 6 minus x. Now, this might jump out at you
+immediately, as it's that special type of binomial. It's of the form a squared minus
+b squared, and we've seen this multiple times. This is equivalent to a plus
+b times a minus b. And in this case, a
+is x and b is 6. This top expression right here
+can be factored as x plus 6 times x minus 6, all of
+that over 6 minus x. Now, at first you might say,
+I have a x minus 6 and a 6 minus x. Those aren't quite equal, but
+what maybe will jump out at you is that these are the
+negatives of each other. Try it out. Let's multiply by negative 1 and
+then by negative 1 again. Think of it that way. If I multiply by negative 1
+times negative 1, obviously, I'm just multiplying the
+numerator by 1, so I'm not in any way changing
+the numerator. What happens if we just multiply
+the x minus 6 by that first negative 1? What happens to that
+x minus 6? Let me rewrite the
+whole expression. We have x plus 6, and I'm
+going to distribute this negative 1. If I distribute the negative 1,
+I have negative 1 times x is negative x. Negative 1 times negative
+6 is plus 6. And then I have a negative
+1 out here. I have a negative 1 times
+negative 1, and all of that is over 6 minus x. Now, negative plus 6. This is the exact same thing
+as 6 minus x if you just rearrange the two terms.
+Negative x plus 6 is the same thing as 6 plus negative
+x, or 6 minus x. Now you could cancel them out. 6 minus x divided by 6 minus x,
+and all you're left with is a negative 1-- I'll write it
+out front-- times x plus 6. If you want, you can distribute
+it and you would get negative x minus 6. That's the simplified
+rational expression. In general, you don't have to
+go through this exercise, multiplying by a negative
+1 and a negative 1. But you should always be able
+recognize that if you have a minus b over b minus a that that
+is equal to negative 1. Or think of it this way: a
+minus b is equal to the negative of b minus a. If you distribute this negative
+sign, you get negative b plus a, which
+is exactly what this is over here. We're all done.

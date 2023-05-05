@@ -1,0 +1,67 @@
+Voiceover: Easily the most quoted number people give you when they're
+publicizing information about their credit cards is the APR. I think you might guess
+or you might already know that it stands for annual percentage rate. What I want to do in this
+video is to understand a little bit more detail
+in what they actually mean by the annual percentage
+rate and do a little bit math to get the real or the
+mathematically or the effective annual percentage rate. I was actually just
+browsing the web and I saw some credit card that had
+an annual percentage rate of 22.9% annual percentage rate, but then right next to it, they say that we have 0.06274% daily periodic rate, which, to me, this right here
+tells me that they compound the interest on your credit
+card balance on a daily basis and this is the amount that they compound. Where do they get these numbers from? If you just take .06274
+and multiply by 365 days in a year, you should get this 22.9. Let's see if we get that. Of course this is percentage, so this is a percentage here
+and this is a percent here. Let me get out my trusty
+calculator and see if that is what they get. If I take .06274 - Remember, this is a percent,
+but I'll just ignore the percent sign, so as a
+decimal, I would actually add two more zeros here, but
+.06274 x 365 is equal to, right on the money, 22.9%. You say, "Hey, Sal,
+what's wrong with that? "They're charging me .06274% per day, "they're going to do
+that for 365 days a year, "so that gives me 22.9%." My reply to you is that
+they're compounding on a daily basis. They're compounding this
+number on a daily basis, so if you were to give them
+$100 and if you didn't have to pay some type of a minimum
+balance and you just let that $100 ride for a year,
+you wouldn't just owe them $122.9. They're compounding this much every day, so if I were to write
+this as a decimal ... Let me just write that as a decimal. 0.06274%. As a decimal this is the
+same thing as 0.0006274. These are the same thing, right? 1% is .01, so .06% is .0006 as a decimal. This is how much they're
+charging every day. If you watch the
+compounding interest video, you know that if you wanted
+to figure out how much total interest you would be
+paying over a total year, you would take this number, add it to 1, so we have 1., this thing
+over here, .0006274. Instead of just taking this
+and multiplying it by 365, you take this number and you
+take it to the 365th power. You multiply it by itself 365 times. That's because if I have $1 in my balance, on day 2, I'm going to
+have to pay this much x $1. 1.0006274 x $1. On day 2, I'm going to have to pay this much x this number again x $1. Let me write that down. On day 1, maybe I have $1 that I owe them. On day 2, it'll be $1 x
+this thing, 1.0006274. On day 3, I'm going to have to pay 1.00 - Actually I forgot a 0. 06274 x this whole thing. On day 3, it'll be $1,
+which is the initial amount I borrowed, x 1.000, this number, 6274, that's just that there and
+then I'm going to have to pay that much interest on
+this whole thing again. I'm compounding 1.0006274. As you can see, we've kept
+the balance for two days. I'm raising this to the second
+power, by multiplying it by itself. I'm squaring it. If I keep that balance for
+365 days, I have to raise it to the 365th power and
+this is counting any kind of extra penalties or
+fees, so let's figure out - This right here, this number,
+whatever it is, this is - Once I get this and I subtract 1 from it, that is the mathematically
+true, that is the effective annual percentage rate. Let's figure out what that is. If I take 1.0006274 and I
+raise it to the 365 power, I get 1.257. If I were to compound
+this much interest, .06% for 365 days, at the end
+of a year or 365 days, I would owe 1.257 x my
+original principle amount. This right here is equal to 1.257. I would owe 1.257 x my
+original principle amount, or the effective interest rate. Do it in purple. The effective APR, annual percentage rate, or the mathematically correct
+annual percentage rate here is 25.7%. You might say, "Hey, Sal,
+that's still not too far off "from the reported APR,
+where they just take "this number and multiply
+by 365, instead of taking "this number and taking
+it to the 365 power." You're saying, "Hey, this is roughly 23%, "this is roughly 26%, it's
+only a 3% difference." If you look at that
+compounding interest video, even the most basic one
+that I put out there, you'll see that every
+percentage point really, really, really matters, especially
+if you're going to carry these balances for a long period of time. Be very careful. In general, you shouldn't
+carry any balances on your credit cards,
+because these are very high interest rates and you'll
+end up just paying interest on purchases you made many, many years ago and you've long ago lost all
+of the joy of that purchase. I encourage you to not even keep balances, but if you do keep any balances, pay very close attention to this. That 22.9% APR is still probably not the full effective interest
+rate, which might be closer to 26% in this example. That's before they even
+count the penalties and the other types of
+fees that they might throw on top of everything.

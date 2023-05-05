@@ -1,0 +1,39 @@
+We're told that the formula
+for converting a Celsius temperature into Fahrenheit is
+the Celsius temperature, or C, is equal to 5/9 times
+the Fahrenheit temperature minus 32. Rewrite the formula so it
+solves for Fahrenheit. So just like I mentioned, the
+C is Celsius, is the Celsius temperature. And the F is the Fahrenheit
+temperature. So right now, it's expressed in
+terms of, we've solved for C in terms of F. Now we want to solve for
+F in terms of C. So let's see how we're
+going to do that. So I'll just rewrite it. C is equal to 5/9 times
+F minus 32. And we want to solve for F. So the first useful thing to do
+might be to get rid of this 5/9 from both sides, or at least
+from the right side of the equation, so we just
+have an F minus 32. And the easiest way to do
+that is to multiply by the inverse of 5/9. So if we multiply both sides of
+this equation by 9/5-- and I could put it here, but it'll
+squeeze a little tight, let me try it-- 9/5 in there. If I do it to the right-hand
+side of the equation, I also have to do it to the left-hand
+side of the equation. And what do I get? The left-hand side becomes 9/5
+Celsius, or the Celsius temperature, 9/5 times the
+Celsius temperature, is equal to-- the whole reason we wanted
+to multiply the right side by 9/5 is these 9's cancel
+out, this 5 cancels out, and this just
+becomes a 1. So 9/5 times the Celsius
+temperature is going to be equal to this expression:
+the Fahrenheit temperature minus 32. We don't need the parentheses
+anymore, because this is the only expression on the
+right-hand side. Now, we want to solve for the
+Fahrenheit temperature. So let's see if we can get
+rid of this 32 from the right-hand side. The easiest way I know how
+to do that is to add 32. Add 32 to both sides
+of this equation. Add 32 to both sides. The left-hand side now becomes
+9/5 times the Celsius temperature, plus 32. And that's going to be equal
+to-- this negative 32 and positive 32 cancel out, that
+was the whole point behind adding 32, so it's just going
+to be equal to F. And we're done. We have rewritten this formula,
+up here, so it solves for Fahrenheit. This is the Fahrenheit
+right here. We've solved for Fahrenheit
+in terms of the Celsius temperature.

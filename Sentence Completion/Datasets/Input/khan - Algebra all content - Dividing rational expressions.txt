@@ -1,0 +1,53 @@
+Divide and express as a
+simplified rational. State the domain. We start off with
+this expression. We actually have one rational
+expression divided by another rational expression. And like we've seen multiple
+times before, these rational expressions aren't defined when
+their denominators are equal to 0. So p plus 5 cannot be equal to
+0, or if we subtract both sides of this-- we can't call
+it an equation, but we could call it a not-equation-- by
+negative 5, if we subtract negative 5 from both sides, you
+get p cannot be equal to-- these cancel out-- negative 5. That's what that tells us. Over here, we could do the same
+exercise 4p plus 20 also cannot be equal to 0. If it was, this expression
+would be undefined. Subtract 20 from both sides. 4p cannot be equal
+to negative 20. Divide both sides by 4. p cannot be equal
+to negative 5. So in both situations, p being
+equal to negative 5 would make either of these rational
+expressions undefined. So the domain here is the set
+of all reals such-- or p is equal to the set of all reals
+such that p does not equal negative 5, or essentially all
+numbers except for negative 5, all real numbers. We've stated the domain, so now
+let's actually simplify this expression. When you divide by a fraction or
+a rational expression, it's the same thing as multiplying
+by the inverse. Let me just rewrite this
+thing over here. 2p plus 6 over p plus 5 divided
+by 10 over 4p plus 20 is the same thing as multiplying
+by the reciprocal here, multiplying by
+4p plus 20 over 10. I changed the division into a
+multiplication and I flipped this guy right here. Now, this is going to be equal
+to 2p plus 6 times 4p plus 20 in the numerator. I won't skip too many steps. Let me just write that. 2p plus 6 times 4p plus 20 in
+the numerator and then p plus 5 times 10 in the denominator. Now, in order to see if we can
+simplify this, we need to completely factor all of the
+terms in the numerator and the denominator. In the numerator, 2p plus 6, we
+can factor out a 2, so the 2p plus 6 we can rewrite
+it as 2 times p plus 3. Then the 4p plus 20, we
+can rewrite that. We can factor out a 4 as--
+so 4 times p plus 5. Then we have our p plus 5 down
+there in the denominator. We have this p plus 5. We can just write it down
+in the denominator. Even 10, we can factor that
+further into its prime components or into its
+prime factorization. We can factor 10
+into 2 times 5. That's the same thing as 10. Let's see what we
+can simplify. Of course, this whole time, we
+have to add the caveat that p cannot equal negative 5. We have to add this restriction
+on the domain in order for it to be the same
+expression as the one we started off with. Now, what can we cancel out? We have a 2 divided by a 2. Those cancel out. We have a p plus 5 divided
+by a p plus 5. We know that p plus 5 isn't
+going to be equal to 0 because of this constraint, so we
+can cancel those out. What are we left with? In the numerator, we have 4
+times p plus 3, and in the denominator, all we have is that
+green 5, and we're done! We could right this as 4/5 times
+p plus 3, or just the way we did it right there. But we don't want to forget
+that we have to add the constraint p cannot be equal
+to negative 5, so that this thing is mathematically
+equivalent to this thing right here.

@@ -1,0 +1,171 @@
+Two videos ago we asked
+ourselves if we could find the basis for the columns
+space of A. And I showed you a method
+of how to do it. You literally put A in reduced
+row echelon form, so this matrix R is just a reduced
+row echelon form of A. And you look at its
+pivot columns, so this is a pivot column. It has a 1 and all 0's, this is
+a pivot column, 1 and all 0's, and the 1 is the leading
+non-zero term in its row. And this is a pivot column, let
+me circle them, these guys are pivot columns, and
+this guy's a pivot column right there. You look at those in the reduced
+row echelon form of the matrix, and the
+corresponding columns in the original matrix will
+be your basis. So this guy, this guy,
+so the first, second, and forth columns. So if we call this a1, this is
+a2, and let's call this a4, this would be a3,
+and this is a5. So we could say that a1, a2,
+and a4 are a basis for the column span of A. And I didn't show you
+why two videos ago. I just said this is
+how you do it. You have to take it as a bit
+of an article of faith. Now in order for these
+to be a basis, two things have to be true. They have to be linearly
+independent, and I showed you in the very last video, the
+second in our series dealing with this vector. I showed you that by the fact
+that this guy is r1, this guy is r2, and this guy is r4, it's
+clear that these guys are linearly independent. They each have a 1 in a unique
+entry, and the rest of their entries are 0. We're looking at three pivot
+columns right now, but it's true if we had n
+pivot columns. That each pivot column would
+have a 1 in a unique place, and all the other pivot
+columns would have 0 in that entry. So there's no way that the
+other pivot columns, any linear combination of the other
+ones, could never add up to each of them. So these are definitely
+linearly independent. And I showed you in the last
+video that if we know that these are linearly independent,
+we do know that they are, given that R has the
+same null space as A, we know that these guys have to be
+linearly independant, I did that in the very last video. Now the next requirement for a
+basis, we checked this one off, is to show that a1 a2 and
+an, that their span equals the column space of A. Now the column space of A is
+a span of all five of these vectors, so I had to throw
+a3 in there and a5. So to show that just these three
+vectors by themselves span our column space, we just
+have to show that I can represent a3 and a5 as
+linear combinations of a1, a2, and a4. If I can do that, then
+I can say then these guys are redundant. Then the span of a1, a2, a3, a4,
+and a5 doesn't need the a3 and the a5 terms, that we can
+just reduce it to this. Because these guys can be
+represented as linear combinations of the
+other three. These guys are redundant. And if we can get rid of them
+we can show that these guys can be represented as linear
+combinations of the other, then we can get rid of them. And then the span of these three
+guys would be the same as the span of these five guys,
+which is of course the definition of the column
+space of A. So let's see if we
+can do that. Let me fill in each of these
+column vectors a1 through a5, and then each of these column
+vectors let me label them r1, r2, r3, r4, and r5. Now let's explore the
+null spaces again. Or not even the null spaces,
+let's just explore the equations Ax is equal to -- let
+me write it this way -- instead of x let me write x1,
+x2, x3, x4, x5 is equal to 0. This is how we define the
+solution set of this. All the potential x1's through
+x5's or all the potential vectors X right here, that
+represents our null space. And then also let's explore all
+of the R times x1, x2, x3, x4, x5's is equal to 0. This is the 0 vector, in which
+case you would have four entries in this particular
+case. It would be a member of Rm. So these equations
+can be rewritten. I can rewrite this as -- what
+were the column vectors of A? They were a1, a2 through a5. So I can rewrite this as x1
+times a1 plus x2 times a2 plus x3 times a3 plus x4 times
+a4 plus x5 times a5 is equal to 0. That was from our definition
+of matrix vector multiplication, this is just a
+bunch of column vectors a1 through a5, I drew it up here. I can just rewrite this
+equation like this. Similiarly, I can rewrite this
+equation as the vector r1 times x1 or x1 times r1 plus x2
+times r2 plus x3 times r3 plus x4 times r4 plus x5
+times r5 is equal to 0. Now we know that when we put
+this into reduced row echelon form the x variables that are
+associated with the pivot columns are -- so what are the
+x variables associated with the pivot columns? Well, the pivot columns
+are r1, r2, and r4. The x variables associated with
+them, we can call them pivot variables, and the ones
+that are not associated with our pivot columns are
+free variables. So the free variables
+in this case, x3 and x5, are free variables. And that applies to A. All of the vectors x that
+satisfy this equation also satisfy this equation,
+and vice versa. They're the exact same
+null space, the exact same solution set. We can also call this x3 and
+this x5 as free variables. Now what does that mean? We've done multiple
+examples of this. The free variables, you can set
+them to anything you want. So x3 in this case and x5 you
+can set it to any real number. You can set to anything
+you want. And then from this reduced row
+echelon form we express the other pivot variables as
+functions of these guys. Maybe x1 is equal
+to Ax3 plus Bx5. Maybe x2 is equal
+to Cx3 plus Dx5. And maybe x4 is equal
+to Ex3 plus Fx5. That comes directly out of
+literally multiplying this guy times this equals 0, you'd get a
+system of equations that you could solve for your pivot
+variables in terms of your free variables. Now given this, I want to show
+you that you can always construct one of your -- in
+your original matrix. So if we go to our original
+matrix, you can always construct one of the vectors
+that are associated with the free columns. You can always construct one of
+the free vectors using the linear combination of the ones
+that were associated with the pivot columns before. And how do I do that? Well, let's say that I want to
+find some linear combination that gets me to this free
+column, that gets me to a3. So how could I do that? Let me rearrange this
+equation up here. So what do I get? I'm sorry. That's x3 a3. If I subtract x3 a3 from both
+sides of the equation, I get minus x3 a3 is equal to x1 a1
+plus x2 a2 plus -- I don't have the 3 there -- plus x4 a4
+plus x5 -- sorry, x isn't a vector-- x5 a5. This, I guess salmon colored
+statement here, is just another rewriting of this
+equation right here. And all I did is I subtracted
+this term right here, x3 a3, from both sides of
+the equation. Now x3 is a free variable. We can set it to anything
+we want, and so is x5. So let's set x3 is
+equal to minus 1. Then this term right here
+becomes a 1, because that was a minus x3. And let's set x5 equal to 0. So if x5 is equal 0, this term
+disappears, and I did that because x5 is a free variable. I can set them to
+anything I want. Now I've written a3 as a linear
+combination of, I guess you could call it my potential
+basis vectors right now, or the vectors a1, a2, and a4. They're the vectors in the
+original matrix that were associated with the
+pivot columns. Now in order to show that I can
+always do this, we have to show that for this combination
+there's always some x1, x2, and x4 that satisfy this. Well, of course there's always
+some x1, x2 that satisfy this, we just have to substitute our
+free variables, x3 is equal to minus 3 and x5 is equal to 0,
+into these equations that we get from our system when we did
+it with the reduced row echelon form. In this case you have x1 is
+equal to minus A plus 0, x2 is equal to minus C, so
+on and so forth. So you can always do that. You can always express the
+vectors that are associated with the non-pivot columns as
+linear combinations of the vectors that are associated
+with the pivot columns. What I just did for a3, you
+could just as easily have done for a5 by subtracting
+this term from both sides of the equation. Setting x5 to negative 1 and
+setting x3 to 0 so that the 3 term disappears, and you could
+run the same exact argument. So given that, I've hopefully
+shown you, or least helped you see or made you comfortable
+with the idea, that the vectors -- let me do them in a
+nice vibrant color -- these magenta color vectors here that
+are associated with the free columns or with the free
+variables, the free variables were x3 and x5, those were these
+columns right here, that they can always be expressed as
+linear combinations of the other columns. Because you just have to
+manipulate this equation, set the coefficient for whatever
+you're trying to find a linear combination for equal to minus
+1, and set all the other free variables equal to 0 that
+you're not solving for. And then you can get a linear
+combination of the vectors that are associated with
+the pivot columns. So given that, we've shown you
+that these free vectors, and I'm using my terminology very
+loosely, that these ones that are associated with the non
+pivot columns can be expressed as linear combinations
+of these guys. So they're unnecessary. The span of this is equivalent
+to the span of this, the span of this is the column space of
+A, so the span of this is the column space of A. So in the last video I showed
+you that these guys are linearly independent, and now
+I've showed you that the span of these guys is the
+column space of A. So now you should be satisfied
+that these vectors that are associated -- let me do it in
+a blue color -- that that column vector, this column
+vector, and this column vector, that are associated with
+the pivot columns in the reduced row echelon form of
+the matrix, do indeed represent a basis for the
+column space of A. Anyway, hopefully you didn't
+find that too convoluted.

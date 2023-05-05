@@ -1,0 +1,173 @@
+I'm going to do a couple more
+moment and force problems, especially because I think
+I might have bungled the terminology in the previous
+video because I kept confusing clockwise with counterclockwise. This time I'll try to
+be more consistent. Let me draw my lever again. My seesaw. So that's my seesaw, and that is
+my axis of rotation, or my fulcrum, or my pivot point,
+whatever you want to call it. And let me throw a bunch
+of forces on there. So let's say that I have a
+10-Newton force and it is at a distance of 10, so distance
+is equal to 10. The moment arm distance is 10. Let's say that I have a
+50-Newton force and its moment arm distance is equal to 8. Let's say that I have a 5-Newton
+force, and its moment arm distance is 4. The distance is equal to 4. That's enough for that side. And let's say I have a I'm
+going to switch colors. Actually, no, I'm going to keep
+it all the same color and then we'll use colors to
+differentiate between clockwise and counterclockwise
+so I don't bungle everything up again. So let's say I have a 10-Newton
+force here. And, of course, these vectors
+aren't proportional to actually what I drew. 50 Newtons would be huge if
+these were the actual vectors. And let's say that that moment
+arm distance is 3. Let me do a couple more. And let's say I have a moment
+arm distance of 8. I have a clockwise force of 20
+Newtons, And let's say at a distance of 10 again, so
+distance is equal to 10, I have my mystery force. It's going to act in a
+counterclockwise direction and I want to know what
+it needs to be. So whenever you do any of
+these moment of force problems, and you say, well,
+what does the force need to be in order for this see
+saw to not rotate? You just say, well, all the
+clockwise moments have to equal all of the
+counterclockwise moments, So clockwise moments equal
+counterclockwise. I'll do them in different
+colors. So what are all the
+clockwise moments? Well, clockwise is this
+direction, right? That's the way a clock goes. So this is clockwise,
+that is clockwise. I want to go in this
+direction. And so this is clockwise. What are all the clockwise
+moments? It's 10 Newtons times its
+moment arm distance 10. So 10 times 10 plus 5 Newtons
+times this moment arm distance 4, plus 5 times 4, plus 20
+Newtons times its moment arm distance of 8, plus 20 times 8,
+and that's going to equal the counterclockwise moments,
+and so the leftover ones are counterclockwise. So we have 50 Newtons acting
+downward here, and that's counterclockwise, and it's at
+a distance of 8 from the moment arm, so 50 times 8. Let's see, we don't
+have any other counterclockwise on that side. This is counterclockwise,
+right? We have 10 Newtons acting
+in the counterclockwise direction, and its moment arm
+distance is 3, plus 10 times 3, and we're assuming our
+mystery force, which is at a distance of 10, is also
+counterclockwise, plus force times 10. And now we simplify. And I'll just go to a neutral
+color because this is just math now. 100 plus 20 plus 160 is equal
+to-- what's 50 times 8? That's 400 plus 30 plus 10F. What is this? 2, 50 times 8. Right, that's 400. OK, this is 120 plus
+a 160 is 280. 280 is equal to 430-- this is
+a good example-- plus 10F, I just realized. Subtract 430 from both sides. So what's 430 minus 280? It's 150. So it's minus 150
+is equal to 10F. So F is equal to minus
+15 Newtons in the counterclockwise direction. So F is minus 15 Newtons
+in the counterclockwise direction, or it means that
+it is 15 Newtons. We assumed that it was in the
+counterclockwise direction, but when we did the math,
+we got a minus number. [SNEEZE] Excuse me. I apologize if I blew out your
+speakers with that sneeze. But anyway, we assume it was
+going in the counterclockwise direction, but when we did the
+math, we got a negative number, so that means it's
+actually operating in the clockwise direction at 15
+Newtons at a distance of 10 from the moment arm. Hopefully, that one was less
+confusing than the last one. So let me do another problem,
+and these actually used to confuse me when I first learned
+about moments, but in some ways, they're the
+most useful ones. So let's say that I have
+some type of table. I'll draw it in wood. It's a wood table. That's my table. And I have a leg here,
+I have a leg here. Let's say that the center
+of mass of the top of the table is here. It's at the center. And let's say that
+it has a weight. It has a weight going down. What's a reasonable weight? Let's say 20 Newtons. It has a weight of 20 Newtons. Let's say that I place some
+textbooks on top of this table, or box, just to make
+the drawing simpler. Let's say I place a box there. Let's say the box weighs 10
+kilograms, which would be about 100 Newtons. So let's say it weighs
+about 100 Newtons. So what I want to figure out,
+what I need to figure out, is how much weight is being
+put onto each of the legs of the table? And this might not have even
+been obviously a moment problem, but you'll see in
+a second it really is. So how do we know that? Well, both of these legs are
+supporting the table, right? Whatever the table is exerting
+downwards, the leg is exerting upwards, so that's the amount of
+force that each of the legs are holding. So what we do is we pick-- so
+let's just pick this leg, just because I'm picking
+it arbitrarily. Let's pick this leg,
+and let's pick an arbitrary axis of rotation. Well, let's pick this is as
+our axis of rotation. Why do I pick that as the
+axis of rotation? Because think of it this way. If this leg started pushing more
+than it needed to, the whole table would rotate in the counterclockwise direction. Or the other way, if this leg
+started to weaken and started to buckle and couldn't hold
+its force, the table would rotate down this way, and it
+would rotate around the other leg, assuming that the other
+leg doesn't fail. We're assuming that this leg
+is just going to do its job and it's not going to move
+one way or the other. But this leg, that's why we're
+thinking about it that way. If it was too weak, the whole
+table would rotate in the clockwise direction, and if it
+was somehow exerting extra force, which we know a leg
+can't, but let's say if it was a spring or something like that,
+then the whole table would rotate in the
+counterclockwise direction. So once we set that up, we can
+actually set this up as a moment problem. So what is the force
+of the leg? So the whole table is exerting
+some type of-- if this leg wasn't here, the whole table
+would have a net clockwise moment, right? The whole table would tilt down
+and fall down like that. So the leg must be exerting a
+counterclockwise moment in order to keep it stationary. So the leg must be exerting
+a force upward right here. The force of the leg, right? We know that. We know that from
+basic physics. There's some force coming down
+here and the leg is doing an equal opposite force upwards. So what is that force
+of that leg? And one thing I should
+have told you is all of the distances. Let's say that this distance
+between this leg and the book is 1 meter-- or the box. Let's say that this distance
+between the leg and the center of mass is 2 meters, and so
+this is also 2 meters. OK, so we can now set this
+up as a moment problem. So remember, all of the
+clockwise moments have to equal all of the
+counterclockwise moments. So what are all of the
+clockwise moments? What are all of the things that
+want to make the table rotate this way or this way? Well, the leg is the
+only thing keeping it from doing that. So everything else is essentially a clockwise moment. So we have this 100 Newtons,
+and it is 1 meter away. Its moment arm distance is 1. So these are all the clockwise
+moments, 100 times 1, right? It's 100 Newtons acting
+downwards in the clockwise direction, clockwise moment, and
+it's 1 meter away, plus we have the center of mass at the
+top of the table, which is 20 Newtons, plus 20 Newtons, and
+that is 2 meters away from our designated axis,
+so 20 times 2. And you might say, well, isn't
+this leg exerting some force? Well, sure it is, but its
+distance from our designated axis is zero, so its moment
+of force is zero. Even if it is exerting a million
+pounds or a million Newtons, its moment of force,
+or its torque, would be zero because its moment arm distance
+is zero, so we can ignore it, which makes
+things simple. So those were the only
+clockwise moments. And what's the counterclockwise
+moment? Well, that's going to be the
+force exerted by this leg. That's what's keeping the whole
+thing from rotating. So it's the force of
+the leg times its distance from our axis. Well, this is a total of 4
+meters, which we've said here, times 4 meters. And so we can just solve. We get 100 plus 40, so we get
+140 is equal to the force of the leg times 4. So what's 140-- 4 goes
+into 140 35 times? My math is not so good. Is that right? 4 times 30 is 120. 120 plus 20. So the force of the leg
+is 35 Newtons upwards. And since this isn't moving,
+we know that the downward force right here must
+be 35 Newtons. And so there's a couple of ways
+we can think about it. If this leg is supporting 35
+Newtons and we have a total weight here of 120 Newtons, our
+total weight, the weight at the top of the
+table plus the bookshelf, that's 120 Newtons. So the balance of this
+must be supported by something or someone. So the balance of this
+is going to be supported by this leg. So it's 120 minus 35 is what? [PHONE RINGS] Oh, my phone is ringing. 120 minus 35 is what? 120 minus 30 is 90. And then 90 minus
+5 is 85 Newtons. It's so disconcerting
+when my phone rings. I have trouble focusing. Anyway, it's probably because
+my phone sounds like a freight train. Anyway, so there you go. This type of problem is actually
+key to, as you can imagine, bridge builders, or
+furniture manufacturers, or civil engineers who are bridge
+builders, or architects, because you actually have to
+figure out, well, if I design something a certain way, I have
+to figure out how much weight each of the supporting
+structures will have to support. And as you can imagine,
+why is this one supporting more weight? Why is this leg supporting more
+weight than that leg? Well, because this book, which
+is 100 Newtons, which is a significant amount of the total
+weight, is much closer to this leg than it
+is to this leg. If we put it to the center, they
+would balance, and then if we push it further to the
+right, then this leg would start bearing more
+of the weight. Anyway, hopefully you found
+that interesting, and hopefully, I didn't
+confuse you. And I will see you
+in future videos.

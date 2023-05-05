@@ -1,0 +1,53 @@
+- This is what a sound wave sounds like, (speaker hums) but what does a sound wave look like? Well, the air through which
+the sound wave is traveling looks something like this, but if you want another visual
+representation of the sound, we can hook this speaker
+up to an oscilloscope, and it gives us this graph. (speaker hums) We say that this shape
+represents the sound wave, because if we focus on a
+single molecule of air, we see that it moves back and forth, just like a sine or cosine graph. The horizontal axis here represents time, and the vertical axis can be thought of as representing the displacement
+of that air molecule as it oscillates back and forth. The center line here represents
+the equilibrium position or undisturbed position
+of that air molecule. It we turn up the volume, we see that the
+oscillations become larger, and the sound becomes louder. The maximum displacement
+of the air molecule from its undisturbed position
+is called the amplitude. Be careful. The amplitude is not the length
+of the entire displacement. It's only the maximum
+displacement measured from the equilibrium position. Another key idea is the
+period of a sound wave. The period is defined
+to be the time it takes for an air molecule to fully
+move back and forth one time. We call this back and
+forth motion a cycle. We measure the period in seconds. So, the period is the number of seconds it takes for one cycle. We use the letter capital
+T to represent the period. If we decrease the period, the time it takes for the air molecules to oscillate back and forth decreases, and the note or the pitch
+of the sound changes. The less time it takes the air molecules to oscillate back and forth, the higher note that we perceive. An idea intimately related to the period is called the frequency. Frequency is defined to
+be one over the period. So, since the period is the number of seconds per oscillation, the frequency is the number
+of oscillations per second. Frequency has units of one over seconds, and we call one over a second a hertz. Typical sounds have frequencies in the 100s or even 1000s of hertz. For instance, this note,
+which is an A note, is causing air to oscillate back and forth 440 times per second. So, the frequency of
+this A note is 440 hertz. Higher notes have higher frequencies, and lower notes have lower frequencies. Humans can hear frequencies
+as low as about 20 hertz and as high as about 20,000 hertz, but if a speaker were to
+oscillate air back and forth more than about 20,000 times per second, it would create sound waves, but we wouldn't be able to hear them. (sound starts, then stops) For instance, this speaker
+is still playing a note, but we can't hear it right now. Dogs could hear this note, though. Dogs can hear frequencies
+up to at least 40,000 hertz. Another key idea in sound waves is the wavelength of the sound wave. The idea of a wavelength
+is that when this sound is traveling through a region of air, the air molecules will be compressed close together in some regions and spread far apart from
+each other in other regions. If you find the distance
+between two compressed regions, that would be the wavelength
+of that sound wave. Since the wavelength is a
+distance, we measure it in meters. Be careful. People get wavelength and
+period mixed up all the time. The period of a sound
+wave is the time it takes for an air molecule to oscillate
+back and forth one time. The wavelength of a sound
+wave is the distance between two compressed regions of air. People get these mixed up because there's an alternate
+way to create a graph of this sound wave. Consider this. Before the wave moves through the air, each air molecule has
+some undisturbed position from the speaker that we
+can measure in meters. This number represents the equilibrium undisturbed position of that air molecule. Then as the sound wave passes by, the air molecules get displaced
+slightly from that position. So, an alternate graph that we could make would be the displacement
+of the air molecule versus the undisturbed position or equilibrium position
+of that air molecule. This graph would let us know for a particular moment in time how displaced is that air molecule at that particular position in space. This graph shows us that in some regions the air is displaced a lot
+from its equilibrium position, and in other regions, the air
+is not displaced much at all from its equilibrium position. For this kind of graph,
+the distance between peaks represents the wavelength
+of the sound wave, not the period, because
+it would be measuring the distance between
+compressed regions in space. So, be careful. For a sound wave, a
+displacement versus time graph represents what that particular
+air molecule is doing as a function of time,
+and on this type of graph, the interval between peaks represents the period of the wave, but a displacement versus position graph represents a snapshot of the displacement of all the air molecules along that wave at a particular instant of time, and on this type of graph, the interval between peaks
+represents the wavelength.

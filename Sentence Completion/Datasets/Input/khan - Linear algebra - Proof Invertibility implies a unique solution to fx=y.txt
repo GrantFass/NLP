@@ -1,0 +1,280 @@
+I've got a function f and it's
+a mapping from the set x to the set y. And let's just say for the sake
+of argument, let's say that f is invertible. What I want to know is what
+does this imply about this equation right here. The equation f of
+x is equal to y. I want to know that for every
+y that's a member of our co-domains. So for every y, let me write
+this down, for every y that's a member of my co-domain is
+there a unique, in all caps UNIQUE, solution x that's
+a member of our domain. Such that, and I could write
+such that well, I'll just write it out. I was going to write the mathy
+way, but I think it's nicer to write in the actual
+words sometimes. Such that f of x
+is equal to y. So if we just, let me
+just draw everything out a little bit. We have our set x right here. This is x. We have our co-domain y here. We know that f, if you take some
+point here, let's call that a, it's a member of x and
+you apply the function f to it, it will map you to some
+element in set y. So that's f of a right there. This is, so far, what
+this tells us. Now I want to look at this
+equation here, and I want to know that if I can pick any y
+in this set any lower-case y in this set y. So let's say I pick
+something here. Let's say that's b. I want to know is there a
+unique solution to the equation f of x is equal to b. Is there a unique solution? So one, I guess, you have to
+think, is there a solution. So is there a solution to
+saying, look is there some x here that if I apply the
+transformation f to it that I get there, and I also want
+to know is it unique. For example, if this is the only
+one that is unique, but it's not unique if there's some
+other guy, if there is more than one, solution. If there is some other guy
+in x that if I apply the transformation I also go to b. This would make it non-unique,
+not unique. So what I want to concern
+ourselves with in this video is somehow, is invertibility
+related to the idea of a unique solution to this for
+any y in our co-domain. So let's just work through our
+definitions of invertibility and see if we can get anywhere
+constructive. So by definition, f is
+invertible implies that there exists this little backward
+looking, three-looking thing, this means there exists. I think it's nice to be exposed
+sometimes to the mathy notations Let me just
+write that. That means there exists some
+function, let's call it f inverse, that's a mapping from
+y to x, such that, and actually the colons are also the
+shorthand for such that, but I'll write it out. Such that the composition of f
+inverse with f is equal to the identity on x. So, essentially, it's saying
+look, if I apply f to something in x then I apply f
+inverse to that, I'm going to get back to that point which is,
+essentially, equivalent. Or it isn't just essentially
+equivalent, it is equivalent to just applying the identity
+function, So that's i x. So you just get what
+you put into it. Such that this inverse function,
+the composition of the inverse with the function,
+is equal to the identity function. And that the composition of the
+function with the inverse function is equal to the
+identity function on y. So if you started y and you
+apply the inverse, then you apply the function to that,
+you're going to end up back at y at that same point. And that's equivalent
+to just applying the identity function. So this is what invertibility
+tells me, this is how I defined invertibility
+in the last video. Now we concerned ourselves-- so
+we are concerned with this equation up here. We're concerned with the
+equation, I will write it in pink, f of x is equal to y. And what we want to know for
+any y, or any lower-case cursive y in our big set
+y, is there a unique x solution to this. So, what we can do is we know
+that f is invertible. I told you that from
+the get-go. So given that f is invertible,
+we know that there is this f inverse function, and I can
+apply that f inverse function. It's a mapping from y to x. So, I can apply it to
+any element in y. So for any y, let's say that
+this is my y right there. So I can apply my f
+inverse to that y. And I'm going to go over here
+and, of course, y is equal to f of x. These are the exact
+same points. So let's apply our f inverse
+function to this. So if I apply the f inverse
+function to both sides of the equation, this right here's an
+element in y, and this is the same element in y. Right? They are the same element. Now, if I apply the mapping, the
+inverse mapping, to both of that, that's going to take
+me to some element in x. So let's do that. So, if I take the inverse
+function on both sides of this equation, where some element
+over here in y, and I'm taking the inverse function to get to
+some element in x, what's this going to be equal to? Well, on the right-hand side,
+we could just write the f inverse of y. That's going to be some
+element over here. But what does the left-hand
+side of this equation translate to? The definition of this inverse
+function is that when you take the composition with f, you're
+going to end up with the identity function. This is going to be equivalent
+to-- let me write it this way. This is equal to the composition
+of f inverse with f of x, which is equivalent to
+the identity function being applied to x. And then the identity function
+being applied to x is what? That's just x. This thing right here
+just reduces to x. This reduces to x. So, we started with the idea
+that f is invertible. We use the definition of
+invertibility that there exists this inverse function
+right there. And then we essentially apply
+the inverse function to both sides of this equation and say,
+look you give me any y, any lower-case cursive y in this
+set y, and I will find you a unique x. This is the only x that
+satisfies this equation. Remember how do I know
+it's the only x? Because this is the only
+possible inverse function. Only one inverse function
+which is true. I proved that to you
+in the last video. That if f is invertible,
+it only has one unique inverse function. We tried before to have maybe
+two inverse functions, but we saw they have to be
+the same thing. So since we only have one
+inverse function and it applies to anything in this big
+upper-case set y, we know we have a solution. And because it's only one
+inverse function, and functions only map to one value
+in this case, then we know this is a unique
+solution. So let's write this down. So we've established that if f
+is invertible, I'll do this in orange, then the equation f of
+x is equal to y for all. That little v that it looks
+like it's filled up with something, for all y, the member
+of our set y, has a unique solution. And that unique solution, if you
+really care about it, is going to be the inverse
+function applied to y. It might seem like a bit of a
+no brainer, but you can see you have to be a little bit
+precise about it in order to get to the point you want. Let's see if the opposite
+is true. Let's see if we assume-- let's
+see if we start from the assumption, that for all y that
+is a member of our set Y, that the solution, that the
+equation f of x, is equal to y has a unique solution. Let's assume this and see if it
+can get us the other way. If given this, we can
+prove invertibility. So let's think about
+the first way. So we're saying that for any y--
+let me draw my sets again. So this is my set X and this
+is my set Y right there. Now we're working for the
+assumption that you can pick any element in Y right here,
+and then the equation right here has a unique solution. Let's call that unique
+solution. Well, we could call
+it whatever. But a unique solution x. So you can pick any point here,
+and I've given you, we're assuming now, that, look,
+you pick a point in Y, I can find you some point
+in X such that f of x is equal to y. And not only can I find
+that for you, that is a unique solution. So given that, let me define
+a new function. Let me define the function s. The function s is a mapping
+from y to x. It's a mapping from y to x and s
+of, let's say s of y, where, of course, y is a member
+of our set capital-Y. s of y is equal to the unique
+solution in x to f of x is equal to y. Now, you're saying, hey, Sal, it
+looks a little convoluted. But think about it. This is a completely valid
+function definition. Right? We're starting with the idea
+that you give me any y here. You give me any member of this
+set, and I can always find you a unique solution to
+this equation. Well OK, so that means that any
+guy here can be associated with a unique solution in the
+set X, where the unique solution is the unique
+solution to this equation here. So, why don't I just define a
+function that says, look I'm going to associate every member
+y with its unique solution to f of x
+is equal to y. That's how I'm defining this
+function right here. And, of course, this is
+a completely valid mapping from y to x. And we know that this only has
+one legitimate value because this, any value y, any
+lower-case value y, in this set has a unique solution
+to f of x is equal to y. So this can only equal
+one value. So it's well defined. So let's apply, let's take some
+element here, let me do a good color, let's
+say this is b. And b is a member of y. So let's find, so let's just map
+it using our new function right here. So let's take it, and map it,
+and this is s of b right here. s of b which is a member of x
+Now, we know that s of b is a unique solution by definition. I know it seems a little
+circular, but it's not. We know that s of
+b is a solution. So we know that s of b is the
+unique solution to f of x is equal to b. Well, if this is the case, if
+this is good, we just got this because this is what
+this function does. It maps every y to the unique
+solution to this equation. Because we said that every
+y has a unique solution. So, if this is the case,
+then what happens if I take f of s of b. Well, I just said this is the
+unique solution to this. So if I put this guy in here,
+what am I going to get? I'm going to get b. Or other way of saying this is
+that the composition of f with s applied to b is equal to b. Or another way to say it, is
+that we take the composition of f with s, this is the same
+thing, because if I apply s to b, and then I apply f back to
+that, that's the composition, I just get back to b. That's what's happening here. So this is the same thing as
+the identity function on y being applied to b. So it's equal to b. So we can say that the
+composition-- we can say that there exists, and we know that
+this function exists, or that we can always construct this. So we already know
+that this exists. This existed by me constructing
+it, but I've, hopefully, shown you that
+this is well defined. That from our assumption that
+this always has a unique solution in x for any y here, I
+can define this in a fairly reasonable way. So it definitely exists. And not only does it exist,
+but we know that the composition of f with this
+function that I just constructed here is equal to
+the identity function on y. Now let's do another
+little experiment. Let's take a particular-- let
+me just draw sets again. This is our set X. Let me take some member
+of set X, call it a. Let me take my set
+Y right there. And so we can apply the function
+to a and we'll get a member of set Y. Let's call that right there. Let's call that f of
+a right there. Now, if I apply my magic
+function here that always, I can give you any member of set Y
+and I'll give you the unique solution in X to
+this equation. So, let me apply that to this. Let me apply s to this. So, if I apply s to this it'll
+give me the unique solution. So, let me write this down. So if I apply s to this, I'm
+going to apply s to this-- and maybe I shouldn't point it back
+at that, I don't want to imply that it necessarily
+points back at that. So, let me apply s
+that, s to this. So what is this going
+to point to? What is that point going
+to be right there? So that's going to be s of this
+point, which is f of a, which we know is the
+unique solution. So, this is equal to the
+unique solution to the equation f of x is equal
+to this y right here. Or this y right here is
+just called f of a. Right? Remember, the mapping s just
+mapped you from any member of a to the unique solution
+to the equation f of x is equal to that. So this is the mapping from f of
+a to the unique, so this s of f of a is going to be a
+mapping to the-- or this right here, is going to be the
+unique solution to the equation f of x is equal
+to this member of y. And what's the remember
+y I called? It's called f of a. Well, you could go say this in
+a very convoluted way, but if I were to just, before you
+learned any linear algebra, if I said look if I have the
+equation f of x is equal to f of a. What is the unique solution
+to this equation? What does x equal? x would have to be equal to a. So the unique solution to the
+equation f of x is equal to f of a is equal to a. And we know that there's only
+one solution to that because that was one of our starting
+assumptions. So this thing is equal to a. Or we could write s of
+f of a is equal to a. Or that the composition of s
+with f is equal or applied to a is equal to a. Or that the composition of s
+with f is just the identity function on the set x. Right? This is a mapping right
+here from x to x. So we could write that the
+composition of s with f is the identity on x. So, what have we done so far? We started with the idea that
+you pick any y in our set capital-Y here and we're going
+to have a unique solution x such that this is true. Such that f of x
+is equal to y. That's what the assumption
+we started off with. We constructed this function
+s that immediately maps any member here with its unique
+solution to this equation. Fair enough. Now from that, we said this
+definitely exists. Not only does it exist, but
+we figured out that the composition of f with our
+constructed function is equal to the identity on the set y. And then we also learned that
+s-- the composition of s with f is the identity
+function on x. Let me write this. So we learned this, and we
+also learned that the composition f with s is equal
+to the identity on y. And s clearly exists because I
+constructed it, and we know it's well defined because every
+y-- for every y here there is a solution to this. So given that I was able to find
+for my function f, I was able to find a function that
+these two things are true. This is by definition. What it means to
+be invertible. Remember, so this means
+that f is invertible. Remember f being invertible,
+in order for f to be invertible, that means there
+must exist some function from, so if f is a mapping from to x
+to y, invertibility means that there must be some function f
+inverse that is a mapping from y to x such that, so I can write
+there exists a function, the inverse function composed
+with our function should be equal to the identity on x. And the inverse and the function
+in the composition of the function, with the inverse
+function, should be the identity on y. Well, we just found
+a function. It exists, and that
+function is s. Where both of these
+things are true. We can say that s is
+equal to f inverse. So f is definitely invertible. So, hopefully, you found
+this satisfying. This proof is very subtle and
+very nuanced because we keep bouncing between our
+sets X and Y. But what we've shown is that if
+f, in the beginning part of this video, we show that if f
+is invertible then there is for any y a unique solution to
+the equation f of x equals y. And the second part of the
+video, we showed that the other way is true, That if-- let
+me put it this way, that if for all Y, a member of
+capital Y, there is a unique solution to f of x is equal to
+x, then f is invertible. So the fact that both of these
+assumptions imply each other, we can write our final
+conclusion of the video. That f being invertible, if f,
+which is a mapping from x to y is invertible, this is true if
+and only if, and we could write that either as
+a two-way arrow. Or we could write if for if and
+only if so both of these statements imply each other. If and only if for all y, for
+every y that is a member of our set y there exists a
+unique-- I can actually write that like that means there's
+exists a unique x for the-- or let me write this way there
+exists a unique solution to the equation f of
+x is equal to y. So that was our big takeaway
+in this video. That invertibility of a function
+implies there's a unique solution to this equation
+for any y that's in the co-domain of our function.

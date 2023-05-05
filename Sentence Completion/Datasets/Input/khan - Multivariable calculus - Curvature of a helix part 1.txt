@@ -1,0 +1,67 @@
+- [Voiceover] So let's
+compute the curvature of a three dimensional parametric curve and the one I have in
+mind has a special name. It's a helix and the first two components kind of make it look like a circle. It's going to be cosine
+of t for the x component, sine of t for the y component but this is three dimensional,
+I know it makes it a little different from a circle. I'm going to have the last component be t divided by five. And what this looks like we
+can visualize it pretty well. I'm going to go on over
+to the graph of it here. So this shape is called a
+helix and you can see how looking from the x y planes perspective it looks as if it's going to draw a circle and really these lines should all line up when you're facing it but
+it's due to the perspective where things farther away look smaller. But it would just be drawing a circle, but then the z component
+because z increases while your parameter t
+increases, you're kind of rising, as if it's a spiral staircase. And now, before we compute curvature, to know what we're really going
+for, what this represents, you kind of imagine yourself
+, maybe this isn't a road, but it's like a space
+freeway, and you're driving your spaceship along it and
+you imagine that you get stuck at some point, or maybe
+not that you get stuck, but that all of your instruments lock. And your steering wheel
+locks or your joystick or however you're steering,
+it all just locks up and you're gonna trace out
+a certain circle in space. And that circle might
+look something like this. So if you were turning
+however you are on the helix, but then you can't do anything different, you might trace out a giant circle. And what we care about is
+the radius of that circle. And if you take one divided
+by the radius of that circle you trace out that's
+going to be the curvature. That's going to be the
+little kappa curvature. And of course the way that we compute it, we don't directly talk
+about that circle at all, but it's actually a good thing to keep in the back of your mind. The way that we compute
+it is to first find the unit tangent vector
+function with the same parameter and what that means if you
+imagine your helix spiraling through three dimensional space. Man, I am not as good an
+artist as the computer is when it comes to drawing a helix. But the unit tangent vector function would be something that gives you a tangent vector at every given point, you know kind of the direction that you on your space ship are travelling. And to do that you take the derivative of your parameterization. That derivative, which
+is going to give you a tangent vector, but it might
+not be a unit tangent vector, so you divide it by its own magnitude And that'll give you
+a unit tangent vector. And then ultimately, the
+goal that we're shooting for is gonna be to find the derivative of this tangent vector function with
+respect to the arc length. So as a first step, we'll start
+by finding a derivative of our paremetarization function. So when we take that
+derivative, luckily there's not a lot of new things
+going on for derivatives. So S prime from single variable calculus, we just take the derivative
+of each component, so cosine goes to negative sine of t. Sine, it's derivative is cosine of t and then the derivative
+of t divided by five is just a constant. That's just one over five. Boy, it is hard to say the
+word derivative over and over. Say it five times. So that's S prime of t,
+and now what we need to do we need to find the
+magnitude of S prime of t. So what that involves is
+we're taking the magnitude S prime of t as a vector. We take the square root of the sum of the squares
+of each of its components. So, sine, negative sine squared just looks like sine squared. Sine squared of t. Cosine squared. Cosine squared of t. And then one fifth squared and that's just one twenty fifth. You might notice I use a lot
+of these sine cosine pairs in examples, partly
+because they draw circles and lots of things are fun
+that involve drawing circles. But also because it has a
+tendency to let things simplify especially if you are taking a magnitude because sine squared plus cosine squared just equals one. So this entire formula boils down to the square root of one
+plus one divided by 25. And for this you might be
+thinking off to the side that that's 25 over 25 plus one over 25 So making even more room
+here, what that equals is the square root of 26 divided by 25. And just because 25 is
+already a square and it might make things look nice I am
+going to write this as the square root of 26 divided by 5, the square root of 25. This whole thing is the
+magnitude of our derivative. And we think to ourselves,
+it's quite lucky that this came out to be a constant because, as we saw with
+the more general formula, it's often pretty nasty
+and it can get pretty bad. But in this case, it's just a constant, which is nice because
+as we go up and we start to think about what our
+unit tangent vector function for the helix should be, we're just going to take the derivative function and divide each term by that magnitude. So it's going to look almost identical. It's going to be negative sine of t. Except now we're dividing
+by that magnitude and that magnitude of course is root 26 over five, So we go up here and we
+say we're dividing this by root 26 over five. That whole quantity. And then similarly y
+component is cosine of t divided by the quantity of the root 26 divided by 5. The last part is one fifth,
+I'll put that in parenthesis, divided by that same amount. root 26 over five. So we're just taking the whole vector and we're dividing it by the magnitude that it has and we're lucky, again, that even though this vector
+is a function, and it can depend on t, the magnitude doesn't. So the unit tangent vector function we get as a result is relatively simple. And I'll call it a day
+here and then continue on on with the same line of
+reasoning in the next video.

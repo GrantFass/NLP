@@ -1,0 +1,286 @@
+Here's some of the guidelines
+for drawing dot structures. So let's say we
+wanted to draw the dot structure for this molecule,
+so silicon tetrafluoride. The first thing we
+would need to do is to find the total number
+of valence electrons. And we would account for these
+valence electrons in our dot structure. So to find the
+valence electrons, we need to look at
+it periodic table. So here I have a modified
+version of the periodic table. And you see what
+I've done is, I've kind of cut out
+the d-block here, so we can focus
+in on the elements that we're going to be
+drawing in our dot structures. It also makes it easier
+to see how the group numbers correspond to the
+number of valence electrons. For example, if we look at
+elements in the first group, like hydrogen, lithium,
+or sodium, the first group all have one valence electron. So the group number corresponds
+to how many valence electrons something has. So hydrogen has one
+valence electron. If we think about
+the periods, hydrogen is in the first period,
+or the first energy level. So periods are
+going horizontally across your periodic table. Hydrogen is in group one,
+it has one valence electron. And if I go over
+here to helium, this would be two valence
+electrons for helium. And so in the
+first energy level, you can fit a maximum
+of two electrons. And so this is
+going to important when we're drawing
+our dot structures. Because when we're
+drawing hydrogen, we're always going
+to surround it by two electrons, or a
+single covalent bond. When you take the second
+period on the periodic table, so here we are on
+the second period, lithium has one valence
+electron, beryllium has two, boron has three, carbon has
+four, nitrogen has five, oxygen has six, fluorine
+seven, and neon eight. And so you have more orbitals
+in a second energy level. And so because of that,
+you can fit more electrons. So maximum of eight electrons
+in the second energy level. And this is where the idea
+of the octet rule comes in. So for elements like carbon,
+nitrogen, oxygen, fluorine, understanding the
+octet rule is going to help you when you're
+drawing dot structures. Now it is possible for
+some of the elements of the second period to
+not have eight electrons. It's possible for them to have
+less than eight electrons. So things like boron
+will sometimes do that. But it is not
+possible for elements to have more than
+eight electrons. Always check your
+dot structures, and make sure that if
+you have an element in the second period, you do
+not exceed eight electrons. Once you get to
+the third period, you have even more orbitals
+available to you now. So in the first energy level,
+you have only one s orbital. In the second energy level
+you have s and p orbitals, and in the third energy level
+you have s, p, and d orbitals. So you can fit more
+than eight electrons. And so therefore it's possible
+to exceed the octet rule for elements in the
+third period and beyond. And we will see a few examples
+of that in this video, and some of the
+ones to come here. So getting back to our
+molecule, silicon tetrafluoride, if I wanted to find out how
+many total valence electrons are in this molecule, I need
+to find these elements on my periodic table. So I go over here
+and I find silicon, and I see it's in group four. So therefore one atom of silicon
+has four valence electrons. Fluorine is over here
+in a group of seven, and so therefore
+each atom of fluorine will have seven
+valence electrons. And I have four of them. So 7 times 4 gives me 28 valence
+electrons for my fluorine. The total number valence
+electrons for my molecule will be 28 plus 4. So I have to account
+for 32 valence electrons when I draw this dot structure. So let's go ahead and
+move on to the next step. Let's go back up here and
+look at our guidelines. So we figured out how
+many valence electrons we need to account for
+for our dot structure. We don't have any
+kind of charges, so we don't need to worry about
+the rest of step one here. We move on to step
+two, where we decide on the central atom
+of our dot structure. And the way to do this is to
+pick the least electronegative element that we have here,
+and then draw the bonds. And so for our
+example, we're working with silicon and fluorine. And so we can go ahead
+and find those again on our periodic table. Here's fluorine. Fluorine is the most
+electronegative element, and so therefore, for
+silicon tetrafluoride, we're going to put the silicon
+atom at the center of our dot structure, since it is the least
+electronegative of those two. So I'm going to start
+with silicon here. And I know that silicon has
+four bonds to fluorine atoms. I'm going to go ahead and put
+in some fluorines right here. So here's some
+fluorines like that. So I just drew four
+covalent bonds, and we know that each
+covalent bond represents two valence electrons, right? So here's two valence
+electrons, here's two, so that's a total of
+four, six, and eight. So we've represented eight
+valence electrons so far in our dot structure. So we originally
+had to represent 32. So I'm going to go ahead
+and subtract 8 from 32. So 32 minus 8 gives me 24. So now I only have to account
+for 24 valence electrons. Let's go back up and
+look at our steps again. So let's find out where we are. So we've decided
+the central atom, and we've drawn the
+bonds, and we just subtracted the
+electrons that we used to draw those bonds from the
+total that we got in step one. So we're on to step three,
+where we assign the leftover electrons to the terminal atoms. So in this case, the terminal
+atoms would be the fluorines. So let's go back down here
+and look at our dot structure. So fluorine would be
+the terminal atoms, and we're going to assign
+electrons to those fluorines. But how many do
+we need to assign? Well, going back to our
+periodic table over here, so fluorine is in
+the second period. So pretty good bet it's going
+to follow the octet rule here. So we need to surround
+each fluorine atom with eight electrons. Each fluorine already has
+two electrons around it, so I'm going to go ahead and put
+six more around each fluorine, like that. So each fluorine get six
+more valence electrons. And since I'm assigning
+six valence electrons to four fluorines, 6
+times 4 gives me 24. And so therefore
+we've now accounted for all of the
+valence electrons. And so this should be the
+should be the final dot structure here. And so we don't
+even need to go on to step four for this molecule. This is a very simple
+molecule to draw. Let's go ahead and look
+at another example. So now we have CH2O, which
+is the dot structure for, which is the molecular formula,
+I should say, for formaldehyde. And so if we're following
+our guidelines here, the first thing we need to do is
+find out the valence electrons. So we need to look and find
+carbon, hydrogen, oxygen on our periodic table. So let's go back up here, and
+let's find those elements here. So here's carbon. Carbon's in group four,
+so therefore carbon will have four
+valence electrons. Here's hydrogen, in group
+one, so one valence electron. And oxygen is in group six,
+so six valence electrons for oxygen. So let's go back down and let's
+calculate the total number of valence electrons
+that we need to represent in
+our dot structure. We have one atom of carbon, so
+that's four valence electrons. Each hydrogen is one
+valence electron, but we have two of
+them, so 1 times 2. And each oxygen is six, and
+we have one of them, so six. So 6 plus 4 plus 2 is
+12 valence electrons. So we need to represent 12
+valence electrons in our dot structure. All right. Let's go back up
+to our guidelines and see where we are now. So we've already figured
+out the total number of valence electrons. Once again, we don't
+have any charges, so we don't need to worry
+about the rest of step one. Step two is to assign
+the central atom, which is the least electronegative. And remember you're
+going to ignore hydrogen for this example. So if we ignore hydrogen,
+the central atom is either going to
+be carbon or oxygen. And let's look at
+our periodic table to figure out the
+relative values for those. Oxygen is more
+electronegative than carbon. Here we go. Here's oxygen, right
+next to fluorine. And here's carbon, over here. So remember your trends
+for electronegativity. Oxygen is more
+electronegative, therefore carbon is going to be at the
+center of our dot structure. So we're going to go ahead
+and put carbon in the center. So go ahead and draw carbon. And we know that
+the carbon's going to be bonded to two hydrogens. And we know that the carbon is
+going to be bonded to an oxygen here. So let's see how many
+valence electrons we've accounted for so far. Two, four, and six. So we needed 12. We just used up 6. So right now we have six
+valence electrons leftover. OK, so let's go back up and
+look at the next step here. So we are to step three. Assign the left over electrons
+to the terminal atoms here. All right, so the
+terminal atoms. Well, in this case,
+our terminal atoms would be hydrogen and oxygen. But we're not going to assign
+any electrons to hydrogen, because each hydrogen is now
+surrounded by two electrons. And so therefore we're going to
+assign those leftover electrons to the oxygen here. And oxygen's going to
+follow the octet rule. So it already has two around
+it, so it needs six more. So 2, 4, and then 6. And so that actually
+takes care of all of our valence electrons, right? So now we have accounted
+for all 12 of them. However we're not done with
+our dot structure here. So carbon actually follows
+the octet rule almost all of the time. And let's go back up here and
+let's look at step four here. So for step four, if the central
+atom doesn't have an octet, and it usually
+does have an octet, you can give it an octet
+by creating multiple bonds. So let's look at what we have
+so far for our dot structure, and let's see if we can
+create multiple bonds somehow. So if I took one of these
+electron pairs here, and I moved them
+into here, let's see what that would give
+us for a dot structure. Now I'd have carbon with
+a double bond to oxygen. And this oxygen would have
+two lone pairs of electrons. And then these hydrogens
+right down here. And so this would be the correct
+dot structure for formaldehyde. You have an octet of
+electrons around carbon. You have an octet of
+electrons around oxygen. And hydrogen has two
+electrons around it, which it is happy with. So this is the
+correct dot structure. And let me just talk about some
+terminology really fast here. So these electrons
+in here, so this would be a double bond between
+the carbon and the oxygen, these electrons you would
+call bonding electrons. Because, obviously, they're
+involved in bonding. And then these
+electrons out here would be non-bonding electrons,
+or lone pairs of electrons. So that's just
+terminology that you'll hear people use when you're
+talking about dot structures. All right. And then let me just go
+ahead and highlight the fact that carbon has an
+octet of electrons here. So this would be two, four, six,
+and eight electrons surrounding our carbon. All right. Let's do one more example here. Let's look at, this time an ion. So this would be the xenon
+pentafluoride cation here. So we need to look and
+find xenon and fluorine on our periodic table. So we can figure
+out how many valence electrons we're
+dealing with here. So let's find xenon first. So here is xenon. It is in group eight, so eight
+valence electrons for xenon. And then we've seen fluorine
+of course in group seven. So let's go back
+down and figure out how many valence electrons
+we need to account for here. So we have one xenon, and
+that's eight valence electrons. Each fluorine is seven,
+and we have five of them. So 7 times 5 is 35. So we have 35 plus
+8 gives us 43. Now this is actually not the
+total number of electrons that we're going to account
+for, because this is an ion. This is a plus 1,
+a positive charge. Which means that we
+lost an electron. Remember, and electron
+is negatively charged, so if you lose a
+negative charge, you have a positive
+charge left over. And so we're going to
+take away an electron. So instead of 43,
+we are now going to account for 42 in
+our dot structure. Let's go back up
+to our guidelines, and I'll show you
+where I have that written down right up here. So find the total number of
+valence electrons, and then, in this case we had a
+positive charge in or ion. So we subtracted an electron. And then, again, step two,
+find the central atom, least electronegative. OK. So we know that fluorine is
+the most electronegative, so that means we're going
+to put xenon in the center. So we'll go ahead, and let's
+get some room right down here, and we'll go ahead and put
+xenon in the center, like that. On a two five fluorine,
+so we can go ahead and put in these bonds around
+here, like that. And how many valence electrons
+have we accounted for so far? Well, let's see. That would be two, four,
+six, eight, and ten. So we had to represent 42,
+and we just represented ten. So now we have 32 left over
+that we need to represent. And notice, xenon is already
+violating the octet rule. It's exceeding the octet rule. And it's OK. It can expand its outer
+shell, because xenon is past the third period
+on the periodic table, obviously, like what we
+talked about earlier. So we can go ahead and
+go to the next step now. We're going to assign
+the leftover electrons to the terminal atoms. And our terminal
+atoms are of course the fluorines, which we know are
+going to follow the octet rule. And so, once again,
+each fluorine has two electrons around it. So that means I'm
+going to give each of the other fluorines six more. So I'm going to go ahead and
+put six more valence electrons on each of my fluorines. And so when I'm thinking about
+how many valence electrons I have represented
+now, right, so I have six more on five fluorines. So 6 times 5 is 30. So I've represented
+30 more electrons. And so that means I
+have two left over. So two valence
+electrons leftover. We haven't had this
+situation before. Let's go back up
+to the guidelines to refresh our
+memory, what we do, when we have leftover
+electrons after step three. So we get to step four here. So, if necessary,
+in this case it is, we're going to assign any
+leftover electrons back to the central atom this time. And if the central
+atom has an octet or exceeds an octet, which is
+what we have in this example, you are usually done. And we're not going to
+worry about formal charges in this video, I'll talk
+about them in the next video. So we're going to take
+those two electrons and assign them into our xenon. So let's go back
+down here, and assign those two extra
+electrons to the xenon. And so we would
+draw it like that. And so now we are done,
+we've represented all 42 of the valence electrons
+that we were supposed to. So you can count all
+those up if you want to. Now most people will
+represent this dot structure by putting brackets here. And putting a positive
+charge outside of it. So there's your xenon
+pentafluoride cation. So we're going to
+a lot more examples for drawing dot structures
+in the next several videos, and see how drawing
+dot structures allows you to predict the shapes
+of different molecules.

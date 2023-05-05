@@ -1,0 +1,15 @@
+- Great job completing the last tutorial! You made both the director
+and the producer very happy. Sometimes our directors change
+their minds when they see their drawings translated
+to 3D computer graphics. In fact, sometimes our directors
+change their minds a lot, and we need to be able to
+adapt to those changes. So let's say we have a
+director that wants a robot with two heads, but each
+head has to be different. That is, the director doesn't want a robot with two copies of the same head. Now a robot consists of two
+heads, a body, and arms. We'd like to know how
+many of those we can have if we have H heads, B bodies, and A arms. We saw that by using a Tree
+Diagram we could multiply the number of each kind of part together to get the total number of combinations. Well, we have H choices
+for the first head, but since the second
+head has to be different, we only have H minus one
+choices for the second head. As before, we have B choices for bodies and A choices for arms, for a total of H times H minus one times B times A combinations. So it's all about multiplying together all the choices you have at each stage. Mathematicians make up
+words for everything. They use the word combinatorics to refer to this type of counting. The next exercise will give you a chance to practice with other combinations.

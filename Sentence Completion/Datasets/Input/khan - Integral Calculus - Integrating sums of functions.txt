@@ -1,0 +1,54 @@
+- So we have a couple of functions here. This is the graph of y is equal to f of x. This is the graph of y is equal to g of x. And we already know something. Or we know ways to represent the area under the curve y equals f of x. Between these two points x is equal to a, and x is equal to b. So this area, right over here, between the curve and the x axis, between x equals a and x equals b, we know we can write that
+as the definite integral, from a to b, of f of x, dx. And we can do the same thing over here. We could call this area, let me pick a color that I have not used. Well, this is slightly different green. I could call this area right over here, the area right under the
+curve y is equal to g of x. And above the positive x axis, between x equals a and x equals b, we could call that the definite integral. From a to b of g of x, dx. Now given these two things, let's actually think about
+the area under the curve of the function created by the
+sum of these two functions. So what do I mean by that? So let me, this is
+actually a fun thing to do. Let me start again. That's exactly what we have over here. This is the graph of y is equal to f of x. But what I want to do,
+is I want to approximate the graph of y is equal
+to, so my goal is to graph y is equal to f of x, plus g of x. So for any given x,
+it's going to be f of x. So that's that the f of x. And then I'm gonna add the g of x to it. So what will that look like? So that's gonna look like, let's see. When x is zero, g of x looks like it's about that length right there. I'm obviously approximating it. So I'm gonna have to add
+that length right over here. So it'll probably be right around there. At x equals a, it's a little bit more. And so but now my f of x curve
+is gone, or has increased. But I take that same distance above it. If I add the g of x there, it gets me right about there. Once again I'm just eyeballing it, trying to get an approximation, giving me an intuition actually
+for f of x, plus g of x is. I'm just trying to add g of x for given x. Now let's see if I'm a little bit, let's say that I'm between a and b, g of x is about that
+distance right over there. So, if I wanted to put that
+same distance right over here, it gets me right about there. And then when x is equal to
+b, g of x is about that big, so I have to add that
+length, which is about, looks something like that. That actually looks a little bit too much. Maybe something like that. So, if I were to add
+the two, I'd get a curve that looks something like this. And maybe it just keeps on
+going higher and higher. So, this is the curve. Or it's a pretty good
+approximation of the curve of f of x plus g of x. Now an interesting question
+is, is what would be well, you know how we
+can represent this area. So the area under the
+curve f of x plus g of x, above the positive x axis, between x equals a and x equals b, we know we can represent that as, let me see, I have not used pink, yet. So, this area right over here, we know that that could be represented as the definite integral, from a to b of f of x, plus g of x, dx. Now the question is, how does this thing relate to d, or how does this area relate to these areas right over here? Well the important thing to realize is this area that we have in yellow, that's going to be this
+area, right over here. That one's pretty clear. But how does this area in green
+relate to this area there? And to think about that, we just have to think about
+well what does an integral mean? What does it represent? We've already thought about these like these really small rectangles. And we're taking the
+sum of the limit of an infinite number of these
+infinitely thin rectangles. But when we're thinking
+about Riemann sums, we're thinking about okay
+we have some change in x, and then you multiply it
+times essentially the height, which is going to be the value of the function at that point. Well over here, you could
+have the same change in x. You can have the exact same change in x. And what is the height right over here? Well, that's going to be this
+exact height right over here. You saw that when we constructed it. This is going to be the
+g of x at that value. So even though the
+rectangles look like they're kinda shifted around a little bit, and they're actually all
+shifted up by the f of x, the heights of these rectangles that I'm drawing right over here, are exactly the same thing as the heights of the rectangles that
+I'm drawing over here. They, once again, they're
+all just shifted up and down by this f of x function. But these are the exact same rectangles. And they have the exact same heights. And the limit as you get
+more and more of these by making them thinner and thinner, is gonna be the same
+as the limit as you get more and more of these as
+you get thinner and thinner. And so this area right over here, and I'm obviously not
+doing a rigorous proof, I'm giving you the intuition for it, is the exact same thing as
+this area right over here. So the area under this curve, the definite integral from a
+to b of f of x plus g of x, dx, is just going to be the sum of
+these two definite integrals. And you might say, "Oh this is obvious". Or maybe it's not so obvious. But when is this actually useful? Well, as you later actually learn to evaluate these integrals, you'll see that one of
+the most powerful ideas is being able to decompose
+them in this way. To say, okay, if I'm taking
+the definite integral from zero to one of x squared, plus sine of x, which you may or may not
+have learned to do so far, you can at least start to break this down. You can say okay, well this
+is going to be the same thing as the integral from
+zero to one of x squared, dx, plus the integral from zero
+to one of sine of x, dx. And you see this is one
+of the most powerful principles of definite
+integrals, to make them, when you start to try to compute them, or even sometimes conceptualize
+what they're representing.

@@ -1,0 +1,45 @@
+- [Voiceover] Hello everyone. So now that we have an intuition for what divergence is
+trying to represent, let's start actually
+drilling in on a formula. The first thing I want to do is just limit our perspective to functions that only have an X component, or rather, where the Y component of
+the output is just zero. So this is some kind of vector field and if there's only an X component what this means it's going to look like is all of the vectors
+only go left or right, and there's kind of no up or
+down involved in any of them. So in this case, let's
+start thinking about what positive divergence of your vector fields might look like near some point X-Y. So if you have your point, this is that point X-Y sitting
+off somewhere in space, two cases where the divergence
+of this might look positive are, one, where nothing
+happens at the point. So in this case P would be
+equal to zero at our point. But then to left of it things
+are moving to the left, meaning P, the X component of
+our vector valued function, is negative. That's why the X component
+of this vector is negative. But then to the right, vectors would be moving off to the right. So over here, P would be positive. So this would be an example of a positive divergence circumstance where only the X component is responsible. And what you'll notice here, this would be P starts negative, goes zero, then becomes positive. So as you're changing in the X direction, P should be increasing. So a positive divergence
+here seems to correspond to a positive partial derivative
+of P with respect to X. And if that seems a little unfamiliar, if you're not sure how to
+think about partial derivatives of a component of a vector field, I have a video on that
+and you can take a look and refresh yourself, how
+you might think about this partial derivative of P with respect to X. And once you do, hopefully it makes sense why this specific positive
+divergence example corresponds with the positive
+partial derivative of P. But remember, this isn't the only way that a positive divergence might look. You're gonna have another
+circumstance where, let's say, your point, X-Y, actually has a vector attached to it. So this here again
+represents our point X-Y. And in this specific example
+this would be P is positive. P of X-Y is positive at your point there. But another way that positive
+divergence might look is that you have things
+coming in towards that point and things going away,
+but the things going away are bigger than the ones coming in. But again, this exhibits the
+idea of P increasing in value. P starts off small, it's a
+positive but small component, and then it gets bigger and
+then it gets even bigger. So once again we have this idea of positive partial derivative
+of P with respect to X, because changes in X, as you increase X it
+causes an increase in P, seems to correspond to
+positive divergence. And you can even look at
+it if you go the other way where you have a little bit of
+negative component to P here. So P is a little bit negative, but to the left of your
+point it's really negative, and then to the right it's
+not nearly as negative. And in this case it's kind of like as you're moving to the
+right, as X is increasing, you start off very negative, and then only kind of negative, and then barely negative. And once again that
+corresponds to an increase in the value of P as X increases. So what you'd expect is that
+a partial derivative of P, that X component of the
+output, with respect to X, is gonna be somewhere
+involved in the formula for the divergence of our
+vector field at a point X-Y. In the next video I'm gonna
+go a similar line of reasoning to see what should go on
+with that Y component.

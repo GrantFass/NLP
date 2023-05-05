@@ -1,0 +1,195 @@
+- [Instructor] We should
+talk some more about the moment of inertia,
+'cause this is something that people get confused about a lot. So remember, first of all
+this moment of inertia is really just the rotational inertia. In other words, how much something's going to resist being angularly accelerated, so being sped up in its
+rotation, or slowed down. So if it has a, if this
+system has a large moment of inertia, it's going
+to be very difficult to try to get this thing accelerating, but if the moment of inertia is small, it should be very easy, relatively easy to get this thing angularly accelerating. So that's what this number is good for, the reason why you wanna
+know the moment of inertia is 'cause it'll let you determine how difficult it'll be to
+angularly accelerate something, and remember it shows up
+in the angular version of Newton's second law, that says that the angular acceleration
+is gonna be equal to the net torque divided
+by the moment of inertia, or the rotational inertia,
+since they're the same thing. So that should make sense,
+we're dividing by the moment of inertia, we're dividing
+by the rotational inertia because that means if this
+rotational inertia is big, look it, this is in the denominator. You've got a big denominator, you're gonna have a small value, that means this alpha is gonna be small, it's gonna be a small
+angular acceleration, but if this moment of inertia were small, then it's gonna be easier to rotate, and you'll get a relatively
+larger angular acceleration 'cause you're now dividing
+by a smaller number. So it does serve the
+same role that mass did, it serves as this inertia
+term for angular acceleration, and we figured out how to determine the moment of inertia for a point mass, and you'll hear people say this a lot, "point mass," I'm gonna say it a lot. By point mass I just mean
+a mass you could treat as if all the mass were rotating at the same distance from the axis, and that's what's happening here. If you've got a heavy ball
+connected to a string, a very light string that
+has very little mass, you can neglect the mass here. If all the mass is
+rotating at the same radius like this is, we determined last time that the moment of inertia
+of a point mass going in a circle is just the mass times how far that mass is from the axis, squared. This is the term for a
+point mass going in a circle for what the moment of inertia is, how difficult it's going to
+be to angularly accelerate. This is the rotational
+inertia, mr squared, but you get more complicated problems too, so you could be like,
+"All right, what happens "if we don't have a single point
+mass, we've got the three?" Well we did this last time as well, if you have multiple point masses, all you need to do is say that all right, for multiple point masses, just add up all the contributions from
+each individual point mass. So if we're careful here, mathematically, we should put an i subscript, but don't let that freak you out, this just really means all them all up. So this would be m one
+times r one squared, so you take the mass one
+times its distance from the axis squared, plus m
+two times r two squared, you take mass two times its distance from the axis squared, and then you do the same for m three, and
+if you had more masses, you would just keep adding 'em up. If you have a whole bunch of point masses that you can treat as if
+all the mass were rotating at the same distance from the axis, and you might object,
+you might say, "Wait, "different masses here are rotating "at different distances from the axis," but all of that particular mass, all of m one is rotating at
+the same radius from the axis, so we can use this
+formula for point masses and we can add them up. The total amount is gonna be
+the total rotational inertia, so in other words, for this case here, if we really wanted to do it, we would say that the moment of
+inertia for these objects, and this system in total would be, all right, let's take 'em in order. M one is gonna contribute m
+one times its distance from the axis squared would
+be a, so we do a squared, and let's say b is just
+the length of this string, so b just represents that length, and similarly c represents that length, and we're gonna assume the
+radii of these masses are small. I had to draw 'em big so we
+could see 'em, but it's easiest if you consider them to
+be small, 'cause then we don't have to take into
+account their actual radius. So we'd add to this,
+that's this m one a squared is just the contribution
+to the moment of inertia that's being contributed by just m one, so we have to figure out the contributions from each of these other masses, so we'll have m two times
+its distance from the axis. It isn't gonna be b, it's
+gonna be all the way, so that's gonna be a plus b squared, and then if you wanted to find the contribution from m three
+so that you'd get the total, you'd have m three times, well, it'd be a plus b plus c
+squared, this would be the total moment of inertia
+for the entire system, which says it's gonna be
+more difficult, right? The more mass you add into the system, the more sluggish it is to acceleration, the more difficult it is to rotate. So how could we make
+this three mass system easier to rotate? Let's say you were tired
+of requiring so much torque to move this thing, you wanna
+make it easier to rotate. One thing you can always
+do is just take your masses and move them toward the axis, i.e. just move these toward the center. If you do that notice all of
+these rs are gonna get smaller, if you reduce the r you're gonna
+get less moment of inertia, and that object's gonna
+be easier to rotate, easier to angularly accelerate, you can whip this thing around easier if the mass is more toward the axis. So this makes sense, think
+about a baseball bat. If you had a baseball bat, so if you got this baseball bat, this
+is not the best drawing of a baseball bat, but
+you've got a baseball bat. If you swing it from this
+end where this is the axis, it's hard to rotate, right? You've got all this heavy
+mass over here at the end, but if you swing it instead
+where this is the axis, if you just turn it around
+and swing it from this end, where this is the axis, now
+you've made it so most of the mass is near the
+axis, and if you do that, the radius of that mass
+is gonna be smaller, and if the radius is smaller
+it's gonna contribute less to the moment of inertia, less
+to the rotational inertia, it's gonna be easier to swing. So you can swing a
+baseball bat really easy if you hold it by the fat end,
+compared to the actual end you're supposed to hold,
+you can swing this faster. It's probably not a good idea, you've probably not gonna
+hit the ball very far, but you'll be able to swing it much faster 'cause that moment of
+inertia's gonna be smaller. And then the other thing we could do, we could always just reduce the masses. If you can make the mass less you reduce the moment of inertia, and if you can move those masses toward the
+axis, you reduce the r, you reduce the moment of inertia
+or the rotational inertia. But what if you don't
+have point masses at all? I mean, we don't always
+have situations where the thing that's rotating
+are a bunch of point masses, what if you had something more like this, where it was like a rod that
+had its mass evenly distributed throughout the entire rod,
+and it rotated in a circle. I mean, we couldn't use this formula now because this assumes that
+all the mass is rotating at some radius, r, but for this rod, only the mass at the end
+of the rod is rotating at the full length of the rod. The mass that's closer to the axis is gonna have a smaller radius, it'll only be rotating
+at part of the length. This would only have a
+radius of L over two, and this part right here would only have a radius of maybe, L over eight. So how do we figure this out? We can't just say the
+total mass of this rod, if this rod has a total mass m, and a total length L, we cannot say that the moment of inertia
+of this rod about its end is gonna be mL squared, that's just a lie. This total mass is not rotating
+all at a radius of length L, only the little piece at the end is rotating with a radius of length L. The rest of this mass is
+having its contribution to the rotational inertia diminished by the fact that these masses
+are getting closer and closer to the axis, so what do we do? Well we can't use this,
+let's get rid of this. That's not possible. The truth is you have to
+use calculus to derive the formula for these continuous
+objects, and it's fun. You can do integrals and you can solve for these moments of
+inertia, that's one of my favorite calculations to
+do, it's kinda like a puzzle. You can solve for the moments of inertia, but if you don't know
+calculus, that would just look like witchcraft to you, so
+I suggest you learn calculus and try it, 'cause it's really fun, but I'm just gonna give you the result. It turns out the moment of
+inertia for this rod is gonna be, and without knowing the exact
+answer, we should be able to say, is it gonna be bigger than, less than or equal to mL squared. We should be able to
+say, it's gotta be less than mL squared, it's not
+going to be mL squared, it's gonna be less than
+this because mL squared would be if all of the mass were at the full length of the
+rod for their radius. Then you would put mL squared. If you could melt this
+rod down into just a ball, and put that ball at the very far end, you'd be maximizing
+its rotational inertia, 'cause you'd put all of the mass with the same largest radius r, but
+some of this mass is in here. Some of this mass is only at L over two, or L over four, or at L over eight. So those little pieces of mass are having their rotational inertia
+contribution diminished, so we're gonna have less than Ml squared. How much less? Turns out for a rod about
+its end, it's 1/3 mL squared, and if you do the integral, that's where this 1/3 comes from. So this is for a rod with the
+axis at the end of the rod. So that's the moment of inertia
+for a rod rotating about an axis that's at one
+of the ends of the rod, but what if we move
+this axis to the center? What if we move the axis here so that this whole rod rotates
+around a point in its center. Do you think the moment
+of inertia of this rod that's the same mass
+and length that it was, we're just rotating it about the center, do you think this moment of
+inertia is gonna be bigger than, smaller than or equal to what
+the moment of inertia was for a rod rotated about the end. And the way I would think about it, I'd just ask myself this
+question, "Is more of "the mass farther away now,
+or closer to the axis?", 'cause we know if we
+can decrease these rs, we decrease the moment of inertia, and in this case we did decrease the rs. Think about it, the farthest
+some piece of mass will be from the axis now is L over two. It's L over two this way,
+and L over two that way, whereas before, where
+the axis was at one end, some of the mass was at L
+away, so that'd be L squared, but now you're only gonna
+have L over two squared for the farthest some piece
+of this mass is gonna be, and that's gonna decrease the
+moment of inertia even more, because more of this mass is closer to the axis when you move it to the center, so it's gonna be less than 1/3 mL squared. Turns out if you do the integral
+you get 1/12 mL squared, so this is for a rod with
+the axis at its center. So what's another common geometry? Well if we get rid of that,
+another case that comes up a lot is a cylinder, or sometimes
+it's called a disc. So let's say you have a cylinder,
+a solid cylinder of mass m and it has a radius r, what
+would this moment of inertia be? Well you can probably
+tell by now, all right, so it's not gonna be the total mr squared, and it's not gonna be the total mr squared because all of the mass is not rotating at the full radius of the cylinder, right, so it's gonna be less than this. How much less? If you do that integral it turns out that you get 1/2 mr
+squared, so it turns out the fact that some of these
+masses are closer to the axis than the full radius of the cylinder, makes it so that the
+total moment of inertia is 1/2 the total mass of the cylinder times the total radius
+of the cylinder squared. This is for a cylinder with
+the axis through the center, so the center, so it's rotating
+around a point right here, so it's rotating like this
+around this point here, and that's important to note. It's not enough to just
+say, "Hey, I gave you a rod, "what's the moment of inertia?", because you've gotta know,
+"Well where's the axis?" If someone just hands you something and says, "What's the
+moment of inertia of this?" You can't give them an answer
+until they've specified where they want you to
+rotate the object around. If you rotate the rod about its end, it's 1/3 mL squared for
+the moment of inertia. If you rotate the rod
+about the center it's 1/12, and again, the reason for that is 'cause by rotating it
+around different axes, you've made it so some of
+the mass is at different rs from other axes that you could choose. So this was for a cylinder,
+also called a disc. Sometimes a sphere comes up, so this is another common example,
+say you had a sphere, also rotating around an axis, like the earth rotating on its axis, and let's say it also has
+a mass m and a radius r. Again, because some of this
+mass is closer to the axis, look it, this mass right
+here is only rotating in a circle like that, as opposed
+to at the full radius of the sphere, it's gonna
+have less than mr squared. How much less? Well for a sphere rotating about an axis that goes through its center, you get that the moment of
+inertia is 2/5 mr squared, so that was for a sphere rotating about an axis that goes through its center. And at this point you might object, you might say, "Wait a minute, "we had spheres when
+we had spheres before, "and we did mr squared,"
+but that was for spheres that were rotating where all of their mass was rotating at the same radius. So if you have a sphere, in other words, if you have a sphere
+and you're gonna rotate this whole sphere around
+in a circle like this, if that's the case you're
+talking about then yeah, that total mass is all
+rotating at the same radius, but here that's not the case. This is a sphere rotating
+around its center. So if you just have a
+sphere that spins in place, that's not the same case as this mass that's being whirled around,
+around some common axis all at the same radius. It's the difference between, this is like the moon rotating around the earth. If you wanna talk about
+the moment of inertia of the moon rotating about the earth, you could treat the moon as a point mass, and you'd use mr squared,
+but if you're talking about the earth rotating on its axis, right? Not the earth going around the sun, but the earth rotating on its axis, then you'd have to say
+that the moment of inertia for that amount of
+rotation is 2/5 mr squared, because it's a sphere
+rotating through an axis that goes through its center. All right, so recapping,
+the moment of inertia or the rotational inertia
+gives you a number that tells you how difficult it'll be to angularly accelerate an object. If you've just got a point mass where all the mass rotates at the same radius, you could use mr squared. If you've got a collection
+of point masses, you can just add up all the mr squareds. If you've got a rod
+rotating about its end, you could use 1/3 mL squared. A rod rotating about its
+center is 1/12 mL squared. A cylinder rotating about
+its center is 1/2 mr squared, and a sphere rotating with an axis through its center is 2/5 mr squared. The reason why all these shapes that have mass distributed
+through them have factors that make their moment of
+inertia less than mr squared or mL squared is because
+some of that mass for a distributed object has
+mass closer to the axis than a case where all
+the mass is at the end. So the fact that you've
+got some of these masses that are closer to the
+axis for a uniform object reduces the total moment of
+inertia since it reduces the r, and if you ever forget
+any of these formulas, there's often a chart in your textbook, or look up the chart online,
+they're all over the place, lists of all the moments of inertia of commonly-shaped objects, and the axis. You gotta check that it's the axis that you're concerned with as well.

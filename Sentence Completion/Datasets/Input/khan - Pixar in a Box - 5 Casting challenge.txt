@@ -1,0 +1,30 @@
+- The advantage of this diagram,
+is that since it represents all of the choices you
+have, we can just add more and more choices to the bottom. So, if we have two heads and
+three bodies and three arms, then the diagram would look like this, for a total of two
+times three times three, or 18 different combinations. These are sometimes called
+tree diagrams, because when you turn them over,
+they look a lot like a tree. The diagram has helped us
+understand that we just need to multiple the number
+of each kind of part. So, if we're just interested
+in how many combinations are needed, we don't
+need the diagram anymore. And, the number of
+combinations gets big fast. For instance, if we had
+five heads, six bodies, and seven arms, and say, eight
+different kinds of wheels on our robots, we would
+have to build five plus six plus seven plus eight, or 26
+different kinds of objects. But, we could build five times
+six times seven times eight, or 1,680 different robots. Because there are so many
+possible combinations, it's easy to go crazy and
+build a huge crowd of robots. (robots flying through the air
+and rolling across the floor) (crashing and squeaking) - Emmet! - While a big crowd of robots might make the film more exciting,
+we have to keep in mind that the more robots there are, the more robots the
+animators have to animate and the more robots the
+computer needs to deal with. So, we're always trying
+to achieve our artisticals in the most efficient way possible. Now, it's time to put you to work. Your job with this interactive,
+is to make both the director and the producer happy. You should have a wide variety of robots, so that there's a lot of visual interest and the director is happy with your work. But, you should keep the cost down, so that the producer is
+happy with your work. The cost of each part is shown,
+select a subset of heads, bodies, and arms so that combining
+them in all possible ways gives exactly 12 robots and
+the cost of all the parts must be below $300. The director and producer
+will be here in 10 minutes to review your work. I know you got this.

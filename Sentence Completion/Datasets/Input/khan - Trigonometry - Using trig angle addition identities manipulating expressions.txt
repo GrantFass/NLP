@@ -1,0 +1,38 @@
+Voiceover:Cosine of two theta is equal to C and theta is between zero and pi. Write a formula for sine
+of theta in terms of C and so I encourage you to pause the video and try to figure this out on your own before I work through it. So assuming you had a go, so let's see if we can
+work through it together. I'm going to get my scratchpad out, I have copied and pasted
+the exact question right over here, and so
+let's think about it. They're telling us that
+cosine of two theta is equal to C, so let
+me write it this way. C is equal to cosine of two theta. Now, using my knowledge of
+angle addition formulas, we know for example that cosine of alpha plus beta is equal to cosine alpha cosine beta minus sine alpha sine beta. Now why would this be useful here? Well this is the sum of
+just theta plus theta, and so I can rewrite this in terms of cosines and sines and maybe I can rewrite the cosines in terms of sines and then solve for the sines. So let's try to do that. So I can rewrite cosine of
+two theta that's the same as cosine of theta plus
+theta, is of course the same thing as two theta, and I can use the angle addition formula for cosine. This is going to be
+equal to cosine of theta, times cosine of theta,
+times cosine of theta, minus sine of theta, times sine of theta, time sine of theta, which is of course equal to cosine squared
+theta, that's equal to cosine squared theta,
+minus and what we have right over here is sine squared theta. So let's see, we've been able to rewrite C in terms of cosine squared theta and sine squared theta, but ideally we just want to write it in terms of sine theta so we can solve for sine theta. So if we can re-express
+cosine theta in terms of sine. Well we already know from
+the pythagorean identity that cosine squared theta plus sine squared theta is equal
+to one, or we could say that cosine squared theta is equal to, I'm just going to subtract
+sine squared from both sides, is equal to one
+minus sine squared theta. So let me rewrite this
+as one minus sine squared theta, and then of course we have minus this yellow sine squared theta, and all of this is equal
+to C or we could get that C is equal to one minus
+two sine squared theta. And what's useful about this is we just have to solve for sine of theta. So let's see, I could
+multiply both sides by a negative just so I can
+switch the order over here. So I could write this as negative C is equal to two sine squared theta minus one and just multiply both sides by a negative and then
+let's see I could add one to both sides, if I
+add one to both sides, and I'll go over here, if
+I add one to both sides, I get one minus C is equal
+to two sine squared theta, I could divide both sides by two, and then so I get sine squared theta is equal to one minus C over two, or I could write that sine of theta is equal to the plus or minus square root of one minus C over two. So that leads to a question, Is it both? Is it the plus and minus square root? Or is it just one of those? And I encourage you to
+pause the video again in case you haven't
+already figured it out, and look at the information here, and think about whether
+they give us the information of whether we should be looking at the positive or negative sine. Well they tell us that theta
+is between zero and pi. So if I were to draw a unit circle here, between zero and pi radians. So, this angle right over
+here is zero radians, and pi is going all the way over here. So this angle places its terminal ray either in the first or second quadrants. So, it could be an angle like this, it could be an angle like this, it cannot be an angle like this, and we know that the sine of an angle is the Y coordinate, and so we know that for the first of second
+quadrant the Y coordinate is going to be non-negative. So we would want to take
+the positive square root, so we would get sine of theta, is equal to the principal root, or we could even think of it as the positive square root of one minus C over two. So let's go back to our... Make sure we can check our answers. So sine of theta is
+equal to the square root of one minus capital C,
+all of that over two, and we got it right.

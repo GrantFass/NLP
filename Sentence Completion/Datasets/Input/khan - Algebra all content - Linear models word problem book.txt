@@ -1,0 +1,83 @@
+- [Voiceover] Naoya read
+a book cover to cover in a single session, at a
+rate of 55 pages per hour. 55 pages per hour. After reading for four hours,
+after reading for four hours, he had 330 pages left to read. How long is the book in pages and how long did it take Naoya to read the entire book? Well there's a bunch of ways
+that we could approach this. Like always, pause the video
+and try to figure it out. But I will go with one
+way first, and then maybe I'll tackle it another way. So one way is, let's just
+set up a little table here. And on one column, let's think about, let's think about how long Naoya has read in hours, so we'll just call that "time." "T" for time in hours. This is how long he has
+read, and in this column, this is how much he has left to read. So let's just write
+that "L," left to read. And then this is going
+to be given in pages. This is going to be given in pages. So lets see, we don't know at zero hours, we don't know how many
+pages he has left to read, at, if we knew that, at zero
+hours, before he's read, the pages left to read, that's
+gonna be the entire book. So that would answer this
+question, "How long is the book?" So this is gonna be interesting. We don't know what happens at one hour, after two hours, after three hours. But they do tell us, that
+after reading for four hours, after reading for four
+hours, he had 330 pages left to read. So after four hours, he had 330 pages, 330 pages left to read. So, based on this, and the fact that he's reading at 55 pages per hour, can we back up to figure out all of this? Well remember, every hour that goes by, every hour that goes by,
+he has read 55 pages. So if he's read 55
+pages, remember this 330, this isn't how many pages he's read, this is how many he has left to read. So after every hour he has
+55 fewer pages to read. So at three hours, he should
+have 55 more pages to read. So this should be, at
+three hours, 330 plus 55 would be 385. Now let's see whether this makes sense. So when our change in time, this triangle is just the Greek letter
+Delta, means "change in." When our change in time is
+plus one, plus one hour, our change in pages left
+to read is going to be equal to negative 55 pages. And that makes sense,
+the pages left to read goes down every hour. We're measuring not how much he's read, we're measuring how much
+he has left to read. So that should go down
+by 55 pages every hour. Or if we were to go
+backwards through time, it should go up. So at two hours he should
+have 55 more pages to read. So what's 385 plus 55? We'll let's see, 385 plus
+5 is 390, plus 50 is 440. So he'd have 440 pages, and
+all I did is I added 55. And then, after reading for one hour, he would have 55 more pages than after reading for two hours. So 440 plus 55 is 495. And then before he started reading, or right when he started reading, he would have had to
+read even 55 more pages, 'cause after one hour, he
+would have read those 55 pages. So 495 plus 55 is going to be, let's see, it's gonna be, add 5, you get to 500 plus another 50 is 550 pages. So at time equals zero
+had had 550 pages to read. So that's how long the book is. But how long does it take
+Naoya to read the entire book? Well we could keep going. We could say, "Okay, at the fifth hour, "this thing's gonna go down by 55." So let's see, if this goes down by 50, if this goes down by 50,
+we're going to get to 280, but then you go down five more, it's gonna go to 275, and we could keep going on and on and on. Or we could just say, "Look." "He's got 330 pages left
+to read, and he's gonna," Let's see, let me write this,
+let me write the units down. "Pages, and he's reading at
+a rate of 55 pages per hour, "pages per hour, this is the same thing, "this is going to be equal to 330 pages "times one over 55 hours per page." I'm dividing by something,
+the same thing as multiplying by its reciprocal, so 55 pages per hours, if you divide by that, that's the same thing as multiplying by 1/55th of an hour per page,
+is one way to think about it. And so what do you get? The pages cancel out,
+pages divided by pages, and you have 330 divided by 55 hours. 330 divided by 55 hours. And what's that going to be? Let's see, 30 divided by 5 is 6, 300 divided by 50 is 6,
+so this is going to be equal to 6 hours. Now we have to be very
+careful, you might want to write six hours here, but this is six hours after this point. Six hours after that point. So in total, it's going
+to take him ten hours. At four hours, he had
+330 pages left to read and then there was six more hours to finish those 330 pages. So it's gonna take a total of ten hours. And we could also see if this makes sense. If he reads 550 pages in ten hours, If he reads 550 pages in ten hours, in ten hours, what's his rate of reading? Well, 550 divided by 10, that's gonna be the same thing as 55 pages per hour. Which is consistent
+with what we just read, that he reads at 55 pages per hour. Now another way that you
+could have tackled this, you could say, "Hey, this in gonna be "a linear equation!" If you're well versed
+with your linear equations you could say, "Look, he's
+reading at a constant rate." And if we're talking about, let's say, let me just set up a function here, we could say left to read,
+as a function of time, is going to be equal to,
+he's reading at a rate of 55 pages per hour, so the
+amount he's left to read is gonna go down by 55 pages per hour. So it's gonna go down
+55, 55 pages every hour. So you could write it like that, plus it's whatever the initial number of pages were. Plus whatever the initial
+number of pages were. And then you could use this information right over here to solve for b. We know that when time
+is equal to four hours, we know that when, let
+me do it in that color. We know that when time
+is equal to four hours, that the pages left to read are 330. Pages left to read are 330, and so you get 330 is equal to, let's
+see, negative 55 times 4 is negative 220. Negative 220 plus, negative 220 plus b, plus b, and then if you
+add 220 to both sides, 220, add 220, to both
+sides, you're going to be left with, on this
+side, you're gonna get 550 is equal to, these cancel
+out, they add up to zero, is equal to b. And so the function
+that describes how much he has left to read,
+the amount he has left to read is a function
+of time, is, well he's reading 55 pages per hour, so the amount he has left to read's
+gonna go down every hour, that's why we have that negative there. So the negative 55 pages per hour, times the number of hours, plus 550. So if someone said, "Well
+how long is the book?" Well that's going to be L of zero. That's going to be how many pages he has left to read at time zero. And we see that L of
+zero is going to be 550. When T is equal to zero,
+let me write this down, L of zero is going to be equal to 550. When T is equal to zero,
+this term goes away and you just have 550 pages. And, just like that,
+we could have answered this question. And then you could say,
+"Well look, if the book "is 550 pages, and if he's
+reading at 55 pages per hour, "how many hours is it gonna take?" Well 550 pages divided
+by 55 pages per hour is going to get you 10 hours. And we could have done that here actually, now that I think about it. Instead of saying 330
+pages divided by 55 pages per hour, and say ,"Hey,
+that's gonna take us "six more hours from this point." We already knew this,
+and we could have said, "Look, if we have 550 pages to read, "and we're reading at 55 pages per hour, "it's gonna take us ten hours." So you see, there's a
+ton of different ways to solve these problems. And they're all really,
+at the end of the day, representing the same thing. That's what's neat about mathematics. They're just ways of representing how to think about things, and
+at the end of the day we're really just thinking
+about the same problem, just representing it with different ways and different symbols.

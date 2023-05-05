@@ -1,0 +1,41 @@
+- [Instructor] Let's say
+that we've got the equation two X minus one times X plus four is equal to zero. Pause this video and see
+if you can figure out the X values that would
+satisfy this equation, essentially our solutions
+to this equation. Alright, now let's work
+through this together. So at first, you might be tempted to multiply these things out, or there's multiple ways that you might have tried to approach it, but the key realization here is that you have two
+things being multiplied, and it's being equal to zero. So you have the first
+thing being multiplied is two X minus one. This is expression is being multiplied by X plus four, and to get it to be equal to zero, one or both of these expressions needs to be equal to zero. Let me really reinforce that idea. If I had two variables, let's say A and B, and I told you A times B is equal to zero. Well, can you get the
+product of two numbers to equal zero without at least one of them being equal to zero? And the simple answer is no. If A is seven, the only way that you would get zero is if B is zero, or if B was five, the only way to get zero is if A is zero. So you see from this example, either, let me write this down, either A or B or both, 'cause zero times zero is zero, or both must be zero. The only way that you get the
+product of two quantities, and you get zero, is if one or both of
+them is equal to zero. I really wanna reinforce this idea. I'm gonna put a red box around it so that it really gets
+stuck in your brain, and I want you to think about why that is. Try to come up with two numbers. Try to multiply them so that you get zero, and you're gonna see
+that one of those numbers is going to need to be zero. So we're gonna use this
+idea right over here. Now this might look a
+little bit different, but you could view two
+X minus one as our A, and you could view X plus four as our B. So either two X minus one
+needs to be equal to zero, or X plus four needs to be equal to zero, or both of them needs to be equal to zero. So I could write that as two X minus one needs to be equal to zero, or X plus four, or X, let me do that orange. Actually, let me do the two X minus one in that yellow color. So either two X minus
+one is equal to zero, or X plus four is equal to zero. X plus four is equal to zero, and so let's solve each of these. If two X minus one could be equal to zero, well, let's see, you could
+add one to both sides, and we get two X is equal to one. Divide both sides by two, and this just straightforward solving a linear equation. If this looks unfamiliar, I encourage you to watch videos on solving linear
+equations on Khan Academy, but you'll get X is equal
+to 1/2 as one solution. This is interesting 'cause we're gonna have
+two solutions here, or over here, if we wanna solve for X, we can subtract four from both sides, and we would get X is
+equal to negative four. So it's neat. In an equation like this, you can actually have two solutions. X could be equal to 1/2, or X could be equal to negative four. I think it's pretty interesting to substitute either one of these in. If X is equal to 1/2, what is going to happen? Well, this is going to be
+two times 1/2 minus one, two times 1/2 minus one. That's going to be our first expression, and then our second expression
+is going to be 1/2 plus four. And so what's this going to be equal to? Well, two times 1/2 is one. One minus one is zero, so I don't care what you have over here. Zero times anything is
+going to be equal to zero. So when X equals 1/2, the first thing becomes zero, making everything, making
+the product equal zero. And likewise, if X equals negative four, it's pretty clear that
+this second expression is going to be zero, and even though this first expression isn't going to be zero in that case, anything times zero is going to be zero. Let's do one more example here. So let me delete out everything
+that I just wrote here, and so I'm gonna involve a function. So let's say someone told you that F of X is equal to X minus five, times five X, plus two, and someone said, "Find
+the zeros of F of X." Well, the zeros are, what are the X values that make F of X equal to zero? When does F of X equal zero? For what X values does F of X equal zero? That's what people are really asking when they say, "Find the zeros of F of X." So to do that, well, when
+does F of X equal zero? Well, F of X is equal to zero when this expression right over here is equal to zero, and so it sets up just like
+the equation we just saw. X minus five times five X plus two, when does that equal zero? And like we saw before, well, this is just like
+what we saw before, and I encourage you to pause the video, and try to work it out on your own. So there's two situations where this could happen, where either the first
+expression equals zero, or the second expression, or maybe in some cases, you'll have a situation where
+both expressions equal zero. So we could say either X
+minus five is equal to zero, or five X plus two is equal to zero. I'll write an, or, right over here. Now if we solve for X, you add five to both
+sides of this equation. You get X is equal to five. Here, let's see. To solve for X, you could subtract two from both sides. You get five X is equal to negative two, and you could divide both sides by five to solve for X, and you get X is equal to negative 2/5. So here are two zeros. You input either one of these into F of X. If you input X equals five, if you take F of five, if you try to evaluate F of five, then this first
+expression's gonna be zero, and so a product of
+zero and something else, it doesn't matter that
+this is gonna be 27. Zero times 27 is zero, and if you take F of negative 2/5, it doesn't matter what
+this first expression is. The second expression right over here is gonna be zero. Zero times anything is zero.

@@ -1,0 +1,132 @@
+This right here is a picture
+of an Airbus A380 aircraft. And I was curious
+how long would it take this aircraft to take off? And I looked up its
+takeoff velocity. And the specs I got were
+280 kilometers per hour. And to make this a velocity we
+have to specify a direction as well, not just a magnitude. So the direction is in the
+direction of the runway. So that would be the positive
+direction right over there. So when we're talking about
+acceleration or velocity in this, we're
+going to assume it's in this direction, the direction
+of going down the runway. And I also looked up
+its specs, and this, I'm simplifying a little
+bit, because it's not going to have a purely
+constant acceleration. But let's just say
+from the moment that the pilot says we're
+taking off to when it actually takes off it has a
+constant acceleration. Its engines are able to
+provide a constant acceleration of 1.0 meters per
+second per second. So after every second it
+can go one meter per second faster than it was going at
+the beginning of that second. Or another way to write this
+is 1.0-- let me write it this way-- meters
+per second per second can also be written as
+meters per second squared. I find this a little
+bit more intuitive. This is a little
+bit neater to write. So let's figure this out. So the first thing
+we're trying to answer is, how long does take off last? That is the question
+we will try to answer. And to answer this,
+at least my brain wants to at least
+get the units right. So over here we have
+our acceleration in terms of meters and
+seconds, or seconds squared. And over here we have
+our takeoff velocity in terms of
+kilometers and hours. So let's just convert
+this takeoff velocity into meters per second. And then it might simplify
+answering this question. So if we have 280
+kilometers per hour, how do we convert that
+to meters per second? So let's convert it to
+kilometers per second first. So we want to get
+rid of this hours. And the best way
+to do that, if we have an hour in
+the denominator, we want an hour in the
+numerator, and we want a second in
+the denominator. And so what do we
+multiply this by? Or what do we put in front
+of the hours and seconds? So one hour, in one hour
+there are 3,600 seconds, 60 seconds in a minute,
+60 minutes in an hour. And so you have one
+of the larger unit is equal to 3,600
+of the smaller unit. And that we can
+multiply by that. And if we do that, the
+hours will cancel out. And we'll get 280 divided by
+3,600 kilometers per second. But I want to do
+all my math at once. So let's also do the conversion
+from kilometers to meters. So once again, we have
+kilometers in the numerator. So we want the kilometers
+in the denominator now. So it cancels out. And we want meters
+in the numerator. And what's the smaller unit? It's meters. And we have 1,000 meters
+for every 1 kilometer. And so when you multiply
+this out the kilometers are going to cancel out. And you are going to be
+left with 280 times 1, so we don't have to write
+it down, times 1,000, all of that over 3,600,
+and the units we have left are meters per-- and the
+only unit we have left here is second-- meters per second. So let's get my trusty TI-85
+out and actually calculate this. So we have 280 times 1000, which
+is obviously 280,000, but let me just divide that by 3,600. And it gives me 77.7
+repeating indefinitely. And it looks like I had
+two significant digits in each of these
+original things. I had 1.0 over
+here, not 100% clear how many significant
+digits over here. Was the spec rounded to
+the nearest 10 kilometers? Or is it exactly 280
+kilometers per hour? Just to be safe I'll
+assume that it's rounded to the
+nearest 10 kilometers. So we only have two
+significant digits here. So we should only have
+two significant digits in our answer. So we're going to round this
+to 78 meters per second. So this is going to be
+78 meters per second, which is pretty fast. For this thing to take off
+every second that goes by it has to travel 78
+meters, roughly 3/4 of the length of a football
+field in every second. But that's not what
+we're trying to answer. We're trying to say how
+long will take off last? Well we could just do this in
+our head if you think about it. The acceleration is 1 meter
+per second, per second. Which tells us
+after every second it's going 1 meter
+per second faster. So if you start at a velocity
+of 0 and then after 1 second it'll be going 1
+meter per second. After 2 seconds it will be
+going 2 meters per second. After 3 seconds it'll be
+going 3 meters per second. So how long will it take to
+get to 78 meters per second? Well, it will take 78
+seconds, or roughly a minute and 18 seconds. And just to verify this with our
+definition of our acceleration, so to speak, just
+remember acceleration, which is a vector quantity,
+and all the directions we're talking about now
+are in the direction of this direction of the runway. The acceleration is equal
+to change in velocity over change in time. And we're trying to solve for
+how much time does it take, or the change in time. So let's do that. So let's multiply both
+sides by change in time. You get change in time
+times acceleration is equal to change in velocity. And to solve for change
+in time, divide both sides by the acceleration. So divide both sides by
+the acceleration you get a change in time. I could go down
+here, but I just want to use all this real
+estate I have over here. I have change in time
+is equal to change in velocity divided
+by acceleration. And in this situation, what
+is our change in velocity? Well, we're starting
+off with the velocity, or we're assuming
+we're starting off with a velocity of
+0 meters per second. And we're getting up to
+78 meters per second. So our change in velocity
+is the 78 meters per second. So this is equal,
+in our situation, 78 meters per second is
+our change in velocity. I'm taking the final velocity,
+78 meters per second, and subtract from that
+the initial velocity, which is 0 meters per second. And you just get this. Divided by the
+acceleration, divided by 1 meter per
+second per second, or 1 meter per second squared. So the numbers part
+are pretty easy. You have 78 divided by
+1, which is just 78. And then the units you
+have meters per second. And then if you divide by
+meters per second squared, that's the same
+thing as multiplying by seconds squared per meter. Right? Dividing by something
+the same thing as multiplying by
+its reciprocal. And you can do the
+same thing with units. And then we see the
+meters cancel out. And then seconds squared
+divided by seconds, you're just left with seconds. So once again, we
+get 78 seconds, a little over a minute for
+this thing to take off.

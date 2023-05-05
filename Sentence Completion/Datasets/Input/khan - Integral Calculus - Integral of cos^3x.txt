@@ -1,0 +1,48 @@
+- [Voiceover] Let's see if we can take the indefinite integral of
+cosine of X to the third power. I encourage you to pause the video and see if you can figure
+this out on your own. You have given it a go and
+you might have gotten stuck. Some of you all might have
+been able to figure it out, but some of you all
+might have gotten stuck. You're like, "Okay,
+cosine to the third power. "Well, gee, if I only had a
+derivative of cosine here, "if I had a negative sign
+of X or a sin of X here, "maybe I could've used U substitution, "but how do I take the anti-derivative "of cosine of X to the third power?" The key here is, is to use some basic trigonometric identities. What do I mean by that? We know that sin squared
+X plus cosine squared X is equal to one, or if
+we subtract sin squared from both sides, we know
+that cosine squared X is equal to one, write
+it this way, is equal to one minus sin squared X. What would happen if
+cosine to the third power, that's cosine squared times cosine. What happens if we were to take that cosine squared? Let me just rewrite it. This is the same thing as cosine of X times cosine squared of X, DX. What if we were to take this thing right over here, let me
+do that magenta color. What if we were to take
+this right over here and replace it with this. I now what you're thinking. "Sal, what's that going to do for me? "This feels like I'm making this integral "even more convoluted." What I would tell you, I would say, "This might seem like it's
+getting more complicated, "but as you explore and you play with it, "you'll see that this actually makes "the integral more solvable." Let's try it out. If we do that, this is
+going to be equal to the indefinite integral,
+cosine of X times one minus sin squared X, DX. What is this going to be equal to? This is going to be equal to, let me do this in that green color. This is going to be equal to the indefinite integral of cosine X. I'm just going to
+distribute the cosine of X. Cosine of X minus, minus cosine of X, cosign of X sin squared of X, sin squared, sin squared X and then I can
+close the parentheses, DX. This, of course, is going
+to be equal to the integral of cosine of X, DX, and we know what that's going to
+be, minus the integral. I'll switch to one color
+now, of cosine of X, sin squared X, sin squared X, DX. Now, this is where it gets interesting. This part right over here
+is pretty straight forward. The anti-derivative of
+cosine of X is just sin of X. This right over here is
+going to be sin of X. I'll worry about the plus C at
+the end because both of these are going to have a
+plus C, so might as well just put one big plus c at the end. That's sin of X and then what do we have going on over here? Well, you might recognize, I
+have a function of sin of X. I'm taking sin of X and I'm squaring it and then I have sin of X's
+derivative right over here. This fits the, I have some
+derivative of a function and then I have another and then I have a, I guess you could say, a
+function of that function. G of F of X. That's a sin that maybe U
+substitution is in order, or we've seen the pattern,
+we've seen this show multiple times already,
+that you could just say, "Okay, if I have a function of a function "and I have that functions derivative, "then essentially I can just
+take the anti-derivative "with respect to this function." This would be equal to, say, capital G is the anti-derivative of lower case G. Capital G of F of X plus C. Now, if what I said didn't
+make sense, then we could do U substitution and go through it a little bit more step by step. Let's just do that because
+we want things to make sense. That's the whole point of these videos. We could say U is equal
+to sin of X and then DU is going to be equal to cosine of X, DX. This part and that part is going to be DU and then this is going to be U squared. This is going to be minus. We have the integral of U squared, DU. What is this going to be? This is going to be, we're
+going to have negative U to the third power over three. Then, we know what U is. The U is equal to sin of X. We have our sin of X
+here for the first part of the integral, for the first integral. We have the sin of X and then
+this is going to be minus. Let me just write it this way. Minus 1/3 minus 1/3. Instead of U to the third,
+we know U is sin of X. Sin of X to the third power. Then now, we can throw that plus C there. We're done. We've just evaluated
+that indefinite integral. The key to it is to just
+play around a little bit with trigonometric identities
+so that you can get the integral to a point that you can use the reverse chain rule or
+you can use U substitution, which is just really another way of expressing the reverse chain rule.

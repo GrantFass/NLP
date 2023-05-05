@@ -1,0 +1,93 @@
+Because the dehydration reaction is not observed to occur at 298 Kelvin, the student claims that the reaction has an equilibrium constant less that one point zero zero at 298 Kelvin. Do the thermodynamic data for the reaction support the students claim? Justify your answer,
+including a calculation of standard or change in standard Gibbs free energy at 298 Kelvin for the reaction. So lets first of all, let's review what the students claim is. The student claims that since the reaction is not observed at 298 Kelvin that at that temperature the reaction... The student claims that the reaction has an equilibrium constant
+less than one point o at 298 Kelvin. That's their claim. And if the idea of equilibrium constant or Gibbs Free Energy are completely foreign to you I encourage you to review
+the videos on Khan Academy on Gibbs Free Energy and
+equilibrium constants. If they are familiar
+to you but you're like, OK I don't know all the formulas that might connect the information that's given in the problem and how to calculate Delta G. And maybe how do we go from Delta G to equilibrium constants and figuring out whether the equilibrium constant is going to be greater
+than or less than one or even equal to one. The good thing is that they give you all of the formulas that you need. It's on the first page of
+the free response section. You just have to understand
+which ones are applicable and what's actually going
+on with those equations. So let's first of all think about whether we can calculate Delta G with the information that they've given. And if you go to the first page on one of the formulas they give you And you might even remember how to figure out whether a
+reaction is spontaneous or not and how you can calculate Delta G based on the temperature, the change in entropy, and
+the change in enthalpy. You have this formula right over here. And I literally just copied and pasted it from what they give you
+when you take the test. And so they give us the change
+in enthalpy for the reaction. They give us the temperature, 298 Kelvin. They give us the change in
+entropy for the reaction. This is the change in standard entropy, change in standard
+enthalpy for the reaction. And so using those we can figure out what Delta G is going to be. And then we can say,
+"OK, is it consistent? Is it greater than zero? Which is conssistant with the reaction not being spontaneous which seems to be what's observed. And then how can we go from that Delta G to the equilibrium constant?" Well they also tell us that Delta G is equal to this second thing. And this connects Delta G
+in the equilibrium constant. And we know some things about R and T. In fact we know exactly what
+R and T are if we need them. So let's go ahead and apply these equations right over here. So you have... Actually let me just write all of the information we have first. So what is our change
+in standard enthalpy? We're going to have to figure that out. We're going to have to figure out what our change in standard
+entropy is going to be. We know what the temperature is. We know that that is 298 Kelvin. And we can worry about R
+in a second if we need to. So up here when they gave us the reaction they gave us our change
+in standard enthalpy and our change in standard
+entropy at 298 Kelvin. This is very convenient. So our change in enthalpy
+is 45.5 kilojoules per mole. Our change in standard entropy
+is 126 joules per Kelvin-mole so this is very interesting. This is given in kilojoules,
+this is given in joules. And so we wanna make sure
+that we're being consistent. So let's just make sure that
+everything is in joules. So I'm going to write this, this thing is the same as 45,500 joules per mole for this reaction. So let me write this down, this is 45,500, this is
+126 joules per Kelvin-mole. So this is, this right over here, is 45,500 joules per mole. This is 126 joules per Kelvin-mole. And now we can figure out what
+the Delta G is going to be. Delta G is going to be equal to... Well our change in enthalpy
+is 45,500 joules per mole minus our temperature, 298 Kelvin. Times our change in entropy. Times 126 joules per Kelvin-mole. And notice the Kelvin and then the Kelvin, those should both be capital Ks, capital K, cancel out. And the units here are
+going to be joules per mole. The units here are going
+to be joules per mole. And then we just figure
+out the difference. So let's do this. Let me get my calculator out. And so this is going to be... Well let me multiply these two first. We're going to have 298
+times 126 is equal to that. And let's see, I'm going
+to subtract this from 45,500 so let me just make it a negative. And add it to 45,500 is
+going to be equal to... is going to be equal to 7,952. And if we want to stay... I mean we want to stay consistant with how many significant digits or significant figures we have. And it looks like it's pretty consistently three significant figures. So we want three significant figures here. So we could write 7,900, roughly 7,950. So our Delta G is approximately
+7,950 joules per mole. And the fact that this
+is greater than zero tells us that this is not going to be spontaneous at that temperature. So it's already consistent
+with our observations. And that's always a good reality check. Because, are the things that you're seeing consistent with what the
+question is describing? So Delta G greater than zero consistent. Consistent with reaction. Reaction being, or not being spontaneous. Not being spontaneous. Spontaneous at 298 kelvin. In the videos on Khan
+Academy on Gibbs free energy we go into a lot more
+detail on what this is. But one way to think about it is, this is the energy, the change in energy that's available to do work. And so if you have more, if
+your Gibbs free energy increases over the course of the reaction, that means the products have more energy to do work. And so that means you
+have to put work into it in order for the reaction
+to actually proceed. If your Delta G is negative
+that means your products have less energy to do
+work than your reactants. Which means that it can
+release that energy. It can do work, and it can be spontaneous. So this one, it's greater than zero. So it's not going to be spontaneous. But that doesn't answer
+the question for us. We want to validate the claim that the reaction has an equilibrium
+less than one at 298 Kelvin. And lucky for us they
+also give us the formula that ties our Delta G to
+our equilibrium constant. And we know the other things. We know R and we know T. And we might not actually
+have to think about them. Because they're not telling us to calculate the equilibrium constant. They're just saying we'll validate that it's going to be less than one. And so, if we took 7,950 joules per mole is equal to negative RT times the natural log of our
+equilibrium constant we'll solve for the equilibrium constant. Let's see, if I divide
+both sides by negative RT. Negative RT. I'm going
+to get the natural log. I'll just write it this
+way, the natural log of my equilibrium constant
+is going to be equal to 7,950 joules per mole over negative RT. Or you could say E, this is just... What power do I raise E to to get K. Or so, you could say E to the
+negative 7,950 joules per mole over RT is going t to be equal to K. And we could actually
+calculate what this is. We know which R to use. We're dealing with joules and moles. So it would be this first Gas constant right over here eight point three one four joules per mole-kelvin. But we actually don't even have to do that because we just have to validate that K is going to be less than one. What happens if you raise
+E to a negative exponent? And this is going to
+be a negative exponent. This is positive, that is
+positive, this is positive. We know it's 298 kelvin
+positive, positive. So my entire exponent
+is going to be negative. So negative, so negative. So you could say that K
+equals E to negative number. I'll get this right. It's
+kind of weird to write the negative and then the negative number. E to a negative number. Which must be less than one. Remember if the exponent is zero, E to the zero power is one, E to anything positive is
+going to be greater than one. And E to anything negative
+is going to be less than one. You wanna be careful, not less than zero. You actually can't get to less than zero. It's going to be less than one. And so this by itself already
+validates the students claim. If you wanna go further you
+could just calculate that. You could just say K is equal to E to the negative 7,950
+joules per mole over R. Which is what? eight point three one four joules per mole kelvin.
+Eight point three one four. Eight point three one four
+joules per mole kelvin times 298 kelvin. Those cancel out and joules per mole divided by joules per mole. Those cancel out. And so, you would get your number. And actually let's just calculate it. Just for kicks, just to
+really feel good about it. And you can see this is
+going to be dimensionless. And equilibrium constants
+are dimensionless. So we are going to get,
+this is kind of fun. So let's see. Let's do
+this denominator first. If you have eight point
+three one four times 298 Times 298. That's going
+to be equal to that. Now we're dividing by that. So let me take the reciprocal of that and multiply it by 7,950. 7,950 is equal to that. Now we want to raise E
+to the negative of that. So lets make that negative and now let's raise E to that power. So lets see, we can raise E to that power. So we just press that
+and there you have it. This is approximately
+zero point four four zero. I guess you could say, well
+let's just say four zero four. So this is approximately
+zero point four zero four. Approximately, and I
+already forgot the number, I have a bad memory, zero
+point zero four zero four. zero point zero four zero four. And the whole rules of significant figures get a little bit trickier when you're starting to deal with exponents like this. So we're not going to,
+and they don't ask us to calculate the exact value but hopefully this makes
+you at least appreciate that the equilibrium concept
+is for sure is less than one.

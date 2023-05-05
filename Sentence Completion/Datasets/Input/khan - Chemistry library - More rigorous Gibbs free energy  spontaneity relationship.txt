@@ -1,0 +1,219 @@
+I've hopefully given you a bit
+of a gut feeling behind where the formula of Gibbs Free
+Energy comes from. In this video I want to do
+something a little bit more rigorous and actually,
+I guess you could say derive the formula. So to do that, let's just study
+two systems that have the exact same change
+in entropy. To depict that, I'll get out
+our handy PV diagram. What we're going to do is we're
+going to compare two systems. One that's this
+perfect, reversible system and one that's irreversible or
+a spontaneous system. So they're both going
+to start here. They're going to go from this
+point on the PV diagram to this point right here. And before we go into exactly
+what they're doing, I think it's a good review to kind
+of talk about what an irreversible process and
+what a reversible process really is. An irreversible process is this
+theoretical thing where you have no friction, where
+you're always so close to equilibrium that you can
+always go backwards. You're always-- you can kind of
+view that the reaction is never really proceeding
+forward or backwards. Although obviously it is moving,
+so it's a very-- it actually doesn't really exist
+in nature, but it's a useful theoretical construct. So let me draw a little. So if this is a-- I'll get
+the good old pistons out. So let's say this is an--
+I'll do it twice. So that's my irreversible
+piston-- That'll be my reversible, this is going
+to be my irreversible. Let me draw them. OK, and let me label them. So this right here is going
+to be reversible. And this right here is going
+to be irreversible. Or it could also be considered
+spontaneous. Using the key word. That's going to matter for
+Gibbs Free Energy. But all spontaneous reactions
+are irreversible. So they're going to go from
+this state to this state. So in our reversible
+world, we have this little cap to our piston. And we have our gas in here,
+exerting some pressure. And what we'd have is
+a bunch of pebbles. We have a bunch of
+pebbles out here. And we slowly remove the
+pebbles one by one. And as we remove the pebbles,
+our piston-- or this movable ceiling up here-- will
+move upwards. It'll move upwards. So the pressure will push up,
+but as we move up, we will have lower and lower pressure
+because the gases will bounce into the surface less. And we'll have a higher,
+higher volume. So as we move each
+infinitesimally small grain of sand, and we're going to do it
+super slow, that we're always infinitely close
+to equilibrium. We're going to move from this
+state to this state. And even better, let's view that
+this is the first stage of our Carnot cycle. Let's say in either case, we're
+on top of a reservoir. So in either case, both of these
+systems are on top of this infinite reservoir that
+has a temperature T1. And what that does it keeps
+the temperature constant. So we're going to travel
+along an isotherm. Because normally if we were to
+remove these things and if we just allowed it to occur
+adiabatically, we would actually lose temperature. We would actually lose
+average kinetic energy as work is done. But in this case we have
+this reservoir. So heat is just going to be
+transferred to my system. Heat is going to
+be transferred. So let me call that QR. Right? If the reservoir wasn't here,
+our temperature would go down. But since we do have the
+reservoir, we will constantly be transferring heat. And we've seen this. This is just the first phase
+of the Carnot cycle. We'll move along an isotherm
+like this. This is the reversible case. And the only reason why we can
+even draw the state at every point here is because reversible
+processes are quasistatic. They're always infinitely
+close to equilibrium. And when we say reversible,
+we're also saying there's no friction between this little
+piston in the cylinder. That if we put a grain of sand
+back, it'll go exactly to where it was before. And no energy was lost
+because there was no heat of friction there. So this is what the graph
+of the reversible process would look like. Now what does the graph of the
+error irreversible-- Well, actually no. I won't draw the graph, but
+let's talk about what the irreversible process is
+going to be like. So it's going to look similar. It's going to look like that. It's going to have
+its gases there. But for the sake of an argument,
+to get from that state to that state, instead of
+moving the pebbles one by one, let's say I have
+these big blocks. And when I remove one of these
+big blocks, I go from that state to that state. But obviously all hell
+breaks loose. So I'm not really defined in
+this in between state. But I definitely go from that
+state to that state once I go back to equilibrium. Now the other key thing in the
+irreversible process-- and every real process in our world
+is irreversible-- is that you're going to
+have friction here. As this moves up, it's going to
+rub against the side of the container and generate
+heat of friction. So let me call that
+heat of friction. So let me ask you a question. If, in this case, Q sub R had
+to be added to the system to maintain its temperature, what's
+going to be the Q sub irreversible here? How much has to be added to this
+system in order to keep it at the constant
+temperature T1? Will it have to be more or less
+than what was added to the reversible system? Well this guy, as this piston
+moves up, he's generating some of his own heat. So if this was an adiabatic
+process, he wouldn't lose as much temperature as
+this guy would. So he's going to need less heat
+from the reservoir in order to maintain
+his temperature. At T1. In order to get to this
+point on the isotherm. Remember, this irreversible
+process, we don't know what happens over here. He might be travelling
+on some crazy path. In fact, we can't even define
+the path, because it goes out of equilibrium. So it's going to be
+some crazy thing. But we know it pops back on the
+PV diagram right there. But because it's generating some
+of its own heat from the friction, it's going to need
+less heat from the reservoir. So let me write that down. The heat absorbed by the
+reversible process is going to be greater than the heat
+absorbed by the irreversible process. And that's because the
+irreversible process is generating friction. Fair enough. Now what is the change in
+entropy for both systems? Well they both started here. And they both ended here. And entropy is a
+state variable. So the change in entropy for
+the reversible process is going to be equal to the change
+in entropy for the irreversible process. They're both going from
+there to there. And obviously the entropy
+has changed. We're going from one state
+to another state. And the entropy, well I won't
+go too much into it. But let's ask another
+question. What is the total change in
+entropy of the universe for the reversible process? So for the universe, that's
+going to be-- Our universe here is the reservoir
+in our system. So let me write here. Reversible. I don't want to run
+out of space. Let me see, I'll do it
+in a different color. So this is the reversible
+process. So the change in entropy of the
+universe is equal to the change in entropy of our
+reversible process plus the change in entropy of-- oh, I
+already used R for reversible, so let's call it the reserv--
+well, the first three letters are the same, so let me call
+it of our environment. Right? And then the reversible process,
+the change in entropy of our reversible process is
+the heat added for our reversible process. And we can use this definition
+because it is a reversible process. It's that over T1. And then what's the change in
+entropy of our environment? Well it's giving away Q sub R. Right? So its heat absorbed
+is minus Q sub R. And, of course, it's at a
+constant temperature. It is a heat reservoir. It's at T1. So it equals 0. It equals 0. Interesting. So actually I should take
+a little side note here. That, the change in entropy of
+the universe for a reversible process is 0. And actually that should make
+a lot of intuitive sense because the whole point of a
+reversal process is you could go in this direction, or you
+could go in that direction. It's always so close people to
+equilibrium you can move in either direction. And if the entropy was greater
+than 0 in one direction, it would have to be less than
+0 on the other direction. So it wouldn't be able to go in
+the other direction by the second law of thermodynamics. So it actually makes sense
+that the entropy of the universe-- the change in entropy
+of the universe, not just of the system--
+when a reversible process occurs, is 0. Let's see if we can relate
+that to the irreversible process So if I wanted to
+figure out the change in entropy of the irreversible
+process-- What's the change in entropy of the irreversible
+process? And then let me subtract from
+that the heat that was taken away from the reservoir, from
+the irreversible process, Q sub IR, and of course
+all this over T1. What is this going to be equal
+to in relation to 0? Remember this is an irreversible, spontaneous process. Well, this value, the
+irreversible process is starting here and going there. So its change in delta S is the
+exact same thing as that. Change in delta S is the same
+as the reversible process. So these two things
+are equivalent. Now, I just told you that since
+there's some heat of friction, this guy has to take
+in less heat from the reservoir than this guy. So if this-- and I
+wrote it here. I mean, let me clean this
+thing up a little bit. I wrote it right here. Q sub IR, the heat that the
+irreversible process has to take from the reservoir, because
+generating its own heat from friction, is less
+than the heat from the reversal process. So this number, right here, is
+less than this number here. Or you could view it this way. This number here was
+equal to this. So this number here is going
+to be less than this. So this has to be greater than
+0 for the irreversible, spontaneous process. Now let's just do a little
+bit of mathematics. So this is the heat that was
+essentially given to the irreversible system. It's a minus here because
+this is the term. It's kind of taken away from
+the actual reservoir. So let's just do a little bit
+of-- let's just multiply all sides of this equation by T1. And we get T1 times delta S of
+the irreversible process minus Q of the irreversible process
+is greater than 0. Now, well, let's just--
+So what is this? How can we say this? But let's actually just multiply
+both sides of this by negative 1. And remember, this
+is true for any irreversible, spontaneous process. If you multiply both
+sides of this by negative 1, you get this. The heat added to the
+irreversible process minus T times delta S of the
+irreversible process is going to be less than 0. This is true for any irreversible, spontaneous process. And at this point,
+this should look reasonably familiar to you. When we wrote the Gibbs Free
+Energy formula, we said change in G is equal to delta H
+minus T times delta S. And we said that if this is less
+than 0, then we have a spontaneous process. And this all makes sense. Because these two are equivalent
+to each other. What's the only difference
+here? Here we wrote heat added
+to the system. Here we wrote change
+in enthalpy. And I've done three or four
+videos right now, where I say that change in enthalpy is equal
+to the heat added to a system, as long as we're
+dealing with a constant pressure system. So we get this result just by
+comparing a irreversible to a reversible system. And this is true for all irreversible, spontaneous processes. And then if we assume that we're
+dealing with a constant pressure system-- so you can
+forget a little bit of what I just drew, because we know
+that this is true, and we assume constant pressure--
+then we get to this. And then we know that if
+something is spontaneous, then this right here must
+be less than 0. So hopefully you found that
+a little bit interesting. Actually I'll do one
+more point here. This kind of gels with the
+idea that second law of thermodynamics tells us that for
+any spontaneous process, delta S is going to be greater
+than or equal-- or well for any spontaneous process, is
+going to be greater than 0. Because although this right
+here isn't the formal definition of entropy, because
+we're not dealing with a reversible process here,
+you can kind of think of it that way. And so, at least, on an
+intuitive level it gets you there, that we have delta
+S greater than 0. And I won't fixate on that too
+much, because what I did earlier in the video is more
+rigorous than what I'm heading to right now. So hopefully that gives you a
+sense of where you can get to the Gibbs Free Energy formula,
+and how it drives spontaneous reactions from just our basic
+understanding of what reversible and irreversible
+processes are, and how they relate to entropy and heat
+exchange and enthalpy.

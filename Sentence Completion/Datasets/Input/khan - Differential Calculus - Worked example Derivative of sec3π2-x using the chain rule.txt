@@ -1,0 +1,58 @@
+- [Voiceover] So let's say
+that we have y is equal to the secant of three pi over two minus x. And what we wanna do is,
+we wanna figure out what dy/dx is, the derivative
+of y with respect to x is, at x equal pi over four. Like always, pause this
+video and see if you could figure it out. Well as you can see here, we
+have a composite function. We're taking the secant, not just of x, but you could view this
+as of another expression that x could define, or as
+of a, of another function. So for example, if you call
+this right over here, u of x, let's do that. So if we say u of x is equal
+to three pi over two minus x, we could also figure out u prime of x is going to be equal to
+derivative of three pi over two, that's just going to be a zero, derivative of minus x,
+well that's just gonna be minus one, and you could just
+view that as a power rule. It's one times negative one,
+times x to the zero power, which is just one. So there you go. So we could view this as
+the derivative of the secant with respect to u of x, that
+when we take the derivative, the derivative of secant
+with respect to u of x, times the derivative
+of u with respect to x. And you might say, "Well, what about the
+derivative of secant?" Well in other videos, we
+actually prove it out, and you could actually re-derive it. Secant is just one over cosine of x, so it comes straight
+out of the chain rule. So, in other videos, we prove that the, the derivative of the secant of x, of the secant of x, is equal
+to, is equal to sin of x, over cosine of x, over
+cosine of x squared. So if we're trying to
+find the derivative of y with respect to x, well it's
+going to be the derivative of secant with respect to u of x, times the derivative
+of u with respect to x. So let's do that. The derivative of secant
+with respect to u of x, well, instead of seeing an x everywhere, you're gonna see a u of x everywhere. So this is going to be, sin of u of x, sin of u of x, and I could, I don't have to write u of x, I could write three pi over two minus x, but I'll write u of x
+right over here just to really visualize what we're doing. So sin of u of x, over, over, cosine squared of u of x, cosine squared, and we do those parentheses
+in the blue color just to make sure that you identify it with the trig function. So cosine squared of u of x, u of x, so that's the derivative of
+secant with respect to u of x, and then the chain rule
+tells us it's gonna be that times u prime, u prime of x. So what is this going to be equal to? Well, I could just substitute back. This is going to be equal to,
+I will write it like this. Sin of u of x, which is
+three pi over two minus x, and I'll fill that in in a second, over cosine of u of x squared, times u prime of x, u of x is three pi over two minus x, three pi over two minus x. And then u prime of x,
+we already figured out, is negative one, so I could write, times negative one, oh, yeah. Let me just leave it out there for now. I could have just put
+a negative out front, but I really want you to be able to see what I'm doing here. And now we want to evaluate
+at x equals pi over four. So that is equal to pi over four. Pi over four. So let's see, this is going to be, this is going to be equal to sin of, what's three pi over
+two minus pi over four? I'll do that over here. So we have a common denominator, that is six pi over four, the same thing as three pi over two, minus pi over four, minus pi over four, is equal to five, five pi over four. So it's sin of five pi over four, five pi over four, over cosine squared of five pi over four, and then times negative one,
+I can just put that out here. Now what is sin of five pi over four and cosine squared of five pi over four? Well, I don't have that memorized, but, let's actually draw a unit circle and we should be able to, we should be able to
+figure out what that is. So, a unit circle, I try to hand draw it as best as I can. Please forgive me that
+this circle does not look really like a circle, alright. Okay. So, let me just remember my angles. So, I, I in my brain, I
+sometimes convert into degrees. Pi over four is 45 degrees. This is pi over two, this
+is three pi over four, this is four pi over four, this is five pi over four, lands you right over there. So if you wanted to see where
+you intersect the unit circle, this is at the point,
+this is at the point. Your x-coordinate is negative
+square root of two over two, negative square root of two over two, and your y-coordinate
+is negative square root of two over two. If you are wondering how I got that, I encourage you to review the unit circle and some of the standard
+angles around the unit circle. You'll see that in the
+trigonometry section of Khan Academy. But this is enough for us, because the sin is the y-coordinate, it's
+the y-coordinate here. So negative square root of two over two. So this is negative square
+root of two over two. And then, the cosine is the x-coordinate, which is also negative
+square root of two over two, it's going to be that squared. Negative square root of two
+over two, we're squaring it. So if we square this, it's gonna become, this is going to become,
+it's gonna become positive. And then square root
+of two squared is two, and then two squared is four. So it's one half. So this is, the denominator's
+equal to one half. See the numerator, this negative cancels out with that negative. And so we are left with, we deserve a little bit of a drum roll. We are left with square
+root of two over two, that's the numerator, divided by one half, well
+that's the same thing as multiplying by two. So we are left with
+positive square root of two, is the slope of the tangent line, to the graph of y is equal to this when x is equal to pi over four. Pretty exciting.

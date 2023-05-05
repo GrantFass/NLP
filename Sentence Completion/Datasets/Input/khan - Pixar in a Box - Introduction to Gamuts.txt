@@ -1,0 +1,25 @@
+- Okay, so let's step back
+to the larger problem. Our finished movies are viewed in a number of different ways. For instance, the screen
+a movie is displayed on could be a monitor, like this,
+or a projector, like this, and that's where another
+problem creeps up. Both of these displays are
+getting the same color signal of pure red. Notice these resulting colors we see aren't exactly the same. The problem is display devices, like monitors and projectors, can only reproduce some
+of the perceivable colors. It's the pure, or single wavelength, red, green and blue light,
+they have trouble creating. Notice, this screen can
+generate a slightly purer, or deeper, red compared to this one. Remember, on our CIE
+diagram that the purest red, green, and blue
+are way out on the edge, here, here, and here. But, a typical RGB monitor
+can't create anything close to pure red, green, and blue light. If it tries to display those colors, the best it can do is hit three points over here, here, and here. And, since the display
+can blend those colors, the device has the ability
+to create any colors in this black triangle. This region is called the
+Gamut of the display device. It's the range of the perceivable colors any give device can reproduce. Mathematicians would say
+the Gamut is a subset of the perceivable color space. The size of this set is
+important to filmmakers because they want the
+biggest palate of colors to paint from. More color means more artistic freedom. For a long time, our movies
+were projected on film which has a very large Gamut, like this. Eventually, we moved to digital projectors which had a different
+Gamut compared to film. More recently, laser
+illuminated digital projectors have been introduced which have a much larger Gamut than film. This is because they use laser light which is very close to a single wavelength allowing them to produce very
+pure reds, greens, and blues. But here's a practical problem
+for you to think about. How do we make sure our movies
+look good on any device, especially if they have
+very different Gamuts? You can think about that while working on the next exercise.

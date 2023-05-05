@@ -1,0 +1,62 @@
+Determine whether the data in the table is an example of direct inverse or joint
+variation. Then identify the equation that represents
+the relationship. So let's just think about what direct
+inverse or joint variation even means. So if you have direct variation. Direct variation. So if y varied directly with x it
+literally means that y is equal to some constant multiple of x, or if you divide
+both sides of this by x it means that y over x is equal to k so the ration
+between y and x is a constant. And you could go the other way around. You could also say that x is equal to some constant not, not going to be the same
+constant times y. Or that x over y is going to be equal to
+some other constant. So these aren't necessarily the same k. All I'm just saying is that it's a
+constant relationship. These are all examples of direct
+variation. In dir, or I should say inverse variation
+is to some degree the opposite depending on how
+you view the opposite. And before I even talk about that, let's think about the telltale signs of direct
+variation. If x increases, y should increase. So if x increases. Let me do that in the same yellow. So the telltale signs of direct variation,
+if x increases then y will increase and vice
+versa. The other telltale sign is. Is if you increase x by some, by some
+factor. So, if you have x going to 3x then y
+should also increase by that same factor. And we could see that with some examples. So, I mean, you could pick a K, let's say
+that, let's say that K was one. So if y is equal to x, if you take, if x
+goes from one to three, then y is also going to go
+from one to three. So that's all we're talking about here. Let me actually, y should actually to three times y, that's what I'm talking
+about. If you triple x, you're also gonna end up
+tripling y. Inverse variation. You have y being equal to some constant
+times one over x. So instead of an x here you have a one
+over x or if you multiply both sides by x you get x times y
+is equal to some constant. And you could switch the x's and the y's
+around as well for inverse variation. Now what are the tale tale signs? Well if you increase x, if x goes up, then
+what happens to y? If x goes up then this becomes a smaller
+value cuz it's one over x so then y will go
+down. Then y will go down. And if you take X and if you're to say
+increase it by a factor of three then what's going to
+happen to Y? Well if you increase this by a factor of three, you're actually going to decrease
+this whole value by a factor of one-third, so Y is going to go, so then you're going to have one-third
+of y. So that's, these are the tell-tale signs
+for inverse variation. Now finally they talk about something
+called joint variation, and this one you won't necessarily see in
+introductory algebra course. But joint variation deals with more than
+one variable. So if I told you, if I told you that area
+of a rectangle is equal to the width of a rectangle times the length of rectangle,
+this is an example of joint variation. Area is proportionally to two. Is the proportional to two different
+quantities? So the main tell tale sign here for joint
+variation frankly is you're gonna be dealing with
+more than two variables. Joint, Joint, Joint variation. So when you look at this example, there
+only gi, giving us two variables. So you can rule out joint variation just
+right from the get go. Now let's look at the tell tale signs. So as x is increasing, as x goes from one
+to two, what is happening to y? Y went from 12 to six. So as x is going up by a factor of two, y is going, is, is going by a factor of
+one half. Or y is being multiplied by one half. So as x goes from one to three, it's being
+multiplied by three. Y is being multiplied or I guess could say
+is, is multiplied by one-third. So it's definitely not direct variation. As x increases, y is decreasing. So it's definitely not direct variation. And then really you can just rule out,
+since we rule out the other two, you can probably guess this is
+going to be inverse variation. But we can validate it. When X increases, Y is decreasing. When X increases by a certain factor, Y is increasing by one over that factor, which
+is actually decreasing. So, if you go from one to three, if X is
+being multiplied by three, then Y essentially
+becomes one third of its original value. When X is one Y is 12 when X is three Y is
+four so we have inverse variation in play. Now they ask us identify the equation that
+represents the relationship. Well we know with inverse variation the
+product of x and y need to be equal to some constant. So that if we take x times y over here so
+lets just multiply lets make another column here
+call this the x times y column. One times 12 is 12. Two times six is 12. Three times four is 12. Four times three is 12. So, clearly in every situation, x times y
+is, is a constant and it is 12. So, the equation that represents the
+relationship, it is, X, Y is equal to 12 and that is clearly an
+inverse

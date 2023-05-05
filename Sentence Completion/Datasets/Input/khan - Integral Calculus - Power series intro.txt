@@ -1,0 +1,118 @@
+We've already seen many
+examples of infinite series. But what's exciting about what
+we're about to do in this video is we're going to use infinite
+series to define a function. And the most common
+one that you will see in your mathematical
+careers is the power series. And I'm about to write a general
+case of the power series. So I could imagine
+a function, f of x, being defined as
+the infinite sum. So going from n equals 0
+to infinity of a sub n-- so a sub n is just going to be
+the coefficient on each term-- times our variable x
+minus some constant c. You could almost
+imagine this is shifting our function to the n-th power. So if I were to
+expand this out, I have my first term's
+coefficient, a sub 0, times x minus c
+to the 0-th power, plus a sub 1 times x minus
+c to the first power. This one, of course, will
+simplify just a sub 0. This would simplify to a sub
+1 times x minus c plus a sub 2 times x minus c squared. And I could just keep
+going on and on and on. Now, when you see
+this, you might say, aren't our geometric
+series, don't those look like a special
+case of a power series if our common ratio was an x
+instead of an r in that case, or if our common ratio was a
+variable, I guess I could say? And you would be right. That absolutely
+would be the case. So a geometric series. So let's just think about
+defining a function in terms of a geometric series. And of course, we
+don't have to use x all the time as the
+independent variable, but this is kind of the
+most typical convention. I guess we could also use r
+as an independent variable if we wanted as well. But let's imagine
+a function g of x. We could have g of r
+if we wanted, but let's do g of x is equal
+to the sum from n equals 0 to infinity
+of a times x to the n. So this is kind of a typical
+geometric series here. And what's the difference
+between this and this? Well, the difference is is
+here, for every term we're going to have the
+same coefficient a, while over here we have a sub n. We're multiplying by a different
+thing every time up here. We're multiplying by the
+same thing over here. And in this case, this
+particular geometric series I just made, instead of
+having x minus c to the n, we have just x to the n. So you could say, well,
+this is a special case when c is equal to 0. And we can expand it out. This is a times
+x to the 0, which is just going to be a, plus
+a times x to the first, plus a times x squared. And we just go on and
+on and on forever. Now, what's exciting
+about this is we know that this, under
+certain conditions, will actually give
+us a finite value. This will actually converge. This will actually, I guess,
+give us a sensical answer. So under what conditions
+does that happen? Well, this converges
+if each of these terms gets smaller and
+smaller and smaller. And each of these terms gets
+smaller and smaller and smaller if the absolute value of our
+common ratio is less than 1. So let me write that down. So this converges if
+the absolute value of our common ratio
+is less than 1. Or another way of
+thinking about it, this is another way
+of saying that x is in the interval
+between-- it's less than 1 and it is greater
+than negative 1. And this term right over
+here, now x is a variable. x can vary between those values. We're defining a
+function in terms of x. We call this the
+interval of convergence. And so we know that if
+x is in this interval, this is going to
+give us a finite sum. And we know what
+that finite sum is. It's going to be equal
+to-- if it converges. So if it converges,
+this is going to be equal to our first
+term, which is just a-- this simplifies to a
+right over here-- over 1 minus our common ratio. What's our common ratio? Our common ratio in
+this example is x. Going from one term to the next,
+we're just multiplying by x. We're just multiplying
+by x right over there. Now, this is pretty
+neat, because we're going to be able
+to use this fact to put more
+traditionally-defined functions into this form, and
+then try to expand them out using a geometric series. And this whole idea
+of using power series, or in this special
+case, geometric series to represent functions,
+has all sorts of applications in
+engineering and finance. Using a finite number of
+terms of these series, you could kind of
+approximate the functions in a way that's simpler
+for the human brain to understand, or
+maybe a simpler way to manipulate in some way. But what's interesting
+here is instead of just going from the sum
+to-- instead of going from this expanded-out version
+to this kind of finite value, we're now going to start
+being able to take something in this form and expand it
+out into a geometric series. But we have to be
+careful to make sure that we're only doing it over
+the interval of convergence. This is only going to be
+true over the interval of convergence. Now, one other term you might
+see in your mathematical career is a radius. Radius of convergence. And this is how far--
+up to what value, but not including this value. So as long as our x value stays
+less than a certain amount from our c value, then
+this thing will converge. Now in this case,
+our c value is 0. So we could ask
+ourselves a question. As long as x stays
+within some value of 0, this thing is going to converge. Well, you see it
+right over here. As long as x stays
+within one of 0. It can't go all the
+way to 1, but as long as it stays less
+than 1, or as long as it stays greater
+than negative 1. It can stray anything
+less than one away from 0, either in
+the positive direction or the negative direction. Then this thing
+will still converge. So we could say that our radius
+of convergence is equal to 1. Another way to think about it,
+our interval of convergence-- we're going from
+negative 1 to 1, not including those
+two boundaries, so our interval is 2. So our radius of
+convergence is half of that. As long as x stays
+within one of 0, and that's the same thing as
+saying this right over here, this series is
+going to converge.

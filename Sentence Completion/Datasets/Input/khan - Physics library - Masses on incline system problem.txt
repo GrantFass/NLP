@@ -1,0 +1,99 @@
+- So just to show you how
+powerful this approach is of treating multiple objects as
+if they were a single mass let's look at this one,
+this would be a hard one. We've got a 9kg mass hanging from a rope that rope passes over a
+pulley then it's connected to a 4kg mass sitting on an incline. And this incline is at 30 degrees, and let's step it up let's make it hard, let's say the coefficient
+of kinetic friction between the incline
+and the 4kg mass is 0.2 And that's the coefficient. so there's going to be friction as well. If you tried to solve this the hard way it would be challenging, it's do-able but you're going to
+have multiple equations with multiple unknowns,
+if you try to analyze each box separately using Newton's second law. But because these boxes have
+to accelerate at the same rate well at least the same
+magnitude of acceleration, then we're just going to be
+able to find the system's acceleration, at least the
+magnitude of it, the size of it. This 4 kg mass is going to
+have acceleration in this way of a certain magnitude, and this 9 kg mass is going to have acceleration this way and because our rope is not
+going to break or stretch, these accelerations are
+going to have to be the same. So we get to use this
+trick where we treat these multiple objects as if
+they are a single mass. And the acceleration of the single mass only depends on the external
+forces on that mass. So we're only looking
+at the external forces, and we're gonna divide by the total mass. So what would that be? If we wanted to find
+the acceleration of this 4 kg mass, let's say what the
+magnitude of this acceleration This 9 kg mass is much more massive than the 4 kg mass and so this whole system is going to accelerate in that direction, let's just call that direction positive. So that's one weird part about treating multiple objects as if
+they're a single mass is defining the direction
+which is positive is a little bit sketchy to some people. We're just saying the direction of motion this way is what we're calling positive. And that works just
+fine, so when I plug in and go to solve for
+what is the acceleration I'm gonna plug in forces which go this way as positive and forces which
+go the other way as negative. What do I plug in up top?
+What forces make this go? The force of gravity on
+this 9 kg mass is driving this system, this is the
+force which makes the whole system move if I were
+to just let go of these masses it would start accelerating
+this way because of this force of gravity right here. So that's going to be 9 kg times 9.8 meters per second
+squared and that's going to be positive because
+it's making the system go. There's no other forces
+that make this system go. So now I'm only going to
+subtract forces that resist the acceleration, what forces
+resist the acceleration? The gravity of this 4 kg
+mass resists acceleration, but not all of the gravity. The gravity of this 4
+kg mass points straight down, but it's only
+this component this way which resists the motion of
+this system in this direction. What is this component? This is "m" "g" "sin(theta)"
+so if that doesn't make any sense go back and look
+at the videos about inclines or the article on inclines
+and you'll see the component of gravity that points down an incline parallel to the surface is equal to "m" "g" "sin(theta)" so I'm gonna have to subtract 4 kg times 4 kg times 9.8 which is "g" times sin of the angle,
+which is 30 degrees. We need more room up here
+because there are more forces that try to prevent the system from moving, there's one more
+force, the force of friction is going to try to prevent this system from moving and that force of friction is gonna also point in this direction. It's not equal to "m" "g" "sin(theta)" it's equal to the force
+of kinetic friction "mu" "k" times "Fn" and the "mu" "k" is going to be 0.2, you
+have to be careful because the "Fn" is not just equal to "m" "g" the reason is that on an
+incline the normal force points this way so the
+normal force doesn't have to counteract all
+of gravity on an incline it just has to counteract
+that component of gravity that's directed
+perpendicular to the incline and that happens to be
+"m" "g" "cos(theta)" for an object on an
+incline and if that makes no sense go back and look
+at the video on inclines or look at the article on inclines and you'll see that this component of gravity pointing into the
+surface is "m" "g" cosine that means that normal
+force is "m" "g" cosine. Because there's no acceleration in this perpendicular direction
+and I have to multiply by 0.2 because I'm not
+really plugging in the normal force up here
+or the force of gravity in this perpendicular direction. I'm plugging in the
+kinetic frictional force this 0.2 turns this
+perpendicular force into this parallel force,
+so I'm plugging in the force of kinetic friction and it just so happens that it depends
+on the normal force. That's why I'm plugging that in, I'm gonna need a negative 0.2 times 4 kg times 9.8 meters per second squared. And then I need to multiply
+by cosine of the angle in this case the angle is 30 degrees. Alright, now finally I divide by my total mass because I have no other forces trying to propel this system or to make it stop and my total mass
+is going to be 13 kg. You might object and think wait a minute, there's other forces
+here like this tension going this way, why don't we include that? Well that's internal force and the whole benefit and appeal of treating this two-mass system as if
+it were a single mass is that we don't have to worry about these internal forces, it's
+there but that tension is also over here and on this side it's resisting the motion because it's pointing opposite the directional motion. On this side it's helping the motion, it's an internal force the internal force is canceled that's why we don't care about them, that's what this
+trick allows us to do by treating this two-mass
+system as a single object we get to neglect
+any internal forces because internal forces
+always cancel on that object. So if we just solve
+this now and calculate, we get 4.75 meters per second squared is the acceleration of this system. So this 4 kg mass will
+accelerate up the incline parallel to it with an acceleration of 4.75 meters per second squared. This 9 kg mass will accelerate downward with a magnitude of 4.75
+meters per second squared. Remember if you're going to then go try to find out what one of these internal forces are, we neglected them because we treated this as a single mass. But you could ask the question, what is the size of this tension? Often that's like a part two because we might want to know what the tension is in this problem, if we do that now we can look at the 9 kg mass individually so I can say for just the 9 kg mass alone, what is the tension on it
+and what are the force? We can find the forces on it simply by saying the acceleration of the 9 kg mass is the net force on the 9 kg mass divided by the mass of the 9 kg mass. Now this is just for the 9 kg mass since I'm done treating this as a system. This trick of treating
+this two-mass system as a single object is just a way to quickly get the magnitude
+of the acceleration. Now that I have that and I want to find an internal force I'm looking
+at just this 9 kg box. And I can say that my
+acceleration is not 4.75 but -4.75 if we want to
+treat downwards as negative and upwards as positive
+then I have to plug this magnitude of acceleration in as a negative acceleration since the 9 kg mass is accelerating downward and that's going to equal what forces
+are on the 9 kg mass: I called downward negative so that tension upwards is positive, but minus the force of gravity on the 9 kg mass which is 9 kg times 9.8 meters per second
+squared divided by 9 kg. I don't divide by the whole mass, because I'm done treating this system as if it were a single
+mass and I'm now looking at an individual mass only so we go back to our old normal rules
+for newton's second law where up is positive and down is negative and I only look at
+forces on this 9 kg mass I don't worry about any
+of these now because they are not directly
+exerted on the 9 kg mass and at this point I'm only
+looking at the 9 kg mass. So if I solve this now I
+can solve for the tension and the tension I get is 45.5 newtons which is less than 9 times 9.8 it's got to be less because this object is accelerating down so we know the net force has to point down, that means this tension has to be less than the force of gravity on the 9 kg block. So recapping, treating a system of masses as if they were a single object is a great way to quickly get the acceleration of the masses in that system. Once you find that acceleration you can then find any
+internal force that you want by using Newton's second
+law for an individual box. You're done treating as
+a system and you just look at the individual box alone like we did here and
+that allows you to find an internal force like
+the force of tension.

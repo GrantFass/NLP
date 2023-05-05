@@ -1,0 +1,192 @@
+What I want to do in this video
+is answer an age-old question, or at least an interesting
+question to me. And the question is, let's
+say I have a ledge here-- I have a ledge or
+cliff, or maybe this is a building of some kind. And let's say it has height, h. So let's say it has a height
+of h, right over here. And what I'm curious about is
+if I were to either-- Let's say that this is me over
+here, so this is me. If I were to either
+jump, myself-- that's not recommended
+for very large h's. Or If I were to throw something,
+maybe a rock off of this ledge, how fast would
+either myself or that rock be going right before
+it hits the ground? And like all of the
+other videos we're doing on projectile
+motion right now, we're going to ignore
+air resistance. And for small h's and
+for small velocities, that's actually reasonable. Or if the object
+is very aerodynamic and is kind of dense,
+then the air resistance will matter less. If it's me kind of belly
+flopping from a high altitude, then the air resistance
+will start to matter a lot. But for the sake of simplicity,
+we're going to assume no air. Or we're not going
+to take into effect the effects of air resistance. Or we could assume
+that we're doing this on an Earth-like planet
+that has no atmosphere. However you want to do it. So let's just think
+about the problem. And just so you know,
+some of you might say, that's not realistic. But this actually would be
+realistic for a small h. If you were to jump off of the
+roof of a one-story building, air resistance will not
+be a major component in determining your speed if. It was to be a much larger
+building, then all of a sudden it matters. And I don't recommend you
+do any of these things. Those are all very
+dangerous things. Much better to do
+it with a rock. So that's actually the example
+we're going to be considering. So let's just think
+about this a little bit. We want to figure
+out-- So at the top, right when the
+thing gets dropped, right when the
+rock gets dropped, you have an initial
+velocity of 0. And once again, we're going
+to use the convention here that positive velocity
+means upwards, or a positive vector means up,
+a negative vector means down. So we're going to have an
+initial velocity over here of 0. And then at the
+bottom we're going to have some final
+velocity here that is going to be a
+negative number. So it's going to have some
+negative value over here. So this is going to be negative. This is going to be a negative
+number right over there. And we know that the
+acceleration of gravity for an object on free
+fall, an object in free fall near the
+surface of the earth. We know it, and we're going
+to assume that it's constant. So our constant
+acceleration is going to be negative 9.8 meters
+per second squared. So what we're going
+to do is given an h, and given that their
+initial velocity is 0 and that our acceleration
+is negative 9.8 meters per squared, we want to figure
+out what our final velocity is going to be right before
+we hit the ground. We're going to
+assume that this h is given in meters,
+right over here. And we'll get an
+answer in meters per second for that
+final velocity. So let's see how we
+can figure it out. So we know some basic things. And the whole point of
+these is to really show you that you can always derive
+these more interesting questions from very basic
+things that we know. So we know that displacement is
+equal to average velocity times change in time. And we know that
+average velocity-- if we assume
+acceleration is constant, which we are doing--
+average velocity is the final velocity plus
+the initial velocity over 2. And then our change in time,
+the amount of elapsed time that goes by-- this is
+our change in velocity. So elapsed time
+is the same thing. I write it over here--
+is our change in velocity divided by our acceleration. And just to make sure
+you understand this, it just comes
+straight from the idea that acceleration-- or
+let me write it this way-- that change in velocity is
+just acceleration times time. Or I should say, acceleration
+times change in time. So if you divide both sides of
+this equation by acceleration, you get this right over here. So that is what our
+displacement-- Remember, I want an expression
+for displacement in terms of the things
+we know and the one thing that we want to find out. Well, for this example
+right over here, we know a couple of things. Well actually, let me
+take it step by step. We know that our
+initial velocity is 0. So this first expression
+for the example we're doing, the average velocity is going
+to be our final velocity divided by 2, since our
+initial velocity is 0. Our change in velocity
+is the same thing as final velocity
+minus initial velocity. And once again, we know that
+the initial velocity is 0 here. So our change in velocity
+is the same thing as our final velocity. So once again,
+this will be times. Instead of writing
+change in velocity here, we could just write
+our final velocity because we're starting at 0. Initial velocity is 0. So times our final velocity
+divided by our acceleration. Final velocity is the same
+thing as change in velocity because initial velocity was 0. And all of this is going
+to be our displacement. And now it looks like
+we have everything written in things we know. So if we multiply both
+sides of this expression or both sides of this equation
+by 2 times our acceleration on that side. And we multiply
+the left-hand side by-- I'll do the same colors--
+2 times our acceleration. On the left hand side, we
+get 2 times our acceleration times our displacement
+is going to be equal to, on the right hand side, the
+2 cancels out with the 2, the acceleration cancels
+out with the acceleration-- it will be equal
+to the velocity, our final velocity squared. Final velocity times
+final velocity. And so we can just solve
+for final velocity here. So we know our acceleration
+is negative 9.8 meters per second squared. So let me write this over here. So this is negative 9.8. So we have 2 times
+negative 9.8-- let me just multiply that out. So that's negative 19.6
+meters per second squared. And then what's our
+displacement going to be? What's the displacement
+over the course of dropping this rock off of
+this ledge or off of this roof? So you might be tempted to say
+that our displacement is h. But remember, these
+are vector quantities, so you want to make sure
+you get the direction right. From where the rock started to
+where it ends, what's it doing? It's going to go
+a distance of h, but it's going to go a
+distance of h downwards. And our convention
+is down is negative. So in this example,
+our displacement from when it leaves your hand
+to when it hits the ground, the displacement is going
+to be equal to negative h. It's going to travel
+a distance of h, but it's going to travel
+that distance downwards. And that's why this vector
+notion is very important here. Our convention is
+very important here. So our displacement over here is
+going to be negative h meters. So this is the
+variable, and this is the shorthand for meters. So when you multiply
+these two things out, lucky for us these
+negatives cancel out, and you get 19.6h meters squared
+per second squared is equal to our final velocity squared. And notice, when
+you square something you lose the sign information. If our final velocity was
+positive, you square it, you still get a positive value. If it was negative
+and you square it, you still get a positive value. But remember, in
+this example, we're going to be moving downward. So we want the negative
+version of this. So to really figure
+out our final velocity, we take, essentially,
+the negative square root of both sides of this equation. So if we were to take the square
+root of both sides of this, you take the square
+root of that side, you take the square root of
+that side, you will get-- and I'll flip them around-- your
+final velocity, we could say, is equal to the
+square root of 19.6h. And you can even take the
+square root of the meter squared per second squared, treat
+them almost like variables, even though they're units. And then outside of
+the radical sign, you will get a
+meters per second. And the thing I want
+to be careful here is if we just take the
+principal root here, the principal root here is
+the positive square root. But we know that our velocity
+is going to be downwards here, because that is our convention. So we want to make sure we
+get the negative square root. So let's try it out
+with some numbers. We've essentially
+solved what we set out to solve at the
+beginning of this video, how fast would we be falling,
+as a function of the height. Well, let's try it
+out with something. So let's say that the
+height is-- I don't know, let's say the height
+is 5 meters, which would be probably
+jumping off of a or throwing a rock off
+of a one-story, maybe a commercial one-story building. That's about 5 meters,
+would be about 15 feet. So yeah, about the roof
+of a commercial building, give or take. So let's turn it on. And so what do we get? If we put 5 meters in here, we
+get 19.6 times 5 gives us 98. So almost 100. And then, we want to take
+the square root of that, so it's going to be almost 10. So the square root of
+98 gives us roughly 9.9. And we want the negative
+square root of that. in that situation, when
+the height is 5 meters-- So if you jump off of a
+one-story commercial building, right at the bottom, or if you
+throw a rock off that, right at the bottom, right
+before it hits the ground, it will have a velocity of
+negative 9.9 meters per second. So negative 9.9
+meters per second. I'll leave it up to
+you, as an exercise, to figure out how fast
+this is either kilometers per hour or miles per hour
+because it's pretty fast. It's not something
+you's want to do. And this is just off of
+a one-story building. But you can usually
+figure this out. You could use this for,
+really, any height as long as we're reasonably close
+to the surface of the earth and you ignore the
+effects of air resistance. At really high heights,
+especially if the object is not that aerodynamic,
+then air resistance will start to matter a lot.

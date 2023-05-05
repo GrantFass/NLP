@@ -1,0 +1,49 @@
+- Let's say that our reaction here is second order in A. So A turns into our products. And when time is equal to zero, we're starting with our
+initial concentration of A. And after some time, t would have the concentration of A at that time, t. So if we're expressing
+the rate of our reaction, we know we can do that in
+a couple different ways. So we can say that the rate is equal to the negative change in
+the concentration of A, over the change in time. So we've done this in earlier videos. We can also say that our rate is equal to uh, think about the rate law. The rate is equal to the rate constant k times the concentration of A. And since I said this
+is second order in A, this is a second order reaction, this is the concentration
+of A to the second power. Now we can set these two rates equal. We can set this equal to
+this, so let's do that. We have the negative change in the concentration of A,
+over the change in time, and that's equal to the rate constant k times the concentration of A squared. Next, we need to think about our calculus. So instead of expressing
+this as an average rate, change in A over change in time, we can think about the instantaneous rate. So the rate of change of
+the concentration of A with respect to time. So we can write negative
+d[A], d concentration of A, over dt, so the rate of change in the concentration of A with respect to time. And this is equal to k A squared. And we have our differential equation. All right, and we can solve
+our differential equation and get a function, and the first thing that we do to solve a differential equation is
+to separate our variables. We need to put the As on one side, and we need to put the
+t on the other side, the dt on the other side. So we divide both sides by a squared, so now on the left we have negative d[A] over concentration of A squared, and we multiply both sides by dt. So we get kdt on the right side. Next, we're ready to integrate. So we're ready to integrate, and let's rewrite what
+we have on the left here. So this would be the negative. I'm going to say this is
+the concentration of A to the negative two power, d[A], just to make the
+integral a little bit easier to follow. And on the right here, we still have kdt. All right, so we're ready to integrate. So we're going to integrate the left here, and we're going to integrate the right. K is a constant, so we can
+pull it out of our integral. And let's go back up
+here and remind ourselves what we would be integrating from. So for time, all right
+let's look right here. We're going from time is equal to zero, to time is equal to t. And for our concentration,
+we'd be going from our initial concentration
+to our concentration at time of t. So let's go ahead and put those in, so we have, we're
+integrating from zero to t, so from zero to t. And we're integrating from
+our initial concentration, our initial concentration
+to our concentration at some time, t. All right, so on the left side, what do we have here? So what's the integral. This is like X to the negative two DX. So it's like the integral
+of X to the negative two DX here. So that would give us
+the concentration of A to the negative first, over negative one. So obviously you have to had some calculus if you're watching the
+video at this point. And then we still have our negative sign. So let me go ahead and put this in here. This negative right sign
+here is still there. And we will be evaluating this, this would be equal to, let me just rewrite this here. So this is the same as,
+this will be the same as one over the concentration of A. So you have two negative signs, and so now you have a positive. So this would be one over
+the concentration of A, since A to the negative
+first is one over the concentration of A. We're evaluating this from
+our initial concentration to our concentration at time t. And on the right side, the integral dt would just be t. So we have kt, evaluated from zero to t. Next we use the fundamental
+theorem of calculus. So we go ahead and plug in what we have. So we plug in this first. So we have one over the
+concentration of [A]t minus one over the initial
+concentration of A, and then on the right side, this of course would just be kt. So we found our integrated rate law for a second order reaction. So this is our integrated rate law. Some people call this the
+integrated rate equation. It doesn't really matter which
+one you're thinking about. But this, this is very useful, because we can rearrange this. We can move the one over
+initial concentration of A to the right side, so we get one over the concentration of A is equal to kt plus one over the
+initial concentration of A. And now this looks very familiar. This is the equation for a straight line. We can see that this
+would be Y is equal to MX plus B. So if you're graphing time on your X axis, and on your Y axis you have one over the concentration of A, you're gonna get a straight line. And the slope of that straight line, the slope which is M, the slope should be K, your rate constant. And the Y intercept here which is B, should be one over the
+initial concentration of A. So let's really quickly
+sketch out this graph here. So we have our axes. And on our X axis, we're gonna put time. So on our X axis we put time, and on the Y axis we put one over the concentration of A. So we have one over
+the concentration of A. And if this is a second order reaction, your graph should be a straight line. So I'm gonna go ahead and
+draw a straight line in here, or attempt to draw a straight line. So you get the idea. And the slope of this line, the slope of our line is equal to k. It's equal to the rate constant. That's what we saw up here, the slope is equal to the rate constant. And the Y intercept, so
+this point right here, this should be one over the
+initial concentration of A. So this point right here is one over the initial concentration of A. So that's the idea of
+the integrated rate law, or the integrated rate equation for a second order reaction.

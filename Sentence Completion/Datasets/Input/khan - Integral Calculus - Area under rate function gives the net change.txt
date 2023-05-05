@@ -1,0 +1,64 @@
+- [Voiceover] Let's say
+that something is traveling at a constant rate of
+five meters per second. That's its velocity in one dimension. If it was negative, we'd
+be moving to the left. If it's positive, it's
+moving to the right. Let's say that we care
+about what is our change in distance over, the delta
+symbol represents change, over a change in time of four seconds. Over four seconds. I could say from t equal
+zero to t is equal to four. That's our change in time. That's our four-second
+interval that we care about. Well, one way to think
+about it is what a rate by definition is nothing but
+a change in some quantity. In this case, it's distance over a change in some other quantity. In this case, we're thinking about time. Or another way to think
+about it, if we multiply both sides times change in
+time, you get your change in distance is equal to your
+rate times change in time. This is very close to
+you, you might remember from pre-algebra, distance
+is equal to rate times time. Time, that just comes from the
+definition of what a rate is. It's a change in one quantity with respect to another quantity. If you just apply this, you can say, "Okay, my rate is a constant five meters "per second and my delta
+t is four seconds." So times four seconds. Well, that's just going to give you 20. That's just going to get you 20. Let me do that in same color that I had for the change in distance. That's going to be 20. Then the seconds, cancel
+the seconds, 20 meters. So my total change in distance over those four seconds is going to be 20 meters. Nothing new here. Nothing too fancy. But I want to do now is
+connect this to the area under the rate function
+over this time period. So let's graph that. Let's graph it. That's my rate axis. This is my time axis. This is going to be in seconds. This is going to be in meters per second. Let's see, one, two, three, four, five. Let's see if it's about enough, and then I go one, two, three, four, five. Our rate, at least in this
+example, is a constant, is a constant five meters per second. It's a constant five meters per second. That is my r of t in this example. What did we just do here? We just multiplied our change in time times our constant rate. We just multiplied our change in time. So from time equal zero
+seconds to four seconds. It's this length here, if we think on that axis. Now we multiply it
+times our constant rate. We multiply it times this right over here. If I multiply this base times this height, what am I going to get? I'm going to get this area
+under the rate function. Now that area is going to be 20. If we went with the units of
+them, obviously you're used to things of area being
+something units squared because it's usually meters times meters or miles times miles or inches
+times inches so it'll be inches squared, meters
+squared, or miles squared. But here if we go at the units
+of the axis of the meters per second times seconds which
+is going to get you meters. But the important thing here is that the units here or
+the area here is 20. So this for that very simple
+example, it looks like the area under the rate curve is
+equal to the net change over that time period where the rate is something with respect to time. Well let's test the little burrow. It's just going to be more intuition here. Let's say that we have a
+different rate function. Let's say that we will
+make with the different, let's say instead we had a rate function. I'll use on this yellow. Let's say on a rate function, that is... Let me make it a little bit interesting. Let's say it's one meter per second, for our time is zero is
+less than or equal to time which is less than or
+equal to two seconds. Honestly, this is all in
+seconds where we're of time. There's two meters per second, for t is greater than two seconds. What's that going to look like? Actually, try to graph it
+yourself, and just say, "Well, what is the
+total change in distance "over the first, let's say five seconds?" We want to do delta t over, not the first four seconds but the first five seconds. Well, let's graph it. Let's graph it. So this is one meter per second. One meter per second. That is two meters per second. That's in meters per second. That's my rate axis. This right over there is
+going to be my time axis. One, they're obviously
+not of the same scale, three, four, five. What is this rate function look like? Well, my rate is one meter per second between time is zero and
+two, including two seconds, and then the rate jumps. Nothing can accelerate
+instantly like this. You'd need an infinite
+force or an infinitely small mass I guess to, or maybe there's something that's thinking about... Anyway, I only get two complex here but this is unrealistic mode. It's not typical for something
+to just have spontaneous velocity increase like that
+but let's just go with it. Then after the two seconds, we are at a constant rate of
+two meters per second. Now, what is our total change in distance over the first five seconds here? So here, we care about
+the first five seconds, or we can break up the problem. We could say, "Well, over
+the first two seconds." Change in time is two seconds, times our constant rate
+over those two seconds. It's going to be two seconds
+times one meter per second. Well, that's going to give us two meters. So this here is going to be, shall we do that in orange color, that's going to give us two meters there, and then we look at the next section. Our change in time here is three seconds, and then we multiply
+that, times our constant two meters per second. That's going to give us an area of six. If we look at the units, in both cases, we're multiplying seconds times meters per second which is
+going to give us meters. This is going to be two plus
+six meters or eight meters. So hopefully this is giving
+you the intuition that the area under the rate curve
+or the rate function is going to give you our total
+net change in whatever that rate thing was finding the rate of. In this case, it is
+distance per unit time. If you take the area
+under the rate function, that kind of distance for
+the speed or this velocity function over some period
+of time, that area is going to be our total
+net change in distance.

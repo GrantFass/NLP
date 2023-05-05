@@ -1,0 +1,75 @@
+- [Instructor] Let's talk a little bit about congruence, congruence. And one way to think about congruence, it's really kind of
+equivalence for shapes. So when, in algebra, when something is equal to another thing, it means that their
+quantities are the same. But, if we're now all of a
+sudden talking about shapes, and we say that those shapes are the same, the shapes are the same size and shape, then we say that they're congruent. And just to see a simple example here, I have this triangle right over there, and let's say I have this
+triangle right over here. And, if you are able to
+shift, if you are able to shift this triangle
+and rotate this triangle and flip this triangle, you
+can make it look exactly like this triangle, as
+long as you're not changing the lengths of any of the
+sides or the angles here. But you can flip it, you
+can shift it and rotate it. So you can shift, let me
+write this, you can shift it, you can flip it, you can
+flip it and you can rotate. If you can do those three procedures to make the exact same
+triangle and make them look exactly the same,
+then they are congruent. And, if you say that a
+triangle is congruent, and let me label these. So let's call this triangle A, B and C. And let's call this D, oh
+let me call it X, Y and Z, X, Y and Z. So, if we were to say,
+if we make the claim that both of these
+triangles are congruent, so, if we say triangle ABC is congruent, and the way you specify it, it looks almost like an equal sign, but it's an equal sign with
+this little curly thing on top. Let me write it a little bit neater. So we would write it like this. If we know that triangle ABC is congruent to triangle XY, XYZ, that means that their corresponding sides have the same length, and their corresponding angles, and their corresponding
+angles have the same measure. So, if we make this assumption,
+or if someone tells us that this is true, then we
+know, then we know, for example, that AB is going to be equal
+to XY, the length of segment AB is going to be equal to
+the length of segment XY. And we could denote it like this. And I'm assuming that these
+are the corresponding sides. And you can see it actually by the way we've defined these triangles. A corresponds to X, B corresponds to Y, and then C corresponds
+to Z right over there. So AB, side AB, is going to
+have the same length as side XY, and you can sometimes, if
+you don't have the colors, you would denote it just like that. These, these two lengths,
+or these two line segments, have the same length. And you can actually say
+this, and you don't always see it written this way, you
+could also make the statement that line segment AB is congruent, is congruent to line segment XY. But congruence of line
+segments really just means that their lengths are equivalent. So these two things mean the same thing. If one line segment is congruent
+to another line segment, that just means the
+measure of one line segment is equal to the measure
+of the other line segment. And so, we can go through
+all the corresponding sides. If these two characters are
+congruent, we also know, we also know that BC, we
+also know the length of BC is going to be the length of YZ, assuming that those are
+the corresponding sides. And we could put these double
+hash marks right over here to show that this one, that
+these two lengths are the same. And then, if we go to the third side, we also know that these are
+going to have the same length, or the line segments themselves
+are going to be congruent. So we also know that the
+length of AC, the length of AC is going to be equal to the length of XZ, is going to be equal to the length of XZ. Not only do we know that all
+of the corresponding sides are going to have the same length, if someone tells us that
+a triangle is congruent, we also know that all
+the corresponding angles are going to have the same measure. So, for example, we
+also know, we also know that this angle's measure
+is going to be the same as the corresponding angle's measure, and the corresponding
+angle is right over here. It's between this orange
+side and this blue side, or this orange side and this
+purple side, I should say, in between the orange
+side and this purple side. And so, it also tells us
+that the measure, the measure of angle, what's this,
+BAC, measure of angle BAC, is equal to the measure
+of angle, of angle YXZ, the measure of angle, let
+me write that angle symbol a little less like a,
+measure of angle YXZ, YXZ. We can also write that as angle BAC is congruent to angle YXZ. And, once again, like line segments, if one line segment is congruent
+to another line segment, it just means that
+their lengths are equal. And, if one angle is
+congruent to another angle, it just means that their
+measures are equal. So we know that those
+two corresponding angles have the same measure, they're congruent. We also know that these
+two corresponding angles have the same measure. I'll use a double arc to specify that this has the same measure as that. So we also know that the measure,
+the measure of angle ABC, ABC, is equal to the
+measure of angle XYZ, XYZ. And then, finally, we know, we finally, we know that this angle, if we know that these two
+characters are congruent, that this angle's going
+to have the same measure as this angle, as its corresponding angle. So we know that the
+measure of angle ACB, ACB, is going to be equal to the
+measure of angle XZY, XZY. Now, what we're gonna
+concern ourselves a lot with is how do we prove
+congruence 'cause it's cool. 'Cause if you can prove
+congruence of two triangles, then all of a sudden you can
+make all of these assumptions.

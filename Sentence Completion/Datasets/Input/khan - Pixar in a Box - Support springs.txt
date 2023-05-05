@@ -1,0 +1,15 @@
+(jumping, bouncing) (light switches on) - Great work. So far we've built up a model of hair using a series of damped springs. This gives us a more realistic behavior, like this style I came up with. But remember, the art department wants Merida's hair to be curly. Sometimes it curls up
+while moving but it doesn't hold that curly shape while at rest. Here's an idea. What if we put some
+smaller springs in between the larger springs to pull them together? Let's call them support springs. We already have a mathematical
+model of the spring so this is easy to test out. If I connect a support
+spring between the larger springs, I get something like this. If I hide the support springs,
+you'll notice the hair comes to a rest in a curly shape. That's much better. Adding these support springs results in new parameters we can control. The stiffness and length
+of the support springs. Shorter support springs
+will give us smaller curls, while really long support
+springs give us bigger ones. And if we make the support
+springs have a higher stiffness the curl pops up like this. Kind of like we applied hairspray. Compare this to support
+springs with lower stiffness. In this case, the curls relax a bit and fall downwards in a natural way. Now, let's try this with a bunch of hairs. Now that's starting to
+look more like Merida. This isn't exactly the
+method we used on Merida for the movie, but it's close. In this next interactive
+you can try this out with all the parameters we've introduced. The two new parameters are
+support spring stiffness and support spring length. See what you can come up with.

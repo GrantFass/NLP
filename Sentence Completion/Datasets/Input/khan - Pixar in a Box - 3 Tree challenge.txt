@@ -1,0 +1,14 @@
+- Great work, but suppose
+the director decides that we need robots made
+up of a little more variety and now, we need three kinds of parts; heads, bodies, and arms. When there are three parts to combine, the table doesn't work anymore. We need some other way to think
+about all the different ways that three parts can be combined. It would be even better if we
+can think of a way that works for two, or three, or four,
+or even more kinds of parts. When I first start trying
+to solve a new problem, I like to break that problem down into a bunch of smaller parts
+that are easier to solve. In this case, counting
+the number of robots made from two heads and three bodies. I can illustrate the two
+ways of selecting a head using a picture like this. And, I can illustrate the
+three ways of selecting a body using a picture like this. The problem with these picture
+so far is, they make it look like there are only five
+possible combinations. Before moving on to the next video, see if you can combine these two diagrams to show that there are six
+different combinations of robots.

@@ -1,0 +1,58 @@
+- [Instructor] What we
+have here is the graph of R is equal to sin of two
+theta in polar coordinates and if polar coordinates
+look unfamiliar to you or if you need to brush up on them I encourage you to do a
+search for polar coordinates in Khan Academy or look at
+our pre-calculus section but I'll give you a little
+bit of a primer here. Let's just familiarize ourself why this graph looks the way it does. So, what we're doing for any point here, we could obviously specify these points in terms of X and Y coordinates but we could also specify
+them in terms of an angle and a radius so for example, this would have some X coordinate and some Y coordinate or we could draw a line from the origin to that
+point right over here and specify it with some angle theta and some R which is the distance from the origin to that point. And just to familiarize ourselves with this curve let's just see why it's intuitive. So, when theta is zero,
+R is going to be zero, sin of two times zero is just zero, so our R we're just gonna be at the origin and then as theta get larger, our R gets larger and so, we start tracing out this pedal of this flower
+or clover-looking thing, so it starts looking like that and we could keep going all the way. What happens when theta
+is equal to pi over four? When theta is equal to pi
+over four right over there, well, sin of two times pi over four is sin of pi over two, R is equal to one. So, we reach a kind of a maximum R there and then and as theta increases, our R once again starts to get smaller and smaller and smaller. Now, we're going to do
+this in a calculus context, so the first question might be well, how do we express
+the rate of change of R with respect to theta? Pause this video and see
+if you can figure it out. What is R prime of theta? Well, there's really nothing new here. You just have one variable
+as a function of another. You just use the chain rule. Take the derivative with respect to theta right over here. So, the derivative of sin of two theta with respect to two theta
+is going to be cosine of two theta and then you multiply that, times the derivative of two theta with respect to theta which is two, so we could just say times two here or we could write a two out front. Alright, that was interesting but let's see if we can express this curve in terms of Xs and Ys and then think about those derivatives. So, one primer, a review from pre-calculus is that when you wanna go
+between the polar world and the, I guess you can
+say rectangular world, you have to remember the transformation that Y is equal to R sin of theta and that X is equal to R cosine of theta. Now, just as a really quick primer, why does that make sense? Well, let's just take one of
+these angle R combinations right over here, so let's say this is
+theta and that is our R. Well, the height of that side is going to by our Y and then the length of this side is going to be our X. Well, we know from trigonometry from our unit circle definition, the SOHCAHTOA definition
+of our trig functions, sin of theta is opposite over hypotenuse, sin of theta is equal
+to Y over our hypotenuse which is R and cosine of theta is equal to the adjacent or X over R and you just have multiply both sides of these equations by R to get to what we have right over there and once again, if this is going too fast, this is a review of just polar coordinates
+from pre-calculus. But now we can use these to express purely in terms of theta. How do we do that? Well, we know that R is
+equal to sin of two theta, so you just have to replace these Rs with sin of two theta. So, Y would be equal to sin of two theta, sin of two theta times sin of theta, times sin of theta and X is going to be
+equal to sin of two theta, sin of two theta times cosine of theta, times cosine of theta, just like that but now we can use these expressions to find the rate of change
+of Y with respect to theta, find a general expression for it. Pause the video and
+see if you can do that. Right, let's work through it together. Well, this is once again, we're just gonna use our
+derivative techniques, so I could write Y prime of theta, the derivative of Y with respect to theta, just gonna use the product
+rule right over here, derivative of this first expression is two cosine of two theta, cosine of two theta, we've already seen that. That's just coming out of the chain rule and then times the second expression, sin of theta and then plus, plus the first expression, sin of two theta, sin of two theta times the derivative of
+the second expression, derivative of the sin of
+theta is cosine of theta. Fair enough and we could
+do the same thing for X. X prime of theta, derivative of the first expression, it is going to be two
+times cosine of two theta, two times cosine of two theta, times the second expression, cosine of theta and then you're gonna
+have the first expression, sin of two theta, times the derivative of
+the second expression which is negative sin of theta, negative sin of theta and we could use this, we could actually
+evaluate these at points. For example, we could say
+well, what's happening when theta is equal to pi over four? So, when theta's pi over four, I'll do that in black right over here. We are going to be at this point right over there. Well, let's evaluate it. So, if I were to say Y prime of pi over four is equal to, let's see, this is going to be equal to two cosine of pi over two, two times pi over four, times sin of pi over four plus sin of two times pi over four is sine of pi over two times cosine of pi over four. Cosine of pi over four. What is this going to be equal to? Well, cosine of pi over two is zero, so if that's zero all of
+this stuff's gonna be zero and here's sin of pi over two, this is one, cosine of pi over four is square root of two over two, square root of two over two, so this is going to be equal
+to square root of two over two and actually just for the
+sake of saving some space I'll just write it right over here. It's going to be equal to
+square root of two over two. Well, we could do the
+same exercise with X. We could say X prime of pi over four. Let's see. We're still gonna have
+two times cosine of two times pi over four, so that's going to be two
+times cosine of pi over two. This first part right over
+here is gonna look the same, so that first term's gonna be zero. Then we're gonna have minus, so this is all gonna be zero, so then we're gonna have minus sin of pi over two times pi over four is sin of pi over, sin of pi over two, and then times sin of pi over four, sin of pi over four. Now, this is just going to be one and so, this is gonna be equal to and this is square root
+of two over two as well, so this is negative square
+root of two over two. Now let's see why that that makes sense. So, let's think about what happens as theta increases here. If you increase theta a little bit from pi over four, if you increase it just a little bit, your Y coordinate continues to increase, so it makes sense you have
+a positive slope here. But what happens to your X coordinate as theta increases a little bit, as theta goes from there to there? Well, then your X coordinate
+starts to decrease when theta increases, so that's why it makes sense that you have a negative rate of change right over here. Now, the next question that you might say is say is well, I wanna
+find the rate of change of Y with respect to X because I want to figure out the slope of the tangent line right over there. And it looks like it has
+a slope of negative one but how would we actually calculate it? Well, one way to think about it is the derivative of Y, the derivative Y with respect to X is going to be equal
+to the derivative of Y with respect to theta
+over the derivative of X with respect to theta. And so, at that value, so at theta is equal to pi over four, this is going to be equal
+to positive square root of two over two over negative square root of two over two, negative square root of two over two and this all simplifies to
+being equal to negative one, which makes sense. This does look indeed like a tangent line that has a slope of negative one. So, hopefully this puts it altogether, you're feeling a little
+bit more comfortable, you got a review a little bit of the polar coordinates but we've augmented that knowledge by starting to take some derivatives.

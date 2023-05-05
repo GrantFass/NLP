@@ -1,0 +1,41 @@
+- [Instructor] Let's say that
+we have the function g of x, and it is equal to the
+definite integral from 19 to x of the cube root of t dt. And what I'm curious about finding or trying to figure out
+is, what is g prime of 27? What is that equal to? Pause this video and
+try to think about it, and I'll give you a little bit of a hint. Think about the second
+fundamental theorem of calculus. All right, now let's
+work on this together. So we wanna figure out what g prime, we could try to figure
+out what g prime of x is, and then evaluate that at 27, and the best way that I
+can think about doing that is by taking the derivative of
+both sides of this equation. So let's take the derivative
+of both sides of that equation. So the left-hand side,
+we'll take the derivative with respect to x of g of x, and the right-hand side, the
+derivative with respect to x of all of this business. Now, the left-hand side is
+pretty straight forward. The derivative with
+respect to x of g of x, that's just going to be g prime of x, but what is the right-hand
+side going to be equal to? Well, that's where the
+second fundamental theorem of calculus is useful. I'll write it right over here. Second fundamental, I'll
+abbreviate a little bit, theorem of calculus. It tells us, let's say we have
+some function capital F of x, and it's equal to the
+definite integral from a, sum constant a to x of
+lowercase f of t dt. The second fundamental
+theorem of calculus tells us that if our lowercase f, if lowercase f is continuous
+on the interval from a to x, so I'll write it this way, on the closed interval from a to x, then the derivative of our capital f of x, so capital F prime of x
+is just going to be equal to our inner function f
+evaluated at x instead of t is going to become lowercase f of x. Now, I know when you first saw this, you thought that, "Hey, this
+might be some cryptic thing "that you might not use too often." Well, we're gonna see that
+it's actually very, very useful and even in the future, and
+some of you might already know, there's multiple ways to try to think about a definite
+integral like this, and you'll learn it in the future. But this can be extremely simplifying, especially if you have a hairy
+definite integral like this, and so this just tells us,
+hey, look, the derivative with respect to x of all of this business, first we have to check
+that our inner function, which would be analogous
+to our lowercase f here, is this continuous on the
+interval from 19 to x? Well, no matter what x is, this is going to be
+continuous over that interval, because this is continuous for all x's, and so we meet this first
+condition or our major condition, and so then we can just say, all right, then the derivative of all of this is just going to be this inner
+function replacing t with x. So we're going to get the cube root, instead of the cube root of t, you're gonna get the cube root of x. And so we can go back to
+our original question, what is g prime of 27
+going to be equal to? Well, it's going to be equal
+to the cube root of 27, which is of course equal
+to three, and we're done.

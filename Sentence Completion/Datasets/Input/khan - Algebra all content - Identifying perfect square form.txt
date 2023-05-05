@@ -1,0 +1,26 @@
+- [Voiceover] We wanna figure
+out what AX plus B squared is, and I encourage you to pause the video and figure out what that is in terms of capital-A and capital-B. So let's work through it. This is the same thing as multiplying AX plus B times AX plus B. So let me fill that in. This is AX there, another AX there. I just wrote it in that order to make the color switching
+a little bit easier. So AX plus B times AX plus B. Well, what's that going to be equal to? Well, if you take this AX
+and you multiply it times that AX, you're going to get AX squared. AX, the entire thing squared. And then if you take, if you take this AX and then multiply it times this B, you're going to get ABX. Then if you take this
+B and you multiply it times this AX, you're
+going to get another ABX. ABX. And then last but not
+least, if you take this B and multiply it times the other B, it's going to be plus B squared. And so what are you left with? Well, you're going to be left with A, I'll write it like this, AX squared, we actually if we want, well, I'll write it in a
+different way in a second, and then you have plus, plus two, that's a slightly different color. I'm gonna do that other color. Plus two ABX, and then finally plus B squared. Plus B squared. Now, I said I could write it
+in a slightly different way, what I could do is just
+rewrite-out AX squared as being the same thing. This is the same thing
+as A-squared X-squared, and then I can write out
+everything else the same way. Plus two ABX, and then plus B squared. Now, why did I, what's
+interesting about doing this? Well, now we can see the pattern for the square of any binomial or binomial like this, so for example, if someone
+were to walk up to you and say "alright, I have
+a trinomial of the form," let's say they have a
+trinomial of the form 25X squared plus 20X plus 4, and they were to tell you to factor this, well, actually, let's just do that. Why don't you pause the video and see if you could factor this as
+the product of two binomials. Well, when you look at this, you'd say "well look, there's 25X squared, "that looks like a perfect square. "25X squared, that's the
+same thing as five-squared "x-squared," or you could write it as five X squared. This four here, that's a perfect square. That's the same thing as two squared. And let's see, 20, right over here, if we want it to fit this pattern, we would see that A is five and B is two, and so let's see, what
+would be two times AB? Well, five times two AB would be 10, and then two times that would be 20. So this right over here is, that is plus two times five. Two times five times two times two X. Times two X, I'll do it in this color. Times two X. So you see that this completely
+matches this pattern here where A is equal to five
+and B is equal to two. Once again, this is AX,
+the whole thing squared, then you have two times A times BX, you see that there, and then finally you have the B squared. So if you wanted to
+factor this, you could say "well, this is just
+going to the same thing "since we know what A and B are, "this is going to be five X plus two." Five X plus two. Five X plus two, whole thing squared. So the whole point of doing
+this is to start recognizing when we actually have perfect squares, especially perfect squares
+where the leading coefficient isn't one.

@@ -1,0 +1,94 @@
+In the last video,
+we tried to come up with a somewhat rigorous
+definition of what a limit is, where we say when you
+say that the limit of f of x as x approaches C is
+equal L, you're really saying-- and this is the somewhat
+rigorous definition-- that you can get f
+of x as close as you want to L by making x
+sufficiently close to C. So let's see if we can put
+a little bit of meat on it. So instead of saying
+as close as you want, let's call that some
+positive number epsilon. So I'm just going to use the
+Greek letter epsilon right over there. So it really turns into a game. So this is the game. You tell me how close you
+want f of x to be to L. And you do this by giving me
+a positive number that we call epsilon, which is really
+how close you want f of x to be to L. So you give
+a positive number epsilon. And epsilon is how
+close do you want to be? How close? So for example, if
+epsilon is 0.01, that says that you want f of x
+to be within 0.01 of epsilon. And so what I then
+do is I say well, OK. You've given me that epsilon. I'm going to find you another
+positive number which we'll call delta-- the lowercase
+delta, the Greek letter delta-- such that where
+if x is within delta of C, then f of x will be within
+epsilon of our limit. So let's see if these are
+really saying the same thing. In this yellow definition
+right over here, we said you can
+get f of x as close as you want to L by making
+x sufficiently close to C. This second definition,
+which I kind of made as a little bit more of a
+game, is doing the same thing. Someone is saying how close
+they want f of x to be to L and the burden is then to
+find a delta where as long as x is within delta
+of C, then f of x will be within
+epsilon of the limit. So that is doing it. It's saying look, if we are
+constraining x in such a way that if x is in that
+range to C, then f of x will be as
+close as you want. So let's make this
+a little bit clearer by diagramming right over here. You show up and you
+say well, I want f of x to be within
+epsilon of our limit. This point right over here
+is our limit plus epsilon. And this right over here might
+be our limit minus epsilon. And you say, OK, sure. I think I can get your f of x
+within this range of our limit. And I can do that by
+defining a range around C. And I could visually
+look at this boundary. But I could even go
+narrower than that boundary. I could go right over here. Says OK, I meet your challenge. I will find another
+number delta. So this right over
+here is C plus delta. This right over here
+is C minus-- let me write this down--
+is C minus delta. So I'll find you some
+delta so that if you take any x in the range
+C minus delta to C plus delta-- and maybe
+the function's not even defined at C, so
+we think of ones that maybe aren't C, but
+are getting very close. If you find any x in
+that range, f of those x's are going to be as close
+as you want to your limit. They're going to be within
+the range L plus epsilon or L minus epsilon. So what's another
+way of saying this? Another way of saying this
+is you give me an epsilon, then I will find you a delta. So let me write this in a
+little bit more math notation. So I'll write the
+same exact statements with a little bit
+more math here. But it's the exact same thing. Let me write it this way. Given an epsilon
+greater than 0-- so that's kind of the
+first part of the game-- we can find a delta
+greater than 0, such that if x is within delta of C. So what's another way of saying
+that x is within delta of C? Well, one way you
+could say, well, what's the distance
+between x and C is going to be less than delta. This statement is true for any
+x that's within delta of C. The difference between the two
+is going to be less than delta. So that if you pick an x that
+is in this range between C minus delta and C
+plus delta, and these are the x's that satisfy
+that right over here, then-- and I'll do this in
+a new color-- then the distance between your
+f of x and your limit-- and this is just the
+distance between the f of x and the limit, it's going
+to be less than epsilon. So all this is saying is, if
+the limit truly does exist, it truly is L, is if you give
+me any positive number epsilon, it could be super, super small
+one, we can find a delta. So we can define
+a range around C so that if we take
+any x value that is within delta of C,
+that's all this statement is saying that the
+distance between x and C is less than delta. So it's within delta
+of C. So that's these points right over here. That f of those
+x's, the function evaluated at those x's is
+going to be within the range that you are specifying. It's going to be within
+epsilon of our limit. The f of x, the difference
+between f of x, and your limit will be less than epsilon. Your f of x is going to
+sit some place over there. So that's all the epsilon-delta
+definition is telling us. In the next video, we will
+prove that a limit exists by using this
+definition of limits.

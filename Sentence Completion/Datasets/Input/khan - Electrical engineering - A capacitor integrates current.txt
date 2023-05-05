@@ -1,0 +1,65 @@
+- [Voiceover] So now I have
+my two capacitor equations, the two forms of this equation. One is I, in terms of V, and
+the other is V, in terms of I. Now, we're gonna basically
+look at this equation here, and do a little exercise
+with it, to see how it works. I'm gonna draw a little circuit here. It's gonna have a current
+source, and a capacitor. The value of the capacitor
+is one microfarad. The value of our current
+source, we'll call it I. It's actually gonna look
+like a pulse, like that. It will go from zero to three milliamps, and then back to zero, over here. The amount of time it
+takes, that's gonna be, this time here is gonna
+be, three milliseconds. The question I wanna
+answer is, what is V of T? Right here. We're gonna use this integral
+equation to figure that out. Over here is where we're
+gonna put our answer. This is gonna be T, and this will be I. Here's I. Our plot, right down here,
+will be T, and here's V of T. We'll plot I this way, on here, in time. It's zero. Then, it goes up, to some
+value, and then it goes over. So it's a pulse of current. We said that that was zero,
+this is three milliamps... And this is three milliseconds. Now, what we want to do,
+is we wanna find V of T. One of the things we have to do, we have to make an
+assumption about V, not here. We're gonna assume, for our problem here, that V naught, equals zero volts. What that means is, there's no charge. There's zero charge
+stored on this capacitor, when we start the experiment. Now then, let's look at
+three different time periods. Let's look at the period before the pulse, during the pulse, and after the pulse. We'll break the problem into three parts. Part one is before, and we'll do that, by just looking up here. We decided that V naught, was
+zero, in the before state. Put a little zero there. We decided that I, I is zero, so that means that the term
+inside the integral, is zero. What that means, zero plus
+zero, is equal to V of T. Before the pulse, before the pulse, the capacitor equation tells
+us, the voltage is zero. Okay, now let's go during the pulse. Let's do the second of period of time. Let's do during the pulse. Now, we have to be a little more careful. We have V equals one
+over C, integral from, now time equals zero, to
+time equals sub-time T. What's I during the pulse? Well, it's sitting right here. I is a constant, so we
+write in three milliamps. D tau... Plus, don't forget the starting voltage. What's our starting voltage? Well, we look right here, and
+the starting voltage is zero. Plus zero. Now, we can solve this. V equals one over C, times
+three milliamps comes out... Times the integral, from
+zero to T, of D tau. That equals, let's plug in C this time, three milliamps, divided
+by one microfarad, times, what does this evaluate to? The integral from zero to
+T of D tau, is, just T. Let's do a little bit of
+arithmetic here, to reduce this. Milliamps is 10 to the minus three, and microfarads, is 10 to the minus six. Let me move this up. We'll keep our plots on there. What we end up with is V equals three, 10 to the minus three,
+10 to the minus six, so that's three times 10 to
+the third, or 3,000 times time. What's that? That's the equation of a line,
+and it has a slope of 3,000, what's the units here? This is 3,000 volts per second. I'll go over here, and
+we'll sketch this in. This is gonna be a line,
+that's a straight ramp, with a constant slope, like that. It's gonna be happening
+all during this pulse. We can ask, what's this value right here? What's that voltage right there? Okay, let's work that out. T is three milliseconds. So let's plug in three
+milliseconds, right here. V at three milliseconds,
+equals 3,000 times three milliseconds, and that equals
+three times three is nine. 3,000 times, this is an
+exponent of minus three. It's gonna be nine volts. This value, right here,
+right there, is nine volts. That says the voltage on our capacitor, during the pulse, during
+the current pulse, rises in a straight
+line, up to nine volts. We got that from this
+integral that we did. The capacitor's integrating the current, adding up the current. It's integrating this pulse,
+to get an ever-rising voltage. Okay, so now we've solved
+the capacitor equation, during the pulse. Let's go back now, to what
+happens after the pulse. We'll do that over in
+the corner, over here. Now, let's solve what happens,
+after the current pulse. What happens to this
+voltage, from here on? Does it go down? Does it go up? Does it go straight sideways? Let's find out, and let's use our capacitor equation to do this. Now, what we're doing,
+is we're gonna define, we're gonna do a new integral. We're gonna start at time
+equals three milliseconds. What is our voltage at three milliseconds? What's V naught? V naught, in this case, equals nine volts. That's for this period of
+time, after three milliseconds. We'll use our equation again. V is one over C, times
+the integral of I of tau, D tau, plus V naught. It goes from time... It goes from time, three
+milliseconds, to time T. Time T, now, is out here
+somewhere on the time scale. We know the voltage right
+here, we filled it in. There's the voltage right
+there, we're gonna fill that in. We're gonna work out what's the voltage out here, after three milliseconds? To solve this integral, we look and see, "Well, what's I of tau? "What's I of tau, during this time?" Let's look at our chart. The pulse is at zero. Oh, look. So this whole term right here, this entire term right here is zero. What is V naught? V naught, we decided, was right there. V naught is nine volts. That's where we started from. The answer here, after the pulse goes away, is V equals nine volts. I can sketch that in
+up here, and basically, it just goes straight
+sideways, at the new voltage. That's how we solve a capacitor problem, a really simple one. It happens that we were
+integrating a current pulse, and what we got was a voltage ramp.

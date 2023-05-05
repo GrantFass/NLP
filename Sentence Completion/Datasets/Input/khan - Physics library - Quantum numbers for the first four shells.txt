@@ -1,0 +1,64 @@
+- Now that we understand the four quantum numbers, let's get some more practice using the quantum numbers and thinking about the first four shells, the first four energy levels. So we'll start with n is equal to one. So when n is equal to one, the principle quantum
+number is equal to one, we're talking about the first energy level or the first shell. The angular momentum
+quantum number depends upon the principle quantum number and so when n is equal to one, let's think about the allowed values for l. So l goes from zero, one and all the way up to n minus one. Well n minus one, if n is equal to one and minus one, one minus
+one is equal to zero and so that's the only allowed value for the angular momentum quantum number. And we know l is equal to zero refers to an s orbital. So we're talking about an s orbital here. Alright, the next quantum number is the magnetic quantum number. So ml. So the magnetic quantum number depends on the angular
+momentum quantum number and it goes from negative l to positive l. So if l is equal to zero, we only get one value for the magnetic quantum number. If l is equal to zero, the only possible value we could get is zero. And remember, this tells
+us the orientation. So we only have one possible orientation. We have only one s orbital. So there's an s orbital, there's only one of them here. We know an s orbital is
+shaped like a sphere. So remember, an orbital is the region where you're most likely
+to find an electron here. So there's a total of one orbital in the first energy level and you could have gotten that by using n squared. So when n is equal to one, one squared is equal to one, that's the total number of orbitals that you're going to find in
+the first energy level here. Let's move on to electrons in the orbital. So you can fit a maximum of two electrons in one orbital. So the fourth quantum number, alright, the fourth quantum number says, the spin of an electron
+can either be positive one half or it can be negative one half. And so if you have two electrons in one orbital, one electron has to spin a positive one half and one electron has a spin of negative one half. So there's a maximum of two electrons in one orbital, we have a maximum of two electrons in this one s orbital in the first energy level. And since that's the only orbital in this energy level or this shell, that's also the total number
+of electrons in the shell. So the total number of electrons is equal to two. And you could have gotten
+that using two n squared. So if n is equal to one, so one squared is equal to one times two
+which is equal to two. So that's the first energy level or the first shell. Let's move on to the second shell. So this is where n is equal to two. So if n is equal to two, the principle quantum
+number is equal to two, the angular momentum quantum number, what are the allowed values? Well you start with zero and you go all the way up to n minus one. So we start with zero, n minus one, that would be two minus
+one, that would be one. So we go from zero and then we go to one and then we have to stop. So we have only two allowed values for the angular momentum quantum number. So if you have n equal to two, you get two allowed values here. We already talked about what l is equal to zero means, l is equal to zero refers to an s orbital. And there's one s orbital. So in the second energy level, there's another s orbital. This is different from the s orbital in the first energy level that we just talked about. So there's another s orbital here. It too is shaped liked a sphere. What I drew here is misleading. I drew this as being a little bit smaller then the one before. Remember, when n is equal
+to two, you're further away. You're electron is on average further away from your nucleus here, l is equal to one so if l is equal to one, what is the allowed values for the magnetic quantum number? So remember, the magnetic quantum number goes from negative l to positive l. So negative l would be negative one, and then we include zero and then we go to positive one. So there are three possible values for the magnetic quantum number. One, two, three, the
+magnetic quantum number told us the orientation so there are three different orientations. And we talked about l is equal to one is referring to a p orbital which is shaped like a dumbbell. So we have three different orientations, we have three different p orbitals in the second energy level. One of them goes along the x-axis, one of them the y and one of them the z. So we talked about this
+in the previous video. So a total of three p orbitals here. So how many orbitals are there in the second energy level? Well we have one s orbital
+and three p orbitals. So one plus three gives us four. We could have done this math, n squared, so two is n squared which gives us four. Alright, let's do electrons now. So four, let's go back
+to the s orbital here. Remember, there's one orbital so we can fit a maximum of two
+electrons in one orbital. For the p orbitals, we
+have three p orbitals. If each p orbital's holding a maximum of two electrons, three times two gives us six, so we have a total of eight electrons in the
+second energy level. So eight electrons and we can get that from two n squared again right? Because if n is equal to two, square that and you get four, multiply that by two and you get eight. Alright, let's go to
+the third energy level or the third shell here. So when n is equal to three what are the allowed values for the angular momentum quantum number l? So remember l goes from zero all the way up to n minus one. So l goes from zero all
+the way to n minus one. So l is equal to zero, l is equal to one and l is equal to two
+because three minus one is equal to two, so if we
+have n is equal to three, we have three possible values for l. Zero, one and two. We already talked about what l is equal to zero means, l is equal to zero is an s orbital and there's one of them, l is equal to one is a p orbital and with three allowed values for the magnetic quantum number, we can have three p orbitals in the third energy level. So let's focus in on l is equal to two. So when l is equal to two, what are the allowed values for the magnetic quantum number? Well those go from
+negative l to positive l. So if l is equal to two, let me use a different color here. So if l is equal to two, we could go negative two, negative
+one, zero, one and two. So that's a total of
+one, two, three, four, five, five values. So five different
+orientations for this orbital and when l is equal to two, we call this a d orbital. So five different orientations so five d orbitals. So I'm going to write a five here. So the total number of
+orbitals that we have in this energy level, that would be one plus three plus
+five and so that's nine which we could have
+gotten from three squared. So the total number of
+orbitals equal to n squared, if n is equal to three,
+three squared gives us nine. Alright, how many electrons can we fit in each one of those orbitals? Well, let me once again
+use a different color. So we have the s orbital,
+we have one of those, so we can fit a maximum of two electrons into that s orbital. For the p orbitals in
+the third energy level, we have three of them, so
+each one of those orbitals could fit a maximum of two. So three times two gives us six and then we go to the d orbitals. Alright, so five orbitals. Each one can hold a
+maximum of two electrons so five times two gives us ten. So what's the total number of electrons that we can fit in this third shell here? So that would be two plus six plus ten, that's 18. Alright and again, we could have used this little formula over here. So two n squared, so
+if n is equal to three, square that that's nine
+times two, this gives us 18. Alright, let's do one
+more and before I do that, we already talked about the shape of an s orbital, we talked about the shape of a p orbital, when you get in to things like d orbitals, you
+start to get a little bit complicated and it's a little bit tricky for me to draw. So I'm not going to attempt do draw all the d orbitals in the five different orientations,
+so let's just move on to n is equal to four. I went ahead and rewrote
+what we were going for here. So we're going to go for n, so we're going for n is equal to four now, n is equal to four. What are the allowed values for l? So that's zero all the
+way up to n minus one. So l is equal to zero, l is equal to one, l is equal to two and then n minus one, that's four minus one,
+that's equal to three. So that's the last allowed value for l, the angular momentum quantum number. And once again, if you have four here, you get four allowed values. Alright, when l is equal to zero, we said that's an s orbital. When l is equal to one, we
+said that was a p orbital. When l is equal to two, we call that a d orbital and when l is equal to three, we're going to call this an f orbital. And s, p, d and f come from old nomenclature used in atomic spectroscopy and so it's kind of... It's not really used anymore but like the s, I think, used to stand for sharp and so that's where your
+letters come from here. We used them to think about the orbitals and the different shapes here. So an s orbital is shaped like a sphere, we know we have one of those. A p orbital is shaped like a dumbbell, we know we have three of those. D orbitals, we just talked about the fact that we have five of them. So five different
+possible values here fore the magnetic quantum number. So we have five d orbitals in the fourth energy level and then finally f alright? So an f orbital when l is equal to three, what are the allowed values for the magnetic quantum number? So ml, so what are the allowed values? Well they go from
+negative l to positive l. So if l is equal to three, I'm going to use a different color. If l is equal to three we could get negative three, negative
+two, negative one, zero, one, two and three. So how many different orbitals are we talking about now. That would be one, two, three, four, five, six, seven. So seven f orbitals in
+the fourth energy level. Alright, maximum number of
+electrons in the orbital. We have only one. Let me use, what color should I use here? Let's use magenta. So I have one s orbital,
+maximum two electrons. So two electrons here. Three p orbitals, two times three is six. Five d orbitals in the fourth shell or the fourth energy level, so five times two gives us ten. And then we just talked about f orbitals which would be way too difficult for me to draw so you can get some nice pictures of f orbitals online or in your textbook here. So if we have seven f orbitals, seven times two gives us a total of 14, so we could have a maximum of 14 electrons in the f orbitals. Alright, what's that total? So we add all those up. So two plus six plus
+ten plus 14, that's 32. So there's 32 electrons
+in the fourth shell, in the fourth energy level and once again, we could have used our formula here. So two n squared, so
+when n is equal to four, we square that and we get 16, we'll divide that by two and we get 32. And so hopefully this give you some experience playing with
+the quantum numbers. So you have to be, this
+is a very useful exercise. So just sit down and think about how the quantum numbers
+depend on each other. So l depends on n and ml, the magnetic quantum
+number depends on this. And so it's going to allow you to understand the periodic table and electron configurations.

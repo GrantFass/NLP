@@ -1,0 +1,59 @@
+- [Instructor] Our goal is to define a series of instructions which can prove whether some input integer is
+composite or else identify it as prime with some very
+high degree of accuracy. Which we can define, and it must be efficient to do so. Meaning it should be fast
+to calculate on any machine and even if the input size grows, which is our input integer N, it should still be fast. And so far we've learned
+that at the lowest level this requires some known
+pattern that all primes follow and very few composites follow. However, in the previous video
+we did a visual demonstration of Fermat's little theorem and it provides us with
+a very interesting rule. Given some prime number P
+and some other integer A. Which is just less than P. We know now that P divides
+A to the power of P minus A. We write this as A to the
+power of P equals A mod P and that's the way you'll normally see it. Now because A and P share no common factor since P's a prime, we can use a cancellation law, and you'll sometimes see this written as A to the power of P
+minus one is one mod P, and remember we can only do this because the greatest common divisor
+of A and P equals one, and here I've just set up a demo so we can at first just
+see this equation in action and get comfortable with it. Notice now if I input a prime for P, the output is always one
+no matte what A I choose. If we input a composite number for P, we see that it usually isn't one, and anytime this equation output something that isn't one, we have a composite witness. This is now proof that the
+P we chose cannot be prime, and that's the essence of this test, and before going any deeper, let's just step back and
+construct the frame work for this test using this
+pattern I just showed you. So our test starts. We are provided with some integer. Let's call it P, as input. Next we generate a random integer A. Which is less than P, and now we can as, is the
+greatest common divisor of A and P one? If not, if the greatest
+common divisor of A and P is greater than one, then
+they share a common factor and we've proven that P is composite because a factor exists
+and we can halt and exit and our algorithm will output composite. However, if yes, and we
+can ask the key question, does A to the power of P
+minus one mod P equal one? If not, we have a witness
+that P is composite. We can halt and say we're
+done, P's composite. Otherwise, if yes, if
+our equation outputs one, then it should be prime, right? I coded up this series of instructions, and on the left hand side
+we have Fermat's test, and on the right I just have
+an existing trial division test and that's there because we
+know that test is always correct and just at first glance
+it seems like it's working. However, I found a problem. I hit the number 511,
+and now the Fermat's test is saying it's prime, and
+the trial division test is telling me that it's composite. 511 seems prime from the tests
+perspective but it's not. Now let's just return back to our equation and see what happened. Well this is an example of
+what we call a pseudoprime. It's a composite number
+but there are certain A's we can choose that will output a one. That's incorrect again. So these A's which result
+in a composite number outputting a one, we can call fools, because they're fooling us into
+thinking the number's prime, but notice that if we
+choose different A's, we seem to find many composite
+witnesses instead of fools. So we could maybe just
+step back and let's apply the same logic we used
+in the divisibility test where we simply repeat
+the experiment a few times and generate a new random A each time and hopefully we won't
+pick a fool each time. Now it's been proven
+that the number of fools must divide the total size
+of the group we select from. Which means at most, half of the choices or half of the elements in
+this pool could be fools. So since A is chosen randomly, the chance of finding a composite witness, which is what we want,
+is at lest one half. After T iterations, the
+probability that no witness will be found with a
+composite number is at most one divided by two to the power of T. So after 20 trials the probability of mistakenly outputting a prime is just over one in a million. So that's the case where we just keep getting really unlucky
+and generating random A's and every time we choose I fool. If you can let that sink in, that's really powerful to understand, and here now we can see our test in action with the increase number of trials. It seems to be working perfectly, and notice that in the worst case, which we know is when
+we provide our algorithm with a prime, it's gonna do
+the maximum amount of work. The Fermat test is much more
+efficient than trial division. Especially because the number of steps doesn't scale with the input
+and that's a key distinction. We set the number of trials and that's it. We never have to worry about our algorithm running millions and
+millions of iterations as we did before. So I mean this is
+quintessentially applied math. We are taking a pattern someone discovered and we're saving an immense
+amount of computational cycles. However, there is one tiny
+flaw for error in this system. Can you find it?

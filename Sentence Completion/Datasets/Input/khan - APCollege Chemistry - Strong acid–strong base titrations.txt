@@ -1,0 +1,78 @@
+- [Instructor] Hydrochloric
+acid is an example of a strong acid and sodium hydroxide is an example of a strong base. Let's say we are titrating an unknown concentration
+of hydrochloric acid with a known concentration
+of sodium hydroxide. Let's say it's .20 molar. Because we know the concentration
+of sodium hydroxide, we call that the titrant. And because we don't know the concentration of hydrochloric acid, we call that the analyte. And when our strong
+acid, hydrochloric acid, reacts with our strong
+base, sodium hydroxide, the products are an aqueous solution of sodium chloride and water. As a quick review of
+how to write the overall or the complete ionic equation for a strong acid-strong base reaction, remember that sodium
+hydroxide being a strong base dissociates completely in aqueous solution to form sodium cations
+and hydroxide anions. Hydrochloric acid being a strong acid will ionize completely in aqueous solution to form H+ ions and chloride anions. Sodium chloride is a soluble salt, so an aqueous solution. We would have sodium
+cations and chloride anions. And of course, we would also have water. When writing the net ionic equation, we cross out these spectator ions. So since we have sodium cations
+in left and on the right, we can cross out the sodium cations and the same with the chloride anions. So both of those are the spectator ions. What we're left with is
+our net ionic equation. So one way to write the net ionic equation for a strong acid-strong base reaction is hydroxide anions plus
+H+ cations form water. And our goal for the strong
+acids-strong based titration is to find the concentration
+of hydrochloric acid using a titration curve. Let's say we do our titration and we come up with this
+as a titration curve. For titration curves, you put the pH on the y-axis
+and the titrant on the x-axis. So in this case, we're adding base to our
+solution of hydrochloric acid. And before we use our titration curve to find the concentration
+of hydrochloric acid, let's go through the titration curve and look at some particulate diagrams. And as we look at particulate diagrams, keep in mind they're just
+to help us understand what's going on in the actual solution, so they're are just a representation. And we're also gonna
+leave out water molecules for clarity purposes. So let's think about this
+point on our titration curve. So that's zero milliliters of base added, meaning we're starting only
+with hydrochloric acid. So there are two H+ particles, and there are two
+chloride anion particles. Next, we add in some sodium hydroxide. So the sodium cation is this
+purple sphere right here, and the hydroxide anion
+is over here as well. So we add in some sodium hydroxide to our solution of hydrochloric acid and for the hydroxide
+anion that's neutralized by one of the H+ ions that's present. So the OH- and the H+ react to form H2O. And since we're leaving H2O out
+of our particulate diagrams, we don't see it in this
+second particulate diagram. What we do see in this
+second particulate diagram are the chloride anions
+that were initially present. So here they are. And the other H+ ion that
+was initially present and the added sodium cation. And since there's still an
+H+ cation left in solution, we haven't neutralized all of the acid that was initially present. So next, we add some
+more sodium hydroxide. So here we're adding a sodium cation, and we're also gonna
+add this hydroxide anion to our solution. The added hydroxide
+anion will be neutralized by the H+ ion that's already present. They will form water. And since we're leaving water out of the particulate diagrams, we don't see water in this
+third particulate diagram. What we do see in our third
+particulate diagram here are the two chloride anions
+that have always been with us in the titration. We had one sodium cation already present, and then we added one more sodium cation. So this third particulate
+diagram represents the equivalence point of our titration. All of the acid that we
+initially had present has been neutralized by the added base and we're left with an aqueous
+solution of sodium chloride. So there are only sodium cations and chloride anions in solution. At 25 degrees Celsius, the pH of water is equal to seven. And since neither the sodium cation nor the chloride anion will react with water to change the pH, the pH at the equivalence point of a strong acid-strong
+base titration is seven. And we can find the equivalence
+point on our titration curve by going over to a pH of about seven here. And if we draw a little dash line, wherever that dash line
+hits our titration curve, represents the equivalence point. So the first particulate diagram was before any base was added. So that's this point
+on our titration curve. The third particulate
+diagram is meant to represent the equivalence point, so this point on our titration curve. And our second particulate diagram was when we haven't neutralized all of the acid that's present. So that's in between those two points on the titration curve. Also notice how steep the graph is around the equivalence
+point of this titration. Therefore, adding very small amounts of base around the equivalence point causes large changes in
+the pH of the solution. Let's go back to our particulate diagram at the equivalence point, and let's add some more sodium hydroxide. So we add one more sodium cation and one more hydroxide anion. This time, since there's no more acid to neutralize the added hydroxide anion, in our fourth particulate diagram, here's our hydroxide anion. And one of these sodium cations is the one that we just added. And we still have the chloride
+anions and the sodium cations that were present at
+the equivalence point. So this fourth particulate
+diagram represents the titration after the equivalence point
+when we're adding excess base. And we can see on our titration curve, as we continue to add excess
+base, the pH keeps increasing. Now that we've gone through
+the particulate diagrams for our strong acid-strong base titration, let's get back to our original problem which was to find the
+initial concentration of hydrochloric acid. And we can do that by figuring out how many milliliters of base were added to get to the equivalence point. So if we just drop down
+here on our titration curve, we can see that after
+50 milliliters of base have been added, the equivalence point has been reached. Therefore, it took 50 milliliters of our .20 molar solution
+of sodium hydroxide to completely neutralize the hydrochloric acid that
+was originally present. And if we know the initial volume of the hydrochloric acid solution, let's say it was 100 milliliters. We can calculate the concentration using the MV is equal to MV equation. So for our equation, let's think about acid
+being on the left side. So we don't know the
+concentration, the molarities, we make that x. And for the volume of the acid, it's 100 milliliters. So we plugged that into our equation. On the right side, let's think about this being the base. So we know the molarity of the base, it's .20 molar. And we also know the volume of base that was necessary to
+reach the equivalence point which is 50 milliliters. Solving for x, we find that
+x is equal to .10 molar. So that was the initial concentration of our hydrochloric acid solution. And notice on our titration curve, remember we started with
+only hydrochloric acid. So we start with a very low pH if we're titrating a strong
+acid with a strong base. As we add more and more
+of the strong base, the pH increases. We've just looked at the titration curve of a strong acid with a strong base. Let's compare that
+titration curve to this one which is the titration of a
+strong base with a strong acid. Since we're starting with a strong base, notice how the initial pH is very high. And since we're adding acid
+notice down here on the x-axis, it now says milliliters of acid added. As acid is added, we can see the pH dropping slowly. And as we approach the equivalence point, we see a large drop in pH
+with small additions of acid. However, the pH at the equivalence point is still equal to seven. So if we find a pH of seven on the y-axis and go over to our titration curve, this point represents
+the equivalence point. And we can drop down to the x-axis and we would see it took
+20 milliliters of acid to neutralize the base
+that was initially present. Finally, once we go past
+the equivalence point, we can see as we add more and more acid, the pH keeps getting lower. So this titration curve of a
+strong base with a strong acid is essentially the reverse of the first titration curve that we saw which was the titration of a
+strong acid with a strong base.

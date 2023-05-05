@@ -1,0 +1,147 @@
+The position of a
+particle moving along a number line is
+given by s of t is equal to 2/3 t to the third
+minus 6t squared plus 10t, for t is greater
+than or equal to 0, where t is time in seconds. The particle moves both left and
+right in the first 6 seconds. What is the total distance
+traveled by the particle for 0 is less than or equal to t
+is less than or equal to 6? So let's just remind
+ourselves what they mean by total distance. If I were to say
+start there, and if I were to move 3
+units to the right and then I were to move
+4 units to the left, and I'll say negative 4 to show
+that I'm moving to the left, then my total distance
+right over here is 7. 3 to the right
+and 4 to the left. Even though my position
+right over here is going to be negative 1. Or you could say
+my net distance, or you could say my
+displacement is negative 1. I'm 1 to the left
+of where I started. The total distance is 7. So now we've clarified that. I encourage you to
+now pause this video and try to answer the question. What is the total
+distance traveled by the particle in
+these first 6 seconds? So the easiest way I
+can think of addressing this is to think
+about, well, when is this thing
+moving to the right and when is it
+moving to the left? And it's going to be
+moving to the right when the velocity is
+positive, and it's going to be moving to the left
+when the velocity is negative. So this really boils
+down to thinking about when is the velocity
+positive or negative. And to think about
+that, let's actually graph the velocity function
+or make a rough sketch of it. So this is the
+position function. The velocity function
+is going to be the derivative of the position
+function with respect to time. So the derivative of
+2/3 t to the third is going to be 2t squared. And then we have
+minus 12t plus 10. And so let's just
+try to graph this. This is going to be an
+upward opening parabola. This is clearly a quadratic. And the coefficient on
+the second degree term, on the t squared term,
+is a positive number, so it's going to be an
+upward opening parabola. It's going to look
+something like this. And we're assuming that
+it switches direction. So it's going to be
+positive some of the time and negative for
+some of the time. So it should intersect the
+t-axis where it's negative. The function is going to be
+negative in that interval, and it's going to be positive
+outside of that interval. So the easiest thing
+I could think of doing is let's try to find
+what the 0's are. Then we can draw this
+upward opening parabola. So to find its 0's, let's
+just set this thing equal to 0 so we get 2t squared minus
+12t plus 10 is equal to 0. Divide both sides by 2
+just to get rid of this 2, make this leading
+coefficient a 1. We get t squared minus
+6t plus 5 is equal to 0. That made it a lot
+easier to factor. This can be factored into
+t minus 1 times t minus 5. Negative 1 times
+negative 5 is 5. Negative 1 plus negative
+5 is negative 6. This is equal to 0. So this left hand
+side of the equation is going to be equal to 0 if
+either one of these things is equal to 0. Take the product of
+two things equaling 0, well, you get 0 if
+either one of them is 0. So either t is equal to
+1 or t is equal to 5. So now let's graph it. So let's draw our axes. So I could say that's
+my velocity axis. And let me draw
+the-- we only care for positive values of time. So let's draw
+something like this. Positive time. And let's see. Let's take that 1, 2, 3, 4, 5. We could keep going. So this is t equals 1. This is t is equal to 5. This is our t-axis. And let's graph it. So it's going to be an
+upward opening parabola. It's going to intersect
+both of these points. And so its vertex
+is going to be when t is equal to 3 right
+in between those points. So it's going to look
+something like this. That's the only way to make an
+upward opening parabola that intersects the t-axis
+at both of these points. So it'll go like that,
+and it'll go like this. It'll intersect. When t equals 0, we
+actually can figure out. When t equals 0
+our velocity is 10. So the v-intercept, we could
+say, is 10 right over here. So that's what it looks like. So we see that the velocity
+is positive for time between 0 and 1. And it's also positive for
+time is greater than 5 seconds. And we see that our
+velocity is negative, or that we're moving to the
+left, between 1 and 5 seconds. The velocity is below the
+t-axis right over here. It is negative. So let's just think about
+what our position is at each of these points, at
+time 0, at time 1, at time 5, and what we care about time 6. And then think about
+what the distance it would have had to
+travel between those times. So let's think about it. So let's make a
+little table here. Let's make a little table. So this is time, and this is
+our position at that time. So we care about time 0,
+time 1, time 5 seconds, and time 6 seconds. So at 0 seconds, we know
+that our position is 0. S of 0 is 0. At 1 second, this is going
+to be 2/3 minus 6 plus 10. So it's going to be 4 and 2/3. So I'll write down 4 and 2/3. At 5 seconds, let's
+see, it's 2/3 times-- I'm going to write
+this one down. So it's going to
+be 2/3 times 125. That's the same
+thing as 250 over 3, which is the same thing. Let's see, 250 over 3. That's the same. 83 times 3 is 249, so
+this is 83 and 1/3. That's this first term. Minus 6 times 25. So that's going to be
+minus 150 plus 10 times 5. So plus 50. So this is going to simplify. Minus 150 plus 50, that's
+going to be minus 100. 83 and 1/3 minus 100. That's going to be
+negative 16 and 2/3. So negative 16 and 2/3 is
+its position after 5 seconds. And then at the 6
+seconds, it's going to be 2/3 times 6 to the third. I have to write this one down. 2/3 times 6 to the third
+minus 6 times 6 squared. Well, that's just going to be
+minus 6 to the third again. 6 times 6 squared plus 60. And let's see. How can we simplify
+this right over here? Well, this part
+right over here we can rewrite as-- we could
+factor out as 6 to the third. This is 6 to the third
+times 2/3 minus 1 plus 60. Scroll down a little bit
+and get some more space. So it's going to be 6 to
+the third times negative 1/3 plus 60. And let's see. Let's write it this way. This is going to be 6 squared
+times 6 times negative 1/3 plus 60. This right over
+here is negative 2. So it's negative 2 times 36. This is negative 72 plus 60. So this is going to be
+negative 12 right over there. So now we just have to
+think, how far did it travel? Well, it starts
+traveling to the right. It's going to travel
+to the right 4 and 2/3. So let's write this down. So we're going to
+have 4 and 2/3. And then it's going
+to travel to the left. Let's see, to go from 4 and
+2/3 to negative 16 and 2/3, that means you traveled
+4 and 2/3 again. You traveled 4 and
+2/3 to the left, and then you traveled another
+16 and 2/3 to the left. Just a reminder, we're 4
+and 2/3 to the right now. We have to go 4 and 2/3 to
+the left back to the origin, and then we have to go 16
+and 2/3 again to the left. So that's why this
+move from here to here is going to be 4 and 2/3 to
+the left followed by 16 and 2/3 to the left. Another way to think
+about it, the difference between these two
+points is what? It's going to be 4 and
+2/3 plus 16 and 2/3. If you do 4 and 2/3 minus
+negative 16 and 2/3, you're going to have, that's
+the same thing as 4 and 2/3 plus 16 and 2/3. And then to go from negative
+16 and 2/3 to negative 12, that means you went another
+4 and 2/3 now to the right. So now this is 4 and 2/3. Now you're moving 4
+and 2/3 to the right. And so we just have to
+add up all of these. We just have to add up
+all of these values. So what is this going to be? So this is going to be 2/3
+times 4, so this part of it right over here, the
+fraction part of it. 2/3 times 4 is 8 over 3. And let's see, 4 plus
+4 plus 16 plus 4 is 28. So 28 and 8/3, that's a very
+strange way to write it. Because 8/3 is the same
+thing as 2 and 2/3. So 28 plus 2 and
+2/3 is 30 and 2/3. So the total distance
+traveled over those 6 seconds is 30 and 2/3 units.

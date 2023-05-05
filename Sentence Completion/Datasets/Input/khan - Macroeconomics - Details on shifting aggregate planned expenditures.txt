@@ -1,0 +1,146 @@
+I want to now build on
+what we did in the last video on the Keynesian Cross and planned aggregate expenditures and
+fill in a little bit more on the details and think
+about how this could be of useful conceptual tool
+for Keynesian thinking. Let's just review a little bit. I'll rebuild our planned
+aggregate expenditure function, but I'll fill in
+little bit of the details. Let's say this is
+planned, planned aggregate expenditures and this
+is going to be equal to consumption. You'll often see it in a
+book written like this: Consumption as a function
+of aggregate income minus taxes and I want
+to be very clear here. They're not saying that
+this term should be aggregate income times aggregate income minus taxes. They're saying that
+consumption is a function of this right over here;
+the same way we would say that F is a function of
+X, but if you give me a Y-T or essentially if
+you give me a disposable income right over here, I
+will give you a consumption. If you actually want to
+deal with this directly mathematically, analytically,
+you'd have to define what this function is, but
+I'll write it like this now and in the next step
+I'll actually define what our consumption function is. This is just saying an
+arbitrary consumption function and it is a function of disposable income. It's going to be your
+consumption function plus your planned investment,
+which we're going to assume is constant, plus
+government expenditures plus net exports. Plus net exports. A couple of videos ago we
+built some simple models for consumption function so
+let's put one of those in. Let's say that our consumption function, so aggregate consumption is a function of disposable income, as a function of income minus taxes. Let's say that's going to be equal to some autonomous expenditure plus the marginal propensity to consume. (Maybe I don't have to keep
+switching colors because we've seen this before.) Plus the marginal propensity to consume times disposable income.
+Times disposable income. Now you see that consumption, aggregate consumption is being defined. It's being defined as a function of disposable income. That's what that notation
+right over there means. We could substitute
+this function expression with this stuff in green right over here. We can say aggregate planned expenditure, is equal to, this is our
+consumption function, so it's equal to (Oh,
+I'll do it in that same yellow.) it's equal to
+autonomous consumption plus the marginal
+propensity to consume times disposable income which
+is aggregate income minus taxes and then of course we have the other terms plus planned investment plus government spending plus net exports. Plus net exports. Then we can simplify
+this a little bit just so it makes clear what parts
+of this are constant and what parts aren't,
+what parts are a function of income. For the sake of this little
+lesson right over here, you might remember a few videos ago, we can have a debate
+whether taxes should be a function of income or not. In the real world, taxes
+really are a function of income, but for the
+sake of this analysis we'll just assume that like investment, planned investment,
+government spending and net exports, we'll assume for the sake of this presentation we're
+going to assume this is constant. Assume that this is constant. This is constant. If we assume that that's
+a constant, we can multiply (And actually even if we didn't assume it's a constant
+we could still multiply, but then we'd want to
+redefine this in terms of Y) but we can distribute the C1 and so we get - We get; I don't have
+to keep writing that - this part right over here, we have our autonomous expenditures, (C1xY)+(C1 x aggregate
+income) - the marginal propensity to consume
+times taxes + all of this other stuff. Actually I could just copy and paste that, plus all of this other stuff. Let me copy it and then let me paste it. Plus all of this other
+stuff and that is equal to our planned expenditures;
+planned expenditures. Now we can think about well
+this part right over here, this is the function,
+this is how aggregate income is really driving it. Everything else is really a constant here. Let's write it in those terms. Let's write it in those terms. We have aggregate planned
+expenditure is equal to the marginal propensity
+to consume times our aggregate income;
+times our aggregate income. That's this term right over here. I'll box it off. Everything else is a
+constant, so plus the C sub 0 which was our autonomous expenditures, minus (C sub 1 X T) so the marginal propensity
+to consume times T and these are both
+constants for the sake of our analysis so this
+whole thing is a constant and then plus all that other stuff. Then plus all of that other stuff there. This might look like a
+really fancy, complicated formula, but it's actually
+pretty straight forward because we're assuming for
+the sake of our analysis that all of this, all
+of this right over here, all of this is constant. If you were to plot this right over here, it would look something like this. Let us plot it. Really this is almost
+exactly what we did in the last video, but we're now
+filling in some details. Our independent variable is going to be aggregate income or
+GDP, however you want to view it, and then our
+vertical axis is expenditures. Expenditures. Expenditures and so if
+we wanted to plot this, the constant part, this
+thing right over here, if I were to redefine
+this whole thing as B, that would be where we intersect the vertical axis, that B right over there. I could rewrite this whole
+thing, but that would just be a pain so I'll
+just call this B, but this whole thing is B and then we'd have an upward sloping line
+assuming that C1 is positive. It's going to have a slope less than one. We're assuming that people
+won't be able to spend more than their aggregate income. They're only going to
+spend a fraction of their aggregate income. This is going to be between zero and 1. We will have our aggregate
+planned expenditures would be line that might
+look something like this. Aggregate planned expenditures. To think about our
+Kenyesian Cross, you can't have an economy in equilibrium
+if aggregate output is not equal to aggregate expenditures. To think about all of
+the different scenarios where the economy is in
+equilibrium, we draw a line at a 45 degree angle because
+at every point on this line, output is equal to expenditures. Output is equal to
+expenditures so we get our 45 degree line looks something like this. Just as a little bit of
+review, what this is really saying is look out of
+this, if we have this aggregate planned
+expenditures, this is going to be the equilibrium point. This is the point where expenditures is equal to output. If for whatever reason
+the economy is performing, is outputting above
+that equilibrium point, then output which is this line. This line could be used
+as output or expenditures because it's the line where they're equal to each other. This is where actual
+output is outperforming planned expenditures I
+should say and you have all this inventory building up. You have all this inventory
+building up and so the actual investment would be larger than the planned investment
+because you have all that inventory built up. If output is below equilibrium, then the planned
+expenditures are higher than output and so people are essentially; the economies are going
+to have to actually dig in to inventory. The actual investment is
+going to be lower than the planned investment. It will be dug into a
+little bit because that eating into the inventory,
+it would be considered to be negative investment. Now the whole reason that
+I set up this whole thing, this was all review
+maybe with a little bit more detail than we did in the last video, is beyond using the
+Keynesian Cross for this kind of equilibrium
+analysis, is to use it to go into the Keynesian
+mindset of how can we actually change the
+equilibrium then because if we just change the
+output, it's natural if output is too high, inventories build up. People will say oh my
+inventories are building up. I'm going to produce
+less, output will go down. If inventories are being eaten into, they'll produce more
+and we'll go back to the equilibrium. But what if the equilibrium is not where, in our opinion, the economy should be? What if it's well below full employment? What if it's well below our potential? For example, what if the
+economy's potential at full employment is an
+output that is something over here. You could debate what that
+point is, but how do you get it to there because
+you can't just increase the supply; you can't just
+increase the output; that will just make our inventories build up. From a Keynesian point
+of view, we could say well you want to just
+shift this actual curve and there's a bunch of
+ways in which you can shift the curve. In general, you can change
+any of these variables right over here, all the
+things that we assumed are constant, and that
+would shift the curve. For example, the government
+could say hey, I'm going to take; the G was at some level. What if I pop that G up? What if I turn that into
+whatever our existing G is and then we add some change in G? They add some incremental. Well now this is going
+to be bigger by this increment right over here. Maybe we'll call it this right over here. What will happen to the curve? It will shift up by that increment. Let's see what happens
+when we shift the curve up by that increment and I'll do that in that magenta color. If we shift this curve up by delta G, if we shift it up by delta
+G, it's going to look something like this. You're not changing
+the slope of the curve. That's this right over here. You're just changing its
+intercept, so we just added delta G up here. This would be B, the
+original B plus delta G. I guess you could say it that way. Our new planned expenditures might look something like this. Our new planned expenditures
+might look something like that and that's
+pretty interesting because now our equilibrium point
+is at a significantly higher point. Our equilibrium point, our
+change in our equilibrium, so our delta in output
+actually went up by more. Our delta in output was
+larger than our change in spending so it seems
+like it was well worth it if you believe this analysis right here. Visually the reason why
+it happened was because this line right here had a lower slope. The new intersection point
+between it and essentially a slope of 1, it had
+to be pushed out more. What we'll see in the
+last video is that this actually works out mathematically as well. It's consistent with
+what we learned about the multiplier effect and
+that's actually the reason algebraically why this
+is happening, why you're getting a bigger change in output than the incremental shift in demand. That's because of the
+multiplier effect and we'll see it in the next video.

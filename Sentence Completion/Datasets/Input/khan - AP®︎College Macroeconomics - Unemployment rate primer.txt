@@ -1,0 +1,126 @@
+Voiceover: What I want to do in this
+video is think a little bit about how the unemployment
+rate is actually computed by the Bureau of Labor Statistics. So to figure that out let's just start
+off with the entire U.S. population. So let me draw a big
+circle here that represents the entire U.S. population. U.S. population and right now
+if my numbers are correct, the latest numbers are 304 million people. Now, not all of those 304 million
+people are capable of working, including my two and a half year
+old son or my newborn daughter so you have to think of, when
+you think about unemployment, you want to think about the
+percentage of these people that are actually old enough to work. That actually can be
+employed theoretically. So let's take a subset
+of that U.S. population and let's think about who's essentially
+an adult, who's working age. So this subset right over
+here is 16 years and older, so people who can legally work
+and the numbers I have here is that this is 100- sorry, this right here
+is 237 million people. 237 million people. Now we can't just say all of
+these people could possibly work because a lot of them are in college,
+some of them are in high school, some of them might not
+have the ability to work, some of them might be retired. So what we want to do is take
+a subset of this population, that is essentially part of the
+labor force in that they are working or they are actively looking for work. So let me draw that right over here. So this right over here
+is the labor force. Labor force, so these are not
+retirees or people who are in college. Those people would be sitting
+right over there assuming they're 16 years or older. The labor force, so this is working or- or I should say working and
+actively looking for work, and we'll think about what
+actively looking for work means in a little bit more
+depth in a few minutes. Actively looking for work. And that number if my numbers are
+correct is right around 154 million although the numbers
+here aren't so important, the more important thing is
+how the unemployment rate itself is calculated. And so then within the labor
+force you have a subset, so this is working and actively
+looking for work, so you have a subset of the labor force that is
+actively looking for work. So they don't have a job but
+they're actively looking. So this right here is
+unemployed and actively looking. Actively looking and this
+actively looking is probably more important than you
+might realize at first. And this number, let's just
+say for the sake of argument, this is sitting at
+around 15 million people. 15 million people. So if you have a job
+you're right over here, if you don't have a job
+but are actively looking you're going to be right over here. What we're going to see in a little
+bit is if you don't have a job but you are not actively looking
+but you could be working, you would actually be sitting out here. This is going to be
+interesting when we think about trends in the unemployment
+rate when it goes up or down. But just to see how the
+unemployment rate is calculated, let's just do it for this example. So the unemployment rate- unemployment rate is literally
+just the number of unemployed over the entire labor force. So in this situation
+it would be 15 million- so that's just the number of
+unemployed and actively looking over the entire labor force. Over 154 million and so if
+we get my handy TI-85 out, that gives us in this
+example right over here, an unemployment rate of
+15 divided by 154 million. So it's about 9.7, if we write
+it as a decimal it's 0.097, if we write it as a percentage
+this would be 9.7 percent. This is approximately 9.7 percent. Now I told you that the details
+are going to be important and the reason why they are is
+because interesting things happen when people stop looking for work
+or when they start looking for work. So I said unemployed and actively looking
+puts you in this bucket over here. If you're unemployed,
+if you don't have a job, and you're not actively looking you're
+actually not in the labor force. And so you might be saying,
+"Sal, what does it mean "to be actively looking for work?" And this means that you've looked for
+a job or you are actively searching in the past, let me do this in a
+new color, in the past four weeks. Past four weeks. And you might say, "Sal, how do they
+know whether these 15 million people "have actively searched for
+jobs in the past four weeks?" And the answer is they do a survey. They're not going to survey every
+human being in the labor force or the U.S. population or all
+15 million that are unemployed, that would be logistically impossible. What they do is they do a
+survey and right now they do about 60,000 people every month
+and they essentially ask them are you employed, are you
+unemployed, if you are unemployed have you looked for a job
+in the past four weeks? If you have looked for a
+job in the past four weeks as an unemployed person you get
+thrown into this bucket right here, you're actively looking. You're still part of the labor force. But if you've gotten so discouraged
+that you're no longer looking for work, maybe you've given up, then you
+get thrown out of the labor force. And that is what most
+people don't realize. If things get bad enough and
+people get really discouraged, you have people actually
+exiting the entire labor force. To see how that affects the numbers, imagine a situation. So this is the unemployment
+rate right now. There's 15 million
+people who are unemployed and actively looking for work. Let's say that this is just a
+horrible recession or depression and five million of these
+people get so discouraged they don't, in the last four weeks,
+they do not look for work anymore. So they maybe even stop altogether
+or they want to take a break. So what we're going to do is we're
+going to take five million people out of this bucket over here. So we're going to take five
+million people and move them out over here, outside of the labor force. If you did that, what happens? Well now the official unemployed
+number is now going to be 10 million, it's now going to be 10 million. And what's the labor force number? Remember they went completely out
+of this green circle over here. So they've also left the labor force. So the labor force number
+is now 149 million. So in this bad situation where
+people have left the labor force the unemployment rate would
+now be 10 million people unemployed and actively looking
+for work over a labor force of 149 million, the labor force has
+shrunk because they're so discouraged. So what do we get there
+as our unemployment rate? We have 10 divided by 149,
+it gives us 6.7 percent. So this is fascinating. If things get bad enough and people
+actually exit the labor force, then the unemployment rate could go down
+because the labor force is shrinking. The other thing could also happen,
+maybe things get really good, maybe things get really good
+and you have 10 million people who are sitting out here, they're
+either marginally attached workers which are people who are hoping
+to get a job but haven't looked for a job in the past four weeks,
+or they could be discouraged workers who have altogether, they
+wouldn't mind working, but they've given up altogether
+looking, but you can imagine it when the economy gets good, let's say
+we're starting from this baseline here, when the economy gets good and all
+of these people who are unemployed but not part of the labor force all
+of a sudden start looking for work. So then they'd be part of
+the official unemployed. So this 10 million would
+grow to 20 million, 20 million so now this
+number is 20 million and this green area would
+go up by 10 million. So now this would be 159 million. So in this situation, the official
+unemployed would be 20 million, and the entire labor force
+would be 159 million, and now you would get a situation- so you have 20 divided by 159 million, which is 12.6 percent. 12.6 percent, approximately 12.6 percent. So the whole point of this video, I'm
+not saying that the unemployment rate, the way it's calculated is wrong or
+that's it supposed to be misleading, I just want to give you a little
+bit of nuance that it doesn't always give the complete picture, in
+particular that one number, and there's other unemployment rates
+that give a little bit more nuance here, but this one headline unemployment rate
+that is typically given on the news doesn't capture the whole story. In particular it doesn't
+capture the people who might
+be exiting the labor force when things are bad, so in that
+situation the unemployment rate would probably be understating
+how bad things are, and it also doesn't capture the people
+who are entering the labor force, and that situation the unemployment
+rate would probably make things look worse than they are when
+things might actually be improving.

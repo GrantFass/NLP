@@ -1,0 +1,58 @@
+- [Voiceover] So here I want to talk about the gradient and the
+context of a contour map. So let's say we have a
+multivariable function. A two-variable function f of x,y. And this one is just
+gonna equal x times y. So we can visualize
+this with a contour map just on the xy plane. So what I'm gonna do is I'm gonna go over here. I'm gonna draw a y axis and my x axis. All right, so this right here represents x values. And this represents y values. And this is entirely the input space. And I have a video on contour maps if you are unfamiliar with them or are feeling uncomfortable. And the contour map for x times y looks something like this. And each one of these lines
+represents a constant value. So you might be thinking that you have, you know, let's say you want a the constant value for f of
+x times y is equal to two. Would be one of these lines. That would be what one of
+these lines represents. And a way you could think about that for this specific function is you saying hey, when
+is x times y equal to two? And that's kind of like the graph y equals two over x. And that's where you would
+see something like this. So all of these lines, they're representing constant
+values for the function. And now I want to take a
+look at the gradient field. And the gradient, if you'll remember, is just a vector full of the
+partial derivatives of f. And let's just actually write it out. The gradient of f, with
+our little del symbol, is a function of x and y. And it's a vector-valued function whose first coordinate is the partial derivative
+of f with respect to x. And the second component is the partial derivative
+with respect to y. So when we actually do
+this for our function, we take the partial
+derivative with respect to x. It takes a look. X looks like a variable. Y looks like a constant. The derivative of this whole thing is just equal to that constant, y. And then kind of the reverse for when you take the partial derivative
+with respect to y. Y looks like a variable. X looks like a constant. And the derivative is
+just that constant, x. And this can be visualized
+as a vector field in the xy plane as well. You know, at every given point, xy, so you kind of go like x equals two, y equals one, let's say. So that would be x
+equals two, y equals one. You would plug in the vector and see what should be output. And at this point, the point is two, one. The desired output kind of swaps those. So we're looking somehow to
+draw the vector one, two. So you would expect to
+see the vector that has an x component of one
+and a y component of two. Something like that. But it's probably gonna be scaled down because of the way we
+usually draw vector fields. And the entire field looks like this. So I'll go ahead and
+erase what I had going on. Since this is a little bit clearer. And remember, we scaled
+down all the vectors. The color represents length. So red here is super-long. Blue is gonna be kind of short. And one thing worth noticing. If you take a look at all
+of the given points around, if the vector is crossing a contour line, it's perpendicular to that contour line. Wherever you go. You know, you go down here, this vector's perpendicular
+to the contour line. Over here, perpendicular
+to the contour line. And this happens everywhere. And it's for a very good reason. And it's also super-useful. So let's just think about
+what that reason should be. Let's zoom in on a point. So I'm gonna clear up our function here. Clear up all of the information about it. And just zoom in on one of those points. So let's say like right here. We'll take that guy and kind of imagine zooming in and saying what's
+going on in that region? So you've got some kind of contour line. And it's swooping down like this. And that represents some kind of value. Let's say that represents
+the value f equals two. And, you know, it might not
+be a perfect straight line. But the more you zoom in, the more it looks like a straight line. And when you want to
+interpret the gradient vector. If you remember, in the
+video about how to interpret the gradient in the context of a graph, I said it points in the
+direction of steepest descent. So if you imagine all the possible vectors kind of pointing away from this point, the question is, which
+direction should you move to increase the value of f the fastest? And there's two ways
+of thinking about that. One is to look at all of
+these different directions and say which one increases x the most? But another way of doing it would be to get rid of them all and just take a look
+at another contour line that represents a slight increase. All right, so let's say you're taking a look at a contour line, another contour line. Something like this. And maybe that represents
+something that's right next to it. Like 2.1. That represents, you know,
+another value that's very close. And if I were a better artist, and this was more representative, it would look like a line that's parallel to the original one. Because if you change the output by just a little bit, the set of in points that look like it is pretty much the same but
+just shifted over a bit. So another way we can think
+about the gradient here is to say of all of the vectors that move from this output of two up to the value of 2.1. You know, you're looking at all of the possible different
+vectors that do that. You know, which one does it the fastest? And this time, instead of
+thinking of the fastest as constant-length vectors, what increases it the most, we'll be thinking, constant
+increase in the output. Which one does it with
+the shortest distance? And if you think of them as
+being roughly parallel lines, it shouldn't be hard to convince yourself that the shortest distance isn't gonna be, you know, any of those. It's gonna be the one that connects them pretty much perpendicular
+to the original line. Because if you think about these as lines, And the more you zoom in, the more they pretty much
+look like parallel lines, the path that connects one to the other is gonna be perpendicular to both of them. So because of this
+interpretation of the gradient as the direction of steepest descent, it's a natural consequence that every time it's on a contour line, wherever you're looking it's actually perpendicular to that line. Because you can think about it as getting to the next contour
+line as fast as it can. Increasing the function as fast as it can. And this is actually a
+very useful intepretation of the gradient in different contexts. So it's a good one to keep
+in the back of your mind. Gradient is always
+perpendicular to contour lines. Great. See you next video.

@@ -1,0 +1,119 @@
+We've already looked at
+a carbon-hydrogen bond, and in the last video, we actually calculated
+an approximate wavenumber for where we would expect the signal for a carbon-hydrogen
+bond stretch to appear on our IR spectrum. And we got a value of a little
+bit over 3000 wavenumbers. However, that wavenumber depends
+on the hybridization state of this carbon. So let's look at some examples here. So, if we look at an
+example where the carbon is sp-hybridized, so we know this
+is an sp-hybridized carbon because we have a triple bond here, so we're talking about
+a carbon-hydrogen bond, where the carbon is sp-hybridized, the signal for this
+carbon-hydrogen bond stretch shows up about 3300 wavenumbers. If we look at this next example here, so now we have a carbon that
+has a double bond to it, so it must be sp2-hybridized, so we're talking about
+a carbon-hydrogen bond, where the carbon is sp2-hybridized, the signal for this
+carbon-hydrogen bond stretch shows up about 3100 wavenumbers. And then finally, if we look
+at a situation where we have only single bonds to this carbon, we're talking about an
+sp3-hybridized carbon here, so we're talking about
+a carbon-hydrogen bond where the carbon is sp3-hybridized. The signal for this
+carbon-hydrogen bond stretch shows up about 2900 wavenumbers. And so, how do we explain
+these different wavenumbers, because they're all carbon-hydrogen bonds? Well, we need to think
+about the hybridizations. So let's do that. So if we look at the sp-hybridized carbon, remember, that means that this
+carbon has two sp-hybrid orbitals. And an sp-hybrid orbital
+has the most s character out of all these orbitals
+we've discussed here. So, actually 50% s character, if you remember that from
+the videos on hybridizations. So 50% s character for
+an sp-hybridized orbital. For an sp2-hybridized orbital, it's about 33% s character. And finally for an sp3-hybridized orbital, it's about 25% s character. And so going back to the
+sp-hybridized carbon, so the sp-hybrid orbital
+is 50% s character. That means-- remember what that means. The electron density is
+closest to the nucleus. So, if that's the case, then we're talking about
+this bond right here, this bond being the shortest bond, because the electron density
+is closest to the nucleus. the more s character you have. And if this is the shortest bond, it must be the strongest
+bond out of these three that we're talking about. So this carbon-hydrogen bond, where the carbon is sp-hybridized, is stronger that the carbon-hydrogen bond where the carbon is sp2-hybridized. This bond, though, has more
+s character than this one, so this bond is stronger than this one. So this order of bond strength
+explains the wavenumbers, because if you remember
+from the previous video, the bond strength affects
+the force constant, or the spring constant k, so as you increase in bond strength, you increase k, and we
+saw that increasing k increases the frequency,
+or the wavenumber. So this increases the
+frequency of bond vibrations, or increases the wavenumber
+where you would find the signal on your IR spectrum. And so since this is the strongest bond, this is the highest
+value for the wavenumber, so we're going to find this
+signal more to the left on our IR spectrum when
+we're looking at it. Alright, now that we understand this idea, so the hybridization, we can look at some IR
+spectra for hydrocarbons, and we can analyze those. Let's do that. First, let's compare alkanes and alkynes. Let's go down here, and
+let's look at some spectra. So let me just go down here and
+we can look at two IR spectra. The first one is for this
+molecule, which is decane. So hopefully I have the right
+number of carbons drawn there. The second one is for 1-octyne, so a triple bond in this molecule. Let's compare these two, so you
+think about the differences. Alright, one of the things
+that's sometimes helpful to do is to draw a line around 3000. So let me draw a line around 3000. I'm going to try and draw
+it for both here too. So I'm going to draw a
+line around 3000 for both, so we can compare these two spectra. Alright, we know that a carbon-hydrogen-- let me go and write this in here, a carbon-hydrogen bond where
+the carbon is sp3-hybridized, so that signal for that
+stretch shows up under 3000. So that's why it's helpful
+to draw a line around 3000. So that's what we're talking
+about when we're talking about this complicated-looking thing in here. So it's not really worth your time
+to analyze this in great detail, and of course my drawing of it
+isn't perfect to being with, but think about under 3000, that's where you expect
+to find your signal for your carbon-hydrogen bond, we're talking about an
+sp3-hybridized carbon. And those are the only types of carbons that we have in decane. So, if we think about
+the diagnostic region versus the fingerprint region, so if I draw a line here to
+separate those two regions, in the diagnostic region,
+all we have is this. So all we're thinking
+about is carbon-hydrogen where the carbon is sp3-hybridized. So very simple spectrum to analyze. We move on to 1-octyne, so now we're looking
+at this one down here. So we see that same kind of thing, because obviously we have
+carbon-hydrogen sp3-hybridized also in this molecule. And so this isn't going to
+really help you too much when you're analyzing the spectra, but it's useful to know
+what you're looking at, drawing a line at 3000, and thinking about that's
+what that represents. So once you draw a line at 3000, it allows you to see some differences. So for example, this signal right here, if we drop down, it's
+pretty close to 3300, so this will be 3100, 3200, so 3300. So approximately 3300 wavenumbers. And we know what that signal represents. We can go back up to here, we can look at about 3300
+is where we would expect to see this carbon-hydrogen bond stretch where that carbon is sp-hybridized. So that's what we're looking at there. Let's go down and look
+at the dot structure, and see if we can figure out what
+it means on the dot structure. So this signal must be
+a carbon-hydrogen bond, where the carbon is sp-hybridized. And that would be right here. So we have a carbon here and
+we have a hydrogen right here. We also have a carbon right here, so that gives you your eight carbons. And so this bond, let me
+go and highlight it here, so this bond right here,
+this carbon-hydrogen bond, where this carbon is sp-hybridized, that's this signal on our spectrum. So once again, it's
+useful for analyzing here. Alright, we have something else that shows up in the diagnostic
+region for this alkyne, and it's this signal right here. So if we drop down, what's the wavenumber where this signal appears? The wavenumber is about 2100, so approximately 2100, maybe a little bit higher than that. And that's the carbon triple bond stretch, so that's the carbon-carbon
+triple bond stretch that we talked about in an earlier video. So that's approximately
+the triple bond region when you're looking at your spectrum. And of course, obviously we have one. This is an alkyne here. And so hopefully, this just
+shows you the differences, and once again, your fingerprint
+region over here is unique for each of these molecules here. So this shows you the differences
+and helps you to think about how to analyze your IR spectrum. Let's look at two more. Actually, let's look at one more here, and let's compare these two. So now we have a spectrum for an alkene. So here we have 1-hexene, and let's see if we can analyze this one. So we're going to do the same thing, we're going to draw a line around 1500, so draw a line around 1500, we're going to draw a line around 3000, and let's analyze this one. So we know what this one is talking about, we know it's talking
+about a carbon-hydrogen, where the carbon is sp3-hybridized. But what's this signal right here? We drop down, and that's
+pretty close to 3100. So that signal is approximately 3100. And so, we know what that must represent. That's a carbon-hydrogen bond, where the carbon is sp2-hydribized, so that stretch occurs at this frequency, or this wavenumber, and so we know an sp2-hybridized carbon must be present, and obviously here with this double bond, we know we have an sp2-hybridized carbon. Notice the difference between this one and the one we just talked about. So let me go and highlight this here. So this signal shows up around 3100. So I draw a line up here, and we saw this signal at 3300. So it's useful to think about, it helps you distinguish
+on your IR spectra, if you draw a line in there, and think about where the wavenumber is. At what wavenumber does
+this signal appear? We also have something else
+showing up in this one, let me go ahead and draw this one in here. What is this? What is this guy right here? That looks like a pretty obvious signal. So we can drop down here,
+and check out approximately where does that show up? What's that wavenumber? Well this is 1500, this
+is 1600, this is 1700, so that's a little bit--
+that's pretty much in between, it's approximately 1650. And in an earlier video, we said
+that was in the double bond region. So that's the carbon-carbon
+double bond stretch signal, right in here. And obviously, there's a
+double bond in our molecule. Again, comparing these two, remember, we talked about the fact that
+a triple bond vibrates faster than a double bond. And so, the signal is different. The triple bond vibrates faster,
+so it has a higher wavenumber, the double bond doesn't vibrate as fast, so it has a lower wavenumber. So these are important
+things to think about. Finally, let's compare this
+alkene to an arene here. So let's look at toluene right here. Alright, so if we do the same thing, if we draw a line around 3000, so somewhere around 3000. And we know this is below 3000, so we know that this must be
+talking about carbon-hydrogen, where the carbon is sp3-hybridized. That's a carbon-hydrogen bond stretch where the carbon is sp3-hybridized. Well this carbon right here on toluene, so this is toluene, that carbon is sp3-hybridized, so that makes sense. We have this one little peak here, this one little signal
+that's a little bit higher than 3000, and so it's
+pretty close to 3100. And we know that's approximately where we would find a
+carbon-hydrogen bond stretch where the carbon is sp2-hybridized. So somewhere around 3100. And so, this makes this--
+at first you might think, "Oh, well how do we tell this apart?" So this is very similar to this situation. So this looks very similar to this. And so it can be tricky sometimes, and just glancing at that
+part of your spectrum. Let's think about the
+double bond region too. So the double bond region right up here, so this is where-- this is 1600, that's for this one. I'm going to draw a line down here, and let's try to connect the
+1600s right here like that. And let's think about what happened. So here's the signal for the
+carbon-carbon double bond here, and when you're talking about
+an aromatic double bond stretch, so carbon-carbon aromatic, that
+usually shows up lower than 1600. So here it looks like we have two signals, so it depends on what kind of
+compound you're dealing with. But we can see that this
+usually shows up lower. So this is somewhere
+usually around 1600 to 1450. But we're talking about the carbon-carbon double bond stretching here. And there's some other subtle
+things that can clue you in, like this right here. So we don't really see that
+on this one, on this spectrum. And then, these down here,
+we're missing those here too. It would be way too much
+to get into in this video, to talk about what these mean, and that's a little bit more than what we've talked about so far, so that'll have to be a different video. But there are subtle differences, and the easiest one to think about is to think about the
+fact that this aromatic carbon-carbon double bond shows up at a lower wavenumber than the one that we talked about right here. So just look at the sheer
+multitude of signals and sometimes that clues you into the fact that you're dealing with this
+benzene ring here for toluene. So that sums up just a
+quick intro to looking at IR spectra for hydrocarbons.

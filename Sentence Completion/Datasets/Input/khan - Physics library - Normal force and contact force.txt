@@ -1,0 +1,120 @@
+Let's say that I have a
+huge, maybe frozen over lake, or maybe it's a big pond. So I have a huge surface of
+ice over here-- my best attempt to draw a flat surface
+of ice-- and I'm going to put two
+blocks of ice here. So I'm going to put
+one block of ice just like this, one block
+of ice right over here. And then I'm going to put
+another block of ice right over here. And then another block
+of ice right over here. And these blocks of
+ice are identical. They're both 5 kilograms. They are both 5 kilograms--
+let me write this down. So they are both 5 kilograms. Or both of their masses, I
+should say, are 5 kilograms. And the only difference
+between the two is that relative to
+the pond, this one is stationary-- this
+one is stationary-- and this one is moving
+with a constant velocity-- constant velocity. Constant velocity in the
+right-wards direction. And let's say that
+its constant velocity is at 5 meters per second--
+5 meters per second. And the whole reason why I made
+blocks of ice on top of ice is that we're going to
+assume, at least for the sake of this video, that
+friction is negligible. Now what does Newton's
+First Law of Motion tell us about something that
+is either not in motion-- or you could view this as
+a constant velocity of 0-- or something that has
+a constant velocity? Well Newton's First
+Law says, well look, they're going to keep
+their constant velocity or stay stationary, which is
+the constant velocity of 0, unless there is some
+unbalance, unless there is some net force
+acting on an object. So let's just think
+about it here. In either of these
+situations, there must not be any unbalanced
+force acting on them. Or their must not
+be any net force. But if you think
+about it, if we're assuming that these
+things are on Earth, there is a net force
+acting on both of them. Both of them are at the
+surface of the Earth, and they both have
+mass, so there will be the force of
+gravity acting downwards on both of them. There is going to be the
+downward force of gravity on both of these blocks of ice. And that downward force of
+gravity, the force of gravity, is going to be equal to
+the gravitational field near the surface of the
+Earth, times-- which is a vector-- times
+the mass of the object. So times 5 kilograms. This right over here is 9.8
+meters per second squared. So you multiply that times 5. You get 49 kilogram meter
+per second squared, which is the same thing as 49 newtons. So this is a little bit
+of a conundrum here. Newton's First Law
+says, an object at rest will stay at rest, or
+an object in motion will stay in motion, unless
+there is some unbalanced, or unless there
+is some net force. But based on what
+we've drawn right here, it looks like there's
+some type of a net force. It looks like I have 49 newtons
+of force pulling this thing downwards. But you say, no, no no, Sal. Obviously this thing won't
+start accelerating downwards because there's ice here. Its resting on a big
+pool of frozen water. And so my answer to you is,
+well, if that's your answer, then what is the resulting
+force that cancels out with gravity to keep
+these blocks of ice, either one of them,
+from plummeting down to the core of the Earth? From essentially
+going into free fall, or accelerating towards
+the center of the Earth? And you say, well, I guess if
+these things would be falling, if not for the ice,
+the ice must be providing the
+counteracting force. And you are absolutely correct. The ice is providing
+the counteracting force in the opposite direction. So the exact magnitude
+of force, and it is in the opposite direction. And so if the force of gravity
+on each of these blocks of ice are 49 newtons downwards
+it is completely netted off by the force of
+the ice on the block upwards. And that will be a force 49
+newtons upwards in either case. And now, hopefully,
+it makes sense that Newton's First
+Law still holds. We have no net force on this
+in the vertical direction, actually no net force on
+this in either direction. That's why this guy
+has a 0 velocity in the horizontal direction. This guy has a constant velocity
+in the horizontal direction. And neither of them
+are accelerating in the vertical direction. Because you have the force
+of the ice on the block, the ice is supporting
+the block, that's completely
+counteracting gravity. And this force, in this example,
+is called the normal force. This is the normal force--
+it's 49 newtons upwards. This right here is
+the normal force. And we'll talk more about the
+normal force in future videos. The normal force
+is the force, when anything is resting
+on any surface that's perpendicular to that surface. And it's going to start
+to matter a lot when we start thinking about
+friction and all the rest. So what we'll see in future
+videos, when you have something on an incline, and let's say
+I have a block on an incline like this. The normal force
+from the, I guess you could say, this
+wedge on the block, is going to be perpendicular
+to the surface. And if you really think
+about what's happening here, it's fundamentally an
+electromagnetic force. Because if you really zoomed
+in on the molecules of the ice right over here, even better
+the atoms of the ice here. And you really zoomed in on
+the atoms or the molecules of the ice up here, what's
+keeping this top block of ice from falling down
+is that in order for it to go through its
+molecules would have to kind of compress against, or I guess
+it would have to get closer to, the water molecules
+or the individual atoms in this ice down here. And the atoms, let me
+draw it on an atomic level right over here. So maybe, let me draw one
+of this guy's molecules. So you have an oxygen
+with 2 hydrogens and it forms this big
+lattice structure. And we can talk about more of
+that in the chemistry playlist. And let's talk about this ice
+as one of these molecules. So maybe it looks
+something like this. And it has its 2 hydrogens And so what's keeping these guys
+from getting compressed, what's keeping this block of ice
+from going down further, is the repulsion between the
+electrons in this molecule and the electrons
+in that molecule. So on a macro level we view
+this is kind of a contact force. But on a microscopic
+level, on an atomic level, it's really just electromagnetic
+repulsion at work.

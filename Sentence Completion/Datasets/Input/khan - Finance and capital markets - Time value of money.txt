@@ -1,0 +1,79 @@
+Narrator: Whenever we talk about money, the amount of money is not
+the only thing that matters. What also matters is when you have to get or when you have to give the money. So, to think about this
+or to make it a little bit more concrete, let's assume
+that we live in a world that if you put money in
+a bank, you are guaranteed 10% interest, 10% risk
+free interest in a bank. This is high by historical standards, but it will make our math easy. So, let's just assume
+that you can always get 10% risk free interest in the bank. Now, given that, let
+me throw out scenarios and have you think about which of these that you would most want. So, I could give you $100 right now. That's option 1. I could, in one year,
+instead of giving you the $100 immediately, in one year I could give you $109 and then in 2 years, this is kind of option 3,
+I'd be willing to give you $120, so your choice is,
+someone walks up to you off the street. I could give you $100
+bill now, $109 bill ... (laughing) $109 bill, $109 in
+a year, $120, 2 years from now and you know in the back of your mind you could get 10% risk free interest. So, given that you don't have
+an immediate need for money. We're assuming that this
+money, you will save. That you don't have a
+bill to pay immediately, which of these things
+are the most desirable? Which of these would
+you most want to have? Well, if you just cared
+about the absolute value or the absolute amount of
+the money you would say, "Hey, look. $120, that's the
+biggest amount of money." "I'm going to take that one because
+that's just the biggest number." But, you probably have
+in the back of your mind, "Well, I'm getting that later,
+so there's maybe something I'm losing out there?" And you'd be right. You'd be losing out on
+the opportunity to get the 10% risk free interest if you
+were to get the money earlier. And if you wanted to
+compare them directly, the thought process would be, "Well, let's see. If I took
+option 1. If I got the $100." And if you were to put it in the bank, what would that grow to based
+on that 10% risk free interest? Well, after 1 year 10% of $100 is $10. So, you would get $10 in interest. So, after one year, you're entire savings in the bank will now be $110. So, just doing that little exercise we actually see that $100 given now, put it in the bank at 10% risk free, will actually turn into
+$110 in a year from now, which is better than the
+$109 one year from now. So, given this scenario, or
+given this kind of situation or this option, you would rather do this than do this. A year from now you're better off by $1. What about 2 years from now? Well, if you take that $100 after 1 year it becomes $110, then 10% of $110 is $11. You want to add $11 to
+it, so it becomes $121. So, once again you're
+better off taking the $100, investing it in the bank
+risk free, 10% per year. It turns into $121. That
+is a better situation than just someone guaranteeing you to give the $120 in 2 years. Once again, you are better off by $1. So, this idea that not
+just the amount matters, but when you get it, this idea is called the time value of money. Time value of money. Or another way to think about it is, think about what the value
+of this money is over time. Given some expected interest rate and when you do that you
+can compare this money to equal amounts of money
+at some future date. Now, another way of thinking
+about the time value or, I guess, another related
+concept to the time value of money is the idea of present
+value, present value. Maybe I'll talk about
+present and future value. So, present and future
+value, future value. So, given this assumption,
+this 10% assumption, if someone were to ask you,
+"What is the present value of $121 2 years in the future?" They're essentially asking you, so what is the present value? PV stands for present value. So, what is the present value
+of $121 2 years in the future? That's equivalent to
+asking what type of money or what amount of money would
+you have to put into the bank risk free for the next
+2 years to get $121? We know that. If you put $100 in the bank for 2 years at 10% risk
+free, you would get $121. So, the present value here, the present value of $121 is the $100. Or another way to think about
+present and future value if someone were to ask
+what is the future value? So, what is the future value
+of this $100 in 1 year? So, in 1 year. Well, if
+you get 10% in the bank that's guaranteed, it's
+future value is $110. After 2 years, it's 2
+year future value is $121. So, with that in mind let me give you one slightly more interesting problem. So, let's say that I have ... let's say, we're going to assume this the whole time that makes our math easy
+at 10% risk free interest. And let's say that someone
+says they're willing to give us $65 in 1 year and we were to ask ourselves, "What is the present value of this?" So, what is the present value of this. Remember, the present
+value is just asking you what amount of money, that if you were to put it in the bank at
+this risk free interest, would be equivalent to this $65? Which of these 2 are equivalent to you? You would say, "Well, look.
+Whatever amount of money that is?" Let's call that X. Whatever amount of money that is, times, if I grow it by 10%, that's literally, I'm taking X+10%X+ ...
+let me write it this way. +10%xX ... Let me write it ...
+Let me make it clear this way. X+10%X should be equal to our $65. If I take the amount I
+get 10% of that amount over the year, that
+should be equal to $65. This is the same thing as 1X or we can say that
+1X+10% is the same thing as 0.10X is equal to
+65, or you add these 2. 1.10X = 65, and if you want to solve for the actual amount of
+the present value here, you would just divide
+both sides by the 1.10. You get X is equal to ...
+let me do it this way. It will be a little bit
+more clear about it. So, let's divide both sides by 1.0 and really that trailing
+zero doesn't matter. We're not really too worried
+about the precision here because this actually exactly 10%. So, this is going to
+be ... these cancel out and X is going to be equal to, let me get the calculator out, X is going to be equal
+to 65 divided by 1.1, $59.09, rounding it. So, X=59.09, which was the present value of $65 in one year, or another way to think about it is if you wanted to know
+what the future value of $59.09 is in 1 year,
+assuming the 10% interest, you would get the $65.

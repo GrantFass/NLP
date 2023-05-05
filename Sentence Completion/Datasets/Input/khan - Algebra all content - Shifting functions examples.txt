@@ -1,0 +1,45 @@
+- [Voiceover] So we have these two graphs that look pretty similar, y equals f of x and y is equal to g of x. And what they asked us to do is write a formula for the
+function g in terms of f. So let's think about how to do it and like always pause the video and see if you can work
+through it on your own. All right, well, what I'd like to do is I'd like to focus on this minimum point because I think that's a
+very easy thing to look at because of them have that minimum point right over there. And so we can think,
+but how do we shift f? Especially this minimum point, how do we shift it to get
+to overlapping with g? Well, the first thing that
+might jump out of this is that we would want to shift to the left. And we'd wanna shift to the left four. So let me do this in a new color. So I would wanna shift to the left by four. We have shifted to the left by four or you could say we
+shifted by negative four. Either way, you could think about it. And then we're gonna shift down. So we're gonna shift, we need to go from y equals two to y is
+equal to negative five. So let me do that. So let's shift down. So we shift down by seven or you could say we have
+a negative seven shift. So, how do you express g of x if it's a version of f of x
+that shifted to the left by four and shifted down by seven. Or, you could say I have a
+negative four horizontal shift. I have a negative seven vertical shift. Well, one thing to think
+about it is g of x, g of x is going to be equal to f of, let me do it in a little darker color, it's going to be equal to f of x minus your horizontal shift, all right, horizontal shift. So x minus your horizontal shift plus your vertical shift. So plus your vertical shift. Well, what is our horizontal shift here? Well, we're shifting to the left so it's a negative shift. So our horizontal shift is negative four. Now, what's our vertical shift? Well, we went down so
+our vertical shift is negative seven. So it's negative seven. So there you have it. We get g of x. Let me do that in the same color. We get g of x is equal to f of x minus negative four or x plus four and then we have plus negative seven or you can just say minus seven. And we're done. And when I look at things like this, the negative seven is somewhat, it's more intuitive to me. As I shifted it down, it made sense that I have a negative seven. But first, when you work on these, you say, "I shifted to the left. "Why is it a plus four?" And though I think about it is in order to get the same
+value out of the function, instead of inputting,
+so if you want to get the value of x of zero,
+you now have to put x equals negative four in. And then you get that same value. You still get to zero. So that's, I know if that helps or hurts in terms of your understanding, but it often helps to try out
+some different values for x and see how it actually
+does shift the function. And if you just try to get
+your head on this piece, the horizontal shift, I
+recommended, you know, not even using this example. Use an example that only
+has a horizontal shift. It will become a little more intuitive. And we do, we have many videos that go into much more depth that explain that. Let's do another example of this. So here, we have y is equal to g of x in purple and y is equal to f of x in blue. And they say given that f of x is equal to square root
+of x plus four minus two, write an expression for
+g of x in terms of x. So first, let's me just try to, expression for g of x in terms of f of x. We can see once again, it's just a shifted version of f of x. And remember, I'll just
+write it in general. So g of x is going to be equal to f of x minus your horizontal shift plus your vertical shift. And so to go from f to g, what is your horizontal shift? Well, your horizontal shift is, if you take this point right over here, which should map to that point
+once we shift everything. Your horizontal shift is two to the left or you could say it's a
+negative two horizontal shift. So that should be negative two. And then, what is a vertical shift? Well, a vertical shift is removed, we go from y equals negative
+two to the y equals three. So we're shifting five up. So this is a vertical
+shift of positive five. So your vertical shift is five. So if we just want to write g of x in terms of f of x like we just
+did in the previous example, we could say g of x is
+going to be equal to f of x minus negative two which is x plus two. And then we have plus five. But that's not what they asked us to do. They asked us to write. They, whoops. They asked us to write an expression for g of x in terms of x. And so here we're actually gonna use the definition of f of x. So let me make it clear. We know that f of x is going to be equal to square root of x plus four minus two. So given that, what is f of x plus two? Well, f of x plus two
+is going to be equal to, everywhere we see an x,
+we're gonna replace it with an x plus two. Square root of x plus two plus four minus two which is equal to the square root of x plus six minus two. Well, that's fair enough. That's just f of x plus two. Now, what is f of x plus two plus five? So f of x plus two plus five is going to be in this thing
+right over here plus five. So it's going to be
+equal to square root of x plus six minus two and I'm going to add five,
+with a different color. So plus five, so plus five. And so what we end up with is going to be square root of x plus six minus two plus five is going to be plus three. So that is equal to g of x. Just as a reminder, what do we do here? First, I expressed g of
+x in terms of f of x. Let's say, hey, to get
+from f of x to g of x, I shift two to the left. Two to the left. So we're kinda intuitive, plus two makes it a shift of two to the left. This was minus two would be
+shifted two to the right. But like I just said in
+the previous example, it's good to try it some x's and to see why that makes sense. And then we shifted five up. So this was g of x in terms of f of x. Then they told us what f of
+x actually is in terms of x. So we said, "Okay, well,
+what is f of x plus two?" F of x plus two, we
+substituted x plus two for x and we got this. But g of x is f of x plus two plus five. So we took what we figured
+out f of x plus two is and then we added five
+and that's what g of x is. And then we are all done.

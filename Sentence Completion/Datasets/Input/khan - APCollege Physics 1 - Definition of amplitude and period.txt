@@ -1,0 +1,109 @@
+- [Instructor] Alright so
+there's some terminology you gotta get used to when dealing with simple
+harmonic oscillators because people and books
+and teachers and professors are gonna throw these
+terms around like crazy, and if you are not used to them, it all can sound like
+mathematical witchcraft. So the first term you gotta know is that if you displace
+a mass from equilibrium, and why wouldn't you do that. That's how you get the thing to oscillate, by displacing it from equilibrium. The maximum magnitude of displacement, so this amount right here,
+whatever that distance is here, is called the amplitude. So we represent the
+amplitude with a capital A, and it's called the amplitude, and it's defined to be the
+maximum magnitude of displacement for that oscillator. So if this mass only ever
+makes it this far away, so from here to here. And I'm drawing arrows,
+but this is not a vector. It's the magnitude. Right?
+Magnitude of the displacement. So it's the magnitude of the vector, so it's always positive. So we can draw that over here. If we want to, we can just
+say this amplitude here. This would also be the amplitude, because we're just talking about the maximum magnitude of displacement. So it's gonna get displaced
+equally on either side of the equilibrium position
+and that maximum amount is called the amplitude. So in other words, if I pulled
+this mass back 20 centimeters then that means 20 centimeters
+would be the amplitude, or if you wanted it in meters
+it would be point two meters, and then, that means, when it shoots through
+the equilibrium position, it would also come over here
+and compress this spring by 20 centimeters on this side. So it's always equal on both sides. Now there's another term
+that you gotta get used to, and that's the period. So the period is represented
+with a capital T. Why is the period
+represented with a capital T when there's no T in the
+word Period? Not sure. But capital T is kind of like time, so T might stand for time. Maybe they thought that was a good idea. Because what the period means, is the time required for an entire cycle. So what does this mean. An entire cycle? What we mean is that you
+got oscillations going on. So this process is repeating itself. So in other words: if you
+start with the mass over here, it's gonna eventually make it
+over to this end over here, right? Goes over here,
+compresses the spring, then it's gonna come
+back. The time it takes, oh, that's a little hard to see, sorry. Let me draw that up here. So the time it takes for it to go to here, and then come all the way
+back after this happened, the whole thing just repeats. Now it's back here, the spring is gonna pull
+it back to the left, and go to the right. It's gonna pull it back to the left, push it back to the right. So this process is repeating itself. There's not something new happening. It's just the same process over and over. The time it takes to go
+through one entire cycle; ie: The time it takes
+to reset, essentially, once this entire system
+resets to the same position, that's the period. And so it's gonna be the same. Wether I count this as from
+this point back to that point, or if I imagine just
+starting my clock here, from this point is gonna go over to here, then it's gonna come back here, that would also be the period, because it's the time it took to reset. So the time it takes for
+this process to reset is what we call the period. It will be given in seconds, so for the sake to making
+this a little less abstract, let's say for example, the period of this mass on
+the spring was six seconds. What would that mean? It would mean that it took
+six seconds for the mass to go from this point and then all the way back to that point resetting itself. Now, this is getting kind of messy. And honestly, for that
+reason people often draw what the simple harmonic
+oscillator looks like on a graph. It turns out to be
+particularly elegant and useful to represent these ideas on a graph. Because, look it. If you
+just drew what's happening, you'd be like: alright,
+the mass goes here, and then there, and then
+there and then there, you are drawing all over yourself. So that's kinda ugly looking. It's better to represent this on a graph. What would that look like?
+So let me get rid of this. It would look like this. You would have a graph of
+the horizontal position X. So what does that mean? That means this. So we are essentially
+graphing what this is. This is X. The horizontal
+position has a function of time. Now already you might be upset. You might be like: Wait a minute. Why did we stick the horizontal position on the vertical axis? Isn't that a dumb thing to do? Well, perhaps. But long ago physicists
+decided: You know what? Time, if time is involved, we are sticking that bad
+boy on the horizontal axis. This is just designated. This is just by default. It's gonna go on the horizontal axis. So if you have anything else
+you wanna graph with it, that's gotta go on the vertical axis. And so unfortunately
+we're gonna be graphing horizontal position on this vertical axis. What that means is that
+this equilibrium position, remember this is the
+point where the net force, the restoring force, that
+net restoring force is zero. The only force on this mass, in this case, is the spring force which
+is given by Hook's law and that means this equilibrium position is gonna be the point where X equals zero. If I want my force to be zero, I better have x equals zero. So this equilibrium position right here, this is the line right here,
+let me give it a special color, this equilibrium position, is essentially just
+this X equals zero line. Right? These two lines are
+representing the same thing. They represent X equals zero. And if I go this way, if I
+pull this mass to the right, I'm essentially going up on this graph. Because I am going towards
+positive horizontal positions. And if I go to the left, if
+I push this mass to the left, I'm essentially going down towards negative horizontal
+positions on this graph. So hopefully that doesn't
+freak you out too bad. Let me show you what this looks like. If we do displace this mass, Let's say we pull it to the right. So like we had over here, right? We have this mass, we
+pull it to the right, and if we started 20 centimeters from the equilibrium position and let go. What's that gonna look like on this graph? Well it started to the right. If it starts to the right,
+I'm gonna start way over here, at this point is my initial position. That means I'm gonna start up here. I'll start up here at X
+equals 20 centimeters. If we put that in meters,
+technically SI units, you should have meters
+for the default units, so this would be point two. Zero point two meters, and
+that's also the amplitude. So remember, this is the amplitude. So this distance here is the amplitude. Then what does the mass do? Well it shoots back toward equilibrium, that's X equals zero.
+And then it oscillates. It goes through that point and comes back, so essentially what
+you're gonna have on here goes toward equilibrium,
+so it looks like this, goes toward equilibrium, BOOM! Hits equilibrium. And that's
+when it's at X equals zero. Passing through this point right here. Then it's gonna come back down, so eventually is gonna
+compress the spring and stop. That's when you're way over
+here and you've then stopped. The mass has been stopped by this spring. And it's gonna come back up and this process is gonna repeat, it's gonna go back through
+the equilibrium position and come back up. Which by up it means over here
+back to this initial point. That's one whole cycle. Look it, that has gone
+through a whole cycle. I kinda made this a little too high. Let me make that a little better. It should never go any
+higher that it started here. So it's gonna look something like that. Come back down and this
+whole process repeats over and over and over. And If I was drawing this perfectly, it'd be perfectly smooth, but hopefully you get the idea. And this is great! 'cause
+now we can draw the variables we talked about earlier like amplitude, because amplitude is the maximum
+magnitude of displacement from equilibrium. That would equal point two meters. That's what we represented
+on this graph here. And we can also represent the period. Remember, the period was the time it takes to go through an entire cycle. So if our mass started here, to go through an entire cycle, it better get back to that
+point and have reset completely, so that would be to here. So on this graph, this is the period. So the time it took to do
+that is one whole period. That would be the period T, which if we recall what we said earlier, we said that the period was six seconds. So if it really is six seconds, we can say that this here would be, if we count this is time T equals zero, this would be six seconds,
+this would be three seconds, that would be half of the
+period, or half of the cycle. This would be nine seconds,
+this would be 12 seconds, which would be two whole periods. And in a sense, it has gone
+through two whole cycles once it gets back to that point. Now notice, you didn't
+have to measure the period from peak to peak. You could have measured it from, sometimes people call
+these troughs or valleys, so you can measure it trough to trough, or valley to valley, took three seconds to nine seconds. That's a time of six seconds. It took six seconds to
+go from three seconds to nine seconds. That's still one whole period. Or you can go from this point here, I guess this would be like
+seven point five seconds all the way to what is this, 13.5 seconds? That would also be one whole period. Just make sure you don't do this: Sometimes people are
+like: oh, a period, eh? Repeat a whole cycle, eh? Alright I'm gonna go from
+this equilibrium position back to that equilibrium position. That's not a whole cycle. Look at it. This point the mass is going that way, and this point the mass is going that way. So you can't start your clock when the mass is going that way. Stop it when the mass
+is going the other way and see if you have gone
+through a whole cycle. Because that hasn't fully reset. If you're gonna fully reset, you gotta go from mass heading to the left through equilibrium, all the way back to
+mass heading to the left through equilibrium. So you would have to go
+from this equilibrium point, all the way to that equilibrium point to have a full cycle. A cycle would look like this
+whole process right there. So recapping: the amplitude of
+a simple harmonic oscillator is the maximum magnitude of displacement from the equilibrium position. You can measure it that way or
+you can measure it this way, you would get the same amount. And the period is the time
+it takes for an oscillator to complete one entire cycle, which you can find on a graph by measuring the time it takes to go from peak to peak, from valley to valley, or from equilibrium position,
+skip an equilibrium position, and then get to the next
+equilibrium position.

@@ -1,0 +1,82 @@
+Voiceover:I have a system of 2 equations with 2 unknowns here. We've seen how to solve this, and there's multiple
+techniques we've used, substitution, elimination, and we could do that right over here. In fact, you could just add the two. The left sides of the equations and the right sides of the equations, the s's would cancel out. Actually, let's just do it to show how that's relatively straightforward, for at least this example right over here. You add the left-hand sides. These cancel out. You're left with negative t. Negative t is equal to 7 plus
+negative 6 is equal to 1, or you get the t is equal to negative 1. t is equal to negative 1. If t is equal to negative 1, this top equation, you
+could use either one, would simplify to 2 times s. Negative 5 times negative 1 is plus 5. Plus 5 is equal to 7, is equal to ... let me use those same colors
+that we have over there, is equal to 7, or, and we
+could do this part in our head, 2s must be equal to 2
+and that s is equal to 1. 2 times 1 plus 5 is 7, and so we have s is equal to 1. That was pretty straightforward. What we're going to do in this video is represent the same system, but we're going to
+represent it esssentially as a matrix equation, and we're going to solve
+it using inverse matrices. I'll give you a little bit of a warning. It's going to be more involved. It's going to take us more time to this, and you're probably going to say, "Well, why are we even going
+through the trouble of it?" The value of what we're
+going to do in this video is that it's very useful in computation where you might solve
+almost the same system over and over and over again. Maybe the left-hand sides are the same, the right-hands keep changing, and this might be something
+that you might see while writing a computer game or while working on some
+type of a computer problem. And this is a general theme. A lot of the value of
+matrices are they are ways to represent problems, mathematical problems, ways to represent data, and then we can use matrix
+operations, matrix equations to essentially manipulate
+them in appropriate ways if we're, for the most part,
+writing computer programs or things like computer programs. Bear with me, you will
+enjoy it eventually, what we're about to do, and one day, you will see that
+it is actually quite useful. The first thing we need to
+see or need to appreciate is that this can be represented
+by a matrix equation. Now what I'm going to
+do is I'm going to take the coefficients here. I'm going to take the coefficients here, so 2, negative 5, 2, negative 5, negative 2, negative 2 and 4, and positive 4. All I've done is I've taken
+the coefficients here, and I'm going to claim that
+that times the column vector, column vector st, s and t, being equal to the column
+vector 7, negative 6, 7, negative 6, is the exact same thing as
+what we have right over here. These are representing
+the same constraints on the variable s and t. You say, "Wait, I don't quite get that." If you're saying you don't quite get that, multiply this out. Multiply this out and
+think about which entries they need to be equal to
+when you multiply it out. And you would see this entry,
+this first row, first column, that's going to be this row. We're going to be dealing
+with this row and that column, so if you think about it,
+this tells us that 2 times s, 2 times s plus negative 5 times t, so I could say minus 5 times t must be equal to the first entry up here, first row, first column, is equal to 7. All I did is I multiplied, I dealt with the first
+row, first column and said, when I take essentially
+the dot product of those, and if you don't know what a
+dot product is, don't worry. We'll explain it at other places. It's essentially what I just did here, the first entry here
+times the first entry, the second entry here
+times the second entry, and we add them together, that that must be equal to 7, but when you do that, you essentially construct
+this first equation. Now when you do it with the
+second row and this column, you construct the second equation. You get negative 2 times s, negative 2 times s plus 4 times t, 4 times t, is equal to negative 6. Hopefully you appreciate
+that this contains the same information as that. And there is other ways
+that I could have done it. For example, you could have, instead of writing it this way, this system is obviously the same thing, is obviously the same thing as ... and actually, let me
+just copy and paste it, is the same thing as ... so copy and paste, is the same thing as this system, where I'm really just swapping. So once again, copy and paste. Obviously, I've written
+the second one first, and I've written the first one second, so this is obviously the same system. If I wanted to construct a
+matrix equation with this system, I would just swap all of the rows. The first row here would be negative 2, 4. I would swap the rows
+for the coefficients, but I would still keep the
+s and ts in the same order, and you could do that. Try to represent this right over here as a matrix equation. You would have the matrix here would be negative 2, 4, 2, negative 5, and this would be negative 6, 7. But now that we have set this up, how do we actually solve
+something like this? Why do we even do this? To think about this, let's
+actually think about it in terms of literally a matrix equation. Let's say that A, the matrix A
+is this thing right over here. This thing over here is the matrix A. Let's say that this right over here, this is the column vector x. I'll write it as a
+vector x right over here. You have the column vector x, and then this right over here, you could say that this is equal, and let's call this the column vector b. This is equal to the column vector b. We're essentially saying that A, the matrix A times the
+column vector x is equal to, is equal to the column vector b. Let me write that again right over here, just to emphasize it. The matrix A times the column vector x is going to be equal to, is equal to the column vector B. This is what they're talking about when they say a matrix equation. Actually, before we even
+think about computation and computer graphics and all of that, you will see a lot of
+things like this in physics, where they're speaking in general terms, or they might not even be specifying the dimensions of the matrix or the dimensions of this vector, but they're talking about
+some general property, in, say, physics. You will see matrix vector
+equations like this a lot as you get into higher
+and higher sciences. But once again, let's just go back to our core issue of how do we actually solve this? One way you could think about it, we've already seen that
+if a matrix is invertable, that means that there is a
+matrix A inverse that exists, such that A inverse times
+A is equal to the identity, is equal to the identity matrix. What if we multiplied the left-hand sides of both sides of this
+equation by A inverse? Remember, order matters when we are multiplying matrices. We multiply the left-hand
+sides of both sides of the equation by A inverse, which would get us A
+inverse times A times x is equal to A inverse. Remember, I'm multiplying
+the left-hand sides of both equations, A inverse,
+times the column vector B. Now why is this interesting? Well, we just said that
+the inverse times A, assuming that A is invertable, that this right over
+here is going to be equal to the identity matrix. That's going to be the identity matrix times column vector x, and that's going to be
+equal to this stuff. That's going to be equal to that. Let me just copy and paste that. That's going to be equal to that. Now why is that interesting? The identity matrix
+times some other matrix, this column vector essentially
+is a 2 by 1 matrix, that's just going to be
+this column vector again. It's just going to simplify
+to that our column vector is equal to, our column vector is equal
+to the inverse matrix times our column vector, or our column vector x is
+equal to the inverse matrix times the column vector b. Once again, emphasizing
+why is this useful, yes, you do have to go through the trouble of calculating A inverse, but once you've done that, you could keep swapping in
+different, different b's. This one is 7, negative 6, but
+you could have other b's here, and if you're running a computer program, you want to do this over and over again, you just have to do multiple
+matrix multiplications. I'll leave that thought here. I've realized that I'm
+approaching 10 minutes, which I never like to
+cross in these videos. In the next video, we'll actually
+compute what A inverse is and calculate what the
+solution vector x is.

@@ -1,0 +1,143 @@
+In this video, I want
+to clarify two ideas that we talk about
+on a regular basis, but are really muddled up
+in our popular language. And these are the ideas
+of mass and weight. And first, I'll tell
+you what they are. And then, we'll talk about
+how they are muddled up. So mass is literally-- there's
+a couple of ways to view mass. One way to view mass
+is-- and this is not a technical definition,
+but it will give you a sense of it-- is how
+much the stuff there is. So this is similar
+to saying matter. So if I have more
+molecules of a given mass, I will have a
+total of more mass. Or if I have more atoms,
+I will have more mass. So how much stuff
+there is of something. And I want to be careful
+with this definition right here, because there are
+other things that aren't what we would traditionally
+associate with matter, once we start going into
+more fancy physics, that still will exhibit mass. So another way to define
+mass is, how does something react to a specific force? And we already learned
+from Newton's second law that if you have a given
+force and you have more mass, you'll accelerate less. If you have less mass,
+you'll accelerate more. So how something responds
+to a given force. Something with lower
+mass will accelerate more for a given force. Something with higher
+mass will accelerate less. Now weight is the force
+of gravity on a mass, or on an object. So this is the force of
+gravity on an object. And just to think about
+the difference here, let's think about, I guess,
+myself sitting on Earth. So if I'm on Earth, my
+mass is 70 kilograms. My mass-- let me do
+this in a new color-- so my mass is 70 kilograms. There's 70 kilograms of
+stuff that constitute Sal. But my weight is
+not 70 kilograms. I mean, you'll often hear people
+say, I weighs 70 kilograms. And that's all right in
+just conversational usage, but that is not
+technically correct. Because weight is the force
+that Earth is pulling down-- or I should say-- the force
+of gravity on my mass. And so my weight-- let me think
+about the weight for a second-- the weight is going to be equal
+to the gravitational field at Earth. Hopefully you've watched
+the video on gravity. Or if you haven't,
+feel free to watch it. But the gravitational
+attraction between two objects, so the force of gravity
+between two objects is going to big G, the universal
+gravitational constant, times the mass of
+the first object-- let me actually-- times the mass
+of the second object, divided by the distance that separates
+the two objects squared. And if you're on the Earth, and
+if you take all of this stuff right over here combined-- so
+if you say that this right here is the mass of Earth. If you say this, right
+here, is the distance from the center to
+the surface of Earth, because that's where
+I'm sitting right now. So distance from center
+to surface of Earth. Then all of this stuff over here
+simplifies to what's sometimes called as lower case g. And lower case g
+is-- and I'm just rounding it here-- 9.8
+meters per second squared. So the force of
+gravity for something near the surface of
+the Earth is going to be this quantity right
+over here times the mass. So my weight on the
+surface of the Earth is this 9.8 meters
+per second squared times my mass,
+times 70 kilograms. And so this is going
+to be-- I won't do, well, I could get
+my calculator out. Why don't I just get my
+calculator out and do the math? I was going to round it to
+10 and say it's about 700, but let's just
+actually calculate it. So we have 9.8
+times 70 kilograms. So we have 686. So this gives me 686. And then the units are kilogram
+meters per second squared. And these units, kilogram
+meters per second squared, are the same thing as a newton. So my weight-- and
+you'll never hear people say this-- but my weight
+on the surface of the Earth is 686 newtons. And notice, I just
+said that is my weight on the surface of the Earth. Because as you could
+imagine, weight is the force due to gravity
+on an object, on a mass. So if I go someplace else, if
+I go to the moon, for example, my weight will change. But my mass will not. So let's write this. This is the weight on Earth. If I were to take my
+weight on the moon-- and I haven't looked this
+up before the video. And you can verify this
+for me if you like. But I've been told that
+the gravitational force on the moon, or the
+gravitational attraction at the surface of the
+moon, is about 1/6 that of the surface of the Earth. So my weight on the
+moon will be roughly 1/6 of my weight on the Earth. Times 686 newtons. So that gives me a
+little bit over-- what is that-- 114 maybe? I'll just get the
+calculator out. My brain operates
+a little bit slower while I'm recording videos. Yeah. I got it right. 114. So that gets us 114,
+approximately 114 newtons. So this is the thing I really
+want to emphasize then. Weight is a force due
+to gravity on an object. Your weight changes from
+planet to planet you go on. Your weight would
+actually even change if you went to a
+very high altitude because you're getting
+slightly further-- it would be immeasurably
+small-- but you're getting slightly further
+from the center of the Earth. Your weight would change
+an imperceptible amount. In fact, because the Earth
+is not a perfect sphere-- it's often referred to
+as an oblique spheroid-- your weight is actually slightly
+different on different parts of the Earth. If you went to the poles
+verses the equator, you would have a slightly
+different weight. Your mass does not change. It doesn't matter
+where you go, assuming that you don't have some type
+of nuclear reaction going on inside of you. Your mass does not change. So your mass does not change
+depending on where you are. Now, you might be
+saying, hey, look, I don't deal with kilograms,
+and newtons, and all of this. I operate in America. And in America, we
+talk about pounds. Is pounds appropriate? And yes, pounds is
+a unit of weight. So if I say that I weigh 160
+pounds, this is indeed weight. I'm saying that the force of
+gravity on me is 160 pounds. But then you might say,
+well, what is mass then if you're talking about
+the English system or sometimes called
+the imperial system? And here, I will
+introduce you to a concept that very few people know. It's kind of a good
+trivial concept. The unit of mass--
+so let's just be clear here-- the unit of mass
+in the imperial system, mass is called the slug. So if you wanted to
+figure out how many slugs you are, so your weight--
+the force of gravity on you is 160 pounds. This is going to be
+equal to-- if you were to calculate all of this
+stuff-- the force of gravity on the surface of Earth. But if you were to do
+it in imperial units, instead of getting 9.8
+meters per second squared, you would get 32 feet
+per second squared, which is also the acceleration
+near the surface of the Earth due to gravity in
+feet and seconds, as opposed to
+meters and seconds. And then, this is times
+your mass in slugs. So to figure it out,
+you divide both sides by 32 feet per second squared. So let's do that. Let's divide both sides by
+32 feet per second squared. It cancels out. And then let me get
+my calculator out. So I have 160 pounds divided
+by 32 feet per second squared. And I get exactly 5. I should have been able
+to do that in my head. So I get 5. And the units here-- in the
+numerator, I have pounds. And then I'm dividing by
+feet per second squared. That's the same
+thing as multiplying by second squared per feet. And these units, 5 pounds
+second squareds over feet, this is the same thing as a slug. So if I weigh 160
+pounds, my mass is going to be equal to 5 slugs. If my mass is 70 kilograms,
+my weight is 686 newtons. So hopefully that clarifies
+things a little bit.

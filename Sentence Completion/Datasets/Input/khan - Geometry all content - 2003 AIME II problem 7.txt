@@ -1,0 +1,173 @@
+Find the area of
+rhombus ABCD given that the radii of the circles
+circumscribed about triangles ABD and ACD are 12.5
+and 25, respectively. So let's draw
+ourselves rhombus ABCD. So let's draw a rhombus. So let me draw it. Here we go. That's a decent rhombus
+right over there. We know that all the sides
+of a rhombus are equal. And let's label the vertices. So vertex A, B, C, D. So
+there we go, rhombus ABCD. And then they say the
+radii of the circle circumscribed about
+triangles ABD-- so triangle ABD, that's A,
+B, D. That is triangle ABD. So let's draw out the circle. Let's draw-- its circumcircled. It's circumscribed
+circle, or the circle that passes through the
+vertices A, B, and D. So let me do my best job at that. So it would look something--
+this is not a trivial thing to do. It's not always easy. So let's do it like that. There we go. That's its circumscribed
+circle, or it's the circle circumscribed
+about ABD right over there. Now they're telling us
+that its diameter is 12.5-- so they're saying that this
+diameter right over here, so if I were to draw a diameter
+of this circle right over here, it is 12.5. Now, the other circle-- the
+circumcircle for triangle ACD, so let's draw ACD. So let's draw a circle that can
+go through these three points. It looks like it would have
+to be something like this. It looks like it would have to
+be a somewhat bigger circle, and that gels with
+the information that they gave us,
+the way I drew it. So the circle would look
+something like that. I don't want to
+spend too much time trying to draw that circle. But they're telling us that
+it's-- I should be very careful. They're saying that the radius
+is 12.5, not the diameter. So let me make it very clear. Actually, let me
+delete that circle since it's just so messy. And I can delete that 12.5 too. Let me get-- there you go. So the 12.5 is the radius,
+the radii of the circle. So this first circle around
+ABD-- around triangle ABD-- this distance right
+over here is 12.5. This distance over
+here is also 12.5. Now, let's focus
+on triangle ACD. Let's focus on that triangle. Its circumcircle will
+look something like this. Let me draw. There you-- oh, that
+doesn't look too good. There you go. Something like that. The whole point here isn't
+trying to draw a circumcircle. But it's a circle that will
+go through those three points. And it has a radius of 25. So if you had its center, if I
+were to draw a diameter of it, it is 25. Fair enough. Now, we would need to figure out
+the area of rhombus ABC and D. Now, if you've been seeing the
+videos that I've been uploading lately, I've actually
+been uploading a few of the
+prerequisites for this. Because there is a formula,
+and we proved the formula in the geometry and the
+competition math playlist. We proved the formula that
+relates the area of a triangle to the radius of
+its circumcircle. And let me just rewrite the
+formula right over here. The formula is the radius
+of a triangle's circumcircle is equal to the product
+of the triangle's sides. All of that over 4 times
+the area of the triangle. So let's see if we can use this
+formula that we have proved in a previous video to figure
+out areas of triangle ABD-- or express them somehow--
+and triangle ACD and then see if we can use
+that information to figure out the area
+of the entire rhombus. So let me redraw it a
+little bit because I think my diagram's
+gotten kind of messy. So I'll redraw the rhombus. We actually won't even have
+to draw the circumcircles, or the circumscribed
+circles, because we know this formula
+right over here. So this is A, B, C,
+and D. Now, let's think first about triangle ABD. Actually, let me just
+draw the diagonals here. BD is one of the diagonals. AC is another one
+of the diagonals. We know that the
+diagonals of a rhombus are perpendicular bisectors. We know that that's
+a right angle. That's a right angle. That's a right angle. That's a right angle. And we know that this length
+is equal to this length, and we also know that that
+length is equal to that length. Now, if we knew this green
+length here or this blue length here, we would be able to figure
+out the area of the rhombus. Let's label them. Let's call this lowercase a,
+and let's call this length over here lowercase
+b. a times b times 1/2 would be the area of this
+triangle right over there. a times b times 1/2
+times 2 would give us this area and that area. Or another way to
+think about it, this triangle is
+completely congruent. It has sides a, b, and
+this side over here. All of these four triangles
+have those three sides, so all four of these
+triangles are congruent. So you could take the
+area of this triangle, multiply it by 4-- you have
+the area of the rhombus. Let me write this down. The rhombus area is
+equal to 4 times 1/2ab. 1/2ab gives us just this
+triangle right over here. 4 times that, so 4
+times 1/2ab is 2ab, is going to be the
+area of the rhombus. If we can somehow
+figure out a and b, we can figure out
+the rhombus' area. So let's focus on this
+first piece of information. Let's focus on
+triangle AB and D. Now they tell us that its
+circumradius is 12.5. So let's just use this
+formula right over here. We get 12.5. It's circumradius is 12.5
+is equal to the product of the length of the sides. So what's the length
+of the sides here? So we have this side
+right over here, side bd. That's just going
+to be 2a, right? That's an a plus
+another a, so it's going to be 2a, times
+this side right over here. What's this side,
+which is just one of the sides of the rhombus. Well, this is the hypotenuse
+of this right triangle right over here, right? This is a right angle. So it's going to be the
+square root of a squared plus b squared. But all of the sides
+are going to be that. It's a rhombus. All the sides are the same--
+a squared plus b squared. They're all going to have
+that exact same length. So the product of
+the sides-- you have 2a-- that's the length of
+bd-- times the length of ba, which is going to be the
+square root of a squared plus b squared, times
+the length of ad, which is the square root of
+a squared plus b squared. All of that over
+4 times the area. 4 times the area of ABD. Now, what's the
+area of a, b, and d? Well, ABD is just two of these
+triangles right over here. This guy right
+over here is 1/2ab. This guy over here
+is also 1/2ab. So the entire area is going
+to be two of these guys, so it's just going
+to be a times b. It gives you the area of
+both of these triangles. Each of them are 1/2ab. So instead of writing area
+right here, I could write ab. Now let's see. This simplifies to
+12.5, is equal to. Divide the numerator and
+the denominator by 2. So that becomes a 1. That becomes a 2, divided by a. That becomes a 1. That becomes a 1. Square root of a squared
+plus b squared times square root of a
+squared plus b squared is just a squared
+plus b squared. And the denominator,
+we're just left with a 2b. So this first piece
+of information, the circumradius
+for ABD being 12.5, gives us this equation
+right over here. Now, let's do the same
+thing for triangle ACD. It's circumradius is 25. 25 is equal to the
+length of this side. This is a b. This is also a b, so
+it's going to be 2b. 2b times the length
+of this side, which is just the square root
+of a squared plus b squared, times the length of this
+side, which is, again, just the square root of
+a squared plus b squared. All of that over
+4 times the area. Now, the area, once
+again-- it's this triangle, which is 1/2ab, plus
+this triangle, which is another 1/2ab. You add them together,
+you just get ab. You just get ab, 2 divided
+by 2, you get a 1 there. You get a 2 here. Divide by b, get a 1. That just becomes an a. And so you get 25 is
+equal to the numerator, square root of a
+squared b squared times itself is just going
+to be a squared plus b squared over 2a. So that second triangle,
+its circumradius being 25 gives us this equation
+right over here. Now we can use both of this. We have two equations
+with two unknowns. Let's solve for a and b. If we know a and b, we can then
+go back here and figure out the rhombus's area. So over here, we get-- let's
+multiply both sides by 2b. We get 25b is equal to a
+squared plus b squared. Over here, if we multiply
+both sides by 2a, we get 50a is equal to a
+squared plus b squared. So 50a is equal to a
+squared plus b squared. 25b is equal to a
+squared plus b squared. So 25b must be the
+same thing as 50a. They're both a squared
+plus b squared. So we get 25b must
+be equal to 50a. They're both equal to a
+squared plus b squared. Now, divide both sides by
+25, you get b is equal to 2a. b is equal to--
+actually I wanted to do that in the magenta. b is equal to 2a. So we can take this information
+and then now substitute back into either one of these
+equations to solve for b, and then we can solve for a. So let's go back into this one. So we get 50a-- actually
+we'll solve for a first. 50a is equal to a
+squared plus b squared. Instead of writing b squared, we
+know b is the same thing as 2a, so let's write 2a squared. So we get 50a is equal to
+a squared plus 4a squared. Or we get 50a is
+equal to 5a squared. We could divide
+both sides by 5a. If we divide this
+side by 5a, we get 10. And if we divide this
+side by 5a, we get a. So a is equal to 10. And then we could just
+substitute back here to figure out b. 2 times a is equal to b.
+b is equal to 2 times 10, which is equal to 20. So we know a is 10. b is 20. We just have to
+go right back here to figure out the
+area of the rhombus. The area of the rhombus
+is equal to 2 times-- a was 10-- 2 times 10 times 20. This is 20 times 20. This is equal to 400. And we're done. The area of rhombus ABCD is 400.

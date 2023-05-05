@@ -1,0 +1,32 @@
+Hello. Hold on for just a second, please.
+Welcome to "Rendering." I'm Christophe Hery and
+I'm a researcher at Pixar. Rendering is the last phase of
+the pipline and film production that takes our movies
+from this to this. Rendering is where the world we've created
+in the virtual three-dimensional space of the computer is finally realized
+as a series of perfectly rendered two-dimensional images
+that play one after another for 96 minutes and
+become our movie. Rendering is an incredibly
+time-consuming process, all focused on answering
+one simple question: "What color is this pixel –
+and then this pixel – and then this pixel
+and this pixel?" Seems simple enough. I mean, the balloon is blue,
+so the pixel will be blue, right? Well not exactly. A pixel is a tiny portion
+of the final image. It acts like a little window
+into the virtual 3D world. To understand what
+color it should be, we have to figure out
+what part of the picture we see through that window. We translate this question,
+"What color is this pixel?", into math. This equation is called
+the "rendering equation." It's a mathematical description of how
+light bounces around in the environment. I know we said "color."
+And this equation is about light. But there's a good reason for that. Color is light – just light
++of different wavelengths. So when we ask the question,
+"What color is this pixel?", we're really asking "What light is coming
+through this pixel towards the camera?" The solution to the equation
+will be the answer to our question. "This pixel is – purple?"
+[Asks in an unsure way.] To render a movie like "Up,"
+we have to ask this question: "What color is this pixel?"
+billions and billions of times. But just like every part of this process,
+each little calculation isn't hard to do. It's the layer upon layer
+of calculation that makes it complex, but also makes it possible to bring
+something this beautiful to the screen.

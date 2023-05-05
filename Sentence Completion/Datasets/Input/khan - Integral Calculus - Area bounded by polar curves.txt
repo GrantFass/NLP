@@ -1,0 +1,73 @@
+- [Voiceover] We now
+have a lot of experience finding the areas under
+curves when we're dealing with things in rectangular coordinates. So we saw we took the Riemann sums, a bunch of rectangles,
+we took the limit as we had an infinite number of
+infinitely thin rectangles and we were able to find the area. But now let's move on
+to polar coordinates. And in polar coordinates
+I won't say we're finding the area under a curve,
+but really in this example right over here we have
+a part of the graph of r is equal to f of theta and we've graphed it between theta is equal to alpha and theta is equal to beta. And what I wanna do in
+this video is come up with a general expression
+for this area in blue. This area that is bounded,
+I guess you could say by those angles and the graph
+of r is equal to f of theta. And I want you to come
+up, or at least attempt to come up with an expression on your own, but I'll give you a
+little bit of a hint here. When we did it in rectangular coordinates we divided things into rectangles. Over here rectangles don't
+seem as obvious because they're all kind of coming to this point, but what if we could divide things into sectors or I guess we could
+say little pie pieces? Someone is doing some
+serious drilling downstairs. I don't if it's picking
+up on the microphone. But anyway, I will continue. So what would happen if
+we could divide this into a whole series of kind of pie pieces and then take the limit as if we had an infinite number of pie pieces? So we want to find the
+area of each of these pie pieces and then take the
+limit as the pie pieces I guess you could say
+become infinitely thin and we have an infinite number of them. And I'll give you one more
+hint, for thinking about the area of these pie, I guess you could say the area of these pie wedges. I'll give you another
+hint, so if I have a circle I'll do my best attempt at a circle. Luckily the plumbing or
+whatever is going on downstairs has stopped for now
+allowing me to focus more on the calculus, which is
+obviously more important. All right so if I have
+a circle, that's my best attempt at a circle, and it's of radius r and let me draw a sector of this circle. It's a sector of a circle, so
+that's obviously r as well. And if this angle right
+here is theta, what is going to be the area of
+this sector right over here? So that's my hint for you,
+think about what this area is going to be and we're
+assuming theta is in radians. Think about what this area
+is going to be and then see if you can extend
+that to what we're trying to do here to figure out, somehow I'm giving you a hint again. Using integration, finding
+an expression for this area. So I'm assuming you've had a go at it. So first let's think about
+this, what's the area of the entire circle,
+well we already know that. That's going to be pi r squared, formula for the area of a circle. And then what's going
+to be the area of this? Well it's going to be a
+fraction of the circle. If this is pi, sorry if this
+is theta, if we went two pi radians that would be the
+whole circle so this is going to be theta over
+two pi of the circle. So times theta over two pi would be the area of this sector right over here. Area of the whole circle
+times the proprotion of the circle that we've kind of defined or that the sector is made up of. And so this would give
+us, the pis cancel out, it would give us one half
+r squared times theta. Now what happens if instead of theta, so let's look at each of these over here. So each of these things that I've drawn, let's focus on just one of these wedges. I will highlight it in orange. So instead of the angle
+being theta let's just assume it's a really,
+really, really small angle. We'll use a differential
+although this is a bit of loosey-goosey mathematics
+but the important here is to give you the
+conceptual understanding. I could call it a delta
+theta and then eventually take the limit as our delta
+theta approaches zero. But just for conceptual
+purposes when we have a infinitely small or super
+small change in theta, so let's call that d theta,
+and the radius here or I guess we could say this length right over here. You could view it as the radius of at least the arc right at that point. It's going to be r as a
+function of the thetas that we're around right over
+here, but we're just going to call that our r right over there. And so what is going to be the
+area of this little sector? Well the area of this
+little sector is instead of my angle being theta I'm calling my angle d theta, this
+little differential. So instead of one half
+r squared it's going to be, let me do that in a color you can see. This area is going to be
+one half r squared d theta. Notice here the angle
+was theta, here the angle was d theta, super, super small angle. Now if I wanted to take
+the sum of all of these from theta is equal to alpha
+to theta is equal to beta and literally there is an
+infinite number of these. This is an infinitely small angle. Well then for the entire
+area right over here I could just integrate all of these. So that's going to be the
+integral from alpha to beta of one half r
+squared d theta where r, of course, is a function of theta. So you could even write it this way, you could write it as
+the integral from alpha to beta of one half r of
+theta squared d theta. Just to remind ourselves or assuming r is a function of theta in this case.

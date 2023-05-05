@@ -1,0 +1,35 @@
+- [Voiceover] So, we're told that g of x is equal to x squared
+plus 5 x minus 3 and h of y is equal to 3 times y minus 1 squared, minus 5. And then, we're asked, what is h of g of negative 6? And the way it's written might
+look a little strange to you. This little circle that we have
+in between the h and the g, that's our function composition symbol. So, function, function composition, composition, composition symbol. And one way to rewrite this, it might make a little bit more sense. So, this h of g of negative 6. You could rewrite this as, this is going to be the same thing as g of negative 6, and then h of that. So, h of g of negative 6. Notice, I spoke this out the
+same way that I said this. This is h of g of negative 6. This is h of g of negative 6. I find the second notation
+far more intuitive, but it's good to become familiar with this function composition
+notation, this little circle, because you might see that sometime and you shouldn't stress, it's
+just the same thing as what we have right over here. Now, what is h of g of negative 6? Well, we just have to remind
+ourselves that this means that we're going to take
+the number negative 6, we're going to input
+it into our function g, and then that will
+output g of negative 6, whatever that number is, we'll
+figure it out in a second, and then we're going to input
+that into our function h. We're going to input
+that into our function h. And then, what we output is going to be h of g of negative six, which
+is what we want to figure out. h of g of negative 6. So, we just have to do
+it one step at a time. A lot of times, when you
+first start looking at these function composition,
+it seems really convoluted and confusing, but you just have to, I want you to take a breath
+and take it one step at a time. Well, let's figure out
+what g of negative 6 is. It's going to evaluate
+to a number in this case. And then, we input that
+number into the function h, and then we'll figure out another -- that's going to map to another number. So, g of negative 6. Let's figure that out. g of negative 6 is equal to negative 6 squared, plus 5 times negative 6, minus 3, which is equal to positive
+36, minus 30, minus 3. So, that's equal to what? 36 minus 33, which is equal to 3. So, g of negative 6 is equal to 3. g of negative 6 is equal to 3. g of negative 6 is equal to 3. You input negative 6
+into g, it outputs 3. And so, h of g of negative
+6 has now simplified to just h of 3 because
+g of negative 6 is 3. So, let's figure out what h of 3 is. h of 3 --. notice,
+whatever we outputted from g, we're inputting that now into h. So, that's the number 3,
+so h of 3 is going to be 3 times 3 minus 1, 3 minus 1 squared, minus 5, which is equal to 3 times 2 squared, this is 2 right over here, minus 5, which is equal to 3
+times 4 minus 5, which is equal to 12 minus 5, which is equal to 7. And we're done. So, you input negative
+6 into g, you get 3. And then, you take that output from g and you put it into h and you get 7. So, this right over here is 7. All of this has come out
+to be equal to 7. So, h of g of negative
+6 is equal to 7. h of g of negative 6 is equal to 7. Input negative 6 into
+g, take that output and input it into h, and
+you're gonna get 7.

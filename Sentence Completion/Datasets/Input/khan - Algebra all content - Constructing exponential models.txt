@@ -1,0 +1,30 @@
+- [Voiceover] Derek sent a
+chain letter to his friends, asking them to forward the
+letter to more friends. The group of people who
+receive the email gains 9/10 of its size every three weeks, and can be modeled by a function, P, which depends on the
+amount of time, t in weeks. Derek initially sent the
+chain letter to 40 friends. Write a function that
+models the group of people who receive the email t weeks since Derek initially
+sent the chain letter. So pause the video if you
+wanna have a go at this. All right, now the way I'd
+like to think about this, let's just gonna table with values for t and our function P which is a function of t. For some values that we can just pull out of the description here. So when t is zero, when
+it's been zero weeks since Derek initially
+sent the chain letter, how many people have gotten it? Well, they tell us. He initially, Derek initially sent the chain letter to 40 friends. So t equals zero. P of t or P of zero is 40. Now, what's an interesting time period? It says that the email,
+the number of people who receive the email gains 9/10 or increases by 9/10 every three weeks, every three weeks. So after three weeks, so three weeks have gone by. So I'm just adding three to t. What is P of t going to be? Well, they tell us it's going
+to gain 9/10 of its size. So it's going to be 40 plus 9/10 times 40 which is going to be equal to, what? Well, that's equal to 40. We factor out our 40. 40 times one plus 9/10 or you could say this
+is equal to 40 times, whoops, 40 times 1.9. Another way of thinking about it, after three weeks, we've grown 90%. That's another way of saying
+that the number of people who receive the email
+gains 9/10 of its size. You could say the group of
+people who receive the email grows 90% every three weeks. And so if we go another three weeks, so plus another three weeks, I could say, well, let me just write this, this is six weeks. Well, how many people would
+have received the email? It was going to be this number. It's going to be grown another 90%. So we're gonna multiply
+it times 1.9 again. So it's going to be 40 times 1.9 times 1.9. We're gonna grow by another 9/10. Growing by 9/10 is the
+same thing as multiplying by one and 9/10. The one is what you already are. Then you're growing by another 9/10. So this is the same thing as 40 times 1.9 squared. We go another three weeks, nine weeks. We're gonna grow another 90%. So you're gonna multiply it by, you're gonna take this number and multiply by 1.9 again which is going to be
+1.9 to the third power. And so what's going on over here? Well, we can see some
+exponential function. We have our initial value. And every three weeks,
+we're multiplying by 1.9. So 1.9 would be our common ratio. So we could say that P of t is
+equal to our initial value 40 times our common ratio 1.9. And we multiply by 1.9 every three weeks. So we could just say, how many three week
+periods have passed by? Well, we will take t
+and divide it by three. T divided by three is a
+number of three week periods that have gone by. And there you have it. And notice, t equals zero, 1.9 to the zeroth power is one so 40 times one. T equals three, that's gonna
+be 1.9 to the first power, three over three. And so we're gonna grow by
+90% and so on and so forth. So feeling pretty good about this.

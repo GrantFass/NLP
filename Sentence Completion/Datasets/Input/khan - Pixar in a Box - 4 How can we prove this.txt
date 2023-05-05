@@ -1,0 +1,12 @@
+(steps and bouncing) (switch clicks) - You should now have some experience in computing points on parabolas, using the formulas that we wrote
+down in the previous video. These formulas are based on the hypothesis that all of these ratios
+are in the same proportion, and that proportion is governed by t. But now we're gonna prove that these formulas are actually correct. So I'm gonna use this version of the interactive in the proof. You'll have a chance to experiment with this interactive in a minute. And as before, I've got a string art line that is controlled by a parameter t. As I wiggle t back and forth, the string art line
+wiggles back and forth. The method I'm gonna use to find where the touching point occurs seems a little bit sneaky at first, but it's the simplest method I know. And what I'm gonna do is
+introduce another string art line, this one controlled by a parameter s. And what I'm gonna do is I'm
+gonna write down an expression for this intersection point
+here, this green point. Now, why would I do that? Well, the reason is, watch what happens as s and t get closer and closer together. So as I make s closer and closer to t, watch what happens to
+this intersection point. OK, it moves, and it gets closer
+and closer to the parabola, and exactly when s equals t, that intersection point lies
+exactly on the parabola. So if I can write down a formula for where that intersection point is, I can compute exactly where
+the touching point occurs. This is probably a good time
+to pause and let you experiment with this interactive to get some feeling for what we're about to do algebraically.

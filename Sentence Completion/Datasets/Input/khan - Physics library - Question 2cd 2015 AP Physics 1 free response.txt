@@ -1,0 +1,47 @@
+- [Voiceover] Let's now tackle
+the rest of this problem. So they say a light-bulb is non-ohmic if its resistance changes
+as a function of current. Your setup from part a, which
+we have right over here, is to be used or modified
+to determine whether the light-bulb is non-ohmic. How, if at all, does the
+setup need to be modified? Well, we want to be able
+to change the current that's going through the light-bulb and then see how the resistance changes, so what we could do, we
+could always measure it with the setup right over here. It's very easy to measure the resistance. So we can measure resistance by, we know that V is equal to, we know that voltage is equal
+to current times resistance or that resistance is equal
+to voltage divided by current. So, if we know the current going through a light-bulb and we know the voltage across it, we can always figure out the
+resistance of the light-bulb. So our set-up right here
+is actually very good for figuring out the resistance of the actual light-bulb. And so we need to change the current and see how the resistance changes. And there's a couple of ways that we could change the current. We could change some
+other resistance here, but lucky for us we have
+a variable power source, so we can change the voltage, we can change the voltage
+across the entire circuit, and by changing the voltage across the entire circuit, well that's going to change
+the current that is going. This is a simple circuit. It's just going in series. The current is just doing like that, and so if we change the current
+through the entire circuit, we would be changing the
+current through the light-bulb, and then we could just measure V and I and figure out whether R changes as well. So, how, if all, does the
+setup need to be modified? I could say it doesn't
+need to be modified. Doesn't need modification. Modification. All right. And then the next section, what additional data, if any, would need to be collected. Well, I would want to, I would want to measure. Let me even do this part down. Let me do it, part c, over here. So, part c. So, part one of part
+c was no modification. No modification. No mod, I can explain that. I can change resistance. I can change, I can change current by varying power source. By varying power source. Power source. I can measure, I can measure resistance of bulb by voltage across bulb, across bulb, divided by, divided by current entering or exiting bulb. And I know the first part of this test we were saying, hey, do we have the same number
+of electrons per second entering the bulb or exiting the bulb, but from what we know of currents, we know that the current
+is going to be the same on either side. You have a voltage drop,
+but the current is the same. And so entering or exiting, you're going to get the same value, and even if you didn't
+know what I just told you, the first part of the experiment
+would have told you that, that your current is the same entering and exiting the bulb. And so, this right over here is going to be equal to
+the resistance of the bulb. So I can change the current
+by varying the power source, and then I can see what value I get for R by measuring these things as I change that overall current for my, for my setup. Let's see b. What additional data, if any,
+would need to be collected? So, part two. Part two here. I'd need to collect, collect voltage across, across bulb as current changes, or it'd be as I change
+my variable power source. As I vary power source, power source, and I would also have to collect, maybe I'll write it this way, I'll collect that, voltage. I'll write it like that. Voltage across bulb as
+I vary power source, and I could say current, current entering, exiting bulb as I vary power source. Power source. So I'd have to measure these things and then I'll be able to
+figure out if my R changes. All right, let's tackle part d now. How would you analyze the data to determine whether the bulb I non-ohmic? Include a discussion of
+how the uncertainties in the voltmeters and ammeters
+would affect your argument for concluding whether the
+resistance is non-ohmic. Well, I explained it a
+little bit, well, up here, but I'll write it again. d, so, let me read that one more time. How would you analyze the data? So, what I would do is, so, power source, I would make one voltage for, I would vary power source, source to first voltage, voltage, and measure, measure what is described above, and measure above. Use to calculate, use to calculate the resistance, resistance of bulb. And then, vary power source to second voltage, voltage, and once again, measure above, measure above. See if resistance changes, see if resistance changes. So, we could say, if V across bulb, across bulb, over, let me actually, let
+me just write it this way. All the Vs are cross above with. V_one over the current_one, so this is the voltage across the bulb over the current across the bulb. If this is equal to, after I change it, the voltage across the bulb divided by the current across the bulb. If this over here, if these are equal,
+then I am dealing with, the resistance has not changed, and so we could say, well non-ohmic, non-ohmic is when the
+resistance does change. If resistance, so we could say, non-non-ohmic, or I could say not non-ohmic, non-ohmic, otherwise if V_one over
+I_one does not equal, let me write that, I wrote V_i. Let me write V_one, V_one over I_one does not equal V_two over I_two, then we are non-ohmic. And we have to be careful, because the sensitivities of
+our voltmeters and ammeters might give us an aberrant result. For example, we might be non-ohmic but because of how we're
+rounding in the measurement, it actually might give us a change, especially because our ammeter
+is more sensitive here, and on the other hand, we
+might be a situation where we are non-ohmic, but it doesn't, you don't register the
+change because it hasn't been large enough to be registered by the sensitivity of your instruments. So, need to be careful, careful about, about instrument sensitivity. Instrument sensitivity. Sensitivity. The rounding, rounding to nearest, nearest 0.1 volt or 0.01 amp could result in, in difference in V over I when there isn't any, there isn't any, or vice versa. It might not result in a difference, but there actually might be a change but it's not big enough to be measured. Or vice versa. So you always have to be careful when you're doing any
+experiment in any science about how sensitive your
+actual instruments are and what the rounding might do for these calculations.

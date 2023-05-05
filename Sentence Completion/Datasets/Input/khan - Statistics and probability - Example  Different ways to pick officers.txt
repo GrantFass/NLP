@@ -1,0 +1,35 @@
+A club of nine people wants
+to choose a board of three officers, President, Vice
+President, and Secretary. Assuming the officers are chosen
+at random, what is the probability that the officers
+are Marcia for president, Sabita for Vice President,
+and Robert for Secretary? So to think about the
+probability of Marcia-- so let me write this-- President is
+equal to Marcia, or Vice President is equal
+to Sabita, and Secretary is equal to Robert. This, right here, is one
+possible outcome, one specific outcome. So it's one outcome out of the
+total number of outcomes, over the total number of
+possibilities. Now what is the total number
+of possibilities? Well to think about that, let's
+just think about the three positions. You have President, you
+have Vice President, and you have Secretary. Now let's just assume that we're
+going to fill the slot of President first. We don't
+have to do President first, but we're just going
+to pick here. So if we're just picking
+President first, we haven't assigned anyone to any officers
+just yet, so we have nine people to choose from. So there are nine possibilities
+here. Now, when we go to selecting our
+Vice President, we would have already assigned one
+person to the President. So we only have eight
+people to pick from. And when we assign our
+Secretary, we would've already assigned our President and Vice
+President, so we're only going to have seven people
+to pick from. So the total permutations here
+or the total number of possibilities, or the total
+number of ways, to pick President, Vice President, and
+Secretary from nine people, is going to be 9 times 8 times 7. Which is, let's see,
+9 times 8 is 72. 72 times 7, 2 times 7 is 14, 7
+times 7 is 49 plus 1 is 50. So there's 504 possibilities. So to answer the question, the
+probability of Marcia being President, Sabita being Vice
+President, and Robert being Secretary is 1 over the total
+number of possibilities, which is 1 over 504. That's the probability.

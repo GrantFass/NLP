@@ -1,0 +1,37 @@
+- [Instructor] Hello, everyone. Let's talk about kinetic energy. Now, kinetic might be an unfamiliar word, but it just comes from a Greek word that means of motion, so kinetic energy is energy from motion. Any massive object that is in motion then has kinetic energy, but how much? First, let's consider some comparisons. This nice rat family, papa,
+mama, brother, and sister are sitting down to dinner at a long table passing blocks of cheese back-and-forth. Papa rat asks for the cheddar cheese and there are two identical blocks. Brother rat pushes one and
+sister rat pushes the other, so that the second cheese is traveling twice as fast as the first cheese. Which piece of cheddar cheese do you think has more kinetic energy? Yes, it's the one going faster. Now, papa rat doesn't need
+both pieces of cheddar, so he eats one and sends one back, along with this small piece of Swiss that weighs half as much
+as the piece of cheddar. Papa rat has better
+manners than his children, so he sends them both
+back at the same speed. Which piece of cheese would you think has more kinetic energy now? Yes, the heavier or more massive object, in this case, the cheddar,
+will have more kinetic energy. Let's make it a little more complicated. Brother and sister rat are full, so they send the cheeses
+back for mama rat. Brother rat pushes the
+larger piece of cheddar and sister rat pushes the
+smaller piece of Swiss so that the Swiss is going
+twice as fast as the cheddar. Now, which cheese has more kinetic energy? In fact, it turns out that it's
+the Swiss in this scenario. Kinetic energy depends
+on both mass and speed, but the dependence on speed is stronger. This estimation of kinetic energy can be quantified in an equation that lets us calculate
+kinetic energy exactly. We said kinetic energy depends on the mass and the speed, which we'll
+write as V for velocity, so we can start with K E equals M times V. But we said that it
+depends more on the speed, so the velocity here is actually squared. This means that if an
+object's mass doubles, its kinetic energy also doubles, but if its speed doubles, the kinetic energy actually quadruples. And there's also a constant factor of 1/2 at the beginning of the equation, but we won't go into
+the details of the math of deriving this today. So, this is the equation
+for kinetic energy, 1/2 M V squared. Let's apply this equation
+to our cheesy example. Say the Swiss has a mass of .05 kilograms, which makes the cheddar's
+mass .1 kilograms. When both cheeses have the same speed, say two meters per second, the cheddar's kinetic energy
+is 1/2 times .1 kilograms, times two meters per second
+squared, which is .2 Joules. The Swiss's kinetic energy
+is 1/2 times .05 kilograms times two meters per second
+squared, which is .1 Joules, or half the kinetic energy of the cheddar. So we can see that at the same speed, the cheddar has more kinetic energy because it has more mass. But when the Swiss has a speed
+of four meters per second and the cheddar still has a
+speed of two meters per second, the Swiss's kinetic energy is
+now 1/2 times .05 kilograms times four meters per second
+squared, which is .4 Joules. So now, the kinetic energy of the Swiss is twice the kinetic
+energy of the cheddar. So we can see that even though
+the cheddar has more mass the Swiss has more kinetic energy because it's going faster. In summary, kinetic energy is the motion energy of an object. The equation for kinetic
+energy is 1/2 M V squared. So as mass increases,
+kinetic energy increases, like the more massive
+cheddar versus the Swiss, and as velocity increases, kinetic energy increases even more, like the speedy Swiss
+versus the slower cheddar. Thanks for watching, and I hope you learned a
+little bit of something.

@@ -1,0 +1,122 @@
+In this video we're going
+to do with the hyperbola the exact same thing
+we did with the circle. We're going to find
+constraints on the y-intercept for the tangent
+line in terms of m. But this time we're going
+to use the hyperbola. And then we can set them
+equal to each other, and solve for the m. So let's remind ourselves what
+the equation of the hyperbola is. They give it to us
+right over there. It's x squared over 9 minus y
+squared over 4 is equal to 1. Let me write this over here. So it is x squared over
+9 minus y squared over 4 is equal to-- I'll
+write the y squared-- minus y squared over
+4 is equal to 1. But now we can
+substitute the y squared with the y is equal
+to mx plus b that we got from the last video. And we actually figured out
+what y squared is equal to. Y squared is equal to all
+of this business up here. Because it's the same line. Remember, this is the
+whole point of it. We're trying to find two
+constraints on that same line. So we can rewrite
+this same thing. And actually one
+thing I want to do is I'm going to multiply
+both sides of this equation by 36, the common
+multiple of 9 and 4, so that I can get rid
+of these fractions. And so this is going to become
+36-- let me write it this way-- so 36 divided by 9 is 4. So it's 4x squared minus--
+36 divided by 4 is 9-- and I would put a y
+squared here but we know that y squared is
+the exact same thing as this thing over here. So y squared is the
+same thing as m squared. x squared plus 2
+mbx plus b squared. And then this is going to
+be equal to-- remember, we multiplied both
+sides of this equation by 36-- so this is
+going to be equal to 36. And let me simplify this. And we're going to do
+the exact same thing. We know that the m and
+b have to be such that, or the line has to have a slope
+and y-intercept where it'll only intersect with the
+hyperbola at one point. It'll only have one solution to
+this quadratic in terms of x. But let's simplify it first
+before we worry about that. So this is equal to 4 x
+squared minus 9 m squared x squared minus 18
+mbx, minus 9 b squared. Just multiply it there. And let me subtract
+this 36 from both sides, so then we have minus
+36 is equal to 0. So this is a quadratic
+in terms of x. But let me combine the
+various degree terms. So these are the x squared
+terms right over here. So this is the same thing as
+4 minus 9 m squared times x squared. And then our only x term
+is this right over here. That's our only x term. So this is minus 18 mbx. And then our constant
+terms are right over here. So this over here is minus
+9 b squared-- and let me write it this way, let
+me write it as minus 9-- well I'll just write it,
+minus 9 b squared minus 36. I'll just write it like that. And of course that is
+going to be equal to 0. And remember, quadratic
+formula, if we wanted to solve for the Xs,
+we'd have the quadratic formula, but we only want to
+have one solution. So the discriminant part
+of the quadratic formula is going to equal 0. The b squared minus 4 ac
+is going to be equal to 0. This is exactly what we
+did in the last video. So let's take the
+b squared minus 4ac and set that equal
+to 0, and then we'll have our constraints on m and b. So b squared is-- and
+remember don't get the squared in the quadratic
+formula confused with the b in the y-intercept. But this term
+squared is-- so this is going to be-- 18 squared
+m squared b squared, right? Negative 18 squared
+is just positive 18. Minus 4 times a. a is 4 minus 9 m
+squared times c. So I can rewrite c as negative
+9 times b squared plus 4. Did I do that right? Negative 9 times b squared
+is negative 9 b squared. Negative 9 times
+4 is negative 36. I want to make sure I don't
+make any careless mistakes. And so this becomes--
+so if we just take the negative 9
+and the negative 4-- they become a positive 36. They become a positive 36. And then we can actually,
+just to simplify things so we don't have to do
+too much fancy math, this 18 squared--
+let's remember-- 18 squared is the same
+thing as-- well 18 squared is going to be divisible--
+well I won't worry too much about that just yet. I just want to make
+sure that-- Actually let me write it this way. So 18 squared is 2
+times 9 times 2 times 9. Or another way to think about
+it is 4 times 9 times 9. That's the same
+thing as 18 squared. 4 times 9 times 9. Now we can divide both of these
+terms-- and this whole thing, remember we want this whole
+thing to be equal to 0. The discriminant has
+to be equal to 0. So we can divide both
+sides of this equation by 36, which is the same thing
+as dividing by 4 times 9. So this term right over here,
+we could get rid of one 4 and one 4. And we're going to get a 9 m
+squared b squared over here. And then we divided by
+36, so these all go away. So it's going to be
+9 m squared b squared plus this thing
+times this thing. So let's see what that is. So we have a 4
+times a b squared. So we have plus 4 b squared. Let me do this in
+a different color. I'll do it in blue. So plus 4 b squared. And then you have 4 times 4. So plus 16. And you have negative 9 m
+squared times b squared. So it's negative 9
+m squared b squared. And then you have negative
+9 m squared times 4. So negative 36 m squared. And that's going
+to be equal to 0. Lucky for us, that
+and that cancel out. And then we are
+left with something. And actually, what
+we're left with, everything is divisible by 4. So let's divide what
+we're left with by 4. So then we're left with b
+squared-- that's that term. And then minus 9 m squared. That's that term over there. Just divided it by 4. And then plus 4 is equal to 0. And once again, we could
+use-- well actually here, we don't have to do anything. We don't have to use
+quadratic formula. We could just solve for b. We could subtract
+this from both sides. And so we'll get b squared
+is equal to the square root of 9 m squared minus 4. Sorry-- let me
+just write this-- I don't want to skip steps here. b squared is equal to
+9 m squared minus 4. They're painting the
+office right now, so maybe it's making me a
+little bit-- making my brain not work properly. Then b is equal to the square
+root of 9 m squared minus 4. Did I do that right? Let's see. I got the 4. Yeah, it looks right. And so we're left
+with a situation where the b-- if we're saying
+that if the line is tangent to the
+hyperbola it to be this, and if the line is
+tangent to the circle b has to be equal to this,
+this business over here. So let me copy it and
+then let me paste it. Let me paste it. Just like that. And so we now have two
+equations with two unknowns. We can set these equal to
+each other and solve for m. And this will give us the m or
+the slope of that tangent line. And then we can go
+ahead and solve for b. I'll do that in the next video.

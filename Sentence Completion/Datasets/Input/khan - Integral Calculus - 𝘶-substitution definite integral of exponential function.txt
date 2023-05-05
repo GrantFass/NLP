@@ -1,0 +1,88 @@
+Sal: Let's see if we can
+calculate the definite integral from zero to
+one of x squared times two to the x to the third power d x. Like always I encourage
+you to pause this video and see if you can figure
+this out on your own. I'm assuming you've had a go at it. There's a couple of
+interesting things here. The first thing, at least
+that my brain does, it says, "I'm used to taking derivatives
+and anti-derivatives of e to the x, not some
+other base to the x." We know that the derivative
+with respect to x of e to the x is e to the x, or we could
+say that the anti-derivative of e to the x is equal
+to e to the x plus c. Since I'm dealing with
+something raised to, this particular situation,
+something raised to a function of x, it seems
+like I might want to put, I might want to change the base
+here, but how do I do that? The way I would do that is
+re-express two in terms of e. What would be two in terms of e? Two is equal to e, is
+equal to e raised to the power that you need to
+raise e to to get to two. What's the power that you have to raise two to to get to two? Well that's the natural log of two. Once again the natural
+log of two is the exponent that you have to raise e to to get to two. If you actually raise e to
+it you're going to get two. This is what two is. Now what is two to the x to the third? Well if we raise both sides
+of this to the x to the third power, we raise both sides
+to the x to the third power, two to the x to the third
+is equal to, if I raise something to an exponent and
+then raise that to an exponent, it's going to be equal to
+e to the x to the third, x to the third, times
+the natural log of two, times the natural log of two. That already seems pretty interesting. Let's rewrite this, and
+actually what I'm going to do, let's just focus on the
+indefinite integral first, see if we can figure that out. Then we can apply, then we can take, we can evaluate the definite ones. Let's just think about
+this, let's think about the indefinite integral of x squared times two to the x to the third power d x. I really want to find the
+anti-derivative of this. Well this is going to be
+the exact same thing as the integral of, I'll
+write my x squared still, but instead of two to the x to the third I'm going to write all of this business. Let me just copy and paste that. We already established
+that this is the same thing as two to the x to the third power. Copy and paste, just like that. Then let me close it with a d x. I was able to get it in
+terms of e as a base. That makes me a little
+bit more comfortable but it still seems pretty complicated. You might be saying, "Okay, look. "Maybe u substitution
+could be at play here." Because I have this crazy
+expression, x to the third times the natural log of two, but
+what's the derivative of that? Well that's going to be three x squared times the natural log of two, or three times the natural
+log of two times x squared. That's just a constant times x squared. We already have a x squared
+here so maybe we can engineer this a little bit to have
+the constant there as well. Let's think about that. If we made this, if we defined this as u, if we said u is equal
+to x to the third times the natural log of two,
+what is du going to be? du is going to be, it's
+going to be, well natural log of two is just a
+constant so it's going to be three x squared times
+the natural log of two. We could actually just change the order we're multiplying a little bit. We could say that this
+is the same thing as x squared times three natural log of two, which is the same thing just
+using logarithm properties, as x squared times the natural
+log of two to the third power. Three natural log of two is the same thing as the natural log of
+two to the third power. This is equal to x squared
+times the natural log of eight. Let's see, if this is u, where is du? Oh, and of course we can't forget the dx. This is a dx right over here, dx, dx, dx. Where is the du? Well we have
+a dx. Let me circle things. You have a dx here, you have a dx there. You have an x squared here,
+you have an x squared here. So really all we need is, all we need here is the
+natural log of eight. Ideally we would have the
+natural log of eight right over here, and we could put it
+there as long as we also, we could multiply by
+the natural log of eight as long as we also divide
+by a natural log of eight. We can do it like right over here, we could divide by natural log of eight. But we know that the
+anti-derivative of some constant times a function is the
+same thing as a constant times the anti-derivative
+of that function. We could just take that on the outside. It's one over the natural log of eight. Let's write this in terms of u and du. This simplifies to one over the natural log of eight times the anti-derivative of e to the u, e to the u, that's the u, du. This times this times that is du, du. And this is straightforward, we know what this is going to be. This is going to be equal
+to, let me just write the one over natural
+log of eight out here, one over natural log of
+eight times e to the u, and of course if we're
+thinking in terms of just anti-derivative there would
+be some constant out there. Then we would just
+reverse the substitution. We already know what u is. This is going to be equal
+to, the anti-derivative of this expression is one over
+the natural log of eight times e to the, instead
+of u, we know that u is x to the third times
+the natural log of two. And of course we could put a plus c there. Now, going back to the original problem. We just need to evaluate
+the anti-derivative of this at each of these points. Let's rewrite that. Given what we just figured out,
+let me copy and paste that. This is just going to be equal to, it's going to be equal to
+the anti-derivative evaluated at one minus the anti-derivative
+evaluated at zero. We don't have to worry about the constants because those will cancel out. So we are going to get,
+we are going to get one-- Let me evaluate it first at one. You're going to get one
+over the natural log of eight times e to the
+one to the third power, which is just one, times
+the natural log of two, natural log of two,
+that's evaluated at one. Then we're going to have
+minus it evaluated it at zero. It's going to be one
+over the natural log of eight times e to the, well when x is zero this whole thing is going to be zero. Well e to the zero is just
+one, and e to the natural log of two, well that's
+just going to be two, we already established that early on, this is just going to be equal to two. We are left with two over the
+natural log of eight minus one over the natural log of
+eight, which is just going to be equal to one over
+the natural log of eight. And we are, and we are done.

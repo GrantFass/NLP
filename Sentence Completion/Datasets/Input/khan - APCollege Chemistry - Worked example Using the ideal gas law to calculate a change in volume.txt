@@ -1,0 +1,62 @@
+- [Instructor] We're told
+that a weather balloon containing 1.85 times
+10 to the third liters of helium gas at 23 degrees
+Celsius and 765 Torr is launched into the atmosphere. The balloon travels for two hours before bursting at an
+altitude of 32 kilometers, where the temperature is
+negative 44 degrees Celsius and the pressure is 6.51 Torr. What is the volume of the
+balloon just before it bursts? So pause this video and see
+if you can figure that out. All right, so you might
+already have an intuitive sense that this has something to
+do with the ideal gas law, because they're giving
+us a bunch of pressures, volumes, and temperatures, and the ideal gas law deals with that, it tells us that pressure times volume is equal to the number of moles times the ideal gas
+constant times temperature. Now, what's different about this example is that they aren't just giving us several of these variables and asking us to solve one of them, they're talking about
+these variables changing, and how that might affect other variables. And so one way to think
+about it is if we divide both sides by T, you get
+PV over T is equal to NR. And in this example, as this balloon goes to higher and higher altitudes, the number of moles does not change, and the ideal gas
+constant does not change. So one way to think about it is that PV over T has to be constant. So our volume and our
+temperature could change, but because this whole
+expression on the left has to be constant, that could
+then determine our pressure. Or another way to think about it, you could say your starting pressure times your starting volume
+over your starting temperature is going to be equal
+to the number of moles times the ideal gas constant, which also needs to be
+equal to your pressure right before it bursts times the volume right before it bursts,
+divided by the temperature right before it bursts, or you could just say
+that P one times V one over T one is equal to P
+two times V two over T two. And so what are these different variables? Well, let's first think about P one, so pressure at time one
+is what, it's 765 Torr. 765 Torr, and what's P two? That's the pressure just before it burst, and they tell us it's 6.51
+Torr, much lower pressure, which makes intuitive sense,
+we're at a higher altitude. 6.51 Torr, now, what is V one? Well, they tell us that right over there, that is 1.85 times 10 to the third liters. Now, what is V two? Well, that's what they
+want us to figure out, what is the volume of the
+balloon just before it bursts? So I'll put a little question mark there. And then, last but not
+least, what is T one? Well, they tell us the
+starting temperature is at 23 degrees Celsius, but you have to think on
+more of an absolute scale, and deal with temperatures
+in terms of Kelvin, so to convert 23 degrees
+Celsius into Kelvin, you have to add 273, so this
+is going to be 296 Kelvin, and then what is T two? Well, T two is negative
+44 degrees Celsius, if we add 273 to that, let's see, that's going to be, if we
+subtract, it's going to be in my head, 229 Kelvin. And so we have everything we need in order to solve for V two, in fact, we can solve for V two before we even put in these numbers, if we multiply both sides of this equation times T two over P two, and the reason why I'm
+multiplying it times this is so that this cancels with
+this, this cancels with that, so I have just V two
+on the right-hand side. Of course, I have to
+do that on both sides. T two over P two, I am going to get, and I'll now color code it, I'm going to get that T two times P one times V one, over P
+two times T one, T one, is equal to V two, V two. So we just have to
+calculate this right now, let me give myself a
+little bit more real estate with which to do it, and so we could write that
+V two is equal to T two, which is 229 Kelvin, times
+P one, which is 765 Torr, times V one, which is 1.85
+times 10 to the third liters, all of that over P two,
+which is 6.51 Torr, times T one, which is 296 Kelvin, and we can confirm that
+the units work out, Torr cancels with Torr,
+Kelvin cancels with Kelvin, so we're just gonna have a
+bunch of numbers, a calculation, and the units we're left with is liters, which is good, because
+that is what we care about when we care about volume. So this is going to be
+equal to 229 times 765, times 1.85 times 10 to the third, divided by 6.51, divided by 296 is equal to this business right over here. Let's see, we have three
+significant digits here, three significant digits here, three here, three here, and three there, so our answer's going to have
+three significant figures, so it's going to be, if we round, it's gonna be 168,000, and
+so we could just write that as 168,000 liters, or
+if we wanna write that in scientific notation,
+we could write that as 1.68 times 10 to the
+one, two, three, four, five, so let me write it that way, so this is going to be equal to 1.68 times 10 to the fifth liters. And I always like to do
+a nice intuition check, does that makes sense? So our starting volume was 1,850 liters, and then our volume got a lot larger, because we're going to
+a much higher altitude, and that does make intuitive sense to me.

@@ -1,0 +1,169 @@
+In this video I'm going to do
+a bunch of example slope problems. Just as a bit of
+review, slope is just a way of measuring the inclination
+of a line. And the definition-- we're going
+to hopefully get a good working knowledge of it in this
+video-- the definition of it is a change in y divided
+by change in x. This may or may not make some
+sense to you right now, but as we do more and more examples,
+I think it'll make a good amount of sense. Let's do this first
+line right here. Line a. Let's figure out its slope. They've actually drawn two
+points here that we can use as the reference points. So first of all, let's
+look at the coordinates of those points. So you have this point
+right here. What's its coordinates? Its x-coordinate is 3. Its y-coordinate is 6. And then down here, this
+point's x-coordinate is negative 1 and its y-coordinate
+is negative 6. So there's a couple of ways
+we can think about slope. One is, we could look at it
+straight up using the formula. We could say change in y-- so
+slope is change in y over change in x. We can figure it out
+numerically. I'll in a second draw
+it graphically. So what's our change in y? Our change in y is literally
+how much did our y values change going from this
+point to that point? So how much did our
+y values change? Our y went from here, y is at
+negative 6 and it went all the way up to positive 6. So what's this distance
+right here? It's going to be your
+end point y value. It's going to be 6 minus your
+starting point y value. Minus negative 6 or 6 plus
+6, which is equal to 12. You could just count this. You say one, two, three, four,
+five, six, seven, eight, nine, ten, eleven, twelve. So when we changed our y value
+by 12, we had to change our x value by-- what was our
+change it x over the same change in y? Well we went from x is equal
+to negative 1 to x is equal to 3. Right? x went from
+negative 1 to 3. So we do the end point, which is
+3 minus the starting point, which is negative 1, which
+is equal to 4. So our change in y over change
+in x is equal to 12/4 or if we want to write this in simplest
+form, this is the same thing as 3. Now the interpretation of this
+means that for every 1 we move over-- we could view this,
+let me write it this way. Change in y over change in x
+is equal to-- we could say it's 3 or we could
+say it's 3/1. Which tells us that for every
+1 we move in the positive x-direction, we're going to move
+up 3 because this is a positive 3 in the y-direction. You can see that. When we moved 1 in the x,
+we moved up 3 in the y. When we moved 1 in the x,
+we moved up 3 in the y. If you move 2 in the
+x-direction, you're going to move 6 in the y. 6/2 is the same thing as 3. So this 3 tells us how quickly
+do we go up as we increase x. Let's do the same thing for the
+second line on this graph. Graph b. Same idea. I'm going to use the points
+that they gave us. But really you could use any
+points on that line. So let's see, we have one
+point here, which is the point 0, 1. You have 0, 1. And then the starting point-- we
+could call this the finish point-- the starting point right
+here, we could view it as x is negative 6 and
+y is negative 2. So same idea. What is the change in y given
+some change in x? So let's do the change in
+x first. So what is our change in x? So in this situation, what is
+our change in x? delta x. We could even count it. It's one, two, three,
+four, five, six. It's going to be 6. But if you didn't have a graph
+to count from, you could literally take your finishing
+x-position, so it's 0, and subtract from that your
+starting x-position. 0 minus negative 6. So when your change in x is
+equal to-- so this will be 6-- what is our change in y? Remember we're taking this as
+our finishing position. This is our starting position. So we took 0 minus negative 6. So then on the y, we have to
+do 1 minus negative 2. What's 1 minus negative 2? That's the same thing
+as 1 plus 2. That is equal to 3. So it is 3/6 or 1/2. So notice, when we moved in the
+x-direction by 6, we moved in the y-direction
+by positive 3. So our change in y was 3 when
+our change in x was 6. Now, one of the things that
+confuses a lot of people is how do I know what order to--
+how did I know to do the 0 first and the negative 6 second
+and then the 1 first and then the negative
+2 second. And the answer is you could've
+done it in either order as long as you keep
+them straight. So you could have also
+have done change in y over change in x. We could have said, it's equal
+to negative 2 minus 1. So we're using this coordinate
+first. Negative 2 minus 1 for the y over negative 6 minus 0. Notice this is a negative
+of that. That is the negative of that. But since we have a negative
+over negative, they're going to cancel out. So this is going to be equal to
+negative 3 over negative 6. The negatives cancel out. This is also equal to 1/2. So the important thing is if
+you use this y-coordinate first, then you have
+to use this x-coordinate first as well. If you use this y-coordinate
+first, as we did here, then you have to use this
+x-coordinate first, as you did there. You just have to make sure
+that your change in x and change in y are-- you're
+using the same final and starting points. Just to interpret this, this is
+saying that for every minus 6 we go in x. So if we go minus 6 in x, so
+that's going backwards, we're going to go minus 3 in y. But they're essentially
+saying the same thing. The slope of this line is 1/2. Which tells us for every 2 we
+travel in x, we go up 1 in y. Or if we go back 2 in x,
+we go down 1 in y. That's what 1/2 slope
+tells us. Notice, the line with the 1/2
+slope, it is less steep than the line with a slope of 3. Let's do a couple
+more of these. Let's do line c right here. I'll do it in pink. Let's say that the starting
+point-- I'm just picking this arbitrarily. Well, I'm using these points
+that they've drawn here. The starting point is at the
+coordinate negative 1, 6 and that my finishing point is at
+the point 5, negative 6. Our slope is going to be-- let
+me write this-- slope is going to be equal to change in
+x-- sorry, change in y. I'll never forget that. Change in y over change in x. Sometimes it's said
+rise over run. Run is how much you're moving
+in the horizontal direction. Rise is how much you're moving
+in the vertical direction. Then we could say our change in
+y is our finishing y-point minus our starting y-point. This is our finishing y-point. That's our starting y-point,
+over our finishing x-point minus our starting x-point. If that confuses you, all I'm
+saying is, it's going to be equal to our finishing y-point
+is negative 6 minus our starting y-point, which is 6,
+over our finishing x-point, which is 5, minus our starting
+x-point, which is negative 1. So this is equal to negative
+6 minus 6 is negative 12. 5 minus negative 1. That is 6. So negative 12/6. That's the same thing
+as negative 2. Notice we have a negative
+slope here. That's because every time we
+increase x by 1, we go down in the y-direction. So this is a downward
+sloping line. It's going from the top left
+to the bottom right. As x increases, the
+y decreases. And that's why we got
+a negative slope. This line over here should
+have a positive slope. Let's verify it. So I'll use the same
+points that they use right over there. So this is line d. Slope is equal to
+rise over run. How much do we rise when we go
+from that point to that point? Let's see. We could do it this way. We are rising-- I could
+just count it out. We are rising one, two, three,
+four, five, six. We are rising 6. How much are we running? We are running-- I'll do it
+in a different color. We're running one, two, three,
+four, five, six. We're running 6. So our slope is 6/6,
+which is 1. Which tells us that every time
+we move 1 in the x-direction-- positive 1 in the x-direction--
+we go positive 1 in the y-direction. For every x, if we go negative
+2 in the x-direction, we're going to go negative 2
+in the y-direction. So whatever we do in x, we're
+going to do the same thing in y in this slope. Notice, that was pretty easy. If we wanted to do it
+mathematically, we could figure out this coordinate
+right there. That we could view as our
+starting position. Our starting position is
+negative 2, negative 4. Our finishing position
+is 4, 2. So our slope, change in
+y over change in x. I'll take this point 2 minus
+negative 4 over 4 minus negative 2. 2 minus negative 4 is 6. Remember that was just this
+distance right there. Then 4 minus negative
+2, that's also 6. That's that distance
+right there. We get a slope of 1. Let's do another one. Let's do another couple. These are interesting. Let's do the line
+e right here. Change in y over change in x. So our change in y, when we
+go from this point to this point-- I'll just
+count it out. It's one, two, three, four,
+five, six, seven, eight. It's 8. Or you could even take this
+y-coordinate 2 minus negative 6 will give you that
+distance, 8. What's the change in y? Well the y-value here is-- oh
+sorry what's the change in x? The x-value here is 4. The x-value there is 4. X does not change. So it's 8/0. Well, we don't know. 8/0 is undefined. So in this situation the
+slope is undefined. When you have a vertical
+line, you say your slope is undefined. Because you're dividing by 0. But that tells you that you're
+dealing probably with a vertical line. Now finally let's just
+do this one. This seems like a pretty
+straight up vanilla slope problem right there. You have that point right
+there, which is the point 3, 1. So this is line f. You have the point 3, 1. Then over here you have the
+point negative 6, negative 2. So our slope would be equal
+to change in y. I'll take this as our ending
+point, just so you can go in different directions. So our change in y-- now
+we're going to go down in that direction. So it's negative 2 minus 1. That's what this distance
+is right here. Negative 2 minus 1, which
+is equal to negative 3. Notice we went down 3. And then what is going to
+be our change in x? Well, we're going to go
+back that amount. What is that amount? Well, that is going to be
+negative 6, that's our end point, minus 3. That gives us that distance,
+which is negative 9. For every time we go back 9,
+we're going to go down 3. Which is the same thing as if
+we go forward 9, we're going to go up 3. All equivalent. And we see these cancel out and
+you get a slope of 1/3. Positive 1/3. It's an upward sloping line. Every time we run
+3, we rise 1. Anyway, hopefully that was a
+good review of slope for you.

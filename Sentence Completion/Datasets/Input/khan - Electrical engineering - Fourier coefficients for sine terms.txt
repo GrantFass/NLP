@@ -1,0 +1,47 @@
+- [Voiceover] Many videos ago,
+we first looked at the idea of representing a periodic function as a set of weighted cosines and sines, as a sum, as the infinite sum of
+weighted cosines and sines, and then we did some work in order to get some basics in terms
+of some of these integrals which we then started to
+use to derive formulas for the various coefficients, and we are almost there. We have figured out a
+formula for a sub zero. We've figured out a coefficient
+in general for any of the coefficients on the cosines, and now, let's figure
+out a way to figure out the coefficients on the sines. So, how can we do that? Well, we're going to use
+a very similar technique that we did to figure out
+the formula for a sub n. What we're going to do is multiply both sides of this
+equation right over here by sine of nt. So let's do that. So, sine of nt, and so, if we multiply the
+right-hand side by sine of nt, that means we're going
+to multiply every one of the infinite terms by sine of nt, so sine of nt, sine of nt, I think you, well, this is always a
+little time consuming, but I'll get there, sine of nt, sine of nt, sine of nt, sine of nt, sine of nt, and of course there is
+these dot, dot, dot's, so we're just showing in general, we're taking each of the, each of these terms and
+multiplying them by sine of nt. We'll do it for all of the terms. We'll keep on doing
+this, on and on forever, for an infinite number of terms. Well, now let's take the
+integral of both sides of this equation, the definite integral from zero to 2 pi, and once again, I'm picking
+that interval because 2 pi is the period of the periodic
+function that we care about, and everything else that I've been doing has been over that interval of 2 pi, so I'll just keep focusing in on that, so from zero to 2 pi dt, and I could say the integral
+of this whole thing, but we know that the integral
+of a sum of a bunch of things is also the same thing as
+the sum of the integrals and we also know that we can
+take these constant multipliers of expressions outside of integrals and so this is going to be equal to, if I take the integral
+of the right-hand side, the definite integral is
+going to be from zero to 2 pi, dt. Zero to 2 pi, dt. Zero to 2 pi, dt. Zero to 2 pi, dt. We're almost there. Zero to 2 pi, dt. Zero to 2 pi, dt. And zero to 2 pi, dt,
+and I would be doing this for every term in this Fourier expansion. Now, this is where some
+of that integration work is going to be valuable. We've already shown that
+sine of the definite integral from zero to 2 pi of sine of nt, dt is going to be equal to zero for n being any integer. So we saw that, we saw that right over there, so that tells us that that term is going to be zero, so that's going to be equal to zero and we also know that when
+we take a cosine of something times t, times the sine of something times t, where these are integers, and we take that definite integral, we know that that's going to be zero, so all of those are going to be zero, and we also know that
+when you take the sine of two different non, two different coefficients right over, or sine of some integer
+coefficient times t times sine of some other
+integer coefficient times t, that these are also going
+to be equal to zero. We saw that, we saw that right over here. That is this property and so, really, all you're left with, the only one that does not become zero is this term right over here, where it's sine of nt times sine of nt, and what is that going to be equal to? Well, this, inside of the integral, that's the same thing. Let me do this in a different
+color, since I'm using orange to cross out everything
+that ends up becoming zero, so that is the same thing
+as the definite integral from zero to 2 pi of sine-squared of nt, dt, and I'll do the, or the dt is still there
+so I'm just replacing the blue stuff with
+the sine-squared of nt, and we know what that's going to be. We know that when the coefficient on the t is a non-zero integer, that this is going to result in pi. So we know that all of this stuff right over here, we'll do that in a different color, all of, we know that all of this
+stuff is going to evaluate, or actually we should
+say, all of this stuff is going to become pi, so we know that b sub n times
+pi is going to be equal to this definite integral. Or, we could write, let me write it this way, b sub n times pi is equal to, 'cause everything else
+ends up becoming zero, is going to be equal to zero, the definite integral from zero to 2 pi. I'll put my dt out here, of f of t, f of t times sine of nt, sine of nt, dt, and so we can then
+divide both sides by, divide both sides by pi and we get a little bit of a drum roll, we get b sub n, actually, I could write that, I'll write that in that same blue color, we get b sub n, I'll do it actually right here, b sub n is going to be equal to 1 over pi times the definite integral from zero to 2 pi, zero to 2 pi, we have our dt here, you have your f of t here, and then you have your sine, sine nt, so once again, that was pretty
+straight forward now that we knew these, these properties of integrals so we knew how to evaluate these integrals that are, definite integrals that
+are taking a cosine or sine or products of cosines and sines. And using these three formulas, we can now attempt to find
+the Fourier expansion, the Fourier series, find the coefficients for our square wave.

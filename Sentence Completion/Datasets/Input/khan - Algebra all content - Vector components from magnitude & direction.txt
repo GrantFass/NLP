@@ -1,0 +1,61 @@
+- So we have two examples here, where we're given the
+magnitude of a vector, and it's direction, and the
+direction is by giving us an angle that it forms
+with the positive x-axis. What we need to do is go from having this magnitude and this
+angle, this direction, to figuring out what
+the x and y components of this vector actually are. So, like always, pause this video and see if you can work
+through this on your own. Alright, now let's work
+through this together, and it's really just gonna involve a little bit of trigonometry. So, we wanna break this vector
+down into it's horizontal and it's vertical components,
+or it's x and y components. So I could draw it's, I could draw it's horizontal component just like this. So it's gonna look something like-- no, let me draw it, I can
+do a better job than that. So, it's gonna look something like that. That's it's horizontal component, or it's x component. And then it's vertical component is going to look something like this. It's going to look like that. That's it's vertical
+component, and notice, if you add the horizontal component and the vertical component, you are going to get your original vector. Now, I've just constructed
+a right triangle, and in this type of a right triangle, I could just use, actually,
+some of my most basic trig definitions, or the simplest form, which is the Soh-Cah-Toa definition of the trig functions. I might wanna break into the unit circle definition later on, but if I wanna figure out
+the magnitude of this base, right over here, we see
+that that is adjacent to this 50 degree angle. It's not the hypotenuse, it's the other side that forms the angle. And so what trig function deals with adjacent and hypotenuse? Well, we could just put
+a little reminder here, Soh-Cah-Toah. Well, cosine deals with
+adjacent over hypotenuse. So we could say that if I call, if I call this x the
+length of our x component, we could say that the cosine, the cosine of 50 degrees of our angle is going to be equal to the
+length of the adjacent side, x, over the length of our hypotenuse, which is the magnitude of the vector, over four. And so, if I wanna solve for x, I just multiply both sides by four. So I could get four times cosine of 50 degrees, four times cosine of 50 degrees, is equal to x. Now what about the y component? The y component, what is that going to be? Well, what, that side, the length of that side,
+is opposite to the angle, the 50 degree angle. So what trig function deals
+with opposite and hypotenuse? Well, that is sine. So we know that the sine of 50 degrees is going to be equal to y over
+the length of the hypotenuse. Y over four, and so we can multiply both sides by four and we get, we get four times sine of 50 degrees, sin of 50 degrees, is equal to y. And so if I don't have a calculator, I could just write that this, this vector, I could write as, if I write it in the component form, it's x component if four
+cosine of 50 degrees. And it's y component is
+four sine of 50 degrees. And you might notice
+something interesting here. I have cosine of the angle, the angle we formed with
+the positive x axis, I have that for the x coordinate. I have sine on the y coordinate, and then I just multiply
+it by the magnitude of the vector. Can I always do that? Well, it turns out you can, and this comes out of the
+unit circle definition of the trig functions. The unit circle definition
+of trig functions, cosine, if you have a unit circle, so unit circle looks like this. A unit circle has a radius of one. Cosine is the x coordinate of where you intersected the unit circle, and sine is the y coordinate. Or if you had a vector of magnitude one, it would be cosine of that angle, would be the x component, for the, if we had a unit
+vector there in that direction. And then sine would be the y component. Well, we don't have a unit vector, our vector has a magnitude of four, it's four times bigger than a unit vector, so each of the components are going to be four times bigger. So that's why we multiply the x, the cosine of fifty by four
+to get the x component, and we take the sine of 50, and we multiply it by four
+to get the y component. And that's gonna come in handy when we think about this one over here. But we can get our calculator out, and approximate what
+these are going to be. So let me get it out. Where's my calculator? Alright, there we go. So, 50, I'm in degree mode, gotta make sure, so 50 degrees. I'm gonna take the cosine, and I'm gonna multiply it times four. So times 4, is equal to two, approximately 2.57. So this is approximately equal to 2.57, is our x component, and
+then our y component. Our y component, if I take 50 degrees, and if I take the sine of it, and then multiply it by four, I get approximately 3.06. 3.06, and we see that over here, this x component looks
+like it's a little more than two and a half, and this y component looks like it's slightly more than three. So it all worked out, even
+though this is kind of a sloppy, hand drawn graph. Alright, now let's tackle this one. This is interesting cause this, the terminal point, when we
+draw it in the standard form, is in the second quadrant. So what would be the x
+and y components here, and you can immediately tell, because we're in the second quadrant, our x component is gonna be negative, and our y component is going to be, is going to be positive. Well, we could just resort exactly to what we did just there. We could say this vector is going to be the magnitude, it's x component is going
+to be it's magnitude times the cosine of the angle that forms at the positive x axis. Cosine of 135 degrees. And it's y component is going to be the magnitude times the sine of the angle that forms with the positive x axis, and we'd be done. And we can evaluate each of these things, so we could get, let me get
+my calculator out again. So if we take 135 degrees, and if I take the cosine of that, and then multiply it by ten, times ten, I get approximately negative 7.07. So that's approximately negative 7.07, and then if I take the sine, we're going to see something very similar. So 135 degrees, and I take the sine of it, I get positive .707, and so let me multiply
+that times the magnitude, times ten, is equal to 7.07. So 7.07, and we see that over here. This is roughly, looks like
+it's a little more than seven, looks like it's a little
+bit more than seven in that direction. And we'd be done, and you might say well-- once again, how did this work? Well, if I had a unit circle right over here. And if I had a unit vector, so it's terminal point would
+sit on the unit circle, that went in the exact same direction, it still formed 135 degrees, this point right over here, it would have the coordinates cosine of 135 degrees, sine of 135 degrees, let me make it a little bit more visible, this point right over here. Cosine 135, sine of 135 would be it's coordinates. Or for this unit vector right over here, that going in that direction, it's x component would be cosine of 135, and it's y component would be sine of 135. Well the vector that we care about has ten times the magnitude of a unit vector in that direction. So it's x component is going to have ten times the magnitude, and so is it's y component. And you could even resort to your Soh-Cah-Toa definitions
+to figure this out. We could construct a
+right triangle if we like, we could say here is, we could say here is my x component, that is my x component, it's gonna be something like that, and then there-- and then my y component is going to look something like, I'm drawing
+it a little bit imprecise, but I could draw that, let me
+draw that a little bit better. My y component is gonna
+look something like that, right triangle, and so
+if I want this magnitude, the magnitude of this bottom side, I would say well, look, I know if this is 135 degrees, this angle right over here
+is supplementary to that, so 45 degree angle, and so what trig function deals with adjacent and hypotenuse, Well cosine. So I could say cosine of 45 degrees is equal to the length of this, so let me just call the length of that, oh I don't know, let me just call it x, so the length of it, x, over the hypotenuse, over ten. Multiply both sides by ten, you get ten times cosine of 45 degrees is equal to x. And cosine of 45 degrees is square root of two over two, so this is going to be
+five square roots of two is equal to x, and you might say, wait, wait, I thought this
+was supposed to be negative. Well, the way we just solved it right now, with our right triangle, we just figured out our
+magnitude of this side. And then we would just have to reason, ok, we're not going five square
+roots of two to the right, we're going five square
+roots of two to the left. So, the magnitude in the x direction, or not the magnitude, our x component, I should say, is going to be negative five square roots of two. And you could do the exact
+same reasoning to say, well ten cosine of f-- it's ten sine of 45 degrees is going to give us the
+magnitude of the y component, and that's actually going
+to be our y component. So, same exact thing, this is going to be
+ten sine of 45 degrees, which is five square roots of two, and if we took our calculator out, they would evaluate to approximately these things right over there.

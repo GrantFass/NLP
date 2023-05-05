@@ -1,0 +1,101 @@
+- [Instructor] We're told
+suppose that 15% of the 1,750 students at a school have
+experienced extreme levels of stress during the past month. A high school newspaper doesn't
+know this figure, but they are curious what it is, so
+they decide to ask a simple random sample of 160 students
+if they have experienced extreme levels of stress
+during the past month. Subsequently, they find that
+10% of the sample replied "yes" to the question. Assuming the true proportion
+is 15%, which they tell us up here, they say 15% of
+the population of the 1,750 students actually have experienced
+extreme levels of stress during the past month, so
+that is the true proportion, so let me just write that,
+the true proportion for our population is 0.15, what is
+the approximate probability that more than 10% of the
+sample would report that they experienced extreme levels of
+stress during the past month. So pause this video and see
+if you can answer it on your own and there are four
+choices here I'll scroll down a little bit and see if you
+can answer this on your own. So the way that we're going
+to tackle this is we're going to think about the
+sampling distribution of our sample proportions and first
+we're going to say well is this sampling distribution
+approximately normal, is it approximately normal
+and if it is, then we can use its mean and the standard
+deviation and create a normal distribution that has that same
+mean and standard deviation in order to approximate the
+probability that they're asking for. So first this first part,
+how do we decide this? Well the rule of thumb we
+have here and it is a rule of thumb, is that if we take
+our sample size times our population proportion and that
+is greater than or equal to ten and our sample size times
+one minus our population proportion is greater than
+or equal to ten, then if both of these are true then our
+sampling distribution of our sample proportions is going
+to be approximately normal. So in this case the newspaper
+is asking 160 students, that's the sample size, so
+160, the true population proportion is 0.15 and that
+needs to be greater than or equal to ten and so let's
+see this is going to be 16 plus eight which is 24 and
+24 is indeed greater than or equal to ten so that
+checks out and then if I take our sample size times one
+minus P well one minus 15 hundredths is going to be
+85 hundredths and this is definitely going to be
+greater than or equal to ten. Let's see this is going to
+be 24 less than 160 so this is going to be 136 which is
+way larger than ten so that checks out and so the sampling
+distribution of our sample proportions is approximately
+going to be normal. And so what is the mean and
+standard deviation of our sampling distribution? So the mean of our sampling
+distribution is just going to be our population proportion,
+we've seen that in other videos, which is equal to 0.15. And our standard deviation
+of our sampling distribution of our sample proportions is
+going to be equal to the square root of P times one minus
+P over N which is equal to the square root of 0.15
+times 0.85 all of that over our sample size 160, so now
+let's get our calculator out. So I'm going to take the
+square root of .15 times .85 divided by 160 and we
+close those parentheses and so what is this going to give me? So it's going to give me
+approximately 0.028 and I'll go to the thousandths place here. So this is approximately 0.028. This is going to be approximately
+a normal distribution so you could draw your classic
+bell curve for a normal distribution, so something like this. And our normal distribution
+is going to have a mean, it's going to have a mean
+right over here of, so this is the mean, of our sampling
+distribution, so this is going to be equal to the
+same thing as our population proportion 0.15 and we
+also know that our standard deviation here is going to
+be approximately equal to 0.028 and what we want to know
+is what is the approximate probability that more than
+10% of the sample would report that they experienced
+extreme levels of stress during the past month,
+so we could say that 10% would be right over here,
+I'll say 0.10 and so the probability that in
+a sample of 160 you get a proportion for that sample,
+a sample proportion that is larger than 10% would be
+this area right over here. So this right over here
+would be the probability that your sample proportion
+is greater than, they say is more than 10%, is more
+than 0.10 just like that. And then to calculate it, I can
+get out our calculator again so here I'm going to go to
+my distribution menu right over there and then I'm going
+to do a normal cumulative distribution function, so
+let me click Enter there. And so what is my lower bound? Well my lower bound is 10%
+0.1, what is my upper bound? Well we'll just make this one
+'cause that is the highest proportion you could have
+for a sampling distribution of sample proportions. Now what is our mean well
+we already know that's 0.15. What is the standard deviation
+of our sampling distribution? Well it's approximately 0.028
+and then I can click Enter and if you're taking an AP
+exam you actually should write this you should say, you
+should tell the graders what you're actually typing
+in in your normal CDF function, but if we click
+Enter right over here, and then Enter, there we have
+it, it's approximately 96%. So this is approximately 0.96
+and then out of our choices it would be this one right over here. If you were taking this on
+the AP exam you would say that called, called normal normal
+CDF where you have your lower bound, lower bound, and
+you would put in your 0.10 you would say they use an
+upper bound, upper bound of one, you would say that
+you gave a mean of 0.15 and then you gave a
+standard deviation of 0.028, just so people know that you
+knew what you were doing. But hopefully this is helpful.

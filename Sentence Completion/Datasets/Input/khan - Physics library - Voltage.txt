@@ -1,0 +1,127 @@
+Before we move on, I want to
+clarify something that I've inadvertently done. I think I was not exact
+with some of the terminology I used. So I want to highlight the
+difference between two things that I've used almost
+interchangeably up to this point, but now that we are about
+to embark on learning what voltage is, I think it's
+important that I highlight the difference, because initially,
+this can be very confusing. I remember when I first learned
+this, I found I often mixed up these words and didn't
+quite understand why there was a difference. So the two words are
+electrical-- or sometimes you'll see electric instead
+of electrical. So "electric potential energy"
+and "electric potential." I think even in the last video,
+I used these almost interchangeably, and I shouldn't
+have. I really should have always used
+electrical or electric potential energy. And what's the difference? Electrical potential energy is
+associated with a charge. It's associated with a particle
+that has some charge. Only that particle
+can have energy. Electrical potential, or
+electric potential, this is associated with a position. So, for example, if I have a
+charge and I know that it's at some point with a given electric
+potential, I can figure out the electric
+potential energy at that point by just multiplying actually
+this value by the charge. Let me give you some examples. Let's say that I have
+an infinite uniformly charged plate. So that we don't have to do
+calculus, we can have a uniform electric field. Let's say that this
+is the plate. I'll make it vertical just so we
+get a little bit of change of pace, and let's say it's
+positively charged plate. And let's say that the
+electric field is constant, right? It's constant. No matter what point we pick,
+these field vectors should all be the same length because the
+electric field does not change in magnitude it's pushing out,
+because we assume when we draw field lines that we're using a
+test charge with a positive charge so it's pushing
+outward. Let's say I have a
+1-coulomb charge. Actually, let me make
+it 2 coulombs just to hit a point home. Say I have a 2-coulomb charge
+right here, and it's positive. A positive 2-coulomb charge, and
+it starts off at 3 meters away, and I want to bring
+it in 2 meters. I want to bring it in 2 meters,
+so it's 1 meter away. So what is the electric-- or
+electrical-- potential energy difference between the particle
+at this point and at this point? Well, the electrical potential
+energy difference is the amount of work, as we've learned
+in the previous two videos, we need to apply to this
+particle to take it from here to here. So how much work do
+we have to apply? We have to apply a force that
+directly-- that exactly-- we assume that maybe this is
+already moving with a constant velocity, or maybe we have to
+start with a slightly higher force just to get it moving, but
+we have to apply a force that's exactly opposite the
+force provided by Coulomb's Law, the electrostatic force. And so what is that force we're
+going to have to apply? Well, we actually have to know
+what the electric field is, which I have not told you yet. I just realized that,
+as you can tell. So let's say all of these
+electric field lines are 3 newtons per coulomb. So at any point, what is the
+force being exerted from this field onto this particle? Well, the electrostatic force
+on this particle is equal to the electric field times the
+charge, which is equal to-- I just defined the electric field
+as being 3 newtons per coulomb times 2 coulombs. It equals 6 newtons. So at any point, the electric
+field is pushing this way 6 newtons, so in order to push the
+particle this way, I have to completely offset that, and
+actually, I have to get it moving initially, and I'll
+keep saying that. I just want to hit
+that point home. So I have to apply a force of
+6 newtons in the leftward direction and I have to apply
+it for 2 meters to get the point here. So the total work is equal to
+6 newtons times 2 meters, which is equal to 12
+newton-meters or 12 joules. So we could say that the
+electrical potential energy-- and energy is always joules. The electrical potential energy
+difference between this point and this point
+is 12 joules. Or another way to say it
+is-- and which one has a higher potential? Well, this one does, right? Because at this point, we're
+closer to the thing that's trying to repel it, so if we
+were to just let go, it would start accelerating in this
+direction, and a lot of that energy would be converted to
+kinetic energy by the time we get to this point, right? So we could also say that the
+electric potential energy at this point right here is 12
+joules higher than the electric potential energy
+at this point. Now that's potential energy. What is electric potential? Well, electric potential tells
+us essentially how much work is necessary per unit
+of charge, right? Electric potential energy was
+just how much total work is needed to move it from
+here to here. Electric potential says, per
+unit charge, how much work does it take to move any charge
+per unit charge from here to here? Well, in our example we just
+did, the total work to move it from here to here
+was 12 joules. But how much work did it take to
+move it from there to there per charge? Well, work per charge is equal
+to 12 joules for what? What was the charge
+that we moved? Well, it was 2 coulombs. It equals 6 joules
+per coulomb. That is the electric potential
+difference between this point and this point. So what is the distinction? Electric potential energy was
+associated with a particle. How much more energy did the
+particle have here than here? When we say electric potential,
+because we essentially divide by the
+size of the particle, it essentially is independent of
+the size of the particle. It actually just depends
+on our position. So electric potential, we're
+just saying how much more potential, irrespective of the
+charge we're using, does this position have relative
+to this position? And this electric potential,
+that's just another way of saying voltage, and the unit
+for voltage is volts. So 6 joules per coulomb,
+that's the same thing as 6 volts. And so if we think of the
+analogy to gravitation, we said gravitational potential
+energy was mgh, right? This was force. This was distance, right? Electric potential is
+essentially the amount of gravitational-- if we extend
+the analogy, the amount of gravitational potential energy
+per mass, right? So if we wanted a quick way of
+knowing what the gravitational potential is at any point
+without having to care about the mass, we divide by the
+mass, and it would be the acceleration of gravity
+times height. Ignore that if it
+confused you. So what is useful
+about voltage? It tells us regardless of how
+small or big or actually positive or negative a charge
+is, what the difference in potential energy would be if
+we're at two different points. So electric potential, we're
+comparing points in space. Electric potential energy, we're
+comparing charges at points in space. Hopefully, I didn't
+confuse you. In the next video, we'll
+actually do a couple of problems where we figure out
+the electric potential difference or the voltage
+difference between two points in space as opposed
+to a charge at two different points in space. I will see you in
+the next video.

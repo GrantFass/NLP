@@ -1,0 +1,31 @@
+- [Voiceover] We're told let g be a differentiable function defined over the closed interval
+from negative four to four. The graph of g is given
+right over here, given below. How many inflection points
+does the graph of g have? So let's just remind ourselves,
+what are inflection points? So inflection points are
+where we change concavity. So we go from concave, concave upwards, upwards,
+actually let me just draw it graphically. We're going from concave
+upwards to concave downwards, or concave downwards to concave upwards. Or another way you could think about it, you could say we're going
+from our slope increasing, increasing, increasing, to our slope decreasing. To our slope decreasing, or the other way around. Any points where your
+slope goes from decreasing, our slope goes from
+decreasing, to increasing. To increasing. So let's think about that. So as we start off right over here, at the extreme left it's seems like we have a very high slope. It's a very steep curve, and then it stays increasing
+but it's getting less positive. So it's getting a little bit, it's getting a little bit flatter, so our slope is at a very high
+level but it's decreasing. It's decreasing, decreasing, decreasing, slope is decreasing, decreasing even more. It's even more and then
+it's actually going to zero, our slope is zero and
+then it becomes negative. So our slope is still decreasing. Then it's becoming more
+and more and more negative, and then right around, and
+then right around here, it looks like it starts
+becoming less negative, or starts increasing. So our slope is increasing increasing, it's really just becoming
+less and less negative, and then it's going close to zero, approaching zero, it looks like our slope is zero right over here, but then it looks like right over there our slope begins decreasing again. So it looks like our
+slope is decreasing again. So it looks like our slope is decreasing. It's becoming more and more
+and more and more negative, and so it looks like
+something interesting happened right over there, we
+got a transition point, and then right around here,
+it looks like it starts, the slope starts increasing again. So it looks like the
+slope starts increasing. It's negative but it's becoming less and less and less negative
+and then it becomes zero and then it becomes positive and then more and more and more and more positive. So inflection points are where we go from slope increasing to slope decreasing. So concave upwards to concave downwards, and so slope increasing was
+here to slope decreasing, so this was an inflection point, and also from slope decreasing
+to slope increasing. So that's slope decreasing
+to slope increasing, and this is also slope
+decreasing to slope increasing. So how many inflection points
+does the graph of g have that we can see on this graph? Well it has three over the interval that at least we can see.

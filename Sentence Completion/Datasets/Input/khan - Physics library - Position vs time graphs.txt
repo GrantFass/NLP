@@ -1,0 +1,120 @@
+- [Instructor] Let's talk about
+position versus time graphs. These are tricky. If you've never seen these
+these can be really tricky. Physicists love these. Teachers love these. They're on lots of tests. Why do so many people love these things? Because you could compact
+a ton of information about the motion of an object into the small little space right here. Basically specify the
+entire motion of the object, and you didn't even have
+to write an equation or say a bunch of words. It's all just right here. So these are actually really handy. You should know how to deal with these. So this graph represents
+the motion of an object. And instead of just saying object, let's make it specific. Let's say it's a turtle. A turtle, not just any turtle. A turtle with a jet pack
+on this turtle's back. And I don't want a sternly worded letter. I don't want a bunch of nasty comments. Let's put a helmet on this turtle. It's a pink helmet. She's pretty. And now we got turtle safety. You always gotta use rocket safety. Alright so let's say this
+turtle's moving around. And this graph represents the motion of this particular turtle. The first mistake a lot of people make is they think that well maybe the shape of this graph is the same as the shape the
+turtle takes through space. So maybe the turtle went forward
+and then down and then up, but that's not right. In fact it turns out
+that's not even close. To figure out what this
+graph actually says let me lay down a horizontal access here. This access is gonna represent
+the horizontal position. So I'm gonna label this x and it's gonna be measured in meters. And I'm doing that because look over here we're graphing. In this case I wrote is as x, so this is gonna be
+the horizontal position of the turtle. So the horizontal position is
+what we're actually graphing. What that means is if you find the turtle at some point over here at x equals two, then the graph should represent that the turtle is at x equals two by showing the value is two. So somewhere at like two and four seconds this turtle was at two meters. And that's what this
+graph's gonna tell you. So let's just read this graph and figure out what this
+particular turtle did. If this turtle didn't go
+forward, down, and up, what did this turtle do? We'll start at t equals zero. We'll go up from there. And at t equals zero the value of this graph is three. And the value of this graph is representing the horizontal position, so the value of the graph is giving you the horizontal position. So at t equals zero, the turtle is at three meters. So let's put her over at three meters. She starts over here. Three meters, that's equal zero. Now what happens? So at t equals one second, same thing. We read our graph by going up, hit the graph, then we go left to figure
+out where we're at. Again turtle's still at three. At two seconds we come up, hit the graph. We come over to the left to
+figure out where we're at. This turtle's still at
+three, that's awkward. This turtle didn't even move. For the first two seconds this
+turtle's just sitting here. So a straight line a horizontal
+line on a position graph represents no motion whatsoever. There was no motion. This is awkward. Turtle was probably trying to figure out how to turn on her jet pack. Should've read the instructions. Sorry. Alright. Now what happens? Turtle at some later time, four seconds, is at negative five meters. That's all the way back here. So between two seconds and four seconds, this turtle rocketed back this way. That's also awkward. Turn down the reverse booster. What a noob, ah turtle. Here we go. Made it all the way back to here. Then what does the turtle do? After that point, turtle rockets forward. Makes it back to zero at this point. And then all the way back to three meters, so this turtle rockets
+forward back to three meters. That's what the turtle did. That's what this graph is representing, and that's how you read it. But there's more than that in here. I told you there was a lot
+of information and there is. So one piece of information you can get is the displacement of the turtle. And the displacement
+I'm gonna represent this with a delta x. And remember the displacement
+is the final position. Minus the initial position. You can find the displacement
+between any two times here, we're just gonna find
+it for simplicity's sake for the total time shown on the graph. But I could've found it between
+zero and like four seconds. Let's just do zero to 10, the whole thing. So what's the final position? The final position would be
+the position the turtle has. At 10 seconds she was at three meters. At 10 seconds 'cause I
+read the graph right there. Minus initially, 'cause we're
+considering the total time, at zero seconds, the
+turtle was also at three, that means the total
+displacement was zero. And that makes sense 'cause
+this turtle started at three. Rocketed back to five, well
+actually started at three, stood there for a second or two, rocketed back to five, rocketed back to three, ended at the same place she started, no total displacement. What else can we find? We can figure out the total distance. For the total distance traveled remember distance is the sum
+of all the path links traveled. So for this first path link, there was no distance traveled. That was the awkward part. We're not gonna talk about that. 'Cause it might hurt her feelings. Then, so this is zero meters, plus between two seconds and four seconds, the turtle went from three to five. That's a distance
+traveled of eight meters. And should we make that negative? Nope. Distance is always positive. We make all these path links positive, we round them all up. So eight meters. Because the turtle went from three all the way back to five. That's the total distance
+of eight meters traveled. Plus between four seconds and 10 seconds, the turtle made it from
+negative five meters all the way back to three meters. That means she traveled
+another eight meters. That means the total distance
+traveled was 16 meters for the whole trip. Again you could have
+found this for two points any two points on here. Alright what else can you figure out? You can figure out the
+say average velocity, sometimes people
+represent that with a bar. Sometimes they just say the AVG. Oops, AVG. What does this mean? Remember average velocity is
+the displacement per time. And let's find the total. So we're finding the total values here. So the total average velocity, I need the total displacement already found that. Total displacement was
+zero for the whole trip. So this is zero meters, divided by it doesn't really matter now. But 10 seconds was the time it took for that entire displacement. Not meters, 10 seconds. So this equals zero. There's no total average velocity. The average velocity for
+the entire trip was zero. Because the turtle had
+no total displacement. How about average speed? So the average speed, I'm just gonna write it as average speed. Maybe you'll see it as an s with a bar maybe an s with an AVG. I don't know. Physicists use all kinds of letters. You don't know what you're gonna get. But the average speed is defined to be the distance per time. And again let's try to find
+the total average speed for the whole 10 seconds. That's not too bad 'cause I
+already found the total distance that was 16 meters. So 16 meters divided by the total time. It took 10 seconds for that entire trip. This turtle, she was going
+1.6 meters per second, on average. That was her average speed. Probably would've been a little higher if she didn't have that
+technical difficulty here at the beginning. Alright we can figure out
+more than this though. We can figure out the
+instantaneous velocity. Maybe you'll see it as VINST. Maybe you'll just see it as V. 'Cause that's usually
+what we're talking about when we're talking about velocity. We're talking about the
+instantaneous value a lot. What is this? Here's the key idea. In fact this is maybe
+the most important idea of this whole video. To find the instantaneous velocity, when giving a position versus time graph, you look at the slope. Because it turns out the slope of a position versus time graph is the velocity in that direction. So since we had a horizontal
+position graph versus time, this slope is gonna give us the velocity in the ex direction. And not only that if we
+find the average slope, we get the average velocity. And if we find the instantaneous slope, we're gonna get the
+instantaneous velocity. So how do I do that? How do I find the instantaneous slope? Well in general. If you gotta curve the graph. You're gonna have to use calculus. But we're in luck here. Because look at these
+lines they're all straight. And what that means is that the average slope
+between any two points on one of these lines is gonna equal the instantaneous slope at any point on the line. So let's make this specific. Let's saw we wanna find
+the instantaneous velocity at three seconds, pick any point, three seconds. How do we do that? Well we gotta figure out what we mean. By instantaneous velocity we mean the velocity at three seconds slope here but I gotta go to the graph so I take my three, I go down to the graph I wanna know what the
+instantaneous slope was at that point right there. Let me draw on top of this thing here. I wanna know what the
+slope was right there. How do I do that? Well I told you the key is that the average slope between
+any two points on this line so I can pick these two if I want, the average slope between these two points is gonna equal the instantaneous
+slope at any point, because look this slope isn't changing. Slope's the same the whole way. And if you take the average
+of a bunch of quantities, they're exactly the same. You're just gonna get the same value as any one of these quantities. That was a complicated way of saying if you took the average of eight and eight and eight and eight, what are you gonna get? The average value of those is eight which is the same as
+any one of these values. So if you ever have a graph
+that's a straight line you're in luck. You don't need calculus. You find the average velocity by taking, sorry you can find the
+instantaneous slope at any point by taking the average velocity
+between any two points. I'm picking these two. Why these two? 'Cause they're convenient look I know exactly where they're at. That's three and two, and this one's negative five and four. You might wonder why, why is this true? Why is the velocity equal to the slope? Well remember from math class? Slope was the rise over the run. And you might have seen that as okay this is math class here, y one over x two minus x one but you saw it like that because in math class
+typically the vertical axis was always y. In a horizontal axis it was always x. This is physics. Our horizontal axis isn't x. Our horizontal axis is t. And our vertical axis
+is what we're calling x. So for physics class
+the slope of this graph particularly the rise in
+this case is this axis so it's gonna be x two minus x one over the run. Well that's gonna be t two minus t one. Alright so how do we do this? Well this is .2 this is .1. How do you know? How come this isn't two and that's one? The point further in time
+is the one you choose as the second point. So at four seconds and
+negative five meters that's our .2. Alright so x two, that would be negative five, 'cause I'm just reading my graph, that .2. That's negative five. So I got negative five meters minus x one that's this. Don't make x one four. That's a time, that's not a position. So point one, the horizontal position was three. So positive three. Put the negative here 'cause
+the negative's in the formula. And then divide it by time two, that was four seconds. And minus t one was two seconds. And if you saw this thing, negative five and negative
+three and negative eight divided by two seconds. Oops can't figure out my units. Oh look at that. I got negative four meters per second. That was the instantaneous velocity at three seconds. Negative four meters per second. Negative because the
+turtle was going backwards. Remember that was the awkward? She turned on the reverse booster instead of the forward booster. Negative and four because look it going four meters every second. Made it eight meters and two seconds, that means she was going four
+meters per second on average. And since it's a straight line, that was the rate she
+was going at any moment. Beautiful. Alright that would've been
+if the follow up question is what is it at 2.4 seconds? Don't get concerned. Look it's the same everywhere. It'd be the same answer. Negative four meters per second. For this whole line. What else can we figure
+out one last thing. Let's say you were asked
+what's the instantaneous speed at a point? So I'm gonna write that as SINST instantaneous speed, or just s. 'Cause that's usually
+what we mean by speed. Equals average value,
+sorry, absolute value of the instantaneous velocity. So now here I've got
+to make an assumption. This is gonna get a little subtle. If all we're given is a
+horizontal position graph, we don't really know about
+the vertical position. This turtle could've gone back and forth, or the turtle could've
+been like flying upward, as she went back and forth. And if the horizontal location
+was the same the whole way, this would've looked exactly the same regardless of whether the turtle had any vertical motion at all. So we gotta be careful, 'cause the speed is the
+magnitude of the total velocity. This is the just the
+velocity in the x direction. So we're gonna make an assumption. I'm gonna assume this turtle
+was just moving horizontally. Instead of having the vertical motion. She's not ready for that yet. Alright so how do you get this? Speed is just the absolute value. The magnitude of the
+instantaneous velocity. And if this is the only
+component of velocity, then I can just figure
+this out pretty easy by saying that, oh I gotta give you time, makes no sense to say instantaneous speed. I gotta say instantaneous
+speed at a given moment. 'Cause the instantaneous
+speed here was zero. The instantaneous speed at this point would've been what? Well it would've been the
+absolute value of this. So it would've been positive
+four meters per second. That would've been the instantaneous speed at three seconds or any time between two to four seconds really. That was a lot. I told you there was a lot in there. So recapping really quick. The value of the horizontal
+position versus time graph. Gives you the horizontal
+position, surprise surprise. The slope of a horizontal
+position versus time graph gives you the velocity in the x direction. The average slope gives
+you the average velocity. The instantaneous slope give
+you the instantaneous velocity and if it's a straight
+line with no curvature these are gonna be the
+same on any given line. They work the same here. You're like what hold on, these aren't the same? We'll that's because I averaged over this whole thing right here. I took the average velocity
+over the whole time this slope was changing. So what I really got was
+the average of all of these and that's why these weren't equal. But if I can restrain myself
+to just the average value along a line that
+doesn't change its slope, that will equal the
+instantaneous slope at any point. And the instantaneous speed is the magnitude of the
+instantaneous velocity, assuming you only have
+motion in one direction.

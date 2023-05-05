@@ -1,0 +1,104 @@
+- Let's talk about the Venturi effect. This has to do with water or any fluid flowing through a pipe. And it turns out, let's say
+this water's flowing right here. Minding its own business, having
+a good day for that matter, when it meets a constriction. What's gonna happen here? Well, the water's gotta keep flowing, but it's gonna start flowing faster through the constricted region. And the reason is, well,
+there's a certain amount of fluid that's flowing through this pipe. Let's say all the fluid
+in this region right here. Let's say this front part of the water. I mean, this whole thing's filled up, but just say this
+cross-section of the water happened to make it from this back portion to this front portion in, I don't know, let's just say one second. So this entire volume
+moved through this section of the pipe in one second. Well, there's a law in physics
+that says that same volume's gotta make it through
+each portion of this pipe. Because if it didn't, where's it gonna go? This pipe would have
+to break or something. This water's gotta go somewhere. If that much flowed
+through here in one second, then this much has to flow through this little tiny region in one second, but the only way that
+that's possible is for this front surface, instead
+of just traveling from there to there in one
+second, the front surface is gonna have to change it's shape. But the front part of
+the water's gonna have to travel from here to here
+maybe in 1/4 of a second because all of this has
+gotta cram through here in the same amount of time. Because that water's
+still coming behind it. There's more water coming. And the volume flow rate
+has got to stay the same. The volume per time
+flowing through one region of the pipe has got to be the same as the volume flow rate through
+some other region of the pipe because this water's got to go somewhere. It doesn't just disappear in here. It's gotta keep flowing. That means... The important part is
+the water flows faster through the constricted region. Sometimes much faster through
+the constricted region. The smaller this is compared
+to this original radius, the faster the fluid
+will flow through here. Why do we care? Well, because faster moving
+fluid also means lower pressure. Why does faster moving
+fluid mean lower pressure? Well, if we look at
+the Bernoulli equation, Bernoulli's equation says
+P one plus row g h one plus 1/2 row v one squared equals P two plus row g h two plus 1/2 row v two squared. Oh my goodness this looks frightening, but look at P one, we just
+pick some point in the pipe. Let's just pick this point right here. We'll call that point one. So all these ones, this whole
+side refers to that point. Let's just pick point two right here. All this whole side refers to that point. Now, notice something. These are basically the same height, and assume height's not
+really a big difference here. So let's cross out the heights, because they're the same heights. We don't have to worry about that. This says that, alright, if
+there's some pressure at one and some velocity of the water at one, you can plug those in
+here and get this side. And now look at over here. We know that the velocity
+at two is bigger. We just said that, it
+has to be because the volume flow rate's got to stay the same. So this speeds up in here. So this is bigger, this quantity here. But we know the whole
+thing equals this side. So if this term increased,
+that means that the pressure's got to decrease so that when they add up they get the same as this side over here. This is actually called
+Bernoulli's Principle. Bernoulli's Principle
+says that when a fluid speeds up, it's pressure goes down. It's totally counter-intuitive. We always expect the opposite. We think fast moving fluid, that's gotta have a lot of pressure, but
+it's the exact opposite. Fast moving fluid actually
+has a smaller pressure and it's due to Bernoulli's equation. And this is what causes
+the Venturi effect. The Venturi effect refers
+to the fact that if you have a tube and you want
+a smaller pressure region, you want the pressure
+to drop for some reason, which actually comes up in a lot of cases, just cause a narrow
+constriction in that tube. In this narrow constriction,
+faster moving fluid, and it'll cause a lower pressure. This is the idea behind
+the Venturi effect. So the Venturi effect basically says for a constriction in a pipe, you're
+gonna get a lower pressure. While we're talking about fluid flow, we should talk about one more thing. Let me get rid of this here. Imagine you just had a brick wall with fluid flowing towards it. Maybe it's air here. So you've got some fluid
+flowing towards this brick wall. This seems like a really dumb example of Bernoulli's principle
+but I'm going somewhere with this so stay with me. This is flowing towards here. What's going to happen? Well, it can't go through the wall. It's gotta go somewhere. Maybe this just goes up like that and this, you know, I'm gonna go this way. It's closer to go that way. This side maybe just goes down. This is actually kind of what happens. But there'll be a portion in the middle that basically just terminates. It hits here and kind of just gets stuck. So there'll be some air
+right near here in the middle where it's just not moving. What if we wanted to
+know what the pressure was there, based on the variables
+involved in this problem? We could use Bernoulli's equation again. Pick two points, let's
+pick this one, point one. Let's pick this one, point two. Use Bernoulli's equation, it says this, and again let's say these
+are basically the same height so that height is not a big factor. And if these terms are the same, then we can just cross
+them out because we can subtract them from both
+sides, they're identical. Now, what can we say? We know the velocity of the air at two. It's not moving, got stuck here. It got stagnant. And so v two is just zero. And we get this statement
+that the pressure at two, which is sometimes
+called the stagnation pressure, so I'm gonna call it
+the stagnation pressure, because the air right here
+gets stuck and it's not moving. You might object, you
+might say, "Wait, hold on. "I thought the air had to go somewhere?" Well, it's all going somewhere. The point is, there's some air
+right here that gets stuck. It get stuck and air starts passing it by. And so, what's this pressure here? Well, up here we just read it off. All these went away. P two, which is what I'm
+calling the stagnation pressure, has gotta equal P one,
+the pressure over here, plus 1/2 row v one squared
+and we get this formula. You might think, "Why
+would we care about this? "Who is regularly shooting
+air at a brick wall?" People do it all the time,
+because you can build a pretty important instrument
+with this called a Pitot tube. And the Pitot tube looks
+something like this. Let's get rid of that. So why would someone use this system? It's called a Pitot tube. People use it to measure fluid velocity or, if you're moving through the fluid, it's a way to measure your
+velocity or your speed. So what happens is you've got this set up. Let's say you're in an airplane. You mount this on the airplane. You're flying through the
+fluid, which is the air. So that mean air is rushing
+towards this section here. Rushing past you, let's say
+you're flying to the left. So you'll notice air flying past you. A Pitot tube always has
+this section that's facing into the wind or into the air. This air would be directed
+straight toward this region, and the key is this is
+blocked off at the end. So there's air in here,
+but it can't be moving. The air in this section
+can't be moving all the way to the front because, I
+mean, where's it gonna go? We just said if fluid flows
+it, fluid's gotta flow out. There's no out here. And then there's another region. Up here you've got a second chamber where the air flows over the top. And this is directed at a
+right angle to that air flow. You've got another chamber. And again, in here, fluid's not flowing. The key is this gives you a
+way to determine the difference between the pressure here
+and the pressure there. If you had some sort of membrane in here, something dividing these
+two sections that could tell you the pressure differential, right? If the pressure on this
+side is a little bigger than the pressure on this side,
+and this would bow outward, one of these is measuring
+the pressure here and one of them is measuring
+the pressure there. What is the... Mathematically, what's the relationship? It's the one we just found. Right here, this is the
+stagnation pressure, right? The air's not moving in
+here, it flowed straight in. We know the v is zero right here. And so the stagnation pressure
+equals the pressure up here. Again, I'm assuming there's
+very little height difference. Let's say this is a very small device and it's not like 10 meters tall. So any height differences are minuscule, and we would just have
+our same equation before. This would just equal the
+pressure plus 1/2 row v squared. And this is how you determine the velocity or the speed, because now we
+can just solve this for v. I'd get that v one equals P
+s, the stagnation pressure, minus the pressure at
+one, that whole thing, times two, divided by
+the density of the air and then a square root because you have to solve for the v one. So this device lets you determine this pressure differential right here, check. You need to know what
+the density of air is and this gives you a way to determine the velocity of the fluid, or in other words, the velocity of your aircraft
+flying through the air.

@@ -1,0 +1,91 @@
+Let's say that someone's running
+a fairly unusual pet store that only has three types
+of animals in it. It has cats, and we
+represent the number of cats with the letter c. It has dogs, and we
+represent the number of dogs by the letter d. And it has bears. That's what makes it unusual. And we're going to represent
+the number of bears with the letter b. Now, this person also tells us
+that at this unusual pet store, the number of cats is greater
+than the number of dogs, which is greater than the
+number of bears. Now based just on
+this information, they then ask us which
+expression is greater. b divided by c plus
+d plus b or 1/3. And I encourage you to pause
+the video now and come up with your own rationale behind
+which of these is greater. Or maybe neither is greater. Maybe they're equal. Or maybe you just don't
+have enough information from what this pet store owner
+told us to actually figure out. So pause the video now. So let's reason through what
+this expression is actually representing. This is b, the number of
+bears, over the number of cats, plus the number of dogs,
+plus the number of bears. So there's the number of
+bears over the sum of all the animals. So this really is the
+fraction that are bears. Now so this question
+really reduces to is the fraction that are
+bears greater than a third, less than a third, equal to
+a third, or can we not tell? And there's a bunch of different
+ways to do this problem. And I'll try to expose
+you to many ways in this video and the next. So let's do a visual one
+doing different cases. Let's do the scenario where
+the fraction that are bears are greater than one third. So let's visualize this. So this little diagram
+right over here. Let's say this is all of
+the pets in the pet store. And I've divided it into
+thirds right over here. If the fraction that are bears
+is greater than one third, then it might look
+something like this. So this is a third
+under the dotted lines. If I want to be greater than
+1/3, I'll go a little bit more than greater than 1/3. So we go greater than
+1/3 right over there. But if the fraction of
+bears is greater than 1/3, well the fraction of dogs has
+to be even greater than that. So it has to be at least
+as much as this blue area. So it's going to be
+even greater than that. And the fraction
+that are cats has to be even greater than that. And I didn't even make
+this one that great. It has to be more
+than this blue area. And the fraction
+that are cats has to be even greater than that. And you see, you can't
+have three things that are all greater than
+1/3 adding up to a whole. You can't have all three parts
+of it being greater than 1/3. So this scenario breaks down. Another way you could
+have thought about it is if this expression right over
+here is greater than a third, then c plus d over this
+has to be less than 2/3. But that means one
+of them, c or d, would have to be definitely
+less than a third in order for that to work out. So at least thinking
+about this way, you know that this thing
+cannot be greater than a third. Let's think about whether
+it can be equal a third. Let's imagine if this
+expression, the fraction that are bears, were
+equal to a third. So let's make our diagram again. So in this situation, the
+bears are exactly 1/3. So I'll just color in this
+third right over here. So exactly 1/3 are bears. But we know that
+the number of dogs is greater than the
+number of bears. So the fraction
+that are dogs has to be greater than the
+fraction that are bears. So the fraction
+that are dogs would have to be greater than 1/3. But if the fraction that are
+dogs are greater than 1/3, then all we have left is
+something less than 1/3 for the cats. That's actually the
+largest fraction of the animals are cats. So we know that this also
+is not a possibility. So what we're
+really left with is that this has to
+be less than 1/3. And let's make sure
+that's reasonable. So, let's paste another
+example right over here. So if the bears
+are less than 1/3-- let me make it a little
+bit more dramatic, so that you can make it clear. So this is less than a third. let's say that the
+purple, the dogs, let's say they're
+roughly exactly 1/3. Then you could make
+a scenario where you have the largest
+proportion of cats. So this would be the
+cats right over here. That's not the same
+color as the cats. Let me do the same color
+as that pink color. So this right over
+here is our cats. So this is complete believable. c over c plus d
+plus b does indeed look bigger than d over c plus
+d plus b, which does indeed look bigger than b
+over c plus d plus b. This is completely believable
+to be less than 1/3. So based on just this visual
+argument that we just made, you could say hey, look. This right over here
+is the larger quantity. In the next video,
+I'll give what I would call more of an
+analytical argument, where I won't draw diagrams
+to show that this has to be less than 1/3.

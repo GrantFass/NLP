@@ -1,0 +1,46 @@
+- [Instructor] A 20-meter ladder
+is leaning against a wall. The distance X of T between
+the bottom of the ladder and the wall is increasing at a rate of three meters per minute. At a certain instant T sub zero the top of the ladder is
+a distance Y of T sub zero of 15 meters from the ground. What is the rate of change of the angle theta of T between the ground and the ladder at that instant? So what I want to do is draw this out. And really, the first
+step is to think about, well, what equation will be helpful for us to solve this problem. And then we might just go ahead and actually solve the problem. So a 20-meter ladder is
+leaning against a wall. So let me draw ourselves a wall here. That is my wall. Now let me draw our 20-meter ladder. So maybe it looks something like that. So that is 20 meters. They say the distance X
+of T between the bottom of the ladder and the wall. So, this distance right over here. This is this distance right over here is X of T. They say it's increasing at a rate of three meters per minute. So, we know that we could either say X prime of T, which is the same thing as DX DT. Is equal to three meters, I'll write it out because
+it's hard if I said M per M it might not be that clear. Meters per minute, so they give us that piece of information. So the rate of change of
+X, with respect to time, they gave us that. At a certain sub T sub zero the top of the ladder is a distance of 15 meters. So the top of the ladder, so
+let's make this very clear. So, this distance right over here is Y of T. Y of T. And they say, at time T sub zero Y of T is 15 meters. So let me just write it
+in here, Y of T sub zero is equal to 15 meters. And so, maybe let me write
+this right over here. This is Y of T sub zero. Let's just assume that we're drawing it at that moment T sub zero, because I think that's going to be important. Y of T sub zero is equal to 15 meters. So they want to know,
+what is the rate of change of the angle theta between
+the ground and the ladder. And this is saying theta
+is also going to change with respect to time. There's going to be a function of time between the ground and the
+ladder at that instant. So theta, get a new color here. Theta is this angle right
+over here, this is theta. And it's also going to
+be a function of time. So, what we'll always want to do in these related rates problems is we want to set up an equation, and
+really, an algebraic equation maybe a little bit of
+trigonometry involved. That relates the things
+that we care about. And then we're likely to have to take the derivative of both sides of that in order to relate the related rates. So let's see. We want to know we want to know the rate of change of the angle between the ground and the ladder at that instant. So what we need to figure out we want to figure out,
+theta prime, at T sub zero. This is what we want to figure out. Now, they've given us
+some interesting things, they've given us, I
+guess, our rate of change of X with perspective time is constant at three meters per minute. And, we know what Y is at that moment. So let's see, can we create a relationship because they gave us DX DT it'll actually be more useful to find a relationship
+between X and theta, and then take the
+derivative of both sides. And then use this information possibly to figure out what the appropriate value of X or theta is at that moment. So let's do that. So how does X relate to theta? Well, we use a little bit of trigonometry right over here. If you took the hypotenuse times the cosine of theta you would get X. So let me write this right up here, X of T X of T is equal to the hypotenuse 20 meters, because that's
+the length of the ladder, times the cosine cosine of theta. And I can say the cosine of theta of T just to make it clear that this is a function of time. This comes straight out of trigonometry. Actually, our basic trig, trigonometric function definitions. Now, why is this useful, why
+do I think this is useful? Well let's think about
+what happens when I take the derivative of both
+sides using the chain rule. On the left hand side, I am going to have an X prime of T. And then that's going to
+be equal to, what do I end up with on the right hand side? Well, using the chain
+rule, first, I'll take the derivative with respect to theta. And so that's just going to be negative 20 sine of theta of T. And I need to multiple that times theta prime of T. So what I can do is, say hey look, at T sub zero, I know
+what X prime of T is. I could try to figure out
+what sine of theta of T is and then I'll just solve for this right over there. So let's do that. So, at T sub zero so at T is equal to T sub zero. What we're gonna have X prime of T. Well that, at every time,
+it's three meters per minute we'll assume that our rates
+are in meters per minute. And just our values are in meters when we're talking about distance and our angles are in radians. So, this is going to be equal to three is equal to negative 20 times sine of theta of T times the derivative of
+data with respect to time. So, how do we figure
+out what sine of theta of T is going to be? Well, let's just use that
+other information they gave us. And I'm gonna scroll down a little bit to get a little bit more real estate. So sine of theta, let
+me write it over here. Sine of theta at time T sub not,
+that's what we care about T is equal to T sub not. What's that gonna be? Well sine is opposite over hypotenuse. So that's gonna be Y at T sub not. Over our hypotenuse of 20 meters. Well that's going to be equal to that's going to be equal to, they tell us, Y of T sub not is 15 meters over 20 meters. Which is the same thing as three fourths. So, by this yellow
+information, they actually told us that this right over here is going to be equal to three fourths. So this times three fourths times the rate of change of theta with respect to T. And so now we just have to
+solve for this and we're done. So, this is going to be what's negative 20 times three fourths? That is negative 15. That is negative 15. If we divide both sides by negative 15 we get theta prime of T is equal to three over negative 15. Three over negative 15. Which is the same thing as being equal to negative one fifth. And this, the units here would be in radians per minute. Because our rates are all in per minute. So, if I wanted to I could write radians per minute. Ideally I would write it right over here. But here you go. We were able to figure out and
+this is an interesting one. Because, they give you
+that information on Y but really, use that information of Y to figure out what sine of theta of T is. But the equation you set
+up involves X and theta.

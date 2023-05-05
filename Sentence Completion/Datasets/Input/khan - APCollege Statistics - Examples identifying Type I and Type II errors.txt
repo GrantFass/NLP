@@ -1,0 +1,55 @@
+- [Instructor] We are told, "A large nationwide poll recently showed "an unemployment rate of
+9% in the United States. "The mayor of a local town wonders "if this national result
+holds true for her town, "so she plans on taking a sample "of her residents to see
+if the unemployment rate "is significantly different
+than 9% in her town. "Let P represent the
+unemployment rate in her town. "Here are the hypotheses she'll use." So, her null hypothesis is that, hey, the unemployment rate in her town is the same as for the country, and her alternative hypothesis is that it is not the same. "Under which of the following conditions "would the mayor commit a Type I error?" So, pause this video,
+and see if you can figure it out on your own. Now, let's work through this together, so let's just remind
+ourselves what a Type I error even is. This is a situation where we reject the null hypothesis,
+even though it is true. Reject null hypothesis, even though, even though our null hypothesis is true. And in general, if you're
+committing either a Type I or a Type II error, you're
+doing the wrong thing, you're doing something that
+somehow contradicts reality, even though you didn't intend to. And so, in this case, that would be rejecting the hypothesis that the unemployment
+rate is 9% in this town, even though it actually
+is 9% in this town, so let's see which of these
+choices match up to that. "She concludes the
+town's unemployment rate "is not 9% when it actually is." Yeah, in this situation, in order to conclude that
+the unemployment rate is not 9%, she would have to reject the null hypothesis, even
+though the null hypothesis is actually true, even
+though the unemployment rate actually is 9%. So, I'm liking this choice, but let's read the other
+ones, just to make sure. "She concludes the town's
+unemployment rate is not 9% "when it actually is not." Well, this wouldn't be an error. If the null hypothesis isn't true, it's not a problem to reject it, so this one wouldn't be an error. "She concludes the town's
+unemployment rate is 9% "when it actually is." Well, once again, this
+would not be an error. This would be failing to reject the null hypothesis
+when the null hypothesis is actually true, not an error. Choice D, "She concludes the
+town's unemployment rate is 9% "when it actually is not." So, this is a situation where she fails to reject the null hypothesis, even though the null
+hypothesis is not true, so this one right over here, this one would actually
+be, this is an error. This is an error, but
+this is a Type II error. So, one way to think about it, first you say, "Okay,
+am I making an error? "Am I rejecting something that's true, "or am I failing to reject
+something that's false?" And the rejecting something that is true, that's Type I, and failing
+to reject something that is false, that is Type II. And so, with that in mind,
+let's do another example. "A large university is curious "if they should build another cafeteria. "They plan to survey a
+sample of their students "to see if there is strong evidence "that the proportion
+interested in a meal plan "is higher than 40%, in which case they "will consider building a new cafeteria. "Let P represent the proportion "of students interested in a meal plan. "Here are the hypotheses they'll use." So, the null hypothesis is that 40% or fewer of the students are interested in a meal plan, while the
+alternative hypothesis is that more than 40% are interested. "What would be the consequence "of a Type II error in this context?" So, once again, pause this video and try to answer this for yourself. Okay, now let's do it together. Let's just remind ourselves
+what a Type II error is, we just talked about it. So, failing, failing to reject, in this case, our null hypothesis, even though it is false. So, this would be a scenario
+where this is false, which would mean that more than 40% actually do want a meal plan, but you fail to reject this. So, what would happen is, is that you wouldn't
+build another cafeteria 'cause you'd say, "Hey, no,
+there's not that many people "who are interested in the meal plan," but you wouldn't, but,
+actually there are a lot of people who are
+interested in the meal plan, and so you probably wouldn't
+have enough cafeteria space. And so, this says, "They
+don't consider building "a new cafeteria when they should." Yeah, this is exactly right. "They don't consider
+building a new cafeteria "when they shouldn't." Well, this would just
+be a correct conclusion. "They consider building a new cafeteria "when they shouldn't," and so, this is a scenario
+where they do reject the null hypothesis, even
+though the null hypothesis is true, so this right over
+here would be a Type I error. Type I error. Because if they're considering
+building a new cafeteria, that means they rejected
+the null hypothesis, even when they shouldn't. That means that the null
+hypothesis was true, so Type I. "They consider building a new
+cafeteria when they should." Well, once again, this
+wouldn't be an error at all, this would be a correct conclusion. This one and this one
+are correct conclusions. A and C are the consequences of a Type II and a Type
+I error, respectively.

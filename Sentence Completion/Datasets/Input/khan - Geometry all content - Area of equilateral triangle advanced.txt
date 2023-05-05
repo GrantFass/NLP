@@ -1,0 +1,80 @@
+Let's say I have an
+equilateral triangle where the length of each side is 14. So this is an
+equilateral triangle. All of the sides have length 14. And inside that I have another
+equilateral triangle-- right over here-- where the length
+of each of the sides is 4. Now what I'm curious
+about, is the area of the region-- let me color
+this in a different color-- is the area of the region that
+I'm shading in right here. So it's the area inside the
+larger equilateral triangle, but outside of the smaller
+equilateral triangle. So let's think about
+how we would do this. And I encourage you to pause
+this and try this on your own. Well the shaded
+area is going to be equal to the large
+equilateral triangle's area minus the area of the
+small equilateral triangle. So we just have
+to figure out what the area of each of these
+equilateral triangles are. And so to do it, we remember
+that the area of a triangle is equal to 1/2
+base times height. But how do we figure
+out the height of an equilateral triangle? So for example, if I have
+an equilateral triangle like this-- let me
+draw it big so I can dissect it little
+bit-- so I have an equilateral
+triangle like this. The length of each
+of the sides are s. And I always have to
+re-prove it for myself. Just because I always
+forget the formula. We remember that the angles are
+60 degrees, 60 degrees, and 60 degrees. They're all equal. And what I like to do to
+find out the area of this, in order to figure out the
+height, is I drop an altitude. So I drop an altitude
+just like here, and it would split
+the side in two. I know it doesn't
+look like it perfectly because I didn't
+draw it to scale. But it would split it in two. It would form
+these right angles. And what's neat about
+this is I've now split my equilateral triangle
+into two 30-60-90 triangles. And that's useful
+because I know the ratio of the sides of a
+30-60-90 triangle. If this is s and I've
+just split this in two, this orange section right
+over here is going to be s/2. This is also going to
+be s/2 right over here. They obviously add up to s. And then we know from
+30-60-90 triangles, that the side opposite
+the 60-degree side is square root of 3
+times the shortest side. So this altitude
+right over here, is going to be
+square root of 3s/2. And now we can figure
+out a generalized formula for the area of an
+equilateral triangle. It's going to be equal
+to 1/2 times the base. Well the base is going to be s. So the base is s. And the height is square
+root of 3s over 2. And so this will
+simplify to, let's see we have in the numerator
+we have the square root of 3s squared over four. And now we can apply
+this to figure out the areas of each
+of these triangles. So this is going to be equal
+to the area of the larger triangle, is going to be square
+root of 3/4 times 14 squared. And the area of the
+smaller triangle is going to be square root
+of 3/4 times 4 squared. And let's see, we could factor
+out a square root of 3/4. So this is going to be equal
+to square root of 3/4 times 14 squared minus 4 squared. Which of course we
+know is to be, is 16. But now let's actually
+evaluate this, to actually get a number here. And I could try to
+simplify it by hand. But instead let me actually
+just get my-- Actually, let's just simplify
+it by hand first. So in case you haven't
+memorized your 14 times tables, we could just work that out. 14 times 14, 4 times 14. 4 times 4 is 16. And then carry the one. 4 times 4 is 4
+plus 1, so it's 56. You put a 0 right there, because
+we're multiplying by 10 now. 10 times 14 is 140. And so this is 196. So this is equal to square
+root of 3/4 times 196 minus 16, which is equal to 180. So this right over
+here is equal to 180. And 180 is divisible
+by 4, so this is going to be equal to
+the square root of 3 times, let's see, 180 divided
+by 4 is going to be 45. So it's going to be
+45 square roots of 3. Did I do that right? 180 divided by 4 times
+45 is 160 plus 20. Is exactly 180. So it's 45 square roots of 3. And if I wanted to get
+an approximate answer as a decimal. So let me get my calculator out. So let's go 45 times the square
+root of 3, would get us to 77. If I want to round to the
+nearest hundredth, say, that's 77.94. So this is approximately
+equal to 77.94 square units. The area of the shaded region.

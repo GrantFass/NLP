@@ -1,0 +1,21 @@
+- You should now have a good
+feeling for the relationship between position, speed and acceleration. Before we can (mumbles)
+formulas to describe how the particles will move
+based on the laws of physics, We need to revisit how we think about the speed of the particle. We need to know not only
+how fast it's moving, but also the direction of motion. In this case downward. We are using idea called a
+vector to represent things that have both the size and the direction. Vectors are joined as arrows. The direction is which way it's pointing, and the length of the
+arrow called the magnitude of the vector, indicates it's size. We call this point,
+the tail of the vector, and this point, the head of the vector. A vector called the
+velocity, is used to describe the speed and direction of the particle. A short vector means the
+particle is moving slowly. A long vector indicates that
+the particle is moving quickly. In this diagram the
+balls motion is downward, so the velocity vector points downward. If the particle is accelerating, for instance due to gravity, the length of the velocity
+vector will increase over time since the speed is increasing. Acceleration is also a
+vector because it too, has a magnitude in direction. But notice the size of
+the acceleration vector doesn't change as the ball falls. As we saw on the last video, a particle falling under
+the influence of gravity has a constant acceleration. That is both the direction and size of the acceleration
+vector is constant. As shown here. We also need to add vectors together. We do this using the head to tail rule. For example, if we need
+to add vectors v and w, we move w so that v's head is at w's tail. Like this. The resulting vector written v+w, goes from v's tail to w's head. Okay, that's a lot of new ideas. So let's pass here for you
+to use the next exercise to try this all out. We couldn't make our
+films without vectors. Vectors are being used any
+time you see anything moving in our films.

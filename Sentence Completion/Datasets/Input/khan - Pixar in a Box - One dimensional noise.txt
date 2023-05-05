@@ -1,0 +1,24 @@
+(soft clops and bounces) - Now it's time to think about how to create natural
+looking variation digitally. (xylophone glissando) - Well hello ladies. I'm back. I have, as usual, a few changes to the laying packet and I thought you might wanna see it. - Great timing. We were just about to start talking about skin and scale details. - Great.
+- Thank you, Tia. - [Tia] You're welcome. Good luck! - [Brunette Woman] Thanks. - [Curly Haired Woman] See here, she's added a pattern
+reference for skin and scales. - [Brunette Woman] It kinda reminds me of the variation you see in clouds. I noticed there's both color variation, from green to yellow, as well as brightness variation, from dark to bright. - [Curly Haired Woman] I noticed the skin has a different pattern
+compared to the scales. It seems smoother and darker overall. - [Brunette Woman] To get started, let's simplify our problem. First focus on a single scale. - [Curly Haired Woman] And imagine we cut a thin strip across it like this. Like a paint strip! We can really see the
+variation going on now. It flows from dark green to light green. - Now our job is to represent
+this mathematically. - [Curly Haired Woman] In the computer, the color strip is represented as a sequence of colored cells, or pixels. And the color of each pixel can vary from light to dark green. - [Brunette Woman] Like a
+really long paint strip. And it's the brightness
+variation we want to express. - [Curly Haired Woman]
+It helps to think of this as a 2D plot, where the x-axis is the
+position in the color strip and the y-axis represents
+the color of brightness. - [Brunette Woman] Right now, all the colors are the same because we have a flat line. No variation. You can adjust the base color here. - [Curly Haired Woman]
+And the line is built out of multiple control points. If you pull them up, it gets brighter in that region. If you pull them down, it darkens. This is known as a piecewise linear curve. - [Brunette Woman] Very cool. And check out what happens if we scatter these points randomly. This is getting closer to what we want. One problem with this method is that transitions currently
+have a sharp boundary. - [Curly Haired Woman] Yes, but we can fix that by smoothing
+this collection of lines into a curve. This is done using a subdivide slider. - We covered how the
+subdivision algorithm works in our character modeling lesson. (light clicks on) (bright, glittery ring) - [Curly Haired Woman]
+But all you need to know is that this slider defines
+how much smoothing is done, resulting in these more
+gradual transitions. - [Brunette Woman] By
+manipulating the base color, point positions, and amount of smoothing, we can generate a whole
+range of cool patterns. - Now it's your turn to try this out. In the next exercise, your job is to match
+different target patterns by selecting the correct starting color and defining an appropriate 2D curve to define the variation of brightness. - In this example, we're using the curve
+to control brightness. But what other things that we can control with a curve like this as well? - We can really control lots of things with these type of curves, but one fun example is wings on insects like dragonflies or grasshoppers. We have lots of those in The Good Dinosaur but in other movies like A Bug's Life, obviously have bugs too. And across the wing, you'll have variation transparency as well as color and iridescence
+and lighting quality, and all those can be controlled separately by curves like this.

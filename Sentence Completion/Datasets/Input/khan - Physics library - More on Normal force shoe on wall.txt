@@ -1,0 +1,71 @@
+- [Narrator] Let's say we take this shoe. Instead of sitting it on the floor, here's one that trips people out. Let's say we take this shoe, and we shove it against the wall. So, walls can exert normal
+forces just like floors can, but when this happens, people start to get a
+little bit concerned, it starts to get a little bit weird. Let's say we exert a force, so say the force looks like this. So here we go, let's call this force F4. So here's F4, this force keeps
+the shoe from falling down, but it also pushes the shoe into the wall, so again, we're gonna have a normal force, let me give you an angle here, let's say this angle right there is phi. And let's say the question we wanna ask, now, we wanna know what's the
+normal force in this case? So this one's a little bit weirder, but we can still do it the same way, we should draw a force diagram first, it's always good practice, draw what forces are exerted on the object you're trying to find a force for. So, we're gonna have the normal force, but first we should draw
+the force of gravity. Gravity's easy, gravity
+always points down. So, you got mg straight down. We're gonna have a normal force, here's where people make a mistake. We will not draw the normal force up. People think that the
+normal force is always mg, we saw that that's not true. People also think the
+normal force is always up, but it's not. It's usually up because it's in contact with a horizontal surface. But now this is contact
+with a vertical surface. And this word "normal" in
+the phrase "Normal Force" is not referring to
+like, boring, or usual, it's referring to "normal" in the mathematical
+sense as perpendicular, perpendicular to the surface
+exerting this normal force. And this wall, that's vertical, perpendicular to that wall
+is coming out of the wall, and that's gonna be to the right, so the wall is gonna push
+to the right on the shoe to keep the shoe from
+penetrating this wall. So that's a little bit weird for people, is that this normal force
+is now pushing to the right. Now I've got one more force, I've got my F4, so I'm
+gonna draw this force, at 4 it looks something like that. Okay, so these are my forces. That's it, those are the
+only forces there are. I mean, we're gonna neglect any friction, let's just assume that the
+shoe's just sitting there, there's no other frictional forces, let's say this is it, we wanna find the normal force, what do we do? Again, we're gonna use
+Newton's Second Law, we're gonna use a equals the net force in a certain direction, this time we're gonna use
+the horizontal direction, we're gonna use the horizontal direction because the force we wanna
+find, our normal force, is in the horizontal direction. So, the acceleration in the
+x direction is gonna be what? Well, you think about this, if I'm pushing the shoe into the wall, it's probably got no
+horizontal acceleration, even if it was sliding up and down. Even if there was motion up and down, it's probably not
+penetrating into this wall and it's probably not
+bouncing off of this wall, it's probably constricted to be only in the plain of this wall, so there's gonna be no
+horizontal acceleration. And if that doesn't make sense, it's because there's no motion in the horizontal
+direction, left or right. There's no velocity, change, at all, in this horizontal direction, because the shoe's not gonna be moving in that horizontal direction, and it continues to not move
+in that horizontal direction. So our acceleration horizontally is just zero equals the net force, divided by the mass. Alright, the net force in the x direction. What are we gonna have in the x direction? Well I've got fn pointing to the right, so again that's a positive force I'm gonna consider
+rightward to be positive, and I've got this F4, part
+of it points to the left, so just like before, I've
+gotta break this force up, I've gotta figure out how much of this force points horizontal, and how much of this
+force points vertical, to get this F4 in the x direction, which is what I plug into
+this formula up here, because I need this component here. This is the horizontal force of F4, not the vertical force. I don't plug the vertical
+force in anymore, because this vertical force is
+not part of the x direction, we're considering Newton's
+Second Law for the x direction, so to solve for F4x, I'm
+just gonna again use sine, because this angle, the
+opposite of this angle is F4x. I'm gonna use sine of theta,
+oh sorry, sine of phi. I'm gonna take sine of phi, that's gonna equal F4 and the x, divided by the total amount, F4, I get F4 in the x, is gonna
+be F4 times sine of phi, and now I can use this up here, but you gotta be careful
+with sines F4x points left, I'm gonna consider that a negative force. So if F4 sine theta
+represents the magnitude, I'll write this as negative F4, sine, phi, sorry, I keep saying theta, I mean phi, I multiply both sides by m, I'll get zero again on the left hand side, equals, I've got Fn minus F4, sine phi, and now, when I solve this
+for Fn, the normal force, I'll get the Fn, I'll add this
+F4 sine phi to both sides, and I'll get that this normal force is gonna equal F4 sine phi. And that makes sense. It makes sense because, what these surfaces are doing, the reason why you're
+getting a normal force, is these surfaces are exerting
+whatever force they have to, to prevent any penetration
+of this surface. So, if this F4x is pushing
+in to the surface with F4x, right, if that's the force
+we're pushing in with, Fn's just gotta equal that. It's gotta match that so that there's no acceleration horizontally. There were no other forces. We could, now you know
+what to do if there were, if you wanted to step this up, you could add another force here, we'll call that F5, that'd
+be another force this way, we'd have another F5, you
+know how to handle that, now you'd come over to here, that's pointing to the
+left, so you do minus F5, you'd come down here,
+this would be a minus F5, you'd add that to both sides, that'd be a plus F5. What if we added a vertical force? What if we added another
+vertical force this way to the shoe and we called that F6? Well that wouldn't impact
+the normal force at all. This force F6 does not affect
+how much these surfaces are getting pushed into each other. So I wouldn't include
+that over here at all. That's a vertical force, it wouldn't affect the
+normal force this time. Also note, gravity's not even affecting the normal force this time. 'Cause gravity's exerting a
+force in the vertical direction, and our normal force is in
+the horizontal direction. So, long story short, normal
+force is not always mg, the normal force will only
+exist, it'll only be non zero when two surfaces are in contact
+and pushing on each other. You can change what the normal force is by adding forces into
+or out of the surface, exerted on that object. And if there's a force at an angle, when you're finding normal force, make sure you only use the component that's in the same direction
+as the normal force, 'cause that's the only
+one that's gonna affect the normal force when you solve
+using Newton's Second Law.

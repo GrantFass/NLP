@@ -1,0 +1,132 @@
+- [Lecturer] In the last
+video, we looked at a Fischer projection of a compound that
+had only one chirality center. This molecule has two, and
+our goal is to determine the configuration of
+each chirality center, so at the intersection of
+these lines here, we know that this is a chiral center and then we have another
+one down here, so those are the two chirality centers. Let's focus in on the top
+one here, and let's assign a configuration to that carbon. Let me go ahead and draw
+the carbon on the right. We know that in a Fischer
+projection, the horizontal lines represent a bond that's
+coming out of the page at us, so over here on the left,
+the bond to this hydrogen is coming out of the page and
+so is the bond to this OH, so let's draw them on the right. We have a bond to a hydrogen
+coming out of the page on the left, and then we
+have a bond to OH coming out of the page on the right, so those, those are represented by a wedge. We know that the vertical
+lines in a Fischer projection represent a bond that's
+going away from us in space, so this line right here is
+a bond that's going away from us, so that would be a
+dash, so let's draw that in, and that's going to a
+carboxylic acid which we know is a carbon double bonded to
+an oxygen, bonded to an OH. Let's look at the other vertical line, so this one down here,
+so that represents a bond going away from us in space,
+so we draw that one in, so we're essentially staring
+down at our chiral center. And this carbon down here is
+directly bonded to an oxygen, a carbon, and a hydrogen,
+and those are the only atoms that we need to assign a
+configuration so those are the only ones that I'm going to draw in. Let's go back to our chiral
+center, so this carbon right here, we know to assign a
+configuration, we look at the atoms that are directly
+bonded to that carbon. There is a hydrogen, an oxygen
+and then our two carbons. Out of those atoms, oxygen
+has the highest atomic number so the OH group gets the highest
+priority and we say that is a number one. The hydrogen has the lowest
+atomic number so that's the lowest priority, so we
+say that's a number four. Next, we have carbon versus
+carbon, so this carbon versus this carbon and we
+know that carbon has the same atomic number, and so we've
+seen how to break our tie in earlier videos. We look at the atoms that
+are directly bonded to those carbons. This bottom carbon here is
+directly bonded to an oxygen, a carbon, and a hydrogen,
+so we put those in order of decreasing atomic number,
+so that's oxygen, carbon, hydrogen. This top carbon here, the
+one in our carboxylic acid, has a double bond to an oxygen, and so we treat that like it's
+two bonds to two different oxygens, even though it's
+really only one double bond to one oxygen, and then we
+have another bond to an oxygen on the right here so we
+could say, for the purposes of assigning a configuration,
+that would be oxygen, oxygen, oxygen. Next, we compare so we have
+an oxygen versus an oxygen, so that's a tie. We go on to our next atom
+which is oxygen versus carbon, and obviously, oxygen wins. It has the higher atomic
+number, so the carboxylic acid group gets the higher priority
+so this must be group two, and this group down here
+must be group three. Once we've done this, our next
+goal is to put the hydrogen going away from us in space,
+but I'm going to use the trick that I talked about in the
+last video because it means you don't have to move the
+molecule around in your mind. You can just use this little trick. And the trick was to ignore
+the hydrogen for the time being and just look at one, two, and three. Here's one, here's two, and
+here's three, so if we go around in a circle from one
+to two to three, we're going around in this direction. That is counterclockwise, and
+counterclockwise we know is S. So this looks S, but the
+hydrogen is coming out at us in space and so we know
+all we have to do is take the opposite so even though
+it looks S, since the hydrogen is coming out at us, we
+know it's actually R, so this is actually, actually R, so if you actually made
+this molecule and rotated it and put the hydrogen going
+away from you in space, then you would see that it's
+R directly, but this trick allows you not to worry about
+that, so I find this to be the easiest way to assign a configuration. For me, it's definitely the fastest. Let's move on to our
+other chirality centers, so this carbon down here,
+so let me draw that one in, and let's look at our
+horizontal lines, so we have a bond to an OH on the left,
+and a bond to a hydrogen on the right and those are
+coming out at us, since those are horizontal lines so
+that OH is on the left, and we have a hydrogen on the right. Let's look at our vertical
+lines, so this line right here means a bond going away from
+us in space, so we're staring down at our chiral center,
+and that's a bond to a carbon and that carbon is directly
+bonded to an oxygen, a carbon, and a hydrogen,
+so let's draw those in. Again, we don't need all of
+the atoms because this is all we need to assign a
+configuration so that's all I'm drawing in, and then let's
+look at this other vertical line, so this one down here,
+so that's a bond going away from us in space to this
+carbon, so let's draw that in so we have a dash over here on
+the right, going to a carbon and this carbon is directly
+bonded to two hydrogens and an oxygen, so let's
+draw that in, so we have our two hydrogens and an oxygen. Going back to our chiral centers,
+so this carbon right here, and we look at our atoms that
+are directly bonded to it and we have an oxygen, a
+hydrogen, and two carbons, so we know that the oxygen
+has the highest priority so once again, the OH group
+is the highest priority group and the hydrogen is the lowest
+priority group and we have a tie again between the carbons, so the carbon versus carbon,
+the top carbon is directly bonded to oxygen, carbon,
+hydrogen, so in order of decreasing atomic number,
+oxygen, carbon, hydrogen, the bottom carbon would be
+oxygen, hydrogen, hydrogen, so oxygen, hydrogen, hydrogen. We look for the first point
+of difference so we have oxygen versus oxygen, so that's a tie. Next, we have carbon versus
+hydrogen and we know that carbon has the higher atomic
+number so this top group here gets higher priority so
+this should be a number two and this group down here
+should be a number three. Let's use our trick again,
+so we ignore the hydrogen for the time being and we
+look at one, two, and three, so one to two to three is
+going around in this direction which we know is clockwise, so
+we can say that this looks R because clockwise is
+R, but because this is a Fischer projection, the
+hydrogen is coming out at us in space, so we know our trick
+is just to take the opposite of how it looks, so if it
+looks R, we can say that it's actually S, so we write
+down here actually, actually S. All right, so we've done it. We've determined the configuration
+of each chirality center so this chiral center, let
+me use a different color, let me use a red over here, so this chiral center,
+we said that one was R, so it's R at this carbon and
+then at this carbon down here it is S. Let's also practice drawing the
+enantiomer of this compound. We saw how to do that in the last video. We put a mirror right here
+and we reflected our groups in the mirror so this OH here, I like to draw a dashed line,
+so we just reflect that, and therefore we would have
+this, and then on this side, we would have a hydrogen so
+we're reflecting that hydrogen and then let's go to
+this hydrogen down here, so we just reflect this in our mirror and then we draw our horizontal
+line and then we would have an OH, so we draw in an OH here. We can put in our vertical
+line like that and then we have a carboxylic acid, but this
+carbon is not a chiral center so we don't really need to worry about it. We can just write in
+COOH here, and then same with this carbon, not a chiral
+center so we can just write CH2OH. The important part is if
+we have an OH on the right, it'll be on the left in the mirror image. If we have an OH on the left
+in a Fischer projection, it'll be on the right in a mirror image, so now we have a pair of
+enantiomers, so these two are mirror images, right? The one on the right is
+a mirror image of the one on the left, but the one on
+the right is not superimposable on the one on the left.

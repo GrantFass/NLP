@@ -1,0 +1,236 @@
+So I've drawn multiple versions
+of the exact same surface S, five copies of that
+exact same surface. And what I want to do is think
+about the value of the line integral-- let me write this
+down-- the value of the line integral of F dot dr, where F
+is the vector field that I've drawn in magenta in
+each of these diagrams. And obviously, it's different
+in each of these diagrams. And the only part of the
+vector field that I've drawn is a part that's
+along the surface. I could have drawn the
+part of the vector field that's off the
+surface, but we're only going to be concerned with
+what's going on on the surface. So the vector field
+could be defined in this entire three-dimensional
+space in here as well. And these are obviously
+different vector fields, and we can see that visually
+based on how we drew it. And the contour that we
+care about-- remember, we're going to take a line
+integral, so the path matters. The path that we care about is
+the counterclockwise boundary of our surface, so it's going
+to be this right over here. The counterclockwise
+boundary of our surface is what we're going to
+be taking F dot dr along. So this right over here, and
+let me draw the orientation. It's going to be
+counterclockwise. And we're going to do it in
+every one of these situations, for every one of these surfaces
+and every one of these F's. And what I really want to think
+about is how the value of F dot dr over that
+contour, how it might change from example to example. And obviously, the
+only difference between each of these is what
+the vector field F is doing. So first let's think about
+this example right over here. At this part of the
+contour, this bottom part right over here,
+our vector field is going in the exact same
+direction as our line, as our contour. So we're going to get positive
+values of F dot dr down here, and we're going to
+keep summing them up. We're taking an integral. Then as we go up
+the curve or as we go kind of uphill
+right over here, we see that our vector field is
+going essentially orthogonal. It's going perpendicular. It's going perpendicular
+to our contour. So our F dot dr, we're not going
+to get any value from that. F dot dr and all of these,
+this part of the contour, it's all going to be 0. So we're not going to get
+anything right over there. Actually, let me
+just write nothing. So we get nothing
+right over there. Maybe I'll write 0. I'll write we'll get
+0 right over there. And then up here, when we're
+at this part of the contour, our vector field is going in
+the exact opposite direction as our path. Up here our path
+is going, I guess, from the right to the left,
+while our vector field is going from the
+left to the right. And so we're actually going
+to get negative values. We are going to get
+negative values up here, and they're going to sum up to
+a reasonable negative value. And if the vector
+field is constant, and I kind of drew
+it like it is, and if this length is
+equal to this length, then these two values
+are going to cancel out. When you add this positive
+sum to this negative sum, they're going to be 0. And then once again, when
+you go downhill again, the vector field
+is perpendicular to our actual path, so
+we're going to get 0. So based on the way
+I've described it, your line integral of F dot
+dr for this version of F in this example right over
+here, it might all cancel out. You will get something, if we
+make the assumptions that I made, this might be equal to 0. So in this example, F dot
+dr could be equal to 0. Now let's think about what's
+going on in this situation. In this one, just like the last
+one, as we go along the bottom, the vector field is going
+in the exact same direction as our contour, so we're
+going to get positive values. And once we go up the
+hill, the vector field is going perpendicular
+to our path, so it's not going to add
+anything really to it. So we're just going to
+get 0 along this part. But then up here, our vector
+field has switched directions. And once again, it's going
+in the exact same direction as our path, so we're going to
+get more positive values right over there. And then as we go
+down here, it's not going to add anything
+because our vector field is perpendicular to our path. So we're going to get 0. But notice, now these
+two ends don't cancel out with each other. We're going to get
+a positive value. We are going to get
+a positive value. And what was the difference
+between this version of F, this vector field,
+and this vector field right over here? Well, this vector field
+switched directions so that the top part
+didn't cancel out with the bottom part. Or another way to think about
+it is, it had some curl. There's a little bit
+of spinning going on. If this was describing
+the velocity of a fluid, and if you were to put
+a stick right over there on the surface, the
+stick would spin. It has some spin or
+some curl, however you want to describe it. This right over
+here has no curl. If you put a stick
+right over here, it would just flow
+with the fluid, but the stick itself
+would not spin. So we got a positive value
+for the line integral in this situation. And we also have, it looks
+like, a positive curl. Now let's think about this one. In this situation, as we go
+along this part of our contour, our vector field F is going
+in the exact same direction, so we're going to
+get positive values. Now as we go uphill,
+our vector field F, it's also kind of turned
+in that direction, and so we'll get
+more positive values. And now as we go
+in that direction, our vector field
+F is still going in the direction of
+our contour, we're going to get more
+positive values. And as we go down, once
+again the vector field F is going in the
+direction of our contour, so we'll get even
+more positive values. So in this situation, the
+value of our line integral of F dot dr is even more positive. And we see that the
+actual vector field along the surface-- and
+remember, the vector field might be doing all sorts of
+crazy things off the surface. Actually, let me draw that
+in that same magenta color. It might be doing all sorts of
+crazy things off the surface, but what we really
+care about is what's happening on the surface. And because this
+vector field is, I guess you could
+say curling, or it's spinning along the
+surface, it allows it to go with the boundary
+along all the points, and we get a very positive
+value for this line integral. So we have a higher curl. So more curl, it looks like, is
+leading to a more positive line integral. Now let's think about
+what's happening in this situation
+right over here. This situation down
+here, our vector field is going in the same
+direction as our path, so we're going to
+get positive values. Just like the first situation,
+as we go up the hill like this or up the surface like
+that, our vector field is perpendicular to our
+surface, so it's really not going to add anything
+to our line integral. And then as we go along this
+top part, this first part of the top part right over
+here, the vector field is going against us. So it's negative
+right over here. We're going in the exact
+opposite direction of our path. And then, right as
+we get to the end, the vector field
+flips direction, and we get a little
+bit of positive right over here because it's
+a little bit of it going in the same direction. And then we go back downhill. When we go back
+downhill, it adds nothing because our vector field
+is going perpendicular to our path. So the big difference between
+this case and the case up here is the case
+up here-- well, actually, I could compare
+between these two or these two. But the difference between
+this one and this one is that at least this
+part of the vector field has switched directions. So we get a little
+bit of positive value. And one way to think
+about it, this one is going to be less positive
+than that, if we take the line integral, but more
+positive than that. And one other way
+to think about it is, we have a little bit of
+curl going on right over here. Our vector field switched
+directions right around there, or I guess you
+could say that it's spinning right around there. So if you put a stick,
+if that was in the water, it would start spinning. But everywhere else,
+there isn't a lot of curl. So you have some curl, but
+it's over a little small region of the surface. While over here, you
+had curl going on over a larger portion
+of our surface. And so up here, you had
+a more positive curl, more positive line integral. Here you have a curl
+over less of the surface, and you're going to have a
+less positive line integral. Now let's think about
+this one over here. This vector field, along the
+surface there is some curl. There's some curl going
+on right over there. If you put a stick
+in the water, if you view that as the velocity of
+water, the stick would spin. So you have some curl. But then it switches
+direction again, so you have curl there as
+well, and it's actually curl in the opposite direction. So to some degree, if you
+were to sum all of this up, maybe it would cancel out. And it makes sense. It makes sense that
+it would cancel out because when you take
+the line integral around the whole thing, just
+like this first situation, it looks like it
+will add up to 0. Because even though
+you have some curl, the curls cancel out each other. And so when you go to this
+top part of the surface, the vector field is going
+in the exact same direction as this bottom part
+of the surface. So if you were to take your line
+integral, the same one that we care about, just like
+the first situation it would be positive down
+here, 0 as we go up the curve. And then as we go down
+here, the vector field has switched directions
+twice, so it's still going against the
+path of our contour, just like this first situation. So it would be
+negative up there. And then as we go
+down, it would be 0. So this thing right
+over here also looks just like the first one
+because the curls essentially cancel out. We switched direction twice. So over here, our line
+integral might also be 0. Now, the whole reason why I
+went through this exercise is to give you an intuition
+of why it might make sense that if we have more
+curl happening over more of this surface,
+why that might make the value of this line
+integral be larger. And so, hopefully,
+it starts to give you an intuition that maybe, just
+maybe, the value of this line integral, the value of F
+dot dr over that contour, over this contour that's
+going in the counterclockwise direction-- we'll talk
+more about orientation in future videos-- maybe
+this is equal to the sum of the curls over the surface. And so let's think about this. It could be a surface integral. So we're going to
+go over the surface, and what we care about
+is the curl of F. We care about the curl
+of F. But we don't just care about the curl of F
+generally because F might be spinning in a direction, in
+a way, that's off the surface. We care about how much it's
+curling on the surface. So what we would want to do is
+we'd want to take the curl of F and dot it with the
+normal vector at any point to the surface and then multiply
+that times the surface itself. And this is just to say
+that the more surface where we have more curling
+going on, the more that the line integral, the
+value of the line integral, might be. And we saw that when we
+compared these three examples. And another way of
+writing all of this is the surface
+integral-- let me write the surface in that
+same brown color-- the surface integral of the
+curl of F, which would just be another vector that tells
+us how much we are spinning generally, but we want
+to care how much we're spinning along the surface. So we're dotting it
+with the normal vector. Or another way to write this
+whole thing is to say dot ds. So if you take essentially the
+sum across the entire surface of how much we're
+curling, how much we're spinning along that surface,
+then maybe, just maybe, this will be equal to the
+value of the line integral as we go around the
+boundary of the surface. And it actually turns out
+that this is the case. And obviously, I haven't
+proven it to you here, but hopefully you have some
+intuition why this makes sense. And this idea that
+this is equal to this is called Stokes'
+theorem, and we'll explore it more in
+the next few videos.

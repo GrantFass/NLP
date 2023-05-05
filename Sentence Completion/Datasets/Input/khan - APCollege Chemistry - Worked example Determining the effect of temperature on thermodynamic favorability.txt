@@ -1,0 +1,54 @@
+- [Lecturer] Let's do a work example where we calculate the standard change in free energy, delta G naught,
+for a chemical reaction. And for our reaction, let's look at the synthesis of ammonia gas from nitrogen gas and hydrogen gas. At 25 degrees Celsius, delta H naught for this reaction is equal to negative 92.2 kilojoules
+per mole of reaction. Since delta H naught is negative, this reaction is exothermic and at 25 degrees Celsius, delta S naught for this reaction is equal to negative 198.7 joules
+per kelvin mole of reaction. Our goal is to calculate delta G naught for this reaction at 25 degrees Celsius. Remember if delta G naught is negative, the forward reaction is
+thermodynamically favorable, but if delta G naught is positive, the forward reaction is
+thermodynamically unfavorable. Since the change in enthalpy is negative, and the change in entropy is negative, whether or not delta G naught is negative depends on the temperature. To calculate the value for delta G naught, we're going to use the following equation. Delta G naught is equal to delta H naught minus T delta S naught, where T is the temperature in kelvin. Next, we need to plug
+everything into our equation. So delta H nought is equal to negative 92.2 kilojoules
+per mole of reaction. The temperature is 25 degrees Celsius. So 25 plus 273 is equal to 298 kelvin. So we're gonna plug 298
+kelvin into our equation. And for delta S naught,
+notice we have this in joules, whereas for delta H naught,
+it was in kilojoules. So we need to convert delta S naught into kilojoules per
+kelvin mole of reaction. One way to do that is just to move the decimal place three to the left, which gives us negative 0.1987 kilojoules per kelvin mole of reaction. So we're gonna plug all of
+this in for delta S naught. Here's our equation with
+everything plugged in. Notice that kelvin will cancel out, which gives us kilojoules per
+mole of reaction as our units. And when we do the math, we find that delta G naught is equal to negative 33.0 kilojoules
+per mole of reaction. Because delta G naught is negative, that means the reaction is
+thermodynamically favorable in the forward direction. And the superscript naught
+means that both the reactants and products are in their standard states. So what our calculation tells
+us is if we had a mixture of nitrogen, hydrogen, and ammonia gas at 25 degrees Celsius, and all three gases had a partial pressure of one atmosphere, the reaction is
+thermodynamically favorable in the forward direction, meaning nitrogen gas and
+hydrogen gas would come together to synthesize or make more ammonia. So at 298 kelvin, delta G naught for this reaction is negative. Let's do another calculation
+for the same reaction at a different temperature, a temperature of 1,000 kelvin. Also, even though the
+value for delta G naught is highly dependent on temperature, the values for delta H
+naught and delta S naught are not as dependent on the temperature. Therefore, we're gonna
+assume that these values for delta H naught and
+delta S naught don't change, and we're gonna use the same ones at the higher temperature of 1,000 kelvin. Here's the equation with
+everything plugged in for the calculation of delta G naught at the higher temperature of 1,000 kelvin. And notice that the values
+we're using for delta H naught and delta S naught are
+the same as the ones that we used at the lower
+temperature of 298 kelvin. Once again, kelvin cancels out and gives us kilojoules
+per mole of reaction as our units for our final answer. And after we do the math, we find that delta G naught is equal to positive 106.5 kilojoules
+per mole of reaction. Since delta G naught is positive, that means the forward reaction is thermodynamically unfavorable, which means the reverse reaction is thermodynamically favorable. So if we had a mixture of
+nitrogen gas, hydrogen gas, and ammonia gas at a
+temperature of 1,000 kelvin, and all three gases had a partial pressure of one atmosphere, the ammonia gas would
+turn into nitrogen gas and hydrogen gas. And while we have both
+calculations on the screen, let's analyze why one calculation
+gives a negative value for delta G naught, and the other one gives a positive value. For the calculation at 298 kelvin, the temperature was low enough that the entropy term didn't overwhelm the negative value for the enthalpy term, and we ended up with a
+negative overall value for delta G naught. However, for the
+calculation at 1,000 kelvin, this time the temperature was high enough where the entropy term outweighed the negative value for the enthalpy term, and therefore the overall value for delta G naught
+ended up being positive. We've just seen that for
+the synthesis of ammonia from nitrogen gas and hydrogen gas at relatively low
+temperatures like 298 kelvin, delta G naught is less than zero, and at relatively high
+temperatures like 1,000 kelvin, delta G naught is greater than zero. So there must be some temperature between 298 kelvin and 1,000 kelvin where the forward reaction goes from being thermodynamically favorable to thermodynamically unfavorable. And this crossover point
+occurs when the enthalpy term and the entropy term
+are perfectly balanced. Therefore, delta G naught is equal to zero at this crossover point. So we plug in zero for delta G naught and we solve for the temperature
+at the crossover point. After some algebra, we find that the temperature is equal to delta H naught divided
+by delta S naught, which is equal to negative 92.2 kilojoules per mole of reaction divided
+by negative 0.1987 kilojoules per kelvin mole of reaction. Kilojoules per mole of
+reaction cancels out and gives us 464 kelvin for
+the crossover temperature. So for this particular reaction, delta G naught is equal
+to zero at 464 kelvin. At temperatures less than 464 kelvin, the forward reaction is
+thermodynamically favorable. However, at temperatures
+higher than 464 kelvin, the forward reaction is
+thermodynamically unfavorable.

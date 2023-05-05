@@ -1,0 +1,224 @@
+In the last video, I talked
+about how Bitcoin transactions are really incorporated
+into a global and a publicly accessible ledger of sorts that
+we call the transaction block chain. And this work is
+actually carried out by nodes in the
+Bitcoin network that are known as Bitcoin miners. And as a reward for
+all that effort, especially since some of the
+computational heavy lifting is done by these
+Bitcoin miners, they're basically awarded a
+certain number of Bitcoins for their efforts. And this happens by
+the miners effectively constructing what's called
+a coinbase transaction, and then basically assigning
+themselves Bitcoins within that transaction. So in a sense,
+then-- and this is kind of intriguing--
+Bitcoins are effectively generated almost out of thin
+air during this process. And of course, if you
+see something like that, that might raise in
+your mind the question of whether there is ever an
+upper limit to the Bitcoin money supply. And fortunately, the
+answer-- or maybe not so fortunately, depending
+on your viewpoint-- the answer to that
+question is actually yes. And the Bitcoin
+system is actually designed so that there can be
+at most 21 million Bitcoins ever generated. OK, so that's the maximum
+number of Bitcoins that can ever come
+up in the system. Beyond that point,
+no more new Bitcoins will ever be accepted
+or generated, or allowed to be generated. And so as a result, nodes at
+that point-- from that point onward, once 21 million
+Bitcoins have been generated-- nodes will no longer get
+a reward for augmenting the transaction block chain. The Bitcoin miners
+who do all this effort are not going to
+get a guaranteed award for doing that effort. And keep in mind that,
+because every transaction in the Bitcoin system is public,
+and the nodes in the system actually know how many
+coins have been generated, it's possible to really
+enforce these limits on the total number
+of Bitcoins created. Now there are
+actually two points I want to make regarding
+this particular limit. So first of all, even
+after it's reached, we're still going
+to need nodes to do what Bitcoin mining
+nodes do today. So that involves things like
+incorporating transactions into transaction blocks, and
+incorporating these transaction blocks into transaction block
+chains, and so on and so forth. But if you think about it for
+a moment, once the 21 million coin limit is
+reached, these nodes don't get that automatic
+reward of Bitcoins for performing
+this extra effort. And now you might
+be wondering, well, what incentive is
+there for these nodes to engage in this
+additional effort? I mean, why are they
+doing this sort of thing if they're not going to
+get Bitcoins as a guarantee for doing that work? And really at this
+point, the hope is that, when we reach the
+21 million Bitcoin limit-- or as we get closer and
+closer to it-- that actually transaction fees will play a
+more prominent role in a node's decision to be a
+Bitcoin mining node. And in particular,
+the idea here is that we hope the
+transaction fees will be enough of an incentive,
+and more and more people will-- in general,
+I think, hopefully, by this point-- will
+be using Bitcoin. And so as a result, I think
+there is an expectation-- or it's not
+unreasonable to think-- that as more and more
+people use Bitcoins, there will be more
+and more transactions, and as a result, more
+and more opportunity to make money off
+of transaction fees. And it turns out that in the
+context of Bitcoin mining, a lot of the heavy lifting is
+in this proof-of-work piece, not in being able to incorporate
+all these transactions into a transaction block. So even if there's a lot of
+transactions in the transaction block, it's not that much
+more effort for the miners to really incorporate
+those extra transactions. But if they're getting all
+these extra transaction fees, then that might be an
+incentive for them. It's also worth noting that
+transaction fees are actually set by the payer in Bitcoin. The payer, then,
+is going to have the onus of setting
+the fee appropriately, so that the nodes in
+the Bitcoin network are incentivized
+to add that payer's transactions to their
+transaction blocks. So hopefully that
+makes some sense. The second point I want to
+make, regarding this limit of 21 million Bitcoins,
+is that really Bitcoin does allow for fractional coins. And I haven't really
+talked much about that in this video series. I've really implicitly talked
+only about the idea of coins being these whole entities,
+like Alice transferring 10 coins to Bob, or 25
+coins to Bob, and so on. But it turns out
+you can actually have coins that are fractional. And in fact, the smallest
+possible unit in Bitcoin-- it's a very small number--
+it's 0.00000001 Bitcoins. And this is 1/100-million
+of a Bitcoin. And this actual--
+this unit, by the way, just as an FYI-- is
+known as a Satoshi. And this name actually comes
+from the name Satoshi Nakamoto. And Satoshi Nakamoto
+is the pseudonym of the inventor of Bitcoin. Nobody actually is sure that
+there is somebody actually named Satoshi Nakamoto, but
+as far as anybody can tell, the only person who's
+ever taken credit for the invention of Bitcoin
+is this Satoshi Nakamoto name. And it's unlikely
+there's actually a person behind that
+name, but it's more likely maybe some type of a group,
+or something of that nature. Now, aside from that,
+there are actually a couple of other
+additional controls that I want to mention, that are
+built into Bitcoin for keeping the growth of that
+money supply in check. So first of all, the reward
+provided to Bitcoin miners actually decreases over time. And if you were
+aware-- when Bitcoin began, which was around
+January of 2009-- at that time, the reward for a Bitcoin
+miner to do their effort was 50 Bitcoins. Now, the way that the reward
+structure is set up is that every 210,000 blocks-- so when
+you get to a 210,000-block period, every time 210,000
+new blocks are generated-- the reward size actually
+gets cut in half. And so what that means is
+that once 210,000 blocks are generated, the reward goes from
+50 Bitcoins to 25 Bitcoins, and from 25 to 12 and 1/2,
+and so on and so forth. Now, it does take
+approximately 4 years to generate 210,000 blocks,
+and I'll talk a little bit later about where this 4
+years numbers come from. But as of right now, I'm
+recording this video-- it's May 2013-- the current
+reward is actually no longer 50 Bitcoins. The current reward
+now is actually 25 Bitcoins per
+mining operation, and it's going to go down
+half in approximately 4 years. And that's just going
+to keep happening, until-- the estimate is
+around the year 2140. So in the year 2140, we will
+expect that the entire Bitcoin supply will have been generated. So we're not going to--
+it's unlikely we'll be generating
+Bitcoins after 2140. 2140 is the point at
+which all Bitcoins will have been generated. Now, the last way to limit
+the generation of Bitcoins is to actually
+calibrate the difficulty of solving that proof-of-work
+protocol at a global level. And so I also want to point
+out that another functionality that Bitcoin has
+built into it is that for every 2016
+blocks that are generated, the network basically
+estimates the time that it took to generate those blocks. It looks at how long
+did it take to generate the first of these blocks,
+and how long did it take to generate the
+last of these blocks, and it measures
+that amount of time. And if that amount
+of time is-- let's say it's something that's
+significantly bigger than 2 weeks. So if it's significantly
+bigger than 2 weeks, then the proof-of-work
+protocol will be simplified. But we're going to
+calibrate it so it's easier to generate blocks. On the flip side, let's say it
+took a lot less than 2 weeks to generate these 2016 blocks. In that case, the proof of
+work will be again calibrated to be made more difficult. And the goal is that
+we want it to be the case that, of
+2016 blocks, we want it to be the case that it
+takes about 2 weeks to generate these blocks-- about 14 days
+to generate 2016 blocks. And to get a better sense
+for why that number is the way it is, you could
+see that-- let's say it takes about 2 weeks
+to generate 2016 blocks. What that actually will imply is
+that it takes about 10 minutes before the proof of
+work is actually solved, and a new transaction is--
+or a new transaction block, rather-- is folded into the
+overall transaction block chain. And you can actually
+work out that if you-- if it took 10 minutes to
+validate, or to come up with one new block in the
+system at a global level, and you multiply that by 6
+to get the number of blocks generated per hour-- so
+you'd get 6 blocks per hour, or really 6 new proofs of work
+per hour, which in turn would lead to 6 new transaction
+blocks per hour-- you multiply that
+by 24 hours per day. And then you multiply
+that by 14 days, and you'll actually find that
+when you multiply these things together, you will
+get the number 2016. And so you can get a sense for
+where this number comes from. And I want to make one last,
+final clarifying remark regarding this proof of work. Since solving the
+proof of work actually requires a Bitcoin
+mining node to come up with the proof string--
+which it currently does through some type
+of exhaustive search-- as you increase the number
+of Bitcoin mining nodes on the network, then really,
+all else being equal, the proof of work
+will be solved faster. But I don't mean faster
+for a particular node. I mean faster at the level
+of the entire network. In other words,
+it'll take less time before at least one node
+comes up with a solution, because these nodes are all
+working on that same problem concurrently. And actually, on
+that note, I do also want to mention quickly maybe
+a more subtle point, which is that-- even though the
+different Bitcoin mining nodes are all validating either the
+exact same set of transactions, or maybe a largely overlapping
+set of transactions-- they actually are
+all solving entirely different
+proof-of-work protocols when they're doing
+this sort of thing. And the reason for that is
+that each node, remember, inserts its own coinbase,
+or generational transaction, into the block that it's working
+on to award itself coins. And this generational
+or coinbase transaction is actually unique to each node. So as a result, the challenge
+string for which, let's say, each Bitcoin mining node is
+seeking a corresponding proof of work-- well, that challenge
+string will be different for each Bitcoin-- each
+Bitcoin mining node, rather. And so essentially,
+what you have is that, because you
+have a cryptographic hash function that's being
+used in the process, just this one
+difference-- the fact that just this one piece is
+different-- that actually completely randomizes the
+proof-of-work problem that results. And that makes it likely that
+across the entire network, the solutions are likely
+to be widely distributed, and we can expect that
+if we have enough nodes, one node will come up with a
+solution in about 10 minutes. At least one of the nodes will. They won't all do
+it, but at least one will, and once one node
+comes up with a solution, everyone else can proceed
+from that point onward with the new chain. So as you can see,
+the Bitcoin protocol takes a number of
+measures-- implements a number of mechanisms--
+to both limit the total number of
+Bitcoins, as well as the rate at which these
+Bitcoins are ultimately generated.

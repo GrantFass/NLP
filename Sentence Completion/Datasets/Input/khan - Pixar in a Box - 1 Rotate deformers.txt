@@ -1,0 +1,20 @@
+(Pixar animation intro) - Welcome to Pixar. In the next lesson you'll learn
+to rig your own character. (cymbals crash) If you've gone through
+the animation lesson, you've already learned how to create an animated performance
+of a bouncing ball. We gave you controls which allowed you to move the ball around, or stretch it like this,
+or squash it like that. These transformations are defined by different kinds of defomers. For example, a rotate deformer
+will let you rotate the ball, a translate deformer will
+allow you to move the ball in any direction, and a scale deformer can be used to squash the
+ball when it hits the ground. Figuring out and creating these defomers is the job of a rigger. It's pretty simple when done with a ball. It gets a lot more complicated
+when dealing with a car. And a human baby is really hard. As you can see, I'm standing
+next to this giant lamp who was featured in Luxo Jr. One of the first short
+films made at Pixar. Although lamps are just solid objects without their own movement or emotions, a young animator named John Lasseter believed he could make it into an actor. He saw how this lamp could
+become a lifelike character, it was given a simple rig. This rig is made up of deformers that could make the lamp
+rotate, translate, and scale. In 1986, a rigging artist named Eben Ostby had to work extremely hard
+to create the software that would rig the lamp and allow John to create its animated performance. In the rest of this lesson,
+you will get to create the rig which will allow us to animate our lamp. Before we rig our lamp, we
+need to examine them closely. You'll notice that it consists of a base, a mid, and a lamp head. And this is connected by joints that rotate. And what you'll notice is that one rotational deformer'll move a joint. Which causes it to rotate. And there is a dependence
+of the other joints upon that rotation. The dependence of one part on another is what we call a hierarchy. And it's our job as a rigger to determine what that hierarchy is. So that when one joint rotates, all the other joints will follow. In this first exercise, let's rig our lamp with the simple rotations we talked about. You will do this by dragging
+the rotate deformers onto each of the joints. With just four rotates, it
+is possible to create poses that express a wide range
+of emotions and actions. Typically, a rigger will test a rig by creating a number of poses that will show off what the rig can do. (laughs) These people are also riggers. (laughs)

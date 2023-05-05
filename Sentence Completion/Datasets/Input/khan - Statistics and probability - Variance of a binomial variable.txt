@@ -1,0 +1,39 @@
+- [Instructor] What we're
+going to do in this video is continue our journey
+trying to understand what the expected value
+and what the variance of a binomial variable is going to be or what the expected value or the variance of a binominal distribution is going to be which is just the distribution
+of a binomial variable. And so, like in the last video I have this binomial variable X that's defined in a very general sense. It's the number of
+successes from N trials, so it's a finite number of trials where the probability of
+success is equal to P, so the probability is
+constant across the trials for each of these independent trials, so the probability of success in one trial is not dependent on what
+happened in the other rials. And we also talked in that previous video where we talked about the expected value of this binomial variable we said hey, it could be viewed that this binomial variable can be viewed as the sum of N of what you could really consider to be a Bernoulli variable here. So, this variable, this random variable Y, the probability that's equal to one, you could do that as a
+success is equal to P. The probability that it's a failure that Y is equal to zero is one minus P, so you could view Y, the outcome of Y or whether Y is one or zero is really whether we had a success or not in each of these trials, so if you add up N Ys, then you are going to get X and we use that information to figure out what the expected value
+of X is going to be because the expected value of Y is pretty straightforward
+to directly compute. Expected value of Y is just the probability weighted outcomes. So, it's P times one plus one minus P, one minus P, times zero, times zero. This whole term's gonna be zero and so, the expected value
+of Y is really just P and so, if you said the
+expected value of X, well, that's just going to be, let me just write it over here, this is all review, we could say that the expected value of X is just going to be equal to, we know from our expected value properties that it's going to be equal to the sum of the expected values of these N Ys, or you could say it is N times the expected value, times the expected value of Y, the expected value of Y is P, so this is going to be equal to N times P. Now, we're gonna do the same idea to figure out what the variance of X is going to be equal to because we could see, we know
+from our variance properties, you can't do this with standard deviation but you could do it with variance and then once you figure out the variance, you just take the square root for the standard deviation, the variance of X is similarly going to be the sum of the
+variances of these N Ys. So, it's gonna be similarly N times the variance, N
+times the variance of Y. So, this all boils down to
+what is the variance of Y going to be equal be? So, let me scroll over a little bit, get a little bit of more real estate and I will figure that
+out right over here. Alright, so we wanna figure
+out the variance of Y, so variance of Y is going to be equal to what? Well, here it's going
+to be the probability squared distances from the expected value. So, we have a probability of P where what is going to
+be our squared distance from the expected value? Well, we're going to get a
+one with a probability of P, so in that case our distance from the mean or from the expected value, we're at one, the expected value we already know is equal to P, so that's that for that possible outcome, the squared distance times
+its probability weight and then we have, actually let me scroll over, well, I'll just do it right over here, plus we have a probability of one minus P, one minus P for the
+other possible outcome, so in that outcome we are at zero and the difference between
+zero and our expected value? Well, that's just going to be zero minus P and once again we are going
+to square that quantity and so, this is the expression
+for the variance of Y and we can simplify it a little bit. So, this is all going to be equal to, so, P times one minus P squared and then is just going to be P squared times one minus P plus P squared times one minus P and let's see, we can factor
+out a P times one minus P, so what is that going to be left with? So, if we factor out a P
+times one minus P here, we're just going to be
+left with a one minus P and if we factor out a P
+times one minus P here, we're just going to have a plus P. These two cancel out. This is just this whole
+thing is just a one. So, you're left with P times one minus P which is indeed the variance
+for a binomial variable. We actually proved that in other videos. I guess it doesn't hurt to see it again but there you have. We know what the variance of Y is. It is P times one minus P and the variance of X is just
+N times the variance of Y, so there we go, we deserve
+a little bit of a drum roll, the variance of X is equal to N times P times one minus P. So, if we were to take
+the concrete example of the last video where if I were to take 10 free throws, so each trial is a shot, is a free throw, so if I were to take 10 free throws and my probability of success is 0.3, I have a 30% free throw percentage, the variance that I would expect to see, so in that case the variance if X is the number of free throws I make after these 10 shots, my variance will be 10 times 0.3, 0.3 times one minus 0.3, so 0.7 and so, that would be what? This right over, so this
+would be equal to 10 times .3 times .7 times 0.21, so my variance in this situation is going to be equal to 2.1. Is equal to 2.1 and if I wanted to figure
+out the standard deviation of this right over here, I would just take the square root of this, so if we want the standard deviation, just take the square root of this expression right over here.

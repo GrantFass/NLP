@@ -1,0 +1,143 @@
+Let's do another states of
+matter phase change problem. And we'll deal with
+water again. But this one hopefully will
+stretch our neurons a little bit further. So let's say I have 500
+grams of water. Of liquid water. At 60 degrees Celsius. Now my goal is to get it to
+zero degrees Celsius. And the way I'm going to do it
+is, I'm going to put ice into this 500 grams of water. And my ice machine at home makes
+ice that comes out of the machine at minus 10
+degrees Celsius ice. And my question is, exactly
+how much ice do I need? So how much, or how
+many grams of ice? And I'm going to take the ice
+out of the freezer and just plop it into my liquid. How much do I need to bring this
+liquid, this 500 grams of liquid water, down
+to zero degrees? So the idea, if we just
+imagine a cup here. Let me draw a cup. This is a cup. I have some 60 degree
+water in there. I'm going to plunk a big
+chunk of ice in there. And what's going to happen is
+that heat from the water is going to go into the ice. So the ice is going to absorb
+heat from the water. So in order for water to go
+from 60 degrees to zero degrees, I have to extract
+heat out of it. And we're about to figure
+out just how much heat. And so we have to say, whatever
+was extracted out of the water, essentially has to
+be contained by the ice. And the ice can't get
+above zero degrees. Essentially, that amount of
+ice has to absorb all that heat to go from minus
+10 to zero. And then also, that energy will
+be used to melt it a bit. But if we don't have enough ice,
+then the ice is going to go beyond that and then
+warm up even more. So let's see how we do this. So how much energy do we have
+to take out of the 500 grams of liquid water? Well, it's the same amount of
+energy that it would take to put into zero degrees
+liquid water and get it to 60 degrees. So we're talking about
+a 50 degree change. So the energy or the heat out
+of the water is going to be the specific heat of water,
+4.178 joules per grams Kelvin. And I have to multiply that
+times the number of grams of water I have to cool down, I
+have to take the heat out of. And we know that's 500 grams.
+And then I multiply that times the temperature differential
+that we care about. And just a side note, I use
+this specific heat because we're dealing with
+liquid water. Liquid water going
+from 60 to zero. So the final thing, I have to
+multiply it by the change in temperature. The change in temperature
+is 60 degrees. Times 60 degrees. There's a little button on the
+side of my pen, when I press it by accident sometimes it
+does that weird thing. So let's see what this is. So this is 4.178 times 500 times
+change of 60 degrees. It could be a change of 60
+degrees Kelvin or a change of 60 degrees Celsius. It doesn't matter. The actual difference is the
+same, whether we're doing Kelvin or Celsius. And it's 125,340 joules. So this is the amount of heat
+that you have to take out of 60 degree water in order to get
+it down to zero degrees. Or the amount of heat you have
+to add to zero degree water to get it to 60 degrees. So essentially, our ice has
+to absorb this much energy without going above
+zero degrees. So how much energy can
+the ice absorb? Well let's set a variable. The question is how much ice. So let's set our variable,
+maybe we'll call it I. Let's do x. x is always
+the unknown variable. So we're going to have
+x grams of ice. OK, and it starts at
+minus 10 degrees. So when this x grams of ice
+warms from minus 10 degrees to zero degrees Celsius, how much
+energy will it be absorbing? So to go from minus 10 degrees
+Celsius to zero degrees Celsius, the heat that's
+absorbed by the ice is equal to-- is equal to the specific
+heat of ice, ice water, 2.05 joules per gram Kelvin, times
+the amount of ice. That's what we're solving for. So times x. Times the change
+in temperature. So this is a 10 degree change
+in Celsius degrees, which is also a 10 degree change
+in Kelvin degrees. We can just do 10 degrees. I could write Kelvin here, just
+because at least when I wrote the specific heat units,
+I have a Kelvin in the denominator. It could have been a Celsius,
+but just to make them cancel out. This is, of course, x grams.
+So the grams cancel out. So that heat absorbed to go from
+minus 10 degree ice to zero degree ice is 2.05
+times 10 is 20.5. So it's 20.5 times x joules. This is to go from minus 10
+degrees to zero degrees. Now, once we're at zero degrees,
+the ice can even absorb more energy before
+increasing in temperature as it melts. Remember, when I drew that
+phase change diagram. The ice gains some energy
+and then it levels out as it melts. As the the bonds, the hydrogen
+bonds start sliding past each other, and the crystalline
+structure breaks down. So this is the amount
+of energy the ice can also absorb. Let me do it in a
+different color. Zero degree ice to zero--
+I did it again-- to zero degree water. Well the heat absorbed now
+is going to be the heat of fusion of ice. Or the melting heat,
+either one. That's 333 joules per gram. It's equal to 333.55 joules per
+gram times the number of grams we have. Once
+again, that's x grams. They cancel out. So the ice will absorb 333.55
+joules as it goes from zero degree ice to zero
+degree water. Or 333.55x joules. Let me put the x there,
+that's key. So the total amount of heat
+that the ice can absorb without going above
+zero degrees. Because once it's at zero degree
+water, as you put more heat into it, it's going to
+start getting warmer again. If the ice gets above zero
+degrees, there's no way it's going to bring the water
+down to zero degrees. The water can't get above
+zero degrees. So how much total heat
+can our ice absorb? So heat absorbed is equal to the
+heat it can absorb when it goes from minus 10 to
+zero degrees ice. And that's 20.5x. Where x is the number of grams
+of ice we have. Plus the amount of heat we can absorb as
+we go from zero degree ice to zero degree water. And that's 333.55x. And of course, all of
+this is joules. So this is the total amount of
+heat that the ice can absorb without going above
+zero degrees. Now, how much real energy
+does it have to absorb? Well it has to absorb all of
+this 125,340 joules of energy out of the water. Because that's the amount of
+energy we have to extract from the water to bring it down
+to zero degrees. So the amount of energy
+the ice absorbs has to be this 125,340. So that has to be equal
+to 125,340 joules. We can do a little bit
+of algebra here. Add these two things. 20.5x plus 333.55x is 354.05x. Is that right? Yeah, 330 plus 30 is 350. Then you have a 3 with
+a 0.5 there. 354.05x and that is equal to the
+amount of energy we take out of the water. You divide both sides. So x is equal to 125,340
+divided by 354.05. I'll take out the calculator
+for this. The calculator tells me 125,340,
+the amount of energy that has to be absorbed by the
+ice, divided by 354.05 is equal to 354 grams. Roughly;
+there's a little bit extra. So actually, just to be careful
+maybe I'll take 355 grams of ice. Because I definitely want
+my water to be chilled. So our answer is x is equal
+to 354.02 grams of ice. So this is interesting. I had 500 grams of liquid. And you know, intuitively I
+said, well if I have to bring that down to zero degrees, I'd
+have to have a ton of ice. But it turns out, I only need,
+what was the exact number? So the liquid is 500 grams.
+About, roughly half a pound, if you want to get a sense for
+how much 500 grams is. A kilogram is 2.2 pounds. So this ice is 354. So you actually have to have
+less ice than water. Which is interesting, because
+it seems like the ice isn't making that big of a
+temperature change. The ice is only going from
+minus 10 to zero degrees. While the water is going all
+the way from 60 degrees to zero degrees. So you're like, how does
+that work out? And the reason is because so
+much energy can be absorbed by the ice in the form of potential
+energy as it melts. So if you talk about all the
+energy that the ice is asborbing, most of it is
+due to the heat of fusion right there. You can actually have zero
+degree ice and it can still absorb this huge amount of
+energy just by melting it. Without even changing
+its temperature. Anyway, hopefully you found
+that reasonably useful.

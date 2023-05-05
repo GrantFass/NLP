@@ -1,0 +1,67 @@
+- [Voiceover] We're gonna
+talk about the equations that describe how a capacitor
+works, and then I'll give you an example of how these equations work. The basic equation of a capacitor,
+says that the charge, Q, on a capacitor, is equal
+to the capacitance value, times the voltage across the capacitor. Here's our capacitor over here. Let's say we have a voltage
+on it, of plus or minus V. We say it has a capacitance value of C. That's a property of this device here. C is equal to, just looking
+at the equation over there, C is equal to the ratio of the charge, stored in the capacitor, divided by the voltage of the capacitor. What we mean by stored charge is, if a current flows into this capacitor, it can leave some excess
+charge on the top. I'll just mark that with plus signs. There will be a corresponding
+set of minus charges, on the other plate of the capacitor. This collection of
+excess charge will be Q , and this down here will be Q-, and they're gonna be the same value. What we say here, is when the
+capacitor's in this state, we say it's storing this much charge. We'll just name one of these numbers here. They're gonna be the
+same, with opposite signs. That's what it means for a
+capacitor to store charge. What I want to do now, is
+develop some sort of expression that relates the current
+through a capacitor, to the voltage. We want to develop an IV characteristic, so this will correspond, sort of like, Ohm's Law for a capacitor. What relates the current to the voltage. The way I'm gonna do that,
+is to exercise this equation, by causing some changes. In particular, we'll change
+the voltage on this capacitor, and we'll see what happens over here. When we say we're gonna
+change a voltage, that means we're gonna create something,
+a condition of DV, DT. A change in voltage per change in time. I can do that by taking the derivative of both sides of this equation here. I've already done it for this side. Over here, what I'll have is DQ, DT. I took the derivative of
+both sides, just to be sure I treated both sides of
+the equation, the same. Let's look at this little
+expression right here. This is kind of interesting. This is change of charge,
+with change of time. That's equal to, that's
+what we mean by current. That is current. The symbol for current is I. DQ, DT is current, essentially,
+by definition, we give it the symbol I, and that's
+gonna be equal to C DV, DT. This is an important equation. That's, basically, the IV relationship, between current and
+voltage, in a capacitor. What it tells us, that the current is actually proportional to, and the proportionality constant is C, the current's proportional to
+the rate of change of voltage. Not the voltage itself, but to the rate of change of voltage. Now, what I want to do
+is find a expression that expresses V, in terms of I. Here we have I, in terms of DV, DT. Let's figure out if we can express V, in terms of some expression containing I. The way I do that is, I need to eliminate this derivative here. I'm gonna do that by taking
+the integral of this side of the equation, and at
+the same time, I'll take the integral of the other side of the equation, to keep everything equal. What that looks like
+is, the integral of I... With respect to time,
+is equal to the integral of C DV, DT, with respect to time, DT. On this side, I have basically,
+I do something like this. I have the integral of DV. This looks like an anti-derivative. This is an integral, acting
+like an anti-derivative. What function has a derivative of DV? That would be just plain V. I can rewrite this side of the equation, constant C comes out of the expression, and we end up with V, on this side. Just plain V. That equals the integral of I DT. We're part way through,
+we're developing what's gonna be called an integral form
+of the capacitor IV equation. What I need to look at next is, what are the bounds, on this integral? The bounds on this integral
+are basically minus time, equals minus infinity, to
+time equals sub-time T, which is sort of like the time now. That equals capacitance times voltage. Let me take this C,
+over on the other side, and actually, I'm gonna move
+V over here, onto the left. Then, I can write this, one over C. This is the normal looking
+version of this equation. I DT, minus infinity to time, T. Time, big T, is time right now. What this says, it says that
+the voltage on a capacitor has something to do with the summation, or the integral, of the
+current, over its entire life, all the way back to T
+equals minus infinity. This is not so convenient. What we're gonna do instead,
+is we're gonna pick a time. We'll pick a time called T equals zero, and we'll say that the
+voltage on the capacitor was equal to, let's say,
+V not, with some value. Then, what we'll do, is we're gonna change the limit on our integral here, from minus infinity, to
+time, T, equals zero. Then, we'll use the
+integral from, instead, zero to the time, we're interested in. That equation looks like this. We're just gonna change
+the limits on the integral. We have the integral now, but
+we have to actually account for all the time, before T equals zero. What we do there, is we
+just basically add V not. Whatever V not is, that's
+the starting point, at time equals zero, and
+then the integral takes us, from time zero until time now. This is the integral form
+of the capacitor equation. I want to actually make
+one more little change. This is the current at
+V, as a function of T. What we really want to write here, is we wanna write V of a little T. This is just stylistically,
+this is what we like this equation to look like. I want the limits on my
+integral, to be zero to t. Now, I need to sort of
+make a new replacement for this T that's inside here. I can call it something else. I can call it I of, I'll call it tau. This is basically just
+a little fake variable. D tau plus V not. This is, now, we finally have it, this is the integral form
+of the capacitor equation. We have the other form of the
+equation that goes with this, which was I equals C DV, DT. There's the two forms of
+the capacitor equation. Now, I want to do an
+example with this one here, just to see how it works, when
+we have a capacitor circuit.

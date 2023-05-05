@@ -1,0 +1,74 @@
+- [Voiceover] What I would like us to do in this video is find the
+power series representation of or find the power series
+approximitation (chuckles) the power series
+approximation of arctangent of two x centered at zero and let's just say we want
+the first four nonzero terms of the power series
+approximation of arctangent of two x centered at zero so it's essentially the
+Maclaurin Series of arctangent of two x, the first four
+nonzero terms of it. If you feel good about it, I encourage you to pause the video and try to work through it yourself. You might have tried to work through it and you've probably took the first derivative of it. You probably saw that hey, the derivative with respect to x of arctangent of two x is equal to
+and this is a refresher if you didn't realize it the first time. It's going to be the
+derivative of arctangent of x is one over one plus x squared so this is going to be the derivative of this which is two over one plus this whole thing squared. One plus, I would say
+one plus four x squared and then as you tried to
+find more of the terms of the Maclaurin Series, you would have taken
+more derivatives of this and it would have gotten very hairy, very fast if especially if you're looking for the first four nonzero terms. You probably realize hey, there must be some type of an insight that I hadn't fully appreciated yet when I just tried to just power through or no pun intended, power through finding the power series, the first four nonzero
+terms of the power series centered zero of arc tangent of two x. You are right, there
+is a key insight here. The key insight here is well, instead of doing it directly, let's see if we could
+find the power series representation, the first
+four terms of this thing right over here and then we
+can take the antiderivative of that to find the power series of arctangent of two x making sure that we get the constant right that it satisfies the fact
+that we are being centered at zero, so I know what
+you're thinking now. Well that seems like it's getting us to the exact same issue. If I want to find the power
+series representation of this, the first four terms of it, I'm still having to take
+the derivative of this multiple times it seems just as hard but this is the key insight
+I guess you could say. The key insight is let's just say f of x which of course is the derivative of arctangent of two x is two over one plus four x squared. Now, if we had another function that cleans it up a little bit so that we don't get all these hairiness when we take the derivatives. Let's say we had another function g of x, I'm using the color that I have not used. Let's say, that I have g of x is equal to one over one plus x. This is an interesting thing
+because it's really easy and this is the same thing as one plus x to the negative one power. g of x is interesting
+because it's really easy to take its derivatives. For example, g prime of x is going to be equal to chain rule derivative one plus x is just one so it's going to be equal
+to negative one plus x to the negative two power if I want to take the
+second derivative of that. g prime prime of x that's
+going to be negative two times negative one it's
+two times one plus x to the negative three power. If I want to take the
+third derivative of that, that's going to be, let's see. Negative three times two its negative six times one plus x to the
+negative four power. I know you're saying, "Sal, "aren't we worried about this? "Why are you doing this?" Well just bare with me for a second. Just said quickly, I was able to find the first three derivatives of g of x and it's very easy then to
+find the first four terms of its power series representation especially it's Maclaurin, that's Maclaurin series if the power series centered at zero. We just have to evaluate
+each of these at zero. g of zero is equal to one, g prime of zero is equal to negative one. g prime, prime of zero, so one plus zero and
+then the negative three, that's just one times two is equal to two and then the third
+derivative evaluated at zero is equal to negative six. I could write the g of x is approximately equal, so I'm just going to do
+the first four terms here is going to be g of zero which is one minus g prime of zero times x. That's minus one times
+x, so that's negative x plus g prime, prime of zero two over two factorial times x squared. Well this is just one times x squared so let me just write that. That's just going to be plus x squared and then we have plus g
+prime, prime, prime of zero which is negative six over three factorial times x to the third. Well three factorials are six so negative six divided by
+six is just negative one. That's going to be
+negative x to the third, negative x to the third and
+I know what you're thinking. "All right Sal, so you just
+started with a hard problem "and you gave yourself
+a much easier problem "to find the power series representation. "How is this useful?" Well this is the key insight
+that I've been promising throughout this video so far. The key insight, the
+long promised key insight is that and I'm finding a
+suitable color for a key insight is that we can write f of x. Notice f of x is just two times, f of x is two times g of four x squared. Notice you replace your
+x's with a four x squared. You're going to have one
+over one plus four x squared and then you multiply that
+whole thing times two, you get this thing right over here. If f of x is equal to that then f of x is power series representation its just going to be
+taking this power series or at least the first four terms of it and replacing the x's with four x squares and then multiplying the
+whole thing times two, so let's do that. We can write that f of x, so we could write the f of x is going to be approximately equal to two times this thing, a value when x is equal to four x squared. It is one minus instead of an x, I'm going to write a four x squared plus x squared but instead of an x, I have a four x squared squared. This is plus four x squared squared. Well that's going to
+be 16 x to the fourth, so let me just write that, that's going to be plus 16 x to the fourth and finally minus x to the third but now an x is four x squared so it's minus four x
+squared to the third power. Well that's going to be 64 x to the sixth. Let me write that, minus 64 x to the sixth power and then we could say
+that this is going to be so f of x is approximately equal to, distribute the two, two
+minus eight x squared plus 32 x to the fourth minus 128 x to the sixth. Just like that with a little
+bit of a substitution, I was able to reasonably
+a non hairy fashion find the first four nonzero terms of the power series of two
+over one plus four x squared which is the derivative, which is going to be the derivative of the power series of arctangent of two x. Let's write this down,
+so I'm going to write, I'm going to write down, so arctangent of two x, arctangent of two x which is equal to an antiderivative of f of x, dx which is going to be
+equal to an antiderivative of this whole, all of this business. It's the antiderivative
+of two minus eight, minus eight x squared plus 32 x to the fourth minus 128 x to the sixth. Actually let me make this approximate because now of course
+we're doing approximation with the power series. Dx and what is this going to be equal to? We get approximately equal to well I'm going to have a constant there. Let me write the constant first because when we write our power
+series or Maclaurin Series, the first term is the constant term. It's our function evaluated to add zero. We're going to have a constant, if I take the antiderivative of two, that's going to be plus two x. The antiderivative of this,
+let's see, x to the third divide eight by three so it's negative 8/3 x to the third power then plus 32 x to the fifth over five minus 128 x to the seventh over seven. We're in the home stretch. We've got at least four nonzero terms, if this is nonzero there's going to be five nonzero terms but now let's just make sure that our constant is
+appropriate for arctangent of two x. This is essentially
+evaluate to what arctangent of when this function,
+when x is equal to zero. What is arctangent of zero? Remember this is centered at zero so we better get it right there. That's just the most basic thing if we're doing the Maclaurin
+Series representation. We're centering at zero so our approximation evaluated zero better be the same thing as
+a function of evaluated zero. Well arctangent of two times zero is just going to be zero and so this thing when
+you evaluate it at zero, this gets to C, so this gets to C must be equal to zero. C must be equal to zero if
+we want this thing to be zero when X is equal to zero. Just like that we're done. We've been able to figure
+out that arctangent of two x is approximately equal to two x minus 8/3 x to the third power plus 32 over five x to the fifth minus 128 over seven x to the seven. If we wanted more terms, we could have gotten more terms by just doing what we just did but doing it for more terms. Hopefully you enjoyed
+that fairly hairy problem but as you saw it's not
+as hairy as we thought it was going to be.

@@ -1,0 +1,80 @@
+- [Voiceover] Let's now actually apply Newton's Law of Cooling. Just to remind ourselves, if
+capitol T is the temperature of something in celsius degrees, and lower case t is time in minutes, we can say that the rate of change, the rate of change of our temperature with respect to time, is going to be proportional and I'll write a negative K over here. We assumed our concept K is positive, then a negative K is going to
+proportional to the difference between the temperature of our thing and the ambient temperature in the room. Once again, why do I
+have a negative there? Well, because if the
+temperature of our thing is larger than the
+temperature of our room, we would expect that we would
+be decreasing in temperature. We would have a negative rate of chance. Temperature should be
+decreasing over time. If, on the other hand,
+our temperature is lower than the ambient temperature of the room then this thing is going to be negative and we would want a
+positive rate of change. Things would be warming up. That's why a negative of a negative would give you the positive. This right over here, this
+differential equation, we already saw it in a previous video on Newton's Law of Cooling. We even saw a general solution to that. The general solution that I care about, because we are now going
+to deal with the scenario where we are putting
+something warm in a... Or we are going to put
+a warm bowl of oatmeal in a room temperature room. Given that, we are
+going to assume the case that we saw in the last video where our temperature is
+greater than or equal to the ambient temperature. In that situation, our general
+solution boiled down to... It boiled down to temperature
+as a function of time is equal to some constant
+times e to the negative KT, negative KT, plus our ambient temperature. Plus our ambient temperature. Once again, we figured
+this out in our last video. Now, let's actually apply it. I said we were dealing with the scenario where our temperature is greater than or equal to the ambient temperature. Let's assume we are in a scenario... Let's assume a scenario where our ambient temperature
+is 20 degrees celsius. We assume that doesn't change. The room is just large enough that even if something that is warmer is put into it the ambient temperature does not change. Let's say that the thing
+that we have put in it, our warm bowl of oatmeal, let's say it starts off the
+moment we put it in the room, that time equals zero, is 80 degrees celsius. Let's say we also know,
+just from previous tests, that after two minutes, after two minutes, it gets to 60 degrees celsius. We also know that T of
+two is 60 degrees celsius. Given all of this
+information right over here, using Newton's Law of Cooling, and using all of this information we know about how bowls of oatmeal
+that start at this temperature have cooled in the past, we want to know how long it will take. How many minutes will have to pass when you put an 80 degree
+bowl of oatmeal in the room? How many minutes have to pass in order for it to get to 40 degrees using this model? Let me write that down. So how long... How many minutes for... or let me just say to cool
+to 40 degrees celsius? I encourage you to pause the video now and try to figure it out. I'm assuming you have paused the video, and you have had your go at it and the key is to use
+all of this information right over here to solve
+for the constants C and K, and once you know that, you essentially have described your model. Then you can apply it
+to solve for the time that gets you to a temperature
+of 40 degrees celsius. So let's do that. The first thing we know is the ambient temperature
+is 20 degrees celsius. This right over here is 20 degrees. The most obvious thing
+to solve for or to apply is what happens with T of zero. What's neat about T of zero, when T equals zero, this exponent is zero, either the zero power is one, and so T of zero is
+essentially going to simplify to Ce plus 20 degrees. Let me actually right that down. T of zero, which we
+already know is 80 degrees, we already know as 80 degrees celsius. I'm just going to write 80. We will assume it's in degrees celsius. That is going to be equal to... That is going to be equal to when T equals zero, this, the e to the zero is just going to be one. It's going to be equal
+to C plus, C plus 20. If you want to solve for
+C, you just subtract 20 from both sides of this equation. We are left with... We are left with 80 minus
+20 is 60, is equal to C. 60 is equal to C. We were able to figure out C. Let's figure out what we know right now. We know that T, let me
+do that in magenta color. We know that T of t, that's confusing, upper case T of lower case t, temperature as a function of time, is going to be equal to... is going to be equal
+to in that same color, 60 e to the negative
+KT, negative KT plus 20, plus our ambient temperature. Plus our ambient temperature. Now, we need to solve for K. We can use this information
+right over here to solve for K. T of two is equal to 60 degrees. If we make t as equal to two, this thing is going to be 60 degrees. Let me write that down. Let me write that over
+here so we have some space. We have 60 is equal to... 60 is equal to 60, is equal to 60 e to the negative K T, all this color switching takes time, e to the negative K T, plus oh, and be careful, that's a times two. E to the negative K times two. That's a time equals two, I could write that E
+to the negative two K. E to the negative two K, and then of course we have our plus 20. Then we have our plus 20. Now we just have to solve for K. Once again, at any point, if
+you feel inspired to do so I encourage you to try
+to solve it on your own. Alright, so let's do this. If we subtract 20 from both sides, we get 40 is equal to 60
+e to the negative two K. Divide both sides by 60. You are left with two thirds. 40 divided by 60 is two thirds. is equal to e to the negative two K. E to the negative two K. All this color changing takes work. Let me know if y'all
+want me to keep changing. I enjoy changing colors. It just keeps it
+interesting on the screen. Anyway, e to the negative two K. Actually, let me scroll down a little bit so I have some more real
+estate to work with. Now I can take, let's see. I can take the natural log of both sides. So, I'll have the natural log. Natural log of two thirds is equal to the natural log of e
+to the negative two K. That's the whole reason why I took the natural log of both sides. Then to solve for K, I divide
+both sides by negative two. I get K is equal to negative one half. Negative one half the
+natural log of two thirds. I just swapped sides. Natural log of two thirds. Let me do that since I kept
+the colors going so long, let me keep it that way. Natural log of two thirds. So we have solved for
+all of the constants. Now we can rewrite this
+thing right over here. We can rewrite it as... We just need a mini drumroll here, we are not completely done yet. We get t of T is equal to 60 e... e to the negative K. Well, negative K, the
+negative and negative is going to be positive. It will be one half
+natural log of two thirds. So one half natural log of two thirds. Negative K, so negative of a negative. One half natural log of two thirds, which actually will be a negative value. Two thirds is less than e,
+so you are going to have a natural log of it is
+going to be negative so it makes you feel
+good that the temperature is going to be going down over time. So, plus or times T, plus 20. Now, all we have to do is
+figure out what T get us to a temperature of 40 degrees celsius. Let's solve for that. If we want this to be
+40, 40 is equal to... Actually now I'm just
+going to stick to one color as we march through this part. 40 is going to be equal to 60
+e to the one half natural log of two thirds T power plus 20. Now, let's see. We can subtract 20 from both sides. We get to 20 is equal to 60
+e to all that crazy business, one half natural log
+of two thirds times T. Now we can divide both sides
+by 60 and we get one third. 20 divided by 60 is one third, is equal to e to the one half natural log of two thirds times T. Now, let's see, we can take
+the natural log of both sides. The natural log of one third is equal to one half natural log of two thirds times T and then home stretch to solve for T you just divide both sides by one half natural log of two thirds. We get T is equal to this, which is the natural log of one third divided by one half natural log of two thirds. Well, if you divide by one
+half that's the same thing as multiplying by two. Then you are going to divide
+by natural log of two thirds. Let's see if this actually
+makes a sensical answer. Let me get a calculator out. Actually, I could just use Google here. I had ... I already forgot what it was. Natural log one-- So I had natural log one third over natural log of two thirds and the whole thing times two. So I can type two times the
+natural log of one third divided by the natural log of two thirds. Let's see what Google gets us. Alright, it didn't ... How did I mess up? This is equal to two
+times the natural log-- Oh, okay, it messed up the parenthesis. Let me make this clear. The natural log of one third divided by the natural log of two thirds. Then, there you go. If we were to round to
+the nearest hundredth it would be five point four two. Five point four two minutes. Remember, everything we
+were doing were in minutes. This right over here, this
+is approximately equal to five point four two. Five point four two minutes. And we are done! That's how long it will take
+us to cool to 40 degrees.

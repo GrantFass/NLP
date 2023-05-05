@@ -1,0 +1,133 @@
+- Hydrochloric acid,
+every chemist's frenemy as terribly dangerous as
+it is terribly useful. It'll burn your skin, your eyes, even your mucous membranes if you breathe in its fumes for too long. But HCl as an acid gives up
+its hydrogen pretty easily, which makes it good for making things like fertilizers and
+dyes and even table salt. Then there's sodium hydroxide, another substance that
+I wouldn't wish to be on my worst foe, although,
+I'm glad we have it. You might know it as lye, an
+extremely caustic substance that's used for everything
+from clearing clogged pipes to purifying drinking water. It's a base. It readily accepts the
+protons that acids release. So what do you think'll
+happen when I mix solutions of two things together. Will they just cancel each
+other out and do nothing? Or will they explode or maybe
+I'll travel through time? Well, if you've been paying attention, you already know what's gonna happen. They're gonna undergo a
+neutralization reaction, which we've talked about before. These two potentially deadly substances will form harmless salt and water. But the reaction will also have an effect that you can actually feel. It will release heat and
+not just a little heat. Mixing concentrated acids and
+bases releases so much heat that it can result in an explosion. But I will show you how to product a safe but noticeable amount of
+heat with this reaction. To me, the coolest part of this is where the heat actually comes from. The energy used to exist
+as part of chemical bonds in the acid and the base. Just like a ball at the top of a hill, molecules always move toward a lower energy state if they can. And that's just what they'll do. High energy bonds will
+break and lower energy bonds will form the change in energy
+between those two states you can actually feel the effects of. And that's pretty dang cool. And what's even more
+awesome, if you ask me, is that we can actually figure out exactly how much heat will
+be released by this reaction. (quirky music) Remember that measuring heat change is closely related to enthalpy, which we defined as the
+internal energy of a system plus the energy that it uses
+to push the surroundings back and make room for its
+own pressure and volume. And at a constant
+pressure, like we have here at the surface of the earth, that works out to be exactly the same as the heat that's absorbed
+or released by a reaction. Naturally, it could be very useful to know how much heat a chemical
+reaction absorbs or releases. In addition to the exothermic hand warmers that we looked at, there
+are also endothermic chemicalized packs for treating injuries. The ability to calculate
+change in enthalpy is also what tells pilots how far the fuel that an airplane's tank
+will allow it to fly, which I am personally very interested in making sure they get right. One of the ways we can
+calculate the change in enthalpy of a system is with Hess's law, which you'll recall states
+that then total enthalpy change for a chemical reaction doesn't depend on what pathway it takes, but only on its initial and final states. It's all been expressed in
+terms of standard enthalpy's of formation. That is the amount of heat lost or gained when one mole of a compound
+is formed from its elements. That's how we figured
+out exactly how much heat my hand warmers release. Well, that's not the only way
+that Hess's law can be used. The law itself says nothing about standard enthalpies of formation. Any way that we can figure out the change in heat between the
+products and the reactants will work just as well. And that's where calorimetry comes in. Calorimetry is the science
+of measuring the change in heat associated with
+a chemical reaction. And this may look like a
+plastic bottle inside of koozie, but it's actually a calorimeter. A calorimeter can be fancy, an
+expensive piece of hardware, or it can be simple. But no matter what it looks like, it's basically just an insulated container that contains a thermometer and it can be made out of stainless steel or styrofoam cups, but there really are no fundamental differences in how they work. And you know the general setup by now. The chemicals in the calorimeter make up the thermodynamic system. And everything else is the surroundings. The insulation minimizes
+the amount of heat that leaks in or out of the system so that we can be fairly confident that any heat transfer
+is part of the system not the surroundings. The thermometer tracks
+the temperature change, which is part of the
+calculation we have to do. And there's usually some
+way to stir the solution to make sure that the
+reaction occurs fully. All right, everybody, safety first. Though I really should be wearing gloves. I'm gonna put 100
+milliliters, also a 100 grams of HCls, one more HCl solution
+into my calorimeter here. All wash-a-buh. And now I'm going to put the same amount of sodium hydroxide solution. Before I do the reaction, I have to know our starting temperature. So I'm gonna stick my thermometer in there and wait for a second to see what it does. It should be roughly room temperature. It's been in the room for a long time. So we are currently at
+like 20.8 degrees celsius. So that's like 294 kelvin. And now I shall add my 100
+milliliters of sodium hydroxide. Woop. The temperature, unsurprisingly,
+is rising very rapidly. And I'm doing something right now that you should never ever do, which is stir with a thermometer, because if this happens in
+schools across the world, then there will be a million
+billion broke thermometers. And the stuff inside of these
+thermometers is not good. So never do what I'm doing. All right, the temperature
+should be stable by now. We have 28.2 degrees celsius. Now there's a simple
+formula that allows us to calculate the heat change of a reaction simply by measuring the
+change in temperature that occurs in a calorimeter. It says that the change in heat equals the specific heat
+capacity of the substance times its total mass, times
+the change in temperature. Let's examine the parts of this. First of all, the heat change
+in the calorimeter formula is normally represented by a lowercase Q, but it can also be represented
+by change in enthalpy, or delta H, because remember
+at constant pressure, delta H equals q, and constant pressure is almost always a good assumption for the duration of an experiment, or at least as long as we stay at the surface of the earth. For reasons that will become clear later, we'll use delta H to
+represent the heat change for this experiment. Specific heat capacity
+represented by a lowercase S is the amount of heat required
+to raise the temperature of one mass unit, like a gram and kilogram of a substance by one degree Celsius. So it turns out that
+different amounts of heat create different temperature changes, like metals get hot really easily and cool down really easily. Others, like water, require
+a lot of thermal energy to raise the temperature, and therefore have to release
+a lot of heat to cool down. I'm always wondering,
+though, like what does that really mean, like
+physically in the molecules? Shouldn't heat raise the
+temperature of all substances equally and why does water in particular have such a high specific heat capacity? Heat energy can do a lot of things besides just increase temperatures. Temperature, or the speed at
+which molecules bounce around is just one way that atoms or
+molecules can absorb energy. Heat energy can also be absorbed by the breaking and formation of bonds between molecules. And as we'll learn in another episode, the extremely high specific
+heat capacity of water is due to the breaking in formation of hydrogen bonds that are associated with relatively small
+changes in temperature. And how do we know the
+specific heat capacity? Well, I am happy to report
+that some noble chemists have worked hard to determine
+the specific heat capacities of hundreds of substances
+so that we don't have to. We just have to look up
+the numbers in a table. Okay, so a specific
+heat capacity times mass times the change in temperature. The mass is important because
+the more mass of a substance we have, the more chemical
+bonds that are present. And because energy is
+contained in chemical bonds, they have a big effect on how much energy we're able to absorb or release. And, finally, there's the
+change in temperature. When doing calorimetry, we
+calculate a change in heat by measuring a change in temperature. But, as we've said a billion times before, heat and temperature
+or not the same thing., Please do not think that
+this thing is measuring heat, because it's not. It's just that luckily,
+in this specific case, they are related by our handy
+little calorimeter formula. Now, you might not have noticed, but we are right at the interface between chemistry and physics here. Each science could claim
+ownership over these phenomena. But the truth is that humans
+made up the difference between chemistry and physics anyway. Thermodynamics, the study
+of heat, energy and work, doesn't care about our little rules. Thermodynamics itself makes
+the rules of the universe. It is the ultimate law. So now you know, even though
+you might not have cared, but you should, because it's cool. It's all wiggly wobbly bondy wondy. All right, enough talk. Let's get out there and
+actually do some math here. Now, remember that the formula
+is delta H, sm delta T. The solutions we're
+using here are so dilute that almost all of their
+mass consists of water. Therefore, we can simply use the specific heat capacity of water. If we look that up on a table, we'll see that it is 4.184
+joule per gram degrees celsius. I used a 100 grams of each chemical for a total mass of 200 grams. And, finally, we need
+the temperature change. If you remember, the
+temperature rose from 294 kelvin to 301.4 kelvin. The difference between
+these two is 7.4 kelvin. It's a positive value because
+the temperature increased. Cancel all the appropriate units and then bang on the calculator to get a final release of 6192.32 joules. So we're at 6.2 kilojoules
+of heat from the reaction. Because this formula is
+based on temperature change and since the temperature increased, we end up with a positive result. But, most importantly,
+it tells us the magnitude of the change in heat energy. So I wonder how that compares to the amount we would
+predict using Hess's law and the standard enthalpies of formation. Remember that we can look up the standard enthalpies of formation for all the products and reactants in the back of a textbook or online. The chemical reaction
+between hydrochloric acid and sodium hydroxide produces liquid water and sodium chloride. The standard enthalpy of
+formation for hydrochloric acid is negative 167.2 kilojoules for mole. For sodium hydroxide, it's negative 469.15 kilojoules per mole. For liquid water, negative 285.8. And for sodium chloride, negative 407.27. I'm not gonna do the mole
+calculations on screen. But trust me when I say that
+we used 0.100 mole of Hcl and the same amount of NaOH, because everything in
+the equation balances, it's just a one to one
+to one to one ratio, we can assume that they
+all have the same amount of each product as well. If we plug these into Hess's
+law and do the calculation, we found that the change in
+heat or enthalpy of the reaction is negative 5.67 kilojoules. The system is releasing or losing energy so the number is negative. But, again, it's really the
+magnitude that we wanna know. So there you go. The calorimetry formula gave
+an absolute enthalpy change of 6.2 kilojoules, while
+Hess's law gives a change of 5.67 kilojoules. So why the difference? Well, the greatest factor
+is probably that we use the specific heat capacity of pure water instead of the saltwater
+that we actually created. We also didn't include the heat capacity of our calorimeter itself. The calorimeter walls
+and the the thermometer were heated too, resulting
+in some of the produced heat not being accounted for. The insulation of the calorimeter
+is obviously a bit light, which allowed some heat
+to escape entirely. And that's another major factor. And so I'd say we did pretty well. The important thing is that it showed us what we need to say even though it was just a little
+plastic bottle in a koozie. For a quick simple method,
+the calorimeter got us pretty close to the calculated value. If we were calculating the
+amount of a particular fuel that we would need to travel to Mars or inventing a cold pack that
+won't give you frostbite, we'd wanna use a more sophisticated system and work more carefully. But this one's pretty
+cool for our purposes.

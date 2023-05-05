@@ -1,0 +1,159 @@
+Let's do one more Gram-Schmidt
+example. So let's say I have the subspace
+V that is spanned by the vectors-- let's say we're
+dealing in R4, so the first vector is 0, 0, 1, 1. The second vector
+is 0, 1, 1, 0. And then a third vector-- so
+it's a three-dimensional subspace of R4-- it's 1, 1,
+0, 0, just like that, three-dimensional
+subspace of R4. And what we want to do, we want
+to find an orthonormal basis for V. So we want to substitute these
+guys with three other vectors that are orthogonal with
+respect to each other and have length 1. So we do the same drill
+we've done before. We can say-- let's call this
+guy v1, this guy is v2, and let's call this guy v3. So the first thing we want to
+do is replace v1-- and I'm just picking this guy at random
+because he was the first guy on the
+left-hand side. I want to replace v1 with an
+orthogonal version of v1. So let me call u1 is equal to--
+well, let me just find out the length the v1. I don't think I have to explain
+too much of the theory at this point. I just want to show
+another example. So the length of v1 is equal
+to the square root of 0 squared plus 0 squared plus 1
+squared plus 1 squared, which equals the square root of 2. So let me define my new vector
+u1 to be equal to 1 over the length of v1, 1 over the square
+root of 2, times v1, times 0, 0, 1, 1. And just like that, the span
+of v1, v2, v3, is the same thing is the span of
+u1, v2, and v3. So this is my first thing
+that I've normalized. So I can say that V is now
+equal to the span of the vectors u1, v2, and v3. Because I can replace v1 with
+this guy, because this guy is just a scaled-up version
+of this guy. So I can definitely represent
+him with him, so I can represent any linear combination
+of these guys with any linear combination of
+those guys right there. Now, we just did our
+first vector. We just normalized this one. But we need to replace these
+other vectors with vectors that are orthogonal to
+this guy right here. So let's do v2 first. So let's
+replace-- let's call it y2 is equal to v2 minus the projection
+of v2 onto the space spanned by u1 or onto--
+you know, I could call it c times u1, or in the past
+videos, we called that subspace V1, but the space
+spanned by u1. And that's just going to be
+equal to y2 is equal to v2, which is 0, 1, 1, 0, minus-- v2
+projected onto that space is just a dot product of v2, 0,
+1, 1, 0, with the spanning vector of that space. And there's only one of them,
+so we're only going to have one term like this with u1, so
+dotted with 1 over the square root of 2 times 0, 0, 1, 1, and
+then all of that times u1. So 1 over the square root of 2
+times the vector 0, 0, 1, 1. And so this is going
+to be equal to v2, which is 0, 1, 1, 0. The square root of 2, let's
+factor them out. So then you just get-- or kind
+of reassociate them out. So then you get this is 1 over
+the square root of 2 times 1 over the square root
+of 2 is minus 1/2. You times-- what's the dot
+product of these two guys? You get 0 times 0 plus 1 times
+0, which is still 0, plus 1 times 1 plus 0 times 0. So you're just going to have
+times 1 times this out here: 0, 0, 1, 1. I'll write that a little
+bit neater. I'm getting careless. 1, 1. So this is just going to be
+equal to 0, 1, 1, 0 minus-- 1/2 times 0 is 0. 1/2 times 0 is 0. Then I have two halves here. So y2 is equal to-- let's see,
+0 minus 0 is 0, 1 minus 0 is 1, 1 minus 1/2 is 1/2, and then
+0 minus 1/2 is minus 1/2. So V, we can now write as the
+span of u1, y2, and v3. And this is progress. u1 is orthogonal, y2-- sorry,
+u1 is normalized. It has length 1. Y2 is orthogonal to it or
+they're orthogonal with respect to each other, but y2
+still has not been normalized. So let me replace y2 with a
+normalized version of it. The length of y2 is equal to
+the square root of 0 plus 1 squared, which is 1, plus 1/2
+squared, which is 1/4, plus minus 1/2 squared, which is
+also 1/4, so plus 1/4. So this is 1 and 1/2. So it's equal to the
+square root of 3/2. So let me define another
+vector here. u2, which is equal to 1 over the
+square root of 3/2, or we could say is the square root of
+2/3, I'm just inverting it. It's 1 over the length of y2. So I'll just find the
+reciprocal, so it's the square root 2 over 3 times y2, times
+this guy right here, times 0, 1, 1/2, and minus 1/2. And so this span is going to be
+the same thing as the span of u1, u2, and v3. And there's our second
+basis vector. And we're making a
+lot of progress. These guys are orthogonal with
+respect to each other. They both have length 1. We just have to do something
+about v3. And we do it the same way. Let's find a vector that is
+orthogonal to these guys, and if I sum that vector to some
+linear combination of these guys, I'm going to get
+v3, and I'm going to call that vector y3. y3 is equal to v3 minus the
+projection of v3 onto the subspace spanned by u1 and u2. So I could call that
+subspace-- let me just write it here. The span of u1 and u2, just
+for notation, I'm going to call it v2. So it's v3, and actually,
+I don't even have to write that . Minus the projection
+of v3 onto that. And what's that going to be? That's going to be v3 dot u1
+times u1, times the vector u1. And actually let me just--
+plus v3 dot u2 times the vector u2. Since this is an orthonormal
+basis, the projection onto it, you just take the dot product
+of v2 with each of their orthonormal basis vectors and
+multiply them times the orthonormal basis vectors. We saw that several
+videos ago. That's one of the neat things
+about orthonormal bases. So what is this going
+to be equal to? A little bit more computation
+here. y3 is equal to v3, which
+was up here. That's v3. v3 looks like this. It's 1, 1, 0, 0 minus
+v3 dot u1. So this is minus v3,
+1, 1, 0, 0, dot u1. So it's dot 1 over the square
+root of 2 times 0, 0, 1, 1. That's u1-- so that's this part
+right here-- times u1, so times 1 over the square root
+of 2 times 0, 0, 1, 1. This piece right there is
+this piece right there. And then we can distribute this
+minus sign, so it's going to be plus. You know, we have a plus, but
+there's this minus over here so we put a minus v3. Let me switch colors . Minus v3 , which is 1, 1 0, 0
+dotted with u2, dotted with the square root of 2/3 times 0,
+1, 1/2, minus 1/2 times u2, times the vector u2, times the
+square root of 2/3, times the vector 0, 1, 1/2, minus 1/2. And what do we get? Let's calculate this. So we could take the-- so this
+is going to be equal to the vector 1, 1, 0, 0, minus-- so
+the 1 over the square root of 2 and the 1 over the square
+root of 2, multiply them. You're going to get a 1/2. And then when you take the dot
+product of these two, 1 times 0-- let's see, this is actually
+all going to be, if you take the dot product of all
+of these, then it actually gets 0, right? So this guy, v3, was actually
+already orthogonal to u1. This will just go straight
+to 0, which is nice. We don't have to have
+a term right there. I took the dot product 1 times
+0 plus 1 times 0 plus 0 times 1 plus 0 times 1,
+all gets zeroed. So this whole term drops out. We can ignore it, which makes
+our computation simpler. And then over here we have minus
+the square root of 2/3 times the square root of 2/3
+is just 2/3 times the dot product of these two guys. So that's 1 times 0, which is 0,
+plus 1 times 1, which is 1, plus 0 times 1/2, which is 0,
+plus 0 times minus 1/2, which is 0, so we just get a 1 there,
+times the vector 0, 1, 1/2, minus 1/2. And then what do we get? We get-- this is the home
+stretch-- 1, 1, 0, 0 minus 2/3 times all of these guys. So 2/3 time 0 is 0. 2/3 times 1 is 2/3. 2/3 times 1/2 is 1/3. And then 2/3 times minus
+1/2 is minus 1/3. So then this is going to be
+equal to 1 minus 0 is 1, 1 minus 2/3 is 1/3, 0 minus 1/3 is
+minus 1/3, and then 0 minus minus 1/3 is positive 1/3. So this vector y3 is orthogonal
+to these two other vectors, which is nice, but it
+still hasn't been normalized. So we finally have to normalize
+this guy, and then we're done. Then we have an orthonormal
+basis. We'll have u1, u2, and
+now we'll find u3. So the length of my vector y--
+actually, let's do something even better. It'll simplify things
+a little bit. Instead of a writing
+y this way, I could scale up y, right? All I want is a vector that's
+orthogonal to the other two that still spans
+the same space. So I can scale this guy up. So I could say, I don't know,
+let me call it y3-- let me call it y3 prime. And I'm just doing this to
+ease the computation. I could just scale this guy
+up, multiply him by 3. So what do I get? I probably should have done
+it some of the other ones. 3, 1, minus 1, and 1. And so I can replace y3 with
+this guy, and then I can just normalize this guy. It'll be a little bit easier. So the length of y3 prime that I
+just defined is equal to the square root of 3 squared, which
+is 9, plus 1 squared plus minus 1 squared plus 1
+squared, which is equal to the square root of 12,
+which is what? That's two square roots of 3. That is equal to 2 square
+roots of 3, right? Square root of 4 times the
+square root of 3, which is two square roots of 3. So now I can to find u3 as equal
+to y3 times 1 over the length of y3, so it's equal to
+1 over two square roots of 3 times the vector 3,
+1, minus 1, and 1. And then we're done. If we have a basis, an
+orthonormal basis would be this guy-- let me take the other
+ones down here-- and these guys. All of these form-- let me bring
+it all the way down. If I have a collection of these
+three vectors, I now have an orthonormal basis for
+V, these three right there. That set is an orthonormal basis
+for my original subspace V that I started off with.

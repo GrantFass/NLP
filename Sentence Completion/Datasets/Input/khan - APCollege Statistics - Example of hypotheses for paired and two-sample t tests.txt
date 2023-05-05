@@ -1,0 +1,44 @@
+- [Instructor] The Olympic
+running team of Freedonia has always used Zeppo's running shoes, but their manager suspects
+Harpo's shoes can produce better results, which
+would be lower times. The manager has six
+runners each run two laps. One lap wearing Zeppo's and
+another lap wearing Harpo's. Each runner flips a coin to determine which shoes they wear first. The manager wants to test
+if their times when wearing Harpo's are significantly
+lower than their times when they wear Zeppo's. Assume that all conditions
+for inference were met. Which of these is the
+most appropriate test and alternative hypothesis? So they're just asking
+this about the alternative not even the null but
+we can talk about that. So pause this video and see
+if you can figure it out. So before I even go into
+this particular example let's just make sure we
+understand the difference between a two-sample T
+test and a paired T test. So when were talking about
+either a two-sample T test or a two-sample T,
+interval for the difference between the mean, what we're doing is we're considering two populations. You take two independent
+samples from those populations. And what you're trying to do is, is you get statistics off of these samples and you're trying to estimate
+the difference between the means of these populations. So it might be the difference
+of Mue one minus Mue two. That's what you're trying to figure out, Mue one minus Mue two. A paired situation is quite different. Even though they might
+sound the same at first. Here we're looking at just one population and that's exactly what's happening in this situation right over here. We're trying to figure out
+what is the mean difference between using Zeppo's and Harpo's shoes. So this is what we're trying
+to get at, the mean difference. So we could just call that
+Mue sub Zeppo's minus Harpo's. And the way that we go about doing that is we take a sample and then
+for each subject in the sample we perform two measurements. One where they run with the Zeppo's and one where they run with the Harpo's. And then for that sample you
+can calculate a mean difference between the Zeppo's and the Harpo's. You're going to calculate
+this difference for each member of your sample and
+then you're going to take the mean of all of those. So hopefully you notice that
+this is quite different. And so as you can imagine,
+here in this example we are dealing with a paired T test. We aren't looking at
+two independent groups or two independent samples like you would with the two-sample T test. And so we run a paired T test and the manager wants to test
+if their times when wearing Harpo's are significantly lower than their times when wearing Zeppo's. So our null hypothesis, even
+though that their not asking that, our null hypothesis would be that there's no difference. That the mean time, that
+the mean difference between wearing Zeppo's, Zeppo's
+and Harpo's, and Harpo's would be equal to zero. And the alternative hypothesis. So if they were just saying,
+"Hey, is there a difference?" Then we would say that this
+would not be equal to zero, the alternative. But the manager explicitly
+want's to see if Harpo's times are lower than Zeppo's times. So what we would want to see
+is if the mean difference, so the mean difference of
+Zeppo's, Zeppo's minus Harpo's. We're trying to find if
+we can see if we can have evidence to suggest that this
+is actually greater than zero. And so that would be this
+choice right over there.

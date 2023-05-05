@@ -1,0 +1,31 @@
+- You may be surprised
+that there is such a thing as a color scientist, but at Pixar, color plays a role in almost every artistic decision that we make. While this lesson will focus
+on the science of color, there is obviously a whole world of color that artists think about. Here we are in the color mastering suite. The equipment that we use is basically a supercomputer
+version of Photoshop, but it kinda looks a little bit like the Star Trek Enterprise. My goal in this lesson is to show you that color is really part physics
+and part human perception, and at the end of this lesson, you'll have a chance
+to manipulate the color using scenes from our films to achieve various artistic goals. But first we need to understand how the tools in this room work. So let's go back to a simple question. What is color? Color is a property of light, and light comes from light sources. And there are all different
+kinds of light sources. For example, I'm currently
+being lit by these lamps. Without these, our scene
+would look very different. And using a flame as our light source, like these two candles, really changes the feel of the scene. The light is not only dimmer, but it emits a reddish-orange light. Seeing this light on
+a white piece of paper is a great way to show this. Try pausing this video and hold your own white piece of paper up
+to the screen beside mine. Notice the difference between
+my white paper and yours. They're not the same, right? Now compare how the same
+piece of paper looks under the most powerful light
+source in the solar system, the sun. The sun gives off really intense light, especially in the middle of the day. You can clearly see that
+the light on this paper is much whiter than the candle light. Inside, the light was more reddish. So, where did the red light go? Let's go back inside so I
+can show you what happened. The key is to think of all light as a mixture of colors. Sir Isaac Newton famously
+demonstrated this when he used a glass prism
+to break up sunlight. When sunlight passes in
+and out of the prism, it bends, or refracts, and splits up into a spectrum of colors. After Newton, other scientists discovered that the light's wavelength
+is what determines how much it will refract,
+and what color it will be. Bluer light has a shorter
+wavelength and bends more. Redder light, with longer
+wavelengths, bends less. And this is the key point. Sunlight looks white because it contains all visible colors. Scientists have developed a 2-D graph to easily visualize the colors contained in any given light source. In this graph, along the
+X-axis, is the wavelength, and along the Y-axis is the
+intensity of that wavelength. For example, here's the graph
+of what daylight looks like. This is known as the spectrum of daylight. And a graph like this is called a spectral power distribution. And here's the spectral power
+distribution of candlelight. Notice it doesn't contain
+the same intensity of blue and green wavelengths. If we shine candlelight through a prism, we can't see a full rainbow. The reds are strong, but the blue wavelengths are much weaker. Is this first exercise,
+you'll have a chance to explore the spectrum
+of various light sources, and answer some questions about them. For example, what do
+you think the spectrum of a laser would look like?

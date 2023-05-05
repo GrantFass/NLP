@@ -1,0 +1,49 @@
+- [Sal] An object is
+launched from a platform. Its height in meters, x
+seconds after the launch, is modeled by: h of x is
+equal to negative five times x minus four squared plus 180. Normally, when they talk
+about seconds or time, they usually would use the variable t, but we can roll with x being that. Let's think about what's
+going to happen here. Lemme just visualize it. Lemme draw an h axis for our height. Let me draw an x axis. An x axis. At time x is equal to zero. We're on a platform, so we're already gonna have some height. At time x is equal to zero. I'm used to saying time t equals zero, but at time x is equal to zero, we're already gonna have some height 'cause we're on some platform. And then we're gonna
+launch this projectile. And, it's gonna go in
+the shape of a parabola, and it's gonna be a
+downward-opening parabola. You might say: "Sal, how do you know "it's gonna be a
+downward-opening parabola?" Gonna look something like that. I didn't draw it exactly perfectly, but you get, hopefully, the point. The reason why I knew it was a parabola, in particular a downward-opening parabola, is when you look at what's going on here. This is written in vertex
+form but it's a quadratic. In vertex form, you have an
+expression with x squared, and then you're multiplying by negative five right over here. This tells us that it's
+gonna be downward-opening. If you were to multiply this out, x minus four squared is gonna be x squared plus something else plus something else, then you're gonna have to multiply all those terms by negative five, your leading term is gonna
+be negative five x squared. Once again, it's gonna be
+a downward-opening parabola that looks something like that. So, given this visual
+intuition that we have, let's see if we can answer
+some questions about it. The first one I'd like to answer is how high is the platform. How high is the platform? How high is the platform? I encourage you to pause the video, and try to figure that out. What is that value right over there? Well, as you can see, we are at that value
+at time x equals zero. So to figure out how high is the platform, we essentially just have
+to evaluate h of zero. That's going to be negative five times negative four squared plus 180. I just substituted x with zero. Negative four squared is 16. Negative five times 16 is negative 80. Plus 180. So this is going to be equal to 100. So the platform is 100 meters tall. Remember, the height is given in meters. Now, the next question I have is, how many seconds after launch
+do we hit our maximum height? So our maximum height,
+if we're talking about a downward-opening parabola,
+it's going to be our vertex, is going to be our maximum height. And so, the x value of that would tell us how long after takeoff,
+how long after, or launch, do we hit the maximum height. Trying to use a color you can see. What is this x value right over here? Once again, pause the video, and see if you can figure it out. We're trying to answer how long after launch is the maximum height. Well, it's going to be the
+x coordinate of our vertex. How do we figure that out? Well, this quadratic has
+actually been written already in vertex form, which
+makes it sound like it should be relatively easy to figure
+out the vertex over here. To appreciate that, we
+have to see the structure in the expression, is one
+way to think about it. Let's think about what's going on. You have this 180. And then you this other
+term right over here. Anything squared is gonna be nonnegative. So x minus four squared is
+always gonna be nonnegative. But then you always multiply
+that times a negative five, so this whole thing is
+gonna be non-positive. So, it will never add to the 180. Your maximum value is when
+this term right over here is going to be equal to zero. And when is this term
+going to be equal to zero? In order to make this term equal to zero, then x minus four needs
+to be equal to zero. The only way to get x minus
+four to be equal to zero is if x is equal to four. Just by looking at this, you say: "Hey, what makes this zero?" Four. X equals four will make this zero. This is right over there. If I were to write h of
+four, this is going to be, this term is gonna go to zero, and you're gonna be left with the 180. There you go, this right over here. The maximum height is 180. It happens four seconds after launch. Now, the last question I'll ask you is, how long after launch do
+we get to a height of zero? So, for what x makes our height zero? To do that, we have to solve
+h of x is equal to zero. Or, we can write h of x as negative five times x minus four squared
+plus 180 is equal to zero. And, once again, pause the video, and see if you can solve this. Could subtract 180 from both sides. You get negative five
+times x minus four squared, is equal to negative 180. We can divide both sides by negative five. We get x minus four
+squared is equal to 36. Scroll down a little bit. Then, we could take the plus
+and minus square root, I guess you could say. And so, that will give us x minus four could be equal to six. Or, x minus four is equal to negative six. In this first situation,
+add four to both sides, you get x is equal to 10. Or, you add four to both sides here, you get x is equal to negative two. Now, we're dealing with time here, so negative two would've been in the past if it wasn't sitting on the platform and if it was just
+continuing its trajectory, I guess you could say, backwards in time. But that's not the x that we
+wanna take into consideration. We want the positive time value,
+and that's right over here. That is when x is equal to 10. 10 seconds after takeoff, our height is going to be equal to zero. If the ground is at height of zero, if it's at sea level, I guess, then, that's when our projectile
+is going to hit the ground.

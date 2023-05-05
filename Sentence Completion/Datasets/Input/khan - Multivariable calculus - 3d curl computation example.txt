@@ -1,0 +1,46 @@
+- [Voiceover] So let's
+go ahead and work through an actual curl computation. Let's say our vector valued function V, which is a function of X, Y, and Z, this is gonna be three-dimensional, is defined by the functions, I don't know, let's say the first
+component is X times Y. The second one is cosine of Z, and then the last component
+is Z squared plus Y. Let's say. So if you take this guy, how do you compute the curl of that vector valued function? So what you do, as I
+mentioned in the last video, is you imagine taking this del operator and taking the cross product between that and your vector valued function. And what that means when you expand it is that del operator,
+you just kinda fill it with partial differential
+operators, you could say, but really it's just the
+symbol partial partial X, partial partial Y, partial partial Z. And these are things that are just waiting to take in some kind of function. So we're gonna take the
+cross product between that and the function that
+we have defined here. So I'm gonna just actually copy it over, copy it over here. And a little residue. And to compute this cross product, we take a certain determinant. So I'm gonna write over here determinant, and it's gonna be of a
+three-by-three matrix, but really it's kinda like
+a quote-unquote matrix, because each component
+has something funky. So the top row, just like we would have with any other cross
+product that we're computing is gonna have i, j, and
+k, these unit vectors in three-dimensional space. And the second row here is gonna have all of these partial
+differential operators, since that's the first
+vector in our cross product. So that's partial partial X, partial partial Y, and again, all of these are just kind of waiting to be given a function that they can take the derivative of. And then that third row is gonna be the functions that we have. So the first component here is XY, the second component is cosine of Z, cosine of Z, and then that final component
+is Z squared plus Y. Z squared plus Y. Now let's all get some room here, maybe make it more visible. So this is the determinant
+we need to compute. And this is gonna be broken
+up into three different parts. The first one, we take this top part, i, and multiply it by the
+determinant of this sub-matrix. So when we do that, this sub-determinant, we're taking partial
+derivative with respect to Y of Z squared plus Y. Now as far as Y is concerned, Z looks like a constant. So Z squared is a constant, and the partial derivative of
+this entire guy is just one. So that'll look like one. And then we're subtracting
+off the partial derivative with respect to Z of cosine of Z, and that just looks the
+same as a derivative of cosine Z, which is negative sine, so that's negative sine of Z. So that's the first part. And then as the next
+part, we're gonna take j, but we're subtracting, 'cause
+you're always kinda thinking plus, minus, plus, when you're
+doing these determinants. So we're gonna subtract off j, multiplied by its own
+little sub-determinant, and this time the
+sub-determinant is gonna involve the two columns that it's not part of. So you're imagining this first column and this second column as
+being part of a matrix. So the first thing you do is you take this partial derivative with respect to X of Z squared plus Y. Well no Xs show up there, right? That's Z squared and Y. Each look like constants
+as far as X is concerned. So that's zero. Then we take the partial with respect to Z of X times Y. And again, there's no
+Z that shows up there, so that's also zero, so we're
+kinda subtracting off zero. And then finally, we're
+adding this last component. We're gonna add that last component, k, multiplied by the determinant
+of this sub-matrix of the columns that it's not part of. So this involves partial derivative with respect to X of cosine Z. Well no Xs show up there,
+so that's just zero. So that's just a zero. And then we're subtracting off the partial with respect to Y of X times Y. Well X looks like a constant,
+Y looks like the variable, so that partial derivative is just X. So we're subtracting off X. Which means if we simplify this, so the curl of our vector field, curl of our vector field as a whole, as this function of X, Y, and Z, is equal to, and that first component, the i component, we've got one minus negative sine of Z, so minus minus sine of Z. That's one plus sine of Z. And then the j component,
+we're subtracting off, but it's zero. Usually if you're subtracting off, you'd have to make sure
+to remember to flip those, but both of those are zero, so
+the entire j component here, or the Y component of the output, is zero. And then finally, the k
+component is zero minus X, so that entire thing is just negative X. And that's the curl of the function. And in general, that's how you do it. You would take a look at the way that your function is defined
+in each component there, and imaging taking the cross product between this del symbol,
+this partial partial X, partial partial Y, partial partial Z, and you take the cross product between that and your function, and it involves taking six
+different partial derivatives. And mainly it's a matter of bookkeeping to make sure you do it right. And you'll end up with
+something like this.

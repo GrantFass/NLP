@@ -1,0 +1,33 @@
+- [Instructor] So we have a system of two linear equations here. This first equation, X minus
+four Y is equal to negative 18, and the second equation,
+negative X plus three Y is equal to 11. Now what we're gonna do
+is find an X and Y pair that satisfies both of these equations. That's what solving the
+system actually means. As you might already have seen, there's a bunch of X and Y pairs that satisfy this first equation. In fact, if you were to graph them, they would form a line, and there's a bunch of other X and Y pairs that satisfy this other equation, the second equation, and if you were to graph them, it would form a line. And so if you find the X and
+Y pair that satisfy both, that would be the
+intersection of the lines, so let's do that. So actually, I'm just gonna rewrite the first equation over here, so I'm gonna write X minus four Y is equal to negative 18. So, we've already seen in algebra that as long as we do the same thing to both sides of the equation, we can maintain our equality. So what if we were to add, and our goal here is to
+eliminate one of the variables so we have one equation with one unknown, so what if we were to add this negative X plus three Y
+to the left hand side here? So negative X plus three Y, well, that looks pretty good because an X and a negative
+X are going to cancel out, and we are going to be left with negative four Y, plus three Y. Well, that's just going to be negative Y. So by adding the left hand side of this bottom equation
+to the left hand side of the top equation, we were able to cancel out the Xs. We had X, and we had a negative X. That was very nice for us. So what do we do on the right hand side? We've already said that we have to add the same thing to both
+sides of an equation. We might be tempted to just say, well, if I
+have to add the same thing to both sides, well, maybe I have to add a negative X plus three Y to that side. But that's not going to help us much. We're gonna have negative
+18 minus X plus three Y. We would have introduced an X on the right hand side of the equation, but what if we could add something that's equivalent to
+negative X plus three Y that does not introduce the X variable? Well, we know that the number 11 is equivalent to negative X plus three Y. How do we know that? Well, that second equation tells us that. So once again, all I'm doing
+is I'm adding the same thing to both sides of that top equation. On the left, I'm expressing
+it as negative X plus three Y, but the second equation tells us that negative X plus three Y is going to be equal to 11. It's introducing that second constraint, and so let's add 11 to
+the right hand side, which is, once again, I
+know I keep repeating it, it's the same thing as
+negative X plus three Y. So negative 18 plus 11 is negative seven, and since we added the
+same thing to both sides, the equality still holds, and we get negative Y is
+equal to negative seven, or divide both sides by negative one or multiply both sides by negative one. So multiply both sides by negative one. We get Y is equal to seven, so we have the Y coordinate of the X, Y pair that
+satisfies both of these. Now how do we find the X? Well, we can just substitute
+this Y equals seven to either one of these. When Y equals seven, we
+should get the same X regardless of which equation we use. So let's use the top equation. So we know that X minus four times, instead of writing Y, I'm gonna write four times seven 'cause we're gonna figure out what is X when Y is seven? That is going to be equal to negative 18, and so let's see, negative
+four or four times seven. That is 28. So let's see, I could just solve for X. I could add 28 to both sides, so add 28 to both sides. On the left hand side, negative 28, positive
+28, those cancel out. I'm just left with an X, and on the right hand side, I get negative 18 plus 28 is 10. So there you have it. I have the X, Y pair that satisfies both. X equals 10. Y equals seven. I could write it here. So I could write it as coordinates. I could write it as 10 comma seven, and notice, what I just did here, I encourage you. Substitute Y equals seven here, and you would also get X equals 10. Either way, you would
+have come to X equals 10, and to visualize what is going on here, let's visualize it really fast. Let me draw some coordinate axes. Whoops, I meant to draw a
+straighter line than that. Alright, there you go, so let's say that is our Y axis, and that is, whoops, that is our X axis, and then, let's see, the top equation is gonna
+look something like this. It's gonna look something like this, and then that bottom equation is gonna look something like, lemme draw a little bit nicer than that. It's going to look something like this, something like that. Lemme draw that bottom one here so you see the point of intersection, and so the point of
+intersection right over here, that is an X, Y pair that satisfies both of these equations, and that we just saw, it happens when X is equal to 10, and Y is equal to seven. Once again, this white line, that's all the X and Y pairs that satisfy the top equation. This orange line, that's
+all the X and Y pairs that satisfy the orange equation, and where they intersect, that point is on both lines. It satisfies both equations, and once again, take X equals 10, Y equals seven. Substitute it back into
+either one of these, and you will see that it holds.

@@ -1,0 +1,302 @@
+In talking about the adaptive
+immune system, we've already seen that there's a
+couple of actors. You have your humoral
+response. So this is responding to things
+that are floating around in the fluids of the
+body and not necessarily things that have infiltrated
+your body cells and then you have your cell mediated
+response. And then in the humoral
+response-- and we're talking about specific humoral
+response-- this is where the B cells, the B lymphocytes are
+at their most active. And essentially what they do
+is, you got a B cell here. It has a very specific antibody,
+specific to just this B cell, not B
+cells in general. If this happens to be the one
+of the billions of B cells that happens to have the
+matching key-- or maybe I should say the matching lock
+for the key that is the intruding pathogen--
+that pathogen will bind to that B cell. Maybe it's a virus, maybe
+it's a bacteria. And then the B cell will get
+activated and we'll talk about in this video that
+the activation doesn't always happen. In fact, it usually doesn't
+happen just from this, but so far we've said it gets
+activated, it goes into memory B cells, which are essentially
+multiple versions of this original B cell-- just saying,
+hey, let's have multiple versions of this-- because it
+tends to recognize this virus. So in the future if we get this
+virus, those multiple versions, those memory cells are
+going to be there to have this interaction. This interaction's going to be
+more likely to happen in the future because I'm going
+to have more of this variety of B cell. And then you have
+effector cells. And these are essentially-- so
+both of these are B cells. So this guy, once he gets
+activated, he proliferates, keeps dividing and
+cloning himself. The memory cells just stick
+around waiting to be activated in the future. And I'm only drawing one
+of these membrane bound antibodies, but there are
+actually 10,000 on them. I mean, I could draw
+a bunch of these. I don't have to just draw one. The memories just wade around
+in the future, but there's more of them now. So in the future, if we get
+this virus again, this interaction's going to happen
+faster and so they're going to get activated faster. And then the effector B
+cells essentially turn into antibody factories. This antibody goes in and it
+says, let me just produce-- I've been activated. Let me produce many,
+many more versions of that exact antibody. So they get spit out. I drew that one little wrong. So that exact antibody, that
+can then be spit out to go disable or tag antigens-- and
+not just any antigen-- this antigen right here. And we also saw that the other
+thing that the B cell does is it becomes an antigen
+presenting cell. So what it does is, as soon as
+it recognizes this, it's had this interaction with an antigen
+that just matches the variable portion of its membrane
+bound antibody. It endocytosizes that. It brings that into itself. It's membrane facilitated so it
+just kind of pulls it in, chunks it up, and then presents
+a piece of that antibody on an MHC
+II molecule. We saw that in the last video. So it cuts that up and presents
+a piece of it right there and that's why we call it
+an antigen presenting cell. Now in this video, we're going
+to talk about why we even have these MHC II molecules. What are we presenting
+these antigens to? So we're going to start
+talking about the cell mediated-- and actually, even
+more than the cell mediated, we're going to talk
+about T cells. And I said in the first video,
+they're called T cells because they mature in the thymus. And there are two types of
+T cells and it's all very confusing because you have B
+cells and T cells, but then there are two types
+of T cells. You have helper T cells-- and
+most people just write T with a lower-case or subscript
+h there. And then you have cytotoxic T
+cells-- or T cells that kill other cells. Now just so that you have a big,
+overarching impression of what does what-- B cells. When they are activated, they
+generate antibodies. At 30,000 feet, that's the
+best summary of what an activated B cell does. It actually generate
+antibodies. Those antibodies attach to
+viruses and bacteria and other types of pathogens and disables
+them-- either tags them so that macrophages can go
+and eat them up or just by throwing all of those antibodies
+on to the surface of the pathogen in question. It might disable the pathogens
+or essentially bundle them altogether so that it'll be
+easier for macrophages to pick them up, but this is only
+effective for things that are floating around. Free floating antibodies are
+only effective for things that are floating around. Cytotoxic T cells, which I'll
+cover in more detail in a future video-- these actually
+attack cells that have been infiltrated. So this is attack, kill,
+infiltrated cells-- and when I say infiltrated, it could be a
+cell that a virus has gone into or some bacteria
+has penetrated it. And when I say infiltrated, it
+doesn't necessarily even mean something from the outside. It could even be a cancerous
+cell that shows itself to be abnormal in some way and so the
+cytotoxic T cells will at least attempt to kill them. But what I want to focus on--
+out of the three types of lymphocytes-- remember,
+everything we've been talking about was leukocytes, white
+blood cells, but lymphocytes are a subset of that and these
+three are lymphocytes. And they're called that because
+they began their development in the
+bone marrow. So this guy and this guy
+actually do stuff. This guy generates antibodies
+that attach to pathogens floating around. This guy directly attacks
+cells that are broken in some way. They've either been infiltrated,
+they're abnormal, they're cancerous--
+who knows what. And I'll do a whole video on
+that, but that leads us to a very obvious question. What does this guy do? What does the helper T cell
+do if he doesn't directly interface either with pathogens
+or produce things that interface with pathogens--
+or if he himself doesn't go and directly
+kill cells? And the answer is that the
+helper T cell's kind of the alarm of the immune system. And on some level, it's almost
+the most important. So we talked already in the
+last video about antigen presenting cells-- that either
+when a macrophage or a dendritic cell takes things
+in, it cuts them up and presents it on its surface as
+these MHC II proteins or in complex with these MHC II
+complexes or proteins. And so do B cells. B cells are more specific. Now, once something is
+presented, now the helper T cell can come into
+the picture. So this is a-- let me do a
+dendritic cell-- and I'm doing dendritic cells actually on
+purpose because dendritic cells are actually
+the best cells at activating helper T cells. We're going to talk about in a
+second what happens when a helper T cell gets activated. So let's say I have this
+dendritic cell. It's called dendritic so
+it looks like it has dendrites on it. So I have this dendritic
+cell here. It's a phagocyte. Let's say it's already consumed
+some type of bacteria or virus and it's cut it up and
+now it's presenting kind of the body parts of that virus
+on the MHC II complex. It's kind of its way of saying,
+hey, I found this shady thing floating around
+in the body's tissues. Maybe someone ought
+to raise an alarm. Maybe this is part of some type
+of bigger thing going on and some type of alarm bell
+has to be released. And that's what the helper
+T cell does. So let's say this guy--
+he's presented it. He says, I found this thing. I killed it. Here's a part of it. The helper T cell has a
+T cell receptor on it. Let's say this is the helper
+T cell right here. And it has a T cell receptor on
+it and the T cell receptors bond to-- and I'll be very
+particular here. So this is the T
+cell receptor. It's just like a protein, but
+like the membrane bound antibodies on B cells that every
+B cell or almost every B cell has a different version,
+different variable chain, that's also true of helper T
+cells-- that just like the B cells, this has some variation
+in where it binds. So this right here is going to
+be variable from one helper T cell to another. For example, I might have
+another helper T cell here. That also has a T cell receptor,
+but the variable portion on that T cell receptor
+is different than the variable portion on this
+T cell receptor. So this helper T cell will not
+bind to this dendritic cell or the MHC II complex of
+this dendritic cell. Only this one would. And the mechanism of how you
+get this variation is very similar to the mechanism in how
+you get the variation on the antibodies and
+the B cells. During these helper T cells'
+development, at some point the genes that code for this part of
+this receptor get shuffled around and they get shuffled
+around intentionally so that each T cell has a certain
+specificity to a combination of an MHC II complex and a
+certain polypeptide, a certain part of a virus. So only this guy's going to be
+activated, not this guy. So this is why we call it the
+specific immune system. Now we said, what does
+that helper T cell do at that point? He said, hey, I happen to be the
+one helper T cell that can bond to this guy, this antigen
+that's presented. It becomes activated. And I won't go into the details,
+but in general, dendritic cells are the best
+ones at activating it, especially a naive T cell. In general, when we talk about
+a naive B cell or a naive helper T cell, these are cells
+that are non-memory, non-effector, that have never
+been touched by-- they've never been activated, in
+the case of a B cell. They've never been activated by
+something binding to their membrane bound antibody-- or
+a naive helper T cell is a non-effector, non-memory helper
+T cell that's never had anything bound to it. So if this guy is naive and then
+he finally has a reaction with this antigen presenting
+cell, he becomes non-naive. He becomes activated and when
+activated, two things happen. Well, just like with B cells,
+he proliferates many, many, many copies of himself and some
+subset of those copies differentiate into
+effector cells. And effector just means
+it does something. It does something now instead
+of saving the memory. And then some subset of them
+become memory helper T cells after getting activated. Now the memory T cells, just
+like memory B cells-- now you have more copies of this. So in 10 years in the future,
+if something like this happens, this interaction's
+going to be more likely to happen. These guys have the same T cell
+receptor as their parent. It's just that the memory T
+cells-- or actually even the memory B cells-- they
+last longer. They don't kill themselves. They'll last for years so that
+if 10 years later, something like this starts presenting
+itself, you're going to have more of these guys around to
+bump into this guy so that you can raise the alarm bells. This guy's also going to have
+the same chain right there. So you're saying, fine. I have these memory cells. They're going to stick around
+so that this reaction can happen in the future, but I
+still haven't answered the question, what does the
+effector T cell do? What the effector T cell does
+is it raises the alarm. So there's an effector T cell. It has been activated. Remember, this is
+very particular. Only this version of T cells,
+but once it got activated, it produced many copies of itself
+because it says, hey, I'm responding to a particular
+type of pathogen. So that this is a
+helper T cell. This is an effector. And what these do is they
+start releasing these molecules called cytokines. So they start releasing
+cytokines. There are many, many different
+types of cytokines and I'm not going to go into detail on all
+that, but what cytokines do is that they really raise
+the alarm. So if you have other activated
+lymphatic cells or other activated immunological cells--
+when the cytokines enter those cells-- remember,
+cytokines are really just proteins. When the cytokines enter-- or
+polypeptides-- when they enter those cells, it makes
+them get in gear. It makes them multiply more
+often or it makes them get more active in their
+immune response. So what this does-- these
+cytokines you can view as chemical alarm bells chemical
+or peptide alarm bells alarm bells it it tells everyone
+to get in gear. So that's one role, and so you
+can see this is actually a very central role and it'll tell
+both activated cytotoxic T cells to get in gear, which
+we haven't talked about yet. And it'll also tell B cells
+to keep proliferating. So when an activated B cell gets
+some of-- so this is an activated B cell. When it gets some of these
+cytokines, that maybe come from a local helper T cell,
+it'll tell it, hey no, divide more often. Divide more often. Only if you've been
+activated already. And we'll talk more about why
+it has to be that case, because you don't want all the
+B cells to be activated. And the other thing that the
+effector T cell does-- in the B cell discussion, I said, OK,
+if I have a B cell, and it has its membrane bound
+antibody, has its membrane bound antibody. And remember, this is a
+particular version, it has its particular variable
+chain right here. And this guy binds
+to a pathogen. So this binds to a pathogen. Maybe it's a virus
+right there. Up to now, I've been saying
+that this guy's activated. And he's going to-- well, when
+he binds to the pathogen he'll take this in and he'll take part
+of the pathogen and cut it up and place it on
+an MHC II molecule. And we said, then he'll
+be activated. He'll proliferate and he'll
+differentiate into memory and effector B cells-- but that's
+not quite true. This first stage happens. This guy bonds. This B cell happened to be
+specific to this virus. Cuts up the virus. Puts parts of the virus on its
+surface and presents parts of the antigen. But in most cases, this B cell
+isn't yet activated. You can kind of view it as in
+its resting state, ready to be activated, but it hasn't started
+proliferating and differentiating into effector
+and memory molecules yet. And in order for that to happen,
+an activated helper T cell that is also specific to
+this very same virus-- so you could imagine someplace else in
+the cell-- this virus was eaten by a dendritic cell. So this exact same virus, this
+exact same species of virus, is eaten by that dendritic cell
+and so the dendritic cell eats it up, it cuts it up, and
+then it presents it-- it's antigen presenting so it
+presents it just like that. Then this will activate
+a very specific T cell, maybe that one. So a very specific T cell will
+come and bump into it. Not just any T cell,
+the one with the right variable portion. So think about what's
+happening. The variable portion for this
+T cell, it connects to this part of the virus plus the MHC
+II, but it's really reacting to the same virus. It might be a different part. This little part that was cut
+off might be someplace inside the virus while the epitope for
+the B cell might be some place on the outside of the
+virus, but they're both specific to the same virus. Now once this guy gets activated
+and he starts producing memory and effector
+cells-- or they're descended from him, one of those effector
+cells specific to this virus are needed to
+come bind to this guy. So then this guy could then go
+along and bump around and eventually end up here. And he is also specific
+to this virus. So this binding site right
+here is the same as this binding site. This combination of antigen
+plus MHC II. And so when this guy binds--
+and remember, this binding site is the same as this and
+it only binds to this combination right here-- this
+is what activates the B cell in most cases. This is T-dependent
+activation, which is usually the case. Sometimes all you need is this
+first thing, but in general you need the first thing and
+then you also need a T cell to come and activate it, and only
+then will the B cell get activated and start
+proliferating and dividing and differentiating itself and
+producing-- when its effector cells will produce a
+lot of antibodies. And so there's a natural
+question. Why do biological systems--
+or why do we have this double system? And at least my sense of it is,
+it's a failsafe mechanism. If every time a virus came and
+attached this, this guy just started going crazy and
+producing antibodies against this thing, there's some
+chance that maybe after development, this chain right
+here or his genes for generating these chains become
+specific, not for foreign pathogens, but maybe they
+become specific for self molecules, molecules
+that are naturally produced within the body. It's just a random mutation, but
+if he started going crazy for that, his antibodies will
+start attacking molecules that are naturally in the body and
+then that could really hurt. That what causes autoimmune
+diseases, where your own immune cells start activating
+yourself. But if you have this double
+handshake system where this has to happen and this has to
+happen, the likelihood of both of these guys after they leave
+their development stage becoming specific to a self
+protein or a self cell or a self molecule is
+very unlikely. So it kind of inhibits this guy
+from going wild, even if he has some type
+of a mutation. Anyway, hopefully that explains
+a little bit of what helper T cells do. We'll talk a lot
+more about it. I know it can be a little
+bit confusing. In the next video, we'll talk
+about cytotoxic T cells.

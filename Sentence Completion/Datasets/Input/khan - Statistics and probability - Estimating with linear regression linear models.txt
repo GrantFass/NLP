@@ -1,0 +1,39 @@
+- [Instructor] Liz's math test
+included a survey question asking how many hours students
+spent studying for the test. The scatter plot below
+shows the relationship between how many hours
+students spent studying and their score on the test. A line was fit to the data
+to model the relationship. They don't tell us how the line was fit, but this actually looks
+like a pretty good fit if I just eyeball it. Which of these linear equations best describes the given model? So this, you know, this
+point right over here, this shows that some student
+at least self-reported they studied a little bit
+more than half an hour, and they didn't actually
+do that well on the test, looks like they scored a
+43 or a 44 on the test. This right over here shows, or like this one over here is a student who says they studied two hours, and it looks like they scored
+about a 64, 65 on the test. And this over here or
+this over here looks like a student who studied over four hours, or they reported that, and they got, looks like
+a 95 or a 96 on the exam. And so then, and these are
+all the different students, each of these points represents a student, and then they fit a line. And when they say which
+of these linear equations best describes the given
+model, they're really saying which of these linear equations describes or is being plotted right
+over here by this line that's trying to fit to the, that's trying to fit to the data. So essentially, we just want to figure out what is the equation of this line? Well, it looks like the
+y-intercept right over here is 20. And it looks like all
+of these choices here have a y-intercept of 20, so
+that doesn't help us much. But let's think about what the slope is. When we increase by one, when we increase along our x-axis by one, so change in x is one, what is our change in y? Our change in y looks like, let's see, we went from 20 to 40. It looks like we went up by 20. So our change in y over
+change in x for this model, for this line that's
+trying to fit to the data, is 20 over one. So this is going to be our slope. And if we look at all of these choices, only this one has a slope of 20. So it would be this
+choice right over here. Based on this equation, estimate the score for a student that spent 3.8 hours studying. So we would go to 3.8,
+which is right around, let's see, this would be, 3.8
+would be right around here. So let's estimate that score. So if I go straight up, where
+do we intersect our model? Where do we intersect our line? So it looks like they would
+get a pretty high score. Let's see, if I were to take
+it to the vertical axis, it looks like they would get about a 97. So I would write that my estimate is that they would get a
+97 based on this model. And once again, this is only a model. It's not a guarantee that if
+someone studies 3.8 hours, they're gonna get a 97, but it could give an
+indication of what maybe, might be reasonable to expect, assuming that the time studying is the variable that matters. But you also have to be
+careful with these models because it might imply if you kept going that if you get, if you study for nine hours, you're gonna get a 200 on the exam, even though something
+like that is impossible. So you always have to be careful
+extrapolating with models, and take it with a grain of salt. This is just a model that's
+trying to fit to this data. And you might be able to
+use it to estimate things or to maybe set some
+form of an expectation, but take it all with a grain of salt.

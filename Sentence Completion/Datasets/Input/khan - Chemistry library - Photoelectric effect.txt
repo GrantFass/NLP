@@ -1,0 +1,62 @@
+- Sometimes light seems to act as a wave, and sometimes light seems
+to act as a particle. And, an example of this, would be the Photoelectric effect,
+as described by Einstein. So let's say you had a piece of metal, and we know the metal has electrons. I'm gonna go ahead and
+draw one electron in here, and this electron is bound to the metal because it's attracted to the positive charges in the nucleus. If you shine a light on the metal, so the right kind of light with
+the right kind of frequency, you can actually knock some
+of those electrons loose, which causes a current
+of electrons to flow. So this is kind of like a collision between two particles, if we think about light
+as being a particle. So I'm gonna draw in a particle of light which we call a photon,
+so this is massless, and the photon is going
+to hit this electron, and if the photon has enough energy, it can free the electron, right? So we can knock it loose, and so let me go ahead and show that. So here, we're showing the
+electron being knocked loose and so the electron's moving in, let's just say, this direction, with some velocity, v, and if the electron has mass, m, we know that there's a kinetic energy. The kinetic energy of the electron would be equal to one half mv squared. This freed electron is
+usually referred to now as a photoelectron. So one photon creates one photoelectron. So one particle hits another particle. And, if you think about this
+in terms of classical physics, you could think about
+energy being conserved. So the energy of the photon,
+the energy that went in, so let me go ahead and write this here, so the energy of the photon, the energy that went in, what happened to that energy? Some of that energy was
+needed to free the electron. So the electron was bound,
+and some of the energy freed the electron. I'm gonna call that E naught, the energy that freed the electron, and then the rest of that energy must have gone into the
+kinetic energy of the electron, and so we can write here kinetic energy of the
+photoelectron that was produced. So, kinetic energy of the photoelectron. So let's say you wanted to solve for the kinetic energy
+of that photoelectron. So that would be very
+simple, it would just be kinetic energy would be equal to the energy of the photon, energy of the photon, minus the energy that was necessary to free the electron from
+the metallic surface. And this E naught, here
+I'm calling it E naught, you might see it written differently, a different symbol, but this is the work function. Let me go ahead and
+write work function here, and the work function is different for every kind of metal. So, it's the minimum amount of energy that's necessary to free the electron, and so obviously that's
+going to be different depending on what metal
+you're talking about. All right, let's do a problem. Now that we understand the general idea of the Photoelectric effect, let's look at what this problem asks us. So the problem says, "If
+a photon of wavelength "525 nm hits metallic cesium..." And so here's the work
+function for metallic cesium. "What is the velocity of
+the photoelectron produced?" So they want to know the velocity of the photoelectron produced, which we know is hiding in
+the kinetic energy right here, and we also know what
+the work function is. So we know what E naught is here. What we don't know is
+the energy of the photon so that's what we need to calculate first. And so the energy of the photon, energy of the photon, is equal to h, which is Planck's constant, times the frequency, which
+is usually symbolized by nu. So, we got the frequency, but
+they gave us the wavelength in the problem here. They gave us wavelength,
+so we need to relate frequency to wavelength, and that's related by c,
+which is the speed of light, is equal to lambda times nu. So, c is the speed of light, and that's equal to the frequency times the wavelength. So we can substitute n for the frequency, all right, 'cause we
+just use this equation and say that the frequency is equal to the speed of light
+divided by the wavelength. The frequency is equal to
+speed of light over lambda, so we can plug that into here, and so now we have the
+energy of the photon is equal to hc over lambda, and we can plug in those numbers. h is Planck's constant, which is 6.626 times 10 to the negative 34. So, times 10 to the negative 34 here. c is the speed of light, which is 2.998 times 10 to the 8th meters over seconds, and all over lambda. Lambda is the wavelength. That's 525 nanometers. So 525 times 10 to the negative 9th meters. All right, so let's get out our calculator and calculate the energy
+of the photon here. So, let's go ahead and do that math, so we have 6.626 times 10 to the negative 34, and we're going to multiply that number by the speed of light, 2.998 times 10 to the 8th, and we get that number. We're gonna divide it by the wavelength, 525 times 10 to the negative 9, and we get 3.78 times 10 to the negative 19. So, let me go ahead and
+write that down here. 3.78 times 10 to the negative 19, and if you did you units up here, you would get joules, and so let's think about
+this number for a second, 3.78 times 10 to the negative 19 is the energy of the photon. And that energy of the photon is greater than the work function, which means that that's a high-energy photon. It's able to knock the electron free, 'cause remember, this number right here, is the minimum amount of energy needed to free the electron and so we've exceeded that minimum amount of energy, and so we will produce a photoelectron. So, this photon is high-energy enough to produce a photoelectron. So let's go ahead and
+find the kinetic energy of the photoelectron that's produced. So we're gonna use this
+equation right up here. So let me just go and get some more room, and I will rewrite that equation. So we have the kinetic
+energy of the photoelectron, kinetic energy of the photoelectron, is equal to the energy of the photon, energy of the photon,
+minus the work function. So let's plug in our numbers. The energy of the photon was 3.78 times 10 the negative 19 joules, and then the work function
+is right up here again, it's 3.43, so minus 3.43 times 10 to the negative 19 joules. So let's get out the calculator again. So, from that we're going to
+subtract the work function 3.43 times 10 to the negative 19 and we get 3.5 times 10 to the negative 20. So let's go ahead and write that. This is equal to 3.5 times 10 to the negative 20 joules. This is equal to the kinetic energy of the photoelectron, and we know that kinetic energy is equal
+to one half mv squared. The problem asked us to solve for the velocity of the photoelectron. So all we have to do is plug
+in the mass of an electron, which is 9.11 times 10 to the negative 31st kilograms, times v squared. This is equal to 3.5 times 10 to the negative 20. So, let's do that math. So we take 3.5 times
+10 to the negative 20, we multiply that by 2, and then we divide by
+the mass of an electron, 9.11 times 10 to the negative 31st, and this gives us that number, which we need to take the square root of. So, square root of our answer gives us the velocity of the electron, 2.8 times 10 to the 5th. So if you look at your decimal place here, this'll be one, two, three, four, five, so 2.8 times 10 to the 5th meters per second. So here's the velocity of
+the photoelectron produced, 2.8 times 10 to the 5th meters per second, and if you increased the
+intensity of this light, so you had more photons, they would produce more photoelectrons. So one photon knocks out one photoelectron if it has enough energy to do so. So let's think about this same problem, but let's change the wavelength. So, what if your wavelength changed to 625 nanometers. So what would happen now? Well, to save time, I
+won't do the calculation, but all we would have to do is plug in 625 up here. So instead of 525, just plug in 625 to calculate your energy, and if you did that, so if you used 625 times 10 to the negative 9 here, I'll go ahead and give you the answer just to save some time, you would get 3.2 times 10 to the negative 19 joules. And that is lower than the work function. So let me go ahead and
+highlight that here. So this number is not as high as the work function. The work function was how much energy we needed to free that electron, and since this is lower
+than the work function that means we do not get a photoelectron. So, you have to have a
+high enough energy photon in order to produce a photoelectron. It wouldn't even matter if
+we increased the intensity. So if we had more and more and more of these photons at this wavelength, we still wouldn't produce
+any photoelectrons. And so, this is the idea of
+the Photoelectric effect, which is best explained by thinking about light as a particle.

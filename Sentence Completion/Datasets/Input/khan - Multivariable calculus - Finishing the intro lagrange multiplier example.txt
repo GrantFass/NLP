@@ -1,0 +1,75 @@
+- [Instructor] So in the last two videos we were talking about this
+constrained optimization problem where we want to maximize
+a certain function on a certain set, the
+set of all points x, y where x squared plus y squared equals one. And we ended up working
+out through some nice, geometrical reasoning
+that we need to solve this system of equations. So there's nothing left
+to do but to just solve this system of equations. I will start with this
+first one at the top, see what we can simplify. We notice there's an x term in each one so we'll go ahead and cancel those out, which is basically a way
+of saying we're assuming that x is not zero, and we
+can kind of return to that to see if x equals zero
+could be as you wish. And so maybe we'll kind
+of write that down. We're assuming x is not equal to zero in order to cancel out. And we kind of can revisit whether that could give us another
+possible solution later, but that will be two times y
+is equal to lambda times two, and from here, the twos can cancel out, no worries about two equaling zero, and we know that y equals lambda. So that's a nice, simplified
+form for this equation. And for this next
+equation, though we can use what we just found, that
+y is equal to lambda to replace the lambda
+that we see, and instead, if I replace this with
+a y, what I'm gonna get is that x squared is equal
+to y times two times y. So that's two times y squared. And I'll leave it in
+that form because I see that in the next equation,
+I see an x squared, I see a y squared, so it might be nice to be able to plug this guy right into it. So in that next equation, x squared, I'm gonna go ahead and
+replace that with y squared, so that's two y squared plus y squared equals one. And then from there, simplifies
+to three times y squared equals one, which in turn means y squared is equal to one third, and so y is equal to plus or minus the square root of one third. Great. So this gives us y, and
+I'll go ahead and put a box around that, where we
+have found what y must be. Now if y squared is equal to one third, then we look up here and say, mhm, two times y squared, that's
+gonna be the same thing as two times one third,
+so two times one third, so if x squared is equal to two thirds, what that implies is that x is equal to plus or minus the square root of two thirds. And then there we go, that's another, one of the solutions. And I could write down
+what lambda is, right, I mean, in this case it's
+easy, 'cause y equals lambda, but all we really want in
+their final form are x and y, since that's gonna give us the answer to the original constraint problem. So this, this gives us what we want, and we just have that
+pesky, little possibility that x equals zero to address, and for that we can take a look and say, if x equaled zero, you
+know let's go through the possibility that
+maybe that's one of the constrained solutions. Well, in this equation
+that would make sense, since two times zero would equal zero. In this equation, that would
+mean that we're setting zero equal to lambda times two times y. Well, since lambda
+equals y, that would mean that for this side to equal zero, y would have to equal zero, so evidently, you know, if it was the
+case that x equals zero, that would have to imply, from the second equation
+that y equals zero, but if x and y both equal zero, this constraint can't be satisfied. So none of this is
+possible, so we never even had to worry about this to start with, but it's something you do need to check, just every time you're
+dividing by a variable, you're basically assuming
+that it's not equal to zero. So, this right here gives
+us four possible solutions, four possible values for x and y that satisfy this constraint,
+and which potentially maximize this, and remember, when I say potentially maximize, the whole idea of this Lagrange Multiplier,
+is that we were looking for where there's a point of tangency between the contour lines. So just to make it
+explicit, the four points that we're dealing with, here
+I'll right them all here. So, x could be the square
+root of two thirds, square root of two thirds, and y could be the positive
+square root of one third, and then we can basically just toggle, you know maybe x is the negative
+square root of two thirds and y is still the positive
+square root of one third, or maybe x is the positive square root of two thirds, and y is the negative
+square root of one third, kind of monotonous, but just getting all of the different
+possibilities on the table here. X is negative square root of two thirds, and then y is positive, no,
+negative, that's the last one, square root of one third. So these are the four points
+where the contour lines are tangent, and to
+find which one of these maximizes our function, here let's go ahead and write
+down our function again, it gets easy to forget. So the whole thing we're
+doing is maximizing f of x, y, equals x squared times y. So let me just put that down again, we're looking at f of x, y is equal to x squared times y. So we could just plug these values in and see which one of them
+is actually greatest. And the first thing to observe is, x squared is always gonna be positive, so if I plug in a negative value for y, right, if I plug in either
+this guy here or this guy here, where the value for y is negative, the entire function would be negative. So I'm just gonna say
+that neither of these can be the maximum because
+it'll be some positive number, some x squared times a negative. Whereas I know that these
+guys are gonna produce a positive number, and specifically, now if we plug in, if we
+plug in f of let's say this top one, square root of two thirds, square root of one third, well, x squared is gonna be two thirds, and then y is square root of one third. And in fact that's gonna be the same as what we get plugging
+in this other value. So either one of these
+maximizes the function. It's got two different maximizing points and each one of them has a maximum value of two thirds times the
+square root of one third. And that's the final answer. But I do want to emphasize,
+that the takeaway here is not the specific
+algebra that you work out going towards the end, but it's the whole, the whole idea of this
+Lagrange Multiplier technique to find the gradient of one function, find the gradient of the
+constraining function, and then set them
+proportional to each other. That's the key takeaway, and
+then the rest of it is just, you know making sure
+that we check our work and go through the minute details, which is important, it has its place. And coming up, I'll go
+through a few more examples.

@@ -1,0 +1,165 @@
+- [Instructor] Say there's a basketball heading straight toward a scoop of peanut butter chocolate chip ice cream. So these are gonna collide. There's different ways
+you could characterize this collision, but one
+thing that physicists are almost always interested
+in is whether this collision is going to be elastic or inelastic. What does it mean to say
+a collision is elastic? Elastic collision is one where the kinetic energy is conserved. And I don't just mean the kinetic energy of one of the objects, I mean the total kinetic
+energy of all the objects. So this is where the total kinetic energy of all colliding objects is conserved. And don't forget, people get confused about this word conserved. That's really just a fancy way of saying the total amount of
+kinetic energy is constant, i.e. it remains the same value
+before and after a collision. And we could put this into
+a mathematical statement. If we're clever we could say alright, total kinetic energy conserved, so if we just write down the basketball has some kinetic energy
+before the collision, I'm just gonna use the
+letter k for kinetic energy, so I'm gonna have kinetic
+energy of the basketball. That's gonna be before the collision so we need another subscript. This is gonna get a little messy. I'm gonna have two subscripts: one to denote which
+object I'm talking about, the b will be for basketball, and the second letter is gonna represent when I'm talking about it, i.e. this i is gonna represent initial,
+like before the collision. So this is the initial kinetic
+energy of the basketball, and if we add to that, 'cause we want the total kinetic energy, if we add to that the kinetic energy that the scoop of ice cream had, I'll use s for scoop of
+ice cream and initially, this would represent
+the total kinetic energy before the collision. And we could do the same
+thing for after the collision, we could say that the
+basketball's probably gonna be moving after the collision, so the basketball will have
+some final kinetic energy, and if we add to that the kinetic energy that the scoop of ice cream
+had after the collision, i.e. finally, this here would
+be the total kinetic energy after the collision. If the collision is elastic, that means the total
+kinetic energy is conserved, that means that this total
+initial kinetic energy has to equal this total
+final kinetic energy. I could just say that these two are equal if it's an elastic collision. And this is what we mean by
+a collision being elastic. It means that the total
+kinetic energy is conserved. For an inelastic collision, the total kinetic energy is not conserved, in other words, this
+expression doesn't hold. So if I put that over
+here, if it's inelastic, what you can say is that the
+total initial kinetic energy does not equal the total
+final kinetic energy. And for most inelastic collisions the initial total kinetic energy is greater than the final
+total kinetic energy. In other words, in an inelastic collision you'll lose some kinetic energy,
+some of this kinetic energy gets transformed into
+some other kind of energy and that energy is
+typically thermal energy. 'Cause think about it. If this ice cream scoop splatters
+right into the basketball and the atoms and molecules that make up the ice cream scoop, so this ice cream scoop is made
+out of atoms and molecules, delicious atoms and molecules, and they're not masses
+connected with springs, but roughly speaking you can think of the solid as masses,
+little tiny molecules or atoms connected by springs. It's really electromagnetic forces here and chemical bonds going on, but that's complicated to
+just get a nice visual picture of what's happening. Imagine this collision happens. That's gonna cause this atom or molecule to start oscillating more than it was. This one's gonna start
+oscillating more than it was. And since these atoms and molecules now have more kinetic energy on their own, this random thermal energy,
+the total kinetic energy that this whole ice cream
+scoop's gonna have going forward is gonna be less, because
+some of that's gonna be distributed randomly amongst
+the atoms and molecules in the ice cream scoop. Now, if it's a really
+melted ice cream scoop, if the ice cream scoop's not very cold, these springs are not gonna be very stiff, these atoms and molecules
+can just slide around however they want, there
+might be a lot of energy, a lot of kinetic energy that gets turned into thermal energy. But if you freeze this ice cream scoop, if you take these things
+straight out of the deep freezer, then these bonds are
+gonna be a lot stiffer and these atoms and molecules are gonna be much more stuck in place
+than they were previously. So once this structure becomes more rigid it's harder to transfer
+that kinetic energy into these individual atoms and molecules and it'll become more and more elastic. You'll waste less and less kinetic energy to this thermal energy here. And if you take this idea to the extreme, if you instead try to take a steel ball where these bonds between atoms are extremely stiff and
+rigid, you start to approach a collision that might
+be considered elastic because your final kinetic
+energy might be almost the same as your initial kinetic energy. Now, if I were you, I might
+be like "hold on a minute." Total kinetic energy is not conserved, but we just said that kinetic
+energy in the collision goes into kinetic energy
+of these molecules. That's still kinetic energy, right? Thermal energy is still
+mostly kinetic energy. And yeah, it's true. Thermal energy is mostly kinetic energy. I mean there could be a
+little potential energy and different kinds of
+energy in there as well, when you're dealing with thermal energies. But it is mostly kinetic energy. So we should make a distinction. When we say total kinetic
+energy is conserved, we mean the total kinetic energy
+of that macroscopic object moving in a certain direction. So the speeds, in other words,
+that we're talking about and these kinetic energies are the speeds of the
+macroscopic objects, right, of the ice cream scoop itself, not of the individual atoms and molecules. In other words, we're not gonna include the random jiggling kinetic energy that these atoms and molecules have in this calculation over here. Otherwise basically every
+collision would be elastic 'cause yeah, that
+macroscopic kinetic energy turns into microscopic kinetic energy. But up here we're talking
+about the macroscopic kinetic energy of that entire object moving in a certain direction. So to make this clear
+let's show an example with some numbers here. Let's just say this basketball
+and this scoop of ice cream had a certain speed before the collision. So let's say this basketball was going 10 meters per second before the collision and the ice cream scoop
+was going, let's say, eight meters per second. And let's say after they collide this basketball's still
+moving to the right but it's only moving at
+about one meter per second, let's say, and the scoop of ice cream, let's say, gets to backward and it's now going five meters
+per second to the right. And I looked up the mass of a basketball, the mass of a basketball
+is about 0.65 kilograms. And now with that mass of the basketball I have to pick the right mass over here for my mass of the ice cream 'cause I picked these velocities
+just kind of randomly. So, in order to conserve
+momentum for this collision, and almost all collisions
+should be conserving momentum, the mass of the scoop of ice cream should be about 0.45 kilograms. Now with these numbers in here we can ask: was this collision elastic or inelastic? And one mistake people make is they say, oh well, they bounced
+off of each other, right? Because this basketball
+is going to the right at only one meter per second and the scoop of ice cream
+is going to the right at five meters per second. They must have bounced off of
+each other, they separated, doesn't that mean elastic? And no, that doesn't mean elastic. Just because they bounce off of each other does not imply that it's elastic. It works the other way. If it's elastic they do have
+to bounce off of each other, but just because it bounces
+does not mean it's elastic. So be careful there. Just 'cause they bounce here
+does not mean it's elastic. What do we do to check
+whether it's elastic? What we do is we check whether
+the total kinetic energy was conserved or not. So let's just check. We've got enough numbers
+here to figure that out. So I can use the formula
+for kinetic energy, which is one half m v squared. And I can find what is
+the initial kinetic energy of the basketball, it'd be one
+half mass of the basketball times the initial speed of
+the basketball, which was 10. So I'm using initial speeds here 'cause I want to find the
+initial kinetic energy. And I'm gonna have to add to that, because I want the total kinetic energy I have to add to that the
+initial kinetic energy of the scoop of ice cream. So it's gonna be plus another one half times the mass of the scoop of ice cream times its initial speed, which
+was eight meters per second. You might say, isn't it negative v? We're gonna square this
+anyway so it doesn't matter, so don't forget the square. And if we add all those
+up, we get 46.9 Jules of total initial kinetic energy. So is this equal to the final now? Let's just find out the final
+amount of kinetic energy. If I take the final
+speed of the basketball and use that to find
+the final kinetic energy of the basketball, I'd have
+one half mass of the basketball times the final speed, is
+only one meter per second, and I still square it, and
+then I have to add to that the final kinetic energy
+of the scoop of ice cream, which is gonna be one half the mass of the scoop of ice
+cream times five squared 'cause five was the final speed
+of the scoop of ice cream. And if I add all that up,
+I get that this equals 5.95 Jules of total final kinetic energy. So is this collision elastic? No way, it's not even close. This initial total kinetic
+energy was 46.9 Jules, this final total kinetic
+energy was 5.95 Jules, the kinetic energy here was not conserved and because it was not conserved we would consider this
+an inelastic collision. But if you're clever, you can
+just look at the numbers here. You didn't actually have to
+go through all this work. You could just say, hey,
+the basketball started with 10 meters per second, it ends with one meter per second. It's definitely got less kinetic
+energy than it did before. And this ice cream scoop started with eight meters per second and it ends with five meters per second, it also ends with less kinetic
+energy than it did before. So this final kinetic
+energy has to be smaller than the total initial kinetic energy. And you can ask: where did that energy go? It goes into the thermal energy
+of these molecules and atoms in the objects vibrating
+thermally a little more than they did before,
+including in the basketball. As well as sound waves
+that can get created that also takes away energy, there's lots of places for energy leaks, and in this particular collision
+there were a lot of leaks because we lost a good majority of the kinetic energy
+that we started with, which made this an inelastic collision. So recapping, for a
+collision to be elastic it's not enough to just know it bounces. You have to see if the
+total initial kinetic energy is the same as the total
+final kinetic energy. If that's the case, it's
+an elastic collision, and if that's not the case,
+it's an inelastic collision. One last note. Sometimes you'll hear the word
+perfectly elastic collision. Well that's redundant. That's just another way to
+say an elastic collision. In other words, a collision
+where the initial kinetic energy really is equal to the
+final kinetic energy. But you'll also sometimes hear about a perfectly inelastic collision. And this is meaningful. This means that the two objects
+that collide stick together so if it's perfectly inelastic, this means that they must stick together
+and move off as a single unit. In other words, if the scoop of ice cream splattered into the basketball
+and then stuck to it, and the two moved off to
+the right at some speed, that would be a perfectly
+inelastic collision. Now, whether it's elastic or inelastic, momentum is still gonna be
+conserved for these collisions. If that collision happens
+over a short time interval, there's not enough time
+for an external force to cause enough impulse to
+impact the momentum greatly. So if it's one of these
+instantaneous impacts that happen in collisions,
+then the momentum will be conserved for
+both elastic collisions and inelastic collisions. Sometimes people get
+confused, they're like, wait, I know that energy is only conserved for elastic collisions. Maybe that means that
+momentum's only conserved for elastic collisions? But that's not true. Momentum will be conserved
+for both inelastic and elastic collisions You might object, you might
+be like, wait wait wait. If you're clever, you
+might be like, hold on. In these inelastic collisions we're losing all kinds of energy to the
+random thermal oscillations in this material. Aren't we also losing momentum
+to those random oscillations? I mean movement implies both
+kinetic energy and momentum, so why aren't we losing momentum in these inelastic collisions? And the reason is the oscillations of the atoms and molecules
+in this material, they're oscillating randomly,
+in random directions. This thermal energy gets
+distributed in a random way so that the momentum of
+the atoms and molecules in that structure cancel out because if you've got momentum
+in every single direction, and momentum is a vector,
+that equals no momentum, at least no net momentum, because these are all gonna cancel out. This one cancels with this one, this one cancels with that one, that one cancels with that one. So that's why in an inelastic collision there's no loss of total momentum to the microscopic atoms
+and molecules of the object, but there is a loss of kinetic energy because kinetic energy is a scalar, kinetic energy has no direction. Kinetic energy can't cancel in this way because it's not a vector. So even though in an inelastic collision you lose kinetic energy to the microscopic atoms and molecules, you don't lose any net momentum to them because all that momentum
+just cancels out. And the bulk motion of
+these macroscopic objects must maintain the total momentum. And this is wonderful news actually because that means
+momentum's gonna be conserved for both elastic and inelastic collisions. It doesn't matter what
+kind of collision it is, momentum is gonna be conserved
+as long as there is no time for any net external impulse
+to act during that collision. So even though energy is only conserved for elastic collisions,
+momentum will be conserved for every collision.

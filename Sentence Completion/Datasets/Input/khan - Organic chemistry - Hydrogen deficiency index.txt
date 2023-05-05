@@ -1,0 +1,48 @@
+- [Voiceover] When you
+get a spectroscopy problem on a test, you're often
+given the molecular formula and asked to determine the
+structure of the molecule. And sometimes the
+hydrogen deficiency index can be useful for figuring out the structure of your molecule. Let's start off by looking at hexanes. So here we have hexane with a molecular formula of C six H 14. We say that hexane is completely
+saturated with hydrogen. So it has the maximum
+number of hydrogen atoms possible for the number of carbons. So if we have six carbons, 14 is the maximum number of
+hydrogens that we can have. And remember when you're
+talking about alkanes and you have n carbons, you get two n plus two hydrogens. So here n is equal to six,
+so we have six carbons. So two times six plus two gives us 14 hydrogens. Let's compare hexane with one hexene. So now we have a double bond present. And that changes the
+molecular formula, of course. So now the molecular
+formula is C six H 12. We have the same number of carbons, six, but we have 12 hydrogens. And up here we had 14. So we're missing two hydrogens. And so we say that's one
+degree of unsaturation, or a hydrogen deficiency
+index equal to one. So an HDI equal to one. So it's like we're missing
+one pair of hydrogens here. Let's look at cyclohexanes. So here we have cyclohexane. And the molecular formula is C six H 12. Once again we have six carbons, but we have only 12 hydrogens, so we're missing two compared to hexane. We're missing two hydrogens, we're missing one pair of hydrogens, so the hydrogen deficiency index, the HDI, is equal to one. So if you were given this
+molecular formula, C six H 12, right here it's the
+same molecular formula, and you think about how many hydrogens you're missing from the maximum number. You're missing two hydrogens. That's a hydrogen deficiency
+index equal to one. Here we had one double-bond and here we had one ring. So with an HDI equal to one, one possibility is you have one ring, another possibility is
+you have one double bond. Alright, let's look at benzene. So here we have benzene, a molecular formula of C six H six. So with six carbons, the maximum number of
+hydrogens you can have is 14. And here we have six. So 14 minus 6 is equal to eight. So it's like we're
+missing eight hydrogens. So that's four pairs of hydrogens. So the HDI is equal to four. So the hydrogen deficiency
+index is equal to four. And I like to think about
+why the HDI is equal to four, because, if this is four, we
+have three double bonds here. One, two, three. And we have one ring. Right, so we have one ring here. So three plus one is equal to four and we get an HDI equal to four, right? Up here we had one ring and we had an HDI equal to one. Up here we had one double bond and an HDI equal to one. We could also calculate
+the HDI using a formula. So we could write that the
+hydrogen deficiency index is equal to one-half times what's in the parenthesis. Which is two times the
+number of carbons plus two. That's the whole two n plus two idea. Minus the number of hydrogens. So let's go ahead and do it for this molecular formula with six carbons and six hydrogens. Let's plug in those numbers, so we have one-half, this would be two times
+the number of carbons, so that's two times six plus 2 minus the number of hydrogens, that's six. So let's do the math. So this will be one-half. Two times six plus two is 14. Minus six. 14 minus six is eight, times one-half. We get an HDI equal to four. So if you have a spectroscopy problem and you calculate the HDI equal to four, think about the possibility of
+a benzene ring being present in the structure of your molecule. Let's compare benzene to another molecule where we're adding in a nitrogen. So here's benzene and we
+know there are six hydrogens. One, two, three, four, five, six. So six hydrogens. Let's add in a nitrogen. Right, so we are adding in a nitrogen. So now we have aniline
+as our compound here. How many hydrogens? So this would be one, two,
+three, four, five, six, seven. So we have seven hydrogens here. So we've added one nitrogen and we get one more hydrogen. So we need to modify the formula for HDIs. Let's go ahead and do that. So we would write the
+hydrogen deficiency index is equal to one-half times
+what's in our parenthesis, which would be two carbons plus... two times the number of carbons plus two. And now we're going to add the number of nitrogens that we have. So add the number of nitrogens, and then subtract the number of hydrogens. So let's go ahead and do this calculation. So one-half times, once again we have six carbons one, two, three, four, five, and six, so two times six plus two plus the number of nitrogens, we have one nitrogen, so we add a one in here, minus the number of hydrogens, we said there were seven, so minus seven, and let's do this, this will be one-half times, this would be 14 plus one is 15, so 15 minus seven is equal to eight times one-half is equal to four. So an HDI of four, remember an HDI of four, think about a benzene ring being present in the
+structure of your molecule. Alright, let's do another one. Let's compare benzene to chlorobenzene. So over here on the left we have benzene, once again six hydrogens. And here we have chlorobenzene, so we've added in a halogen. And how many hydrogens do
+we have in chlorobenzene? One, two, three, four, five. So only five hydrogens this time. So we've added a halogen
+and we've lost a hydrogen. We went from six to five. So we need to modify our formula again. So HDI is equal to one-half times what's in the parenthesis, two times the number of carbons plus two plus the number of nitrogens, so plus number of nitrogens, minus the number of hydrogens, and we would also need to subtract the number of halogens. So minus the number of
+halogens that you have. Alright, let's do it for chlorobenzene. So one-half times, how many carbons do we have? Still six. One, two, three, four, five, and six. So two times six plus two, zero nitrogens, alright, so zero nitrogens, how many hydrogens? Five for chlorobenzene, so minus five and we have one halogen. Right we have one halogen here, it's the chlorine, so minus one. So let's do that math. So we have one-half times two times six, plus two is 14. So we have 14 minus six over here. So 14 minus six is eight, times a half is equal to four. So we get an HDI equal to four and once again we think benzene ring. So HDI is equal to four. We think about a benzene
+ring being present. Alright, let's think
+about one more example. So, if we look on the left, once again we have benzene. So here's benzene with the six hydrogens. And we've added in an oxygen. So for this molecule
+we've added in one oxygen. What happened to the number of hydrogens? So we have five on the ring. One, two, three, four, five. And then this one for six. So even though we've added in a hydrogen, there's no change in the number... even though we've added in
+an oxygen, I should say, there's no change in
+the number of hydrogens. And since there's no change
+in the number of hydrogens, we don't need to modify our formula here for the hydrogen deficiency index. So I'm gonna go right
+back up here and box this, so this is our final version
+for calculating the HDI. And you don't have to use
+this formula every time. Sometimes you can just think about how many hydrogens are missing. But sometimes using this formula allows you to calculate the HDI which helps you to think
+about what's present in the structure of your molecule. And so I'll show you several examples of how to use the HDI to figure out your dot structure.

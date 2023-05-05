@@ -1,0 +1,79 @@
+- We're to let a and
+b be rational numbers, and let b be non-zero, they
+have to say let b be non-zero because we're about to divide by b. Is a over b rational or irrational? Well let's think about it,
+they're both rational numbers so that means that a, since
+it's rational, can be expressed as the ratio of two integers,
+so I can write a is equal to m over n, and same thing about
+b, I could write b as being equal to p over q, where where m, n, p, and q are integers, are integers, by definition of what a rational number is, they're
+telling us these numbers are rational so I can express
+them as these types of ratios. So what is a over b going to be? a over b is going to be m over n over p over q which is equal to m over n,
+if I divide by a fraction, it's the same thing as
+multiplying by the reciprocal. q over p, let me write that a little bit, q over p which is equal to mq over np. Well mq is going to be an
+integer, if the product of two integers is going to be
+an integer, and np is going to be another integer, the
+product of two integers is an integer, so I've just shown that a over b can be expressed as the ratio of
+two integers, so a over b is for sure, in fact I've just
+proven it to you, a over b is for sure going to be rational. Let's do a few more of
+these, this is interesting. All right, so now we're saying let a and b be irrational numbers. Is a over b, let a and
+b be irrational numbers. Is a over b rational or irrational? And, like always, pause
+the video and try to think this through, and you
+might want do some examples of some irrational numbers
+and see if you can get, when you divide them, you can get rational or irrational numbers. Well, let's just imagine
+a world where, let's say, that a is equal to, I dunno, two square roots of two, and b is equal to the square root of two. Well, in that world, a
+over b, a over b would be two square roots of two
+over the square root of two which would be two, which is
+very much a rational number, I can express that as a ratio
+of integers, I can write that as two over one, there's actually
+an infinite number of ways I can express that as a
+ratio of two integers. So, in this case, I was able
+to get a over b to be rational, based on a and b being irrational. But, what if, what if instead of, what if a was equal to the square root of two and b is equal to the square root of, let's say, b is equal
+to the square root of seven. Well, then a over b would
+be equal to the square root of two over the square root
+of seven, which is still going to be irrational, I
+mean another way to think about it, and I'm not proving
+it here, but you could think about it, this is
+going to be the square root of two sevens, so we
+have something that's not a perfect square under the
+radical, so we're going to end up with an irrational number. So, we can show one example where a over b is rational and we showed one example where it is irrational,
+so it can be either way. Let's do a few more of these. All right, let a be a
+non-zero rational number. Is a times the square root of
+eight rational or irrational? Well, the key here is, if you
+multiply an irrational number and why is this an irrational number? It has a perfect square
+in it, but it's not a perfect square in and of itself. The square root of eight is,
+the square root of eight is equal to the square
+root of four times two, which is equal to the
+square root of four times the square root of two, which is equal to two square roots of two. And, this is kind of
+getting to the punchline of this problem, but if I
+multiply a rational times an irrational, I am going
+to get an irrational. So the square root of
+eight is an irrational, and if I multiply that
+times a rational number, I'm still going to get
+an irrational number. So this is going to be,
+for sure, irrational. Let's do one more of these. So we're to let a be an irrational number. Is negative 24 plus a
+rational or irrational? And I won't give a formal
+proof here, but to give you more of an intuitive feel,
+it's nice to just try out some numbers, and I encourage
+you to pause the video and try to think through it yourself. Let's just imagine some values,
+imagine if a is irrational, a is irrational, so what
+if a was equal to negative pi, which is approximately
+equal to negative three point one four one five nine and it keeps going on and on forever, never repeating. Well, then we would have negative 24 plus a would be equal to negative 24 minus pi, which would be approximately negative 27 point one for one five
+nine, the decimal expansion, everything to the right of
+the decimal, is going to be the exact same thing as pi. So this looks like, at least
+for this example, is going to be irrational, and let's
+see, if a was square root of two negative 24 plus the square root of two, well, once again, I'm
+not doing a proof here, but intuitively, this is
+going to be a decimal, it's going to have a decimal expansion that's going to go on
+forever and never repeat, and so this would just
+change what's to the left of the decimal, but not
+really change what's, well it would change what's
+to the right of the decimal because this is negative,
+but it's still going to go on forever and never repeat,
+and if, in fact, this was if this was this way, then
+to the right of the decimal, you would have the same thing
+as the square root of two to the left of the decimal,
+you would just have a different value, you
+would have negative 25 point whatever whatever whatever,
+and so this is, when you add a rational number to an
+irrational number, we've proven in other videos, a
+rational plus an irrational is going to be irrational, irrational. If you want that proof,
+we have other videos within this tutorial.

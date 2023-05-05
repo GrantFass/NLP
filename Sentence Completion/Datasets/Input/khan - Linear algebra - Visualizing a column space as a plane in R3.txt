@@ -1,0 +1,270 @@
+In the last video, I started
+with this matrix right here, and right from the get go, we
+said the span of this matrix is just the span of the column vectors
+of it, and I just wrote it right there. But we weren't clear whether
+this was linearly independent, and if it's not linearly independent,
+it won't be a sufficient basis. And then we go off and
+we figure out the null space of A. We find out that the null space
+of A contains more than just the zero vector. It's just the span of these two
+vectors here, which means that these columns are not
+linearly independent. We saw that several
+videos ago. And we used that information
+that they're not linearly independent to try to make them
+linearly independent by getting rid of the
+redundant ones. So we were able to get rid of
+this guy and this guy, because these were essentially the
+columns associated with the free variables. And we were able to do it using
+this little technique down here, where we set one of
+these equal to 0, the other one equal to negative
+1 and then solved for the pivot variables. And then we set the other one
+equal to 0 and the other one equal to negative 1 and solved
+for the pivot variables. And you could imagine
+that this is a generalizable process. If you have a bunch of free
+variables, you can set all of them but one to equal 0, and
+then that one that you didn't set to 0, you set it to
+equal negative 1. And you can express it as a sum
+of the pivot variables, where the pivot variables are a function of the free variables. In general, this would be
+a quick way of doing it. We had to do it more
+slowly over here. If I have some matrix A, and I
+want to figure out the basis for the column space, the column
+space is just the span of these, but if I wanted a
+linearly independent basis, I need to figure out some set
+of these that are linearly independent. What I can do is put this guy
+into reduced row echelon form. When I put them in reduced row
+echelon form, and I did that over here, this is the reduced
+row echelon form of A, I can look at the variables
+that are associated with the pivot entries. So this is x1. Let me scroll up a little bit. This is associated
+with x1, right? When you multiply this times x1,
+you get this column times x1, this column times x2, this
+column times x3, this column times x4 like that. When you look at just regular A,
+when you look at just your matrix A, it's the same thing. If you were to write Ax equal
+to 0, this column would be associated with x1, this column
+would be associated with x2, x3 and x4 like that. What you can do is you put it
+in reduced row echelon form. You say which columns have
+my pivot entries or are associated with pivot
+variables? You say, OK, x1 and x2 are
+associated with pivot variables, or they are the pivot
+variables, and they're associated with these first
+two columns, and so those first two columns would be a
+basis for the column space. How did I get this? Am I just making up
+things on the fly? Well, no! It all comes from the reality
+that you can always construct a situation where the vectors
+associated with the free variables you can write them as
+linear combinations of the vectors associated with the
+pivot variables, and we did a special case of that
+last time. But a very quick and dirty way
+of doing it, and I don't know if it's actually dirty, is just
+take your matrix, put it in it reduced row echelon form,
+and you say, look, this column and this column
+are associated with my free variables. Therefore, this column and this
+column must be associated with my free variables. The solution sets are the same
+to Ax equal to 0 or the reduced row echelon form
+of Ax is equal to 0. So they're the same. So if this column and this
+column are associated with free variables, so are this
+column and this column, which means that they can be expressed
+just by judiciously selecting your values of your
+free variables as linear combinations of the columns
+associated with the pivot variables, with the pivot
+entries, which are that column and that column. So this column and this column
+would be a basis for A, and we see that. We see that all the
+way down here. 1, 2, 3 and 1, 1, 4, We did a
+lot of work and we got all the way there, and we said this
+is a basis for the column span of A. Now, doing all of that work,
+let's see if we can actually visualize what the column
+space of A looks like. I have a strange feeling I might
+have said column span a couple of times, but the
+column space, what does it look like? Well, there's a couple of
+ways to think about what it looks like. One way is we can say, look,
+this span this is 2-- that's a member of R3. That's a vector in R3 and
+this is a vector in R3. Let me draw my x, z and-- well,
+normally it's drawn-- this is normally y, x, and
+z-axes in R3, if I'm want to represent them as
+three-dimensional space. Then the vector 1, 2, 3 might
+look like this where it's one, one, two, one, two, three,
+so we go out one down here, then up three. So the vector will look like
+that in its standard form. That's that one right there. And the vector 1, 1, 4 would be
+one, one and go up four, so it might look something
+like this. It's hard to actually draw
+them very well in three dimensions, but you
+get the idea. But the column space is the span
+of these, so all of the linear combinations
+of these two guys. So all of the linear
+combinations of these two guys are going to create
+a plane that contains these two vectors. If you just sum these guys up in
+multiple combinations, you can get any vector up there. If you just add them
+up, you'll get that vector right there. If you add this guy plus 2 times
+that, you'll get some vector up here. So if you view them as position
+vectors, they'll essentially form
+a plane in R3. But let's see if we can get the
+equation for that plane. Well, how can we do that? Well, we know that we can figure
+out the equation of a plane based on the fact that
+a normal vector dotted with any-- let me write my normal
+vector like this. The normal vector dotted with
+any position vector specifying a position on the plane. So let me call that x minus any
+point on the plane or any vector position on the plane. So I could do that minus
+the vector 1, 2, 3 has to be equal to 0. And we can use this information
+to figure out the equation for this plane. But what is a normal vector? How can we find a normal
+vector to this plane? So this would be a vector. Let me see if I can draw
+this in a way that doesn't confuse the issue. If the plane is like that,
+the normal vector would come out like that. So how can I create
+a normal vector? Well, we learned that you take
+the cross product of any two vectors in R3, and the cross
+product I've only defined so far in R3, and I will get a
+vector that's normal to both of those vectors. So let's take the
+cross product. This is a nice way of thinking
+about it, because it's really integrating everything that
+we've covered so far. So let me define my normal
+vector to be equal to 1, 2, 3 cross 1, 1, 4. And what does this equal? So my first term,
+I ignore that. I get 2 times 4 minus
+3 times 1. 2 times 4 is 8. 2 times 4 minus 3 times 1. 8 minus 3. Then for my second row, I have
+1 times 4, and my temptation is do 1 times 4 minus
+3 times 1. But you reverse it. You do 3 times 1, so it's
+3, minus 1 times 4. We've done that multiple
+times. You might want to review the
+cross product video if that seems strange. You ignore the middle row, and
+you normally do 1 times 4 minus 3 times 1, but the
+middle row you switch. We're only defining it for R3,
+so instead, we do 3 times 1 minus 1 times 4. And then finally for the last
+row, we ignore it, and we say 1 times 1, which is 1, minus 2
+times 1, which is minus 2. And this is equal to the vector
+5, minus 1, minus 1, which by definition of the cross
+product, and I've shown this to you multiple times,
+is normal to both of these vectors, and so it'll be
+normal to any linear combination of these
+two vectors. So now that we have our normal
+vector, we can define the traditional equation
+for the plane. So we now know that our normal
+vector 5, minus 1, minus 1, that I got by taking the cross
+product of our basis vectors dot any vector in our plane. So let me just write
+any vector. Let me just write it x, y, z. So x, y, z since that's how
+I defined my axes up here. This was the x-axis. x, y and z. x, y, z minus-- I just
+picked one of these. I could have picked either of
+them-- minus 1, 2, 3 has got to be equal to 0. So what's this? This is going to be equal to--
+let me write it a little smaller, a little neater-- 5,
+minus 1, minus 1 dot-- what's this guy going to be? x minus 1, y minus 2, and
+z minus 3 has got to be equal to 0. And what's the dot product? It's 5 times x minus 1 plus-- or
+maybe I should say minus 1, so it's plus minus 1 times y
+minus 2 plus minus 1 times z minus 3 is equal to 0. That's just the definition
+of our dot product. If I simplify this, I get 5x
+minus 5 minus y plus 2 minus z plus 3 is equal to 0. You have 2 plus 3 is 5 minus
+5, so those all cancel out. Those will equal 0. And we get 5x minus y minus
+z is equal to 0. This plane in R3 is the
+column space of A. So we've now shown you that
+it's truly a plane in A. And actually, it makes
+sense that this plane intersects the origin. If you set x, y, and
+z equal to 0, it satisfies this equation. And that makes sense, because we
+said that a column space of a matrix has to be a valid
+subspace, and a valid subspace has to contain the
+zero vector. And in R3 that's the
+coordinate 0, 0, 0. Now, what I want to do now is
+see if we can get at the same answer going a completely
+different way, or approaching it in a completely
+different way. Let me get my original A,
+which I've forgotten. I've marked it up a good
+bit, but let me just copy and paste it. So that's my original
+A right there. Let me copy it. Let me paste it. Nope. That's not what I
+wanted to do. Let's see, so my original
+A-- I copied and pasted the wrong thing. Let me do it a little-- don't
+want to waste your time. Edit, copy, edit, paste. There you go and let me scroll
+this down and get to a point that's relatively clean. Bring my A down. I've used a lot of space. So here you go. This is my original
+A right there. And what I want to do is see
+if I can get this result completely different. I got this result by figuring
+out the basis of the column span, finding a normal vector by
+taking the cross product of our two basis vectors, and then
+using the dot product of the normal vector with the
+difference-- this vector right here, where you take any vector
+on our plane minus one of our basis vectors,
+that's to find some vector in the plane. This is some vector
+in the plane. So any vector in the plane
+dotted with my normal vector is going to be equal to 0. And actually, I should probably
+make a side note here, that the only reason I
+was able to say that the normal vector is a cross
+product of my two basis vectors, is because I knew that
+these two basis vectors, not only do they specify some
+point on the plane-- so let's say that this guy right here
+is this blue vector. Not only does he specify some
+point on the plane right there, but the vector lies
+completely on the plane. How did I know that? Because I knew from the get go
+that the 0, 0 vector is in my span, right? I knew that if I draw this guy
+in just standard position, the point 0, 0, 0, is in my span,
+and I know its end point is in the span, so this whole vector
+has to be in my plane, and likewise, this whole vector
+has to be in my plane. So if I take the cross product,
+anything normal to these guys or any combination
+of these guys is going be normal to the plane, and we got
+this result right here. But let me take this right
+here and use our other definition of column span. Our other definition, or it's
+really an equivalent definition, is all of the valid
+solutions to Ax where x is a member of Rn. Or another way we could think of
+it is, we could view it as all of the valid b's where Ax
+is equal to b, and x is a member of Rn. These are equivalent
+statements. I'm just defining b here to be
+Ax, so these are equivalent statements. But let's run with this
+a little bit. So let's say that I define my
+b, so b is going to be a vector in R3, right? We already have an intuition
+like that. When I take Ax, I get a b
+that's equal to x, y, z. And I want to figure out what x,
+y's and z's can I get valid solutions for? So if I take my vector A and
+then let me multiply it times-- well, actually, the
+best way to do it, I think we're used to it right now. If I'm solving the equation
+Ax is equal to b, I can essentially just create the
+augmented matrix, where I have the matrix A and I can augment
+it with b, and put this in reduced row echelon form, and
+that'll essentially represent the solution set. So let me do that. So if I just augment this matrix
+right here with b, so I write x, y, z. So this is A augmented with b. This is A, this is b. let me put this in reduced row
+echelon form and find the solution set. And these are x, y, and z's
+that define a valid b. So what do I get? The first thing I want to do,
+and we've done this exercise before, let's keep my
+first row the same. 1, 1, 1, 1, and I get an x. And let's replace our second row
+with the second row minus the first row. Actually let me do
+it this way. Let me replace the second row
+with 2 times the first row minus the second row. So 2 times the first row minus
+the second row, we're going to get a 2x minus y up there. And then 2 times
+1 minus 2 is 0. 2 times 1 minus 1 is 1. 2 times 1 minus 4 is minus 2. 2 times 1 minus 3 is minus 1. Fair enough. And now let me replace my third
+row with the third row minus 3 times the first row. So we're going to do the third
+row minus-- no, let me do it this way. It's the third row minus
+3 times the first row. So I'm just doing the b column
+first, because I can remember what I did. The third row minus 3
+times the first row. 3 minus 3 times 1 is 0. 4 minus 3 times 1 is 1. 1 minus 3 times 1 is minus 2. And then 2 minus 3 times
+1 is minus 1. Now, I could go all the way to
+reduced row echelon form, but something interesting is
+already happening. So let me from the get go try
+to zero out this third row. And the best way to zero out
+this third row is to just replace the third row. So the first row-- well,
+I won't even write the first row. The second row is 0, 1, minus
+2, minus 1, and 2x minus y. I'm not even going to worry
+about the first row right now. But let's replace the third row,
+just in our attempt to go into reduced row echelon form. Let's replace it with
+the second row minus the third row. So you get 2x minus
+y minus z plus 3x. I just took this minus this. So minus z plus 3x. So 0 minus 0 is 0. 1 minus 1 is 0. Minus 2 minus minus 2 is
+0, and that's also 0. So we're only going to have a
+valid solution to Ax equals b if this guy right here
+is equal to 0. What happens if he's
+not equal to zero? Then we're going to have a bunch
+of zeroes equaling some number, which tells us that
+there's no solution. So if I pick a b where this guy
+does not equal zero, then I'll have no solution. If this guy equals 5, if I pick
+x, y, and z's such as that this expression is equal to
+5, then Ax equal to b will have no solution, because it
+will have 0 is equal to 5. So this has to equal 0. So 2x minus y minus z plus 3x
+must be equal to 0 in order for b to be valid, in order for
+b to be a member of the column space of A, in order for
+it to be a valid vector that Ax can become, or the
+product A times x can become for some x. So what does this equal to? If we add the 2x plus the 3x,
+I get 5x minus y minus z is equal to 0, which is the exact
+same outcome we got when we figured out the basis vectors. We said oh, you know what? The basis vectors, they have
+to be in the column space themselves by definition. So let me find a normal vector
+to them both by taking the cross product. I did that, and I said the cross
+product times any valid vector in our space minus one of
+the basis vectors has to be equal to zero, and then
+I got this equation. Or we could have done
+it the other way. We could've actually literally
+solved this equation setting our b equal to this. We said what b's will give
+us a valid solution? And our only valid solution will
+be obtained when this guy has to be equal to zero, because
+the rest of his row became zero. And when we set that equal
+to zero, we got the exact same equation. So, hopefully, you found this
+to be mildly satisfying, because we were able to tackle
+the same problem from two different directions
+and get the same result, and it kind of shows you
+the beauty of linear algebra, how it all starts to fit together.

@@ -1,0 +1,63 @@
+- [Voiceover] Let's think
+about the infinite series, so we're going to go from
+n equals one to infinity, of one over two to the n plus n. And what I want to do
+is see if we can prove whether this thing converges or diverges. And as you can imagine based
+on the context of where this video shows up on
+Khan Academy that maybe we will do it using the comparison test. At any point if you feel
+like you can kinda take this to the finish line, feel free to pause the video and do so. So in order to kind of
+figure out or get a sense for this series right over
+here, it never hurts to kind of expand it out a
+little bit, so let's do that. So this would be equal
+to when n equals one this is gonna be one over
+two to the one plus one, so it's gonna be one over two plus one, it's gonna be one third
+plus that's n equals one. When n equals two it's gonna
+be one over two squared, which is four plus two plus one over six. Plus let's see we go
+to three, n equals one, n equals two, n equals
+three is gonna be one over two to the third, which
+is eight plus three is 11. So one over 11, maybe
+I'll do one more term. Two the fourth power is going
+to be 16 plus four is 20. Plus one over 20 and obviously we just keep going on and on and on. So it looks, it feels like
+this thing could converge. All of our terms are
+positive, but they are getting smaller and smaller quite fast. And if we really look at
+the behavior of the terms as n gets larger and
+larger, we see that the two to the n in the denominator will grow much, much faster than the n will. So this kind of behaves
+like one over two to the n, which is a clue of something that we might be able to use for the comparison test. So let me just write that down. So we have one over, so
+the infinite series from n equals one to infinity
+of one over two to the n, and so when n equals one this is going to be equal to one half. When n is equal to two this is going to be equal to one fourth. When n is equal to three
+this is equal to one eighth. When n is equal to four this
+is equal to one sixteenth. And we go on and on and on and on. And what's interesting about
+this is we recognize it. This is a geometric
+series, so let me be clear. This thing right over here,
+that is the same thing as the sum of from n
+equals one to infinity of one half to the n power, just
+writing it in a different way. And since the absolute
+value of one half, which is just one half, so
+because the absolute value of one half is less than one we know that this geometric series converges,
+we know that it converges And actually we even
+have formulas for finding the exact sum of or to figure
+out what it converges to. And so we know this thing
+converges and we see that actually these two series
+combined meet all of the constraints we need for
+the comparison test. So let's go back to what we
+wrote about the comparison test. So the comparison test,
+we have two series, all of their terms are greater
+than or equal to zero. All of these terms are
+greater than or equal to zero. And then for the corresponding
+terms in one series, all of them are going
+to be less than or equal to the corresponding
+terms in the next one. And so if we look over here,
+we can consider this one, the magenta series, this
+is kind of our infinite series of dealing with A
+sub n and that this right over here is, well I
+already did it in blue this is kind of the blue series. And notice all their
+terms are nonnegative and the corresponding terms
+one half is greater than one third, one fourth is
+greater than one sixth, one eighth is greater than one eleventh. One over two to the n is
+always going to be greater than one over two to the n plus n for the n that we care about here. And since we know that
+this converges, since we know that the larger one converges. It's a geometric series
+where the common ratio the absolute value of
+the common ratio is less than one, since we know
+that the larger series converges therefore, the
+smaller series or the one where every corresponding
+term is less than the one in the blue one,
+that one must also converge. So by the comparison test the series in question must also converge.

@@ -1,0 +1,34 @@
+- [Teacher] We're given
+an f of x and they say, what is the coefficient for the term containing x plus two to the fourth power in the Taylor polynomial, centered at x equals negative two of f? So like always, see if you
+can take a stab at this video on your own before we
+work through it together. Alright, now let's do this. So in general, our Taylor
+polynomial, p of x, it's going to have the form and remember, we're centering at x equals negative two so this means we're going
+to evaluate our function at where we're centering it. We are going to divide
+it by zero factorial which is just one. I'm just gonna write 'em all
+out just so you see the pattern and we could even say
+that's gonna be times x minus where we're centering it but if we're subtracting a negative two, it's gonna be x plus two and I
+could write to the zero power but once again, that's
+just going to be one so a lot of times, you won't
+see someone write this and this but I'm writing it just to show that there's a consistent pattern. So then you're gonna have
+plus the first derivative evaluated at negative two divided by one factorial
+which is still just one times x plus two to the first power plus the second derivative
+evaluated at negative two over two factorial times
+x plus two squared. I think you see where this is going and really all we care about is the one that has a fourth degree term and, well, actually, let me just
+write the third degree term too just so we get fluent doing this. So the third derivative
+evaluated at negative two over three factorial times x
+plus two to the third power and now, this is the part
+that we really care about, plus the fourth derivative. I could have just written a four there but I think you get what I'm saying. And then evaluate at x equals negative two divided by four factorial times x plus two to the fourth power. So what's the coefficient here? Well, the coefficient is this business. So we'd have to take the fourth derivative of our original function. We gotta take the fourth derivative of that original function,
+evaluate at negative two and divide it by four
+factorial so let's do that. So our function, so our first derivative, f
+prime of x is just going to be, just gonna use the power rule a lot, six x to the fifth minus three x squared. Second derivative is going to be equal to five times six is 30 x to the fourth. Two times three, minus
+six x to the first power. Third derivative. Third derivative of x
+is going to be equal to four times 30 is 120 x to the third power minus six and then the fourth derivative which is what we really care about is going to be three times 120 is 360 x to the second power and the derivative of a
+constant is just zero. So if we were to evaluate
+this at x equals negative two, so f, the fourth derivative, evaluated when x equals negative two is going to be 360 times
+negative two squared is four. I'm just gonna keep
+that as 360 times four. We can obviously evaluate that but we're gonna have to
+divide it by four factorial so the whole coefficient is
+going to be 360 times four which is the numerator here divided by four factorial, divided by four times
+three times two times one. Well, four divided by four, those are just gonna be one. 360 divided by three, maybe
+I'll think of it this way, 360 divided by six is going to be 60 and so that's all we have. We have 60 and then in the
+denominator we just have a one so this is going to simplify to 60. That's the coefficient for this term.

@@ -1,0 +1,37 @@
+- We've spent several
+videos now getting familiar with the Lorentz transformations. What I want to do now, instead
+of thinking of what X prime and C T prime is in terms of X and C T, I wanna think about, what
+is the change in X prime and the change in C T prime
+going to be in terms of change in X and change in C T. And we'll see it's just
+going to involve some fairly straight-forward
+algebraic manipulation. So, let's think about it. Change in X prime is going to be X prime final minus X prime initial. Well, X prime final, let me just pick a
+suitable color for that, X prime final is going to be gamma times X final minus beta times C T final. All I did is use this formula up here. If I want to figure out my final X prime, I'm just going to think of
+my final X and my final C T. So, that's that. And from that, I'm going to
+subtract the initial X prime. Well, X prime initial is just going to be, let me get another color here, Lorentz factor gamma times X initial minus beta times C T initial. So, now, let's see, we
+can factor out the gamma, so this is going to be equal to, and I'll do it in my color for gamma. If we factor out the
+gamma, we're gonna get gamma times, we're gonna have X final, let me do this in a, so we have, do that in white actually. We're gonna have X final,
+and then if we distribute this negative sign, minus X initial, and then, let's see, if we distribute this negative
+sign, well, I don't want to skip too many steps
+here, so that's that. And then we're going to have negative beta C T final, negative beta C T final, and then we have plus, we
+distributed this negative, plus beta C T initial plus beta C T initial and so what can we do here, well this, that's just
+going to be change in X. So I can rewrite this as being equal to gamma times change in X... Let me factor out a negative beta. So I'l say, minus beta times, well then you're going to have C T final minus C T initial. And what's C T final minus C T initial? I think I'm skipping
+too many steps already. Well that's just going
+to be change in C T. So we get, this is all
+going to be equal to gamma, our Lorentz
+factor, times change in X minus beta times change in C T. And since C isn't changing,
+it could also be viewed as C times change in T, either way. So, there you have it. Notice, it takes almost
+the exact same form. X prime is equal to gamma
+times X minus beta C T and change in X prime is going to be gamma times change in X minus
+beta time change in C T. And, I'm not going to do it in this video, but you can make the exact same algebraic argument for your change in C T prime, as you'll see and I encourage
+you to do this on your own, change in C T prime, which
+you could also view as, since C isn't changing,
+C times delta T prime, these are equivalent,
+is going to be equal to gamma times change in C T minus beta times change in X, and I encourage you, right after this video,
+actually do this one too. Delta X prime is going to be X prime final minus X prime initial and
+then do what I just did here, just a little algebraic manipulation. You can make the same
+exact argument over here to get to the result
+that I just wrote down. You see, well our change
+in C T prime is going to be C T prime final minus C T
+prime initial and then you can substitute with this, do
+a little bit of algebraic manipulation and you'll
+get that right over there. And the whole reason I'm doing this is, well now, we can think in terms of change in the coordinates, which will allow us to think about what velocities would be in the different frames of reference, which is going to be pretty neat.

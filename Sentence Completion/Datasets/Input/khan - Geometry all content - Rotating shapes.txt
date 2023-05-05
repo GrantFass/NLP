@@ -1,0 +1,46 @@
+- [Voiceover] We're told that triangle PIN is rotated negative 270
+degrees about the origin. So this is the triangle PIN
+and we're gonna rotate it negative 270 degrees about the origin. Draw the image of this rotation
+using the interactive graph. The direction of rotation
+by a positive angle is counter-clockwise. So positive is counter-clockwise, which is a standard convention, and this is negative, so a negative degree would be clockwise. And we want to use this tool here. And this tool, I can put points in, or I could delete points. I can draw a point by clicking on it. So what we want to do is think about, well look, if we rotate
+the points of this triangle around the origin by negative 270 degrees, where is it gonna put these points? And to help us think about that, I have copied and pasted
+this on our scratch pad. So actually let me go over here so I can actually draw on it. So let's just first think
+about what a negative 270 degree rotation actually is. So if I were to start, if I were to, let me draw some coordinate axes here. So that's an x-axis and that's a y-axis. If you were to start right over here and you were to rotate around
+the origin by negative, so this is the origin here, by negative 270 degrees, what would that be? Well let's see, this would
+be rotating negative 90. This would be rotating
+another negative 90, which would, together, be negative 180. And then this would be
+another negative 90, which would give you in total, negative 270 degrees. That's negative 270 degrees. Now notice, that would
+get that point here, which we could have also gotten there by just rotating it by
+positive 90 degrees. We could have just said
+that this is equivalent to a positive 90 degree rotation. So if they want us to
+rotate the points here around the origin by negative 270 degrees, that's equivalent to just rotating all of the points, and I'll
+just focus on the vertices, because those are the
+easiest ones to think about, to visualize. I can just rotate each of
+those around the origin by positive 90 degrees. But how do we do that? And to do that, what I am going to do, to do that what I'm gonna do is I'm gonna draw a series
+of right triangles. So let's first focus on, actually let's first focus
+on point I right over here. And let me draw right triangle. And I could draw it several ways. But let me draw it like this. So, it's a right triangle where the line between the origin and I is its hypotenuse. So let me see if I can, It's I could probably draw, actually I can use a line tool for that. So let me... So that's the hypotenuse of the line. Now if I'm gonna rotate I 90 degrees about the origin, that's
+equivalent to rotating this right triangle 90 degrees. So what's going to happen there? Well this side, right over here, if I rotate this 90 degrees, where is that going to go? Well instead of going
+seven along the x-axis, it's going to go seven along the y-axis. So it's going to, if you
+rotate it positive 90 degrees, that side it going to look like this. So that's rotating it 90 degrees, just like that. Now what about this side over here? What about this side? Let me do this in a different color. What about, what about this side right over here? Well this side over here, notice we've gone down from the origin, we've gone down seven. But if you were to rotate it up, notice this forms a right angle between this magenta
+side and this blue side, so you're gonna form a right angle again. And so from this point,
+you're gonna go straight as a right angle and
+instead of going down seven, you're going to go to the right seven. So you're gonna go to the right seven, just like this. And so the point I, or
+the corresponding point in the image after the rotation is going to be right over here. So that green line, let me
+draw the hypotenuse now, it's gonna look like, oops, I wanted to do that in a different color. I want to do that in the green. I have trouble changing colors. Alright, so there you go. It's gonna look like that. So your new point I, if you rotate this triangle,
+this right triangle 90 degrees, your new point I, maybe I shouldn't say, I'll call it I prime, which is what is the image of this point after I've done the 90 degree rotation is going to be right over here. And now we can do that
+for each of the points. We can do that for N here. Let's draw a right triangle. Let's draw a right triangle. And I can do it a bunch of different ways. I could draw a right triangle like this. Let me draw it like this. So that's one side of my right triangle. Actually, let me draw
+the hypotenuse first. So I have the hypotenuse. Connects the origin to
+my point, just like that. And then I could either draw it up here, or I could draw it down here, like this. I could draw it like this. So if you rotated this 90 degrees, if you rotate this 90 degrees, this side, which is seven units long and we're going seven below the origin, it's now going to be seven to the right. Right? If I rotate it by 90 degrees, it's going to be right over here. It's gonna be here and this side, which has length, let me switch colors. This side, which has length two, it forms a right angle, so we're gonna forma a right angle and have length two right over here. And so the image of
+point N is going to be, let me get the right color. It is going to be just like that. It is going to be the image of point N is going to be right here. I'll call that N prime. So we know where the new, where the image of I
+is, the image of N is, so now we just have to
+think about where does the image of P sit? And once again, we can do our
+little right triangle idea. So let's draw a right triangle. So, just like that. I could draw that side. And I can do this side, right over here. So if I were to rotate, if I were to focus on this, let me do this in a color I haven't. So if I were to focus on, I've already used that color. If I were to focus on
+this, right over here, and if I were to rotate it by 90 degrees. Instead of going two to the right, it's going to go two straight up. If I rotate this by 90 degrees
+it's gonna be just like this. Now, this side on, let me pick another color. This side, right over
+here, forms a right angle and it has a length of three. So we're gonna forma right angle here and have a length of three. And just like that, we know where the image of P is going to be. It is going to be, it is going to be right over here. So this is P prime. And I know it's kind of confusing, but now we just have to connect the P prime, the I prime, and the N prime to figure out what the
+image of my triangle is after rotation. So let me do that. So if I connect these two, I get that. If I connect these two, I get that. And if I connect these two, if I connect those two, I have that. And there you have it, I have the image. And now I just have to input it on the actual problem. So, let's see, point
+negative three comma two, let me get it out. So negative three comma two is there. I have seven comma two, so let me put that in there. Seven comma two. And then I have seven
+comma seven is there. So let me get this out. So seven comma seven. And then I'll draw here
+again to connect the lines. And I'm done. I've rotated it through
+an angle of 90 degrees. Or negative 270 degrees, which is what they originally asked me for. And I can check to make
+sure I got the right answer.

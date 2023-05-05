@@ -1,0 +1,61 @@
+- [Voiceover] Let's say
+that we have a particle that's traveling in one
+dimension, and its position as a function of time is given as t to the third power plus
+two over t-squared. What I would like you to
+do is pause this video and figure out what the
+average acceleration is of this particle over the
+interval, the closed interval, from t is equal to one
+to t is equal to two. What is this? What is this going to be equal to? Assuming you've given a
+go, and the first thing you might have realized is we're
+trying to get the average value of a function that we
+don't know explicitly at. We know the position function but not the acceleration function. But luckily, we also know
+that the acceleration function is derivative with respective
+time of the velocity function which is the derivative with respect to time of the position function. The acceleration function is
+the second derivative of this. We have to just find its average
+value over this interval. Let's do that. Let's take the derivative of this twice. But before we do that, let
+me just even rewrite this. It's just going to be a little bit easier to differentiate it. If we just take each of these
+two terms in the numerator and divide them by t
+squared, we're going to get t to the third, divided by
+t-squared is just the t. Then two divided by T
+squared, we could write that as plus two t to the negative two power. Now, let's take the derivative. The velocity function, as
+the velocity as the function of time, just the derivative
+with this with respect to time. It's going to be derivative
+of t with respect to t as one. Derivative of two t to the negative two. Let's see, negative two times
+positive two is negative four. T to the, we just decremented
+the exponent here, t to the negative three power. Now, to find acceleration as
+a function of time, we just find, take the derivative of
+this with respect to time. Acceleration as a function
+of time is equal to, actually it's already used
+at color for the average so let me do a different color now. Acceleration has a
+function of time is just the derivative of this with respect to t. Derivative of a constant with respect to time was not changing so it's a zero. Then over here, negative three times negative four is positive
+12, times t to the, let's decrement that exponent
+to the negative four power. Now to find the average
+value, all we have to do now, average value is essentially
+take the definitive role of this over the interval, and divide that by the width of the interval. Or we could say, we could take, we can divide by the
+width of the interval. One, over two minus one, and this also simplifies to one. Times the definitive role of the interval. One to two of a of t which is, so this could be 12 t to
+the negative four power d t. What is this simplified to? Once again, this is one over one. That's just going to be one. We take the antiderivative of this. Let me just, so this
+is going to be equal to the antiderivative of this
+is, so we go t to the negative three power but we
+divide by negative three. An antiderivative of this
+is going to be, if we don't take that, an antiderivative
+is going to be negative four t to the negative three power,
+and we saw that over here. Obviously, if you were really
+just taking an in-definitive role, we would have to
+put some concept here. But in the definitive role,
+if we put a concept here, Assuming the same concept
+that we get canceled out when you actually do a
+calculation, but the entire derivative of this, we
+increment the exponent, and then we divide by that new exponent. Twelve divided by negative
+three is negative four. We are going to evaluate
+that from two and that one. This is going to be equal to,
+when we evaluated it at two at the upper bound of our
+intervals, it could be negative four times two to
+the negative three powers. It's negative four times, what is that? Two, that's one over to
+the third of times 1/8, is one way to think about that. Then we are going to have
+minus this evaluated one. Minus negative four times
+t to the negative three of one to the negative three is just one. This is going to be
+negative four times one. This is going to be equal to, or really in the homestretch now, this is equal to, this part right over here, is negative 1/2. This is negative 1/2, and this part right over here is positive four. Positive four minus 1/2. We could either write
+that as three and a half, or if we wanted to write
+that as an improper fraction, we could write this as 7/2. The average value of our acceleration over this interval is 7/2. If this position was given a
+meters and time was in seconds, then this would be 7/2
+meters per seconds squared, is the average acceleration between time in one second and time at two seconds.

@@ -1,0 +1,57 @@
+- [Instructor] Duncan is
+investigating if residence of a city support the
+construction of a new high school. He's curious about the
+difference of opinion between residence in the north
+and south parts of the city. He obtained separate
+random samples of voters from each region, here are the results. So let's see, in the
+north 54 out of the 120 said they want the school,
+66 said they didn't. In the south 77 said
+they wanted the school, 63 said they didn't. Duncan wants to use these
+results to construct a 90% confidence interval to estimate the difference in the
+proportion of residence in these regions who support
+the construction project. P sub S minus P sub N. So these are the true
+parameters for the difference between these two populations. Assume that all of the
+conditions for inference have been met. Alright, which of the
+following is a correct 90% confidence interval
+based on Duncan's sample? So pause this video and see
+if you can figure that out and you will need a calculator and depending on your calculator you might need a Z table as well. In a previous video we introduced the idea of a two sample Z interval
+and we talked about the conditions for inference. Lucky for us here they say the conditions for inference have been met. So we can go straight to calculating the confidence interval. And that confidence
+interval is going to be the difference between
+the sample proportions, so P sub S hat, so the sample
+proportion in the south minus the sample proportion in the north, it's gonna be that
+difference plus or minus our critical value, Z
+star, times our estimate of the standard deviation
+of the sampling distribution of the difference between
+the sample proportions. And that is going to be our estimate is going to be P hat sub S times one minus P hat sub S, all of that over
+the sample size in the south plus P hat sub N times
+one minus P hat sub N, all of that over the
+sample size in the north. Okay, so our sample
+proportion in the south, I'll later use a calculator
+to get a decimal value, but this is going to be in the south we have 77 out of 140 support it. So this is going to be 77 out of 140. In the north this is
+going to be 54 out of 120, 54 out of 120. What is my critical Z value? Well here I'm gonna have
+to either use a calculator or a Z table. Remember, we have a 90%
+confidence interval. And so, let me see, I'll
+draw it right over here. If this is a normal distribution and you wanna have a
+90% confidence interval that means you're containing 90% of the distribution which
+means each of these tails well combined they would have 10%, but each of them would have
+5% of the distribution. And so I'm gonna look at a Z table that figures out how
+many standard deviations below the mean do I need to be in order to get 5% right over here? And then that's going to tell me, well if I'm that far below or above that's gonna be my critical Z value. So let me get that Z table out. So I care about 5% and
+I'm using this in a bit of a reverse direction, but let's see, 5%. So this a little over
+5%, I'm getting closer to 5%, even closer to 5%, now
+we've gotten right below 5%. So we're gonna be in
+between this and this. I could just split the difference and I could just say,
+1.6, let's just say 1.645 to go right in between. So this is going to be
+approximately equal to 1.645. And then let's see, we
+know what P hat sub S is, we know what P hat sub N is. In the south our sample size is 140 and in the north our sample size is 120. And so now I just have to type all of this into the calculator, which
+is gonna get a little hairy, but we will do it together. For the sake of time we'll accelerate this typing into the calculator. But I'm gonna start with
+calculating the upper bound and then we'll calculate the lower bound. And then I think I've
+closed all my parentheses and so I think we're ready
+to get the upper bound is going to be equal to
+0.218 or approximately 0.202. So we can immediately look at our choices and see where is at the upper bound. And so this one is looking
+pretty good, 0.202, but let's get the lower bound now. So I got my calculator back,
+instead of retyping everything I'm just gonna put a minus here. So I go to second, and just
+so you see what I'm doing, second entry, I see the entry back and then I can just
+change, I can just change the part where right before the radical. So we are going to, alright,
+so this just needs to be a minus, click enter,
+and there you have it. Our lower bound is negative 0.002. And that is indeed this
+choice right over here. So there we go, we have picked our choice.

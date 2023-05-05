@@ -1,0 +1,25 @@
+- [Voiceover] So right over here, I have a type of spinner
+that you might see in a child's game. You can see there's seven
+equally likely possibilities. Let's see, there's one, two, three, four, five, six, seven equally likely possibilities. It looks like in four of them, you've spun an elephant. Two of them, you have this mouse running away from something, and then in one of them, you have this monkey doing some type of acrobatics, fair enough. Now let's pose ourselves
+an interesting question. At least I think it's
+an interesting question. Let's say we were to spin
+the spinner 210 times. So we're going to spin 210... We're going to spin that spinner 210 times. And I want you to make a prediction. I want you to predict... I want you to predict
+the number of times... Number of times... We get an elephant. We get an elephant... Number of times we get an elephant, out of the 210 times. So why don't you to have a go at it? All right, so you've, I'm
+assuming, like always, pause the video and then had a try. So one way to think about it, is, well, for one spin, what is the probability
+of getting an elephant? So let's do this, one spin. So for one spin, what is the probability of getting an elephant? Well let's see, we have
+already talked about, this is a fair spinner. There are seven equally
+likely possibilities. And then how many involve
+getting an elephant? Well, so we have one, two, three, four. Four out of the seven
+equally likely possibilities involve us getting an elephant. So one reasonable thing to do, and this is actually what I would do, is go, look, a 4/7 probability means I should expect that 4/7 of the time, especially if I'm doing it over, and over, and over again, it's a reasonable expectation that, hey, 4/7 of the time, I will get an elephant. I've just calculated the theoretical probability here, based on this being a fair spinner. And that should inform, that if I were to do a
+bunch of experiments, that 4/7 of the time that I should see me getting the elephant. So it would be a reasonable prediction to say well, look, I'm
+going to spin this thing 210 times, and I would expect that 4/7 of those 210 times, I would get an elephant. And so, let's think about what this is. 210 times 4/7, 210 divided by seven is 30. 30 times 40 is 120. So 120 times. My prediction, or maybe your prediction was this as well, I think it's a reasonable prediction, is that if I spin it 210 times, that I'm going to get
+an elephant 120 times. That's very important to think about, what this is saying,
+and this is not saying. Is it possible that I get an elephant 121 times, or maybe 119 times? Sure, sure, it's completely reasonable that you might get something
+different than this. In fact, there's some probability that you get no elephant. If you consider getting an elephant lucky, that you just happen to keep landing on the monkey or one of the mice, and that's a very low probability that that would happen
+if you spun it 210 times, but it is possible. So it's important to realize that this is just a prediction. There's actually a
+possibility that you might get an elephant on all 210 spins. Once again, that's a low probability, but it is possible. So this isn't saying
+that you're definitely going to get the elephant 120 times. In fact, it's very reasonable, that you might get the elephant 123 times, or 128 times, or 110 times, or even 90 times. These are all completely
+reasonable things to happen. All you would say, is that, look, if I had to predict it, this, out of all of the different... I can get the elephant anywhere between zero and 210 times, out of all of those possibilities,
+before I even start spinning, I'll say, okay, I think that this is the most reasonable one, that I'm going to get it 4/7 of the time. But it's not saying that, hey, that I'm definitely going
+to get it 120 times, it's not saying that 118 times, or 129 times aren't reasonably possible as well. It's just saying, look, this is a reasonable prediction. I'm using the experimental probability, 4/7 probability, and so, if I'm going to do something 210 times, well, I could expect that it's going to happen 4/7 of the time. I don't know for sure that it's going to happen 4/7 of the time, but that is a reasonable
+prediction to make.

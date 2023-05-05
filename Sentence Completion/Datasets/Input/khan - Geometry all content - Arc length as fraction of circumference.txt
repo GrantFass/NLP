@@ -1,0 +1,32 @@
+- Let's say that I have a circle. My best attempt to draw a
+reasonably perfect circle. So, there you go, not too
+bad, it's a little bit of a hairy circle but you get the idea. So, this is a circle, this
+is the center of the circle, and let's say that I have
+an arc along this circle. So, I'll do the arc in green. So, I have an arc that
+is part of the circle, and it subtends an
+angle, so that's my arc. Right over there, and
+it subtends an angle, and the angle that it subtends,
+so what I mean subtends, you take each of the endpoints of the arc, go to the center of the circle, go to the center of the
+circle just like this, and so it subtends angle
+theta, right over here, so it subtends angle theta,
+and let's say that we know that angle theta is equal to two radians. So my question to you is what fraction of the entire circumference
+is this green arc? What fraction of the entire
+circumference is this green arc? And like always, pause the
+video, and give it a go. (laughs) All right, so let's
+think through it a little bit. So, you might say well how do I know that, I don't know what the
+radius of this thing is, I don't, how do I think through this? And we just have to remind
+ourselves what radians mean, what radians mean. If an arc subtends the
+angle of two radians, that means that the arc itself
+is two "radiuseseses" long. (laughs) So, this right over here, let me make this a
+little clearer, so this, if the radius is r, if this radius is, I already used that
+color, if this radius... I have trouble switching
+colors (laughs) all right. If this radius is length r, then the length, if this
+angle is two radians, then the arc that
+subtends it is going to be two radiuses long, so this
+length right over here, is two radiuses. Now, what fraction of the
+entire circumference is that? Well, the entire circumference, we know, we know this from basic geometry, the entire circumference
+is two pi times the radius, or you can say it's two pi
+radii, two pi "radiuseses", (laughs) two pi radii is
+the correct way to say it. So, what fraction is it? It's two radii, it's two radii, over two pi radii, over two pi radii, twos cancel out, rs cancel
+out, and so it is one "pith", (laughs) I guess you could say, it is one over pi of
+the total circumference.

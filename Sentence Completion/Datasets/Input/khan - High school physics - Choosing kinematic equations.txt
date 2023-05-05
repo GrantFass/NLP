@@ -1,0 +1,89 @@
+- [Instructor] In this video
+we're going to go through a few examples of setting up some problems with constant acceleration. We're not going to solve them, we're just going to look at what we know and what the question is asking for and then identify which one
+of these equations over here will be the most useful
+for helping us solve it. So before we jump into the examples, I wanna say that it is very important to understand where these equations come from to really develop a
+strong understanding of position and velocity
+and acceleration and time and how they're all
+related to one another. And Sal has a lot of
+videos that go through that and can help you build that understanding. But once you have that understanding, these equations are kind of
+like using a calculator where they help you save time. It's important to know how to add, subtract,
+to multiply and divide, so you know what a calculator
+is doing when you use it. But once you understand that, the calculator is a really valuable tool. And that's what these equations are like, they're tools that we can
+use when we understand where they come from. With that out of the way, let's
+dive into our example here. So the question says, "A light rail commuter train "accelerates at a rate of 1.35
+meters per second squared. "How long does it take
+to reach its top speed "of 80 kilometers per
+hour starting from rest?" All right, so let's unpack
+this and see what it's saying. So let's just start at the beginning. A light rail commuter train accelerates at a rate of 1.35 meters
+per second squared. So that's pretty direct, it's just telling us
+what the acceleration is. So let's write that down. The acceleration is 1.35 meters per second squared. All right, there's one thing. Okay, so let's keep going. How long does it take
+to reach its top speed of 80 kilometers per
+hour starting from rest? So that one's a little
+bit more complicated, there's more going on in here. But if we just start at
+the beginning and say, "How long does it take?" That by itself is a question. There's some more stuff afterward, but that by itself is just
+asking about the time, how long does it take? All right, so let's note that
+by circling this time here. We don't know what it is yet,
+but this is our question, we're being asked about the time. All right, so if we keep going here, we get, all right, how long does it take
+to reach its top speed of 80 kilometers per hour? That's saying its top speed
+is 80 kilometers per hour. When it's done speeding up, it'll be going at 80 kilometers per hour. So that's the final velocity or just our velocity at the time here. So that's 80 kilometers per hour. 80.0 kilometers per hour. And sometimes you'll see this
+right here written as V sub f to really explicitly say
+it's the final velocity. So the notation might vary
+in your physics class. Whatever notation you use, that's fine, but make sure to ask
+yourself what is this symbol really talking about. So anyway, 80 kilometers per hour, per hour. Okay. And so we have that. And then if we keep going, it says, "Starting from rest." So that's saying that at the
+beginning when it starts, it's at rest, which means it has zero for it's initial velocity, it's just sitting there. So let's fill that in, that's zero meters per second. Okay. So we had analyzed this question and we see that, actually, the change in distance didn't appear anywhere in this question, it's just these four values right here. So let's see if we can
+look at these equations and identify one that
+has all of these things and doesn't have delta x, since we don't know delta x and we're not looking for it either. So we see these two have delta x here so we can rule those out. And this one also has a delta
+x so we can rule that out. So that leaves this one. Let's see, it has velocity,
+the final velocity here, it has the initial velocity here, it has acceleration here, and then it also has time which
+is what we're looking for. So we can use this. We've figured out that for
+this question right here, we can just use that top equation. All right, and then to continue this we would plug in numbers
+and then solve for t and see what that time indeed is. So for this video, we're not going to have
+to go through that, we're just going to go through another example of setting things up. So let's go down to this
+question right here. While entering a freeway,
+a car accelerates from rest at a rate of 2.40 meters
+per second squared for 12.0 seconds. How far does the car travel
+during those 12 seconds and what is the car's final velocity? So this one actually asks two questions. Let's just focus on the
+first one to begin with, and also let's see what we know. So while entering a freeway,
+a car accelerates from rest at a rate of 2.40 meter
+per second for 12 seconds. So there's a lot of information
+here in this first sentence. So let's see, it says, "Accelerates from rest," right
+here, accelerates from rest. That tells us that the initial
+velocity is zero, right? From rest, it wasn't moving initially, it was at rest. So let's write that down. This also, just like the previous example, had an initial velocity
+of zero meters per second. That's not always the case, but it happens that in
+these two examples it was. So let's keep going. So it accelerates from rest at a rate of 2.40 meters
+per second squared. So that's telling us
+what the acceleration is, 2.40 meters per second squared. So let's write that down, 2.40
+meters per second squared, meters per second squared. And in all of these problems,
+it's important to think about whether something is moving in the positive direction
+or in the negative direction or if it's accelerating
+in the positive direction or the negative direction. It actually looks like for these examples we've chosen everything is moving in the positive direction and accelerating in that same direction. So we won't have any
+negative signs pop up, but it is important to think about that when you're doing these kinds of things, just in case something is negative and that does affect your
+answer and what's going on. But anyway, so it's accelerating forward, everything is going in the same direction. So we're thinking of the forward
+as the positive direction and they're accelerating, this car, is accelerating at 2.40
+meters per second squared. All right, and it says also that it's doing that for 12.0 seconds. So we can write that down as well, 12.0 seconds. All right, so we know three things here. And you'll find that
+in problems like this, that's the magic number. Once you have three of these, you can find out the other
+pieces using these equations. Anyway, so the first question says, "How far does the car travel
+during those 12.0 seconds?" Well, it's asking how far, so that's going to be the delta x here, this change in position. How far does it travel
+during those 12 seconds? It's going to be this value right here. So this is our question, circle it here. So now notice we don't have this, so we can look for an
+equation that doesn't have this final velocity value in it and then that will be an equation that will hopefully have these other four, but we'll have to check that. This one has that final velocity in it, so we can rule that out. I see this one also
+has the final velocity. This one doesn't have the final velocity. So let's look at that. So it has the position,
+the change in position, that's what we're looking
+for, it has it right there. The initial velocity is right here, so we have that as well. Let's see, it has time
+in it and we have time, so we will be able to plug that in. And then finally, it
+also has acceleration. So it has everything we need, it has the thing we're looking for, and it doesn't include anything
+that we just don't know, that we're not even looking for. So we found that for
+this problem right here. This second equation here is going to be the one that is most useful
+for answering the question, "How far does the car travel
+during those 12 seconds?" So that's for that question,
+but this block here actually has a second question. Maybe I'll switch to green. Let's look at this question. What is the car's final velocity? All right, so that means
+we're looking for this now. Right here, what's this? Well, we've already identified these different pieces that we know, and if we did the first
+part of the problem, we would actually have a
+value for delta x here. But assuming we didn't find that yet, we could look at this and say, "What's the car's final velocity? "I want to look for
+something that has V in it "and has these other
+three things that I know." And if you look and
+you check through here, let's see, what is it? So, yeah, it would actually
+end up being this one again. This is that equation that doesn't have the change in position in it. And so just using the green color, I'll underline this here to say that this equation is useful for this question. And actually, now that we have this value, we could've used really any
+of them that had our V in it. So our options open up once we know more than
+three different things. But anyway, hopefully going through a couple of these examples will be helpful for you when
+you run into your own questions and have to think through,
+"Okay, what do I have, "What am I looking for, "and which equation will help me "move forward and solve this question?"

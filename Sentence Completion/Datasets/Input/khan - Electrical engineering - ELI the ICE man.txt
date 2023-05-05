@@ -1,0 +1,81 @@
+- [Voiceover] Okay, it's
+time to introduce you to a new friend, ELI the ICE man. ELI the ICE man is a friend
+of every electrical engineer and what we've been taking
+about is A/C analysis, and in A/C analysis we
+limit ourselves to one type of signal and that's a sinusoid, and the sinusoid we like is called cosine. We say cosine of omega t plus phi. Omega represents the radiant
+frequency of the cosine, here it's shown in blue. That radiant frequency is omega, and phi is the phased
+layer, the phased shift. And if we look here we see this
+isn't really a cosine wave, because the peak is a little
+before zero, time equals zero, so this distance right here
+is the lead, the phase leed, and that's phi. So when phi is a positive
+number, this whole cosine wave is shifted a little bit to the left. That's what we mean by phase shift. So in these kind of signals, our input into our favorite
+components, we're gonna get a relationship between the
+voltage and the current in those components, and it's
+related by the impedance. We define the idea of
+impedance as the ratio of voltage to current, we
+gave that the symbol z. Now in this video, instead of using v as my variable for
+voltage, I'm gonna use a different letter, I'm gonna use e. E is short for EMF or electromotive force, and it's really commonly
+used, almost as often as v, for representing voltage,
+and I'll show you why I wanna use e in a little bit. And another way I can
+write this just as easily, e equals z times i. And this looks a lot like
+Ohm's law, and what we're gonna find out here is we can
+apply this in addition to applying it to resisters, we can apply it to capacitors and inductors. So first off we're gonna look
+at our friend, the inductor. And we're gonna look at the equation e equals z i for an inductor. I'm going to assign i to be
+a sinusoid, so i is gonna be equal to some magnitude,
+we'll call it i naught, cosine omega t plus phi. So I'm gonna say my
+current is a cosine wave of this magnitude with this
+phase delay, and that's shown in blue here, so this here is i. And now let's write e
+in terms of this i here, so I can write e equals z,
+now what is z for an inductor? The impedance of an inductor
+is j omega l, and what is i? i is sitting right here,
+and I'm gonna represent i like this, I'm gonna
+represent i as a phasor, or a phasor representation. And we said that that
+could be represented as i, the magnitude of the current
+indicated at the angle of phi, so these are equivalent
+representations of i, this is the time domain representation, and this is the phasor representation. Now what we have out here in
+front of i is a scaling factor, there's this complex j that
+we'll take care of in a second, and there's omega l. So omega is the frequency and
+l is the size of the inductor. Now for the purposes of
+this video, when I plot out the voltage over here in
+orange, we're gonna assume that this scaling factor omega l
+is one, just so that we can focus on the timing relationships between the current and the voltage. When we talked about complex
+numbers, multiplying by j, multiplying something by j represents a rotation of plus 90 degrees. And so I can write this as e equals, let's put the scaling factor
+out there, and we'll have i naught, which is the original
+magnitude of the current, and phi, it's changed here,
+phi changes, phi becomes phi and this multiplication
+by j here corresponds to adding 90 degrees to phi. So multiplying by j corresponds
+to a 90 degree phase shift, and if I draw here, this is
+now e, and the phase shift, we decided this distance right here, this distance right here
+is phi, and this distance right here is a phase leed of 90 degrees. And you'll notice I key off
+the peaks of these wave forms, because that's the easiest
+place to see the leed. So when I move to the left,
+that corresponds to a lead of plus 90 degrees. So in an inductor, in an inductor, we say that e leeds i by 90 degrees. Alright, now let's do
+it for our capacitor. And we'll do the same kind
+of thing here for capacitor we'll assign the same
+current, we'll say i equals some current, i naught, times
+cosine of omega t plus phi, and now let's work out the
+voltage across the capacitor. So the voltage across the
+capacitor, e, is the same thing we have here, e equals zi or I can write e in the capacitor equals z. Now what is impedance of a capacitor? It's one over j omega c. That's z, and i we represent
+the same way as we did before, i naught at an angle of phi. So now let's carefully
+do this multiplication. e equals one over j times one
+over omega c times i naught at an angle of phi. So here's this one over j term, now I can rewrite one over j as minus j. Now we're multiplying
+something by minus j, and multiplying by minus j
+corresponds to a rotation of minus 90 degrees, so I
+can write e one more time like this, e equals one over omega c, here's the scale factor,
+here's the original current magnitude, and
+I get the angle of phi, this time minus 90 degrees. So this minus sign here
+corresponds to a lag, a phase lag, so here's our original current
+here, let me label that, here's i, and now we have our
+voltage, e looks like this, here's e, and what we
+see, let me go out here and measure it here,
+here we have a phase lag, where it's pointing to
+the right of 90 degrees. And that we call a lag. We can summarize that, we
+can say in a capacitor, we say e lags i. And an equivalent way to say this is we could say that i leeds e. I leeds voltage. So I can actually put boxes
+around these two results, here and here. Now there's a lot of sign
+flipping going on here, and there's actually an
+easy way to remember this, and I wanna introduce you
+to someone who can help you remember this, and his
+name is ELI the ICE man. So what can Eli tell us? ELI tells us that in an
+inductor, an l, voltage, leeds current, and over
+here in a capacitor, c, current leeds voltage. That's the message from ELI the ICE man, he helps us remember the
+order that voltage and current change in inductors and capacitors. He's gonna be your friend for a long time.

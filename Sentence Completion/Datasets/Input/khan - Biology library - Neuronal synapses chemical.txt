@@ -1,0 +1,231 @@
+I think we have a decent idea of
+how a signal is transmitted along the neuron. We saw that a couple of
+dendrites, maybe that one and that one and that one, might
+get excited or triggered. And when we say it gets
+triggered, we're saying that some type of channel
+gets opened. That's probably the trigger. That channel allows ions to be
+released into the cell-- or actually, there are situations
+where ions can be released out of the cell. It would be inhibitory, but
+let's take the case where ions are released into the cells in
+an electrotonic fashion. It changes the charge or the
+voltage gradient across the membrane and if the combined
+effects of the change in the voltage gradient is just enough
+at the axon hillock to meet that threshold, then the
+sodium channels over here will open up, sodium floods in, and
+then we have the situation where the voltage becomes
+very positive. Potassium channels open up to
+change things again, but by the time we went very
+positive, then that eletrotonically affects
+the next sodium pump. But then we have the situation
+where that will allow sodium ions to flood in and then
+the signal keeps getting transmitted. Now the next natural question
+is, what happens at the neuron to neuron junctions? We said that this dendrite gets triggered or gets excited. In most cases, it's getting
+triggered or excited by another neuron. It could be something else. And over here, when this axon
+fires, it should be exciting either another cell. It could be a muscle cell or--
+in probably most cases of the human body-- it's exciting
+another neuron. And so how does it do that? So this is the terminal
+end of the axon. There could be the dendrite of
+another neuron right here. This is another neuron with its
+own axon, its own cell. This would trigger the
+dendrite right there. So the question is, how
+does that happen? How does the signal go from one
+neuron's axon to the next neuron's dendrite? It actually always doesn't
+have to go from axon to dendrite, but that's
+the most typical. You can actually go from axon to
+axon, dendrite to dendrite, axon to soma-- but let's just
+focus on axon to dendrite because that's the most
+traditional way that neurons transmit information from
+one to the other. So let's zoom in. Let's zoom in right here. This little box right there,
+let's zoom at the base, the terminal end of this axon
+and let's zoom in on this whole area. Then we'll also zoom in-- we're
+also going to get the dendrite of this next neuron--
+and I'm going to rotate it. Actually, I don't even
+have to rotate it. So to do that, let me draw
+the terminal end. So let's say the terminal end
+looks something like this. I'm zoomed in big time. This is the terminal
+end of the neuron. This is inside the neuron and
+then the next dendrite-- let me draw it right here. So we've really zoomed in. So this is the dendrite
+of the next neuron. This is inside the
+first neuron. So we have this action
+potential that keeps traveling along. Eventually for maybe right over
+here-- I don't know if you can zoom in-- which would
+be over here, the action potential makes the electrical
+potential or the voltage potential across this membrane
+just positive enough to trigger this sodium channel. So actually, maybe
+I'm really close. This channel is this
+one right here. So then it allows a flood of
+sodium to enter the cell. And then the the whole
+thing happens. You have potassium that can then
+take it out, but by the time this comes in, this
+positive charge, it can trigger another channel and it
+could trigger another sodium channel if there's other sodium
+channels further down, but near the end of
+the axon there are actually calcium channels. I'll do that in pink. So this is a calcium channel
+that is traditionally closed. So this is a calcium
+ion channel. Calcium has a plus 2 charge. It tends to be closed, but
+it's also voltage gated. When the voltage gets high
+enough, it's very similar to a sodium voltage gated channel is
+that if it becomes positive enough near the gate, it will
+open up and when it opens up, it allows calcium ions to
+flood into the cell. So the calcium ions, their
+plus 2 charge, to flood into the cells. Now you're saying, hey Sal, why
+are calcium ions flooding into the cells? These have positive charge. I just thought you said that the
+cell is becoming positive because of all the sodium
+flowing in. Why would this calcium
+want to flow in? And the reason why it wants to
+flow in is because the cell also-- just like it pumps out
+sodium and pumps in potassium, the cell also has calcium ion
+pumps and the mechanism is nearly identical to what I
+showed you on the sodium potassium pump, but it just
+deals with calcium. So you literally have these
+proteins that are sitting across the membrane. This is a phospobilipid
+layer membrane. Maybe I'll draw two layers here
+just so you realize it's a bi-layer membrane. Let me draw it like that. That makes it look a little bit
+more realistic, although the whole thing is not
+very realistic. And this is also going to
+be a bilipid membrane. You get the idea, but
+let me just do it to make the point clear. So there are also these calcium
+ion pumps that are also subsets of ATPases, which
+they're just like the sodium potassium pumps. You give them one ATP and a
+calcium will bond someplace else and it'll pull apart the
+phosphate from the ATP and that'll be enough energy to
+change the confirmation of this protein and it'll
+push the calcium out. Essentially, what was the
+calcium will bond and then it'll open up so the calcium
+can only exit the cell. It's just like the sodium
+potassium pumps, but it's good to know in the resting state,
+you have a high concentration of calcium ions out here and
+it's all driven by ATP. A much higher concentration on
+the outside than you have on the inside and it's driven
+by those ion pumps. So once you have this action
+potential, instead of triggering another sodium gate,
+it starts triggering calcium gates and these calcium
+ions flood into the terminal end of this axon. Now, these calcium ions, they
+bond to other proteins. And before I go to those other
+proteins, we have to keep in mind what's going on near this
+junction right here. And I've used the word
+synapse already-- actually, maybe I haven't. The place where this axon is
+meeting with this dendrite, this is the synapse. Or you can kind of view it as
+the touching point or the communication point or
+the connection point. And this neuron right
+here, this is called the presynaptic neuron. Let me write that down. It's good to have a little
+terminology under our belt. This is the post-synaptic
+neuron. And the space between the two
+neurons, between this axon and this dendrite, this is called
+the synaptic cleft. It's a really small space in the
+terms of-- so what we're going to deal with in this video
+is a chemical synapse. In general, when people talk
+about synapses, they're talking about chemical
+synapses. There also are electrical
+synapses, but I won't go into detail on those. This is kind of the most
+traditional one that people talk about. So your synaptic cleft in
+chemical synapses is about 20 nanometers, which
+is really small. If you think about the average
+width of a cell as about 10 to 100 microns-- this micron
+is 10 to the minus 6. This is 20 times 10 to
+the minus 9 meters. So this is a very small distance
+and it makes sense because look how big
+the cells look next to this small distance. So it's a very small distance
+and you have-- on the presynaptic neuron near
+the terminal end, you have these vesicles. Remember what vesicles were. These are just membrane bound
+things inside of the cell. So you have these vesicles. They also have their
+phospobilipid layers, their little membranes. So you have these vesicles so
+these are just-- you can kind of view them as containers. I'll just draw one more
+just like that. And they can train these
+molecules called neurotransmitters and
+I'll draw the neurotransmitters in green. So they have these
+molecules called neurotransmitters in them. You've probably heard
+the word before. In fact, a lot of drugs that
+people use for depression or other things related to our
+mental state, they affect neurotransmitters. I won't go into detail there,
+but they contain these neurotransmitters. And when the calcium channels--
+they're voltage gated-- when it becomes a little
+more positive, they open calcium floods in and what
+the calcium does is, it bonds to these proteins that
+have docked these vesciles. So these little vesicles,
+they're docked to the presynpatic membrane or to this
+axon terminal membrane right there. These proteins are actually
+called SNARE proteins. It's an acronym, but it's also
+a good word because they've literally snared the vesicles
+to this membrane. So that's what these
+proteins are. And when these calcium ions
+flood in, they bond to these proteins, they attach to these
+proteins, and they change the confirmation of the proteins
+just enough that these proteins bring these vesicles
+closer to the membrane and also kind of pull apart the
+two membranes so that the membranes merge. Let me do a zoom in of that
+just to make it clear what's going on. So after they've bonded-- this
+is kind of before the calcium comes in, bonds to those SNARE
+proteins, then the SNARE protein will bring the vesicle
+ultra-close to the presynaptic membrane. So that's the vesicle and then
+the presynaptic membrane will look like this and then you
+have your SNARE proteins. And I'm not obviously drawing it
+exactly how it looks in the cell, but it'll give you the
+idea of what's going on. Your SNARE proteins have
+essentially pulled the things together and have pulled them
+apart so that these two membranes merge. And then the main side effect--
+the reason why all this is happening-- is it allows
+those neurotransmitters to be dumped into the
+synaptic cleft. So those neurotransmitters
+that were inside of our vesicle then get dumped into
+the synaptic cleft. This process right here
+is called exocytosis. It's exiting the cytoplasm,
+you could say, of the presynaptic neuron. These neurotransmitters-- and
+you've probably heard the specific names of many of
+these-- serotonin, dopamine, epinephrine-- which is also
+adrenaline, but that's also a hormone, but it also acts
+as a neurotransmitter. Norepinephrine, also both
+a hormone and a neurotransmitter. So these are words that you've
+probably heard before. But anyway, these enter into
+the synaptic cleft and then they bond on the surface
+of the membrane of the post-synaptic neuron
+or this dendrite. Let's say they bond here, they
+bond here, and they bond here. So they bond on special proteins
+on this membrane surface, but the main effect of
+that is, that will trigger ion channels. So let's say that this neuron
+is exciting this dendrite. So when these neurotransmitters
+bond on this membrane, maybe sodium
+channels open up. So maybe that will cause a
+sodium channel to open up. So instead of being voltage
+gated, it's neurotransmitter gated. So this will cause a sodium
+channel to open up and then sodium will flow in and then,
+just like we said before, if we go to the original one,
+that's like this getting excited, it'll become a little
+bit positive and then if it's enough positive, it'll
+electrotonically increase the potential at this point on the
+axon hillock and then we'll have another neuron-- in this
+case, this neuron being stimulated. So that's essentially
+how it happens. It actually could
+be inhibitory. You could imagine if this,
+instead of triggering a sodium ion channel, if it triggered
+a potassium ion channel. If it triggered a potassium ion
+channel, potassium ion's concentration gradient will
+make it want to go outside of the cell. So positive things are
+going to leave the cell if it's potassium. Remember, I used triangles
+for potassium. And so if positive things leave
+the cell, then if you go further down the neuron, it'll
+become less positive and so it'll be even harder for the
+action potential to start up because it'll need even more
+positive someplace else to make the threshold gradient. I hope I'm not confusing
+you when I say that. So this connection,
+the way I first described it, it's exciting. When this guy gets excited
+from an action potential, calcium floods in. It makes these vesicles dump
+their contents in the synaptic cleft and then that will make
+other sodium gates open up and then that will stimulate this
+neuron, but if it makes potassium gates open up, then
+it will inhibit it-- and that's how, frankly, these
+synapses work. I was about to say there's
+millions of synapses, but that'd be incorrect. There's trillions of synapses. The best estimate of the number
+of synapses in our cerebral cortex is 100 to 500
+trillion synapses just in the cerebral cortex. The reason why we can have so
+many is that one neuron can actually form many, many,
+many, many synapses. I mean, you can imagine if this
+original drawing of a cell, you might have a synapse
+here, a synapse here, a synapse there. You could have hundreds or
+thousands of synapses even, into one neuron or going
+out of one neuron. This might be a synapse with
+one neuron, another one, another one, another one. So you'd have many, many, many,
+many, many connections. And so synapses are really what
+give us the complexity of what probably make us tick in
+terms of our human mind and all of that. But anyway, hopefully you
+found this useful.

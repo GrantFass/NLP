@@ -1,0 +1,41 @@
+- [Instructor] Let's say
+that we have some number a and to that we are going
+to add some number b and that sum is going to be equal to c. Let's say that we're also told that both a and b are irrational. Irrational. So based on the information
+that I've given you, a and b are both irrational. Is their sum, c, is that going
+to be rational or irrational? I encourage you to pause the video and try to answer that on your own. I'm guessing that you might have struggled with this a little bit
+because the answer is that we actually don't know. It depends on what irrational
+numbers a and b actually are. What do I mean by that? Well, I can pick two irrational numbers where their sum actually
+is going to be rational. What do I mean? Well what if a is equal to pi and b is equal to one minus pi? Now both of these are irrational numbers. Pi is irrational and one minus
+pi, whatever this value is, this is irrational as well. But if we add these two things together, if we add pi plus one minus pi, one minus pi, well these are gonna add up to be equal to one, which is clearly going
+to be a rational number. So we were able to find one scenario in which we added two irrationals and the sum gives us a rational. In general you could do this trick with any irrational number. Instead of pi you could've had square root of two plus one
+minus the square root of two. Both of these, what we have in this
+orange color is irrational, what we have in this
+blue color is irrational, but the sum is going to be rational. And you could do this,
+instead of having one minus, you could have this as 1/2 minus. You could have done it a bunch
+of different combinations so that you could end up
+with a sum that is rational. But you could also easily
+add two irrational numbers and still end up with
+an irrational number. For example, if a is pi and b is pi, well then their sum is
+going to be equal to two pi, which is still irrational. Or if you added pi plus the square root of two, this is still going to be irrational. In fact, mathematically
+I would just express this as pi plus the square root of two. This is some number right over here, but this is still going to be irrational. So the big takeaway is
+if you're taking the sums of two irrational numbers and people don't tell you anything else, they don't tell you which specific irrational numbers they are, you don't know whether their sum is going to be rational or irrational. Now let's think about products. Similar exercise, let's
+say we have a times b is equal to c, ab is equal to c, a times b is equal to c. And once again, let's
+say someone tells you that both a and b are irrational. Pause this video and think about whether c must be rational, irrational, or whether we just don't know. Try to figure out some examples like we just did when we looked at sums. Alright, so let's think about, let's see if we can construct examples where c ends up being rational. Well one thing, as you
+can tell I like to use pi, pi might be my favorite irrational number. If a was one over pi and b is pi, well, what's their product going to be? Well, their product is going
+to be one over pi times pi, that's just going to be pi
+over pi, which is equal to one. Here we got a situation where
+the product of two irrationals became, or is, rational. But what if I were to multiply, and in general you could this with a lot of irrational numbers, one over square root of two
+times the square of two, that would be one. What if instead I had pi times pi? Pi times pi, that you could
+just write as pi squared, and pi squared is still
+going to be irrational. This is irrational, irrational. It isn't even always the case that if you multiply the
+same irrational number, if you square an irrational number that it's always going to be irrational. For example, if I have
+square root of two times, I think you see where this is going, times the square root of two, I'm taking the product of
+two irrational numbers. In fact, they're the
+same irrational number, but the square root of two
+times the square root of two, well, that's just going
+to be equal to two, which is clearly a rational number. So once again, when
+you're taking the product of two irrational numbers, you don't know whether the product is going to be rational or irrational unless someone tells you
+the specific numbers. Whether you're taking the product or the sum of irrational numbers, in order to know whether
+the resulting number is irrational or rational,
+you need to know something about what you're taking
+the sum or the product of.

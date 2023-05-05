@@ -1,0 +1,89 @@
+- [Voiceover] If you shine
+infrared light on a molecule, it's possible for the molecule to absorb energy from the light. Energy from the light can
+cause a bond to stretch. We call that a stretching vibration. You can have other kinds
+but we're only going to focus on stretching here. The stretching vibration of a
+bond is like the oscillation of a spring so you can think about a bond as being like a spring. Let's think about this bond right here. The bond between the
+carbon and the hydrogen. We're going to model
+that bond as a spring. We're going to attempt
+to draw a spring in here. So here's the spring. Then let's put in the carbon on one side. So we have the carbon on one side and the hydrogen on the other side. So the stretching vibration of the bond is like the oscillation of the spring. So if you had a spring
+and you had two masses on either end of the spring,
+if you put some energy in, you can stretch that spring. So you could pull the carbon this way and you could pull the hydrogen
+that way so it's like the stretching of this bond here. We know that springs also contract. So then the spring can
+pull back in this direction and you get an oscillation
+of the spring which is once again how we model the
+stretching vibration of a bond. Let's look at the IR
+spectrum for this molecule. So we're talking about one octyne here. If you shine a range of
+infrared frequencies through a sample of this compound, some of the frequencies are
+absorbed by the compound. You can tell which
+frequencies are absorbed by looking at your infrared spectrum here. For right now, let's
+think about these numbers, like 3,000 or 4,000. Let's think about those as representing frequencies of light. Over here we have "% transmittance." If you had 100 percent transmittance, let me go ahead and draw a line up here. So 100 percent transmittance,
+let's say we're talking about this frequency of light. I look at the frequency
+of light, I go up to here, and I can see I have 100
+percent transmittance. 100 percent transmittance
+means all that light was transmitted through your sample. If all the light went through your sample, nothing was absorbed. So this particular frequency was not absorbed by your compound. If you're talking about less
+than 100 percent transmittance, let's say for this frequency right here. So for this frequency,
+we have the signal here, appearing at this frequency. We don't have 100 percent
+transmittance so that means not all of the light went
+through the compound. Some of it was absorbed. So this specific frequency
+was absorbed by the molecule. That energy can cause a bond to stretch, and we get a stretching vibration. Actually this signal
+corresponds to the bond that we've been talking about. So this signal indicates the stretching of this bond right here. Let's think about wave number next. We just talked about
+percent transmittance, let's think about wave number. I've been calling all
+these things frequencies, different frequencies of light. Let's see how wave number
+relates to the frequency of light and also the wavelength of light. The definition of wave
+number, so a wave number, here's the symbol for wave number. The definition of wave
+number is it's equal to one over the wavelength in centimeters. So if we had a wavelength of
+light of .002 centimeters, so let's go ahead and plug that in. A wavelength of light of .002 centimeters, what would be the wave number? Let's get out the calculator
+here and let's do that math. One divided by .002 is equal to 500. So that's equal to 500. Your units would be one over centimeters, or you could write that,
+meaning the same thing. So that's the wave number. That's the wave number. If you go over here, a wave number of 500, you can think about
+this corresponding to a particular wavelength of light. Of course this also relates
+to frequency because we know that wavelength and frequency
+are related to each other. So let's get some more room down here. We know that the wavelength
+times the frequency, wavelength times the frequency, so lambda times nu, is
+equal to the speed of light. That's equal to c. So if I wanted to solve for
+the frequency, solve for nu, the frequency is equal to
+the speed of light divided by lambda divided by the wavelength. That's the same thing as one over lambda times the speed of light. One over lambda was our
+definition for wave number. So you can say that the
+frequency of light is equal to the wave number
+times the speed of light. So let's go ahead and do
+that calculation here. We talked about this as being
+a particular wavelength. We found the wave number. Let's plug that wave number
+into here and see what we get. So the wave number was 500. Units were one over centimeters. Multiply that by the speed of light. We need to have the speed
+of light in centimeters. That's three times approximately, three times 10 to the tenth
+centimeters per second is the speed of light. Notice what happens to the units. The centimeters cancel. Let's do that math. Let's get some room over here. We take the wave number
+and we multiply that by the speed of light in centimeters. So three times 10 to the tenth. We get 1.5 times 10 to the thirteenth. The frequency would be 1.5
+times 10 to the thirteenth. The units would be one over seconds or you could use hertz for that. A wave number corresponds
+to the wavelength, And you can also get
+the frequency from that. So we have, let me just
+rewrite this really quickly, so frequency is equal to wave number times the speed of light. Wave number is equal to the frequency divided by the speed of light. We'll use this in a later video. We'll come back to this idea. For right now the frequency
+of light is directly proportional to the wave number. You can look at an infrared spectrum and, go back up here. You can look at an infrared
+spectrum and call this down here, you can call this wave number, you can refer to it as a frequency, you can call it whatever
+you want as long as you understand what's going on here. Let's look more in detail
+at this infrared spectrum. Let's draw a line at approximately 1,500 wave numbers right here. The left side, the left side of that line, so we've divided our
+spectrum into two regions. The region on the left is
+called the diagnostic region. So this is called, this is called the diagnostic region of our spectrum. It's because a signal in
+this region can be diagnostic for a certain functional group. For example, this signal right here, if we go down here to the wave number, that signal is at approximately 2,100 for this wave number here. That's corresponding to
+the triple bond here. This tells us a functional group. This tells us that a
+functional group is present. This triple bond is present. It's diagnostic. It helps you figure out the
+structure of the molecule. You can figure out
+different functional groups present in molecules using IR spectra. So the right side, the
+right side of this line is called the fingerprint region. So this is the fingerprint region. It's harder to interpret
+the fingerprint region. It's much more complicated. It's not as easy to see different signals. It's extremely complicated, but it is unique to each molecule. So it's like a fingerprint
+for the molecule and so you can match up IR spectra. If you have an unknown you can look at the fingerprint region, and again it's unique. All these different lines
+are unique to that molecule. So we have the diagnostic region
+and the fingerprint region. We're not gonna deal much
+with the fingerprint region. Maybe a little bit. We're going to focus in
+on the diagnostic region. We're gonna focus where
+the signals appear. All right, so I look at the signal, I go down to here, and I
+get a specific wave number. So the location of the
+signal is pretty important. I did want to point out that,
+if you look at what I used for the wave number here, I
+changed how I did everything. So the spacing is different. It doesn't really matter. I only did this to fit
+this video and to make it work for this video. I'm also gonna hand
+draw all my IR spectra, so it's really not gonna be perfect. The idea is not worry
+too much about what they give you here for the
+scaling for the wave number. Think about where the signals appear. So the location of this
+signal, approximately 2,100 wave numbers. You also want to think about
+the intensity of the signal, and the shape of the signal. We'll talk much more about
+those in later videos. On the next video we need
+to develop this idea of bonds as springs a little bit more. So we'll think a little bit
+about some classical physics.

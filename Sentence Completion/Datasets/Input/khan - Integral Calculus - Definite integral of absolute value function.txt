@@ -1,0 +1,53 @@
+- [Voiceover] So we
+have f of x being equal to the absolute value of x plus two. And we wanna evaluate
+the definite integral from negative four to zero of f of x, dx. And like always, pause this video and see if you can work through this. Now when you first do this you might stumble around a little bit, because how do you take the anti-derivative of an absolute value function? And the key here is to,
+one way to approach it is to rewrite f of x
+without the absolute value and we can do that by rewriting it as a piecewise function. And the way I'm gonna
+do it, I'm gonna think about intervals where whatever we take inside the absolute value's
+going to be positive and other intervals where everything that we take inside the absolute value is going to be negative. And the point at which we change is where x plus two is equal to zero or x is equal to negative two. So let's just think about the intervals x is less than negative
+two and x is greater than or equal to negative two. And this could have been less than or equal, in which case this
+would have been greater than, either way it would
+have been equal to this absolute vale, this is a
+continuous function here. And so when, let's do the easier case. When x is greater than
+or equal to negative two then x plus two is going to be positive, or it's going to be greater than or equal to zero, and so
+the absolute value of it is just going to be x plus two. So it's going to be x plus two when x is greater than
+or equal to negative two. And what about when x is
+less than negative two? Well when x is less than negative two, x plus two is going to be negative, and then if you take the absolute value of a negative number you're gonna take the opposite of it. So this is going to be
+negative x plus two. And to really help grok
+this, 'cause frankly this is the hardest part
+of what we're doing, and really this is more
+algebra than calculus. Let me draw the absolute value function to make this clear. So that is my x-axis, that is my y-axis and let's say we're here at negative two. And so when we are less
+than the negative two, when x is less than negative two my graph is going to look like this. It is going to look something, it's gonna look like that. And when we are greater than negative two, do that in a different
+color, when we are greater than negative two it's
+going to look like this. It's going to look like that. And so notice this is in blue we have, this is the graph x plus two, we can say this is a graph of y equals x plus two. And what we have in
+magenta right over here, this is the graph of negative x minus two. It has a negative slope and we intercept the y-axis at negative two. So it makes sense. There's multiple ways that
+you could reason through this. Now once we break it up then we can break up the integral. We could say that what we wrote here, this is equal to the integral from negative four to
+two, sorry negative four to negative two of f of
+x, which is in that case it's going to be negative x minus two, I just distributed the
+negative sign there. Dx, and then plus the definite integral going from negative two to zero of x plus two, dx. And just to make sure we know what we're doin' here,
+if this is negative four right over here, this is
+zero, that first integral is gonna give us this
+area right over here. What's the area under the
+curve negative x minus two, under that curve or under that
+line and above the x-axis. And the second integral
+is gonna give us this area right over here between x plus two and the x-axis going from
+negative two to zero. And so let's evaluate each of these and you might even be able
+to just evaluate these with a little bit of triangle areas, but let's just do this
+analytically or algebraically. And so what's the
+anti-derivative of negative x? Well that's negative x-squared over two, and then we have the negative two, so this is gonna be the anti-derivative is negative two x, we're
+gonna evaluate that at negative two and negative four. And so that part is going to be what? Negative two squared, so it's the negative of negative two squared. So it's negative four over two
+minus two times negative two. So plus four. So that's it evaluated at negative two. And then minus, if we
+evaluate it at negative four. So we're gonna have minus
+negative four squared is 16 over two, minus
+two times negative four. So that is plus eight. So what is that going to give us? So this is negative two,
+this right over here is negative eight, so the
+second term right over here is just going to be equal to zero. Did I do that right? Yeah, the 16 over two, it's
+negative and this is positive. Okay, so this is just going to be zero. And this is negative two plus four which is going to be equal to two. So what we have here in
+magenta is equal to two. And what we have here in the blue, well let's see, this
+is the anti-derivative of x-squared over two, plus two x, gonna evaluate it at
+zero and negative two. You evaluate this thing at zero, it's just gonna be zero and from that you're going to subtract
+negative two squared over two. That is positive four over two which is positive two. And then plus two times negative two. So minus four. And so this is going to be the negative of negative two, or positive two. So it's two plus two. And that makes sense that what we have in magenta here is two
+and what we have over here is two, there's the symmetry here. There is a symmetry here. And so you add 'em all together and you get our integral is
+going to be equal to four. And once again, just as a reality check you could say, look,
+the height here is two, the width, the base here is two. Two times two times one-half
+is indeed equal to two. Same thing over here. So that's the more geometric argument for why that area's two, that area is two, add 'em together you get positive four.

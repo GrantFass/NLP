@@ -1,0 +1,76 @@
+Nick and Alyssa are
+racing up a wall. Alyssa's height on the wall
+is given by the equation. a is equal to 1/3
+t plus 5-- so it sounds like they're wall
+climbers of some kind-- where a is Alyssa's height in feet
+after climbing 4t seconds. Nick started racing at
+the same time as Alyssa and is also climbing
+at a constant speed. His height is shown in
+the following table. So this is t in seconds,
+time in seconds. This is height in feet. Who started out
+higher, Alyssa or Nick? So to figure out their
+starting position, we just need to
+figure out what was their height at time equals 0. That's when this
+whole race started. For Alyssa, this is
+pretty straightforward. When time is equal to 0,
+you have 1/3 times 0 plus 5. Well, that's just
+going to be 5 feet. So Alyssa's starting
+position is at 5 feet when time is equal to 0. Now, let's think about Nick's
+height at time equals 0, and there's a couple
+of ways that we can go about doing this. One is just to back up, to kind
+go backwards on this chart. So let me show you
+what I'm talking about. So if this is time, and this is,
+let's say, n for Nick's height because we have a
+for Alyssa's height. So I'm going to make
+a little table here. We already know that at time
+6 seconds, or after 6 seconds, he's 6 feet in the
+air or along the wall. At time 8, he is 7 feet in
+the air or along the wall. And at time 10, he's gotten
+to a height of 8 feet. So what's happening here? Every time 2 seconds goes
+by, he increases in 1 foot. You have another 2 seconds, he
+increases in height by 1 foot. So you could go backwards. If we take away 2
+seconds to 4 seconds, he will decrease in
+height by 1 foot. If we go back
+another 2 seconds, he will decrease in height
+by another 1 foot. The reason why we
+can say this is because we know he's
+climbing at a constant speed. So if we decrease by another 2
+seconds to our starting time, then we know that he would
+have been 1 foot lower, so he would have been at 3 feet. So just like that, we now
+know at time equals 0, Nick's height is
+3 feet in the air. So Alyssa started
+out higher than Nick. So this right over here
+would be the correct answer. Now, the other way to do it is
+set up an equation just like we had for Alyssa and
+substitute for time equals 0. And the way to do
+that is to recognize that Nick's height,
+as a function of time, is also going to be
+a linear equation. Because they're both climbing. They're both climbing
+at constant speeds, or we know that Nick is
+climbing at a constant speed. So Nick's height, as
+a function of time, is going to look like--
+Nick's height is going to be some slope,
+some rate of change, essentially his height
+per second at times time plus his initial position. So how can we solve
+for m, the slope, and his initial position? Well, the slope is just his
+rate of change of height, so it's literally how
+much does his height change per unit time? So m right over here, m is just
+going to be for a unit time, for change in time, how
+much is his height changing? And his height is--
+we used the letter n. So we already know that
+when time increases by 2, his height increases by 1 foot. So we know that m
+is equal to 1/2. He increases 1/2
+feet per second. And you see that there
+because it takes him 2 seconds to go 1 foot. So we can fill in m here. So we know now that n is
+equal to 1/2 t plus b. Now, to solve for
+b, you could just substitute one of these points. All of these points must satisfy
+this equation right over here. So we could use the point 6. So if we put a 6 in
+here, so when time is 6, we know that n is 6. So you have 6 is equal
+to 1/2 times 6 plus b. Or you get 6 is
+equal to 3 plus b. Subtract 3 from both sides,
+you get b is equal to 3. So there you have it. You get Nick's equation,
+or Nick's height as a function of time. Nick as a function
+of time is going to be equal to 1/2 t plus 3. So now we have an equation
+just like Alyssa's. And we can say, well,
+when time is equal to 0, he's at a height of
+3, which is lower than Alyssa's initial height.

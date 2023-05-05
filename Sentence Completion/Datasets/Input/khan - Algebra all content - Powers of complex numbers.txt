@@ -1,0 +1,65 @@
+I have the complex number
+cosine of two pi over three, or two thirds pi, plus
+i sine of two thirds pi and I'm going to raise
+that to the 20th power. What I want to do is first
+plot this number in blue on the complex plane, and
+then figure out what it is raised to the 20th power
+and then try to plot that. I encourage you to
+pause this video and try this out on your own
+before I work through it. Let's first focus on this
+blue complex number over here. It's clearly written in polar form. The angle is two thirds pi
+or two pi over three radians. And it's magnitude of this
+complex number is clearly one. To make that a little clearer
+you could write it in the pure polar form where you
+have its magnitude out front. It's cosine of two over three pi plus i sine of two over three pi. You could write it just like that. When you look at that the
+angle is two over three pi. That would get us, let's see. This is zero, this is pi, we're going to go two thirds of the way to pi. Each of these is one, two, three, four, five, six, seven, eight, nine, 10, 11, 12. Each of these is pi over
+12 so we're going to go, two thirds of the way would
+be eight pis over twelve. One, two, three, four,
+five, six, seven, eight. The way I was able to reason
+through that is two thirds pi is the same thing as eight pi over twelve. Each of these segments is pi over 12 so I just counted eight of them. That's that number, but now let's try to raise it to the 20th power. To do that we're going
+to use Euler's formula. Euler's formula, you might remember, tells us that e to the i theta is equal to cosine of theta plus i sine of theta. You see right over here
+this is already written in that form where theta is two thirds pi. We can rewrite what we have in blue here as e to the two thirds pi i. Then of course we're raising
+that to the 20th power. This simplifies things
+dramatically because here if I tried to
+multiply this thing times- If I had 20 of these things
+and I multiplied them together that would get really, really,
+really hairy really fast, but here I can just use
+exponent properties. This is going to be the
+same thing as e to the, if I raise something to
+exponent and then raise that to an exponent I can just take
+the product of the exponents. This is e to the 20 times
+two over three pi i, which is equal to e to
+the 40 over three pi i. Now this is this number
+raised to the 20th power but this is an awfully
+large angle right here. If we're thinking of 40 over three pi, let's just try to digest this. 40 over three pi, this
+is the same thing as- Let's see, 40 divided
+three is 13 and one third. This is the same thing as
+13 and one third times pi. We know that going two pi radians gets you around the unit circle
+once, so this is going over six times around
+the unit circle to get- Or around, I should say,
+not the unit circle, going six times around, going in circles in order to get to the point we want to. In order to simplify this a
+little bit let me subtract the largest multiple of
+two pi that I could figure, to get this in as small
+of a form as possible. We know an angle, if we have
+some angle it's equal to that angle plus some multiple of
+two pi where k is any integer. k could also be negative, we could be subtracting a multiple of two pi. Let me subtract, let's see.
+The largest multiple of two pi that I could subtract
+here is going to be 12 pi. Let me subtract 12 pi from this. If I subtract 12 pi, I'll do it down here. 13 and one third pi minus 12 pi. Remember, I'm just trying to subtract the largest multiple of two pi that I can. 13 and one third minus
+twelve is one and one third. That's going to be one and one third pi, or we could write it as four thirds pi. This complex number is going to be equivalent to e to the four thirds pi i. This makes it much simpler and
+much easier for me to plot. Four thirds pi, or the same
+thing as one and one third pi. This would be pi, and now
+we have to just go another one third pi, and each of these are 12ths. If we go four 12ths pi. Sorry,
+each of these are pi over 12, so we go four pi over 12. One, two, three, four
+gets us right over there. This number raised to
+the 20th power is this, which is equivalent to this, which we've plotted right over there. What if we wanted to take it
+to, let's say the 21st power. Then we would increase
+the angle by another two pi over three or eight pi over 12. We'd increase the angle by
+one, two, three, four, five, six, seven, eight. And we
+would go right over there. How does this make conceptual sense? The number to the first
+power was right over here, that was our original number
+is blue right over here. If you raise it to the second power then you're increasing the
+angle by two thirds pi, you're increasing the angle to go there. You raise it to the
+third power, you increase the angle by two thirds
+pi, you go over there. Fourth power you get back here. Fifth, sixth, seventh, eighth, ninth, 10th, 11th, 12th, 13th,
+14th, 15th, 16th, 17, 18, 19, 20th power gets
+us right over there.

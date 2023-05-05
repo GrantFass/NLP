@@ -1,0 +1,38 @@
+- [Voiceover] So what I
+want to talk about now are shapes of distributions
+and different words we might use to describe those shapes. So right over here, let's see, we're talking about Matt's Cafe, and we have different age buckets, so this is a histogram here. In each bucket, it tells us the number of guests that are in that age bucket. So we don't have any guests that are under the age of 20, we
+have a reasonable number between 20 and 30, we have a lot of guests at 30, in that bucket between 30 and 40, reasonable number between 40 and 50, and then as we get older, we have fewer and fewer guests. So just when you look
+at something like this, a distribution like this, something might pop out at you. It kind of looks like
+if you were to imagine this were an armadillo, this would be the body of the armadillo, and then what we see to the right kind of looks like the
+tail of the armadillo. We actually use those types of words to describe distributions. So this distribution right over here, it looks like it has a tail to the right. It doesn't have a tail to the left. In fact, we have no one
+under the age of 20. But here when we have a few people between 60 and 70, even
+fewer between 70 and 80, even fewer between 80 and 90, and you know, if it just kind of keeps going like this, this is a tail and it's on the right side, it's a right-tailed distribution. So I'd call this
+distribution right-tailed. I'm using Khan Academy exercises because it's a good way
+to see a lot of examples, and frankly, you should too because it'll help you test your knowledge. But it's not left-tailed. Left-tailed we would see
+a tail going like that. Frankly, if you're
+left-tailed and right-tailed, you're likely to be
+approximately symmetrical. Remember symmetry, you
+define a line of symmetry, and one type of symmetry
+is one where both sides of that line of symmetry are mirror images of each other. You could fold over the line of symmetry, and they'll roughly meet. This one does not meet
+that because if you were to say, hey, maybe there's
+a line of symmetry here and you tried to fold this over, it wouldn't match up, the two sides would not match up. So I feel good saying
+that it is right-tailed. So let's see. Retirement of age of each guest. Well yeah, these names aren't that great, but let's actually see
+what they're saying. They're saying by age, they're telling us the number of guests. So this is the number of guests at Logan Assisted Living. So we have a lot of guests that are between 60 and 70 years old, or reasonable that are between 50 and 60, or 70 or 80, and this distribution actually looks pretty symmetrical. If I were to draw a line of symmetry right down here, right
+at around an age of, you know, the line would be right at an age of 65, I guess you could say all this is a bucket for ages 60 to 70, then you could flip it over and it looks pretty symmetrical. Not exactly, this bucket
+doesn't quite match up to this one, but it's pretty close. These roughly match each other. These roughly match each other. So I feel good about saying it is approximately symmetrical. Now just to know what
+these other words mean, skewed to the left, or
+skewed to the right. These actually have fairly
+technical definitions when you get further in statistics, but a, I guess, easier to
+process version of them are when you're left tailed, you also tend to be skewed to the left, and when you are right-tailed, you tend to be skewed to the right. Another way to think
+about skewed to the left is that your mean is to the left of your median and mode. That might not make any sense to you. You might just want to off of the tail. If you're left-tailed,
+you're probably left skewed. If you're right-tailed,
+you're probably right skewed. So let's keep going. Let's see another example. So this interesting. We're not given a histogram here. We're not given a bar graph. We're given a box and whiskers plot, which is really just telling us the different quartiles. So just to remind ourselves, this tells us the minimum of our data set, the bottom of our range, so the minimum value in our data set. We have at least one 11, and then the maximum
+value of our data set, we have at least one 25. Now this line right
+over here is the median. The middle number is 21. Then the box defines the middle 50% of our numbers. So it's kind of the meat
+of our distribution. So if we were to try to visualize what this would look like
+as maybe a histogram, and we don't know for
+sure because we might have a whole bunch of 11s, not so much that it skews this, but we could have more than one. But a distribution that this could match up with is something that looks like having a tail down here, and then you kind of bump up here. This is the meat of the distribution. It kind of looks something like that, and I can't draw because I'm doing this on the exercises right now. But for something like that, well something like that would have a tail to the left, would have
+a tail to the left. It's range goes fairly low to the left, but it might not have
+a lot of value there. If I had more values on the left side, this box would have been shifted over because a larger
+percentage would have been on the left, so to speak. So this one, I feel
+pretty good about saying this is skewed to the left. It's definitely not symmetrical. If it was symmetrical, the median would be pretty close to the center, the box would be pretty centered. It's not skewed to the right. If it was skewed to the right, you would have a tail to the right, you would have, this whisker would likely be much, much, much longer. And we're done.

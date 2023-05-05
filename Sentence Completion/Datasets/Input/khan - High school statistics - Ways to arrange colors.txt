@@ -1,0 +1,57 @@
+In one game, a code made using
+different colors is created by one player, the codemaker,
+and the other player, the codebreaker, tries to
+guess the code. The codemaker gives hints about
+whether the colors are correct and in the
+right position. All right. The possible colors are blue--
+let me underline these in the actual colors-- blue, yellow,
+white, red, orange and green. Green is already written in
+green, but I'll underline it in green again. And green. How many 4-color codes
+can be made if the colors cannot be repeated? To some degree, this whole
+paragraph in the beginning doesn't even matter. If we're just choosing from--
+let's see, we're choosing from-- how many colors
+are there? There's 1, 2, 3, 4, 5, 6 colors,
+and we're going to pick 4 of them. How many 4-color codes
+can be made if the colors cannot be repeated? And since these are codes, we're
+going to assume that blue, red, yellow and green,
+that this-- that that is different than green, red,
+yellow and blue. We're going to assume that these
+are not the same code. Even though we've picked the
+same 4 colors, we're going to assume that these are 2
+different codes, and that makes sense because we're
+dealing with codes. So these are different codes. So this would count as 2
+different codes right here, even though we've picked
+the same actual colors. The same 4 colors,
+we've picked them in different orders. Now, with that out of the way,
+let's think about how many different ways we can
+pick 4 colors. So let's say we have
+4 slots here. 1 slot, 2 slot, 3 slot
+and 4 slots. And at first, we care only
+about, how many ways can we pick a color for that slot right
+there, that first slot? We haven't picked
+any colors yet. Well, we have 6 possible colors,
+1, 2, 3, 4, 5, 6. So there's going to be 6
+different possibilities for this slot right there. So let's put a 6 right there. Now, they told us that the
+colors cannot be repeated, so whatever color is in this slot,
+we're going to take it out of the possible colors. So now that we've taken that
+color out, how many possibilities are when we go
+to this slot, when we go to the next slot? How many possibilities
+when we go to the next slot right here? Well, we took 1 of the 6 out for
+the first slot, so there's only 5 possibilities here. And by the same logic when we
+go to the third slot, we've used up 2 of the slots-- 2 of
+the colors already, so there would only 4 possible
+colors left. And then for the last slot, we
+would've used up 3 of the colors, so there's only
+3 possibilities left. So if we think about all of the
+possibilities, all of the permutations-- and permutations
+are when you think about all the
+possibilities and you do care about order; where you say that
+this is different than this-- this is a different
+permutation than this. So all of the different
+permutations here, when you pick 4 colors out of a possible
+of 6 colors, it's going to be 6 possibilities for
+the first 1, times 5 for the second bucket, times 4 for
+the third or the third bucket of the third position,
+times 3. So 6 times 5 is 30, times
+4 is times 3. So 30 times 12. So this is 30 times 12, which is
+equal to their 360 possible 4-color codes.

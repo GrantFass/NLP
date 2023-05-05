@@ -1,0 +1,86 @@
+- [Voiceover] Let's say we're
+doing a titration and we start with 20 mL of .500 molar HCl. So we're starting with a strong acid, and to the strong acid, we're going to add a solution of a strong base. We're going to add a .500
+molar solution of NaOH, and as we add the base, the
+pH is going to increase, and we can show this
+on our titration curve. So we put the pH on the
+y-axis, and on the x-axis we put the volume of
+base that we are adding. So in part A, our goal is to find the pH before we've added any
+of our sodium hydroxide, so the addition of 0.0 mL of our base. So if we haven't added any base, the only thing we have present is acid. We know that HCl is a strong acid, so it is going to ionize 100%. So if HCl donates a proton to H2O, then we get H3O plus, and
+we would get the conjugate base to HCl, which is Cl minus. If we're starting with a
+concentration of .500 molar HCl, let's go ahead and write
+that, .500 molar HCl, and since we know this is 100% ionization because we have a strong acid,
+that's the same concentration of hydronium ions that we'll
+have in solution, so we have .500 molar for the
+concentration of hydronium ions. Now it's easy to find
+the pH because we know that the pH is equal to the negative log of the concentration of hydronium ions. So let's go ahead and do the calculation. We take the negative log of
+the concentration of hydronium which is .500, so that gives us .301. So we plug this into here, and
+we get a pH equal to 0.301. So we can find that point
+on our titration curve. It's right here at the beginning. We've added 0.0 mL of
+base, and our pH looks like it's just above zero here
+on our titration curve, and we calculated it to be .301. Let's find another point
+on our titration curve, this time after we add 10 mL of our base. So we find 10 mL of our base right here, and we're trying to find this point. So what is the pH after we add 10 mL? Well it looks like it's
+pretty close to one. Let's see if we can
+calculate what the pH is. So if we're adding base,
+we know that the base that we're adding, the hydroxide ions that we're adding, are going to neutralize the hydronium ions that
+are already present. So first, let's calculate how many moles of hydronium ions that
+we had present here. So the concentration of
+hydronium ions is .500. Let's get some more room down here. We know the concentration
+of hydronium ions is equal to .500 molar, and
+we know that concentration, or molarity, is equal
+to moles over liters. So if this is the molarity,
+that's equal to the moles of H3O plus over the liters,
+so what was the original volume of acid that we started with? Let's go back up here to our problem. We started with 20 milliliters, so let's write that right here, 20.00 mL. If I want to convert that into liters, I move my decimal place three to the left. One, two, three. So that's .02 liters. Let me go ahead and write
+that in here, so we have... We have .02 liters, and they're
+going to be a lot of zeros in this video and it would be
+annoying if I said them all, so I'm just going to say .02 and not list all of those zeros that we have. So to solve for moles, we
+just multiply .5 by .02. So we would come out with
+the moles of H3O plus, and this is equal to
+.01 moles of H3O plus. So that's the moles of acid
+that we're starting with and we're going to add some base. We're adding some sodium hydroxide, and we know sodium
+hydroxide is a strong base, so the concentration of sodium hydroxide is the same as the
+concentration of hydroxide ions. Na plus and OH minus. So .500 molar solution of sodium hydroxide is .500 molar for hydroxide
+ions, so we write down here the concentration of
+hydroxide ions is equal to .500 molar, and once again
+we need to figure out how many moles of hydroxide ions that we have, and what's the volume. We have 10 milliliters, so
+in liters that would be, move our decimal place
+three, so that's .01. So this is equal to .01 for our liters. Solve for moles. So we would just multiply .5 by .01 and we would get our moles equal to .005. So that's how many moles
+of hydroxide ions we have. Now that we've found moles of
+both our acid and our base, we can think about the
+neutralization reaction that occurs. The base that we add
+is going to neutralize the acid that we had present. So we had hydronium ions
+present, and we added some base. So the acid donates a proton to the base. If OH minus picks up an
+H plus, then we get H2O. If H3O plus donates a
+proton, we get another molecule of H2O, so we end
+up with two H2O over here. Or, if you prefer, instead
+of writing H3O plus, you could have just written
+H plus as your proton, and your proton reacts with
+hydroxide to give you water. So either way of representing the neutralization reaction is fine. So let's plug in our moles here. We know that we started
+with .01 moles of H3O plus, so let me write that down here. .01 moles of H3O plus,
+and we started with, and we added I should say,
+.005 moles of hydroxide. We added .005 moles of hydroxide ions. All of the hydroxide is going to react. It's going to neutralize the
+same amount of hydronium ions. So we're going to lose
+all of our hydroxide ions because the base is going to
+completely react with our acid, so we're left with zero moles of our base. If we're losing that much hydroxide, we're also going to lose
+that much hydronium, so that much is reacting
+with the hydroxide ions. We're losing the same
+amount of hydronium ions. So .01 minus .005 is of
+course equal to .005. That's how many moles of
+hydronium are left over. We've neutralized half of
+the hydronium ions present, and so we have another half left over. So one half of the acid
+has been neutralized, so one half of the acid is left. Let's think about the new concentration of hydronium ions in
+solution, so the concentration of hydronium is equal
+to moles over liters. That would be .005 moles of H3O plus. Well, what is the new volume? We started with 20 mL
+of our acid, and to that we added 10 mL of our base. So right up here, we
+added 10 mL of our base. The new volume is 30 mL. We added 10 mL, so our
+new volume is 30 mL. So to find the new
+concentration of hydronium ions, we need to use 30 mL, or .03 liters. One, two, three. So this would be .03 liters, and we can get our concentration. So let's get out the calculator here and let's take .005, we're
+going to divide that by .03, and we get our concentration
+of hydronium ions to be .17. So our concentration
+is equal to .17 molar. Now that we know our
+concentration of hydronium ions, so our concentration is
+.17, we can find the pH, because of course the pH is equal to the negative log of the
+concentration of hydronium ions, so the negative log of .17. So we get out our
+calculator one more time, and we find the negative log of .17. That gives us a pH of .77. So our pH is equal to,
+our pH is equal to .77. So now, now we know, we add 10 mL of base and the pH is .77, so let's go back to our titration curve up here and find that point we talked about earlier. So we found this point right
+here after 10 mL of base. This pH right here is .77. We just did the calculation to show it. On the next video, we'll
+analyze this titration curve. We'll looks at some more points on it.

@@ -1,0 +1,185 @@
+In the previous video, we saw
+how induction and resonance affect ortho-para directors
+that are strong activators. This video is really
+just a continuation of the previous video
+so make sure you've seen that one first. In that video, we
+saw that when you have an atom with a lone
+pair of electrons that's right next to the
+carbon on your benzene, ring that lone pair of electrons
+can participate in resonance and it can be conjugated into
+the pi system of your ring. That increases the
+electron density of your ring, which
+activates the ring towards electrophilic
+aromatic substitution since the ring can be
+a better nucleophile, and the positively-charged
+sigma complex is better stabilized by the
+increased electron density. And so that's where
+the activated portion comes in for this molecule so
+that lone pair of electrons can activate the ring towards
+electrophilic aromatic substitution. However, it's only a moderate
+activator and not a strong one like we saw on the
+previous video. And the explanation for that
+observation comes from the fact that this lone pair of
+electrons can participate in resonance
+outside of the ring. So if I go ahead and draw
+a resonance structure here. I have my benzene ring. I now have my nitrogen
+double bonded to this carbon. That carbon is
+bonded to an R group. The nitrogen is
+bonded to a hydrogen, and now my oxygen
+has three lone pairs of electrons around it giving
+it a negative 1 formal charge. The nitrogen now is a
+plus 1 formal charge. So the electrons in
+magenta moved in here to form a pi bond, and because
+those electrons in magenta are tied up in resonance
+outside of the ring, they can't donate as much
+electron density to the ring, and so that's why it's only
+a moderate activator instead of a strong one. Let's look at an example
+of a weak activator so something like toluene here,
+so a methyl group on a benzene ring. All of the carbons
+on our benzene ring are SP2 hybridized so
+all of those carbons have free P orbitals. Let me go ahead and
+sketch a free P orbital on all of my carbons. So I have my six pi electron
+system here in my benzene ring, and so those electrons are
+delocalized in my pi system like that. I also have a
+methyl group, right? So let's go ahead and sketch
+in the methyl group here. So I have a carbon bonded
+to three hydrogens, and it turns out one of
+those carbon hydrogen sigma bonds can
+actually interact with the pi system of our ring. So we could think
+about this sigma bond right here interacting with
+the pi system, and therefore, increasing or donating some
+electron density to that ring. And since that sigma bond can
+interact weakly and donate some electron
+density to that ring, we can think about
+the methyl group as being an activator
+activating the ring towards electrophilic
+aromatic substitution. So you could call this
+interaction sigma conjugation, you could call it
+hyperconjugation, whatever you want to call it, but there
+is a little bit of electron donation to the pi
+system, therefore, making it an activator. However, this sigma
+conjugation is nowhere near as strong as the
+full conjugation that we saw in
+the previous video with the oxygen and nitrogen. And so since sigma conjugation
+is not as strong of an effect, that's why this is
+only a weak activator. Let's look at one more example
+of an ortho-para director, and this one is the exception. This is an ortho-para director
+that is a deactivator here. So a halogen on a
+benzene ring will still direct substituents
+ortho and para to it because of the resonance
+structures that you can draw. However, it turns out to be
+a deactivator most the time. The reactions are slower than
+that of benzene on its own. Let's first examine
+the inductive effect that the halogen has
+on our benzene ring. So let me go ahead and
+write induction here. If we think about the sigma
+bond between the carbon on the ring and the halogen--
+so this is our generic halogen here with an X-- halogens a
+are relatively electronegative, more electronegative
+than carbon so they're going to withdraw some electron
+density from that ring. Whenever you withdraw electron
+density from a benzene ring, you deactivate it towards
+electrophilic aromatic substitution. So the inductive
+effect would lead you to think that a
+halogen is a deactivator. However, the halogen does have
+lone pairs of electrons on it so you could also think
+about the resonance effect. So let me just go ahead and
+write the resonance effect here. And if I took one of these
+lone pairs of electrons and moved them in
+here to form a pi bond between that carbon
+and that halogen, right? That would push these
+electrons off onto this carbon so we could go ahead and draw
+our resonance structure here. So we would have our halogen
+now double bonded to our carbon. The halogen has two lone
+pairs of electrons, a plus 1 formal charge, and we now
+have a lone pair of electrons out on this carbon with a
+negative 1 formal charge like that. So let me just go
+ahead and highlight one of these lone
+pairs of electrons can participate in
+resonance, and that would increase the electron
+density of your ring. And again, I'm not going to draw
+the other resonance structures, but increasing the electron
+density of your ring implies activation towards
+electrophilic aromatic substitution. So we have these two
+competing factors here. Induction says that
+the halogen is electron withdrawing and
+therefore a deactivator. Resonance suggests
+that the halogen might be electron donating,
+and therefore an activator. Experimental results show that
+these halogens are actually deactivators here. So induction must be a
+more important effect than resonance. Let's see if we can think about
+why using different halogens. So let's start
+with fluorine here. So if your halogen is fluorine. Fluorine is, of course,
+extremely electronegative, and so you could
+think about what the inductive effect if
+the halogen is fluorine, it's withdrawing a lot
+of electron density from that benzene
+ring, deactivating the ring towards electrophilic
+aromatic substitution and so the inductive
+effect is very strong when fluorine is on
+your benzene ring. When you think about
+resonance, so the fluorine forming a pi bond with
+a carbon on your ring. So let me show this
+carbon right here forming a pi bond
+with a halogen. I'm saying the halogen
+is fluorine this time so I can go ahead and show
+carbon bonded to fluorine. So we have P orbitals here,
+which are overlapping, and so we can draw in
+the P orbitals on carbon. Carbon and fluorine
+are in the same period on the periodic table. Therefore, you can think
+about their P orbitals being pretty much the
+same size, and that allows for good overlap. And so the fluorine can
+donate some electrons and increase the electron
+density of your ring. And so because there is some
+good overlap of your orbitals there, fluorobenzene
+turns out to be the most reactive of your halogens
+because of that overlap, but because fluorine
+is so electronegative you could think about the
+inductive effect winning most the time, and still
+giving you a deactivator. However, there are some
+exceptions for fluorobenzene, but, in general, we consider
+the halogens to be deactivates. Let's look at
+another halogen here. So for that example,
+induction wins because of the large
+electronegativity difference between fluorine and carbon. However, if the
+electronegativity difference decreases, such as when
+your halogen is something like chlorine, then you have
+to come up with a little bit different explanation
+because an atom like nitrogen has pretty much the same
+electronegativity as chlorine, and so the inductive effect
+would be the same for nitrogen as it is for chlorine,
+approximately. And so there must be a
+slightly different explanation as to why chlorine
+is a deactivator. And if you think about
+the resonance effect where your chlorine forming
+a pi bond with your carbon. So let's go ahead and show
+chlorine bonded to carbon here. Carbon being in the second
+period of the periodic table has a P orbital of a certain
+size, chlorine of course is in a different period,
+it's in a third period, so it has a larger P orbital. And the size mismatch
+of those P orbitals means that you don't get as
+good of an overlap as you would with orbitals that
+are the same size, and so therefore,
+the chlorine can't donate as much electron
+density via resonance. So resonance decreases
+in importance because of the poor
+overlap of those orbitals. And so that's a way of
+thinking about the fact that the resonance
+effect is decreased, and so therefore, you have
+more of an inductive effect and the chlorine
+is a deactivator. I was talking about comparing
+chlorine to nitrogen, and the two, of course,
+have very similar electronegativities, but
+the nitrogen-- aniline in the previous video was
+observed to react much, much faster. And again, we can think about
+the size of those P orbitals. Nitrogen being in the
+same period as carbon, and so you get better
+overlap of those orbitals, the nitrogen is better able
+to donate electron density to that ring, making the
+nitrogen an activator here. So you could think about,
+again, large differences in electronegativity
+favoring induction. You could think about
+size mismatch of orbitals, but overall, you need
+to think about halogens as being weak
+deactivators, but still ortho-para directors because
+of the resonance structures that you can draw.

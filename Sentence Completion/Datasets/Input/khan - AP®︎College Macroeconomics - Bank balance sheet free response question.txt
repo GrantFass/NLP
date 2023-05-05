@@ -1,0 +1,81 @@
+- [Instructor] The following is the balance sheet of First Superior Bank. And so it's here on the asset side, it has $200 of reserves
+and $1,800 of loans so its total assets are $2,000. And then that should be the same as its liabilities and equity. And we see here that it has
+$2,000 in demand deposits, that's a liability 'cause
+people can come to the bank and say, "Hey, I want that money." These are checkable deposits so they could even try to withdraw that money. And since all of that
+$2,000 is on the liability side there's no equity right over here. These two should sum up to $2,000, the same as you have on your assets side. Assume that the required
+reserve ratio is 10%. And just as a review, that's
+the percent of deposits that the bank needs to keep as reserves and we can see that it's at
+that reserve ratio right now. It has $2,000 in deposits
+and so it needs to keep 10% as reserves, 10% of $2,000 is $200, so it's at its minimum reserves already. Part A says what is the
+dollar value of new loans that First Superior
+Bank can make, explain. Pause this video and see if you can figure that out yourself. Well as I just mentioned, this bank is already at
+its minimum reserves. It's already loaned out
+as much as it could. If you get $2,000 in deposits
+and you have a 10% reserve ratio, that means you can
+loan out 90% of that $2,000 and it has already loaned
+out 90% of the $2,000. So what is the dollar value of new loans that First Superior Bank can make? Well it's zero dollars. Zero dollars because
+already at minimum reserves. Minimum reserves. Alright, let's do part B. Mr. Smith deposits $100 of
+cash in a demand deposit account in First Superior Bank. Calculate the maximum amount of new loans that First Superior Bank can now make. So pause this video again and see if you can figure that out. Well there's a couple of ways
+you could think about it. Before Mr. Smith makes
+that deposit we already saw in part A that First Superior
+Bank can't make any new loans and so now if it gets $100
+of cash in a demand deposit account because the reserve ratio is 10%, the bank needs to keep 10%
+of that deposit as reserves and it can loan out the other 90%. So you could just say well it
+could loan out 90% of that new deposit and so it would be 90% times $100 which is equal to $90 of new loans. Another way that you
+could think about it is after Mr. Smith's deposit,
+the demand deposits right over here goes to $2,100 and
+that increase in liabilities is offset by an increase in assets. It just got $100 of cash so the reserves go from $200 to $300. Now at this point, First
+Superior Bank is clearly above its minimum reserve requirements. 300 over 2,100 is more than 10%. So it can loan out some money. How much could it loan out? Well it has to keep 10%
+of this $2,100 as reserves so it needs to keep $210 right over here and so that other $90 it could loan out. And so this could be $1,890 and so it can make $90 in new loans. As a result of Mr.
+Smith's $100 cash deposit, calculate the maximum change over time in each of the following
+in the banking system. So part one is loans, so
+what's the maximum change over time in the banking system of loans? Pause this video, try to figure it out. Well as we just said Mr.
+Smith by depositing $100. First Superior Bank can make $90 of loans so that would be $90 of
+new loans but then whoever they loan that money to,
+they could then deposit that in a bank and then
+that bank could loan out 90% of that, so then it
+would be plus 0.9 times 90. Now this bank that got 0.9
+times $90 which is $81, it can then loan out 90% of that. So it's gonna be plus 0.9 times this, so 0.9 squared times 90
+and you just keep going like this and then this
+gives us essentially the equation for the multiplier which you might have memorized. This is just going to be equal to 90 times one over one
+minus you could say this 0.9 or you could say this is the same thing as 90 times one over the
+reserve ratio which is 0.1 and one over .1 is 10 so this
+is going to be equal to $900. Now what is going to be the maximum change over time in demand deposits? Pause this video again and
+try to figure that out. When Mr. Smith first
+deposits that $100 in cash at First Superior Bank,
+that creates a $100 increase demand deposit here on First
+Superior Bank's balance sheet. So that is, let me just write it this way. So you have 100 but then we
+already said that First Superior Bank could loan out as much as
+90% of that and whoever they loan that to, they could
+put all of that into a bank as a demand deposit and so
+that's gonna be plus 0.9 times 100 and then that bank
+could then loan out .9 times this and then whoever gets that loan, that could be, they could
+deposit that in a bank creating a demand deposit
+so plus 0.9 squared times 100 and it keeps
+going on and on and on. And you could just view this
+as this is going to be equal to 100 times one over one
+minus 0.9 which is the same thing as 100 times one
+over the reserve ratio and so this is just gonna be 100 times 10 which is going to be $1,000. Part D, as a result of Mr.
+Smith's $100 cash deposit, calculate the maximum change
+over time in the money supply. So pause this video again
+and try to think about it. So you might be tempted to say, "Hey, maybe that's just
+going to be the same thing "as the total maximum
+change in demand deposits." But we have to be very careful. That first $100 already existed
+as cash in the money supply, the maximum change is everything else. It's this part right over here. Mr. Smith's deposits $100 in
+cash, that's not new money but then the bank can
+loan out 90% of that. So that's $90 in new money
+that someone could use to then deposit in another
+bank and so that other bank could then loan out 90% of that 90 and we've seen this drill before, that was the exact same calculation for part one right over here. This is just going to be
+equal to 90 times one over the reserve ratio which is equal to $900. Part E, provide one reason
+why the actual change in money supply can be
+smaller than the maximum change you identified in part D. Pause this video and see
+if you can figure that out. Well there's actually two good reasons why the actual change in money supply might be smaller than what we just calculated. One reason is if banks decide to keep more than the minimum reserves. So banks, banks might
+keep more than minimum, minimum reserves. So you could imagine even
+though by law according to this world, they have to
+keep a reserve ratio of 10%, if on average the banks
+decide to keep a reserve ratio of 20% then every time
+they would loan out 80% of whatever they get in deposits and so you would have a lower number here. There's another world where
+the people who get the loans don't deposit all of that
+into the banking system. So if you wanted a second
+reason, we've already answered their question, we've given
+one reason but a second reason is people might not deposit all of their funds in the banking system. So I will leave you there.

@@ -1,0 +1,217 @@
+You can never have too
+much practice dealing with the normal distribution,
+because it's really one of those super
+important building blocks for the
+rest of statistics and really a lot of your life. So what I've done is I've
+taken some sample problems. This is from ck12.org
+Open Source flex book, their AP Statistics flex book. And I've taken the problems
+from their normal distribution chapter. So you could go to their
+site and actually look up these same problems. So this first problem, which
+of the following data sets is most likely to be
+normally distributed? For the other
+choices, explain why you believe they would not
+follow a normal distribution. So it's a choice. So this is my beliefs
+come into play. So this is unusual
+in the math context. It's more of a, what do I think? It's kind of an essay question. So let's see what
+they have here. A, the hand span. Measured from the
+tip of the thumb to the tip of the
+extended fifth finger. So I think they're
+talking about, let me see if I can draw a hand. So that's the index finger. And then you got
+the middle finger. And then you got
+your ring finger. And you got your pinky. And the hand will look
+something like that. I think they're talking
+about this distance. From the tip of the
+thumb to the tip of the extended
+fifth finger, which is a fancy way of saying
+the pinky, I think. They're talking about
+that distance right there. And they're saying, if
+I were to measure it of a random sample of
+high school seniors, what would it look like? Well, you know how far this is. This is a combination
+of genetics and environmental factors,
+maybe how much milk you drank or how much you hung from
+your pinky from a bar while you were growing up. So I would think
+that it is a sum of a huge number of
+random processes. So I would guess that it is
+roughly, normally distributed. You know, if I look at my own
+hand, and my hand I don't think has grown much since I
+was a high school senior. It looks like roughly
+nine inches or so. I play guitar. Maybe that helped
+me stretch my hand. But it's really
+an essay question, so I just have to
+say what I feel. So I would guess
+that the distribution would look something like this. I don't know. I've never done this. But maybe it has a mean of
+eight inches or nine inches and is distributed
+something like this. It's distributed
+something like that. So maybe it probably does look
+like a normal distribution. But probably won't be
+a perfect, in fact, I can guarantee you it won't be
+a perfect normal distribution. Because one, no one can have
+negative length of that span. This distance could
+never be negative. So they're going
+to have, I guess you could have no hand so that
+would maybe be counted as 0. But the distribution wouldn't
+go into the negative domain. So it wouldn't be a
+perfect normal distribution on the left hand side. It would really
+just end here at 0. And even on the right
+hand side, there is some physically
+impossible hand lengths. No one can have a
+hand that's larger than the height
+of the atmosphere or an astronomical unit. You would you start
+touching the sun. There's some point, which
+is physically impossible to get to. And in a true
+normal distribution, if I were to flip
+a bunch of coins there's some very,
+very small probability that I could get a
+million heads in a row. It's almost 0. But there's some probability. But in the case of hand span,
+there's no way out here, you know, the probability
+of human being who happens to be a high
+school senior, having a one-mile length
+hand span, that's 0. So it's not going to be a
+perfect normal distribution of the outliers or as we
+get further and further away from the mean. But I think it'll be a pretty
+good, in our everyday world as good as we're going
+to get, approximation. The normal distribution
+is going to be a pretty good approximation for
+the distribution that we see. And I guess one thing that
+you know-- It's funny. This is high school
+seniors, when I did this, it was kind of from my
+point of view as a guy. And I would argue that high
+school seniors, guys, probably have larger hands than women. So it's possible you actually
+have a bimodal distribution. So instead of
+having it like this, it's possible that the
+distribution looks like this. That you have one peak for
+guys, maybe at eight inches. And then maybe a peak for
+women at seven inches. And then the distribution
+falls off like that. So it's also possible
+it could be bimodal. But in general, a
+normal distribution is going to be a pretty
+good approximation for part A of this problem. Let's see what part B, what
+they're asking us to describe. The annual salaries
+of all employees of a large shipping company. So if we're talking
+about annual salaries, we have minimum
+wage laws whatnot. so I would guess that
+any corporation, if we're talking about full
+time workers at least, there's going to be some
+minimum salary that people have. So I would say, and
+probably a lot of people will have that minimum
+salary because it'll be probably the most
+labor intensive jobs, you probably have
+most people down there at the low end of the scale. And then you have your
+different middle level managers and whatnot. And then you probably
+have this big gap. And then you probably have
+your true executives, maybe your CEO or whatnot. If this mean, right here,
+is maybe $40,000 a year and this is probably
+$80,000 where some of the mid-level
+managers lie. But this out here, this
+will probably be-- Actually if you were to draw it real, the
+way I've scaled it right now, this would be about
+$200,00, which is actually a reasonable salary for a CEO. But the reality is,
+is that this actually might get pushed
+way out from there. It might look
+something like that. It might be way off the chart. Let's say the CEO made
+$5 million in a year because he cashed in a bunch
+of options or something. So it would be way over here. And maybe it's a
+CEO and a couple of other people, the
+CFO or the founders. So my guess is it
+definitely wouldn't be a normal distribution. And it would be bimodal. You would have another peak
+over here for senior management. Well, if we were
+maybe in Europe, this would be
+closer to the left. But it won't be a perfect
+normal distribution. And you're not going
+to have any values below a certain threshold,
+below that kind of minimum wage level. So I would call
+this, when you have a tail that goes
+more to the right than to the left, a right
+skewed distribution. Since it has two humps right
+here, one there, and one there. We can also says it bimodal. I mean, it depends on what
+kind of company this is. But that would be my guess of a
+lot of large shipping company's salaries. Let's look at choice
+C or problem part C. The annual salaries
+of a random sample of 50 CEOs of major companies,
+25 women and 25 men. The fact that they
+wrote this year, I think they maybe are
+implying that maybe men and women, the gender gap
+has not been closed fully, and there is some discrepancy. So if I was just purely 50
+CEOs of major companies, I would say it's probably
+close to a normal distribution. It's probably something
+like, once again, there's going to be some level below
+which no CEO is willing to work for, although you have
+heard of some cases where they work for free. But they're really getting
+paid in other ways. If you include all
+of those things, there's probably
+some base salary that all CEOs make
+at least that much. And then it goes up to some
+value, the highest probability value. And then it probably has
+a long tail to the right. And this is if there
+were no gender gap. So this would just be a purely
+right skewed distribution where you have a long
+tail to the right. Now, if you assume that
+there's some gender gap, then you might have
+two humps here, which would be a
+bimodal distribution. So if you assume
+there's some gender gap, this is part C right
+here, then maybe there's one hump for women. And if you assume that
+women earn less than men, then another hump for men. And there are 25 of
+each so there wouldn't necessarily more men than women. And then it would skew all
+the way off to the right. And in fact, I think there
+would probably be chance that you have this other
+notion here where you have these super CEOs, or mega
+CEOs who make millions, while most CEOs
+probably just make, I'll put it in quotation
+marks, "a few hundred thousand dollars" while there's
+a small subset that are way off many standard
+deviations to the right. So it could even be a
+trimodal distribution here. So that's choice C. And
+then so far, choice A looks like the best
+candidate for a pure, or the closest to being
+a normal distribution. Let's see what D is. The date of 100 pennies
+taken from a cash drawer in a convenience store. 100 pennies. So that's actually an
+interesting experiment. But I would guess,
+and once again, this is really a question
+where I get to express my feelings about these things. As long as your
+answer is reasonable, I would say that it is right. Most pennies are newer pennies. Because they go
+out of commission. They get traded out. They get worn out as they age. They get lost, or they get
+pressed at the little tourist place into those
+little souvenir things. I'm not even sure
+if that's legal, if you could do that
+the money legally. So my guess is that if
+you were to plot it, you would have a
+ton of pennies that are, within the last few years,
+So the date of 100 pennies, not their age, so the dates,
+so if this is 2010, I would guess that
+right now, you're not going to find
+any 2010 pennies. But you're probably going to
+find a ton of 2009 pennies. And then it probably just
+goes down from there. And of course, you're
+not going to find pennies that are older than
+the United States or before they even
+started printing pennies. So it's obvious this tail
+isn't going to go to the left forever. But my guess is
+you're going to have a left skewed distribution. Where you have the bulk of
+the distribution on the right, but the tail goes
+off to the left. That's why it's called a
+left skewed distribution. Sometimes this is called a
+negatively skewed distribution. And similarly, this right skewed
+distribution, or this right you distribution, sometimes is
+called positively skewed. And if you have only one hump. You don't have a multimodal
+distribution like this, in a left skewed
+distribution, your mean is going to be to the
+left of your median. So in this case,
+maybe your median might be someplace over here. But since you have this
+long tail to the left, your mean might be
+someplace over here. And likewise, in
+this distribution, your median, your middle value,
+might be some place like this. But because it's right skewed,
+and for the most part only has one big hump. this hump won't change things
+too much because it's small, your mean is going to
+be to the right of it. So that's another
+reason why it's called a right skewed or
+positively skewed distribution. So to answer the
+question, you know, these are my feelings
+about all of them. But I would say--
+the other choices explain why you believe
+they would not follow-- or they said, which of
+the following data sets is most likely to be
+normally distributed. Well, I would say choice
+A. But it's really a matter of opinion, at
+least in this question.

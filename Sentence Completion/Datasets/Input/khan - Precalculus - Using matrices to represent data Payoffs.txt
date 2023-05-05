@@ -1,0 +1,65 @@
+- [Instructor] We're told Violet and Lennox play an elaborated
+version of rock paper scissors where each combination of shape choices earns a different number
+of points for the winner. So rock paper scissors, the game, of course, where rock beats scissors, scissors beats paper,
+and paper beats rock, and then they give us
+this elaborate version right over here. When Violet wins, she gets two points. When Lennox wins with
+rock, she gets three. When Lennox wins with
+paper, she gets two points. When Lennox wins with
+scissors, she gets one point. And if they choose the same
+shape, nobody gets any points 'cause no one wins that round. Complete the matrix so it
+represents their scoring system. It shows the number of points Violet gets, a negative number means
+Lennox gets those points, where rows are Violet's chosen shape and columns are Lennox's chosen shape. So here we have the
+matrix right over here. I encourage you to pause this video and see if you can have
+a go at this on your own if you have a piece of paper
+in front of you, alright? I encourage you to get a piece of paper. All right, now let's do this together. So, how many points, remember, this matrix is
+how many points Violet gets. And if Lennox gets points, then
+it's a negative for Violet. So, if Violet chooses a rock
+and Lennox chooses a rock, so that is this entry right over here, what's going to happen? How many points is Violet going to get? Well, if both players
+choose the same shape, nobody gets any points. So if they both get rock, rock
+will get a zero right there. And we also know that's going to be true if Violet picks paper
+and Lennox picks paper, you're gonna get a zero
+points for Violet there. And if they both pick
+scissors, that entry there, you're also going to get a zero. All right, now, what if Violet picks rock and Lennox picks paper? What should I put there? Pause the video and think about it. Violet picks rock and Lennox picks paper. Well, we know that paper beats rock. So this is a situation where
+Lennox wins with paper. And so that's this
+scenario right over here, so Lennox will get two points. So if Lennox gets two points, remember this matrix is
+what does Violet get, Violet gets negative two
+points right over here 'cause Lennox got them. All right, now what about this entry? What does that represent? Well, that represents Violet picking rock and Lennox picking scissors. And we know that rock beats scissors so this is a situation where Violet wins, and we know whenever Violet
+wins, she gets two points. So this will be a positive
+two points right over here. Now, what about this entry? What does that represent? Well, that represents Violet picking paper and Lennox picking rock. And we know that paper beats rock, so this is another
+situation where Violet wins and she gets two points in
+any scenario where she wins. So that's two points. And now, what about this one over here? Pause this video and think
+about what number goes there. Well, this is a situation
+where Violet picks paper and Lennox picks scissors. We know scissors beats paper 'cause it can cut it up, I guess, and so Lennox has won with scissors. And we see here, I'll do
+it in a different color, Lennox wins with scissors,
+she gets one point. So you might be tempted
+to write a one here but remember, that's
+Lennox getting a point. So this is all about how
+many points does Violet get and we said that would
+be negative one point if it's going to Lennox. And then, let's think
+about this last row here. What does this entry represent? What number should go there? Pause the video and think about it. Well, this is Violet picking scissors and Lennox picking rock. Now, we know that rock beats scissors 'cause I guess it can bash it up, and so Lennox in this
+scenario has won with rock, and we know, I'll pick another color here, when Lennox wins with rock,
+she gets three points. So Lennox is getting three points here. This matrix is all about
+what does Violet get so we wanna put a negative three here 'cause that's three points for Lennox. Remember, a negative number
+means Lennox gets those points. And one last entry, what do
+you think should go there? Well, this is Violet picking scissors and Lennox picking paper. So we know that scissors beats paper 'cause it can cut it up, and we know that in any
+situation where Violet wins, 'cause she won with scissors
+here, she gets two points. So that is two points, just like that. So we filled in the matrix and now we have to answer this question. Assuming Lennox picks her
+shape entirely at random, what shape should Violet
+choose to maximize her chances of getting the most points? So pause the video and see
+if this matrix is helpful for figuring out the answer to that. All right. So, this obviously isn't
+an exercise on probability, but just as a little bit of a review, one way to think about it
+is when Violet picks rock, here are the scenarios, here are the outcomes that might happen. Now, they're telling us
+that Lennox picks at random so there would be a 1/3
+chance that Lennox picks rock, 1/3 paper, 1/3 scissors. And since these are equally likely 'cause they're saying that
+Lennox is picking at random, you can get the, what is sometimes known as
+the expected value here, by taking the average
+of these three numbers. Another way to think about it would be 1/3 X 0 + 1/3 X -2 + 1/3 X 2. If you wanna go dig deeper
+into expected value, there's a lot of that on Khan Academy, but we can really just take
+the average of these numbers. Add them up and divide by three is another way to think about it. And so, here the expected value is going to be if we take the sum, we get 0 + -2 + 2. Well, that all sums up to 0, divided by 3, you get to 0. So I'll just write this 0
+here as the expected value when Violet picks rock and
+Lennox picks at random. Now, in this second scenario,
+let's take the average. If we add all three of these up, you get 2 + 0 + -1,
+which is 1, divide by 3, you're gonna get 1/3 as the expected value of the points for Violet. And then in that last scenario, if you add all of these up, you get -1, divide by 3 is -1/3. So it looks like the best
+expected value for Violet, assuming that Lennox is
+going to pick at random, is to go with paper. You have a positive 1/3 expected value. So what shape should Violet
+choose to maximize her chances of getting the most points? Paper. Now, of course that's assuming Lennox always picks at random. Obviously, if Lennox catches on that Violet keeps picking paper, Lennox would adjust their strategy. But that gets a little bit deeper.

@@ -1,0 +1,78 @@
+Hello. Let's do some work on
+logarithm properties. So, let's just review real
+quick what a logarithm even is. So if I write, let's say I
+write log base x of a is equal to, I don't know,
+make up a letter, n. What does this mean? Well, this just means that
+x to the n equals a. I think we already know that. We've learned that in
+the logarithm video. And so it is very important to
+realize that when you evaluate a logarithm expression, like
+log base x of a, the answer when you evaluate, what
+you get, is an exponent. This n is really
+just an exponent. This is equal to this thing. You could've written
+it just like this. You could have, because this n
+is equal to this, you could just write x, it's going to get
+a little messy, to the log base x of a, is equal to a. All I did is I, took this n and
+I replaced it with this term. And I wanted to write it this
+way because I want you to really get an intuitive
+understanding of the notion that a logarithm, when
+you evaluate it, it really an exponent. And we're going to
+take that notion. And that's where, really,
+all of the logarithm properties come from. So let me just do -- what I
+actually want to do is, I want to to stumble upon the
+logarithm properties by playing around. And then, later on, I'll
+summarize it and then clean it all up. But I want to show maybe
+how people originally discovered this stuff. So, let's say that x,
+let me switch colors. I think that that keeps
+things interesting. So let's say that x to
+the l is equal to a. Well, if we write that as
+a logarithm, that same relationship as a logarithm, we
+could write that log base x of a is equal to l, right? I just rewrote what I
+wrote on the top line. Now, let me switch colors. And if I were to say that x to
+the m is equal to b, it's the same thing, I just
+switched letters. But that just means that
+log base x of b is equal to m, right? I just did the same thing
+that I did in this line, I just switched letters. So let's just keep going
+and see what happens. So let's say, let me
+get another color. So let's say I have x to the n,
+and you're saying, Sal, where are you going with this. But you'll see. It's pretty neat. x to the
+n is equal to a times b. x to the n is equal
+to a times b. And that's just like
+saying that log base x is equal to a times b. So what can we do
+with all of this? Well, let's start with
+with this right here. x to the n is equal
+to a times b. So, how could we rewrite this? Well, a is this. And b is this, right? So let's rewrite that. So we know that x to
+the n is equal to a. a is this. x to the l. x to the l. And what's b? Times b. Well, b is x to the m, right? Not doing anything
+fancy right now. But what's x to the
+l times x to the m? Well, we know from the
+exponents, when you multiply two expressions that have the
+same base and different exponents, you just
+add the exponents. So this is equal to, let
+me take a neutral color. I don't know if I said that
+verbally correct, but you get the point. When you have the same base and
+you're multiplying, you can just add the exponents. That equals x to the, I want to
+keep switching colors, because I think that's useful. l, l plus m. That's kind of onerous to
+keep switching colors, but. You get what I'm saying. So, x to the n is equal
+to x to the l plus m. Let me put the x here. Oh, I wanted that to be green. x to the l plus n. So what do we know? We know x to the n is equal
+to x to the l plus m. Right? Well, we have the same base. These exponents must
+equal each other. So we know that n is
+equal to l l plus m. What does that do for us? I've kind of just been playing
+around with logarithms. Am I getting anywhere? I think you'll see that I am. Well, what's another
+way of writing n? So we said, x to the n is
+equal to a times b -- oh, I actually skipped a step here. So that means -- so, going
+back here, x to the n is equal to a times b. That means that log base x
+of a times b is equal to n. You knew that. I didn't. I hope you don't realize I'm
+not backtracking or anything. I just forgot to write that
+down when I first did it. But, anyway. So, what's n? What's another way
+of writing n? Well, another way of
+writing n is right here. Log base x of a times b. So, now we know that if we just
+substitute n for that, we get log base x of a times b. And what does that equal? Well, that equals l. Another way to write
+l is right up here. It equals log base
+x of a, plus m. And what's m? m is right here. So log base x of b. And there we have our
+first logarithm property. The log base x of a times b --
+well that just equals the log base x of a plus the
+log base x of b. And this, hopefully,
+proves that to you. And if you want the intuition
+of why this works out it falls from the fact that logarithms
+are nothing but exponents. So, with that, I'll leave
+you with this video. And in the next video,
+I will prove another logarithm property. I'll see you soon.

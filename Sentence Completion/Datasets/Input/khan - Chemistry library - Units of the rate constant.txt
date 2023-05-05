@@ -1,0 +1,36 @@
+- [Voiceover] In this video,
+we're going to be talking about how you can find the units
+for your rate constant k. So the two things you should
+know before we get started are that, one, rate constant k has units. So this isn't always true
+of constants in chemistry, but it is true of k. The second thing to remember is that your rate constant, the units of k depend on your rate law. And so we're going to
+use this second point to use the rate law to
+derive the units of k. And this is really
+handy because that means you don't have to memorize
+what the units of k are for different orders of reactions. So we're going to focus on the
+three most common rate laws that you see in chemistry class. So we're going to talk about zeroth, first, and second order reactions. And we will derive their units. So first, let's look at zeroth order. So zeroth order reactions have a rate law that look like this. So the rate is equal to k times the concentration of your reactant A to the zeroth power. And anything to the
+zeroth power is just one. So our rate is equal
+to the rate constant k. The units of rate are
+always going to be the same. So the units of rate are
+always molar per second and you can also just think
+of units almost like numbers. If you have an equal sign,
+the units on both sides of your equal sign have to be the same and they have to match. So here, since we have rate equal to k, that means k must also have
+units of molars per second. So this tell us that the units
+for a zeroth order reaction are molar per second. We can use that same idea
+to figure out the units of k for first and second order reactions, too. So for a first order reaction, so for first order, a first order reaction rate law is rate is equal to our rate constant k times the concentration of our reactant raised to the first power. Units of rate are molar per second, and the units of concentration are always going to be molar. So now we know that the
+units of k times molar equals molar per second. So we have molar on both sides, so we don't have to worry about that, but we're missing a
+one over a second term. So that tells us that the units
+of k are one over seconds. The other way that we can try
+to figure out the units here, if you're not comfortable
+with back-calculating what the units are, is we can actually rearrange this rate law, So if we just put k on one side and everything else on the other side, we get that k is equal to rate divided by the concentration of A. So all I did was divide both sides here by the concentration of A. And since we know that the units on both sides of the equal
+sign have to be the same, then we can figure out the units of k by dividing the units of rate by the units of our concentration. So that's just molar per
+second, for the rate, divided by molar, for the concentration. And then the molar cancels out, and we're left with one over seconds. So that's an even more
+straight-forward way to find the units of k. But the idea is the same. You can treat units the
+same way you treat numbers, and you just have to make sure they match on both sides of your equal sign. The last example we're going to go through is going to be for second order reactions. So second order reactions, or second order rate laws have the form rate is equal to our rate constant k times the concentration of our reactant to the second power. So on one side, we have
+molar per second for the rate and on the other side, now, since our concentration is squared, we have molar squared. So molar squared times something is equal to molar per second. We need to add a one over seconds in our units for k because
+we need to make sure when we multiple these, we
+get the seconds on the bottom, and we need to cancel out one
+of these concentration terms, so we need to put molar in
+the denominator as well. So the units of k for
+a second order reaction are one over molar, molar-seconds. so these are the three
+most common molecularities that you might see in a chemistry class. And sometimes, you have reactions that aren't zeroth,
+first, or second order, and whenever that happens, you can always use the rate law to find the units of the rate constant k.

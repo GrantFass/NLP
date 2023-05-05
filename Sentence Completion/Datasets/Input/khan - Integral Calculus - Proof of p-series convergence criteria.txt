@@ -1,0 +1,63 @@
+- [Instructor] You might
+recognize what we have here in yellow as the
+general form of a p-Series, and what we're going
+to do in this video is think about under which conditions, for what 'P's will this p-Series converge. And for it to be a p-Series, by definition P is going to be grater than zero. So I've set up some
+visualizations to think about how we are going to understand when this p-Series converges. So over here you have the graph, this curve right here,
+that's Y is equal to one over X to the P. And we're saying it in general terms, because P is greater
+than zero, we know it's going to be a decreasing
+function like this. Once again that's Y is equal to one over X to the P. And now what we've
+shaded in ahead of time, underneath that curve, above the positive X axis, that's is the integral. From one to infinity, the improper integral
+of one over X to the P, dX, so that's this area, that I've already shaded in, you see it in white in both of these graphs. And what we're going to hopefully see visually, is that there's a very close convergence or divergence
+relationship between this p-Series, and this
+integral, right over here. Because when we look at
+this left hand graph, we see that this p-Series can be viewed as an upper Riemann
+approximation of that area. What do I mean by that? Well think about the area of this first rectangle. The width is one, and its' height is one over one over one to the P. So this would be the first term, in this p-Series, this would just be an area of one. It's just the X and Y
+scales are not the same. This one right over here; its' area would be one over two to the P. The area's one over three to the P. So the sum of the areas
+of these rectangles, that is what this p-Series is, and you can see that each of these rectangles they are covering more than
+the area under the curve. And so we know the area under the curve, that's gonna be greater than zero, this p-Series is going
+to be greater than this integral, greater than
+the area under the curve. But if we add one to the
+area under the curve, now we're not just talking
+about the white area, we're also talking about
+this red area here, then our p-Series is going
+to be less than that. Because the first term of
+our p-Series is equal to one, and then all of the other terms, you can view it as a lower
+Riemann approximation of the curve. And you can see, they fit under the curve, and they leave some area. So this is gonna be less
+than that expression there. Now think about what happens; if we know that this right over here diverges, so if this improper integral diverges, it doesn't converge to a finite value, well the p-Series is greater than that, so if this diverges, then
+that's going to diverge. Similarly, if this converges, the same integral right over here, if this converges, it
+goes to a finite value, well one plus that is
+still going to converge, so this, or p-Series must also converge, it must go to a finite value. All I'm talking about right here, this is really just the integral
+test, when we think about tests of convergence and divergence, but I'm just making
+sure that we have a nice conceptual understanding, and not just blindly applying the integral test. And you could go the other way too, if the p-Series converges,
+then for sure this integral is going to converge, and if the p-Series diverges, then for sure this expression right
+over here is going to diverge and the integral diverges. So we can say the p-Series converges if, and only if, this integral right over here converges. So, figuring out under what conditions for what P does the p-Series converge, it's boiling down to under what conditions does this integral converge? So let's scroll on down to
+give us some real estate to think about what
+has to be true for that integral to converge. So I'm gonna re-write it. So we've got the integral
+from one to infinity, improper integral, of
+one over X to the P, dX this is the same thing, this is the limit as, I'll use the variable
+M since we're already using N, as M approaches infinity, and the integral from one to M of one over, and actually just let me
+write that as X to the -P. X to the negative P, dX. And let me just focus on this, and we'll just remember that we're
+gonna have to take the limit as M approaches infinity I don't wanna have to keep writing that over and over again. So let's think about what this is, so there's a couple of conditions; we know that P is greater than zero, but there's two situations
+right over here: there's one situation
+when P is equal to one. If P is equal to one,
+then this is just the integral of one over X, and so this thing is going to be the integral of ln of X, and we're gonna go from one to M, and so this would be the natural log, of M minus the natural log of one, well E to the zero power is
+one, so the natural log, I'll write it out, the natural log of one, but the natural log of one is just zero, so in this special case,
+I guess we can say, when P equals one, this integral, from one to M, comes down to the natural log of M. Now let's think about the situation where P does not equal one, well there we're just
+kind of reversing the power rule that we learned in basic differentiation. So we'd increment that exponent, so it'd be X to the negative P plus one, and we can even write that as X to the one minus P,
+that's the same thing as negative P plus one, then we would divide by that. So one, minus P. We are gonna go from one to M, and so this is going to be equal to, we could write this as M to the one minus P, over one minus P minus, one to the one minus P, over one minus P. So now let's take the limits, so remember this integral,
+we won't take the anti-derivative or the
+definite integral here, but then we want to take the limit here as M approaches infinity. So what is the limit as
+M approaches infinity, of natural log, of M? Well if M goes unbounded to infinity, well the natural log
+of that is still going to go to infinity. So when P equals one, this
+thing doesn't converge, this thing is just unbounded. So, P equals one, we diverge. So we know that. So now let's look over here, let's think about the limit as M approaches infinity, of this expression right over here. And the only part that's
+really effected by the limit, is the part that has M, so we could even write
+this as, we could take this one over one minus P out of this, we could say one over one minus P, times the limit as M approaches infinity, of M to the one minus P, and then separately we can subtract one to the one minus P, for any exponent that's just gonna be one, over one minus P. Is that right? Yeah no matter what exponent I put up here one to any power is going to be one. And so the interesting thing about whether it converges or not is,
+this part of the expression. And it's all going to
+depend on whether this exponent is positive or negative. If one minus P is greater than zero, if I'm going to infinity and I'm taking that thing to a positive exponent, then this is going to diverge. So in this situation we diverge, and one minus P is greater than zero we can add P to both sides, that's the situation, that's the same thing as one being greater than P, or P being less than one, we are going to diverge. So far we know that P is
+going to be greater than zero, and we saw if P
+is one, or if it's less than one, we're gonna diverge. But if this exponent right
+over here is negative, if one minus P is less than zero, well think about it, then it's gonna be one over M to some positive exponent, is one way to think about it. So as M approaches infinity, this whole thing is going to approach zero. So this is actually
+going to be a situation where we converge, where
+we get to a finite value. And so we add P to both sides, we have one is less than P, we converge. So there you have it, we have established, this integral is going to converge only in the situation where P is greater than one. P>1 you're going to converge. And if zero is less than P
+is less than or equal to one, you are going to diverge. And those are then the exact, cause this, our p-Series converges if and only if, this integral converges. And so these exact same constraints apply to our original p-Series. Our original p-Series converges only in the situation where P is greater than one, then we converge. And if zero is less than P
+is less than or equal to one, we diverge, there you go.

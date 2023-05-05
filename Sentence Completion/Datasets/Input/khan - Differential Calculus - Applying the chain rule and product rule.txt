@@ -1,0 +1,30 @@
+- [Instructor] What we're
+going to do in this video is try to find the
+derivative with respect to X of X squared sin of X. All of that to the third power. And what's going to be
+interesting is that there's multiple ways to tackle it. And I encourage you to pause the video and see if you could work
+through it on your own. So there's actually multiple techniques. One path is to do the chain rule first. So I'll just say CR for chain rule first. And so I have, I'm taking the
+derivative with respect to X of something to the third power. So, if I take the derivative it would be the derivative with
+respect to that something. So that would be three times that something squared times the derivative with respect to X of that something. Where the something, in this case, is X squared sin of X. X squared sin of X. This is just an application
+of the chain rule. Now, the second part, what would that be? The second part here do this in another color. In orange. Well here, I would apply the product rule. I have a product of two expressions. So I would take the derivative
+of, let me write this down. So this is gonna be the product rule. Product rule. I would take the derivative
+of the first expression. So, X, derivative of X squared is two X. Let me write a little bit to the right. This is gonna be two X times the second expression sin of X. Plus the first expression X squared times the derivative of the second one. Cosin of X. That's just the product rule as applied to this part right over here. And all of that, of course,
+is being multiplied by this up front. Which actually, let me just rewrite that. So all of this I could rewrite as let's see, this would be three times if I have the product
+raised to the second power I could take each of
+them to the second power and then take their products. So X squared squared is X to the fourth. And then sin of X squared is sin squared of X. And then all of that is
+being multiplied by that. And, if we want, we can
+algebraically simplify. We can distribute everything out. In which case, what would we get? Well let's see. Three times two is six. X to the fourth times X is X to the fifth. Sin squared of X times sin of X is sin of X to the third power. And then, let's see, three so plus three, X to the
+fourth times X squared is X to the sixth power. And then I have sin squared of X sin squared of X cosin of X. So there you have it, that's one strategy chain rule first, and then product rule. What would be another strategy pause the video and try to think of it. Well, we could just algebraically use our exponent properties first. In which case, this is
+going to be equal to the derivative with respect to X of if I'm taking X squared times
+sin of X to the third power instead I could say X to the third power which is going to be X to the sixth. And then sin of X to the third power. Sin of X to the third power. I'm using the same exponent property that we used right over
+here to simplify this. If I have if I'm doing the product things to some exponent, well
+that's the same thing if each of them raised to the exponent and then the product of the two. Now how would we tackle this? Well, I here, I would do the product rule first. So let's do that. So let's do the product rule. So, we're gonna take the derivative of the first expression. So, derivative of X to the sixth is six X to the fifth. Times the second expression. Sin to the third of X. Or, sin of X to the third power. Plus the first X to the sixth times the derivative of the second and I'm just gonna write that D DX of sin of X to the third power. Now, to evaluate this right over here it does definitely make sense to use the chain rule. Use the chain rule. And so what is this going to be? Well I have the derivative of something to the third power. So that's going to be three times that something squared times the derivative of that something. So in this case, the
+something is sin of X. And the derivative of
+sin of X is cosin of X. Then I have all of this
+business over here. I have six X to the fifth. Sin to the third or sin of X to the third power. Plus X to the sixth. And if I were to just
+simplify this a little bit in fact, you see it very clearly. These two things are equivalent. This this term is exactly
+equivalent to this term the way it's written. And then this is exactly, if you multiply three times X to the sixth sin of X squared cosin of X. So, the nice thing about math if we're doing things
+that make logical sense we should get to the same endpoint. But the point here is that
+there's multiple strategies. You could use a chain rule first and then the product rule. Or you could use a product rule first, and then the chain rule. In this case, you could
+debate which one is faster. It looks like the one on the right might be a little bit faster. But sometimes these two are pretty close. But sometimes it'll be more clear than not which one is preferable. You really want to minimize
+the amount of hairiness, the amount the number of steps the chances for careless
+mistakes you might have.

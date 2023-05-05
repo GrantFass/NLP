@@ -1,0 +1,43 @@
+- [Instructor] We're told point A is at negative one comma four and point C is at four common negative six. Find the coordinates of point
+B on segment, line segment AC such that the ratio of AB
+to AC is three to five. So pause this video and see
+if you can figure that out. All right, now let's work
+through this together and to help us visualize,
+let's plot these points. So first, let us plot point A which is at negative one comma four. So negative one comma
+one, two, three, four so that right over there is point A and then let's think about point C which is at four common negative six. So one, two, three,
+four, comma negative six, negative one, negative
+two, negative three, negative four, negative five,
+negative six, just like that and so the segment AC, I
+get my ruler tool out here. Segment AC is going to look like that and the ratio between
+the distance of A to B and A to C is three to five or another way to think about it is B is going to be three fifths along the way from A to C. Now the way that I think about it is in order to be three fifths
+along the way from A to C you have to be three fifths
+along the way in the X direction and three fifths along the
+way in the Y direction. So let's think about
+the X direction first. We are going from X equals
+negative one to X equals four to go from this point to that point. Our change in X is one,
+two, three, four, five and so if we wanna go
+three fifths of that, we went a total of five,
+three fifths of that is going just three. So that is going to be B is X coordinate and then we can look on
+the Y coordinate side. To go from A to C, we are
+going from four to negative six so we're going down by
+one, two, three, four, five, six, seven, eight, nine, 10 and so three fifths of 10 would be six. So B's coordinate is going to be one, two, three, four, five, six down. So just like that, we
+were able to figure out the X and the Y coordinates for point B, which would be right over here and you could look at
+this directly and say, look, B is going to be
+have the coordinates. This looks like this is
+two comma negative two which we were able to do the graph paper. So another way you could think
+about it even algebraically is the coordinates of B,
+we could think about it as starting with the coordinates of A so negative one comma four, but we're gonna move
+three fifths along the way in each of these dimensions towards C. So it's going to be
+plus three fifths times how far we've gone in the extraction. So in the extraction to go from A to C, you were going from negative one to four and so that distance is
+four minus negative one and this of course is
+going to be equal to five and then on the Y dimension,
+this is going to be our A's Y coordinate plus three fifths times the distance that we
+travel in the Y direction and here we're going from
+four to negative six. So we say negative six minus
+four, that is negative 10 and so the coordinates of
+B are gonna be negative one plus three fifths times five
+is going to be plus three and then four plus three
+fifths times negative 10, well, three three fifths
+negative 10 is negative six. and so that gets us two comma
+negative two and we are done, which is exactly what
+we got right over there.

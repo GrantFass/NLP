@@ -1,0 +1,85 @@
+Let f be the function
+given by f of x is equal to the square root of
+x plus 4 minus 3 over x minus 5. If x does not equal 5, and
+it's equal to c if x equals 5. Then say, if f is
+continuous at x equals 5, what is the value of c? So if we know that f is
+continuous at x equals 5, that means that the limit
+as x approaches 5 of f of x is equal to f of 5. This is the definition
+of continuity. And they tell us
+that f of 5, when x equals 5, the value of
+the function is equal to c. So this must be equal to c. So what we really
+need to do is figure out what the limit of f of x
+as x approaches 5 actually is. Now, if we just
+try to substitute 5 into the expression right
+up here, in the numerator you have 5 plus 4 is 9. The square root of
+that is positive 3, the principal root
+is positive 3. 3 minus 3 is 0. So you get a 0 in the numerator. And then you get 5 minus
+5 in the denominator, so you get 0 in the denominator. So you get this
+indeterminate form of 0/0. And in the future,
+we will see that we do have a tool that allows
+us, or gives us an option to attempt to find
+the limits when we get this indeterminate form. It's called L'Hopital's rule. But we can actually tackle
+this with a little bit of fancy algebra. And to do that, I'm
+going to try to get this radical out
+of the numerator. So let's rewrite it. So we have the square root of x
+plus 4 minus 3 over x minus 5. And any time you see a radical
+plus or minus something else, to get rid of the
+radical, what you can do is multiply
+by the radical-- or, if you have a
+radical minus 3, you multiply by
+the radical plus 3. So in this situation,
+you just multiply the numerator by
+square root of x plus 4 plus 3 over the square
+root of x plus 4 plus 3. We obviously have to
+multiply the numerator and the denominator
+by the same thing so that we actually don't change
+the value of the expression. If this right over
+here had a plus 3, then we would do a minus 3 here. This is a technique that we
+learn in algebra, or sometimes in pre-calculus class,
+to rationalize usually denominators, but to rationalize
+numerators or denominators. It's also a very
+similar technique that we use often times to
+get rid of complex numbers, usually in denominators. But if you multiply this out--
+and I encourage you to do it-- you notice this has
+the pattern that you learned in algebra class. It's a difference of squares. Something minus something
+times something plus something. So the first term is going to
+be the first something squared. So square root of x plus
+4 squared is x plus 4. And the second term is going
+to be the second something, or you're going to subtract
+the second something squared. So you're going to have
+minus 3 squared, so minus 9. And in the denominator,
+you're of course going to have x minus 5
+times the square root of x plus 4 plus 3. And so this has-- I guess
+you could say simplified to, although it's not
+arguably any simpler. But at least we have
+gotten our radical. We're really just
+playing around with it algebraically to see if we
+can then substitute x equals 5 or if we can somehow
+simplify it to figure out what the limit is. And when you simplify
+the numerator up here, you get x plus 4 minus 9. Well, that's x minus 5 over x
+minus 5 times the square root of x plus 4 plus 3. And now it pops out at
+you, both the numerator and the denominator are
+now divisible by x minus 5. So you can have a completely
+identical expression if you say that this
+is the same thing. You can divide the numerator
+and the denominator by x minus 5 if you assume x
+does not equal 5. So this is going to
+be the same thing as 1 over square root of x plus 4
+plus 3 for x does not equal 5. Which is fine, because in the
+first part of this function definition, this is the
+case for x does not equal 5. So we could actually
+replace this-- and this is a simpler
+expression-- with 1 over square root
+of x plus 4 plus 3. And so now when we take the
+limit as x approaches 5, we're going to get closer
+and closer to five. We're going to get x values
+closer and closer to 5, but not quite at 5. We can use this expression
+right over here. So the limit of f of
+x as x approaches 5 is going to be the same
+thing as the limit of 1 over the square root of x plus
+4 plus 3 as x approaches 5. And now we can
+substitute a 5 in here. It's going to be
+1 over 5 plus 4 is 9, principal root of that is 3. 3 plus 3 is 6. So if c is equal to 1/6, then
+the limit of our function as x approaches 5 is going
+to be equal to f of 5. And we are continuous
+at x equals 5. So it's 1/6.

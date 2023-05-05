@@ -1,0 +1,76 @@
+We're faced with the indefinite
+integral of x plus 3, times x minus 1 to the fifth dx. Now, we could solve this by
+literally multiplying out what x minus 1 to the fifth is. Maybe using the
+binomial theorem, that would take a while. And then we'd multiply
+that times x plus 3, and we'd end up with
+some polynomial. And we could take the
+antiderivative that way. Or we could maybe make
+a substitution here that could simplify
+this expression here. Make it something that's
+a little bit easier to take the antiderivative of. And this isn't going to be
+kind of the more traditional u substitution, where we just
+set u equal to something and see if its
+derivative is there. But it's a kind of a form
+of u substitution, where we do set u equal to something
+and see if it simplifies our expression in a way
+that, I guess, simplifies it. So let's try things out. So we have this x
+minus 1 to the fifth. That would be a
+pain to expand out. It would be nice if this
+was just a u to the fifth. So let's just set this, let's
+just set this to be equal to u. So let's set u as
+equal to x minus 1. And in that case,
+du is equal to dx. We could write
+du/dx is equal to 1, derivative of x, derivative
+of negative 1 is just 0. And these two are completely
+equivalent statements. And so if we did
+that, how could we rewrite this entire expression? Well, it would be equal
+to the integral of-- well, we have x plus 3 right over
+here, this is neither just u nor is it du. So let's think about
+how, what we can do here. Well, we could say, if
+u is equal to x minus 1, we could add 1 to both
+sides of this equation. And we could say u
+plus 1 is equal to x. And so for x, we can
+substitute that with u plus 1. So let's do that. So we're kind of back
+substituting in for x. So x is equal to u plus 1. And I'm just trying to
+see if I can do something to simplify this expression. So x is u plus 1, then
+we have our plus 3 there, times x minus 1 to the fifth. x minus 1 was u, that's
+the simplification we wanted to make. So times u to the fifth power. And dx is the same thing as du. So du. Now did this get us anywhere? Can we simplify this
+to a form that it's easy to take the
+antiderivative of? Well, it looks like it did. Let's see. We can rewrite this as this
+expression right over here is just u plus 4. Times u to the fifth-- I'll do
+it all in one color, now-- du. And the reason why this
+simplified things-- the way this simplified things
+is taking x minus one to the fifth, that'd be a
+really hard thing to expand. But u to the fifth is
+just u to the fifth. And then it just
+changed this x plus 3 into a u plus 4, which is
+still a pretty straightforward expression. And now we can just
+distribute the u to the fifth. So we are left with u to
+the sixth power plus 4, u to the fifth du. And this is a pretty
+straightforward thing to take the antiderivative of. Now you might be
+saying, hey Sal, this was-- how did you know
+to set u equal to be that. And oftentimes with
+integration, it's going to take a little
+bit of trial and error. There's a certain
+bit of an art to it. But here the realization was
+well, x minus 1 to the fifth can be really complicated. Maybe u to the fifth might
+make it a little bit simpler. And that did just
+happen to work. You could have tried u
+is equal to x plus 3. But it wouldn't
+have simplified it as nicely as u equal
+to x minus 1 did. But let's finish with this
+integral right over here. So this is going to be equal
+to the antiderivative of u to the sixth. Well, that's just u to
+the seventh over seven. Plus the antiderivative
+of u to the fifth, that's u to the sixth over six. But we have the 4
+out here, so it's 4 times u to the sixth over six. And then we have a plus
+C. And this, the 4u 6 is the same thing as 2/3, so we
+can rewrite this whole thing as equal to u to the seventh over
+seven, plus 2/3 u to the sixth, plus C. And now we just have to
+undo our u substitution. u is equal to x minus 1. So this is going to be equal to
+x minus 1 to the seventh over 7 plus 2/3 times x minus
+1 to the sixth, plus C. And we're all done. We were able to take a
+fairly hairy-- or what could have been a hairy thing
+if we had to expand this out-- and we were able to take
+the antiderivative by doing a little bit of
+this u substitution and u back substitution.

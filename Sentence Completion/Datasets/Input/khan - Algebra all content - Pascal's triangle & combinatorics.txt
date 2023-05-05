@@ -1,0 +1,21 @@
+Voiceover:What I want to do in this video is further connect our understanding of the binomial theorem. Two combinatorics, two Pascal's triangle. Just to review the ideas again, if we're taking x plus
+y to the third power and I'm just using this as an example that's a little bit easy to get around, get our heads around that's essentially taking
+three equivalent expressions and multiplying them by each other. You're taking x plus y, times x plus y, times x plus y. Let's call this the first x plus y, the second x plus y,
+and the third x plus y. If you're looking at the expansion of it and you're saying well how many ways can we construct x y squared or another way to think about it is you have these three expressions, you're going to choose two of them to contribute a y and take the product. For example, you could pick expression one and expression two to contribute the y. You could pick expression
+one and expression three to contribute the y, or you could take expression two and expression three to contribute the y. Of course the other expressions what's going to contribute to the x. You have three expressions and you're going to choose two to contribute the y and so that's why you have
+this combinatorics idea it's three choose two. It's the exact same mathematical problem, if you have three friends
+and you're choosing two to ride in a car with you, you don't care which sit
+they are going to sit in. You're just saying which two friends get to ride in my two
+seater or get to ride, what are the two friends
+that I'm going to pick? Same way here, out of three friends which are the two that I'm going to pick to contribute a y to this product and then the third is
+going to contribute an x. Now let's go to Pascal's triangle and hopefully see that this is actually a very similar idea. We could go to the same term, so the x y squared term, so that's right over there. Pascal's triangle, I always
+visualize it as a map. This is a node in the map and I think what are the different ways that I can get to this node on the map. I could have a y squared, and then multiplied by an x. Since we're multiplying an x that's why I made this line orange or I could have an x y and I could multiply by a blue so there's two immediate things above it that I can get to them but there's two ways to get to this one, there's one way to get to this one, and so the combined
+ways to get to this one is two plus one is equal to three. Just to make it the connection between what we just said, what's really going on here is at each of these
+nodes as we pick a path, we're essentially saying
+are we picking an x or y from each of these expressions. We number the expressions,
+let's number them here. Let's say this is expression one, this is expression two, this is expression three. We said that there's three paths that we could take us here, let's mark them out. There's this path, there's this path right
+over here that gets us there and that's equivalent to picking the x from expression one. Notice we picked the left hand side then we go to the right hand side. We pick the y from expression two, and then we pick the y
+from expression three, the last two, we pick the right path, we picked the blue path. That's essentially one way that we could choose two y's out of these three expressions. Once again, one way to choose two y's out of three expressions but we don't care about just that one, we care about all of the different paths. This was one way, another way would be to go like this. Pick a y from the first one,
+an x from the second one and a y from the third one. Or pick a y from the first expression, a y from the second expression and an x from the third expression. It's really a kind of
+fundamental mathematical level. It's solving the exact same problem. Hopefully this gives
+you a little intuition on why Pascal's triangle is connected to two combinatorics and why they're both useful for finding binomial expansions.

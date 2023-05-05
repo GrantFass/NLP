@@ -1,0 +1,72 @@
+- [Voiceover] Let's say
+you have a circuit here and you had a battery with a voltage v and there were resistors one, resistor two, and resistor three up here, and there was current
+flowing through here. What if you wanted to
+experimentally measure the voltage across some of these elements? You'd have to use a voltmeter. Voltmeter looks like this. So a circle with a v in it is the symbol we use for a voltmeter. How do you use it? You take that voltmeter,
+you bring it over to here. I can't plug it in the circuit like that. What I do is I take the
+leads of the voltmeter and I just connect them to either side of the circuit element that I want to determine
+the voltage across. So if I do this and I connect
+those leads right here, this voltmeter will tell me
+the voltage across R three. Or take the voltmeter, put it over here, and if I connect the leads across R one in parallel, notice I'm hooking up the voltmeter in parallel. Voltmeters you always hook up in parallel. This now will tell me
+the voltage across R one and if I wanted to make sure my battery was functioning correctly, I could take my voltmeter and I can hook up the leads across
+the positive and negative terminals of the battery and see if the voltage across the battery is what I think it is. That's how you use a voltmeter: always hooked up in parallel. But if I wanted to measure the current, I don't use a voltmeter, I use an ammeter. And for an ammeter you
+do not hook up an ammeter in parallel with the element
+you're trying to measure. You will probably blow out the ammeter. I've done it a few times. It's embarrassing. Don't hook up the ammeter in parallel, tell you why in a minute. But what you have to do
+is hook it up in series. So if I wanted to know the current going through R three, I could just stick the
+ammeter right in here. One lead would plug into
+one side of the ammeter, the other lead would
+plug into the other side. This current would have to flow straight through the ammeter and this is telling me how much current goes through R three. It doesn't matter what side I put it on, the current going into R three will equal the current going out. So you can put it over here too, but it's gotta be hooked up in series. So you have to disconnect, it's kind of a pain to hook up an ammeter sometimes. You have to disconnect something here, then connect that connection
+to the one side of the ammeter, connect to the other side of the ammeter. For a voltmeter, you
+didn't have to do that. For a voltmeter, just kept it out here and just touch those leads wherever you needed to touch them. But for an ammeter, you have to break the circuit
+to let this ammeter in. But I can move it wherever I want. I could put it down here, that tells me the current in this strip. Again, ammeters always hooked up in series with the element that
+you're trying to measure. So this ammeter position
+will let me measure the current that's flowing
+through the battery. But why is the voltmeter
+always hooked up in parallel and the ammeter always
+hooked up in series? We want the ammeter to
+be hooked up in series because we want to measure the current through a line in the circuit. We want to measure the current flowing through this resistor. So if we want to measure the current flowing through something, we need to make sure
+that the current flows through our ammeter and that's how we get our reading. Because of this, people design ammeters with
+very little resistance. An ammeter has very little resistance. And the reason is, if you took this ammeter
+and it had a big resistance and you stuck it in here, you'd be changing how much current flowed through this part of the circuit. We don't want to do that. Whenever we measure something, we don't want to disturb it. So when I stick my ammeter in here, I don't want to disturb how much current was going through here. I wanted to know how much current flows without my ammeter being in there. So when I put my ammeter in there, it better have very little
+affect on this circuit. That's why we make this ammeter have a very small resistance. And that's also why you can't hook this ammeter up in parallel, cause if you did, look
+at what would happen. This is why it's bad. If I took this ammeter and I hooked it up right here, and I hooked the other side up right here, look what the current's gonna do. I've got current flowing through here, current comes this way, goes this way, reaches this fork in the road and it's got a choice. It can go to the left or flow up through here and go through R three or flow through my ammeter, but my ammeter has very little resistance. I mean small, maybe on
+the order of a milliohm. So all of this current
+that's flowing through here, all this current's gonna choose
+to go through my ammeter. It's gonna just skip all
+those resistors, forget that. it just goes through the ammeter. If you've got a normal-sized voltage, maybe nine volts, three volts, hooked up to a milliohm, you're gonna burn out your ammeter. There's usually a fuse in here because they know people
+are gonna hook it up wrong. I've done that, and you burn out a fuse, you gotta go replace the
+fuse and it's a pain. So don't hook up your ammeter in parallel. What about voltmeters? Why do we hook those up in parallel? Well, a voltmeter is hooked
+up in parallel because we want to know the voltage across a circuit element, so on either side. Voltage, remember, is
+defined to be the difference between electric potential
+at two points in space. It makes no sense to
+ask what's the voltage through a certain point in a circuit. You can ask what current flows through that point in the circuit. But asking what the voltage is at a particular point in
+a circuit makes no sense. The only thing that would make sense is asking what's the voltage across two points in a circuit. So I can ask what's the voltage between this point and that point, that makes sense, or I can ask what's the voltage between this point and that
+point, that makes sense. But asking what's the voltage at a point or through a point, makes no sense. That's what current is. Current flows through a point, voltage is across two points. The difference in electric
+potential between two points. That's why we hook up
+voltmeters in parallel and because we hook up
+voltmeters in parallel, voltmeters have to have a huge resistance. Sometimes on the order of
+hundreds of thousands of ohms or even millions of ohms. So this can be big, big number of ohms. And the reason is, think about it, again our key idea is that
+we don't want to disturb the thing we're measuring. I'm measuring the voltage
+across this resistor. If I were to hook up a voltmeter with very little resistance, I just told you what would happen. This current that's
+flowing out of the battery, would all try to go
+through this voltmeter. Not only would it try to
+mess up the voltmeter, but that's current that's not flowing through R three anymore, and so I wouldn't get a correct reading for the voltage through R three. So we want to make sure our
+voltmeter has a big resistance so that yes, technically
+a very, very small amount of current, maybe a milliamp, will flow through this voltmeter, because it's gotta take a reading. But, we want as small amount as possible, because we want to keep this
+current flowing through R three the same as it was before
+we were measuring it, because I know v equals IR. And if I can measure
+this voltage across here, I want to make sure
+the current's the same, or I won't be getting
+an accurate measurement for the voltage. You could ask what would happen if we did hook the voltmeter
+in series instead of parallel. Voltmeters have a huge resistance, so if I stuck that here, the voltmeter has a huge resistance, you wouldn't break it, it's just that, think about what the current's gonna do. Current comes out of this battery, it's got a choice, it can go up here through
+R three and the voltmeter or through R one and R two. I said the voltmeter has
+hundreds of thousands, even millions of ohms, so this current's just
+all gonna go this way. Forget that. It's gonna skip this entirely. If you hook up a voltmeter in
+series instead of in parallel, you just kill off any
+current through this portion of the circuit that the
+voltmeter was hooked up in. You probably won't break it, so it's not as delicate as the ammeter, but you still mess up your measurement because it wasn't designed
+to be used that way. So remember voltmeters
+are hooked up in paralled to the circuit element that you want to determine the voltage across. But ammeters are connected in series to the circuit element
+that you want to measure. And if you're sitting there thinking, "Pfft, I'm never gonna hook
+up my ammeter in parallel. "How dumb do you think I am?" Well, gotta be careful,
+cause most multimeters are both voltmeters and ammeters, depending on where you set the dial. So if you're sitting there all day measuring current with
+your ammeter setting. Everything's going well. And then you go to measure a voltage, but you forget to switch the dial to volt instead of amps, you'll be hooking up an ammeter in parallel erroneously. That's what happened to me. Don't let it happen to you. Check the dial on your multimeter. Make sure it's on the function that you want it to be so you don't burn out a fuse.

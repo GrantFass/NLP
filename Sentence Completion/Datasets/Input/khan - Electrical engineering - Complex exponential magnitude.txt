@@ -1,0 +1,55 @@
+- [Voiceover] In this video
+we're gonna talk a bunch about this fantastic
+number e to the j omega t. And one of the coolest things
+that's gonna happen here, we're gonna bring together what we know about complex numbers
+and this exponential form of complex numbers and sines and cosines
+as a function of time. And what we're gonna
+end up with is the idea of a number that spins. I think this is really
+one of the coolest things in electronics and it's
+really at the essence of all signal processing theory. So this number here, e to the j omega t, this is based on Euler's formula. Just as a reminder, Euler's formula is e to the j, we'll use
+theta as our variable, equals cosine theta plus j times sine of theta. That's one form of Euler's formula. And the other form is with a
+negative up in the exponent. We say e to the minus j theta equals cosine theta minus j sine theta. Now if I go and plot this,
+what it looks like is this. So if I plot this on a complex plane, and that's a plane that has a real axis and an imaginary axis. Now we remember that j is
+the variable that we use for the imaginary unit. A j squared is equal to minus one. And we use that in electrical
+engineering instead of i. One way to express this number is by plotting it on this complex plane. And so if I pick out a location
+for some complex number and I say, oh, okay,
+this is the x-coordinate is cosine of theta. And what's this coordinate here? On the j-axis, that's sine theta. And if I draw a line
+right through our number, this is the angle theta. So this is one of the
+representations of complex numbers is this Euler's formula
+or the exponential form. And we can represent it this way here. This notation is challenging. I can't help but every time I look at this I start to do e to the
+complex to something and everything I know
+about taking exponents and things like that, it kind
+of confuses me in my head. But what I've done over
+time is basically say, e to the j anything, that
+whole thing is a complex number and this is what that complex
+number looks like right there. So let's take a look at
+some of the properties of this complex number. One of the things we can ask is what is the magnitude of e to the j theta? If I put magnitude absolute value or magnitude bars around that. And what that says is what
+is this value here for r? And we can figure that out
+using the Pythagorean Theorem. What we know is this squared equals x value squared which is cosine plus the y value squared
+which is sine theta. So it equals cosine squared of theta plus sine squared of theta. Okay, that's just, we just
+applied the Pythagorean Theorem to this right triangle right here, this right triangle. Now from trigonometry, from
+trigonometry we know what? What's the value of this? Cosine squared plus sine squared
+for any angle equals one. So that tells us that e to
+the j theta magnitude squared is equal to one or that e to the j theta
+magnitude is also one. All right, so we can write
+down e to the j theta, the magnitude of that is equal to one. Let's go back to our friend up here. That says that the length of this vector, this is a complex number, that is distance one away from the origin. So we'll tuck that away. We know that the magnitude
+of e to the j theta is one and I can actually go over here and draw now a circle on here like this and if I put the circle
+right through there, there's the unit circle
+and it has a radius of one. So I know that for any value of theta that my complex number e to the j theta, it's gonna be somewhere
+on this yellow circle. So e to the j theta is
+somewhere on this circle and the angle is what? The angle is right here. It's whatever is multiplied
+by j up in that exponent. Anything that multiplies
+by j, that's an angle. So what if I wanted something that wasn't on the unit circle? What if I wanted something
+that was farther away from the origin than that? Well what I would do is I would say, I would take A, some
+amplitude, e to the j theta, and this amplitude would expand
+the length of that vector. So, I would say, if I wanted
+to know how far away it is, well, the magnitude of
+e to the j theta is one, and the magnitude of A is A. So this equals A. And if I was to sketch
+in a circle for that, let's say A was a little
+bit bigger than one, it would be a little bit bigger out, and this would have a value here. That would be a value of
+A, the radius would be A. Pretty flexible notation. So with this notation we
+can represent any number in the complex plane with
+this kind of format here. We'll take a little break here and in the next video
+we'll put in for theta, we'll put in an argument
+that has to do with time and we'll see what happens
+to this complex exponential.

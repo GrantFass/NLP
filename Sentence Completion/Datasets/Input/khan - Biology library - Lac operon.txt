@@ -1,0 +1,73 @@
+- We're now going to talk about one of the most famous operons, and this is the lac operon, and it is part of E. coli's genome and it is involved. And the lac right over here
+is referring to lactose, and so you can imagine that it codes for genes involved in the
+metabolism of lactose. And the word lactose might
+already be familiar to you. It is a sugar found in milk. Some of us, including myself,
+are lactose intolerant. I have trouble digesting lactose, so I have mixed feelings regarding this. But in general, for a
+cell to make use of it, it needs to be able to absorb the lactose. It needs to be able to split
+it up into simpler sugars that it can actually use for fuel, and that is what the genes in the lac operon actually do code for. So just as an example, the
+lac Z gene right over here, this codes for an enzyme that helps cleave the
+lactose into simpler sugars. The lac Y gene codes for an enzyme that allows for the absorption of lactose through cellular membranes. Lac A is a little bit more interesting and a little less understood, but the general idea here is
+all three of these are involved in the metabolism and the
+absorption of lactose. And it is an operon, so we have our promoter here where our RNA polymerase would attach, and I've also drawn some other sites. I've drawn the operator right over here where you can imagine a repressor, indeed the lac repressor could bind, and over here, this CAP
+site, or C-A-P site. CAP stands for Catabolite
+Activator Protein. Catabolite, Catabolite Activator, whoops, Activator Protein. And so this is, you can imagine, where a protein, called the
+Catabolite Activator Protein, can bind and perhaps be an activator. So with that out of the way, let's think about different scenarios. Let's think about a scenario where the E. coli is an environment where there is no lactose. So what do you think
+should happen over here? And a lot of these things are very logical if you just assume that a lot of biological organisms are quite stingy. They don't wanna just waste resources. Well, if there's no lactose, well, why transcribe the
+genes that can be translated into enzymes for the
+metabolism of lactose? So if there's no lactose,
+you can almost do this as a default state right over here. You actually have the lac
+repressor protein being bound to the operator. So this is the lac repressor, lac repressor right over there, and so you won't be able
+to transcribe these things. The RNA polymerase won't be
+able to get anything done. No transcription is going to occur. So no lactose, no transcription, which makes a lot of sense. The bacteria, or the bacterium, this is singular, doesn't wanna waste resources. So what do you think should
+happen if there is lactose? So I'll keep this up
+here so you can see it. So lactose present, lactose present, well, you can imagine, well, you don't want that
+repressor around anymore, and that is indeed what happens, that you have an isomer of
+lactose, called Allolactose. So if lactose is present, you're going to have
+also Allolactose present, right over here, and so that is Allolactose, which can act as an
+inducer of transcription. And the way that it acts as an inducer is if it binds to the lac repressor, the lac repressor can no longer
+bind to the operator site. When the Allolactose is present, it will bind to the repressor, and then the repressor is going
+to leave the operator site. It's not going to be able to bind as well, and so let me draw that. So in this case, the operator, sorry, the repressor I should say. The operator is where the repressor binds. So this is the repressor right over here. You have some Allolactose. We do that in white. You have some Allolactose
+that has bound to it, and because of that, it's not going to bind to the operator, and since it's not bound to the operator, well now, the RNA polymerase can actually
+transcribe these genes, and that's valuable because by transcribing these genes, we are going to be able to
+metabolize this lactose. So lactose present,
+you have transcription. Transcription occurs. Now that's a very high level
+simple view of the lac operon, but there's more involved, because there's other sugars,
+in particular glucose, which is preferred by the cell. So, whoops, moving the wrong part. There you go. So let's think about what will happen in the presence of glucose and not in the presence of glucose. So let me write here. So glucose, and no glucose, actually let me do it, I'll do no glucose first. So let's see, we have no glucose. And remember, glucose
+is preferred to lactose. Simpler sugar. If you have glucose around,
+why worry about the lactose? And then here we have glucose. We have glucose around. And we could talk about
+both of these situations in the presence of lactose or not in the presence of lactose, but if we don't any lactose around, then were not gonna have
+the Allolactose around, and then you're just gonna
+have the repressor sit on the operator, and you're not going to
+have any transcription, and that's going to be whether
+or not we have glucose. So I'm gonna think about no glucose, but we do have lactose, plus lactose, and in here, you have
+glucose plus lactose. Well, the lactose part, if we have lactose around then we're going to have the Allolactose around, and we just covered this scenario. The Allolactose binds
+to the lac repressor, keeps the lac repressor from
+binding to the operator, and so you have your RNA polymerase is able to actually
+perform the transcription. But that's not it. In a situation with no glucose, you actually are going to
+also involve the CAP site. You're going to have an
+activator that's going to make this happen even more, because if you don't have glucose around, man, you really need that lactose. And so, what you have is something called, so let me draw this, the Catabolite Activator Protein, right over here. The Catabolite Activator Protein, and in the presence of Cyclic AMP, Adenosine Monophosphate. It's a derivative of ATP, and so this is that right over there, Cyclic AMP. You'll see that come up a lot in biology. So this is the Catabolite
+Activator Protein, in the presence of C AMP, and we'll talk about
+how Cyclic AMP relates to glucose in a second. In that presence, it is going to bind to this, the CAP site, and it is going to further
+activate the transcription. So in this situation,
+no glucose plus lactose, you're going to have
+even more transcription. So let me write this down. Lots of transcription. Lots of transcription. Now, I know what you're probably asking. This is what I first asked myself when people told me about Cyclic AMP, "Well, how does Cyclic
+AMP relate to glucose?" Well, I'm not gonna go into
+a huge amount of detail here, but what you need to know here, and it makes sense, is that if you have glucose, so let me write it this way. If you have high glucose, high glucose. I'm having trouble writing. High glucose, then that's going to inhibit
+the production of Cyclic AMP, so low Cyclic adenosine monophosphate. And if you have low
+glucose, or no glucose, it's like a tongue twister. If you have low glucose, well, you're not going
+to inhibit the creation of Cyclic AMP, and so you're going to
+have high Cyclic AMP. So if you have no glucose, or low glucose, we are in this scenario right over here. You're going to have higher
+concentrations of Cyclic AMP, which can bind to the
+Catabolite Activator Protein, which then acts as an activator to allow even more
+transcription of the lac operon. Which, once again, why is it important? Well, if there's no
+glucose or low glucose, you're really going to need that lactose. You really wanna transcribe
+these genes as much as possible. Now, what about the situation where there is glucose and lactose? Well once again, if there is lactose, then you are going to have Allolactose, which is going to be able to
+bind to the lac repressor, and by it binding to the lac repressor, the lac repressor is not going to be able to bind to the operator. And so you do have, once again, the RNA polymerase is going
+to be able to transcribe. But because you have glucose present, you're going to have low or, well I'll just write low, Cyclic AMP. And since you have low
+or no Cyclic AMP around, well, that Cyclic AMP
+isn't going to be able to bind to the Catabolite
+Activator Protein, and so the Catabolite
+Activator Protein isn't going to be able to act as an activator. I know I'm using a lot
+of words multiple times. And so it's not going to
+bond to the activator site, or to the CAP site, and so you're going to
+have less transcription. Less transcription, which once again makes sense. You've got glucose and lactose around. The cell would prefer to use glucose. Simpler sugar. Why waste resources? You have plenty of energy around, just go straight to the glucose. But if you don't have glucose around, well then use more resources so that you can digest the lactose.

@@ -1,0 +1,207 @@
+  In the last video we saw that
+if we had some line that was defined as all of the scalar
+multiples of some vector-- I'll just write it like this. The scalar multiples,
+obviously, are any real number. We defined a transformation, and
+I didn't speak of it much in terms of transformations, but
+it was a transformation. We defined a projection
+onto that line L as a transformation. In the video, we drew it as
+transformations within R2, but it could be, in general, a
+transformation from Rn to Rn. We defined it as, the projection
+of x onto L was equal to the dot product of x,
+with this defining vector. x dot this defining vector,
+divided by that defining vector dotted with itself.   All of that times the defining
+vector of the line. This was our definition. A couple of things might have
+popped out at you right when we first saw this. When you dot a vector with
+itself, what's that equal to? We know that if I take some
+vector, and I dot it with itself, that is equivalent
+to the length of the vector squared. We can rewrite this as being
+equal to x dot v, over the length of v squared, all
+of that times v. Wouldn't it be nice if the
+length of v was 1. The length of v was
+equal to 1. If the length of v was 1, or
+this is another way of saying that, v is a unit vector. Our formula for our projection
+would just simplify to x dot v. All of that times, this will
+just be some scalar number, that times v. You say, hey Sal, how do
+we know if this is a unit vector or not. What you can realize is that
+any-- Let me draw it this way. When I drew it in the previous
+video, I just picked a line, like that. The line can be really defined
+to this vector v in the line. It can be any of the vectors
+that's contained in the line. The vector v could
+be like that. Let's say someone gives
+you a vector v that isn't a unit vector. Let's say that the length
+of v is not equal to 1. How can you define a line
+using sum unit vector. You can just normalize v. You can define sum unit
+vector right here. You could define sum
+vector right there. Let's call it u, and I'll
+say it's a unit vector. That is equal to 1 over 1 over
+the length of v times v. I showed you this in the
+unit vector video. You can construct a unit vector
+that goes in the same direction as any vector,
+essentially just by dividing, or I guess multiplying,
+that vector times 1 over its length. In general, we can always
+redefine the line. All of the possible scalar
+multiples of v are going to be the same thing as all of the
+scalar multiples of our unit vector, u, which is just
+a scalar multiple of v. We can redefine our line. If we redefine our line, L,
+as being equal to all the possible scalar multiples of
+our unit vector, where the scalars are any members
+of the real numbers. Our projection definition
+simplifies a good bit. The projection of x onto L
+becomes x dot our unit vector, times the unit vector, times
+the unit vector itself. That case that I did in the
+previous video, where I had those two vectors. Where I said the vector v that
+defined the line, I think it was vector 2, 1. Our vector x was
+equal to 2, 3. If you want to do this
+definition, we just have to turn this guy into a
+unit vector first. The way you turn him into a unit
+vector, you figure out the magnitude. In this case the magnitude
+of v is equal to what. 2 squared plus 1 squared is 1. You take the square
+root of that. Let me just write. It's equal to square root of 2
+squared plus 1 squared, which is equal to the square
+root of 5. You can define your u-- your
+unit vector could just be 1 over this, times that guy. 1 over the square root
+of 5 times 2, 1. You could multiply
+it out, or not. You could just leave
+it in this form. You can always, for any vector
+v, you can always find a unit vector that goes in the same
+direction, assuming that we're dealing with non-zero vectors. You can always reduce anything
+like this, to some other definition, like this. Where this is a unit
+vector version of your vector v up there. I just said that,
+look, this is a transformation from Rn to Rn. The one thing that we're not
+sure of, is this a linear transformation. We can always write
+it like this. Let's see if this is always
+going to be a linear transformation. There's two conditions for it to
+be a linear transformation.   Let's see what happens if I take
+the projection onto L of two vectors. Let's say the vector a
+plus the vector v. If I take the sum of
+their vectors. If this is a linear
+transformation, this should be equivalent to taking each
+of their projections individually, and
+then summing. Let's see if this is the case. This is equal to, by our
+definition, we'll use the unit vector version, because
+it's simpler. This is equal to a plus b,
+that's our x, dot u. And then, all of that times
+our unit vector. We know that the dot product has
+a distributive property, so that this is equal to
+a dot u plus b dot u. These are unit vectors. All of that times
+the vector u. These are just scalar numbers. So scalar multiplication has
+distributive properties. This is equal to a dot u,
+times our vector u. Remember, this is just going
+to be some scalar. Plus b dot u times our
+unit vector u. What is this equal to. This right here is equal
+to the projection of a. This is equal to the projection
+of a onto L, by definition, right here. By this definition. If we assume that we're dealing
+with the unit vector definition for the line. This is equal to, this whole
+thing right here, is equal to plus the projection onto
+L of the vector b. We see our first condition
+for this being a linear transformation holds. A projection of the sum of the
+vectors is equal to the sum of the projections of
+the vectors. Our second condition is that
+the projection of a scalar multiple should be equal to
+a scalar multiple of the projection. Let me write that down. What is the projection onto L
+of some scalar multiple of some vector a. That is equal to ca dot
+our unit vector u times unit vector u. This one is a little bit
+more straightforward. This is the scalar multiple. We see it in our dot product
+properties, this is equal to c times a dot u, times
+the vector u. This is just equal to c times,
+this right here, is a projection of a onto L.   We met both of our conditions
+for linear transformations. We know that our projection
+onto a line L in Rn is a linear transformation. That tells us that we can
+represent it as a matrix transformation.   We know that projection of x
+onto L, we already know this definition, it can
+be rewritten. It doesn't hurt to rewrite it. As x dot some unit vector
+that defines our line. Let me draw it with a little
+hat to show that it is a unit vector. Times the unit vector
+itself, so that we actually get a vector. How can I write this as
+some matrix product. Some matrix vector product. I want to write it as
+a product of some matrix times x.   To simplify things, since we're
+actually dealing with a matrix, let's limit ourselves
+to the case of R2. I'm assuming that my projection
+onto L is going to be a mapping from R2 to R2. You could do what I'm
+doing here with an arbitrary dimension. If we're doing it in R2, then
+our matrix A, right there, is going to be a 2 by 2 matrix. We've seen in multiple videos
+that to figure out the matrix A, we just take the identity
+matrix that has the standard basis vectors as columns. 0, 1. Or 1, 0, and then 0, 1. And we apply the transformation
+to each of these columns. We could say that A is going
+to be equal to-- its first column is going to be equal to
+the projection onto L of this thing right here. We'll do it in this orange
+color, right here. What is that going to be. That is going to
+be this dot u. Let me write my u. My unit vector, let's just
+assume that u can be rewritten as my unit vector is equal
+to sum u1 and u2. Just like that. I need to take this dot
+my unit vector, let me write this down. Let me write this on the side. The first thing I want to do
+is figure out what the projection-- the projection
+onto L, let me write it this way. We know the projection is just
+equal to this dot this times that vector. Let me write that. The vector 1, 0 dot
+the unit vector u, which is just u1, u2. We're going to have that
+times my unit vector. I'll write it like this. Times the vector u1, u2. This is going to be my
+first column in my transformation matrix. My second column is going to be
+the same thing, but I'm not ready to take the projection
+of this guy. The definition of our projection
+is you dot this guy with our unit vector. So we dot it. We're taking the dot
+product of 0, 1. 0, 1 dot my unit vector
+dot u1, u2. I'm going to multiply
+that times my unit vector, times u1, u2. This seems very complicated, but
+it should simplify when we actually try to work out our
+transformation matrix. Let's do it. When I dot these two guys,
+what do I get. Let me write it here. My matrix A will become 1 times
+u1, plus 0 times u2. That's just u1. This whole thing just simplifies
+to u1, when I take the dot product of
+these two things. Times u1, u2. That's going to be
+my first column. My second column, if I dot these
+two guys, I get 0 times u1 plus 1 times u2. So I'm going to get u2 times
+my unit vector, u1, u2. If I multiply that out, this
+will be equal to what. I can just write them
+as columns. u1 times u1 is u1 squared. u1 times u2 is u1, u2. u2 times u1 is u2 times u1. Then, u2 times u2
+is u2 squared. You give me any unit vector
+and I will give you the transformation that gives you
+any projection of some other vector onto the line
+defined by that. That was a very long
+way of saying that. Let's go back to what
+I did before.   Let's say we want to find any
+projection onto the line, onto the vector, I'll draw it here. We'll do the same example that
+we did in the last video. If I have some vector v
+that looks like that. We said the vector v was equal
+to the vector 2, 1. That was my vector v. How can we find sum
+transformation for the projection onto the
+line defined by v? Onto this line right here. The line defined by v. What we can first do is convert
+v into a unit vector. We can convert v into
+a unit vector that goes in the same direction. Some unit vector u. We did that already up here. Where we essentially just
+divided [? bv ?] by it's length. Let's take v and divide
+by it's length. The unit vector is this, 1
+over the square root of 5 times our vector v. It was 1 over the square
+root of 5 times our vector v, right there. You start with a unit
+vector there. You just create this matrix,
+and then we will have our transformation matrix. If this is our u, what will
+our matrix be equal to. This is u. Then our matrix would be
+equal to u1 squared. What is u1 squared. Let me rewrite our u a little
+bit, not at angles. Our vector u, our unit vector
+that defines this line, is equal to the vector 2 over the
+square root of 5 and 1 over the square root of 5. I just multiplied
+out this scalar. If we want to construct this
+matrix, we get A is equal to u1 squared. What is this squared? It becomes 2 squared 4 over the
+square root of 5 squared, which is just 5. Equals 4 over 5. What is u1 times u2? 2 times 1 over square root of
+5 times square root of 5. So, 2/5. I just multiplied these two. What is u2 times u1. Same thing. Order doesn't matter
+when you multiply. This will also be 2/5. What is u2 squared. 1 squared over the square root
+of 5 squared is just 1/5.   Now we can say-- and that's the
+neat thing about creating these matrices, that the
+projection-- Let's say we have some, let's say this is the
+origin right here, we have some other vector
+x, right here. We can now define our
+transformation. The projection onto L where
+L is equal to any scalar multiple of our unit vector u. It's right here. Is a member of the reals. That is our line L. The projection onto L
+of any vector x is equal to this matrix. Is equal to the matrix 4, 5,
+2/5, 2/5, 1/5 times x. Which is a pretty neat result,
+at least for me. We once again reduced everything
+to just a matrix multiplication. You take this x and you multiply
+it by this matrix, you're going to get its
+projection onto the L, onto the line. If you take this vector, let's
+say a, and you multiply it times this matrix right there,
+you're going to get its projection. Its projection onto the line. If you could take this vector--
+No, it should go through the origin. I want to draw it in
+standard position. If you take this vector, right
+there, and multiply it times this matrix, you're going to get
+this vector, right here, that is contained in the line. When you subtract it from
+this, it's orthogonal. We know the definition. It's kind of the shadow
+of that vector. Anyway, I think this
+is pretty neat.

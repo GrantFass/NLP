@@ -1,0 +1,26 @@
+Voiceover:Let's say that
+I have the unit vector U and in the horizontal direction for every 1/3rd it goes,
+it goes square root of eight over three in
+the vertical direction. And we can verify that this
+is indeed a unit vector. The magnitude of our vector U is going to be equal to the square root of the sum of the squares of the components. And this, once again, just comes straight out of the Pythagorean Theorem. So it's going to be equal to the square root of 1/3rd squared plus square root of eight over three squared. And what's that going to be? Well that's going to
+be equal to the square root of one over nine
+plus eight over nine. Which is equal to, and I
+think you see this coming, square root of nine over
+nine, which is equal to one. So this is indeed a unit vector. Let's say someone says,
+"Well I like this direction, "but I don't want the
+magnitude to just be one. "I want to find some vector V "that has the same
+direction, so it has same "direction as U, but has
+a magnitude of eleven." So we want the vector V to
+have a magnitude of eleven. So how could I define vector V? One way to think about
+it is if we just scale each of the components of U up by eleven, then we will have gone
+in the same direction, but now we will have a
+magnitude eleven times as big. And if we start with the magnitude of one we'll now have a magnitude of eleven. So we could say that vector
+V could be eleven times one third, comma, square
+root of eight over three. And so what is this going to be equal to? This is going to be equal
+to eleven over three, comma, eleven square roots
+of eight, over three. And I encourage you, if
+you don't believe me, I guess on one level it should make sense that when you multiply a vector times a [scalerite] like this, it just
+scales it in that direction by this factor, so if your magnitude was one, your magnitude will now be
+eleven in that direction. But if you want, you could actually verify mathematically that the magnitude here, if you were to calculate
+it, is going to be eleven instead of one, as in the
+case of unit vector U.

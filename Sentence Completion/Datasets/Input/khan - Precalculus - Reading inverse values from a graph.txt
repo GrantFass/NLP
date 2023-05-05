@@ -1,0 +1,31 @@
+- [Instructor] We're told
+the following graph shows y is equal to f of x, all right. And then the first question they say is, "What appears to be the
+value of f inverse of two?" Pause the video and see if
+you can have a go at that. All right, now let's work
+through this together. So it's important to realize they're not asking us what f of two is. They're asking us f inverse of two. f of two we would say,
+"Okay, when x is equal to two that's the input into our function." And then the graph tells us that f of two it looks like it might be
+a little bit more than 2.5. Maybe it's approximately 2.6. But that's not what they're asking us. They're asking us f inverse of two. And just as a reminder of
+what an inverse function is, if we have some input, x, and we input into our function, f, that is going to output f of x. Now, if we were to input f of x into the inverse function
+for f, then the output here, which is going to be f inverse of f of x is going to get us back
+to this original x, is going to be equal to x. So we are really, in this scenario, dealing with this part of this
+chain of inputs and outputs. We're saying we want to figure
+out what f inverse of two is. So this part, right over here
+is going to be equal to two. So we're saying when f
+of x is equal to two, what is the corresponding x? So when f of x is equal to two,
+what is the corresponding X? We get four. So let's write that down. f inverse of two is equal to four. So when x is equal to four, you input that f of four is equal to two or f inverse of two is equal to four. Now the next part they say, "Sketch the graph of y is
+equal to f inverse of x." So an important thing to realize is if we're saying that
+b is equal to f of a which implies that the point
+a,b is on the graph of f, then we're dealing with f inverse. We would know that a would
+be equal to f inverse of b. You can think about swapping these two, the a and the b's here, which means that b,a
+would be on f inverse. So any coordinate point that's
+on our original graph f, if you swap the x and the y, that's going to be on our f inverse. So let's just pick some points. And once again, they're
+just saying sketch, so it doesn't have to be perfect. So if we look at this
+point right over here, that looks like the point
+-10, maybe it looks like 3.4. Well, then that means
+if we swap that x and y it'll be on the graph of f inverse. So if we go to 3.4, and then -10, so it gets us right about there, that would be on the graph of f inverse. Now, if we went to, let's say let's say this point right over here. This is the point -2,3. So if -2,3 is on the graph of f, then 3,-2 would be on the inverse. So 3,-2 would be on the
+inverse right over there. Let's pick a few more points. So we have this point right over here, 4,2 which would be on the graph of f, which means that 2,4 is on the inverse. So 2,4, which would be right over there. And then if we look at
+this point over here which looks like roughly nine, let's just call it 9,-10 maybe it's 9.1,-10. If that's on the graph of f, then if we swap that -10, maybe 9.1 would be on the inverse
+-10,9.1, right over there. And so then we could connect the dots to try to sketch out
+what the inverse function is going to look like, the
+graph of the inverse function. So it's going to look something like that. And you might notice, it looks like it's a reflection about the line y=x. It looks like it's a
+reflection about that line, which is exactly right.

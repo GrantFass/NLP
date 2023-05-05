@@ -1,0 +1,103 @@
+Two different hoses are being
+used to fill a fish pond. Used together, the
+two hoses take 12 minutes to fill the pond. If used alone, one hose is
+able to fill the pond 10 minutes faster than the other. So 10 minutes faster than
+the other hose. How long does each hose take
+to fill the pond by itself? So let's think about
+each of the hoses. We have a faster hose, and then
+we have a slower hose. And let's say that the faster
+hose fills the pond. Let's say it takes him
+f minutes per pond. Now how long is it going to
+take the slower hose? Well, the faster hose does
+it in 10 minutes less. It's 10 minutes faster. So the slower hose is going
+to take 10 minutes more. So the slower hose is going to
+take f plus 10 minutes per fish pond or per pond. Now this is in minutes per pond,
+but if we want to be able to add rates together, we
+should really think about in terms of ponds per minute. So let's rewrite each
+of these statements as ponds per minute. You could write this as f
+minutes per 1 pond or f plus 10 minutes per 1 pond. And if you just take the inverse
+of each of these statements, these ratios are
+equivalent to saying 1 pond per f minutes. So it's really not saying
+anything else. I'm just inverting the ratio. Or you could think of it as
+1/f ponds per minute. Same logic right here. We could essentially rewrite
+this ratio as 1 over f plus 10 ponds per minute. So now we have the rate
+of the faster hose. We have the rate of
+the slower hose. How many pounds per minute
+for the faster hose? How many pounds per minute
+for the slower hose? If we add these two rates,
+we'll know the ponds per minute when they're
+acting together. So if we have 1/f ponds per
+minute plus 1 over f plus 10 ponds per minute. This is the faster hose, this
+is the slower hose. This'll tell us how
+many ponds for minute they can do together. Now, we know that information. They say the two hoses
+take 12 minutes. So let me write that
+over here. So combined. The combined take 12
+minutes per pond. So what is their combined rate
+in terms of ponds per minute? So you could view this as
+12 minutes per one pond. You could take the inverse of
+this or take the ratio in terms of ponds per minute
+instead and you get 1/12 minutes. Sorry, 1/12 ponds per minute. In one minute combined, they'll
+fill 1/12 of a pond. Which makes complete sense. Because it takes them
+12 minutes to fill the whole thing. So in one minute they'll
+only do 1/12 of it. So this is their combined rate
+in ponds per minute. This is also their combined
+rate in ponds per minute. So this is going to
+be equal to 1/12. And now we just have to solve
+for f and then f plus 10 is going to be how long it
+takes the slower hose. So let's multiply. Let's see what we could do. We could multiply both sides of
+this equation times f and times f plus 10. So let's do that. So I'm going to multiply both
+sides of this equation times f and f plus 10 times both
+sides of this equation. So f and f plus 10. Scroll down a little bit. Scroll to the left, so we
+have some real estate. So let's distribute this
+f times f plus 10. So if we multiply f times f plus
+10 times 1/f, that f and that f will cancel out and we're
+just going to be left with an f plus 10. That's when you multiply
+that term times the f times f plus 10. Now, when you multiply this
+term, when you multiply 1 over f plus 10 times f times f plus
+10, this and this will cancel out and you're just
+left with an f. So you have plus f is equal
+to-- and you have over 12. Actually, well in a second, let
+me multiply all sides of this equation by 12. I'll do that next in a second. So let's just say this is going
+to be equal to 1/12 times f squared. f times f is f squared. Plus 10f. And now let's just multiply
+both sides of this equation by 12. I could've done it in the last
+step so that we don't have any fractions here. And so the left-hand side
+we get 12 times f. We get 12f plus 120 plus 12f. The right-hand side, that and
+that cancels out and you are left with f squared plus 10f. And now we have a quadratic. We just have to get it into
+a form that we know how to manipulate or deal with. Before that, we can
+simplify it. We have a 12f and a 12f. So this becomes 24f plus
+120 is equal to f squared plus 10f. And then let's get all
+of this stuff out of the left-hand side. They'll get all on the
+right-hand side. So from both sides of this
+equation, let's subtract 24f and a negative 120
+or minus 120. So you have minus
+24f minus 120. The left-hand side
+just becomes 0. That was the whole point. Right-hand side is f squared. 10 minus 24f is negative 14f. Minus 120. Now we could factor this. Let's see, if you do 20 times--
+yeah, that looks like it would work. So negative 20 and 6, when you
+take their product, give you negative 120. And negative 20 plus
+6 is negative 14. So we could factor this
+right-hand side as 0 is equal to f minus 20 times f plus 6. When you multiply negative 20
+times 6, you get negative 120. Negative 20 plus 6
+is negative 14. And the only way that that's
+going to be equal to 0 is if f minus 20 is equal to 0 or
+f plus 6 is equal to 0. Add 20 to both sides
+of this equation. You get f is equal to 20. Remember, f is how many minutes
+does it take for the fast hose to fill the pond. And then, if you take
+this one, you subtract 6 from both sides. You get f is equal
+to negative 6. Now, when we're talking about
+how many minutes does it take for the fast hose to fill the
+pond, it doesn't make any sense to say that it
+takes it negative 6 minutes to fill the pond. So we can't use this answer. We need a positive answer. So this is how many minutes it
+takes the fast hose to fill the pond. f is equal to 20. So this right here, the
+faster hose takes 20 minutes per pond. I'll write it here. 20 minutes per pond
+is the fast hose. And then the slower hose, it
+takes 10 minutes more. It's f plus 10. So it takes 30 minutes
+per pond. And we're done. I don't want to confuse
+you with this stuff. The faster hose takes
+20 minutes. Slower hose takes 30
+minutes per pond. If they were to do it together,
+it would take 12 minutes, which is a little
+bit more than half. If you had two faster hoses,
+it would take 10 minutes. But this guy's a little bit
+slower, so it's taking you a little bit more than
+10 minutes. So it makes sense. It takes you 12 minutes when
+they're working together.

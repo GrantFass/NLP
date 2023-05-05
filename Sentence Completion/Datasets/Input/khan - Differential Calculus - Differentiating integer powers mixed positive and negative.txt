@@ -1,0 +1,24 @@
+- [Voiceover] So we have
+the function g of x, which is equal to 2/x to
+the third minus 1/x squared. And what I wanna do in this video, is I wanna find what g prime of x is and then I also wanna
+evaluate that at x equal two, so I wanna figure that out. And I also wanna figure out what does that evaluate to when x is equal to two? So what is the slope
+the of the tangent line to the graph of g, when x is equal to two? And like always, pause this video and see if you can work this out on your own before I work through it with you. And I'll give you some hints all you really need to do is apply the power rule, a little bit of basic exponent properties and some basic derivative properties to be able to do this. Alright, now let's just do this together and I'll just rewrite it. G of x is equal to this first term here, 2/x to the third. Well, that could be rewritten as 2 times x to the negative three. We know that 1/x to
+the n is the same thing as x to the negative n. So I just rewrote it and this might be ringing a bell of how the power rule might be useful. And then we have minus- well, 1/x squared that is the same thing as x to the negative two. And so this, if we're gonna take the derivative of both sides of this, let's do that. Derivative with respect to x. Dx, we're gonna do that
+on the left-hand side, we're also gonna do it
+on the right-hand side. On the left-hand side, the derivative with respect to x of g of x, we can write that as g prime of x is going to be equal to, well, the derivative of this first that we have right here written in green, this is going to be, we're just gonna apply the power rule. We're going to take our exponent, multiply it by our coefficient out front, actually let me write that out, that's going to be... There's this equal sign. That is going to be two
+times negative three, times x and now we're going
+to decrement this exponent. You have to be very careful here because sometimes your brain might say, "Okay, one less than three is two, "so maybe this is x in the negative two." but remember, you're going down. So if you're at negative
+three and you subtract one, we're gonna go with the negative three minus one power. We'll that's gonna take
+us to negative four. So this is x to the negative four power. So two times negative three
+x to the negative four, or we could have also written that as negative six x to the negative four power. And then, minus... Well, we're gonna do the same thing again right over here. We take this negative two, multiply it by the coefficient that's implicitly here, you could say there's a one there. So negative two times one. So you have the negative two there and then you have the x to the- well what's a negative two minus one? That's negative three. To the negative three power. And so we can rewrite
+all of this business as, the derivative g prime of x, is equal to negative six, negative six x to the negative fourth. And now we're subtracting a negative. So we could just write this as, plus two x to the negative three. This negative cancels
+out with that negative. Subtract a negative, same
+thing as adding a positive. So we did the first part. We can express g prime
+of x as a function of x. Now, let's just evaluate
+what g prime of two is. So g prime of two is going to be equal to negative six times two to
+the negative fourth power plus two times two to
+the negative third power. Well, what's this going to be? This is equal to negative
+6/2 to the fourth, plus 2/2 to the third, which is equal to negative six over- two to the fourth is 16, plus 2/2 to the third is eight. And so let's see, this is... Lets rewrite this all
+with a common denominator. I could write this as 1/4, but then this one won't
+work out as cleanly, I could write them both as eights. This is negative 3/8s. Negative 3/8s. So you have negative 3/8s plus two eights is equal to negative 1/8. So the slope of the tangent
+line at x equals two, to the graph y equals g of x has a slope. That slope is negative 1/8.

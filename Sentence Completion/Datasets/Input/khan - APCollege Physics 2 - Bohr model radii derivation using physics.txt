@@ -1,0 +1,69 @@
+- In the Bohr model of the hydrogen atom we have one proton in the nucleus. So I draw in a positive charge here and a negatively charged
+electron orbiting the nucleus, so kind of like the
+planets orbiting the sun. Even though the Bohr model is not reality it is useful for a concept of the atom. It's useful to calculate, say for example we can calculate
+the radius of this circle. We're actually gonna
+do that in this video. It's worth going in to
+some of the details. But I should warn you that this is a lot of physics in this video as well. If you don't like physics you
+can jump to the next video where I show you the result of
+what we're going to calculate in this video. Going back to the electron here, let's say the electron is going around counter-clockwise. The velocity of that
+electron at this point is tangent to the circle. That's the direction
+of the velocity vector. The electron has mass, m let's say. The electron is going to feel a force. It's going to be attracted to the nucleus. Opposite charges attract. This negatively charged
+electron is gonna feel a force towards the center of the circle. That's a centripetal force. In this case we're talking
+about the electric force. This is the electric
+force that's causing the electron to move in a circle. We can find the electric
+force by using Coulomb's law. Over here in the left
+this is Coulomb's law, the electric force is equal to K, which is a constant, times q1, which is one of the charges. Let's just say that q1 is
+the charge on the proton. Times the other charge,
+q2, which we'll say is the charge on the electron. Divided by the distance between
+those two charges squared. This is Coulomb's law. Let's go ahead and plug
+in what we know so far. K is some constant which
+we'll get to later. q1 I said was the charge on the proton, and the charge in the proton
+we'll say is e for now, so elemental charge. q2 I said was the charge in the electron, and the electron has the
+same magnitude of charge as the proton but it's negative. So we put in a negative e here. Divided by the distance between
+the two charges squared. Force is equal to mass times acceleration using Newton's second law. m is the mass of the electron. This will be the centripetal acceleration since we're talking about
+a centripetal force. We know that the centripetal acceleration is equal to V squared over r. We can go ahead and plug in m times v squared over r. Immediately we can cancel
+out one of the r's. Since we only care about
+the magnitude of the force we know the direction
+of the electric force, we don't really care
+about this negative sign, so we can just say we only
+care about the magnitude of the electric force here. We can go ahead and simplify a little bit. This would be ke squared
+over r on the left, and on the right this would be mv squared. Continuing with some
+more classical physics, next we're gonna talk
+about angular momentum which is a tricky concept. Angular momentum is capital L, and one equation for it is r cross p where r is a vector and
+p is the linear momentum. Linear momentum is equal to the mass times the velocity. We're talking about the linear
+momentum of the electrons, so the mass of the electron times the velocity of the electron. Let's go ahead and plug this
+in for angular momentum. We're gonna take the angular
+momentum about the center of our circle here. The angular momentum at the center, so r is a vector. Let me go ahead and draw r in. So r is a vector. It's the distance from the center to where our electron is. So we have r right there. This is the r vector. I put in r. Cross is the cross product. This would be times the linear momentum, so times p which is mv, times the sine of the angle between the two vectors. Let's think about their other vector here. The other vector is the momentum vector. We took care of the r vector. The momentum vector is
+in the same direction as the velocity. If this is the direction of the velocity that's also the direction of
+the linear momentum vector. The angle between those two vectors, the angle between those
+two vectors is obviously 90 degrees. Sine of 90 is 1. We can just say the angular
+momentum is equal to rmv times 1. Niels Bohr thought that
+this angular momentum should be quantized. What he did was he set this angular momentum
+equal to some integer, so like 1, 2 or 3, or you can keep going. But let's just say an integer n, times h which is Planck's constant divided by 2 pi. This is what Bohr came up with. He took this and he
+solved for the velocity. Let's go ahead and do that. On the right we're just gonna solve for v. The velocity is equal to, this would just be n times h divided by 2 pi mr. We just solve for V, and then we're gonna take that. We just solve for V and
+we're gonna plug that into our other equation
+over here on the left. Let's go ahead and do that. We would have ke squared over r. On the right we would
+have m times all of that, n times h over 2 pi mr. Then we just square all of that. Let's go ahead and get some more room and let's continue with our algebra here. We have ke squared over r is equal to the mass times, so we square everything in parenthesis. n squared, h squared, 4 pi squared, m squared, r squared. We can cancel a few things. We can cancel out one of these m's here. We can cancel out on of these r's. Now we would have on the left side ke squared is equal to n squared h squared over 4 pi squared. We would have one m left and one r left. The goal of all this is to solve for the radius of that circle. To solve for r we could
+start by multiplying both sides by 4 pi squared mr. We would get ke squared 4 pi squared mr on the left side. In the right side we would
+get m squared h squared. We're going to solve for r. Let's go ahead and do that. r would be equal to n squared h squared over, this would be over ke squared 4 pi squared m. Now next we're going to
+take all of this stuff and we are going to plug
+in what those numbers are. For example h is Planck's constant, we know what that is. That's 6.626 times 10 to the negative 34. We're going to be squaring that number. That's going to be over all of this. k, if you're taking physics, you know that k is equal
+to 9 times 10 to the ninth. It's a constant. e is elemental charge, the magnitude of charge
+on a proton or an electron is 1.6 times 10 to the
+negative 19 coulombs. We put that in there and that number needs to be squared as well. We have a 4 pi squared in there. Remember, m was the mass of the electron. You can look up the mass of the electron, it's 9.11 times 10 to the
+negative 31st kilograms. That's a lot of math. Rather than take out the
+calculator and show you, you can do that yourself. You'll see that that
+number comes out to be, this comes out to be, this is equal to, I'll put it down here, 5.3 times 10 to the negative 11. If you had time to do all the units you would get meters for this. Go ahead and do that calculation yourself and you would see that
+you get that number. That's a very important number. Let's plug that in to what we have so far in the left. The radius is equal to n
+squared times that number now. 5.3 times 10 to the negative 11. Let's go ahead and plug
+in n is equal to 1, so an integer. This represents a ground state electron in hydrogen. If n is equal to 1, this would be r1 is equal to 1 squared times this number. Obviously that's very simple math. We know that the radius, when n is equal to 1 the radius is equal to this number, 5.3 times 10 to the negative 11 meters. Let's go back up here. Let's go back up here to the picture so I can show you what
+we're talking about, why that's an important value. This is what we just calculated. We calculated this radius for a ground state electron in hydrogen. We calculated this distance
+and we called it r1. The idea of Niels Bohr by quantizing angular momentum that's going to limit your radii, the different radii that you could have. Let's go ahead and
+generalize this equation. We could say r, for any integer n, would be equal to n
+squared times this number, times r1. n squared times r1
+which we just calculated to be 5.3 times 10 to
+the negative 11 meters. This is very important. r for any integer n is equal
+to n squared times r 1. This means only certain radii are allowed because Niels Bohr quantized
+the angular momentum. You have to have specific radii. We'll talk about the other
+radii in the next video. This video, after all that physics, we got this equation. We're gonna use that
+to go into more detail about the Bohr model radii.

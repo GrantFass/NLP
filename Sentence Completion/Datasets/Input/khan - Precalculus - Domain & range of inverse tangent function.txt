@@ -1,0 +1,71 @@
+Voiceover:We're told given g of x is equal to ten of x minus
+three pi over two plus six, find the g inverse of x. They want us to type that in here and then they also want us to figure out what is the domain of g inverse, the domain of g inverse of x. I've got my little scratch pad here to try to work that through. Let's figure out what g inverse of x is. This is g of x, so g inverse of x. Essentially, let me just read this is g of x right over here, g of x is equal to tangent of x minus three pi over two plus six. G inverse of x, I
+essentially can swap the … I can replace the x
+with the g inverse of x and replace to g of x with an x and then solve for g inverse of x. I could write that x is equal
+to tangent of g inverse of x minus three pi over two plus six. Let's just solve for g inverse of x. I actually encourage
+you to pause this video and try to work through this
+out or work it out on your own. Let's subtract six from both sides to at least get rid of this six here so I'm left with x minus
+six is equal to the tangent of g inverse of x minus three pi over two. Now let's take the inverse tangent of both sides of this equation so the inverse tangent
+on the left hand side is the inverse tangent of x minus six and on the right hand side the
+inverse tangent of tangent. If we restrict the
+domain in the proper way and we'll talk about that in a little bit is just going to be what the input into the tangent function is. If you restrict the
+domain in the right way, inverse tangent of the
+tangent of something, let's say theta is just
+going to be equal to theta. Once again if we restrict the domain, if we restrict what the possible values of theta are in the right way. Let's just assume that we're doing that and so the inverse
+tangent of the tan, of this is going to be just this
+stuff right over here. It's just going to be that, it's going to be g inverse of x minus three pi over two. Now we're in the [home] stretch to solve for g inverse of x we could just add three
+pi over two to both sides so we get and actually let
+me just swap both sides. We get g inverse of x is equal to the inverse tangent of x minus six and then we're adding three
+pi over two to both sides so this side is now on this side so plus three pi over two. Let me actually type that and I'm going to see if I can remember it because I'm about to
+lose this on my screen so inverse tangent of x minus
+six plus three pi over two so let me write that down. Let me type this. G inverse of x is going
+to be the inverse tangent so I can write it like this, the inverse tangent of x minus six and yes it interpreted it correctly. Inverse tangent you can do that as arctangent of x minus six
+plus three pi over two and it did interpret it correctly but then we have to think about what is the domain of g inverse? What is the domain of g inverse of x? Let's think about this a little bit more. The domain of g inverse of x, so let's just think about
+what tangent is doing. The tangent function if
+we imagine a unit circle, so that's a unit circle right over there. Guess we can imagine to be a unit circle. My pen tool is acting up a little bit it's putting this little gaps and things but I think we can power through that. Let's just say for the sake of argument that that's a unit circle, that's the x axis and that's the y axis. If you form an angle theta. If you form some angle
+theta right over here, the tangent of theta is
+essentially the slope of this terminal ray
+of the angle or the ... Or I guess we can call it the
+terminal ray of the angle. The angles form by that ray and this ray along the positive x axis. The tangent of theta is
+the slope right over there and you can get a tangent of
+any theta except for a few. You can find the tangent of that, you could find the slope there, you could find the slope there, you could also find the slope there, you could find the slope there but the place where you
+can't find the slope is when this ray goes straight up, or this ray goes straight down. Those were the cases where
+you can't find the slope. They are the slope you
+could say is approaching positive or negative infinity. The domain of tangent, so tangent domain so the domain is essentially
+all real numbers, all reals except multiples of pi over … I guess you can say pi over
+two plus multiples of pi, except pi over two plus multiples of pi where k could be any integer so you could also be subtracting pi because if you have pi over two, if you add pi, you go straight down here. You add another pi you go up there, if you subtract pi you go down here, add, subtract another
+pi you go over there. This is the domain but given this domain you
+can get any real number. The range here is all reals because you can get any slope here, you can increase theta if
+you want a really high slope, decrease theta if you want
+a really negative slope right over there. You can really get to anything. Now when you're taking
+about the inverse tangent, by convention you're going to … Well to make tangent invertible so that you don't have multiple elements of your domain all mapping
+to the same element of the range because for example, this angle right over here
+has the exact same slope as this angle right over here. If you have two theta's
+mapping to the same tangent then that's not, if you
+don't restrict your domain so that you only have one of them, it's not going to be invertible so the convention is is that
+to make tangent invertible you restrict its domain to the interval from negative pi over two to pi over two in order to
+construct the inverse tangent. The inverse tangent, you can input any real number into it so the inverse tangent's domain, this is just the convention. They could have restricted
+tangents domains as long as for any theta,
+there's only one theta in that domain that maps to a
+specific element of the range but the convention is,
+well inverse tangent can … The convention is to
+restrict tangents domain between negative pi over
+two and pi over two. Inverse tangents domain is all reals but its range is restricted. Its range and this is by convention it's going to be between
+negative pi over two and pi over two and not including them. Le'’s go back to our original
+question right over here, what is the domain of g inverse? Let's look at our domain of g inverse, well g inverse the domain of this I could put any real number in here. Now what this is going to pop out is going to be something between negative pi
+over two and pi over two but they're not asking us
+the range of g inverse. Actually would have been a
+more interesting question. They're asking us what's
+the domain of g inverse and I could put in any real
+number right here for x, so let's put that in here. Domain of g inverse of x, it's negative infinity to infinity but actually just for fun and let's just verify that
+we got the question right and we did but just for fun. Actually I am curious, let's think about what
+the range of g inverse is. The range of this thing right over here is going to be between
+negative pi over two to pi over two, that's for
+this part right over here and then we're going to add
+three pi over two's to it. The range for the entire function, so the range for this
+thing is going to be, what the low end if we add
+three pi over two to this, this is going to give us two pi over two which is just going to be, so three pi over two minus pi over two is going to be two pi
+over two which is just pi, just pi all the way to three pi over two plus another pi over two is
+going to be four pi’s over two or two pi. The range of g inverse
+of x is pi to two pi and it's an open interval. Doesn't include the boundaries but its domain you could
+put any value for x here and it will be defined.

@@ -1,0 +1,54 @@
+Voiceover:Suppose that
+Erika simultaneously rolls a 6-sided die and a 4-sided die. Let A be the event that she rolls doubles, let me write this, A be the event that she rolls doubles and B be the event that
+the 4-sided die is a 4. Use the sample space of
+possible outcomes below to answer each of the following questions. Fair enough. What is probability of A, the probability that Erika rolls doubles? Over here, we have our sample
+space of possible outcomes. Each of these are equally likely, and so let's see how
+many of them there are. There are 1, 2, 3, 4 by 1, 2, 3, 4, 5, 6, so there are 24 possible outcomes, which makes sense. There's 4 possible outcomes
+for the 4-sided die and 6 possible outcomes
+for the 6-sided die, so you have a total of 24
+equally likely outcomes, so probability of, let me write it here, so probability of A is
+going to be the fraction of the 24 equally likely outcomes that involve event A, that she rolls doubles. Let's think about that. This is she has rolled doubles, 1 and a 1. They don't look the same
+but they're both 1s. Let's see. We have a 2 and a 2. We have a 3 and a 3, and we have a 4 and a 4. And it's impossible to have a 5 and a 5 because the 4-sided die only goes up to 4. So there's 4 possibilities, 4 of the 24 equally likely possibilities involve rolling doubles. There is a 4/24 probability, or if we divide the numerator
+to the denominator by 4, it is a 1/6 probability that Erika, a 1/6 probability that
+Erika rolls doubles. What is probability of B, the probability that
+the 4-sided die is a 4? The probability of B, well, once again, there's 24
+equally likely possibilities, and how many of them involve
+the 4-sided die being a 4? You have all of these right over here involve a 4-sided die being a 4. So this is 1, 2, 3, 4, 5, 6 of the 24 equally likely possibilities, or you could say 1/4 of the
+equally likely possibilities or the probability is 1/4, which makes sense
+because probability of B, it ignores the 6-sided die, and it just says what's the probability that the 4-sided die is 4? Well, that's 1 one of
+the 4 possible outcomes for that 4-sided die. What is the probability of A given B, the probability that Erika rolls doubles given that the 4-sided die is a 4? Let's just think about this a little bit, probability of A given
+that B has happened, given that B has happened. Essentially, we are restricting our equally likely possibilities now to the situation where B has happened. Given B means we're assuming
+that B has happened. Now, we're restricting our sample space of possible outcomes where B has happened to this right over here. Now there are 1, 2, 3, 4, 5,
+6 equally likely outcomes. How many of them involve A happening? This one right over here
+that we had already circled, this is the one out of the
+6 equally likely outcomes that involve doubles, so there is a 1/6 probability. Now that makes sense. Let me just write this down. This is 1 over 6. Why does this make sense? Because with a 4-sided
+die we're assuming is a 4. So essentially, this
+is analogous to saying when you roll a 6-sided die, what's the probability
+that you get a 4 as well, because that's the only way
+you're going to get doubles, given that the 4-sided die is 4. And we see that right over here. The 6-sided die has to be a 4 as well in order for this to be doubles because we're assuming it's given that B, we're given event B, we're restricting our
+sample space with event B. What is the probability of B given A, the probability that the 4-sided die is 4 given that Erika rolls doubles? Let's just think about that a little bit. The probability of B given A, B given that A is true. So what's this going to be? This means we're going to
+restrict our sample space to essentially 4 equally likely
+outcomes that A has happened so where A is true, I guess I could say. So there's 1, 2, 4. And how many of them
+involve event B being true? Well, the only one of these 4 that involve event B being true is
+this one right over here, where we've got our doubles. So there is a 1/4 probability
+that if we assume, given that we've gotten doubles, the probability that
+the 4-sided die is a 4. This is a 1/4 probability, and that makes sense. If we've got doubles and one
+of them is a 4-sided die, we either have doubles at 1, doubles at 2, doubles at 3, or doubles at 4. You see that here, doubles 1, doubles 2, doubles 3, doubles 4. Well, given that, what's the probability that the 4-sided die is 4? Well, that means that's
+one out of these 4 outcomes where it's a double 4 is right over here. All right. What is the probability of A and B, the probability that Erika rolls doubles and the second die is 4? This means both A and B happened. Let's look at this. Actually let me write it here. Let me do it in a new color. The probability of, and I'll write "and"
+here in a neutral color, the probability of A and B. Probability of A and B is equal to. Well, now, we're looking at once again, we have 24 equally likely outcomes. We have 24 equally likely outcomes. How many of them involve A and B? To get A and B, you have to have doubles and the 4-sided die needs to be a 4. Essentially, you have to have doubles 4. Well, there's only one outcome out of the 24 equally likley outcomes that meets that situation, this one right over here, so there is a 1/24 probability, 1/24. What is probability of A times
+probability of B given A? Here, we could just go back to
+our numbers right over here. Probability of A, that's going to be 1/6. Let me do that in a magenta color. I like to keep my colors,
+be careful about my colors. That's 1/6 times the
+probability of B given A. So the probability of B given
+A is 1/4 right over here, times 1/4, which is, curious enough, 1/24, 1/24. What is probability of B times
+probability of A given B? Probability of B, we figured out, is 1/4, 1/4, and the probability of A given B is 1/6, times 1/6, which is equal to 1/24. Now does it make sense that the probability of A and B is 1/24, the probability of A times
+probability of B given A is 1/24, and the probability of B times
+probability of A given B, they're all 1/24? Is this always going to be the case? Well, sure. Think about what probability
+of A and B means. What I mean is that they both happened. But that's the same way as saying what's the probability of, let's just say A is happening. Well now, for B and A to happen, it's just going to be
+that times the probability that B is true given that A is true, because you could say, well,
+are you constraining it. We're already multiplying by the probability of A being true, and now we're multiplying
+by the probability that B is true given A is true. I actually often like to swap these around just so it gets a little
+bit clearer in my head. This one, let's just write it like this, the probability of B given A times the probability of A. This is the probability
+that event A is true, and this is the probability
+that event B is true given that we know that A is true. It completely makes sense that this is going to be the same thing as the probability of A and B. Clearly, this is a
+probability of both of these, both A and B happening. You can go the other way around. The probability of A given B times the probability of B, that would also be, so B ... We're saying B needs to be true, and that given that B is true, that A needs to be true as well, so it makes complete sense that this is going to be the probability of A and B as well.

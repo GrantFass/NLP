@@ -1,0 +1,19 @@
+- Great work. So far we define a curve which captures the overall variation and brightness. - The brightness depends
+on the Y coordinate or amplitude of a curve. - But remember our goal is to capture the patterns at different resolutions. The first curve only captures variation at low resolutions, think of it as a broad stroke. - [Lady Voiceover] So we need to add higher resolution variation to our curve. These are the smaller details
+or changes in the amplitude. - [Lady Voiceover] To do this, simply add two curves together,
+for example, take your original curve and add
+it to the second curve, which would result in this final curve. - [Lady Voiceover] Very cool. Mathematically we are just adding the Y coordinates together. - [Lady Voiceover] Okay, we've updated our program so that we can try this out. At the top is the low resolution curve, same as the previous exercise. - [Lady Voiceover] And below it is a new curve which is created by squishing two copies of the original curve together. It's a higher resolution curve because it contains more detail. Call this our medium resolution curve. - [Lady Voiceover] And
+we can keep doing this. Here we've added a third curve. It's defined by squishing two copies of the medium resolution curve together in the same way. - [Lady Voiceover] This is
+our high resolution curve. It contains the most detailed variations. - [Lady Voiceover] And
+at the bottom we show the results of adding
+these curves together. - [Lady Voiceover] I
+see you have amplitude sliders as well, that's fancy. - [Lady Voiceover] Yes, this allows you to adjust how much that
+resolution contributes to the final curve. - [Lady Voiceover] Meaning
+if the amplitude slider is set to zero, then that
+resolution is ignored in the final curve, and if I ramp up it really takes over. - [Lady Voiceover] By
+the way, this process was invented by Ken Perlin
+in 1988 and this is why the variation is called Perlin Noise. - [Lady Voiceover] His idea has been used in almost every computer generated movie in the past 20 years. - Now it's your turn to try this out. In the next exercise we
+will test your understanding of these multi resolution curves. - Then we can move into higher dimensions. - Do you have an anecdote
+about Perlin Noise? - Well in addition to surface shading we all see as noise patterns to control our hair grooms. For example you use perlin and other types of noises to control the length of hairs, the width, the scraggle, comfing and other parameters. You can see it in almost
+all of our hair grooms, definitely Spot's hair
+is a good one to look at for that in The Good Dinosaur. - [Lady Voiceover] Pretty neat.

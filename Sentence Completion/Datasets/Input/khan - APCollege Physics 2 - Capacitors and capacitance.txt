@@ -1,0 +1,109 @@
+What's a capacitor? Well this is a capacitor. OK, but what's inside of this? Inside of this capacitor
+is the same thing that's inside basically
+all capacitors. Two pieces of
+conducting material like metal, that are
+separated from each other. These pieces of
+paper are put in here to make sure that the two
+metal pieces don't touch. But what would
+this be useful for? Well, if you connect two
+pieces of metal to a battery, those pieces of metal
+can store charge. And that's what
+capacitors are useful for. Capacitors store charge. Once the battery is
+connected, negative charges on the right side get attracted
+towards the positive terminal of the battery. And on the left side,
+negative charges get repelled away from
+the negative terminal of the battery. As negative charges leave the
+piece of metal on the right, it causes that piece of metal
+to become positively charged, because now that
+piece of metal has less negatives than
+it does positives. And the piece of
+metal on the left becomes negatively
+charged, because now it has more negatives
+than it does positives. It's important to note
+that both pieces of metal are going to have the
+same magnitude of charge. In other words, if the charge
+on the right piece of metal is 6 coulombs, then the charge
+on the left piece of metal has to be negative 6 coulombs. Because for every
+1 negative that was removed from the right
+side, exactly 1 negative was deposited on the left side. Even if the two pieces of
+metal were different sizes and shapes, they'd
+still have to store equal and opposite
+amounts of charge. Now I've only show
+negative charges moving, because in reality it's the
+negatively charged electrons that get to move freely
+throughout a metal, or a piece of wire. The positively charged protons
+are pretty much stuck in place, and have to stay where they are. This process of
+charge switching sides won't continue to
+happen forever, though. Negative charges
+on the right side that are attracted toward
+the positive terminal of the battery
+will start to also get attracted toward the
+positively charged piece of metal. Eventually the
+negative charges will get attracted to the positive
+piece of metal, just as much as they're attracted toward
+the positive terminal of the battery. Once this happens,
+the process stops, and the accumulated
+charge just sits there on the pieces of metal. You can even remove the
+battery, and the charges will still just
+continue to sit there. The negatives want to go
+back to the positives, because opposites attract. But there's no path for
+them to take to get there. This also explains why
+the pieces of metal have to be separated. If the pieces of metal were
+touching during the charging process, then no charges
+would ever get separated. The negatives would just
+flow around in a loop because you've
+completed the circuit. That's why you want
+the paper in there, to keep the two pieces
+of metal from touching. So capacitors are devices
+used to store charge. But not all
+capacitors will store the same amount of charge. One capacitor hooked
+up to a battery might store a lot of charge. But another capacitor hooked
+up to the same battery might only store a
+little bit of charge. The capacitance of a
+capacitor is the number that tells you how good that
+capacitor is at storing charge. A capacitor with a
+large capacitance will store a lot of
+charge, and a capacitor with a small capacitance will
+only store a little charge. The actual definition
+of capacitance is summarized by this formula. Capacitance equals the charge
+stored on a capacitor, divided by the voltage across
+that capacitor. Even though technically the
+net charge on a capacitor is 0, because it stores
+just as much positive charge as it does
+negative charge. The Q in this
+formula is referring to the magnitude of charge
+on one side of the capacitor. What the voltage is
+referring to in this formula is the fact that when a
+capacitor stores charge, it will create a
+voltage, or a difference in electric potential, between
+the two pieces of metal. Electric potential is high
+near positive charges, and electric potential is
+low near negative charges. So if you ever have positive
+charges sitting next to, but not on top
+of, negative charges, there's going to be a
+difference in electric potential in that region, which
+we call a voltage. It's useful to know if you
+let a battery fully charge up a capacitor, then the
+voltage across that capacitor will be the same as the
+voltage of the battery. Looking at the formula
+for capacitance, we can see that the units are
+going to be coulombs per volt. A coulomb per volt
+is called a farad, in honor of the English
+physicist Michael Faraday. So if you allow a 9 volt
+battery to fully charge up a 3 farad capacitor,
+the charge stored is going to be 27 coulombs. For another example, say
+that a 2 farad capacitor stores a charge of 6 coulombs. We could use this formula
+to solve for the voltage across this capacitor, which
+in this case is 3 volts. You might think that as
+more charge gets stored on a capacitor, the
+capacitance must go up. But the value of the
+capacitance stays the same. Because as the charge
+increases, the voltage across that capacitor
+increases, which causes the ratio
+to stay the same. The only way to change the
+capacitance of a capacitor is to alter the
+physical characteristics of that capacitor. Like making the pieces
+of metal bigger, or placing the pieces
+of metal further apart. Just changing the
+charge or the voltage is not going to
+change the ratio that represents the capacitance. [MUSIC PLAYING]

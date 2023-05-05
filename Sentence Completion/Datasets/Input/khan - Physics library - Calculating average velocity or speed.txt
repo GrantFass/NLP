@@ -1,0 +1,184 @@
+Now that we know a little bit
+about vectors and scalars, let's try to apply what we
+know about them for some pretty common problems you'd, one,
+see in a physics class, but they're also common problems
+you'd see in everyday life, because you're trying to
+figure out how far you've gone, or how fast you're
+going, or how long it might take you to
+get some place. So first I have, if
+Shantanu was able to travel 5 kilometers north in
+1 hour in his car, what was his average velocity? So one, let's just
+review a little bit about what we know about
+vectors and scalars. So they're giving us that
+he was able to travel 5 kilometers to the north. So they gave us a magnitude,
+that's the 5 kilometers. That's the size of
+how far he moved. And they also give a direction. So he moved a distance
+of 5 kilometers. Distance is the scalar. But if you give the direction
+too, you get the displacement. So this right here
+is a vector quantity. He was displaced 5
+kilometers to the north. And he did it in
+1 hour in his car. What was his average velocity? So velocity, and
+there's many ways that you might see it defined,
+but velocity, once again, is a vector quantity. And the way that we
+differentiate between vector and scalar quantities
+is we put little arrows on top of vector quantities. Normally they are bolded,
+if you can have a typeface, and they have an
+arrow on top of them. But this tells you
+that not only do I care about the
+value of this thing, or I care about the
+size of this thing, I also care about its direction. That's what the arrow. The arrow isn't
+necessarily its direction, it just tells you that
+it is a vector quantity. So the velocity of something
+is its change in position, including the direction
+of its change in position. So you could say
+its displacement, and the letter for
+displacement is S. And that is a
+vector quantity, so that is displacement. And you might be
+wondering, why don't they use D for displacement? That seems like a much
+more natural first letter. And my best sense of that is,
+once you start doing calculus, you start using D for
+something very different. You use it for the
+derivative operator, and that's so that the
+D's don't get confused. And that's why we use
+S for displacement. If someone has a better
+explanation of that, feel free to comment
+on this video, and then I'll add another
+video explaining that better explanation. So velocity is your
+displacement over time. If I wanted to write an
+analogous thing for the scalar quantities, I could
+write that speed, and I'll write
+out the word so we don't get confused
+with displacement. Or maybe I'll write "rate." Rate is another way that
+sometimes people write speed. So this is the vector version,
+if you care about direction. If you don't care
+about direction, you would have your rate. So this is rate, or speed,
+is equal to the distance that you travel over some time. So these two, you could
+call them formulas, or you could call them
+definitions, although I would think that they're
+pretty intuitive for you. How fast something is
+going, you say, how far did it go over some
+period of time. These are essentially
+saying the same thing. This is when you
+care about direction, so you're dealing with
+vector quantities. This is where you're not so
+conscientious about direction. And so you use distance,
+which is scalar, and you use rate or
+speed, which is scalar. Here you use displacement,
+and you use velocity. Now with that out of the
+way, let's figure out what his average velocity was. And this key word,
+average, is interesting. Because it's possible that
+his velocity was changing over that whole time period. But for the sake of
+simplicity, we're going to assume that it was
+kind of a constant velocity. What we are calculating is going
+to be his average velocity. But don't worry about
+it, you can just assume that it wasn't changing
+over that time period. So his velocity is,
+his displacement was 5 kilometers to the north--
+I'll write just a big capital. Well, let me just write it
+out, 5 kilometers north-- over the amount of
+time it took him. And let me make it clear. This is change in time. This is also a change in time. Sometimes you'll just
+see a t written there. Sometimes you'll see
+someone actually put this little triangle,
+the character delta, in front of it, which
+explicitly means "change in." It looks like a very fancy
+mathematics when you see that, but a triangle in
+front of something literally means "change in." So this is change in time. So he goes 5 kilometers
+north, and it took him 1 hour. So the change in
+time was 1 hour. So let me write that over here. So over 1 hour. So this is equal
+to, if you just look at the numerical
+part of it, it is 5/1-- let me just write
+it out, 5/1-- kilometers, and you can treat the
+units the same way you would treat the
+quantities in a fraction. 5/1 kilometers per hour,
+and then to the north. Or you could say this
+is the same thing as 5 kilometers per hour north. So this is 5 kilometers
+per hour to the north. So that's his average velocity,
+5 kilometers per hour. And you have to be careful,
+you have to say "to the north" if you want velocity. If someone just said "5
+kilometers per hour," they're giving you a speed,
+or rate, or a scalar quantity. You have to give the direction
+for it to be a vector quantity. You could do the same
+thing if someone just said, what was his average
+speed over that time? You could have said, well, his
+average speed, or his rate, would be the
+distance he travels. The distance, we don't care
+about the direction now, is 5 kilometers, and
+he does it in 1 hour. His change in time is 1 hour. So this is the same thing
+as 5 kilometers per hour. So once again, we're only
+giving the magnitude here. This is a scalar quantity. If you want the vector, you
+have to do the north as well. Now, you might be saying,
+hey, in the previous video, we talked about things in
+terms of meters per second. Here, I give you kilometers,
+or "kil-om-eters," depending on how you
+want to pronounce it, kilometers per hour. What if someone wanted
+it in meters per second, or what if I just wanted to
+understand how many meters he travels in a second? And there, it just becomes
+a unit conversion problem. And I figure it doesn't hurt
+to work on that right now. So if we wanted to do
+this to meters per second, how would we do it? Well, the first step is to
+think about how many meters we are traveling in an hour. So let's take that 5
+kilometers per hour, and we want to
+convert it to meters. So I put meters
+in the numerator, and I put kilometers
+in the denominator. And the reason why I do that
+is because the kilometers are going to cancel out
+with the kilometers. And how many meters are
+there per kilometer? Well, there's 1,000 meters
+for every 1 kilometer. And I set this up right here so
+that the kilometers cancel out. So these two
+characters cancel out. And if you multiply,
+you get 5,000. So you have 5 times 1,000. So let me write this-- I'll do
+it in the same color-- 5 times 1,000. So I just multiplied
+the numbers. When you multiply something,
+you can switch around the order. Multiplication is
+commutative-- I always have trouble pronouncing
+that-- and associative. And then in the units, in the
+numerator, you have meters, and in the denominator,
+you have hours. Meters per hour. And so this is equal to
+5,000 meters per hour. And you might say,
+hey, Sal, I know that 5 kilometers is the
+same thing as 5,000 meters. I could do that in my head. And you probably could. But this canceling out
+dimensions, or what's often called
+dimensional analysis, can get useful once you
+start doing really, really complicated things with less
+intuitive units than something like this. But you should always do an
+intuitive gut check right here. You know that if you do
+5 kilometers in an hour, that's a ton of meters. So you should get
+a larger number if you're talking
+about meters per hour. And now when we want
+to go to seconds, let's do an intuitive gut check. If something is traveling a
+certain amount in an hour, it should travel a much
+smaller amount in a second, or 1/3,600 of an hour, because
+that's how many seconds there are in an hour. So that's your gut check. We should get a smaller
+number than this when we want to say
+meters per second. But let's actually do it with
+the dimensional analysis. So we want to cancel
+out the hours, and we want to be left with
+seconds in the denominator. So the best way to cancel
+this hours in the denominator is by having hours
+in the numerator. So you have hours per second. So how many hours
+are there per second? Or another way to
+think about it, 1 hour, think about the larger unit,
+1 hour is how many seconds? Well, you have 60 seconds
+per minute times 60 minutes per hour. The minutes cancel out. 60 times 60 is 3,600
+seconds per hour. So you could say this is 3,600
+seconds for every 1 hour, or if you flip them, you would
+get 1/3,600 hour per second, or hours per second, depending
+on how you want to do it. So 1 hour is the same
+thing as 3,600 seconds. And so now this hour
+cancels out with that hour, and then you multiply,
+or appropriately divide, the numbers right here. And you get this is equal
+to 5,000 over 3,600 meters per-- all you have left in the
+denominator here is second. Meters per second. And if we divide both the
+numerator and the denominator-- I could do this by hand, but
+just because this video's already getting a
+little bit long, let me get my trusty
+calculator out. I get my trusty calculator
+out just for the sake of time. 5,000 divided by 3,600, which
+would be really the same thing as 50 divided by
+36, that is 1.3-- I'll just round it
+over here-- 1.39. So this is equal to
+1.39 meters per second. So Shantanu was traveling
+quite slow in his car. Well, we knew that just
+by looking at this. 5 kilometers per hour, that's
+pretty much just letting the car roll pretty slowly.

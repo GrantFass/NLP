@@ -1,0 +1,73 @@
+- [Instructor] We're
+now in the home stretch. We just have to evaluate the curl of f and then this dot product and then evaluate this double integral. So let's work on the curl of F. So the curl of f is going to be equal to, and I just remember it as the determinant, so we have our i, j, k components, and it's really you could imagine it's the del operator crossed
+with the actual vector. So the del operator, I'll
+write this in a different color just to ease the monotony,
+so this is partial with respect to x,
+partial with respect to y, partial with respect to z, and then our vector field, I copied and pasted it right over here. It is just equal to negative
+y squared, is our i component, x is our j component, and Z
+squared is our k component. And so this is going to be equal to, this is going to be equal to i, is going to be equal to i times the partial of Z squared
+with respect to y. Well, there's the Z
+squared is just a constant with respect to y so
+the partial of Z squared with respect to y is
+just going to be zero, so this is going to be zero. Minus the partial of x with respect to z. Well, once again this is just a constant when you think in terms of z, so that's just going to be zero. So that's nice simplification, and then we're gonna have minus j, we need our little checkerboard patterns, we put a negative in front of the j, minus j and so we'll
+have the partial of x, the partial of z squared
+with respect to x, that's zero again, and then minus the partial of negative y
+squared with respect to z, well that's zero again,
+and then finally we have our k component, k, so plus, plus k, and k, we're gonna have the
+partial of x with respect to x, well that actually gives us a value that's just gonna be one minus the partial of negative y
+squared with respect to y. So the partial of negative y
+squared with respect to y is negative two y and we're subtracting that, so it's going to be plus, plus, two y. So curl of f simplifies to just, all of this is just zero up here, is just one plus two y times
+k or k times one plus two y. And so if we go back
+to this right up here, if we go back up to
+that, we're going to get let me re-write the
+integral so zero to one and that's our r, our
+r parameter is gonna go from zero to one, theta is
+gonna go from zero to two pi. And now curl of f has simplified to, and I won't skip any steps
+although it's tempting, it's one plus two y, and actually
+instead of writing two y, let me write it in
+terms of the parameters. We saw it up here, y was r sine theta, if I remember correctly,
+right, y was r sine theta. So let me write y that way. Two times r sine theta k. And we're gonna dot this, we're gonna take the dot product of that
+with this right over here, with r times j plus r
+times k, d theto d r. And so we take the dot product, this thing only has a k component, the j component is zero, so
+when you take the dot product with this j component
+you're gonna get zero. And neither of them you actually
+even have an i component. And so the inside is
+just going to simplify to this piece right over
+here is going to simplify to, we're just gonna have to
+think about the k components, cause everything else is
+zero, so it's gonna be r times this and we're
+done! So it's gonna be r plus two r squared sine
+theta, d theta d r, d theta d r and, once again, theta
+goes from zero to two pi and r goes from zero to one. And now this is just a
+straight-up double integral. We just have to evaluate this thing. And so, first we take the antiderivative with respect to theta,
+so the antiderivative with respect to theta is going to give us, so this is going to be giving, so we're going to focus on theta first, so the antiderivative of r
+with respect to theta is just r theta, you can just do r as a constant, and then the antiderivative of this, antiderivative of sine of theta
+is negative cosine of theta. So this is gonna be negative
+two r squared cosine of theta. And we're gonna evaluate
+it from zero to two pi. And then we have the outside integral, which I will, I'll re-color
+in yellow, re-color in yellow, so we'll still have to
+integrate with respect to r and r's gonna go from zero to one. But inside right over
+here, if we evaluate all of this business right
+over here at two pi, we get two pi r, two pi r,
+that's that right over there, minus... Cosine of two pi is just one. So it's minus two r
+squared and then from that, we're going to subtract from that, we're gonna subtract this evaluated zero. Well r times zero is just zero, and then cosine of zero is one. So it's just minus two r squared, or negative two r squared, negative two r squared. And at this negative and this negative, you get a positive, and but then you have a negative two r squared and
+then a plus two r squared it's just going to cancel out, that and that cancel out, and so this whole thing
+has simplified quite nicely to a simple definite integral,
+zero to one of two pi, two pi r dr, and the
+antiderivative of this is just going to be pi r squared, so we're just gonna evaluate pi r squared from zero to one, when you
+evaluate it at one, you get pi; when you evaluate it
+at zero, you just get zero, so you get pi minus
+zero, which is equal to, and now we deserve a drumroll
+'cause we've been doing a lot of work over many
+videos, this is equal to pi. So just to remind ourselves
+what we've done over the last few videos, we
+had this line integral that we were trying to figure out, and instead of directly
+evaluating the line integral, which we could do and I
+encourage you to do so, and if I have time, I might
+do it in the next video, instead of directly
+evaluating that line integral, we used Stokes theorem to say, oh we could actually instead
+say that that's the same thing as a surface integral over
+a piecewise-smooth boundary over piecewise-smooth surface that this path is the boundary of,
+and so we evaluated this surface intergal and
+eventually, with a good bit of, little bit of calculation,
+we got to evaluating it to be equal to pi.

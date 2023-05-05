@@ -1,0 +1,98 @@
+So let's generalize a bit
+what we learned in the last presentation. Let's say I'm
+borrowing P dollars. P dollars, that's what I
+borrowed so that's my initial principal. So that's principal. r is equal to the rate,
+the interest rate that I'm borrowing at. We can also write that
+as 100r%, right? And I'm going to borrow
+it for-- well, I don't know-- t years. Let's see if we can come up
+with equations to figure out how much I'm going to owe at
+the end of t years using either simple or compound interest. So let's do simple first
+because that's simple. So at time 0-- so let's make
+this the time axis-- how much am I going to owe? Well, that's right when I
+borrow it, so if I paid it back immediately, I
+would just owe P, right? At time 1, I owe P plus the
+interest, plus you can kind of view it as the rent on that
+money, and that's r times P. And that previously, in the
+previous example, in the previous video, was 10%. P was 100, so I had to pay $10
+to borrow that money for a year, and I had to
+pay back $110. And this is the same thing
+as P times 1 plus r, right? Because you could
+just use 1P plus rP. And then after two years,
+how much do we owe? Well, every year, we just
+pay another rP, right? In the previous example,
+it was another $10. So if this is 10%, every
+year we just pay 10% of our original principal. So in year 2, we owe P plus
+rP-- that's what we owed in year 1-- and then another
+rP, so that equals P plus 1 plus 2r. And just take the P out,
+and you get a 1 plus r plus r, so 1 plus 2r. And then in year 3, we'd owe
+what we owed in year 2. So P plus rP plus rP, and then
+we just pay another rP, another say, you know, if r is 10%, or
+50% of our original principal, plus rP, and so that
+equals P times 1 plus 3r. So after t years,
+how much do we owe? Well, it's our original
+principal times 1 plus, and it'll be tr. So you can distribute this out
+because every year we pay Pr, and there's going
+to be t years. And so that's why
+it makes sense. So if I were to say
+I'm borrowing-- let's do some numbers. You could work it out this way,
+and I recommend you do it. You shouldn't just
+memorize formulas. If I were to borrow $50 at 15%
+simple interest for 15-- or let's say for 20 years, at the
+end of the 20 years, I would owe $50 times 1 plus the
+time 20 times 0.15, right? And that's equal to $50 times 1
+plus-- what's 20 times 0.15? That's 3, right? Right. So it's 50 times 4, which
+is equal to $200 to borrow it for 20 years. So $50 at 15% for 20
+years results in a $200 payment at the end. So this was simple
+interest, and this was the formula for it. Let's see if we can do the same
+thing with compound interest. Let me erase all this. That's not how I
+wanted to erase it. There we go. OK, so with compound interest,
+in year 1, it's the same thing, really, as simple interest, and
+we saw that in the previous video. I owe P plus, and now the rate
+times P, and that equals P times 1 plus r. Fair enough. Now year 2 is where compound
+and simple interest diverge. In simple interest, we would
+just pay another rP, and it becomes 1 plus 2r. In compound interest,
+this becomes the new principal, right? So if this is the new
+principal, we are going to pay 1 plus r times this, right? Our original principal was P. After one year, we paid 1 plus
+r times the original principal times 1 plus r rate. So to go into year 2, we're
+going to pay what we owed at the end of year 1, which is P
+times 1 plus r, and then we're going to grow that
+by r percent. So we're going to multiply
+that again times 1 plus r. And so that equals P
+times 1 plus r squared. So the way you could think
+about it, in simple interest, every year we added a Pr. In simple interest, we
+added plus Pr every year. So if this was $50 and this is
+15%, every year we're adding $3-- we're adding--
+what was that? 50%. We're adding $7.50 in interest,
+where P is the principal, r is the rate. In compound interest, every
+year we're multiplying the principal times 1 plus
+the rate, right? So if we go to year 3,
+we're going to multiply this times 1 plus r. So year 3 is P times 1
+plus r to the third. So year t is going to be
+principal times 1 plus r to the t-th power. And so let's see
+that same example. We owe $200 in this example
+with simple interest. Let's see what we owe
+in compound interest. The principal is $50. 1 plus-- and what's the rate? 0.15. And we're borrowing
+it for 20 years. So this is equal to 50 times
+1.15 to the 20th power. I know you can't read that,
+but let me see what I can do about the 20th power. Let me use my Excel and
+clear all of this. Actually, I should just use my
+mouse instead of the pen tool to the clear everything. OK, so let me just
+pick a random point. So I just want to-- plus 1.15
+to the 20th power, and you could use any calculator:
+16.37, let's say. So this equals 50 times 16.37. And what's 50 times that? Plus 50 times that: $818. So you've now realized that if
+someone's giving you a loan and they say, oh, yeah, I'll lend
+you-- you need a 20-year loan? I'm going to lend
+it to you at 15%. It's pretty important to
+clarify whether they're going to charge you 15% interest at
+simple interest or compound interest. Because with compound interest,
+you're going to end up paying-- I mean, look at this: just to
+borrow $50, you're going to be paying $618 more than if
+this was simple interest. Unfortunately, in the real
+world, most of it is compound interest. And not only is it compounding,
+but they don't even just compound it every year and they
+don't even just compound it every six months, they actually
+compound it continuously. And so you should watch the
+next several videos on continuously compounding
+interest, and then you'll actually start to learn
+about the magic of e. Anyway, I'll see you
+all in the next video.

@@ -1,0 +1,19 @@
+- [Instructor] A bag has more
+green balls than blue balls, and there is at least one blue ball. Let b represent the number of blue balls and let g represent the
+number of green balls. Let's compare the
+expressions 2b and b plus g. Which statement is correct? So they make a bunch of comparisons
+between 2b and b plus g. Is it greater than, less than, equal, or is there just not
+enough information to tell? And so like always, pause this video and see if you can
+figure it out on your own before we work through it together. Alright, let's work through it together, and let's see what information
+they are giving us. So this first sentence they say, a bag has more green
+balls than blue balls. So we can translate that in math language as the number of green balls is greater than the number of blue balls. It also says, there is
+at least one blue ball. So just translating that mathematically, we know that b is going to be
+greater than or equal to one. There is at least one, but maybe more. So b is greater than or equal to one. So now let's see if we can
+somehow manipulate these so we can get to some reasonable sense of how b plus g compares to 2b. Well, there's a bunch of different ways that you could approach it. And you might find a way to approach it that is different than my way. But the one that jumps out at me is, well, I know that g is greater than b, and if I add a b to both sides, on the left-hand side I'm
+gonna have a b plus g, and on the right-hand side
+I'm gonna have a b plus b. And this right over here is 2b. So just like that, I know
+I can keep the inequality if I'm doing the same thing to both sides, if I'm adding or subtracting
+the same thing to both sides. And so just from g is greater than b, if you add b to both sides of that, we can deduce that b plus g is going to be greater than b plus b, or it's just going to be greater than 2b. And that's all we need to do. And let's see which of these
+choices match up to that. So let's see, all of these
+have 2b on the left-hand side. So we could rewrite this as
+2b is less than b plus g, and that is that choice right over there.

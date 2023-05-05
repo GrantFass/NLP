@@ -1,0 +1,40 @@
+- [Voiceover] A particle
+moves along the x-axis so that at any time T
+greater than or equal to zero its velocity is given
+by V of T is equal to negative T to the third power
+plus six T squared plus two T. At what value of T does the particle obtain its maximum acceleration? So we want to figure
+out when does it obtain its maximum acceleration. So let's just review what they gave us. They gave us velocity
+as a function of time. So let's just remind ourselves. If we have let's say our
+position is a function of time, so let's say X of T is
+position as a function of time, then we if were to take
+the derivative of that, so X prime of T, well that's going to be the
+rate of change of position with respect to time or the
+velocity as a function of time and if we were to take the
+derivative of our velocity, then that's going to be the
+rate of change of velocity with respect to time. Well that's going to be
+acceleration as a function of time. So they gave us velocity. So from velocity, we can
+figure out acceleration. So let me just rewrite that. So we know that V of T is equal to negative T to the third power
+plus six T squared plus two T and so from that we can figure out the acceleration as a function of time, which is just going to be the derivative with respect to T of the velocity. So just use the power rule a bunch. So that's going to be, this
+is a third power right there. So negative three T squared plus two times six is twelve T to the first plus two. So that's our acceleration
+as a function of time and we want to figure out when we obtain our maximum acceleration and just inspecting this
+acceleration function here, we see it's a quadratic, it has a second degree polynomial and we have a negative coefficient out in front of the highest degree term, in front of the second degree term. So it is going to be a
+downward opening parabola. So it is going to be a downward opening, let me draw it in the same color, so it is going to have that general shape and so it will indeed take on, it will indeed take on a maximum value. But how do we figure
+out that maximum value? Well that maximum value's going to happen when the acceleration value, when the slope of its
+tangent line is equal to, when the slope of its
+tangent line is equal to zero and we could also verify
+that it is concave downwards at that point using the
+second derivative test by showing that the second
+derivative is negative there. So let's do that, let's look at the first and second derivatives of
+our acceleration function. So and I'll switch colors. That one's actually a
+little bit hard to see. So the first derivative, the
+rate of change of acceleration is going to be equal to, so this is negative six T plus 12. Now let's think about when
+does this thing equal zero? Well if we subtract 12 from both sides, we get negative six T
+is equal to negative 12, divide both sides by negative six, you get T is equal to two. So a couple of things. You could just say alright look, I know that this is a downward opening parabola right over here. I have a negative coefficient
+on my second degree term. I know that the slope
+of the tangent line here is zero at T equals two. So that's gonna be my maximum point. Or you could go a little bit further. You could take the second derivative. Let's do that just for kicks. So we could take the second derivative of our acceleration function. So this is going to be equal
+to negative six, right. The derivative of
+-6t is -6 the derivative constant is just zero. So this thing, the second
+derivative is always negative. So we are always, always concave downward and so by the second derivative
+test at T equals two, well at T equals two our second derivative of our acceleration function's
+going to be negative and so we know that this
+is our maximum value. Our max at T is equal to two. So at what value of T does the particle obtain its maximum acceleration? At T is equal to two.

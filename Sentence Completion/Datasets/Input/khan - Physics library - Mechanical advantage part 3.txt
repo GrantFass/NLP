@@ -1,0 +1,154 @@
+Welcome back. Now let's do some more
+mechanical advantage problems. And in this video, we'll focus
+on pulleys, which is another form of a simple machine. And we've done some pulley
+problems in the past, but now we'll actually understand what
+the mechanical advantage inherent in these
+machines are. So let me start with a
+very simple pulley. So this is the ceiling
+up here. I don't know what they call
+that part of the pulley. I should learn my actual
+terminology. But let's say I have that little
+disk where the rope goes over and it rolls so that
+the rope can go over it and move without having
+a lot of friction. And let's say I have a rope
+going over that pulley. That's my rope. And at this end, let's say I
+have a weight, a 10-Newton weight, and I'm going to pull
+down on this end to make the weight to go up. So my question to you is what is
+the mechanical advantage of this system? What is the force that I have to
+pull down in order to lift this weight, this 10-Newton
+weight in order to produce 10 Newtons of force upwards? Well, in any pulley situation--
+and I don't know if textbooks cover it this way,
+but this is how I think about it, because you don't
+have to memorize formulas. I just think about, well,
+what happens to the lengths of rope? Or what is the total distance
+that the object you're trying to move travels? And if you know the distance
+that it travels versus the distance that you have
+to pull, you know the mechanical advantage. So in this situation, if I were
+to hold the rope at that point, and if I were to pull
+it down 10 feet or some arbitrary distance, what
+happens over here? Well, this weight is
+going to move up exactly the same amount. Whatever I pull, if I pull a
+foot down here, this weight will move up by a foot, so the
+distance that I pull here is equivalent to the distance
+that it pulls up here. And since we know that the work
+in has to equal the work out, we know that the force I'm
+pulling down has to be the same as the force or the tension
+that the rope is pulling up here. And we could have done that when
+we learned about tension, that the tension in the
+rope is constant. I'm producing tension in the
+rope when I pull here and that's the same pulling force of
+the tension on the weight. So this isn't too interesting
+of a machine. All it's doing is I pull down
+with a force of 10 Newtons and it will pull up with a force
+of 10 Newtons, and so the mechanical advantage is 1, no
+real mechanical advantage, although this could be useful. Maybe it's easier for
+me to pull down than for me to pull up. Or at some point, maybe I can't
+reach up here, so it's nice for me to pull down here
+where I can reach and the object will keep going up
+like in a flag pole or something like that. So this could still be useful
+even though its mechanical advantage is only 1. So let's see if we can construct
+a pulley situation where the mechanical advantage
+is more than 1. So let's say over here at the
+top, I still have the same pulley that's attached to the
+ceiling, but I'm going to add slight variation here. I have another pulley here. And now let me do the other
+pulley down here. And then let me see if I can
+draw my rope in a good way. So my rope starts up going up
+like that, then it comes back down, comes around the second
+pulley, and now this is attached to the ceiling
+up here. The second pulley is
+actually where the weight is attached to. And let's just call it a
+10-Newton weight again, although it doesn't really
+matter what the weight is. Let's figure out what the
+mechanical advantage is. So the same question. And this is really the question
+you always have to ask yourself. If I were take a point on this
+rope and if I were to pull it 2 feet down, so let's see I take
+this point and I move it 2 feet down, what essentially
+happens to the rope? Well, every point on the
+rope's going to move 2 feet to the right. I guess you can view it this way
+if you view that motion is to the right. But if this length of rope is
+getting 2 feet shorter, what is this length of
+rope getting? Well, this entire length of rope
+is also going to get 2 feet shorter, this entire length
+of rope right here. But this entire length of rope
+is split between this side-- let me do it in different
+color-- between this side and this side. So if I make this side of the
+rope shorter-- I mean, the rope goes through the whole
+thing, but if I take this side of the rope and I pull
+down by 2 feet, what is going to happen? Well, this is going to
+get 1 foot shorter. This rope is going to
+get 1 foot shorter. This is going to go 1 foot
+shorter and this length of the rope is going to get
+1 foot shorter. And how do I know that? Well, this is all
+the same rope. And if this is getting 1 foot
+shorter, and this is one getting 1 foot shorter, it makes
+sense this whole thing is getting 2 feet shorter. But the important thing to
+realize, if each of these are getting 1 foot shorter,
+then this weight is only moving up 1 foot. So when I pull the rope down 2
+feet here, this weight only moves up 1 foot. So what is the work
+that I'm doing? Well, the work in is the same
+as the work out, and we know what the work out is. The work out is going to
+be the force that this contraption or this machine is
+pulling upwards with, and that's 10 Newtons, so the
+workout is equal to 10 Newtons times the distance
+that the force is pulling in, times 1 foot. Oh, why did I do feet? I should do meters. That's not a good thing
+for me to do. That should be meters. I shouldn't mix English
+and metric system. So 10 Newtons times 1 meter,
+so it equals 10 joules. And this has to be the
+work that I've put into it, too, right? So the work in also has
+to be 10 joules. Well, I know the distance
+that I pulled down. I know I pulled down 2 meters. So I pulled down 2 meters, so
+this has to equal the force times the distance. So the force, which I don't
+know, times the distance, which is 2 meters, is
+equal to 10 joules. So divide both sides by 2, so
+the force that I pulled down with is 5 Newtons. So I pulled down 5 Newtons for
+2 meters, and it pulls up a 10-Newton weight for 1 meter. Force times distance is equal
+to force times distance. So what was the input force? The input force is equal to 5
+Newtons and the output force of this machine is equal
+to 10 Newtons. Mechanical advantage is the
+output over the input, so the mechanical advantage is equal
+to the force output by the force input, which equals
+10/5, which equals 2. And that makes sense, because
+I have to pull twice as much for this thing to move up
+half of that distance. Let's see if we can do another
+mechanical advantage problem. Actually, let's do a really
+simple one that we've really been working with a long time. Let's say that I have a wedge. A wedge is actually considered
+a machine, which it took me a little while to get my
+mind around that, but a wedge is a machine. And why is a wedge a machine? Because it gives you mechanical
+advantage. So if I have this wedge here. And this is a 30-degree angle,
+if this distance up here, let's call this distance
+D, what is this distance going to be? Well, it's going to
+be D sine of 30. And we know that the sine of 30
+degrees, hopefully by this point, is 1/2, so this
+is going to be 1/2D. You might want to review the
+trigonometry a little bit if that doesn't completely
+ring a bell for you. So if I take an object, if I
+take a box-- and let's assume it has no friction. We're not going to go into
+the whole normal force and all that. If I take a box, and I push it
+with some force all the way up here, what is the mechanical
+advantage of this system? Well, when the box is up
+here, we know what its potential energy is. Its potential energy is going
+to be the weight of the box. So let's say this is
+a 10-Newton box. The potential energy at this
+point is going to be 10 Newtons times its height. So potential energy at this
+point has to equal 10 Newtons times the height, which is
+going to be 5 joules. And that's also the amount of
+work one has to put into the system in order to get it into
+this state, in order to get it this high in the air. So we know that we would have
+to put 5 joules of work in order to get the box
+up to this point. So what is the force that
+we had to apply? Well, it's that force, that
+input force, times this distance has to equal
+5 joules. So this input force-- oh, sorry,
+this is going to be-- sorry, this isn't 5 joules. It's 10 times 1/2 times
+the distance. It's 5D joules. This isn't some kind of units. It's 10 Newtons times the
+distance that we're up, and that's 1/2D, so it's
+5D joules. Sorry for confusing you. And so the force I'm pushing
+here times this distance has to also equal to 5D joules. I just remembered, I
+just used D as a variable the whole time. Dividing both sides by
+D, what do I get? The input force had to be
+equal to 5 Newtons. I'm dividing both sides
+by D meters. So I inputted 5 Newtons of force
+and I was able to lift essentially a 10-Newton
+object. So what is the mechanical
+advantage? Well, it's the force output,
+10 Newtons, divided by the force input, 5 Newtons. The mechanical advantage is 2.

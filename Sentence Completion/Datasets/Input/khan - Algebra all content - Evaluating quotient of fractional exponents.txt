@@ -1,0 +1,38 @@
+- [Voiceover] Let's see
+if we can figure out what 256 to the four-sevenths power, divided by two to the
+four-sevenths power is, and like always, pause the
+video and see if you can figure this out. All right, let's work
+through this together, and at first you might
+find this kind of daunting. Especially when you see
+something like two to the four-sevenths power or is that even, that's not going to be a
+whole number, how do I, how do I do this, especially
+without a calculator. And I should've said, do
+this without a calculator. But then the key is to
+see that we can use our exponent properties to
+simplify this a little bit so that we can do this on paper. And the main property
+that may jump out at you is if I have something, if I have, if I have x to the a power, over y to the a power, this is
+the same thing as x over y, to the a power. And in our situation right over here, 256 would be x, two would be y, and then a is four-sevenths,
+so we can rewrite this, this is going to be equal to this is equal to 256, over two, to the four-sevenths
+power, and so this is nice. We're already able to simplify this, because we know 256
+divided by two, is 128. So this is 128 to the four-sevenths power. Now this might also seem
+a little bit difficult, how do I raise 128 to a fractional power? But we just have to remind ourselves, this is the same thing, this
+is the same thing as 128 to the one-seventh power. Then raised to the fourth power. We could also view it the
+other way around, we could say that this is also 128 to the fourth, to the fourth power, and
+then raise that to the one-seventh, but
+multiplying 128 four times, that's going to be very
+computationally intensive, and then you have to find
+the seventh root of that. That seems pretty difficult,
+so we don't want to go in that way, but if we can
+get the smaller number first, what is 128 to the one-seventh power? Then that might be easier to
+raise to the fourth power. Now when you look at this,
+and knowing that probably, the question writer in this
+case, I'm the person who presented it with you is,
+telling you that you're not going to use a calculator is,
+it's a pretty good clue that, all right, this is probably going to be a, this is probably going to
+be something that I can figure out on my own, and you might recognize
+128 as a power of two, and maybe two to the seventh
+is 128, and we can verify that. So let's see, two to the first is two. Four, eight, 16, 32, 64, 128. Two times two is four, times two is eight, times two is 16, times
+two is 32, times 2 is 64, times two is 128. So, two to the seventh power is equal to 128, or another way of saying this exact same thing is that 128, 128 is equal to or 128 to the one-seventh power, is equal to two. Or you could even say
+that the seventh root, the seventh root of 128, is equal, is equal to two. So, we can simplify this. This is two, so our whole
+expression is now just two to the fourth power. Well, that's just two times two, times two, times two. So, that's two to the fourth power. Two to the fourth power, which is just going to be equal to 16. That's two, times two, times two, times two, right over there. And so we're done! This crazy,
+complicated-looking expression, it is simplified to 16.

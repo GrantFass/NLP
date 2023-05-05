@@ -1,0 +1,69 @@
+Let's do some more examples finding do
+mains of functions. So let's say we have a function g of x. So this is our
+function definition here tells us, look, if we have an input x, the output g of x is going to
+be equal to 1 over the square root of 6 minus -- we write this little bit neater, 1 over the square root of 6 minus the absolute value of x So like always, pause this video and see if
+you can figure out what what is the domain of this function.
+Based on this function definition what is the domain of g? What is the set of all inputs for which
+this function is defined? Alright. So, to think about all of the
+inputs that would allow this function to be defined, it may be easier to state when
+is this function not get defined. Well if we divide by 0 then we're not going to be defined. Or if
+we have a negative under the radical. So if you think about
+it -- if if what we have under the radical is 0 or negative -- if it is 0 or
+negative. If it's 0, you can take the, you can take the
+principal root of 0. It's going to be 0. But then you are going to divide by 0.
+That's going to be undefined. And if what you have another radical is
+negative, the principal root isn't defined for native number, at least the
+classic principal root is a defined for a negative number. So if 6 minus the absolute
+value of x is zero or negative, this thing is not going to be defined.
+Or another way to think about it is it's going to be defined -- so g is is defined -- is defined if -- g is defined if 6 minus, maybe I can write if and only if. Sometimes people write if and only if
+with two f's right there, iff. g is defined if and only if -- this is kind of mathy way of saying if and
+only if -- 6 minus the absolute value of x is greater than 0 it has to be, it has to be positive.
+If it's zero, we're going take the square root of 0 is 0. 
+Then you divide by 0. That's undefined. And if it's less than zero, then you're taking, you're
+trying to find the principal root of a negative number, that's not defined. So let's see, it's g is defined if and only
+if this is true. And let's see. We could add the absolute
+value of x to both sides. We could add the
+absolute value of x to both sides, then that would give us 6 is greater than the absolute value of x,
+or that the absolute value of x is less than 6. Or we could say that, you know, let me write that way. 
+The absolute value of x is less than 6. Another way of saying that is x would have to be less than 6 and
+greater than negative 6. or x is between negative 6 and 6.
+These two things -- these two things are equivalent. If the
+magnitude of x is less than 6 then x is greater than negative 6 and
+less than positive 6. So if we wanted to write the domain in
+kinda fancy domain-set notation, we could write the domain of g is going to be x, all the x's that are
+a member of real numbers such that negative 6 is less than x, which is less than 6, and we're done. Let's do another one.
+And this was gonna get even a little bit a little bit hairier, just for, just for
+kicks. Alright. So let's say that I have -- let's say that I have -- h of x is equal to --  and I have a kind of
+composite definition here. So let's say it's x plus 10 over x plus 10 times x minus 9 times x minus 5 times x minus 5 and it's this if it -- h of x is this if x does not equal 5 and it's equal to -- it's equal to pi if x is equal if x is equal to 5. So once again, pause
+this video. Think about what is the domain of h, or
+another way to think about is what made h not defined? So let's think about it. So what would make h not defined? So if some -- if x is anything other than 5,
+we go this clause. If it's 5, we go this clause. So in this clause up here, what would make
+this thing undefined? Well the most obvious thing is if we
+divide by 0. So what's going to cause us to divide by
+0? So if -- if x is equal to if -- let me write it here -- so we're going
+to divide by 0 -- divide by 0. That would happen if x is equal to 9. That would happen if x is equal to negative 10. x is equal to negative 10. Now we have to be
+careful, would that happen if this was the only definition here, it
+would happen when x equals to 5. But remember when x is equal 5, we don't
+look at this part of the compound definition. We look at this
+part. So it's true that up here you would be dividing by 0 if x is equaling 5
+but x equaling 5, you wouldn't even look at -- look there. For input is 5, you use this part of the definition. So you'd divide by 0. Maybe I should write it this way,
+divide by 0 on, I guess you could say the top -- the top clause or the top part a definition. Part of the definition. If x equals 9, X equals negative 10
+or -- and that's it because x equal 5 doesn't apply to this
+top part. If this clause wasn't here then yes, you would write x equals 5. Now we're almost done, but some of you 
+might say, wait, wait, wait, but look, can't I simplify this? I have x plus 10 in
+the numerator and x plus 10 in the denominator. Can I just simplify this and that will
+disappear? And you could except, if you did that, you
+are now creating a different function definition. Because if you just
+simplify this, you just said 1 over x minus 9 -- 1 over x minus 9 times x minus 5.
+This is now a different function. That one actually would be defined at x
+equals negative 10. But the one that we have started with, this one is not. This
+is -- you're gonna end up with 0 over 0.  You gonna end up with that indeterminate form. So for this function,
+exactly the way it's written, it's not going to be defined with
+x is equal to 9 or x is equal to negative 10. So once again if you want a fan --
+write in our fancy domain set notation. The domain is going to be x all the x's that are a member of the
+real such that x does not equal 9 and x does not equal negative 10.
+Any other real number x -- it's going to work including 5.
+If x equals 5, h of -- h of 5 is going to be equal to pi, because you default to this one over here.
+h of 5 so OK x is equal 5, we do that one right over there. Now if
+you gave x equals 9 you gonna divide by 0. If x equals negative 10,
+you gonna divide by 0, but that's gonna work for anything else. So that right over there is the domain.

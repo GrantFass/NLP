@@ -1,0 +1,52 @@
+- [Voiceover] "Carter has noticed a few "quantitative relationships related "to the success of his football team "and has modeled them with
+the following functions." All right, this is interesting. So he has this function, which he denotes with the capital N and it's the winning, and the input of it is
+the winning percentage, W and the output is the average
+number of fans per game. So, he's making some
+type of model that says, look the number of fans per game are gonna be in some way dependent on what your winning percentage is. And, I'm assuming he's modeled the higher the winning percentage, the more fans are gonna show up at a game. Now this is, W, the input is the average
+daily practice time, x, and the output is the winning percentage. All right, that makes sense. Probably once again, probably some type of a positive
+effect of practicing more is going to create a
+higher winning percentage. And this other function, number of rainy days, r and then average practice time. Yup, well the more rainy days you have well that's going to lower
+your average practice time. So, I definitely see how practice time, P, would be a function of
+number of rainy days. "The expression N(W(x)) represents
+which of the following?" Well before we even look at the choices, let's think about what's happening. This is another way of denoting we're gonna take x, we're gonna take x right over here, and we are going to input it into W and we're going to get out W(x) and then we're going to input
+that into the function N. And, we are going to get out, N(W(x)). So, what does the function W do? What does the function
+W do, right over here? Well, that's winning percentage as a function of practice time. So, you input practice, practice time, and it gives you, it somehow predicts a winning percentage, winning percentage. And, then you take that winning percentage and you input it into function N. Function N is going to output
+the number of fans per game, based on winning percentage. So this is number of fans. So when you take the composite function, you're actually creating a function that starts with practice
+time as the input and shows the number of fans that are gonna be dependent
+on your practice time. So this is interesting. So, we should look for a choice that says, how does the number of
+fans that show up at a game how is that dependent on practice time, x? All right. "The team's winning
+percentage as a function "of the average daily practice time." Now that would be just W(x). If they said just W(x)
+that'd be winning percentage as a function of average
+daily practice time. So, I can cross that one out. The average number of fans per game, all right this is interesting because that's what the
+final output's going to be in terms of the average
+number of fans per game, that is the output of the function N, the function N right over here. "The average number of fans per game "as a function of the number
+of rainy days in a season," Nope. We're not doing that. We're doing it as a
+function of practice time. You could construct that. In fact, if you wanted to do this that would be N as a function of W as a function of P of r. So, that would have been this choice where you input the number of rainy days from that you're able to
+figure out practice time and then you input practice time to figure out win perecentage and then you input win percentage to figure out the number
+of fans in the crowd. But that's not what we're doing here. We're just starting
+with daily practice time and getting to fans per game. So let me rule this one out. And if you found this one a little bit, what I just did a little bit confusing I encourage you to try to set up a diagram like I just did in the beginning. Instead of saying, oh well,
+we could start with r to get, use that as input to get
+average daily practice time and then use that as an input into W to get winning percentage. Then use that as an input into N to get average number of fans per game, but that's not what they're
+describing for N(W(x)). "The average number of fans per game "as a function of the team's
+average daily practice time." Yeah, that's what's going on. You have your average practice time, x being inputted into the function W. So your average practice
+time is going inputted into W and it outputs winning percentage, which you then input into N to get the average
+number of fans per game. The average number of fans per game as function of the team's
+average daily practice time. So, yup, I definitely like that choice. Let's do another one of these. This is interesting. "Deniz studied the park near her home "where she identified several
+quantitative relationships "and modeled them with
+the following functions." So, B, it inputs the height
+of a tree in terms of x and it outputs the number of
+birds nesting in that tree. H, input the average temperature
+at a specific location and it outputs the height of
+the tree at that location. And T, the altitude of a specific location and then, if that's the input, and then the output is
+the average temperature at that location. All right, this is interesting. "According to Deniz's findings, "which of the following
+expressions represents "the height of a tree as a
+function of its altitude?" So we want to figure out, we want to output the height of a tree and we want to input, the
+altitude of a specific location. So, let's think about it. If we take our altitude
+at a specific location, r and we input it into the function T, out of that we're going to get T(r). T, I'll be writing a little bit neater. We're gonna get T(r), which would represent average
+temperature at that location, average temp, and then if we take the average
+temperature at that location and input it into function H, and then we input it into function H, we are going to get the height
+of a tree at that location. So, we're going to get H(T(r)) and so this is going to be
+height of tree at that location, height of tree. And so, there you have it, H(T(r)). You start with r, altitude
+at a specific location. Input it into function T. T's gonna spit out the average
+temperature of that location. You input that into H. It's gonna get you the height
+of the tree at that location. So, H(T(r)). H(T(r)) is this choice right over there.

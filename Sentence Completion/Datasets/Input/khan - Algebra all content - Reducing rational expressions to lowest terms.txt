@@ -1,0 +1,181 @@
+When we first started learning
+about fractions or rational numbers, we learned about the
+idea of putting things in lowest terms. So if we saw
+something like 3, 6, we knew that 3 and 6 share
+a common factor. We know that the numerator,
+well, 3 is just 3, but that 6 could be written as 2 times 3. And since they share a common
+factor, the 3 in this case, we could divide the numerator by 3
+and the denominator by 3, or we could say that this
+is just 3/3, and they would cancel out. And in lowest terms, this
+fraction would be 1/2. Or just to kind of hit the point
+home, if we had 8/24, once again, we know that this is
+the same thing as 8 over 3 times 8, or this is the
+same thing as 1 over 3 times 8 over 8. The 8's cancel out and we get
+this in lowest terms as 1/3. The same exact idea applies
+to rational expressions. These are rational numbers. Rational expressions are
+essentially the same thing, but instead of the numerator
+being an actual number and the denominator be an actual number,
+they're expressions involving variables. So let me show you what
+I'm talking about. Let's say that I had 9x plus
+3 over 12x plus 4. Now, this numerator up here,
+we can factor it. We can factor out a 3. This is equal to 3
+times 3x plus 1. That's what our numerator
+is equal to. And our denominator, we
+can factor out a 4. This is the same thing
+as 4 times 3x. 12 divided by 4 is 3. 12x over 4 is 3x. Plus 4 divided by 4 is 1. So here, just like there, the
+numerator and the denominator have a common factor. In this case, it's 3x plus 1. In this case, it's a variable
+expression. It's not an actual number,
+but we can do the exact same thing. They cancel out. So if we were to write this
+rational expression in lowest terms, we could say that
+this is equal to 3/4. Let's do another one. Let's say that we had
+x squared-- let me see a good one. So let's say we had x squared
+minus 9 over 5x plus 15. So what is this going
+to be equal to? So the numerator
+we can factor. It's a difference of squares. We have x plus 3 times
+x minus 3. And in the denominator we
+can factor a 5 out. This is 5 times x plus 3. So once again, a common factor
+in the numerator and in the denonminator, we can
+cancel them out. But we touched on this a
+couple of videos ago. We have to be very careful. We can cancel them out. We can say that this is going to
+be equal to x minus 3 over 5, but we have to exclude the
+values of x that would have made this denominator equal to
+0, that would have made the entire expression undefined. So we could write this as being
+equal to x minus 3 over 5, but x cannot be equal
+to negative 3. Negative 3 would make this zero
+or would make this whole thing zero. So this and this whole
+thing are equivalent. This is not equivalent to this
+right here, because this is defined that x is equal to
+negative 3, while this isn't defined that x is equal
+to negative 3. So to make them the same, I
+also have to add the extra condition that x cannot
+equal negative 3. So likewise, over here, if this
+was a function, let's say we wrote y is equal to 9x plus
+3 over 12x plus 4 and we wanted to graph it, when we
+simplify it, the temptation is oh, well, we factored out a 3x
+plus 1 in the numerator and the denonminator. They cancel out. The temptation is to say, well,
+this is the same graph as y is equal to the constant
+3/4, which is just a horizontal line at y
+is equal to 3/4. But we have to add
+one condition. We have to eliminate-- we have
+to exclude the x-values that would have made this thing right
+here equal to zero, and that would have been zero if
+x is equal to negative 1/3. If x is equal to negative 1/3,
+this or this denominator would be equal to zero. So even over here, we'd have
+to say x cannot be equal to negative 1/3. That condition is what really
+makes that equal to that, that x cannot be equal
+to negative 1/3. Let's do a couple
+more of these. And I'll do these in pink. Let's say that I had x squared
+plus 6x plus 8 over x squared plus 4x. Or actually, even better, let
+me do this a little bit. x squared plus 6x plus 5 over
+x squared minus x minus 2. So once again, we want to factor
+the numerator and the denonminator, just like we did
+with traditional numbers when we first learned about fractions
+and lowest terms. So if we factor the numerator,
+what two numbers when I multiply them equal 5 and
+I add them equal 6? Well, the numbers that pop
+in my head are 5 and 1. So the numerator is x plus
+5 times x minus 1. And then our denonminator,
+two numbers. Multiply negative 2,
+add a negative 1. Negative 2 and positive
+1 pop out of my head. So this is a positive
+1, right? x plus 5 times x plus 1, right? 1 times 5 is 5. 5x plus 1x is 6x. So here we have a positive
+1 and a negative 2. So x minus 2 times x plus 1. So we have a common factor
+in the numerator and the denonminator. These cancel out. So you could say that this
+is equal to x plus 5 over x minus 2. But for them to really
+be equal, we have to add the condition. We have to add the condition
+that x cannot be equal to negative 1 because
+if x is equal to negative 1, this is undefined. We have to add that condition
+because this by itself is defined at x is equal
+to negative 1. You could put negative
+1 here and you're going to get a number. But this is not defined at x is
+equal to negative 1, so we have to add this condition
+for this to truly be equal to that. Let's do a harder one here. Let's say we have 3x squared
+plus 3x minus 18, all of that over 2x squared plus
+5x minus 3. So it's always a little bit more
+painful to factor things that have a non-one coefficient
+out here, but we've learned how to do that. We can do it by grouping, and
+this is a good practice for our grouping, so let's do it. So remember, let's factor 3x
+squared plus 3x minus 18. So you need to think
+of two numbers. This is just a review
+of grouping. You need to think of two numbers
+that when we multiply them are equal to 3 times
+negative 18, or it's equal to negative 54, right? That's 3 times negative 18. And when we add them, a plus
+b, needs to be equal to 3x because we're going to split up
+the 3x into an ax and a bx. Or even better, not
+3x, equal to 3. So what two numbers
+could there be? Let's see, our times tables. Let's see, they are
+three apart. One's going to have to be
+positive and one's negative. 9 times 6 is 54. If we make the 9 positive
+and we make the b negative 6, it works. 9 minus 6 is 3. 9 times negative 6
+is negative 54. So we can rewrite
+this up here. We can rewrite this as 3x
+squared, and I'm going to say plus 9x minus 6x minus 18. Notice, all I did here
+is I split this 3x into a 9x minus 6x. The only difference between
+this expression and this expression is that I split the
+3x into a 9x minus 6x. You add these two together,
+you get 3x. The way I wrote it right here
+you can actually ignore the parentheses. And the whole reason why I did
+that is so I can now group it. And normally, I decide which
+term goes with which based on what's positive or negative or
+which has common factors. They both have a common
+factor with 3. Actually, it probably wouldn't
+matter in this situation, but I like the 9 on this side
+because they're both positive. So let's factor out
+a 3x out of this expression on the left. If we factor out a 3x out of
+this expression this becomes 3x times x plus 3. And then on this expression, if
+we factor out a negative 6, we get negative 6
+times x plus 3. And now this is very clear our
+grouping was successful. This is the same thing as-- we
+can kind of undistribute this as 3x minus 6 times x plus 3. If we were to multiply this
+times each of these terms, you get that right there. So the top term, we can rewrite
+it as 3x minus 6-- let me do it in the same color. So we can rewrite it as 3x
+minus 6 times x plus 3. That's this term right here. I don't want to make it look
+like a negative sign. That's that term right there. Now let's factor this bottom
+part over here. Scroll to the left
+a little bit. So if I want to factor 2x
+squared plus 5x plus 3, I need to think of two numbers that
+when I take their product, I get 2 times 3, which is equal
+to 6, and they need to add up to be 5. And the two obvious numbers
+here are 2 and 3. I can rewrite this up here as
+2x squared plus 2x plus 3x plus 3, just like that. And then if I put parentheses
+over here, and I decided to group the 2 with the 2 because
+they have a common factor of 2, and I grouped the 3 with
+the 3 because they have a common factor of 3. This right here is 2 and a 3. So here we can factor
+out a 2x. If you factor out a 2x, you get
+2x times x plus 1 plus-- you factor out a 3 here--
+plus 3 times x plus 1. And our grouping
+was successful. This is clearly-- let me switch
+colors-- this is the same thing as 2x plus
+3 times x plus 1. So here we've been able
+to factor it as well. We were able to factor out
+the denominator as well. Actually, I just realized
+that I made a mistake. I wrote here minus 3. I wrote a plus 3 over here. Let me backtrack this. That would have been
+a horrible mistake. I would have had to
+redo the video. Let me clear all of this, all
+of this business over here. Let me clear that. This is 2x squared
+plus 5x minus 3. So once again, a times b needs
+to be equal to negative 3 times 2, which is negative 6. And a plus b needs
+to be equal to 5. So in this situation, it looks
+like if we went with 6 and negative 1, that seems to
+be a better situation. 6 minus 1 is 5. 6 times negative 1
+is negative 6. So that would have been
+a horrible mistake. So we can rewrite this up here
+as 2x squared, and I'll group the 6 with the 2x squared
+because they share a common factor. So plus 6x minus x, this is the
+same thing as 5x minus 3. I just had to find the numbers
+to split this 5x into. But 6x minus x is 5x. And if I put some parentheses
+here, I can factor out of 2x out of this first term. I get 2x times x plus 3. And here I can factor out
+a negative 1, so minus 1 times x plus 3. And then our grouping
+was successful. We get 2-- let me do this in a
+different color-- we get 2x minus 1 times x plus 3. So our denominator here
+is equal to 2x minus 1 times x plus 3. And once again, we have a common
+factor in our numerator and our denonminator,
+the x plus 3. But we have to add the condition
+that x cannot be equal to negative 3, because
+that would make this whole thing equal to zero. Or not equal to zero, it would
+make us divide by zero, which is undefined. So we have to say that x cannot
+be equal to negative 3. So this expression up here is
+the same thing as 3x minus 6 over 2x minus 1, granted that we
+also imposed the condition that x does not equal
+negative 3. Hopefully, you found
+that interesting.

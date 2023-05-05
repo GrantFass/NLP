@@ -1,0 +1,229 @@
+What I want to do in this video,
+now that we have displacement as a function of time,
+given constant acceleration and an initial velocity. I want to plot displacement,
+final velocity, and acceleration, all of
+those as functions of time. Just so we really
+understand what's happening as the ball is
+going up and then down. So we know this is
+our displacement as a function of time. We know what our final
+velocity is going to be, as a function of time. We talked about it
+in the last video. Our final velocity is going
+to be our initial velocity plus our acceleration
+times change in time. Right? If we start at some initial
+velocity, and then you multiply the
+acceleration times time. This part tells you how
+much faster or slower you're going to go than
+your initial velocity. And that will be, I
+guess you could say, your current velocity,
+or the final velocity at that point in time. And of course, our
+acceleration, we know. Our acceleration is
+pretty straightforward. The acceleration due
+to gravity is just going to be negative 9.8
+meters per second squared. Once again, negative
+being the convention that it is in the
+downward direction. Our initial velocity
+is going to be in the upward direction,
+19.6 meters per second. So let's plot these
+out a little bit. Let's plot these out. So the first graph I want
+to do, right over here, will be my displacement
+versus time. So this axis right over
+here is going to be time, or maybe I could call this
+the change in time axis. Actually, lets
+just call it time. And then this axis, right over
+here, I will call displacement. And let me put
+some markers here. So let's say that this is
+5 meters, 10 meters, 15 meters, and 20 meters. And then in the time, this is 0,
+this is 1 this is 2, this is 3, and this is 4 seconds. So this is in
+seconds right here. This is meters. 5, 10, 5, 10, 15, 20. So this is displacement. Displacement graph. And I want to, at the
+same time as that, I want to do a velocity graph. So let me draw my
+velocity graph like this. I'll do it a little
+bit different. So, this is because the velocity
+will be going up and down. So we need to have positive
+and negative values here. Time will only be positive. So once again, I care about 1
+second, 2 seconds, 3 seconds, and 4 seconds in time. And velocity, I'm
+going to call this. This is going to be
+10 meters per second. This is 20 meters per second. This will be negative
+10 meters per second. And this will be negative
+20 meters per second. And so all of this is
+in meters per second. This right here is velocity. This axis right here is time. So this is my velocity graph. And why don't we just throw an
+acceleration graph over here, although that's, to some
+degree, the easiest of them all. So the acceleration
+graph, and I'll just do this right
+from the get go, because we're going to assume
+that acceleration is constant. So this is 1 second,
+2 seconds, 3 seconds, and 4 seconds into it. And then let's call
+this negative 10. And all of this is in
+meters per second squared. And so we know our
+acceleration is negative 9.8 meters per second squared. So the acceleration
+the entire time over the four seconds, the
+acceleration over the four seconds is going to be
+that's about negative 9.8. It's going to be that. It's going to be a constant
+acceleration the entire time. But let's figure out
+displacement and velocity. So let me draw a
+little table here. So in one column, I
+will do change in time. Or sometimes you
+could do that as time. Let's figure out what
+our final velocity is, or I should really say our
+current velocity, or velocity at that time. And then in this
+column, I'll figure out what our displacement is. And I will do it for
+times 0, 1, 2, 3, 4. Or change in time. So when 0 seconds have gone
+by, when 1 second has gone by, when 2 seconds, 3 seconds,
+and 4 seconds have gone by. Actually let, me call this
+the change in time axis, because this is essentially
+how many seconds have gone by. So this is my
+change in time axis. And let me make it clear that
+this graph-- I didn't label it here-- this is my
+acceleration graph. And I'm going off of the screen. All right. So let's fill these things out. So at time 0, what is
+our what is our velocity? Well, if we use this expression
+right here, time 0, or delta t is equal to 0. This expression right
+here, is going to be 0. And it's just going to
+be our initial velocity. And in the last video, we
+gave our initial velocity, is going to be as 19.6
+meters per second. So it is going to be
+19.6 meters per second. And let me plot that over here. At time 0, it is going to
+be 19.6 meters per second. What is our initial displacement
+at time zero, or change in time 0? So you look at this up here. Well, our delta t is 0, so this
+expression is going to be 0, and this expression
+is going to be 0. So we haven't done
+any displacement yet, when no time has gone by. So we have done no displacement. We are right over there. Now, what happens after
+1 second has gone by? What is now our velocity? Well, our initial velocity,
+right over here, is 19.6. 19.6 meters per second,
+that was a given. And our acceleration is negative
+9.8 meters per second squared. So it's a negative,
+right over there. And then you multiply that times
+delta t in every situation. So in this situation
+we're going to multiply it by 1, because delta t is 1. So we get 19.6 minus
+9.8, that gives us exactly 9.8 meters per second. And the units work out,
+because you multiply this times seconds, this gives
+you meters per second. So 19.6 meters per second minus
+9.8 meters per second-- one of these seconds goes away when
+you multiply it by second-- gives you 9.8 meters per second. So after 1 second,
+our velocity is now half of what it was before. So we're now going
+9.8 meters per second. Let me draw a line here. 9.8 meters per second. Now what is our displacement? So you look up here. And let me rewrite this
+displacement formula, with all of the
+information that we know. So we know that
+displacement is going to be equal to our initial
+velocity, which is 19.6-- and I won't write
+the units here, just for the sake of space--
+times our change in time. I'll do it in that same
+color, so you what's what. Times our change
+in time plus 1/2. Now let me be clear, 1/2
+times negative 9.8 meters per second squared. So 1/2 times a is
+going to be-- actually I can rewrite this,
+right over here-- because this is going to
+be negative 9.8 meters per second times 1/2, so this
+is going to be negative 4.9. All I did, is I took 1/2
+times negative 9.8 over here. 1/2 times negative 9.8. And this is important. And this is why the vector
+quantities start to matter. Because if you didn't, if
+you put a positive here, you wouldn't have
+the object actually slowing down as it went up,
+because you would have gravity somehow accelerating
+it as it went up. But it's actually
+slowing it down. It's accelerating it in
+the downwards direction. So that's why you have to have
+that negative right over there. That was our convention at the
+beginning of the last video. Up is positive. Down is negative. So let's focus. So this part right over
+here, negative 4.9 meters per second squared
+times delta t squared. And this will make it
+a little bit easier, although we'll still-- let
+me get the calculator out. So when one second has passed--
+I'll get my trusty TI-85 out. When one second has passed, the
+displacement is 19.6 times 1. Well, that's just 19.6. Minus 4.9 times 1 squared. So that's just minus 4.9. Gives us 14.7 meters. So after 1 second, the ball
+has traveled 14.7 meters in the air. So that's roughly over there. Now, what happens
+after 2 seconds? I'll do this in magenta. So after 2 seconds, our velocity
+is 19.6 minus 9.8 times 2. 2 seconds have gone by. Well, 9.8 meters per second
+squared times 2 seconds gives us 19.6 meters per second. So these just cancel out. So we get, our
+velocity is now 0. So after 2 seconds,
+our velocity is now 0. Actually, let me-- So let me
+make it so it's-- this thing should look more like a line. I don't make you get a sense--
+So this is-- So let me just draw the line like this. Our velocity is now
+0 after 2 seconds. What is our displacement? So we're literally at the point
+where the ball has no velocity. At exactly 2 seconds. So it's kind of gone up, and
+for that exact moment in time, it is stationary. And then what do we have
+going on in our displacement? We have 19.6-- let me get
+the calculator out for this. I could do it by
+hand, but for the sake of quickness-- 19.6
+times 2-- 19.6 times 2 seconds minus 4.9
+times 2 seconds squared. This is 2 seconds squared. Oh, I lost the calculator. Times 2 seconds squared. So that's times 4. So that gives us 19.6 meters. So we're at 19-- let me
+do that in magenta-- we are at 19.6 meters. So after 2 seconds, we are
+19.6 meters in the air. Now let's go to 3 seconds. So after 3 seconds,
+our velocity is now-- I'll just get the-- it's
+19.6 meters per second minus 9.8 times 3. And we could do
+that in our head, but just to verify it for us,
+let me get the calculator out. It's 19.6 minus 9.8 times 3. That gives us negative
+9.8 meters per second. So after 3 seconds,
+our velocity is now negative 9.8 meters per second. What does that mean? It's now going in the
+downward direction at 9.8 meters per second. So this is our velocity graph. And then what is our
+displacement at this point? So once again, let's
+get the calculator out. If you're getting
+the hang of this. At any time, I encourage
+you to pause it, and try it for yourself. So now, what is-- now
+this is a little, OK. So I'm looking at
+my displacement, I wrote right over here. So our displacement
+where delta t is 3 seconds, 19.6 times 3
+minus 4.9 times-- and this is delta t, so
+this is 3 seconds. We're talking about when delta
+t, or our change in time, is 3 seconds. So that squared. So times 9. And that gives us 14.7 meters. So after 3 seconds, we're
+at 14.7 meters again. And so we're at the same
+position we were at 1 second, but the difference is, now
+we're moving downwards. Over here we were
+moving upwards. And then finally, what
+happens after 4 seconds? Well, what's our velocity? Well let me just get
+the calculator out, although you might be able to
+figure this out in your head. Our velocity is going to be
+19.6 minus 9.8 times 4 seconds. Which is minus 19.6
+meters per second. So our magnitude of our
+velocity is the same as when we initially threw
+the ball, except now it's going in the opposite direction. It's now going downwards. And what is our displacement? Get the calculator out. So we have, our displacement
+is 19.6 times 4-- 4 seconds have gone by-- minus
+4.9 times 4 squared-- which is 16-- so times
+16, which is equal to 0. Our displacement is 0. We are back on the ground. We are back on the ground. So if you were to
+plot its displacement you would actually get a
+parabola, a downward opening parabola that looks
+something like this. Doing my best to draw
+it relatively neatly. Actually, I can do a
+better job than that. I'll do a dotted line. Dotted lines are always
+easier to adjust midstream. If you plot displacement
+versus time, it looks something like this. Its velocity is just this
+downward sloping line, and then the
+acceleration is constant. And the whole reason
+why I wanted to do this, is I wanted to show you that
+the velocity the whole time is decreasing at
+a constant pace. And that makes sense, because
+the rate at which the velocity increases or decreases
+is the acceleration. And the acceleration, based on
+our convention, is downwards. So that's why it's decreasing. We have a negative slope here. We have a negative slope
+of negative 9.8 meters per second squared. And so just to think
+about what's happening for this ball, or
+this rock-- and I know this video is
+getting long-- as it goes through the air, I'm going to
+draw the vectors for velocity. And I'm going to
+do that in orange, or no, maybe I'll
+do that in blue. So velocity in blue. So right when we start,
+it has a positive velocity of 19.6 meters per second. So I'll draw a big
+vector like this, 19.6 meters per second,
+that's its velocity. Then after 1 second, it's
+9.8 meters per second. So it's half of that. Maybe it would look
+something like this, 9.8 meters per second. Then at this peak right over
+here, it has a velocity of 0. Then as you go to 3 seconds,
+the magnitude of its velocity is 9.8 meters per second. But it is now downwards. It is now downwards,
+so it looks like this. And then, finally, right when
+it hits the ground, right before it hits the ground,
+it has a negative velocity of 19.6 meters per second. So it would look like
+this, roughly like this. If I use the same
+scale over here. But what was the
+acceleration the entire time? Well, the entire time, the
+acceleration was negative. It was negative 9.8
+meters per second squared. And I'll do that in orange. So the acceleration,
+over here, negative-- no, I want to do that in
+orange-- the acceleration was negative 9.8 meters
+per second squared. Acceleration, negative 9.8
+meters per second squared. Negative 9.8 meters
+per second squared. The acceleration is
+constant the entire time. This last one is negative 9.8
+meters per second squared. It does not change,
+depending where you are in the
+curve, when you're near the surface of the Earth. So hopefully that clarifies
+things a little bit and gives you a
+good sense of what happens when you throw a
+projectile into the air.

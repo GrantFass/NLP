@@ -1,0 +1,64 @@
+We have this strange
+looking shape here, and then we're given
+some of its dimensions. We know that this side right
+over here has a length of 3.5. This side over here is 6.5. Then we know from
+here to here is 2, and then from here to here is 7. And then they're giving us
+this dimension right over here is 3.5. So given that,
+let's see if we can find the area of
+this entire figure. And I encourage you to pause
+the video right now and try this on your own. I assume you've
+given a go at it. And there might be
+a few things that jump out at you immediately. The first thing
+is that they have these two triangles up here. And they give us all of
+the dimensions for them, or at least they give us
+the base and the height for it, which is enough
+to figure out the area. If I had a rectangle that was 2
+units wide and 3.5 units high, if we know that it would
+have an area of 2 times 3.5. Now a triangle is
+just going to be, especially a triangle like
+this, a right triangle, is just going to be half
+of a rectangle like this. We just care about
+half of its area. So this area is going to
+be 1/2 times 2 times 3.5. 1/2 times 2 is equal to 1. 1 times 3.5 is 3.5 square units. So the area of that part is
+going to be 3.5 square units. Let's think about the area of
+this triangle right over here. Well, once again we
+have its height is 3.5. Its base is 7. So its area is going to
+be 1/2 times 7 times 3.5. 1/2 times 7 is 3.5 times 3.5. So this part is
+3.5, and I'm going to multiply that
+times 3.5 again. Let's figure out what
+that product is equal to. 3.5 times 3.5. 5 times 5 is 25. 3 times 5 is 15, plus 2 is 17. Let's cross that out. Move one place over to the left. 3 times 5 is 15. 3 times 3 is 9, plus 1 is 10. So that gets us
+to 5 plus 0 is 5. 7 plus 5 is 12, carry the 1. 1 plus 1 is 2. And we have a 1. We have two digits to the
+right of the decimal, one, two. So we're going to
+have two digits to the right of the
+decimal in the answer. The area here is
+12.25 square units. Now this region may be a
+little bit more difficult, because it's kind of us this
+weird trapezoid looking thing. But one thing that
+might pop out at you is that you can
+divide it very easily into a rectangle and a triangle. And we can actually
+figure out the dimensions that we need to figure out
+the areas of each of these. We know what the width
+of this rectangle is, or the length of
+this rectangle, whatever you want to call it. It's going to be 2
+units plus 7 units. So this is going to be 9. We know that this
+distance is 3.5. If this distance right
+over here is 3.5, then this distance down here
+has to add up with 3.5 to 6.5, so this must be 3. Now we can actually
+figure out the area. The area of this
+rectangle is just going to be its height times
+its length, or 9 times 3.5. 9 times 3.5. And one way you could
+do it-- we could even try to do this in our head--
+this is going to be 9 times 3 plus 9 times 0.5. 9 times 3 is 27. 9 times 0.5, that's just half of
+nine, so it's going to be 4.5. 27 plus 4 will get
+us to 31, so that's going to be equal to 31.5. Or you could multiply it
+out like this, if you like. But the area of
+this region is 31.5. And then the area of this
+triangle right over here is going to be 9
+times 3 times 1/2. We're looking at a triangle. 9 times 3 is 27. 27 times 1/2 is 13.5. So to find the area
+of the entire thing, we just have to
+sum up these areas. We have 31.5 plus 13.5
+plus 12.25 plus 3.5. So we just have a 5
+here in the hundredths. That's the only one. 5 plus 5 is 10, plus 7 is 17. 1 plus 1 is 2, plus 3 is 5,
+plus 2 is 7, plus 3 is 10. 1 plus 3 is 4, plus
+1 is 5, plus 1 is 6. So we get a total area for this
+figure of 60.75 square units.

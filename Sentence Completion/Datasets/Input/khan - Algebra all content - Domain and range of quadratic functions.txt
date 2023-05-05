@@ -1,0 +1,107 @@
+Determine the domain and range of the function f of x is equal to
+3x squared plus 6x minus 2. So, the domain of the function is:
+what is a set of all of the valid inputs, or all of the valid x values
+for this function? And, I can take any real number,
+square it, multiply it by 3, then add 6 times that real number
+and then subtract 2 from it. So essentially any number if we're talking
+about reals when we talk about any number. So, the domain, the set
+of valid inputs, the set of inputs over which this function
+is defined, is all real numbers. So, the domain here is
+all real numbers. And, for those of you who might say, well,
+you know, aren't all numbers real? You may or may not know that
+there is a class of numbers, that are a little bit bizarre
+when you first learn them, called imaginary numbers
+and complex numbers. But, I won't go into that right now. But, most of the traditional
+numbers that you know of, they are part of
+the set of real numbers. It's pretty much
+everything but complex numbers. So, you take any real number
+and you put it here, you can square it, multiply it by 3,
+then add 6 times it and subtract 2. Now, the range, at least the way we've
+been thinking about it in this series of videos-- The range is set of possible,
+outputs of this function. Or if we said y equals f of x
+on a graph, it's a set of all the possible y values. And, to get a flavor for this,
+I'm going to try to graph this function right over here. And, if you're familiar with quadratics-- and that's what this function is
+right over here, it is a quadratic-- you might already know
+that it has a parabolic shape. And, so its shape might look
+something like this. And, actually this one will
+look like this, it's upward opening. But other parabolas
+have shapes like that. And, you see when a parabola
+has a shape like this, it won't take on any values
+below its vertex when it's upward opening, and it won't take on any values above
+its vertex when it is downward opening. So, let's see if we can graph
+this and maybe get a sense of its vertex. There are ways
+to calculate the vertex exactly, but let's see how we can
+think about this problem. So, I'm gonna try some x and y values. There's other ways to directly compute the
+vertex. Negative b over 2a is the formula for it. It comes straight out of the quadratic formula, which you get from completing the
+square. Lets try some x values and lets see what f
+of x is equal to. So, let's try, well this the values we've
+been trying the last two videos. What happens when x is equal to negative
+two? Then f of x is 3 times negative 2 squared,
+which is 4, plus 6 times negative 2, which is 6 times negative 2,
+so it's minus 12 minus 2. So, this is 12 minus 12 minus 2. So, it's equal to negative 2. Now, what happens when x is equal to
+negative 1? So, this is going to be 3 times negative 1
+squared, which is just 1, minus, or I should say plus 6 times negative 1 which
+is minus 6 and then minus 2, and then minus
+2. So, this is 3 minus 6 is negative 3 minus 2 is equal negative 5, and that actually
+is the vertex. And, you know the formula for the vertex,
+once again, is negative b over 2 a. So, negative b. That's the coefficient on this term right
+over here. It's negative 6 over 2 times this one
+right over here, 2 times 3. 2 times 3, this is equal to negative 1. So, that is the vertex, but let's just
+keep on going right over here. So, what happens when x is equal to 0? These first two terms are 0, you're just
+left with a negative 2. When x is equal to positive 1. And, this is where you can see that this is the vertex, and you start seeing the
+symmetry. If you go one above the vertex, f of x is
+equal to negative 2. If you go one x value below the vertex, or
+below the x value of the vertex, f of x is equal to
+negative 2 again. But, let's just keep going. We could try, let's do one more point over
+here. So, we have, we could try, x is equal to
+1. When x is equal to 1, you have 3 times one
+squared which is 1. So, 3 times 1 plus 6 times 1, which is
+just 6, minus 2. So, this is 9 minus 2 it's equal to 7. And, that I think is enough points to give us a scaffold of what this graph will look
+like. What the graph of the function would look
+like. So, it would look something like this. I do my best to draw it. So, this is a x equals negative 2. We draw the whole axis. This is x is equal to negative 1, this is
+x is equal to, this is x is equal to 0 and then this is x is equal to
+1 right over there and then when x is equal to, we go from negative 2
+all the way to positive. Or, we should go from negative 5 all the
+way to positive 7. So, let's say this is negative 1,2,3,4,5. That's negative five over there on the y
+axis, y axis and then it will go to positive 7. One, two, three, four, five, six, seven. I could keep going, this is in the y, and
+we're going to set y equal to whatever our output of
+the function is. Y is equal to f of x. And this is one right here. So, lets plot the points. You have the point negative 2, negative 2. When x is negative 2, this is the x axis. When x is negative 2, y is negative 2. Y is negative 2 so that is that right over
+3. So, that is the point, that is the point
+negative 2, negative 2. Fair enough? Then, we have this point that we have this
+pink or purplish color. Negative, when x is negative 1, f of x is
+negative 5. When x is negative 1, f of x is negative
+5. And, we already said that this is the
+vertex. And, you'll see the symmetry around it in
+a second. So, this is the point negative 1, negative
+5. And then, with the point 0, negative 2. 0, negative when x is a 0, y is negative
+2, for f' of x is negative 2 or f of 0 is negative 2, so this is the
+point 0, negative 2, and then finally when x is equal to 1 and
+f of 1 is 7, f of 1 is 7. So, that's right there it's a point 1, 7
+and it gives us a scaffold for what this parabola, what this
+curve will look like. So, I'll try my best to draw it
+respectably. So, it would look something, something
+like that, and keep on going in that direction. Keep on going in that direction. But, I think you see the symmetry around
+the vertex. That if you were to. If you were to put a line right over here,
+the two sides are kind of the mirror images of
+each other. There, you can flip them over, and that's
+how we know it's the vertex. And, that's how we also know, because this
+is an upward opening parabola, I mean, there is formulas for vertex, and
+there are multiple ways of calculating it. But, since it's an upward opening
+parabola, where the vertex is going to be, the minimum
+point. This is the minimum value that the
+parabola will take on. So, going back to the original question,
+this is all for trying to figure out the range, the set of y values, the set of
+outputs that this function can generate. You see that the function, it can get as
+low as negative 5. It got all the way down to negative 5
+right at the vertex. But, as you go to the right, as x values
+increase to the right or decrease to the left, then
+the parabola goes upwards. So, the parabola can never give you
+values-- f of x is never going to be less than
+negative 5. So, our domain,
+but it can take on all the vaues. It can keep on increasing forever as x
+gets larger, x gets smaller farther away from
+the vertex. So, our range, so we already said our
+domain is all real numbers. Our range, the possible y values
+is all real numbers greater than or equal to negative
+5. It can take on the value of any real number greater than or equal to
+negative 5. Nothing less than negative 5.

@@ -1,0 +1,106 @@
+Where we left off in the last
+video, we were trying to figure out if there's a
+meaningful difference between the proportion of men voting
+for a candidate and the proportion of women. We sampled 1,000 men, sampled
+1,000 women, and we got a sample proportion for
+each of them. We got 0.642 for the men and
+0.591 for the women. But our goal is to get a 95%
+confidence interval. So just based on our actual
+sample, we got-- let me write it over here. We got our sample proportion for
+the men minus-- let me do this in a neutral color. We got our sample proportion for
+the men minus our sample proportion for the women
+being 0.642 minus 0.591, that's 0.051. I just subtracted
+this from that. So what we want to do when we
+want a confidence interval, we want to be confident. I'll always have to say that
+because it's not going to be super precise. We want to be confident that
+there's a 95% chance that this thing right here-- remember,
+when we took the two sample proportions and took their
+difference, it's like taking a sample from the sampling
+distribution of the statistic. So we want a 95% chance that
+the true mean or the true value of this, that P1 minus P2
+is within some range, let's say is within d, I'll say d for
+distance, of the actual difference that we got
+with our samples. Within d of 0.051. And I write this multiple
+times, but I always write it this way. I don't just give the
+formula that you normally see in books. It's very easy to memorize if
+you do, but this way, you actually see why
+this confidence interval makes sense. If there's a 95% chance that P1
+minus P2, the actual true proportions, the difference of
+the true proportions, is within d of the difference
+between our sample proportions, this statement
+right here is the same thing that there's a 95% chance that
+0.051 is within d of this actual parameter, P1 minus
+P2, which is the same thing as the mean. So we need to figure out some
+distance around this mean, where if we take a random sample
+from this, and this is a random sample from this
+distribution, it has a 95% chance of being within d of
+this mean, because if it's within d of the mean, then
+there's also a 95% chance that the mean is within d of our
+sample, and then we'll have our confidence interval. Our confidence interval would be
+this value plus d and this value minus d. So what are these? What is the distance d? Well, in a normalized normal
+distribution, I got a Z-table right over here, and we can
+assume everything is normal, especially the sampling
+distributions because our n is so big and also our proportion
+is not close to zero or one. It's nice and close to the
+middle, so we don't end up with all these weird cases
+near the edges. We say, OK, how do we contain
+the middle 95%? How many standard deviations in
+a normal distribution do we need to be away from the mean in
+order to contain 95% of the probability? Now these Z-tables, and we've
+done it multiple times, give you cumulative distribution. We're looking for this Z-value
+right over here. If it's containing 95%, you're
+going to have 2.5% over here and you're going to have
+2.5% over here. So from a Z-table's point of
+view, this Z-table gives you the cumulative probability
+up to that Z-value. So what we're looking for
+is actually 97.5%. We're looking for something
+that contains all of this over here. If we get the Z-value and then
+apply it on both sides, then we're going to have something
+that contains 95%. So let's look up the 97.5. 97.5 is right over there, and
+that is 1.96 standard deviations. So this is 1.96 for a normalized
+standard deviation, or a Z-score of 1.96. So if we looked to this normal
+distribution right over here, this distance that we care
+about is going to be 1.96 times the standard deviation of
+this distribution, so it's going to be 1.96 times
+all of this business. 1.96 times the standard
+deviation of this distribution. And so we just need to
+calculate this and multiply it by 1.96. Now, we have a problem. We don't know the true
+parameters P1 and P2. We don't know the true
+population parameters. We don't know P1 and P2. That's part of the problem. We're trying to figure out
+if there's a meaningful difference between P1 and P2. But we've seen it
+multiple times. Since our sample size is a
+large, we can estimate P1 and P2 with our sample
+proportions. So we could change this to
+approximately and we can use our sample proportions. And we know what those
+values are. And actually this n over
+here was 1,000. So let's figure that out. Let's just get the
+calculator out. It's just going to be one
+big calculation here. So what we have is the square
+root, and then in parentheses, our sample proportion for the
+men is 0.642, and then we're going to multiply that times
+1 minus 0.642, close parentheses. That's that over there
+divided by 1,000. And then we're going to add to
+that plus-- do the same thing for the women. Our sample proportion is 0.591
+times 1 minus 0.591. So that's this term right over
+here divided by 1,000. Once again, I need to get
+the parentheses right. And then we just need to close
+the parentheses, this original parentheses, because we're
+taking the square root of everything. So we get 0.021, or maybe
+we'll say 0.022. So this value right here
+is approximately 0.022. So going back to our question,
+or this distance that we care about, this value is going to be
+approximately, or our best estimate of it, is 0.022. So let's just multiply that. 0.022 times 1.96 gives 0.043. I'll just round it. So this right here is
+equal to 0.043. And just like that, we have
+our confidence interval. We know that there's a 95%
+chance that the true difference of the proportions is
+within 0.043 of the actual difference of our sample
+proportions that we got. Or if we actually want to get
+an interval, we take this value minus 0.043. So let's do that. So we could have 0.051
+minus 0.043 is going to give us 0.008. And then if we add
+it, so 0.051 plus 0.043, it gives us 0.094. So the 95% confidence interval
+between the proportions of men and the proportion of women who
+are going to vote for the candidate for P1 minus
+P2 is 0.008 to 0.094. I have it right here
+on the calculator. And we're done. So it does seem we're confident
+that there's a 95% chance that men are more
+likely to vote for the candidate than women.

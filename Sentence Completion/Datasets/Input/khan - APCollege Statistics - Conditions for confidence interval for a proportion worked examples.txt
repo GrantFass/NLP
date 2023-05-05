@@ -1,0 +1,63 @@
+- [Instructor] Ali is in
+charge of the dinner menu for his senior prom, and he
+wants to use a one-sample Z interval to estimate
+what proportion of seniors would order a vegetarian option. He randomly selects 30
+of the 150 total seniors and finds that seven of those sampled would order the vegetarian option. Which conditions for constructing
+this confidence interval did Ali's sample meet? So, pause this video, and you can select more than one of these. Alright now, let's work
+through this together. So one thing that you might
+be wondering is, well, what is a one-sample Z interval? Well, you could really interpret
+that as he's gonna take one sample and then construct
+a confidence interval based on that. The reason why it might
+be called a Z interval is the whole idea behind a
+confidence interval is you're going to pick a number of
+standard deviations above and below the true parameter that
+you are actually trying to estimate, and then use that
+to make your inferences. And one way of thinking
+about the number of standard deviations, people will
+often call that a Z score, or Z is often used as a variable
+for the number of standard deviations above or below something. So really, he's just trying
+to construct a confidence interval, but remember,
+in order to construct a confidence interval, we
+have to make some assumptions. He's taking, there's 150
+students, right over here. He's finding it impractical
+to survey all 150 to figure out the true
+population proportion. So instead, he samples 30 of the seniors. So, N is equal to 30. And from that, he calculates
+a sample proportion. Looks like seven out of the 30 are, they want the vegetarian option. And he's going to determine
+some confidence level and then construct a confidence interval. But remember the conditions
+that we've talked about in the previous videos. The first thing is, we
+have to be confident that, is this a random sample? So that would be the random condition, and that's what choice A is telling us. The data is a random sample
+from the population of interest. Do we know that? Well, it tells us in the passage here, he randomly selects 30
+of the total seniors. So I guess we'll take their word for it. We don't know his methodology
+of what he considers random, but we'll take their
+word for it, that yes, this has been met. The data is a random sample. If it said he sampled
+the football team, well, that would not have been a random sample. The next condition here
+looks all mathematical, but this is really the normal condition. And the idea behind the
+normal condition is that, in order to construct
+these confidence intervals, we're assuming that the
+sampling distribution of the sample proportions
+is roughly normal, and it is not skewed to the right or skewed to the left like this. And so, right here it says,
+look, the sample size times our sample proportion has to
+be greater than/equal to 10. Or our sample size times one
+minus our sample proportion has to be greater than/equal to 10. Well, another way to think about this is, our successes in our sample need to be greater than/equal to 10,
+and our failures need to be greater than/equal to 10. Well, how many successes were there? There were seven. And you could even say,
+look, our N is 30 times our sample proportion is seven over 30, which is going to be seven. So our successes is less
+than 10, so actually, we violate the normal condition. Once again, this is a rule of
+thumb, but this is telling us that our actual sampling
+distribution might be skewed. Remember, this is just
+based on one sample, what we're able to figure out. This is one sample Z interval. We might be wrong, but
+we wouldn't feel good that we're meeting the
+normal condition here, so I would rule this one out. Individual observations can
+be considered independent. Well, if he randomly selected
+people with replacement, then they could be independent. Or, if the people he is
+selecting, if his sample size is less than 10% of the total population, then it could be considered independent, even though it wouldn't
+be perfectly independent. But we see here that he
+sampled 30 people out of 150. So his sample size was 30 out of 150, which is the same thing as
+one fifth of the population, which is the same thing as 20%. And since this is greater than 10%, we are violating the
+independence condition. We could have met the
+independence condition if he was sampling with replacement, which
+it doesn't seem like he is, or if this thing right over
+here was less than 10%. But we're not meeting that, so we cannot feel good about that constraint. And so, since we're not meeting
+two of the three constraints for, I would say, valid
+confidence intervals, or confidence intervals we
+would feel confident in, this is not so good of an
+analysis on Ali's part.

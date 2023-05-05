@@ -1,0 +1,39 @@
+To power a single motor,
+you use the motor block, which is under your output here. However, this only works when
+you're powering a single motor. However, if you are building
+some sort of vehicle and you have multiple
+motors attached-- let's say you have a motor
+plugged into A and B-- you need to use the move block,
+which is under the common area, and the move block allows you
+to control multiple motors. And you do so by selecting the
+port your motors are plugged into, so in this example,
+I have A and B checked, and that's where my
+motors are plugged into. And now I can easily adjust the
+direction to both those motors here. And I can also
+adjust the steering to favor either towards A
+or B, and what steering does is it just adjusts the power
+being sent to those motors. And you also have
+an overall power setting for all motors
+that are plugged in. You can go to max power
+and all the way to 0. And the duration is how long you
+want this block to execute for. So you can do unlimited, and
+this will just continue running and you won't even need
+a loop in this case. You can also do some
+fine adjustments and say, I want my motors to
+turn five degrees, and because of the
+internal rotation sensor, it can do a very
+fine adjustment. You can also set
+it to do rotations, such as, I want my motors
+to rotate three times. There. And the last option is
+you can set the duration, so you can have your
+motors run for 2.5 seconds if that's what you need
+in your application. The final setting is Next
+Action, and what this does is it allows you to
+select Brake or Coast. Brake means when
+this block ends, the motors immediately shut off. And, however, you
+can also select Coast, which means the
+power ramps off slowly and you get this
+smoother response. So that's how you can control
+either multiple motors, or the same thing applies if
+you're using a single motor. It's all the same
+settings, except it only applies to a single motor port.

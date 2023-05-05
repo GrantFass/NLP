@@ -1,0 +1,62 @@
+In the last video we used
+the divergence theorem to show that the
+flux across this surface right now, which is
+equal to the divergence of f along or summed up
+throughout the entire region, it's equal to 0. And what I want to do in this
+video is think a little bit. When you get an
+answer like 0, you want to think about why is it? This is saying that there's
+no net flux across the surface right over here. Or if you sum up all of the
+divergences in this volume, you are getting 0. So why is that? Well, the simple way
+to think about it is, when we took the divergence
+of f, this vector field f is hard to visualize,
+but the divergence of f is fairly easy to visualize. The divergence is
+equal to 2 times x. So over here you're
+going to get, as you go further and
+further in this direction, as x becomes larger,
+your divergence becomes more and more positive. So you have kind of a
+divergence of 2 right over here. You have a divergence
+of 1 along that line. And you have a divergence
+of 0 right there. And that's also true,
+obviously, as you go higher. Because you're just
+changing the z. You're not changing the x. So all over here you
+have positive divergence. Over there you have
+positive divergence, and not just along that plane. But if you go in the
+x direction as well, this whole region of space,
+you have positive divergence, I guess you could say, in the
+positive x side of our octant. But then as you go on that
+side, on the other side, you have negative divergence. And this diagram is symmetric
+with respect to the zy plane. And so those divergences
+cancel them out. You would have had
+a positive flux across the surface or a
+positive value right over here. Instead of calculating
+it for this region, we had calculated
+for region that was just between x is 0 and 1. So let's just think
+about that region. So that region that would have
+been cut off right over here. That would have been cut
+off right over there. And so the back--
+I guess you could say the back wall of that,
+the back wall of this, would have been the zy plane. Now if we care
+about this volume-- so we're essentially
+eliminating the rest of it. So let me try to eliminate
+it as best as I can, change the colors. So if I eliminate that part
+of it over there and all maybe even what we
+see, all of that-- I should have deleted that first. So if we eliminate
+the back part of it and we're just dealing
+with it when x is positive, then our entire solution
+that we did in the last video would have been the
+exact same, except now x is going to vary between--
+instead of negative 1 and 1, it'll vary between 0 and 1. And so our bounds
+of integration, x is going to go between 0 and 1. And then in that situation,
+our final answer-- this part, this would be between 0 and 1. That would all be 0. And we would be left
+with 3/2 minus 1/2. 3/2 minus 1/2 is 1 minus 1/6,
+which is just going to be 5/6. And so when you just think
+about this part of it-- this side of it, this one
+that I've just drawn-- you had a positive flux of 5/6. On the other side you had
+a negative flux of 5/6. And then they canceled out. One way to interpret
+that is, if we thought about the entire surface, like
+what we saw in the last video, then you had an aggregate
+inward flux in the last video. That's why it was negative. And then it's completely
+offset by an outward flux right over here, the positive. You had a negative divergence
+in that other region, and you have a positive
+divergence that completely offsets it in this
+region right over here.

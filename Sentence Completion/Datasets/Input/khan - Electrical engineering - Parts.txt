@@ -1,0 +1,69 @@
+OK. This is all our
+parts all laid out for the Bit-zee bot, the things
+that you'll need to make one. Now you can make yours out
+of a broad variety of things, and we highly recommend
+that you do that. The only thing that you really
+have to have is the Arduino. Everything else you can
+switch out for other things. You can use different
+types of batteries. You can use different
+motors, et cetera. I'm going to go through
+what I've got here and where the
+products came from, or where the parts came
+from, I should say. And then we're going to start
+to put a Bit-zee together on this board so you can
+see how it's all wired up. But if you don't happen to
+have two hair dryers that you can take apart, you can either
+go and buy two electric motors and get some wheels for them. Or there's a variety
+of things you can do to solve that problem. So again, these are two
+motors from our hair dryer. You can see the hair
+dryer blower fan there. And underneath that
+is a sheet of Lexan. It's a stiff plastic
+that's really resilient. And that sheet of Lexan,
+it's easy to machine. You can drill holes in it
+and do stuff like that. So it's going to be used for
+mounting some of our devices. And you can get
+that at a hardware store for a few dollars. And this is a universal
+remote, and it can be gotten at
+Target for around $8. And we're going to use that
+to control our Bit-zee bot. And then we've got
+some electrical tape and different 22-gauge wire. And then we have
+some solder here. We'll use that to make
+our solder connections. Just like if you saw the video
+for the motor controller, it was used to
+solder that together. And this is a motor
+controller, which will allow us to
+control the speed and direction of our motors. And this is our Arduino. It's our microprocessor
+that we can plug into-- I should say a
+microcontroller that we can plug into our computer
+and download code to it to get the motor
+controller and other things to function the way
+we want them to. So this is a breadboard, and
+it's used for prototyping. And we're going to show
+you how to wire it up and how to connect different
+electronic components to that. And this is our digital
+recording module, and it's for basically recording
+sounds and playing them back. And we're going to use the
+Arduino to trigger that so that when the little
+bot drives around it can make some sounds. Of course, these are
+just double-A batteries, and they're going to go
+in this battery holder. The double-As are 1.5 volts. But when we connect
+them in series together, they're going to be 12 volts. So that'll be great for
+powering our motors, because they want to run on
+a higher voltage than 1.5. And so we have our
+different transistors here that we're
+going to use to do some switching in our circuits. And we've got some three-color
+LED and some screws and nuts and then a bunch of resistors. And these are 330
+ohm, 10K ohm, 220 ohm. We'll go into the details
+on that kind of stuff later. And then I have some of the
+board of our alarm clock radio, so we're going to use some
+components off of that board. And we've got our
+coffee maker here. Or I should say
+our coffee carafe; it's just the holder
+for the coffee. And we're going to use
+some of the components on this for the Bit-zee. And then we have some-- over
+here you can see some zip ties. And so we also have
+an-- we're going to need a infrared
+sensor for the Bit-zee. And that infrared
+sensor will be used for sensing from
+the remote control. And so it looks like this,
+and we'll have one of those as well.

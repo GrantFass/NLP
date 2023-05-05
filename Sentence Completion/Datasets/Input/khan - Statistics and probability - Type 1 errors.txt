@@ -1,0 +1,47 @@
+I want to do a quick video on
+something that you're likely to see in a statistics class,
+and that's the notion of a Type 1 Error. And all this error means is that
+you've rejected-- this is the error of rejecting-- let
+me do this in a different color-- rejecting the
+null hypothesis even though it is true. So for example, in actually all
+of the hypothesis testing examples we've seen, we start
+assuming that the null hypothesis is true. We always assume that the
+null hypothesis is true. And given that the null
+hypothesis is true, we say OK, if the null hypothesis is true
+then the mean is usually going to be equal to some value. So we create some
+distribution. Assuming that the null
+hypothesis is true, it normally has some mean value
+right over there. Then we have some statistic and
+we're seeing if the null hypothesis is true, what is
+the probability of getting that statistic, or getting a
+result that extreme or more extreme then that statistic. So let's say that the statistic
+gives us some value over here, and we say gee, you
+know what, there's only, I don't know, there might be a 1%
+chance, there's only a 1% probability of getting a result that extreme or greater. And then if that's low enough of
+a threshold for us, we will reject the null hypothesis. So in this case we will--
+so actually let's think of it this way. Let's say that 1% is
+our threshold. We say look, we're going
+to assume that the null hypothesis is true. There's some threshold that
+if we get a value any more extreme than that value, there's
+less than a 1% chance of that happening. So let's say we're looking
+at sample means. We get a sample mean that
+is way out here. We say, well, there's less
+than a 1% chance of that happening given that the null
+hypothesis is true. So we are going to reject
+the null hypothesis. So we will reject the
+null hypothesis. Now what does that
+mean though? Let's say that this area, the
+probability of getting a result like that or that much
+more extreme is just this area right here. So let's say that's 0.5%, or
+maybe I can write it this way. Let's say it's 0.5%. And because it's so unlikely to
+get a statistic like that assuming that the null
+hypothesis is true, we decide to reject the null hypothesis. Or another way to view it is
+there's a 0.5% chance that we have made a Type 1 Error in
+rejecting the null hypothesis. Because if the null hypothesis
+is true there's a 0.5% chance that this could still happen. So in rejecting it we would
+make a mistake. There's a 0.5% chance we've
+made a Type 1 Error. I just want to clear that up. Hopefully that clarified
+it for you. It's sometimes a little
+bit confusing. But we're going to use what we
+learned in this video and the previous video to now tackle
+an actual example.

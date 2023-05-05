@@ -1,0 +1,110 @@
+- [Instructor] In this video
+we're going to look at trends for the periodic table of elements for dimensions like ionization energy, atomic and ionic radii, electron affinity, and electro negativity. And to do so, we're going to start with a very fundamental idea
+in chemistry or physics, and that's Coulomb's Law. And for our point of view,
+we can view Coulomb's Law as saying that the magnitude of the force between two charged
+particles is going to be proportional, that just means
+proportional right there, is going to be proportional to the charge on the first particle times the charge on the second particle,
+divided by the distance between those two particles, squared. When we're thinking about it in context of the periodic table of
+elements and various atoms, you can view q1 as the
+effective positive charge from the protons in
+the nucleus of an atom. You can view q2 as the
+charge of an electron. Now any given electron is going to have the same negative charge,
+but as we try to understand trends in the period table of elements, it's really the outer
+most shell electrons, the valence electrons,
+that are most interesting. Those are the ones that
+describe the reactivity. And so when we think about the distance between the two charges
+we're mainly going to be thinking about the distance
+between the nucleus and those outer most valence electrons. Now we can view this effective charge, I'll call it z-effective, as
+being equal to the difference between the charge in the nucleus, so you can just view this
+as the atomic number, atomic number or the number of protons that a given element or an
+atom of that element has, and the difference between
+that and what is often known as S, or how much shielding there is. Now there is complicated models for that, but for an introductory chemistry class, this is often approximated by
+the number of core electrons. Remember, we really want to think about what's going on with
+the valence electrons. And so if you imagine a nucleus here, do that orange color,
+that has protons in it. And so you have core electrons. Let's say these are the core
+electrons in the first shell, and then you have some core
+electrons in the second shell. And let's say the valence
+electrons are in the third shell. So let's say these are some
+valence electrons here, they're blurred around,
+they're in these orbitals. Those valence electrons,
+which have a negative charge, are going to be attracted
+to the positive charge of the nucleus but
+they're also going to be repulsed by all these core electrons that are in between them. And so that's why an approximation of the effective charge
+that these valence electrons might experience is going to be the charge of the nucleus minus, and
+this is an approximation, the number of core
+electrons that you have. So if we use that roughly
+as a way to think about z-effective, what do you
+think are going to be the trends in the periodic
+table of elements? What would be the effective charge for the Group I elements over here? Well, Hydrogen has no core electrons and it has an atomic number of 1. So 1 minus 0 is going to have an effective charge of roughly 1. Lithium atomic number of
+3, minus 2 core electrons that are in 1-S, so once
+again you're going to have 3 minus 2, effective charge of 1. So roughly speaking, all of these Group I elements have an effective charge of 1. What if you were to go to the halogens? What's the effective charge there? Well if you look at
+Flourine, atomic number of 9, has 2 core electrons in the first shell, so has an effective charge of 7. Chlorine actually has
+an effective charge of 7 for the same reason. Atomic number of 17,
+but 10 core electrons. If you go even further to the right, to the noble gases, you see that Helium is going to have an effective charge of 2, atomic number of 2 minus 0 core electrons. But then when you get to Neon, you have an atomic number of 10, and then minus only 2 core electrons. And you'll see as you go
+down these noble gases, other than Helium, they have
+an effective charge of 8. And so the general trend is,
+your effective charge is low at the left, effective
+charge low for Group I, and then when you go to the
+right of the periodic table, you have a z-effective,
+is going to be high. So within a given period,
+or within a given row in the periodic table of elements, your outer electrons,
+your valence electrons, are in the same shell. But the effective charge is increasing as you go from left to right. So this q1 right over here
+is going to be increasing. So what is that going to do
+to the radius of the atom? Well, Coulomb's Law will
+say that the magnitude of the attractive force
+between those opposite charges is going to be stronger. And so even though you're adding electrons as you go from left to right within a row, within a period, the atoms in general are actually going to get smaller. Let me write it this way. So as you go from left to
+right, generally speaking, radius decreases. Now what's the trend within a column? Well one way to think about it is, as you go down a column,
+as you go down a Group, you're filling shells
+that are further out. And so you'd expect radius to increase as you go down a column, or down a Group. Or you could say radius
+decreases as you go up a group. So radius decreases. So overall what's the trend in the periodic table of elements? Well radius is going to decrease as you go up and to the right. And so you could draw an
+arrow something like this. And it is indeed the case
+that by most measures, Helium is considered to
+be the smallest atom, a neutral Helium atom. And Francium is considered
+to be the largest atom. So could we use this to think about other trends in the
+periodic table of elements? What about, for example,
+ionization energy? Just as a reminder, the
+first ionization energy is the minimum energy required to remove that first electron from a neutral version of that element. And since it's the minimum energy, it's going to be one of
+those outer most electrons. It's going to be one of
+the valence electrons. And so what's going to drive that? Well you can imagine the ionization energy is going to be high in cases where the Coulomb forces are high. And what are the situations where the Coulomb forces are high? Well this is going to be a situation where you have a high effective charge and where you have a low radius. Low radius makes the Coulomb forces high. And effective charge makes
+the Coulomb forces high. So where is that true? So you have the lowest
+radii at the top right and you have the highest
+effective charge at the right. So you would expect the
+highest ionization energies to occur in the top right. So high ionization energy. And that actually makes intuitive sense. These noble gases are very stable. They don't want to release an electron. So it's going to take a lot of energy to take one of those electrons away. Fluorine or Chlorine, they're so close to completing a shell, the
+last thing they want to do is lose an electron. So once again, it takes a lot of energy to take that first electron away. On the other hand, if you go to something like Francium, it has
+one valence electron. And that valence electron is
+pretty far from the nucleus. And there's a low effective charge despite all the protons
+because there's so much shielding from all those core electrons. So it's not surprising
+that it doesn't take a ton of energy to remove that first electron from Francium. Now another trend that we can think about, which is in some ways the opposite, is electron affinity. Ionization energy is
+talking about the energy it takes to remove an electron. Electron affinity thinks
+about how much energy is released if we add an electron to a neutral version of a given element. So high electron affinity elements, these are the ones that
+really want electrons. So they should have a high Coulomb force between their nucleus and
+the outer most electrons. And so that means they should have a high effective z, and that also means that they should have a low r. So one way to think about
+it, you're going to have a similar trend with
+the one difference that the noble gases don't like
+gaining or losing electrons. But we do know that the
+Flourines and the Chlorines of the world can be become more stable if the gain an electron. They can actually release energy. So you actually have
+high electron affinities for the top right,
+especially the Halogens. And you have low electron affinities at the bottom left. Now there's one little quirk
+in chemistry conventions, people will generally say
+that Fluorine and Chlorine and the things in the top
+right that aren't noble gases, have a high electron affinity. And it is the case that energy is released when you add an electron to
+a neutral version of them. It just happens to be that the convention, and this can get a little confusing, is that when you release energy you have a negative electron affinity. But generally speaking, when they say a high electron affinity,
+this thing's going to release more energy when it's
+able to grab an electron. Now a notion that is
+related to electron affinity is electro negativity. And the difference between
+the two can sometimes be a little bit confusing. Electro negativity is all about when an atom shares a pair of
+electrons with another atom, how likely is it to
+attract that pair to itself versus for the pair to be attracted away from it to the other one? And so you can imagine it
+correlates very strongly with electron affinity. Things that release energy
+when they're able to be ionized to grab an electron,
+if they form a bond and they're sharing a pair of electrons, they are more likely
+to hog those electrons. Electron affinity is easier to measure. You can actually see when this
+element's in a gaseous state if you add electrons how
+much energy is released, it's normally measured
+in kilojoules per mole of the atom in question. While electro negativity
+isn't as clear cut on how to measure it, but
+it can be a useful concept in future videos as we think about different atoms sharing pairs of electrons and where do the electrons
+spend most of their time. So I'll leave you there. We started with Coulomb
+forces and we were able to intuit a whole bunch of
+trends just thinking about Coulomb's Law and the
+periodic table of elements.

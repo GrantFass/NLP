@@ -1,0 +1,97 @@
+We already have the
+tools in our tool kit to factor something like
+x squared plus 4x minus 5. And the way that we've already
+thought about it is we've said, hey, let's think of
+two numbers that if we were to take their product,
+we'd get negative 5. And if we were to add the two
+numbers, we'd get positive 4. And the fact that their
+product is negative tells you one of them is going
+to be positive and one of them is going to be negative. And so there's a couple of
+ways you could think about it. Well, you could say, well,
+maybe one of the numbers is negative 1 and then the
+other one is positive 5. Actually, this
+one seems to work. Negative 1 times
+5 is negative 5. Negative 1 plus 5 is positive 4. So this one actually
+seems to work. The other option would have
+been-- since we're just going to deal with the factors
+of 5, and 5's a prime number, the other option would
+have been something like 1 and negative 5. There's only two factors for 5. So 1 and negative
+5-- their product would have been negative 5. But if you were to
+add these two numbers, you would have gotten a
+negative 4 right over here. So we're going to go with
+this right over here. And so this tells
+us that if we want to factor this using the tools
+that we already know about, we will get-- And let
+me write these numbers in a different color so
+we can keep track of them. So negative 1 and 5. We know that this
+would factor out to be x minus 1 times x plus 5. And you can verify
+this for yourself that if you were to
+multiply this out, you will get x squared
+plus 4x minus 5. You can even see this here.
+x times x is x squared. Negative x plus 5x
+is going to be 4x. And then negative 1
+times 5 is negative 5. Fair enough. This is all review
+for us at this point. Now I want to tackle something
+a little bit more interesting. Let's say we wanted
+to factor x squared plus 4xy minus 5y squared. And at first, this
+looks really daunting. All of a sudden, I've introduced
+a y and a y squared here. I have two variables. How would I tackle it? But the important thing is
+to just take a deep breath and realize that we're
+not fundamentally doing something different. Now, the one little
+tricky thing I've done when I've written
+it this way-- and I encourage you to pause this
+and try this on your own before I explain any further. But the one tricky thing
+I did right over here is I wrote the x before the y. And that tends to
+be the convention. You just write them kind
+of in alphabetical order. But if we wanted
+it in a form that's a little bit closer to
+this and something that would fit this mold
+a little bit more is if we swapped these two. Because then we
+could write it as x squared plus 4yx
+minus 5y squared. And now it becomes pretty
+clear that this 4y term right over here--
+this right over here is the coefficient on the
+x term, the same way that 4 was the coefficient
+on x right here. And this negative 5y
+squared corresponds to the negative 5
+right over here. So we can do the exact
+same thought process. Let's think of two--
+now not just numbers. They're going to have
+variables in them. Let's think of two
+terms or two expressions that if I multiply them,
+I get negative 5y squared. And then when I take
+the sum, I get 4y. So let's think about
+how we could do this. So one option would be positive. Let's say positive
+y and negative 5y. So where would this take us? Positive y times
+negative 5y would indeed be equal to negative 5y squared. But then if I add
+y to negative 5y, I'm going to get negative 4y. So this doesn't work. But let's see if we
+swap the two signs. So what about negative
+y and positive 5y? Well, here, if I take the
+product of negative y and 5y, it will be negative 5y squared. And if I take the sum negative y
+and 5y, it will be positive 4y. So we know how to factor it now. So once again, let me put
+this in the same color. So this I'm going to put in this
+mauve color, this light purple. And this I'll put
+in a darker purple. So now we know how
+to factor this. And this is the same
+exact mold that we did up here, same exact idea. This is going to be x. Instead of just a minus 1
+here, now we've factored-- here we factored into a
+negative 1 and a 5. Here we factored into
+a negative y and 5y. So instead of a
+negative 1, it's going to be a negative y, x
+minus y times x plus 5y. And we can verify that
+when you multiply this out, it indeed does equal x
+squared plus 4xy minus 5y. Let me do that here just
+so we know for sure. So x times x is going
+to be x squared. Let me do everything
+in a different color. x times 5y is going
+to be plus 5xy. Then negative y times
+x is negative yx. And then finally-- and I'm
+running out of colors-- if we take negative y times
+5y, that's negative 5y squared. And now we just
+have to simplify. We have to combine these middle
+two terms right over here. And at first, it looks a
+little bit-- this is xy. This is yx. It's not so obvious. But we just have to rewrite it. This is the same
+thing as 5yx minus yx. And so here, you're
+saying, look, I have 5yx's. And I'm going to subtract yx's. So I'm going to have 4yx's. So this is just
+going to be 4yx's. I have 5yx's. Take out another yx. I'm going to have 4yx's. So this is going to be x squared
+plus 4yx minus 5y squared. And it all works out.

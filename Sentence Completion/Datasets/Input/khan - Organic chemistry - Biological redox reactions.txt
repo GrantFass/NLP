@@ -1,0 +1,149 @@
+In this video, we're going to
+look at the biological redox reactions of
+alcohols in phenols. Over here on the left, we
+have the ethanol molecule. So this is our 2-carbon alcohol. And the carbon that
+we're most concerned with is this carbon right
+here, which has one bond to this oxygen atom. And in the liver, ethanol
+is oxidized to ethanal. So over here on the right
+is the ethanal molecule-- a 2-carbon aldehyde. And once again, we're concerned
+with that carbon in yellow. And so one easy way to tell that
+ethanol was oxidized to ethanal is to see that, on
+the left, we have one bond of that
+carbon to oxygen. And over here on
+the right, we now have two bonds of
+that carbon to oxygen. So an increase in the number of
+bonds to oxygen is oxidation. You could also assign oxidation
+states to this carbon. And you will see that there's
+an increase in the oxidation state of that carbon. And then, you could also
+think about electrons. LEO the lion goes GER-- loss
+of electrons is oxidation, gain of electrons is reduction. And so if I think about these
+electrons here in magenta, you can see that
+those electrons are lost from the ethanol molecule. So loss of electrons is
+oxidation, ethanol is oxidized. If ethanol is oxidized,
+something else must be reduced. That's how redox reactions work. What's reduced is NAD+
+over here on the left. So this is NAD+, which stands
+for "nicotinamide adenine dinucleotide." The adenine is hiding
+in this R portion. And we have a
+nitrogenous-based ring with an amide functional
+group over here on the right for the
+nicotinamide portion of the molecule. Plus 1 formal charge on
+this nitrogen gives us NAD+. This is nicotinamide
+adenine dinucleotide-- NAD+. And since ethanol is oxidized,
+NAD+ must be reduced. So reduction means
+gaining of electrons. NAD+ is going to gain those
+electrons in magenta from ethanol. So if we think about
+a possible mechanism, if I took these electrons
+between the oxygen the hydrogen and moved them in here, that
+would form our double bond between the carbon
+and the oxygen. But there'd be too many bonds
+to this carbon right here. So the electrons in magenta are
+going to move to this carbon down here on NAD+,
+to this carbon. That would push these
+electrons over here, and that would push
+these electrons here off onto the nitrogen. So if we showed what happened
+with the movement of all of those electrons over
+here on the right-- this carbon right here
+at the top already had a hydrogen bonded to it. And it gained another
+hydrogen with two electrons. The two electrons were the
+ones in magenta right here. This hydrogen right
+here is this hydrogen. And the electrons in magenta
+move over there to our ring. And then, we would also have
+pi electrons moved over here. And then, we had a
+lone pair of electrons move off onto the nitrogen. Like that. And then, we still had
+some pi electrons over here on the right. This molecule is called NADH. So it's a gained the equivalent
+of a hydride-- hydrogen with two electrons. And so we can see that
+NAD+ gains two electrons. And gaining electrons
+is reduction. So NAD+ is reduced to NADH. Since NAD+ is reduced, it
+allows ethanol to be oxidized. And so we would refer to
+NAD+ as an oxidizing agent. It is the oxidizing
+agent for ethanol, even though it itself
+is being reduced. So that's something that
+confuses some general chemistry students sometimes. All right. So now over here, we
+have the NADH molecule. And this reaction is
+catalyzed by an enzyme, and the enzyme is
+alcohol dehydrogenase. OK. So this is catalyzed by the
+alcohol, dehydrogenase enzyme. Like that. And this reaction is reversible. So if we think about
+the reverse reaction, we think about ethanal
+being reduced to ethanol. And so if ethanal is
+reduced to ethanol, NADH would be oxidized to NAD+. And so let's think
+about a mechanism where we could oxidize NADH
+and reduce the ethanal. If I took this lone pair of
+electrons in the nitrogen and move it back in here, that
+would push these electrons off over here. And now, the electrons-- in
+magenta on this bond right here-- would attack
+this carbon right here. So the electrons--
+in magenta-- we could think about the
+electrons as being right here. And you could think about
+that as being a hydride-- so a hydrogen with
+two electrons, giving it a negative
+1 formal charge. And even though we've seen
+in some earlier videos that hydride isn't necessarily
+the best nucleophile. You could think about this as
+being a nucleophilic attack, if it makes it easier for you,
+because this carbon right here would be partially positive. The negatively charged electrons
+would attack that carbon. And in doing so, that would
+push these pi electrons off to then grab this proton here. And that would give you
+your ethanol molecule, and that would convert
+NADH back into NAD+. So you could think about
+NADH as being oxidized. It is losing two electrons--
+the electrons in magenta. Loss of electrons is oxidation. And since NADH is the agent
+for the reduction of ethanal to ethanol, you
+would say that NADH would be the reducing
+agent for this example. And the best way to remember
+that NADH is the reducing agent is-- it is the one that
+has the hydrogen on it. So it has the hydride,
+which is capable of being the agent for the reduction. So therefore, NADH is
+the reducing agent. This NAD+, NADH conversion--
+and vice versa-- is extremely important
+in biochemistry. This happens in numerous
+biochemical reactions. And so it's important
+to understand what's happening with those
+electrons on these molecules. Let's look at another
+biochemical example of redox. And here, we have on
+the left, phenyol. Right? So this is our phenol molecule. And once again, we're most
+concerned about this carbon, the one that's attached
+to this oxygen. And there are many ways
+to oxidize phenols. So if we oxidize phenol with
+something like the Jones Reagent-- with sodium
+dichromate, sulfuric acid, and water-- would be
+capable of oxidizing phenol to this molecule over
+here on the right, which we call "benzoquinone." This right here is a
+benzoquinone molecule. And just real fast, you could
+see that this carbon right now has two bonds of carbon to
+oxygen so it has been oxidized. So phenol can be
+oxidized to benzoquinone using numerous organic reagents. Once you make benzoquinone,
+you could reduce that to this molecule over
+here on the right, which is called "hydroquinone." There are several,
+again, organic reagents that can reduce benzoquinone
+to hydroquinone. Let me change that
+spelling there. And then, from hydroquinone, you
+could oxidize hydroquinone back to benzoquinone pretty easily. And so once again,
+in organic chemistry, there are lots of reagents that
+can do these redox conversions. And in the body, you're
+usually talking about the NAD+, NADH system. So we've just studied that. And if we look here
+at this molecule, you can see it's a quinone. Right? So you can see the benzoquinone
+portion of this molecule. And this is called "ubiquione."
+"Ubi" referring to the fact that this is ubiquitous. This compound is
+found everywhere. It's found in all
+the cells in nature. And the other name for
+this would be "coenzyme Q." This is a very important part
+of the electron transport chain. And if we look at
+ubiquinone-- going to this molecule over
+here on the right-- you can see this is like a
+hydroquinone analog here. So this is ubiquinol. These carbons are being reduced
+from this chemical reaction that I've drawn here. So ubiquinone is being
+reduced to ubiquinol. If ubiquinone is being
+reduced, something else must be oxidized. All right. So the NADH is being
+oxidized to NAD+. The NAD is the one that has
+this hydride on here, which can serve as the reducing agent. So here NADH is acting as the
+reducing agent-- the agent for the reduction of ubiquinone
+to the ubiquinol molecule over here on the right. And so this is just
+an oversimplification of part of the electron
+transport chain where you're transporting
+electrons, which eventually leads to oxidative
+phosphorylation and also ATP synthesis, which, of
+course, gives us energy. This isn't meant to be an
+exhaustive detail of those biochemical processes, but it's
+just to show you how you can analyze biochemistry using a
+simple knowledge of organic chemistry and the importance
+of NAD+ NADH in biological systems.

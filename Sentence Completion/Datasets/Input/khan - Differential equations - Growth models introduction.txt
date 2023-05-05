@@ -1,0 +1,81 @@
+-[Voiceover] Let's
+think a little bit about modeling population and
+what I have pictures here are some of the most known, actually this gentleman right over here might be the most known
+person when people think about population and the limits
+to grow the population. This is Thomas Malthus. He was a British cleric
+and writer and scholar at the end of the 1700s, at
+the end of the 18th century, early 19th century. He really challenged the notion that population could grow indefinitely and that we would always
+through technology be able to feed ourselves and that really that the
+environment would eventually put some caps on how much or where the population could grow to. P.F. Verhulst and I'm sure I'm mispronouncing his name here. He was a Belgian mathematician
+who read Malthusâ€™ work and tried to model the behavior that Malthus was talking about that, okay when there aren't
+environmental constraints, maybe population does grow
+somewhat exponentially but then as it approaches
+kind of the limits set by the environment it's going to essentially asymptote towards some type of population. Malthus in particular,
+he actually doesn't think it's just going to be
+a nice clean asymptote. He actually thinks that the population would kind of go above the limit and you'd have these catastrophes and then they would go
+crashing below the limit and you kind of oscillate
+right around the limit through these catastrophes. You can tell Malthus was
+a fairly optimistic guy but let's go through a
+little bit of the math and a little bit of the
+differential equations although it's not too,
+these aren't overly hairy differential equations to
+think about population. The first way to think about population and I'll express it as
+a differential equation. Actually let me just
+set some variables here. Let's say that N is our population, so that's our population and we are going to assume
+that N is a function of T. N as a function of T is what we're going to
+be thinking about in this and frankly the next series of videos. One way to think about how to model this is just so what is the rate of change of population with respect to time? How does that relate to things? We could say, okay, well
+what is the rate of change of population with respect to time? D, capital N, DT. Well one way to think about it is it's going to be
+proportional to the population. You could say well maybe
+this is going to be some proportionality constant times the population, times the population itself. This makes sense if the
+population is smaller then you're not going to have as much change per unit time as if
+the population is larger. The larger the population the more it's going to grow in a
+particular unit of time. Actually this is actually
+a fairly simple to solve differential equation, you
+might have done it before. I encourage you to pause this video if you feel inspired to do so but I'll solve it right here and you'll see that we get
+an exponential function here for N, so let's do that. Let's solve this and we'll essentially separate the variables,
+separate the N from the Ts although we only see DT here but I'll do that in a second. If I divide both sides by N. I get one over N and if I
+multiply both sides by DT if you kind of think about the DT is something that you can multiply. I'm going to multiply both sides or I'm going to divide both sides by and multiply both sides by DT. I'm going to get one over N, DN on the left-hand side and on the right-hand
+side I'm going to get R times DT. Notice I got the DT
+onto the right-hand side by multiplying both sides of that and then I divided both sides by N and I got the one over N right over here. Now what we can do is we
+can take the antiderivative of both sides. We can take the
+antiderivative of both sides and what do we get on the left-hand side? Well this is just going
+to be the natural log of the absolute value of our population and actually if we assume
+that the population is always going to be non-zero then we can actually take
+this absolute value off but I'll do that in a second. That's going to be equal to R times T and then we could have
+added the constant here but I'm just going to do it on one side. It's R times T plus C. Now, if we actually want to solve for N, we could take ... If this is equal to this
+then E to this power should be the same as E to this power or another way of thinking about it, E, the natural log of
+the absolute value of N is equal to this. Is another way of saying that E to this is going to be equal to that. Well actually let me just do it this way. Let me just take E to this power and to that power. If that's equal to that
+then E to that power should be the same as E to that power. We're going to be left
+with E to the natural log of the absolute value of N. That's going to give you
+the absolute value of N. Let's just assume N positive, let's just assume population
+is greater than zero. Then we can this left-hand
+side right over here we'll just simplify to N and then our right-hand
+side it's going to be ... Well it could be E to the RT plus C or this is the same thing. This thing right over
+here is the same thing as E to the RT, E to the R times T, times, actually let me do that
+E in that same color. E to the RT, times E to the C, times E to the C, right? I'm just taking E to the
+sum of these two exponents. That's going to be E to
+the RT, times E to the C. If we want to, we could
+just hey you know what, this is still just going to be some arbitrary constant here. Actually let's just call this C. It's E to the RT times C or we could say C times E to the RT. Notice, so we have solved
+the differential equation. We haven't gotten to this kind of less than optimistic reality of Malthus where we're limiting it. This is just hey, if we
+just assume population is going to ... The rate of change of
+population with respect to time is going to be proportional to population. When we solve that differential equation, we get that population
+is a function of time. Actually let me make it explicit that this is a function of time. Let me just move the N over a little bit, so let me write it this way. N of T is going to be equal to this. This was our solution to
+this differential equation. Once again this is going
+to just grow forever and if we know the initial conditions and so let's say that
+we knew that N of zero when time is equal to zero. Let's just say that's N sub naught so what would C be? Well N of zero is going to be equal to C. C times E to the zero power. You know the zero power is just one so this is going to be equal to C, so C is equal to N sub naught. Now we can even write it that the solution to this
+thing right over here is N as a function of T is going to be equal to C times ... Be careful, N naught,
+our initial population, times E to the E to the RT. Now once again this is an exponential. Essentially our population
+is going to look like this. If I were to graph it, it's going to look if that's my time axis, that's my N axis right over here. I could say it's Y equals N axis, however I want to denote it. That would be N naught and it's going to grow
+exponentially from there. The rate of this exponential function is going to be dictated by
+this constant right over there but it's going to be
+look something like this and it's just going to grow
+faster and faster and faster forever and ever and ever and ever. Now, as I mentioned at the
+beginning of the video, Malthus does not believe that this is going to be true. He thinks that we're going
+to hit some natural limits that are going to start to
+constrain the population. In his mind the more natural or more realistic function
+to model population would look something like this or even potentially something
+that you keep going crashing around that kind of limit. What we'll see in the next
+video is that P.F. Verhulst actually came up with a very
+good one differential equation and solution to the differential equation that does model a lot
+better, that better describes the reality that Malthus
+believed that we were in.

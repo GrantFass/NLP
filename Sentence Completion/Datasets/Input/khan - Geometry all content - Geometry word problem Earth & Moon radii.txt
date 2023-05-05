@@ -1,0 +1,96 @@
+The dimensions of
+the Earth and moon are in relationship
+to each other forming a golden triangle. Represented by phi,
+the golden ratio is the only number which has
+the mathematical property of its square being
+one more than itself. And there's a whole video
+on phi on the Khan Academy, and I suggest you watch it. It will give you chills. And if you watch that and
+you do this problem here, you'll have even more chills. But let's just try to
+tackle this problem. So they say that phi plus
+1 is phi squared, which is neat by itself. And this is where they just
+write out what phi looks like. So phi is approximately 1.61803. It keeps going on and on and on. Plus 1 is going to be 1.61803
+on and on and on squared, which is 2.61803. So it's just another
+way of expressing this. They tell us by applying
+the Pythagorean equation to this equation, a
+right triangle with sides phi square root of phi
+and 1 is constructed. So what are they saying? Let's say, well look, this looks
+kind of like the Pythagorean equation, or the
+Pythagorean theorem. If we make this a squared,
+we make this b squared, and we make this c
+squared, you could think about that as
+expressing the relationship between the sides
+of a right triangle where our hypotenuse
+c is equal to phi, that this side, the shorter
+side b, is equal to 1-- the square root of 1 is just
+1-- and the longer side, but not the longest, the longer of
+the two non hypotenuse sides, is going to be the
+square root of phi. That's all they're saying
+with that first sentence. As shown below, and this is
+a little bit mind blowing. As shown below, the radii
+of the Earth and moon are in proportion to phi. So this is exciting. Let me do this in a
+color you can see. If you were to take
+the Earth's radius-- So that's this radius
+right over here. I keep wanting to change
+colors, and I'm having trouble. So if you were to take
+the Earth's radius and add it to the
+moon's radius, the sum of those two radii, the ratio
+of that sum to Earth's radii is the square root of phi. And that just makes you
+think about the universe a little bit. You should just pause
+that video and ponder. Who cares about this
+actual question? Well, we should answer
+the question as well, but that's kind of
+eerie because this isn't the only
+place this shows up. This shows up throughout nature
+and throughout mathematics. It's just a fascinating number
+for a whole set of reasons, and this is just a
+little bit eerie. But anyway, we have
+a problem to do. If the radius of the earth
+is 6,371 kilometers, then what is the radius of the moon? So let's actually redraw
+this triangle here, but let's draw it in
+terms of kilometers. Right over here,
+the measurements are in terms of Earth radii. This right over here
+is 1 Earth radii. If this is 1 earth radii,
+then the entire distance, the combined radii of
+the moon and the Earth, is square root of
+phi Earth radii, and the hypotenuse of this
+triangle is phi Earth radii. So this is in terms
+of Earth radii, but let's redraw the
+triangle, and let's draw it in terms of kilometers. So let's draw it in
+terms of kilometers. I'll try to draw it
+pretty similar to that. So if we draw it in
+terms of kilometers, and I'm going to do a
+very rough drawing of it. So that's the Earth
+right over here. I'll just draw a
+part of the Earth. I don't have to draw
+the whole thing. I think you get the idea. And then this is the
+moon right over here. I think you get the idea. They told us that the radius of
+the Earth is 6,371 kilometers. Well, they also told us
+that this height, the height of this right triangle, is
+square root of phi Earth radii. So if we write it in
+terms of kilometers it's going to be 6,371 times the
+square root of phi kilometers. Square root of phi Earth radii. So that's this entire
+distance right over here. Now what they want us to figure
+out is the radius of the moon. They want to figure out this
+distance right over here. So let's call that r for
+the radius of the moon. So how can we figure out r? Well, we also know
+what this segment is. This segment, which
+I will do in green, is also the radius of the Earth. The Earth is roughly a sphere. So we could say that this
+distance right over here is also 6,371 kilometers. So this actually breaks down
+to a fairly simple problem. The combined radii, we can
+write it in two different ways. We could write it as the radius
+of the moon plus the radius of the Earth, which
+is 6,371 kilometers. And we'll just assume that
+everything we're doing is in kilometers now. And we can write it as, the
+combined radii, as 6,371 times the square root of phi. Once again, the combined
+radii is square root of phi times the length of
+the Earth's radius. So here we just have it
+in terms of Earth radii. Here we have it in
+terms of kilometers. This is the Earth's radius. You multiply that times
+square root of phi, you get the combined radius. Well, now we just
+have to solve for r. We can subtract 6,371
+from both sides, and we get r is equal to 6,371
+times the square root of phi, minus 6,371. And if we want, we
+could factor a 6,371 from both of those
+terms, and we would get r is equal to 6,371 times
+square root of phi minus 1. And we are done. And this is still pretty
+neat and pretty cool.

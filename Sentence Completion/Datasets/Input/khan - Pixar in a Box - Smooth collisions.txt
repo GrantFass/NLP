@@ -1,0 +1,22 @@
+(springy bounce) - Hey, welcome back. You probably noticed that
+the ping pong ball stimulator looks a little more like sand than water. For instance, the balls can
+pile up on each other like this. We used a stimulation much
+like this in Finding Dory. For instance, the sand in this shot. And the East Australian
+current in this shot. To create more water-like stimulation, we need to remove the hard
+boundary of the balls. They don't just bounce
+off like ping pong balls. They kind of smush together
+to create a soft collision. The smooth collisions are an approximation of the pressure forces that
+water normally experiences. There's a fancy name for
+this kind of stimulation. It's called "smoothed
+particle hydrodynamics" or "SPH" for short. Hydrodynamics literally
+means the motion of fluids. Now let's look at how lots
+of smooth particles interact. We can control how the particles collide using this parameter
+called Collision softness. Okay, so this is getting pretty close. Another parameter we can
+control is called Viscosity. Viscosity is a measure of
+how easily things flow. Fluids with low viscosity like water, flow pretty freely as we see here. Fluids with high viscosity
+like honey, flow more slowly. Like this. (water rippling) The more particles you add,
+the more computation is needed and the slower the program responds. (slow motion water ripple) Here's an example of
+SPH from Finding Nemo. It takes place inside
+the mouth of a whale. We've drawn the particles as balls here so you can watch their motion. In the next exercise,
+you'll get some practice experimenting with these
+different parameters to get a wide range of behaviors. See you soon!

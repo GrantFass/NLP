@@ -1,0 +1,38 @@
+- [Instructor] So I have
+a two by two matrix here and we could view it as
+having two column vectors. So the first column can
+define this vector three, one, which I've depicted in blue here. And then that second
+column, you can view it as telling us that we have
+another vector, one, two, which I have depicted in this pink color. Now, an interesting
+interpretation of the determinant of this two by two matrix is that the absolute value of the determinant is the area of the parallelogram defined by these two vectors. What I mean by the parallelogram defined by these two vectors? Well, imagine taking this
+bottom vector and shifting it so it's tail is at the
+head of this pink vector. So it would look like this, hand draw it. Looks something like that. And then if you were to
+take this pink vector and copy it and shift
+it up into the right. So its tail is at the head
+of the original blue vector. It's going to look something like that. And so you can see, you
+can use that technique to take any two vectors
+in the coordinate plane. And they will define a parallelogram. And it turns out that the area of this parallelogram is going to be equal to the absolute value of the determinant of this matrix here. So what's that going to be? Well, we know of figure
+out the determinant. It is three times two, which is six. Minus one times one, which is
+one, which is equal to five. And of course the absolute
+value of five is five. Now that's pretty cool in and of itself. We figured out one
+interpretation of a determinant which will be useful as we build up our understanding of matrices. But another interpretation
+is to say, all right, what if A is a transformation matrix, and I'm just rewriting it. So we know what a
+transformation matrix does. It tells us what to do with
+the unit vectors, so to speak. So for example, I have
+this vector right over here which is the vector one, zero. We know that a transformation
+matrix says, all right take that one, zero vector and turn it into the three, one vector. So turn that into that right over there. And we know we have the
+other, or another unit vector. Let's call this, this right over here is the zero, one vector. Goes zero in the X direction,
+one in the Y direction. And the transformation matrix says, hey, turn that into the one, two vector. But then you can think about it, it's also not just transforming
+the individual vectors. It's also scaling up the
+area defined by the vectors. So the area defined by these two original, we could say unit vectors,
+we can see it's one by one. It's that area right over there. So this transformation is taking us from an area of one to an area, five. It's scaling it up by a factor of five. Now that's reasonably interesting just for this one unit square. But because of that
+it'll actually scale up the area of any figure. Let's say had a figure like this. So this type of oval circle
+thing, it has some area. If you apply this transformation matrix it will look something like this. I'm just approximating it. It would look something like that. So this will tell us that this bigger blob has five times the area
+of this original blue blob because the bigger blob is the image. Once we've transformed the smaller blob by this transformation matrix. So if I were to tell you that the area of this smaller
+circle is let's say 0.6 but then we were to
+apply the transformation. And someone were to ask you, what is the area of this bigger blob? Which is the image of the smaller circle after the transformation? Well, you take 0.6, multiply
+it by the absolute value of the determinant of the
+transformation matrix. You'd multiply it by five. So 0.6 times five would
+be three square units. And a hint at the reason
+why this works is, is that any region on the coordinate plane can be represented as a series of squares. And then if you apply the transformation you're really just transforming each of those individual squares. So the scaling up of the area
+would be the same scale you do to any one of those smaller squares.

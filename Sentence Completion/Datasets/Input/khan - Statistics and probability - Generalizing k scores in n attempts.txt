@@ -1,0 +1,29 @@
+- [Voiceover] So the last video, we studied the circumstance where I had a 70% free throw probability. I have a 70% chance of
+making any free throw, which is actually higher than my actual free throw probability, which might be a surprise to you. But we said in that circumstance, if it's a 70% chance of making it, well, that means that
+you have a one minus 70%, or 30%, chance of missing. And we said if you took six attempts, the probability of you getting exactly, making two of the baskets, exactly two scores ... I called them "scores"
+instead of "making it," just because I wanted "making" and "miss" to have different
+letters in that video ... We said, well, there's six
+choose two different ways of making two, exactly two
+out of the six free throws, and then the probability
+of any one of those ways is going to be making it twice, which is 0.7 squared, and missing it four times, so 0.3 to the fourth power. This was just one particular situation, but we could generalize based on the logic that
+we had in that video. In fact, let's do that. So if I were to generalize it, if I were to say the probability, the probability ... It's the exact same logic of exactly ... Exactly ... Now let's say k ... Let me do this in a color,
+an interesting color. So let me do it in this
+orangeish-brown color. K shots, or exactly k scores ... I'll call making a free throw a score. We'll just assume you got a point for it. So exactly two k scores ... in n attempts ... Let's just say in n attempts. In n, and let me go back
+to that green color. N attempts ... N attempts is going to be equal to ... Well, how many ways can
+you pick k things out of n, or n choose k? N choose k ... N choose k. Actually, let's just
+generalize it even more. Let's just say that you have, your free throw probability is p. So let's say p is ... So for this situation right over here, since we generalized it fully, let's say that p is the
+probability of making a free throw. Actually, since I already have a p here, let me just say f is
+equal to the probability of making a free throw. Or you could say, your
+probability of scoring, if you call a score making a free throw. So if f is your probability
+of making a free throw ... So if you want n scores, then this is going to be ... This is going to be ... Well, it's going to be f to the n power, and then you're going to have ... and then you're going to
+miss the remainder ... Sorry, f to the k power, because you're making exactly k scores. So f to the k power, and then the remainder, so the n minus k attempts, you're going to miss it. It's going to be that
+probability of missing, and the probability of missing
+is going to be one minus f, so it's going to be times one minus f to the n minus k power. To the n minus k power. And just, if you like, or I encourage you, pause the video and just make sure you
+understand the parallels between this example where I had ... f was 70%, our f was 70%. One minus f ... Or f was .7 and one minus f would be .3, and we were seeing, how do we get two scores in six attempts? And here we're saying,
+k scores in n attempts. This is just a general
+way to think about it. The whole reason why I'm
+setting this up this way is, it's interesting to now think about the probability distribution for a random variable that's defined by the number of scores
+in your n attempts, or the number of scores
+in your six attempts. And actually, since I've
+been pushing the limit, or I've been doing longer
+videos than I intend to, I will do that in the next video.

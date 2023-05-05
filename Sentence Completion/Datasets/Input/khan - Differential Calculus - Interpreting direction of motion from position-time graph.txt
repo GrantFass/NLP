@@ -1,0 +1,32 @@
+- [Instructor] An object
+is moving along a line. The following graph gives
+the object's position, relative to its starting point, over time. For each point on the graph,
+is the object moving forward, backward, or neither? So pause this video and
+try to figure that out. All right, so we see we
+have position in meters versus time, so for example, this point right over here
+tells us that after one second, we are four meters ahead
+of our starting point. Or for example, this point right over here says that after four seconds,
+we are almost it seems, almost four meters behind
+our starting point. So let's look at each of
+these points and think about whether we're moving forward,
+backward, or neither. So at this point right over here, at that moment, we're
+about 2 1/2 meters in front of our starting point. We're at a positive
+position of 2 1/2 meters. But as time goes on,
+we are moving backwards closer and closer to the starting point. So this is we are moving backward. One way to think about it, at this time we're at 2 1/2 meters. If you go forward about half a second, we are then back at our starting point. So we had to go backwards. And if we look at this
+point right over here, it looks like we were going
+backwards this entire time while our curve is downward sloping. But at this point right over here, when we are about it
+looks like five meters behind our starting point,
+we start going forward again. But right at that moment,
+we are going neither forward nor backwards. It's right at that moment
+where we just finished going backwards and we're
+about to go forward, and one way to think about it is, what would be the slope of the
+tangent line at that point, and the slope of the
+tangent line at that point would be horizontal. And so this is neither. So we can use that same technique
+to think about this point. The slope is positive. And we see that all right,
+right at that moment, it looks like we are
+at the starting point, but if you fast forward even a few, even a fraction of a
+second, we are now in front of our starting point. So we are moving forward. We are moving forward right over here. And at this point, we are
+at our starting point, but if you think about
+what's going to happen a moment later. A moment later we're gonna
+be a little bit behind our starting point, and so
+here we are moving backward. And we're done.

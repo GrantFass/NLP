@@ -1,0 +1,191 @@
+I will now show you my preferred
+way of finding an inverse of a 3 by 3 matrix. And I actually think it's
+a lot more fun. And you're less likely to
+make careless mistakes. But if I remember correctly from
+Algebra 2, they didn't teach it this way
+in Algebra 2. And that's why I taught the
+other way initially. But let's go through this. And in a future video, I will
+teach you why it works. Because that's always
+important. But in linear algebra, this is
+one of the few subjects where I think it's very important
+learn how to do the operations first. And then later,
+we'll learn the why. Because the how is
+very mechanical. And it really just involves
+some basic arithmetic for the most part. But the why tends to
+be quite deep. So I'll leave that
+to later videos. And you can often think about
+the depth of things when you have confidence that you at
+least understand the hows. So anyway, let's go back
+to our original matrix. And what was that original
+matrix that I did in the last video? It was 1, 0, 1, 0,
+2, 1, 1, 1, 1. And we wanted to find the
+inverse of this matrix. So this is what we're
+going to do. It's called Gauss-Jordan
+elimination, to find the inverse of the matrix. And the way you do it-- and it
+might seem a little bit like magic, it might seem a little
+bit like voodoo, but I think you'll see in future videos that
+it makes a lot of sense. What we do is we augment
+this matrix. What does augment mean? It means we just add
+something to it. So I draw a dividing line. Some people don't. So if I put a dividing
+line here. And what do I put on the other
+side of the dividing line? I put the identity matrix
+of the same size. This is 3 by 3, so I put a
+3 by 3 identity matrix. So that's 1, 0, 0,
+0, 1, 0, 0, 0, 1. All right, so what are
+we going to do? What I'm going to do is perform
+a series of elementary row operations. And I'm about to tell you what
+are valid elementary row operations on this matrix. But whatever I do to any of
+these rows here, I have to do to the corresponding
+rows here. And my goal is essentially to
+perform a bunch of operations on the left hand side. And of course, the same
+operations will be applied to the right hand side, so that I
+eventually end up with the identity matrix on the
+left hand side. And then when I have the
+identity matrix on the left hand side, what I have left on
+the right hand side will be the inverse of this
+original matrix. And when this becomes an
+identity matrix, that's actually called reduced
+row echelon form. And I'll talk more about that. There's a lot of names and
+labels in linear algebra. But they're really just fairly
+simple concepts. But anyway, let's get started
+and this should become a little clear. At least the process
+will become clear. Maybe not why it works. So first of all, I said I'm
+going to perform a bunch of operations here. What are legitimate
+operations? They're called elementary
+row operations. So there's a couple
+things I can do. I can replace any row
+with that row multiplied by some number. So I could do that. I can swap any two rows. And of course if I swap say the
+first and second row, I'd have to do it here as well. And I can add or subtract one
+row from another row. So when I do that-- so for
+example, I could take this row and replace it with this
+row added to this row. And you'll see what I
+mean in the second. And you know, if you combine it,
+you could you could say, well I'm going to multiple this
+row times negative 1, and add it to this row, and replace
+this row with that. So if you start to feel like
+this is something like what you learned when you learned
+solving systems of linear equations, that's
+no coincidence. Because matrices are actually
+a very good way to represent that, and I will show
+you that soon. But anyway, let's do some
+elementary row operations to get this left hand side into
+reduced row echelon form. Which is really just a fancy way
+of saying, let's turn it into the identity matrix. So let's see what
+we want to do. We want to have 1's
+all across here. We want these to be 0's. Let's see how we can do
+this efficiently. Let me draw the matrix again. So let's get a 0 here. That would be convenient. So I'm going to keep the
+top two rows the same. 1, 0, 1. I have my dividing line. 1, 0, 0. I didn't do anything there. I'm not doing anything
+to the second row. 0, 2, 1. 0, 1, 0. And what I'm going to do, I'm
+going to replace this row-- And just so you know my
+motivation, my goal is to get a 0 here. So I'm a little bit closer
+to having the identity matrix here. So how do I get a 0 here? What I could do is I can replace
+this row with this row minus this row. So I can replace the third
+row with the third row minus the first row. So what's the third row
+minus the first row? 1 minus 1 is 0. 1 minus 0 is 1. 1 minus 1 is 0. Well I did it on the left hand
+side, so I have to do it on the right hand side. I have to replace this
+with this minus this. So 0 minus 1 is minus 1. 0 minus 0 is 0. And 1 minus 0 is 1. Fair enough. Now what can I do? Well this row right here, this
+third row, it has 0 and 0-- it looks a lot like what I want
+for my second row in the identity matrix. So why don't I just swap
+these two rows? Why don't I just swap the
+first and second rows? So let's do that. I'm going to swap the first
+and second rows. So the first row
+stays the same. 1, 0, 1. And then the other side stays
+the same as well. And I'm swapping the second
+and third rows. So now my second row
+is now 0, 1, 0. And I have to swap it on
+the right hand side. So it's minus 1, 0, 1. I'm just swapping these two. So then my third row now
+becomes what the second row was here. 0, 2, 1. And 0, 1, 0. Fair enough. Now what do I want to do? Well it would be nice if
+I had a 0 right here. That would get me that much
+closer to the identity matrix. So how could I get as 0 here? Well what if I subtracted 2
+times row two from row one? Because this would be,
+1 times 2 is 2. And if I subtracted that from
+this, I'll get a 0 here. So let's do that. So the first row has
+been very lucky. It hasn't had to do anything. It's just sitting there. 1, 0, 1, 1, 0, 0. And the second row's not
+changing for now. Minus 1, 0, 1. Now what did I say I
+was going to do? I'm going to subtract 2 times
+row two from row three. So this is 0 minus
+2 times 0 is 0. 2 minus 2 times 1,
+well that's 0. 1 minus 2 times 0 is 1. 0 minus 2 times negative 1 is--
+so let's remember 0 minus 2 times negative 1. So that's 0 minus negative
+2, so that's positive 2. 1 minus 2 times 0. Well that's just still 1. 0 minus 2 times 1. So that's minus 2. Have I done that right? I just want to make sure. 0 minus 2 times-- right, 2
+times minus 1 is minus 2. And I'm subtracting
+it, so it's plus. OK, so I'm close. This almost looks like the
+identity matrix or reduced row echelon form. Except for this 1 right here. So I'm finally going to have
+to touch the top row. And what can I do? well how about I replace the top
+row with the top row minus the bottom row? Because if I subtract
+this from that, this'll get a 0 there. So let's do that. So I'm replacing the top
+row with the top row minus the third row. So 1 minus 0 is 1. 0 minus 0 is 0. 1 minus 1 is 0. That was our whole goal. And then 1 minus 2
+is negative 1. 0 minus 1 is negative 1. 0 minus negative 2., well
+that's positive 2. And then the other rows
+stay the same. 0, 1, 0, minus 1, 0, 1. And then 0, 0, 1, 2,
+1, negative 2. And there you have it. We have performed a series
+of operations on the left hand side. And we've performed the
+same operations on the right hand side. This became the identity
+matrix, or reduced row echelon form. And we did this using
+Gauss-Jordan elimination. And what is this? Well this is the inverse of
+this original matrix. This times this will equal
+the identity matrix. So if this is a, than
+this is a inverse. And that's all you have to do. And as you could see, this took
+me half the amount of time, and required a lot less
+hairy mathematics than when I did it using the adjoint and
+the cofactors and the determinant. And if you think about it, I'll
+give you a little hint of why this worked. Every one of these operations
+I did on the left hand side, you could kind of view them as
+multiplying-- you know, to get from here to here,
+I multiplied. You can kind of say that
+there's a matrix. That if I multiplied by that
+matrix, it would have performed this operation. And then I would have had to
+multiply by another matrix to do this operation. So essentially what we did is
+we multiplied by a series of matrices to get here. And if you multiplied all
+of those, what we call elimination matrices, together,
+you essentially multiply this times
+the inverse. So what am I saying? So if we have a, to go from
+here to here, we have to multiply a times the
+elimination matrix. And this might be completely
+confusing for you, so ignore it if it is, but it might
+be insightful. So what did we eliminate
+in this? We eliminated 3, 1. We multiplied by the
+elimination matrix 3, 1, to get here. And then, to go from
+here to here, we've multiplied by some matrix. And I'll tell you more. I'll show you how
+we can construct these elimination matrices. We multiply by an elimination
+matrix. Well actually, we had
+a row swap here. I don't know what you
+want to call that. You could call that
+the swap matrix. We swapped row two for three. And then here, we multiplied
+by elimination matrix-- what did we do? We eliminated this, so
+this was row three, column two, 3, 2. And then finally, to get here,
+we had to multiply by elimination matrix. We had to eliminate
+this right here. So we eliminated row
+one, column three. And I want you to know right
+now that it's not important what these matrices are. I'll show you how we can
+construct these matrices. But I just want you to have kind
+of a leap of faith that each of these operations could
+have been done by multiplying by some matrix. But what we do know is by
+multiplying by all of these matrices, we essentially got
+the identity matrix. Back here. So the combination of all of
+these matrices, when you multiply them by each
+other, this must be the inverse matrix. If I were to multiply each of
+these elimination and row swap matrices, this must be the
+inverse matrix of a. Because if you multiply
+all them times a, you get the inverse. Well what happened? If these matrices are
+collectively the inverse matrix, if I do them, if I
+multiply the identity matrix times them-- the elimination
+matrix, this one times that equals that. This one times that
+equals that. This one times that
+equals that. And so forth. I'm essentially multiplying--
+when you combine all of these-- a inverse times
+the identity matrix. So if you think about it just
+very big picture-- and I don't want to confuse you. It's good enough at this
+point if you just understood what I did. But what I'm doing from all of
+these steps, I'm essentially multiplying both sides of this
+augmented matrix, you could call it, by a inverse. So I multiplied this by a
+inverse, to get to the identity matrix. But of course, if I multiplied
+the inverse matrix times the identity matrix, I'll get
+the inverse matrix. But anyway, I don't want
+to confuse you. Hopefully that'll give you
+a little intuition. I'll do this later with some
+more concrete examples. But hopefully you see that this
+is a lot less hairy than the way we did it with the
+adjoint and the cofactors and the minor matrices and the
+determinants, et cetera. Anyway, I'll see you
+in the next video.

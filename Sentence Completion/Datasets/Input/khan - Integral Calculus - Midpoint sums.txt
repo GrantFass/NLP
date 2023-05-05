@@ -1,0 +1,35 @@
+- [Instructor] What we
+wanna do in this video is get an understanding
+of how we can approximate the area under a curve. And for the sake of an example, we'll use the curve y is
+equal to x squared plus one. And let's think about the
+area under this curve, above the x-axis, from x equals negative
+one to x equals two. So that would be this area right over here. And there's many ways
+that I could tackle this, but what I'm going to do is I'm gonna break up this interval into three equal sections that are really the bases of rectangles. And then we're gonna think
+about the different ways to define the heights of those rectangles. So once again, I'm going to approximate
+using three rectangles of equal width. And then we'll think
+about the different ways that we can define the
+heights of the rectangles. So let's first define the heights of each rectangle by the value of the function at the midpoint. So we see that right over here. So let's just make sure that it actually makes sense to us. So if we look at our first
+rectangle right over here, actually let's just first appreciate, we have split up this x, we have split up the interval
+from x equals negative one to x equals two into three equal sections, and then each of them have a width of one. If we wanted a better approximation we could do more sections
+or more rectangles, but let's just see how
+we would compute this. Well the width of each of these is one, the height is based on
+the value of the function at the midpoint. The midpoint here is negative 1/2, the midpoint here is 1/2, the midpoint here is 3/2. And so this height is going
+to be negative 1/2 squared plus one. So negative 1/2 squared is 1/4 plus one, so that's 5/4. So the height here is 5/4. So you take 5/4 times one. This area is 5/4, let me write that down. So if we're doing the midpoint to define the height of each rectangle, this first one has an area of 5/4. Do it in a color you
+can see, five over four. The second one, same idea, 1/2 squared plus one is 5/4 times a width of one. So 5/4 there. So let me add that. Plus 5/4. And then this third rectangle, what's its height? Well we're gonna take the
+height at the midpoint, so 3/2 squared is 9/4 plus one, which is the same thing as 13/4. So it has a height of 13/4, and then a width of one, so times one, which would just give us 13/4. So plus 13/4, which would give us 23 over four which is the same thing as 5 3/4. And so this is often known
+as a midpoint approximation where we're using the
+midpoint of each interval to define the height of our rectangle. But this isn't the only way to do it. We could look at the left endpoint or the right endpoint, and we do that in other videos. And if we wanna do it just for kicks here, let's just do that really fast. So if we wanna look at the left endpoints of our interval, well here our left endpoint is negative one, negative one squared plus one is two, two times one gives us two. And then here the left
+part of this interval is x equals zero, zero squared plus one is one, one times one is one. And now here our left endpoint is one, one squared plus one is equal to two, times one, our base, is equal to two. So here we have a situation where we take our left endpoints, where it is equal to two plus one plus two or five. Well we can also look
+at the right endpoints of our intervals. So this first rectangle here, clearly under approximating the area over this first interval. Its right endpoint is zero, zero squared plus one is one, so a height of one, width
+of one, has an area of one. Second rectangle here, it has a height of, look
+at our right endpoint, one squared plus one is two, times our width of one, well
+that's just gonna give us two. And then here our right endpoint is two, squared plus one is five,
+times our width of one, gives us five. So in this case we get, when we look at our right
+endpoints of our intervals, we get one plus two plus five is equal to eight. And eyeballing this, it looks like we're
+definitely over counting more than under counting, and so this looks like
+an over approximation. So the whole idea here's
+just to appreciate how we can compute these approximations using rectangles. And as you can imagine, if we added more rectangles
+that had skinnier and skinnier bases but
+still covered the interval from x equals negative
+one to x equals two, we would get better and
+better approximations of the true area.

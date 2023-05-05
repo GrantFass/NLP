@@ -1,0 +1,52 @@
+- [Instructor] In other
+videos we introduce ourselves to the idea of a density curve, which is a summary of a distribution, a distribution of data, and in the future we'll also look at things
+like probability density. But what I want to talk
+about in this video is think about what we can glean from them, the properties, how we can
+describe density curves and the distributions they represent. And we have four of them right over here, and the first thing I
+want to think about is if we can approximate what value would be the middle value or the
+median for the data set described by these density curves. So just to remind ourselves,
+if we have a set of numbers and we order them from least to greatest, the median would be the middle value, or the midway between
+the middle two values. In a case like this, we
+want to find the value for which half of the
+values are above that value and half of the values are below. So in looking at a density curve, you'd want to look at the area, and you'd want to say, OK, at what value do we have equal area
+above and below that value? And so for this one, just eyeballing it, this value right over
+here would be the median. And in general, if you have a symmetric distribution like this, the median will be right along that line of symmetry. Here we have a slightly
+more unusual distribution, this would be called
+a bimodal distribution where you have two major lumps right over here, but it is symmetric. And that point of symmetry
+is right over here, and so this value, once
+again, would be the median. Another way to think about it is, the area to the left of that value is equal to the area to the right of that value, making it the median. But what if we're dealing with
+non-symmetric distributions? Well we'd want to do the same principle. We would want to think,
+at what value is the area on the right and the
+area on the left equal? And once again this isn't
+going to be super exact, but I'm going to try to approximate it. You might be tempted
+to go right at the top of this lump right over here,
+but if I were to do that it's pretty clear, even eyeballing it, that the right area right over here is larger than the left area. So that would not be the median. If I move the median a
+little bit over to the right, this maybe right around here,
+this looks a lot closer. Once again, I'm approximating it, but it's reasonable to
+say that the area here looks pretty close to the
+area right over there. And if that is the case, then this is going to be the median. Similarly, on this one right over here, maybe right over here, and once again I'm just approximating it,
+but that seems reasonable, that this area is equal to that one, even though this is
+longer it's much lower, this part of the curve is much higher even though it goes on less to the right. So that's the median for well behaved continuous distributions like this, it's going to be the value
+for which the area to the left and the area to the right are equal. But what about the mean? Well the mean is, you take
+each of the possible values and you weight it by their frequencies, you weight it by their frequencies and you add all of that up. And so for symmetric distributions
+your mean and your median are actually going to be the same. So this is going to be your mean as well, this is going to be your mean as well. If you want to think about
+it in terms of physics, the mean would be your balancing point, the point at which you would want to put a little fulcrum and you would want to balance the distribution. And so you could put a little fulcrum here and you could imagine that this thing would balance, this thing would balance. And that all comes out of this idea of the weighted average of all
+of these possible values. What about for these less
+symmetric distributions? Well let's think about it over here. Where would I have to put
+the fulcrum, or what does our intuition say if we
+wanted to balance this? Well, we have equal areas on either side, but when you have this long tail to the right it's going to pull the mean to the right of the median in this case. And so our balance point is probably going to be something closer to that. And once again, this
+is me approximating it, but this would roughly be our mean. It would sit, in this case,
+to the right of our median. Let me make it clear, this
+median is referring to that, the mean is referring to this. In this case, because
+I have this long tail to the left, it's likely
+that I would have to balance it out right over here. So the mean would be this
+value, right over there. And there's actually a term for these non-symmetric distributions where the mean is varying from the median. Distributions like this are
+referred to as being skewed. And this distribution,
+where you have the mean to the right of the median, where you have this long tail to the right,
+this is called right skewed. Now, the technical idea
+of skewness can get quite complicated, but generally speaking, you can spot it out when you have a long tail on one direction, that's the direction in
+which it will be skewed, or if the mean is to that
+direction of the median. So the mean is to the right of the median, so generally speaking, that's going to be a right skewed distribution. So the opposite of that,
+here the mean is to the left of the median and we have this long tail on the left of our distribution,
+so generally speaking we will describe these as
+left skewed distributions.

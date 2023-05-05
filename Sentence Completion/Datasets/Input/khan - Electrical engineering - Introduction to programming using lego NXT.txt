@@ -1,0 +1,53 @@
+This is the LEGO Mindstorms
+NXT graphical programming environment. To get started, you need
+to create a new program by clicking on the
+New icon or File, New. And when you create a new
+program, it'll show up as a tab here. I have multiple programs open. I was working on these earlier. And that's no problem. The next step is to realize
+where all your tools are, which is the
+left-hand side here. And this is the Common palette. Think of it as a toolbox. However, you want to switch
+to a better toolbox, which is the Complete palette. And this is for advanced users. And that means it just doesn't
+hide any detail from you. And don't worry if you don't
+understand these blocks. Just be comfortable with
+experimenting with each of them and learning them one at a time. Now, this is organized
+in an intuitive manner. The green block are all of your
+outputs, such as your motors. The yellow block are
+all of your inputs, such as your light sensor
+or ultrasonic sensor. The orange block are all of
+your flow-related blocks, such as looping or waiting. And the data block contains
+your math block, your comparison block. Or if you want to
+generate a random number or store a variable, that
+all lives in this data block. And the final one is
+the advanced block, which are lesser used blocks,
+such as calibrating your sensor or storing values to files. Now, that is your
+complete toolbox. And let's do a
+very simple example so we know how to
+download and run programs to make sure
+everything's working. I'm going to grab my sound
+block, which is an output, and drop it onto
+my sequence beam. And you should
+understand that programs execute from left to right. So right now, all my program
+does is hit this sound block and do whatever this sound
+block is configured to do. And then my program ends. Let's say I want to drag a
+second sound block beside it. And when you click
+on a block, you have to pay attention to
+the settings down here. So getting to know
+your blocks is getting to know your settings. In the case of the
+sound block, it allows me to play either a
+sound file or generate a tone. I can adjust the
+volume of the tone. And there's even a
+little keyboard here so I can quickly select what
+note I want to generate. So I'm going to
+generate a higher C for this sound block
+for half a second. And then click on
+this sound block. And click on Tone. And I'll generate a lower
+tone for half a second. And that's my whole program. So all my program will
+do is play two tones. To download a program,
+it's very easy as long as your NXT's
+plugged in and turned on. You just click this
+Play button here, and that will
+download and run it. Or you have the option
+of just downloading it if you don't want it to run
+because it's upside down or something. So I'm going to download
+and run this program. And that's all there is to it. So now this program
+actually lives on the brick. I can unplug it. And I can just run it by
+selecting it on the Brick menu. OK, let's get started.

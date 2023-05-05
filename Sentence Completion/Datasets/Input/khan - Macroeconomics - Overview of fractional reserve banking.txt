@@ -1,0 +1,166 @@
+What I want to do
+in this video is give an overview of how money
+is created in most market based economies, and even a little
+bit of a discussion of what really is money. And we can go into much
+more depth in future videos. And I think in many
+videos I already have gone into a much
+more technical depth. In most market based
+economies right now there is a central bank, which
+is essentially the actor, they do many things. They often will be a
+regulatory agency as well. But their main role is to
+have the right to print money, and to put that money
+into circulation. And I'll rely heavily
+on the model of the US. That's hard to read. The central bank
+in some countries is formerly part
+of the government. In other countries,
+it's pseudo-independent. In the US. It's more of the
+pseudo-independent flavor of a central bank, although
+obviously closely connected with the government. The US Federal Reserve,
+a lot of the leaders are appointed by the government. It's excess profits go
+back to the government. And so obviously it has very
+close ties to the government. But when the central bank
+decides to print money, it literally can just create it. It could literally
+print physical money. Or it can create
+electronic money, which has the same exact effect. So let's say the central
+bank, it goes out there and it goes out there
+and it prints three-- and we'll just focus on
+the physical right now. It's a little bit
+easier to conceptualize. And it just goes out there and
+it prints three physical dollar bills. Now it has to figure
+out, how does it get it into circulation? How does it get it
+into the economy? And it does not just
+put it into a helicopter and drop it from
+that helicopter. Sometimes, in certain
+circumstances, it can lend to this directly to
+banks, certain types of banks, member banks. But the typical way that
+this enters circulation is that the central bank will
+use this newly created money, this newly created
+reserves I should say, to go out into the open
+market and buy securities. And they typically buy very
+safe securities, typically government debt. So they will go
+out there and they will put this into circulation. And in exchange they
+are buying securities from the open market. So then these securities
+from the open market will go to the central bank. So these are securities, or
+maybe we could call them bonds. And once they do that, then
+whoever had these before, whoever was the owner of
+the securities before, they just sold them. Now they have
+these dollar bills. And they could either directly
+spend those dollar bills or they could deposit those
+dollar bills in a bank. If they spend the
+dollar bills, then whoever they gave those
+dollar bills to at some point would want to
+deposit it in a bank. Some way, by buying
+these securities, someone now has
+these dollar bills. And they will deposit
+them in a private bank. So let's draw that. So right over here
+is a private bank. And now it has the dollar bills. It has these reserves now. It has the reserves. Now, that's not the
+end of the story. This money can now be lent. And this is key,
+because this is what's typical in most
+market economies where they have fractional
+reserve lending. So fractional reserve lending,
+which is a bit strange, because you are telling the
+person who just deposited this money right here, that
+you can go at any time and you can take this money out. We've got this money for you. You can trust us. You don't have to be
+paranoid about what's going on with this money. But the reality
+is that this bank is allowed to keep only a
+fraction of these reserves, and lend to the rest of it out. In order for this system
+to not be super fragile, the Central Bank then
+also insures these banks. But we'll talk about
+that into more depth. But here. I just want to show you
+how the money is created in this fractional
+reserve lending system. So this bank right
+over here says, well I have to keep a
+little bit of these reserves in case that guy comes. The probability of
+all my customers coming on the same day and
+asking for all of their money is low. I just have to keep a little
+bit for whoever does come. And then the rest of
+it I can lend out, even though I promised everyone
+that all of their money is available. And so they lend
+it out to whoever needs to borrow that money,
+who looks like a decent risk. And those people might
+not spend it immediately. And so they would
+deposit it into a bank. Or they might spend
+that money immediately. They by a factor,
+or they buy a car. They do something with it. And whoever they bought
+that new thing from, those people now have
+the money and they will deposit it into a bank. And so this newly
+lent money will then end up in perhaps another bank. It could even be the same bank. So that will also end up
+in a bank, right over here. And now this bank,
+it can also only keep a fraction of the reserves
+and lend out the rest. And for simplicity, in
+most banking systems, they only have to keep
+on the order of about 10% of the reserves in house, and
+the rest they could lend out. But over here. I'm keeping much
+larger reserves just for the sake of making it
+easy to draw this diagram. So this bank right
+over here, maybe it decides to keep
+this dollar bill, and it could lend this
+one right over here out. And once again, when it
+lands that dollar bill, it will end up
+somehow-- the person they lend it to might keep
+it in a bank temporarily. Or they might immediately
+buy something. And when they buy something,
+it will eventually end up in a bank because the
+person they bought something from will deposit that money. And so it could end
+up in another bank. And now this is interesting,
+and in future videos we'll go into more of the math
+of exactly how much money is being created. And it's an interesting
+mathematical problem. Actually, it's a sum of an
+infinite series, and all that. And you can look
+that up if you're interested in those ideas. But the basic idea here is even
+though the central bank printed three units of base money,
+$3.00 right over here, there's a lot more
+money in the system. You have this guy, who made this
+deposit, thinks he has $3.00. This person thinks
+they have $2.00. This person thinks
+they have one. So just in this example over
+here, we have one, two, three, four, five $6.00. So just right over here we
+have $6.00 in this system. And you might say, well,
+is this really money? This is deposited. This guy thinks he has
+it, but he's not using it. If he had to use it he
+would have to withdraw it, and then the bank wouldn't
+be able to do this. And this is where checking
+accounts are really important. I'm assuming that these were
+on demand checking accounts. So this guy, the
+reason why he's not going to withdraw this
+money, is he can still use it as money
+by writing checks. So if this guy, let's say this
+is all the money that he has, and he decides if he really
+needs to buy an apple. And that Apple costs $1.00. So this is my drawing of
+an apple right over here. He does not have to withdraw
+this $1.00 out of the bank. He can write a check. So right now he has claims to
+all three of these dollars. He can write a check to
+the apple vendor, so $1.00. He writes a check, gives
+it to the apple vendor, and now he'll get the apple, so
+this check is acting as money. And now the apple vendor
+will have the rights to one of these dollars
+right over here. And now the apple vendor
+could write a check. So this dollar never has to
+leave the banking system. But because of checks
+it is essentially enabling-- this check writing--
+is enabling these transactions to occur. So it's still
+enabling, either you could view it as it's still
+acting in some forms of money because the rights
+to it can change, even though it's sitting out
+in here and it's been lent. Or you could say that it's
+enabling the writing of checks that are acting as
+some form of money. And the whole reason
+I want to do this, I'm going through
+this exercise, is to show you that the amount
+of money in circulation isn't really in
+the Central Banks, or not directly in the
+Central Bank's control. They can definitely decide,
+hey I'm going to print money, buy securities, put
+it into circulation. Or if they want to take
+money out of circulation, they can decide to
+sell these securities. And then when they
+sell the securities, maybe this guy will
+buy them, those dollars will go back to
+the Central Bank. And maybe they could put
+it out of commission. But you have this whole
+effect right over here. If you have more
+lending occurring, if the banks are feeling very
+confident, then more of this will happen. You will get more of this--
+the multiplier effect of this lending. And if less lending
+is happening, then you could potentially
+see all of this contract.

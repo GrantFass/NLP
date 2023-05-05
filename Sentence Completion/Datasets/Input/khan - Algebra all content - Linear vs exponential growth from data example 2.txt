@@ -1,0 +1,32 @@
+- [Voiceover] The temperature
+of a glass of warm water after it's put in a freezer is represented by the following table. So we have time in minutes and then we have the
+corresponding temperature at different times in minutes. Which model for C of t, the temperature of the glass of water t minutes after it's served, best fits the data? So pause the video and see which of these
+models best fit the data. Alright, now let's work
+through this together. So in order for it, we see these choices. Some of these choices
+are exponential models. Some of these are linear models. In order for a linear model
+to be a good description, when you have a fixed change in time, you should have a fixed
+change in temperature. If you're dealing with
+an exponential model, then as you have a fixed change in time, you should be changing by the same factor so the amount you change from say minute one to minute two or from minute two to minute three, it's not going to be the exact same amount but it should be the same
+factor of where you started. So let's think about this. So here, our change in time is two minutes. What is the absolute
+change in temperature? So our absolute change in temperature is negative what, 15.7. Negative 15.7 and what if we viewed
+it as a multiplication? So what do multiply 80 by to get 64.3? Well, I can get a calculator out for that. So 64.3 divided by 80 is equal to 0.8 I'll just say approximately .8 So we could multiply by .0.8 This is going to be approximate. So to get from 80 to 64.3 I could either subtract by 15.7 if I'm dealing with a linear model or I can multiply by 0.8 Now if I increase my time again by two, I'm going from minute two to minute four, so Delta t is equal to two, the absolute change here is what? This is going to be not 12. This is going to be, my brain isn't functioning optimally. This was 64.7 then this would be 12 but it's four less than that so it's 11.6. Negative 11.6 but if you look at it as
+multiplying it by a factor, what would you have to
+multiply by approximately? Let's get the calculator back out. So if I said 52.7 divided by 64.3. Divided by 64.3 is equal to, that's about .82. So times 0.82. So just by looking at this, I can keep going but it looks like for our
+give and change in time, my absolute change in the number is not even close to being the same. If this was 15.6, I'd be like okay maybe there's
+a little bit of error here. Data that you collect in the real world is never going to be perfect. These are models that try to get us close to describing the data. But over here we keep multiplying it by a factor of roughly .8, roughly .8. Now you might be tempted
+to immediately say, okay, well that means that C of t is going to be equal to
+our initial temperature, 80 times a common ratio of 0.8 to the number of minutes that passed by. Now this is very tempting and it would be the case
+if this was one minute and if this was two minutes but our change in temperature each time is our change in temperature
+each time is two minutes so what we really should say is this is one way to think about it is that it takes two minutes to have a 0.8 change or to be multiplied by 0.8. So the real way to describe this would be t over two. Every two minutes when t is zero, we'd be at 80. After two minutes, we would take 80 times 0.8, which is what we got over here. After four minutes, it would be 80 times 0.8 squared. In fact, let's just verify that we feel pretty good about this. So if we had something like this. So t and C of t. So when t is zero, C of t is 80. When t is, well let me just do the
+same data that we have here. When t is two, we have 80 times, two over two is one so it's 80 times 0.8, which is pretty close to
+what we have over here. When t is four, it would be 80 .0.8 squared which is pretty close to
+what we have right over here. I can just calculate it for you. If I have .8 squared times 80, 51.2 Getting pretty close. This is a pretty good approximation. Pretty good model. So I'm liking this model. This isn't exactly one of the choices so how do we manipulate this a little bit? Well, we can remind ourselves that this is the same thing as 80 times 0.8 to the one half and then that to the t power. And what's .8 to the one half? So .8. That's the same thing as
+taking the square root of .8 It's roughly .89 So this is approximately 80 times 0.89 to the t power. And if you look at all of these choices, this one is pretty close to this. This model best fits the data, especially of the choices going, this is pretty close to the model that I just thought about. Now another way of doing it that might have been a little bit simpler. I like to do it this way because even if I didn't have choices, we would have gotten to
+something reasonable. Another way to do it is to say okay, 80 is our initial state. All of these whether you're talking about exponential or linear models, start with 80 when t is equal to zero but it's clearly not a linear model because we're not changing by even roughly the same amount every time but it looks like every two minutes we're changing by a factor of .8 so we're going to have
+an exponential model so you say okay, it will be
+one of these two choices. Now this one down here you could rule out because we're not changing
+by a factor of 0.8 or 0.81 every minute. We're changing by a factor of 0.81 every two minutes so you could have ruled that one out and then you could have deduced to this right over here and you could have said, look, if I'm changing by a
+factor of .9 every minute then that would have been
+.81 every two minutes which is pretty close to
+what we're seeing here changing by a factor of about .8 or .81 every two minutes. So once again that's why
+we like that first choice.

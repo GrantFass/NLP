@@ -1,0 +1,66 @@
+- [Voiceover] In the last video, I talked about how if
+you're trying to maximize or minimize a multi-variable function, you can imagine it's graph. In this case, this is just
+a two-variable function and we're looking at it's graph. And you want to find the spots where the tangent plane
+is completely flat. So one way to visualize this
+is to imagine a flat plane that just represents a constant Z value, so a constant output
+value for the function. And if you kind of move it up and down, you're looking for the spot
+where it only barely intersects with the graph at the top
+before it's not intersecting with it anymore, meaning
+that there's no values of the function that get above that point. So you're looking just
+for where it's tangent, where you can find a
+tangent plane that's flat. But this will give you some other points, like the little local minima here, the bumps where the value of the function at that point is higher than
+all of the neighbor points. You know, if you walk in any direction, you're going downhill,
+so that's another thing you're gonna incidentally pick up by looking for places where
+this tangent plane is flat, but there's also a really
+interesting new possibility that comes up in the context
+of multi-variable functions. And this is the idea of a saddle point. So let me pull up another
+graph here, this guy. And the function that you're looking at, here, I'll write it down, the function that you're looking at is f(x,y)=x2-y2. So now let's think about
+what the tangent plane at the origin of this
+entire graph would be. Now the tangent plane to this graph at the origin is actually flat. Here's what it looks like. And to convince yourself of this, let's go ahead and actually
+compute the partial derivatives of this function and evaluate
+each one at the origin. So the partial derivative,
+with respect to X, we look here and
+X-squared is the only spot where an X shows up, so it's 2X and the other partial derivative. The partial with respect to Y, we take the derivative of
+this negative Y-squared and we ignore the X because it looks like a constant as far as Y is concerned. And we get negative 2Y. Now, if we plug in the point, the origin, in to any one of these, you know, we plug in the point (X,Y)=(0,0), then what do each of these go to? Well the top one, X equals zero, so this guy goes to zero
+and similarly over here, Y is zero, so this goes to zero. So both partial derivatives are zero and what that means is if you are standing at the origin and you
+move in any direction, there's no slope to your movement. And one way of seeing
+this is to chop the graph. So if we imagine chopping it with a plane that represents a constant X-value and we kind of chop off the graph there, what you'll see, here, I'll
+get rid of the tangent plane. What you'll see is that the curve where this intersects the graphs, let me trace that out, the curve where it intersects the graph basically has a local
+maximum at that origin point. The tangent line of
+the curve at that point in the Y direction is flat
+and it's because it looks like a local maximum
+from that perspective. But now let's imagine chopping
+it in a different direction. So if instead, we have the full graph and instead of chopping it
+with a constant X value, we chop it with a constant Y value, then in that case, we look at the curve and if we trace out the curve where this constant Y
+value intersects the graph. Let's see what it would look like. It's also kind of this parabolic shape. Again, the tangent line is flat because it looks like a
+local minimum of that curve. So because it's flat in one direction and it's flat in the other direction, the tangent plane of the graph as a whole is indeed gonna be flat. But notice this is neither a local maximum nor a local minimum
+because from one direction, from one direction, it looked
+like it was a local maximum. Here, I'll get rid of that guy. It looks like it's a local maximum when you look on the curve there, but from another direction,
+if you chop it another way, it looks like a local minimum. And if we look at the equations, this kind of makes sense
+because if you're just thinking about movements in the X direction, the entire function looks like X- squared plus some kind of constant. So the graph of that would look like an X-squared parabola shape that has a local minimum,
+but if you're thinking of pure movements in the Y direction and you're just focused on
+that Y-squared component, the graph that you get for
+negative Y-squared is gonna look like an upside down parabola. Here, I'll draw that again. It's gonna look like
+an upside down parabola and that's got a local maximum. So it's kind of like the X
+and Y directions disagree over whether this point,
+whether this point where you have a flat tangent plane should be a local maximum
+or a local minimum. And this is new to
+multi-variable calculus, this is something that doesn't come up in single-variable calculus because when you're looking at
+the graph of a function, you know, you're looking
+at some kind of graph. If the tangent line is zero, you know, if the tangent line is
+completely flat at some point, either it's a local maximum
+or it's local minimum. It can't disagree because
+there's only one input variable. There's only one X as the
+input variable for your graph. But once we have two, it's
+possible that they disagree. And this kind of point has a special name and the name is kind of after this graph that you're looking at,
+it's called a saddle point. Saddle point. And this is one of those rare times where I actually kind
+of like the terminology that mathematicians have given something. Because this looks like a saddle, the sort of thing that you would put on a horse's back before riding it. So one thing that this means for us as we're gonna try to figure out ways to find the absolute maximum
+or minimum of a function, as we're trying to optimize a function that might represent like
+profits of your company or a cost function in a
+machine learning setting or something like that,
+is we're gonna have to be able to recognize if
+a point is a saddle point. And if you're just looking
+at the graph, that's fine. You can recognize it visually, but oftentimes if you're
+just given the formula of a function and it's some long thing. Without looking at the graph, how would you be able to tell, just by doing certain
+computations to the formula, whether or not it's a saddle point? And that comes down to something called the second partial derivative test, which I will talk about
+in the next few videos. See you then!

@@ -1,0 +1,61 @@
+Let's define
+ourselves some sets. So let's say the set A is
+composed of the numbers 1. 3. 5, 7, and 18. Let's say that
+the set B-- let me do this in a different
+color-- let's say that the set B is
+composed of 1, 7, and 18. And let's say that the set C is
+composed of 18, 7, 1, and 19. Now what I want to start
+thinking about in this video is the notion of a subset. So the first question
+is, is B a subset of A? And there you might say,
+well, what does subset mean? Well, you're a subset if
+every member of your set is also a member
+of the other set. So we actually can write
+that B is a subset-- and this is a notation
+right over here, this is a subset-- B is a
+subset of A. B is a subset. So let me write that down. B is subset of A. Every
+element in B is a member of A. Now we can go even further. We can say that B is
+a strict subset of A, because B is a subset
+of A, but it does not equal A, which means that there
+are things in A that are not in B. So we could
+even go further and we could say
+that B is a strict or sometimes said a
+proper subset of A. And the way you do that
+is, you could almost imagine that this is kind of
+a less than or equal sign, and then you kind of
+cross out this equal part of the less than or equal sign. So this means a
+strict subset, which means everything that
+is in B is a member A, but everything that's in
+A is not a member of B. So let me write this. This is B. B is a
+strict or proper subset. So, for example, we can write
+that A is a subset of A. In fact, every set is
+a subset of itself, because every one of its
+members is a member of A. We cannot write that A
+is a strict subset of A. This right over here is false. So let's give ourselves a
+little bit more practice. Can we write that
+B is a subset of C? Well, let's see. C contains a 1, it contains
+a 7, it contains an 18. So every member of
+B is indeed a member C. So this right
+over here is true. Now, can we write
+that C is a subset? Can we write that
+C is a subset of A? Can we write C is a subset of A? Let's see. Every element of C needs
+to be in A. So A has an 18, it has a 7, it has a 1. But it does not have a 19. So once again, this
+right over here is false. Now we could have
+also added-- we could write B is a subset
+of C. Or we could even write that B is a
+strict subset of C. Now, we could also reverse
+the way we write this. And then we're really just
+talking about supersets. So we could reverse
+this notation, and we could say that
+A is a superset of B, and this is just another way of
+saying that B is a subset of A. But the way you could
+think about this is, A contains every
+element that is in B. And it might contain more. It might contain
+exactly every element. So you can kind of view
+this as you kind of have the equals symbol there. If you were to view this
+as greater than or equal. They're note quite
+exactly the same thing. But we know already
+that we could also write that A is a strict
+superset of B, which means that A contains
+everything B has and then some. A is not equivalent to B. So
+hopefully this familiarizes you with the notions of subsets and
+supersets and strict subsets.

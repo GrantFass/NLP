@@ -1,0 +1,37 @@
+- [Voiceover] So in previous videos, we worked out an expression for the current i in an
+LC circuit like this, and what we found was that i is square root of
+capacitance over inductance, times the starting voltage, V knot, times sine omega knot t. And omega knot is the natural frequency, and we say that omega knot was equal to square root
+of one over L times C. And V knot is the starting
+voltage on the capacitor. And our original assumption was that i was zero to begin with, and that's the expression for the current. So what I wanna do now
+is a specific example, and we'll do that down here. First I'm gonna install a switch into our circuit so that
+we can add some energy and it won't go anywhere. Then for C, C is gonna be
+equal to a quarter of a farad, and L is gonna be equal to one henry. All right? And on the capacitor, I'm
+gonna put enough charge to bring this up to 10 volts
+before we close the switch. And then at time equals
+zero, we'll close the switch. And what we wanna find is, what is i of t? We have L, we have C, we
+have a starting voltage, and so now we have everything we need to work out the current. Let's do that, okay? So first off we'll do omega knot. Omega knot equals one over
+the square root of LC, so that equals square root of one over one
+henry times one quarter farad, which equals square root of four, or equals two, and that's in units of radians per second. That's the natural frequency. We know the natural frequency right here, and now we can work out the rest of it. So we can just fill in i
+equals square root of C, which is one quarter farad, divided by one henry, times V knot. V knot was was 10 volts times sine omega knot t. Sine, omega knot is two t. And finally, i equals, this is the square root of
+one quarter or one half, so that's one half, times 10 is five, i equals five sine 2 t. So for this specific circuit, that's the answer for this current here. Now I wanna show you what
+that actually looks like. So this is a plot of i of
+t equals five sine two t. And this is what a sine
+wave looks like with time, so the axes are time in seconds, and this axis goes up to five amperes and then down to minus five amperes and continues on that way, and
+it basically goes on forever. Now what I wanna do next is work out the voltage in the circuit. We didn't talk about the voltage yet. So I'll sketch the circuit again here. Here's L and C. And this is the voltage right here, voltage across both guys. We've already worked out i. And now we wanna find v. What's v? That's what we're looking for. So, we know that i equals five sine two t, and to find v, one of
+the easy ways to find v is to use the inductor equation. We know that v equals L di/dt. That's just the basic
+inductor i v equation, right? And let's see what happens here. v equals L is one, times di/dt. So that's d/dt of 5 sine two t. Now let's take that derivative, okay? I'll go up here. v equals five comes out of the derivative. Sine two t. The derivative of sine of two t is two times cosine of two t. All right? So our voltage solution
+is 10 times cosine two t. So something interesting
+just happened here. Let me show you. We started with the current
+being a sine function, and we eventually took the
+derivative of that sine function and now we have a cosine function. So we went from sine
+to cosine for voltage. That means the voltage doesn't look quite exactly like the current, okay? Let me show you a plot of the voltage. Here's the voltage here. This is v of t. And that we decided was
+equal to 10 cosine two t. Starts at a value of 10,
+the time equals zero, and then forms a cosine
+wave that goes up and down between plus and minus 10 volts. Now let me show you what it looks like when we plot both i and
+v on the same graph, and we can see the timing
+relationship between them. So this is a plot of i of t in blue, and v of t in orange. One them is a sine wave,
+the current is a sine wave, and voltage is a cosine wave. So this is what we were going for. This is the natural
+response of an LC circuit, and we had two specific
+component values in it. We saw that we came out with
+both current and voltage looking like sinusoidal waves. This LC circuit, this is where sine waves
+come from in electronics. It's pretty cool.

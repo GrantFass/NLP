@@ -1,0 +1,130 @@
+I've got a transformation, m
+that's a mapping from Rn to Rn, and it can be represented
+by the matrix A. So the transformation of x
+is equal to A times x. We saw in the last video it's
+interesting to find the vectors that only get scaled
+up or down by the transformation. So we're interested in the
+vectors where I take the transformation of some
+special vector v. It equals of course,
+A times v. And we say it only gets scaled
+up by some factor, lambda times v. And these are interesting
+because they make for interesting basis vectors. You know, the transformation
+matrix in the alternate basis-- this is one of
+the basis vectors. It might be easier to compute. Might make for good coordinate
+systems. But they're in general, interesting. And we call vectors v that
+satisfy this, we call them eigenvectors. And we call their scaling
+factors the eigenvalues associated with this
+transformation and that eigenvector. You know, hopefully from that
+last video, we have a little bit of appreciation of
+why they're useful. But now in this video let's at
+least try to determine what some of them are. You know, based on what we know
+so far, if you show me an eigenvector I can verify that it
+definitely is the case, or an eigenvalue. I could verify the case. But I don't know a systematic
+way of solving for either of them. So let's see if we can come
+up with something. So in general, we're looking for
+solutions to the equation A times v is equal
+to lambda v. It's equal to lambda
+times the vector. Now one solution might
+immediately pop out at you, and that's just v is equal
+to the 0 vector. And that definitely is a
+solution, although it's not normally considered to be an
+eigenvector just because one, it's not a useful
+basis vector. It doesn't add anything
+to a basis. It doesn't add really the amount
+of vectors that you can span when you throw the
+basis vector in there. And also, it's not clear what
+is your eigenvalue that's associated with it. Because if v is equal
+to 0, any eigenvalue will work for that. So normally when we're looking
+for eigenvectors, we start with the assumption that we're
+looking for non-zero vectors. So we're looking for vectors
+that are not equal to the 0 vector. So given that, let's see if we
+can play around with this equation a little bit and see
+if we can at least come up with eigenvalues maybe
+in this video. So we subtract Av from both
+sides, we get the 0 vector is equal to lambda v
+minus A times v. Now, we can rewrite v as-- v is
+just the same thing as the identity matrix times v, right?
+v is a member of Rn. The identity matrix n by n. You just multiply and we're
+just going to get v again. So if I rewrite v this way, at
+least on this part of the expression-- and let me swap
+sides-- so then I'll get lambda times-- instead of v
+I'll write the identity matrix, the n by n identity
+matrix times v minus A times v is equal to the 0 vector. Now I have one matrix times v
+minus another matrix times v. Matrix vector products,
+they have the distributive property. So this is equivalent to the
+matrix lambda times the identity matrix minus A
+times the vector v. And that's going to be
+equal to 0, right? This is just some matrix
+right here. And the whole reason why I made
+this substitution is so I can write this as a matrix
+vector product instead of just a scalar vector product. And that way I was able to
+essentially factor out the v and just write this whole
+equation as essentially, some matrix vector product
+is equal to 0. Now, in order-- if we assume
+that this is the case, and we're assuming-- remember,
+we're assuming that v does not equal 0. So what does this mean? So we know that v is a member
+of the null space of this matrix right here. Let me write this down. v is a
+member of the null space of lambda I sub n minus A. I know that might look a little
+convoluted to you right now, but just imagine this
+is just some matrix B. It might make it simpler. This is just some matrix
+here, right? That's B. Let's make that substitution. Then this equation just becomes
+Bv is equal to 0. Now, if we want to look at the
+null space of this, the null space of B is all of the vectors
+x that are a member of Rn such that B times
+x is equal to 0. Well, v is clearly one
+of those guys, right? Because B times v
+is equal to 0. We're assuming B solves this
+equation and that gets all the way to the assumption that B
+must solve this equation. And v is not equal to 0. So v is a member of the null
+space and this is a nontrivial member of the null space. We already said the 0 vector is
+always going to be a member of the null space, and it
+would make this true. But we're assuming
+v is non-zero. We're only interested in
+non-zero eigenvectors. And that means that this guy's
+null space has to be nontrivial. So this means that the null
+space of lambda In minus A is nontrivial. The 0 vector is not
+the only member. And you might remember before,
+that the only time-- let me write this in general. If I have some matrix--
+I don't know. I've used A and B. Let's say I have
+some matrix D. D's columns are linearly
+independent if and only if the null space of D only contains
+the 0 vector. Right? So if we have some matrix here
+whose null space does not only contain the 0 vector,
+then it has linearly dependent columns. And I just wrote that there to
+kind of show you what we do know and the fact that this
+one doesn't have a trivial null space tells us that we're
+dealing with linearly dependent columns. So lambda In minus A-- it looks
+all fancy, but this is just a matrix-- must have
+linearly dependent columns. Or another way to say that is,
+if you have linearly dependent columns, you're not invertible,
+which also means that your determinate
+must be equal to 0. All of these are true. If your determinate is equal to
+0, you're not going to be invertible. You're going to have linearly
+dependent columns. If your determinate is equal
+to 0, then that also means that you have nontrivial members
+in your null space. And so, if your determinate is
+equal to 0 that means there's some lambdas for which this is
+true, for non-zero vectors v. So, if there are some solutions,
+if there are some non-zero vector v's that satisfy
+this equation, then this matrix right here must
+have a determinate of 0. And it goes the other way. If this guy has a determinate of
+0, then there must be-- or if there's some the lambdas
+that make this guy have a determinate of 0, then those
+lambdas are going to satisfy this equation. And you could go
+the other way. If there's some lambdas that
+satisfy this, then those lambdas are going to make this
+matrix have a 0 determinate. Let me write this. Av is equal to lambda v for
+non-zero v's if and only if the determinate of lambda
+In minus A is equal to the 0 vector. No, not the 0 vector. Sorry, it's just equal to 0. The determinate is just
+a scalar factor. And so that's our
+big takeaway. And I know what you're saying
+now, how is that useful for me, Sal? You know, we did all of
+this manipulation. I talked a little bit about
+the null spaces. And my big takeaway is, is that
+in order for this to be true for some non-zero vectors
+v, then lambda has to be some value. So if I take the determinate of
+lambda times the identity matrix minus A, it has
+got to be equal to 0. And the reason why this is
+useful is that you can actually set this equation up
+for your matrices, and then solve for your lambdas. And we're going to do that
+in the next video.

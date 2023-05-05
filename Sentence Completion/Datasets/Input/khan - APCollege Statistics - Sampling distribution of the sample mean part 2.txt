@@ -1,0 +1,224 @@
+We hopefully now have a
+respectable working knowledge of the sampling distribution
+of the sample mean. And what I want to do in this
+video is explore a little bit more on how that distribution
+changes as we change our sample size n. I'll write n down right here. Our sample size n. So just as a bit of review, we
+saw before we can just start off with any crazy
+distribution, maybe it looks something like this. I'll do a discrete
+distribution. Really to model anything
+at some point you have to make it discreet. It could be a very granular
+discrete distribution. But let's say it's something
+crazy that looks like this. This is clearly not a
+normal distribution. But we saw in the first video
+if you take, let's say, sample sizes of 4. So if you took 4 numbers from
+this distribution, 4 random numbers where let's say this
+is the probably of a 1, 2, 3, 4, 5, 6, 7, 8, 9. If you took 4 numbers at a time
+and averaged them-- let me do that here-- if you took 4
+numbers at a time, let's say we used this distribution to
+generate 4 random numbers, right? We're very likely to get a 9. We're definitely not going
+to get any 7's or 8's. We're definitely not
+going to get a 4. We might get a 1 or 2. 3 is also very likely. Five is very likely. So we use this function
+to essentially generate random numbers for us. And we take samples of 4 and
+then we average them up. So let's say our first average
+is, I don't know, let's say it's a 9, it's a 5, it's
+another 9, and then it's a 1. So what is that? That's 14 plus 10. 24 divided by 4. The average for this first
+trial, for this first sample of 4, is going to be 6, right? They add up to 24 divided by 4. So we would plot it right here. Our average was 6 that time. Just like that. And we'll just keep doing it. And we've seen in the past that
+if you just keep doing this, this is going to start
+looking something like a normal distribution. So maybe we'd do it again,
+the average is 6 again. Maybe we do it again,
+the average is 5. We do it again,
+the average is 7. We do it again,
+the average is 6. And then if you just do this a
+ton, a ton of times, your distribution might look
+something that looks very much like a normal distribution. So these boxes are
+really small. So we just do a bunch of these
+trials, at some point it might look a lot like
+a normal distribution. Obviously there are
+some average values. It won't be a perfect normal
+distribution because you can never get anything less than
+a 0, or anything less than a 1, really as an average. You can't get 0 as an average. And you can't get
+anything more than 9. So it's not going to have
+infinitely long tails but at least for the middle part of it
+a normal distribution might be a good approximation. In this video what I want
+to think about is what happens as we change n. So in this case n was 4. n is our sample size. Every time we do a trial we
+took 4 and we took their average and we plotted it. We could have had n equal 10. We could have taken 10 samples
+from this from this population, you could say, or from this
+random variable, average them, and then plotted them here. And in the last video
+we ran the simulation. I'm going to go back to
+that simulation a second. We saw a couple of things. And I'll show it to you
+at a little bit more depth this time. When n is pretty small, it
+doesn't approach a normal distribution that well. So when n is small-- I mean,
+let's take the extreme case. What happens when
+n is equal to 1? That literally just means I
+take 1 instance of this random variable and average it. Well it's just going
+to be that thing. So if I just take a bunch of
+trials from the thing and plot it over time, what's
+it going to look like? Well it's definitely not
+going to look like a normal distribution. It's going to look-- you're
+going to have a couple of 1's, you're going to
+have a couple of 2's. You're going to have
+more 3's like that. You're going to have no 4's. You're going to have
+a bunch of 5's. You're going to have some
+6's that'll look like that. And you're going to
+have a bunch of 9's. So there your sampling
+distribution of the sample mean for an n of 1 is going to
+look-- I don't care how many trials you do, it's not going
+to look like a normal distribution. So the central limit theorem,
+although I said you do a bunch of trials, it'll look like a
+normal distribution, it definitely doesn't
+work for n equal 1. As n gets larger though
+it starts to make sense. That let's see if we've got n
+equals 2--- and I'm all just doing this in my head, I
+don't know what the actual distributions would look like--
+but then, it's still would be difficult for it to become an
+exact normal distribution. But then you can get more
+instance-- that you could get more-- you know, you might get
+things from all of the above. But you can only get two
+in each of your baskets that your averaging. You're only going to
+get 2 numbers, right? So? You're never going to for
+example, you're never going to get 7.5 in your sampling
+distribution of the sample mean for n is equal to 2 because
+it's impossible to get a 7 and it's impossible to get an 8. So you're never going to get
+7.5 as-- so maybe when you plot it, maybe it looks like this. But there will be a gap at 7.5
+because that's impossible and maybe it looks
+something like that. So it's still won't be
+a normal distribution when n is equal to 2. So there's a couple of
+interesting things here. So one thing-- and I didn't
+mention this the first time because I really wanted you to
+get the gut sense what the central limit theorem is-- the
+central limit theorem says as n approaches-- really as it
+approaches infinity then is when you get the real
+normal distribution. But in kind of every day
+practice, you don't have to get that much beyond n equals two. If you get to n equals 10 or n
+equals 15, you're getting very close to a normal distribution. So this converges to a normal
+distribution very quickly. Now the other thing is
+you obviously wants many, many trials. So this is your sample size. That is your sample size. That's the size of
+each of your baskets. In the very first video
+I did on this, I took a sample size of 4. And in the simulation I did
+in the last video, we did sample sizes of 4 and
+10 and whatever else. This is a sample size of one. So that's our sample size. So as that approaches infinity
+your actual sampling distribution of the sample of
+the sample mean will approach a normal distribution. Now in order to actually see
+that normal distribution and actually to prove it to
+yourself, you would have to do this many, many-- remember the
+normal distribution happens, this is essentially the
+population or this is the random variable. That tells you all of
+the possibilities. In real life, we seldom know
+all the possibilities. In fact in real life, we seldom
+know the pure probability generating function. Only if we're writing
+it or if we're writing a computer program. Normally we're doing
+samples and we're trying estimate things. So normally there's some random
+variable and then maybe we'll do a bunch of-- we'd take it a
+bunch of samples, we'd take their means and we'd plot them
+and we're going to get some type of normal distribution. Let's say we take samples of
+100 and we average them. We're going to get some
+normal distribution. And in theory, as we take those
+averages hundreds or thousands of times, our data set it's
+going to more closely approximate that pure
+sampling distribution of the sample mean. This thing is a
+real distribution. It's a real distribution
+with a real mean. It has a pure mean. So the mean of the sampling
+distribution of the sample mean, we'll write it like that. Notice I didn't write it is
+just the x with-- what this is, this is actually saying that
+this is a real population mean, this is a real random
+variable mean. If you look at every
+possibility of all of the samples that you can take from
+your original distribution, from some other random original
+distribution, and you took all of the possibilities of
+let's see sample size. Let's see were dealing
+with the world where a sample size is 10. If you took all of the
+combinations of 10 samples from some original distribution and
+you averaged them out, this would describe that function. Of course in reality, if you
+don't know the original distribution, you can't take an
+infinite samples from it so you won't know every combination. But if you did it with 1,000--
+if you did the trial 1,000 times-- so 1,000 times you took
+10 samples from some distribution and took 1,000
+averages and then plotted them, you're going
+to get pretty close. Now the next thing I want to
+touch on is what happens as n-- we know as n approaches
+infinity it becomes more of a normal distribution, but as I
+said already, n equals 10 is pretty good and n equals
+20 is even better. But we saw something in the
+last video that at least I find pretty interesting. Let's say we start with this
+crazy distribution up here. It really doesn't matter
+what distribution we're starting with. We saw in the simulation that
+when n is equal to 5, our graph after we try-- we take samples
+of 5, average them and we do it 10,000 times-- our graph
+look something like this. It's kind of wide like that. And then when we did n is equal
+to 10 our graph looked a little bit-- it was actually a
+little bit squeezed in like that a little bit more. So not only was it more
+normal-- that's what the central limit theorem tells us
+because we're taking larger sample sizes-- but it had a
+smaller standard deviation or a smaller variance, right? The mean is going to be the
+same either case but when our sample size was larger our
+standard deviation became smaller. In fact, our standard deviation
+became smaller than our original population
+distribution-- or original probability density function. Let me show you that
+with a simulation. So let me clear everything. And this simulation is as good
+as any, so the first thing I want to show-- or this
+distribution is as good as any-- the first thing I want to
+show you is that n of 2 is really not that good. So let's compare an n of 2
+to let's say an n of 16. So when you compare an
+n of 2 to an n of 16, let's do it once. So you get 1, 2 trials,
+you average them. And then it's going to do 16
+and then it's going to plot it down here and average there. Let's do that 10,000 times. So notice, when you took an n
+of 2, even though we did it 10,000 times, this is not
+approaching a normal distribution. You can actually see it in the
+skew and kurtosis numbers. It has a rightward positive
+skew which means it has a longer tail to the right
+than to the left. And then it has a negative
+kurtosis which means that it's a little bit-- it has shorter
+tales and smaller peaks than a standard normal distribution. Now when n is equal to
+16 you do the same. So every time we took 16
+samples from this distribution function up here and averaged
+them-- and each of these dots represent an average and we did
+it 10,001 times-- and notice the mean is the same in both
+places but here all of a sudden, our kurtosis is much
+smaller and our skew is much smaller. So we are more normal in
+this into situation. But even a more interesting
+thing is our standard deviation is smaller, right? This is more squeezed
+in than that is. And it's definitely more
+squeezed in then our original distribution. Now let me do it with 2-- let
+me clear everything again. I like this distribution
+because it's a very non-normal distribution. It looks like a bimodal
+distribution of some kind. And let's take a scenario
+where I take an n of-- let's take two good n's. Let's take an n of 16-- that's
+a nice healthy n-- and let's take an n of 25 and let's
+compare them a little bit. So if we-- I'll do one trial
+animated just because it's always nice to see. So first it's going to do 16
+of these trials and average them and there we go. And then it's going to do 25 of
+these trials and then average them and then there we go. Now let's do that-- what I
+just did animated-- let's do it 10,000 times. Miracles of computers. Now notice something:
+this is 10,000 times. These are both pretty
+good approximations of normal distributions. The n is equal to
+25 is more normal. It has less skew-- slightly
+less skew than n is equal 16. It has slightly kurtosis which
+means it's closer to being a normal distribution
+than n is equal to 16. But even more interesting,
+it's more squeezed in. It has a lower
+standard deviation. The standard deviation here
+is 2.1 and the standard deviation here is 2.64. So that's another-- I mean I
+kind of touched on that in the last video-- and it
+kind of makes sense. For every sample you do for
+your average, the more you put into that sample, the
+less standard deviation. Think of the extreme case. If instead of taking 16 samples
+from our distribution every time or instead of taking 25,
+if I were to take 1,000,000 samples from this distribution
+every time that sample mean is always going to be pretty
+darn close to my mean. If I take 1,000,000 samples of
+everything, if I essentially try to estimate a mean by
+taking 1,000,000 samples, I'm going to get a pretty good
+estimate of that mean. The probability that a
+million numbers are all out here is very low. So if n is 1,000,000 of course
+all of my sample means when I average them are all going to
+be really tightly focused around the mean itself. So hopefully that kind of
+makes sense to you as well. If it doesn't just think about
+it or even use this tool and experiment with it just so you
+can trust that is really the case. And it actually turns out that
+there's a very clean formula that relates to standard
+deviation of the original probability distribution
+function to the standard deviation of the sampling
+distribution of the sample mean. And as you can imagine it is a
+function of your sample size, of how many samples you
+take out in every basket before you average them. And I'll go over that
+in the next video.

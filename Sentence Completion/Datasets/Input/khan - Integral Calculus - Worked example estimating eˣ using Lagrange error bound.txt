@@ -1,0 +1,69 @@
+- [Instructor] Estimating
+e to the 1.45 using a Taylor polynomial about x equals two, what is the least degree of the polynomial that assures an error smaller than 0.001? In general, if you see
+a situation like this where we're talking about
+approximating a function with a Taylor polynomial
+centered about some value, and we wanna know, well,
+how many terms do we need, what degree do we need to bound the error? That's a pretty good clue
+that we're going to be using the LaGrange error bound or
+Taylor's remainder theorem. And just as a reminder of that, this is a review of
+Taylor's remainder theorem, and it tells us that the
+absolute value of the remainder for the nth degree Taylor polynomial, it's gonna be less than this
+business right over here. Now, n is the degree of our polynomial that in question, so that's the n. The x is the x value at which
+we are calculating that error, in this case it's going to be this 1.45. And c is where our Taylor
+polynomial is centered. But what about our M? Well, our M is an upper
+bound on the absolute value of the n plus oneth
+derivative of our function. And that might seem like a mouthful, but when we actually
+work through the details of this example, it'll make
+it a little bit more concrete. So for this particular thing,
+we're trying to estimate, we're trying to estimate e to the x. So I could write f of x,
+let me write this this way. So, f of x is equal to e to the x, and we're trying to estimate f of 1.45. And let's just to get the bound here, to figure out what M is,
+let's just remind ourselves that while the first derivative of this is going to be e to the x, the second derivative
+is gonna be e to the x, the nth derivative is gonna be e to the x, the n plus oneth derivative
+is gonna be e to the x. So the n plus oneth
+derivative of f is gonna be, is gonna be e to the x which is convenient. These types of problems
+are very, very hard if it's difficult to bound
+the n plus oneth derivative. Well this we know, we know that e the x, we know that e the x, and I can even say the absolute value of this,
+but this is gonna be positive, is going to be less than or equal to, let's say this is gonna be
+less than or equal to e squared for zero is less than x is less than or equal to two. e the x isn't bounded over the entire, for over its entire domain. If x goes to infinity, e to the x will also go to infinity. But here I set up an interval. I've set up an interval that
+contains the x we care about. Remember, the x we care about is 1.45, and it also contains where
+our function is centered. Our function is centered at two. So we know we're bounded by e squared, so we can say, we can
+use e squared as our M. We can use e squared as our M. We're able to establish this bound. And so doing that, we can now go straight to LaGrange error bound. We can say, we can say that the remainder of our nth degree Taylor polynomial, we wanna solve for n. We wanna figure out what n
+gives us the appropriate bound evaluated at 1.45. When x is 1.45 is going to
+be less than or equal to the absolute value, our M is e squared, e squared over, over n plus one factorial times 1.45, that's our x that we care about, that's where we're calculating the error, we're trying to bound the error, minus where we're centered, minus two to the n plus oneth power. Now 1.45 minus two, that is negative 0.55. So let me just write that. So this is, this is negative 0.55 to the n plus oneth power. And we wanna figure out for
+what n is all of this business, is all of this business
+gonna be less than 0.001. Well let's do a little bit of
+algebraic manipulation here. This term is positive,
+this is gonna be positive. This right over here, or this part of it, it's not an independent term, but the e to the squared
+is gonna be positive, n plus one factorial is gonna be positive, the negative 0.55 to some power, that's gonna flip between
+being positive or negative. But since we're taking the absolute value, we could write it this way. We could write e squared, e squared, since we're taking
+the absolute value times 0.55 to the n plus one over
+n plus one factorial has to be less than, has
+to be less than 0.001. Or, since we want to solve for n, let's divide both sides by e squared. So we could write, we could write, let's find the n where 0.55 to the n plus oneth power over n plus one factorial is less than, is less than 0.001 over e squared. Now to play with this, we're
+gonna have to use a calculator. From this point we're just
+gonna try larger and larger ns until we get an n that makes this true. And we wanna find the smallest possible n that makes this true. But let's get out our calculators
+so that we can actually, so that we can actually do this. So, first I'm just gonna figure out what is 1/1000 divided by e squared. So make sure it's cleared out. So let's take e squared, I'm gonna take its reciprocal, and then I'm gonna
+multiply that times 1/1000. So times .001 is equal to, so it's about, so I'll say, so it's three zeroes, this is a 10/1000, and then three five. So it's three zeroes, so
+I'll say one three six. So this needs to be less than
+zero point one two three, then I'll say one three six. If I can find an n that is less than this, then I'm in, then I am in good shape. Actually let me say this. Less than one three five, I
+wanna be less than that value, then I can be, then I
+will be in good shape. This is a little bit
+more than one three five, but if I can find an n where
+that is less than this, then I'm in good shape. So let me write this
+0.55 to the n plus one over n plus one factorial. So let's try out some ns. And I'm gonna have to
+get my calculator out. So, let's see, did I do that right? Yeah, .000135. If we get something below
+this, then we're in good shape, because this is even less than that. All right, so let's do it. Let's see what this is equal to when, I don't know,
+when n is equal to two. I can start at n equals one,
+n equals two, n equals three, but if n equals two is good enough, then I might try n equals one. But if n equals two isn't good enough, then I'm gonna go to n equals
+three or n equals four. So let's start with, actually let's just start
+with n equals three. So if n equals three, it's gonna
+be 0.55 to the fourth power divided by four factorial. So let's use that, let's do that. So 0.55 to the fourth power is equal to that divided by four factorial. So divided by four factorial is 24. So that's nowhere near low enough. So let's try n equals four. If n equals four, then it's
+gonna be this to the fifth power divided by five factorial. So 0.55 to the fifth power is equal to, and then divided by five factorial is, five factorial is 120. Divided by 120 is equal to that. We're almost there with n equals four. I'm guessing that n equals
+five will do the trick. So for n equals five,
+let's clear this out. So for n equals five, we're
+gonna raise to the sixth power and divide by six factorial. And so let's just remind ourselves what six factorial is, 720. In fact, I could've done that in my head. But anyway. All right, so let's see. We're gonna go 0.55 to
+the, remember, n is five, so we're gonna raise to the sixth power, to the sixth power, and then we're gonna divide by 720, divided by 720 is equal to, and this number for sure is less than this number right over here. We've got four zeroes before
+this three after the decimal, here we only have three. So when n equals five, it got
+us sufficiently low enough, this remainder is going
+to be sufficiently low, it's gonna be less than
+this value right over here. So, what is the least
+degree of the polynomial that assures an error smaller than 1/1000? The answer is five, our n, if n is five, we're definitely gonna be under this.

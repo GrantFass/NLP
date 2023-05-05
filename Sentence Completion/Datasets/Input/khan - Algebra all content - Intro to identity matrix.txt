@@ -1,0 +1,55 @@
+Voiceover:When you first
+learned multiplication many, many, many years ago, you got exposed to the
+idea that 1 times ... I shouldn't use that symbol ... 1 times some number is
+equal to that number again, and that makes intuitive sense. You're just literally
+saying one of this thing is just going to be that
+thing right over there. And you could view it as 1, when you're thinking about
+regular multiplication or scalar multiplication, it has this identity property. It has the identity
+property of multiplication. 1 times some number is equal
+to that some number again. Since we're now exploring matrices and matrix multiplication, the question arises is there some matrix that has the same property
+for matrix multiplication? To make that a little bit more concrete, is there some matrix I, and let me bold it as best
+as I can in my handwriting, is there some matrix I that
+if I were to multiply it times any other ... I think I over-bolded that one, but I'll just go with it. If I were to multiply it
+times any other matrix, A, that the resulting product
+is going to be matrix A again by the standard conventions
+of matrix multiplication. To make that a little bit
+concrete, let's just imagine. Let's just take an example for A. Let's say that our matrix A, let's go 3 by 3. Let's say it is 1, 2, 3, 4, 5, 6, 7, 8, 9. What I encourage you
+to is pause this video and try to think about
+whether you can construct some matrix I, and first think about
+even what the dimensions of matrix I have to be in order to, when you multiply the two this way, when you multiply I times A, you get A again. I'm assuming you've given a go at it, so let's think this through. Let's throw matrix A down there. Let's say copy and paste. Let's first think about
+what the dimensions are going to have to be. When I multiply my matrix I, when I multiply my matrix
+I times A right over here, I get A again. I'm multiplying something times a 3 by 3, 3 by 3 matrix, and I'm getting another 3 by 3 matrix. There's a few things that we know. First of all, in order for
+this matrix multiplication to even be defined, this matrix, the identity matrix, has to have the same number
+of columns as A has rows. We already see that A has 3 rows, so this character, the identity matrix, is going to have to have 3 columns. It's going to have to have 3 columns. We also know that the
+dimensions of the product, the rows of the product are defined by the rows of the first matrix, so this has to be also a 3 by 3, and of course, the columns of the product are defined by the columns
+of the second matrix. This is what defines this. These middle two have to match, and then the rows of the first matrix define the rows of the product, and then the columns of the second matrix define the columns of the product. We know this has to be a 3 by 3 matrix. Now what else do we know? We know what the product needs to be. It also needs to be 1,
+2, 3, 4, 5, 6, 7, 8, 9. Let's think about it. To get this first entry right over here, we're going to have to multiply this row, this row times this column, since you take the dot product of it. I'm going to have to
+multiply something times 1 plus something else times 4 plus something else times 7 to get 1. Let's just think about it in the most, I guess we could say, naive possible way. What happens if we just
+multiply 1 times this 1 to get 1 and then 0 times 4 and add to it and then 0 times 7. I think that works out. When you take this product, this entry right over here
+is going to be 1 times 1, 1 times 1 plus 0 times 4, 0 times 4 plus 0 times 7, plus 0 times 7. That worked out quite well, but let's just make sure
+that that still holds. What happens when we multiply
+this row times this column or times this column to get
+this entry right over here? It works out. It's 1 times 2 plus 0
+times 5 plus 0 times 8, so it makes sense. You get 2 again. Same thing when you do
+it for this 3rd column. 1 times 3 plus 0 times 6 plus
+0 times 9 is going to be 3. Now what do we do in the second row? Let's think about it a little bit. The second row right over here is going to determine what
+values we get over here. For example, to get this
+entry right over there, we're going to multiply this row, we're going to multiply
+this row times this column, times this column. We want it to have the 4, so one way to think about it, we just want this middle entry here, so let's multiply 0 times 1
+plus 1 times 4 plus 0 times 7, and then we're going to get 4. That works out for this
+next entry right over here. 0 times 2 plus 1 times 5 plus 0 times 8. We get 5. It will work out the same
+for this entry over there. Now, for this last entry, for this bottom row right
+over here of our product, to do that, we're going
+to have to multiply this row times these columns, or take, I guess you could
+say, the dot product. To get the 7, we want to multiply this
+row times this column, or take the dot product of
+this row and that column. If we want the 7, let's
+multiply 0 times a 1 plus 0 times a 4 plus a 1 times the 7. Just like that, you'll
+see that that works. That gives us a 7 for this entry. It gives us, when you take
+the dot of this and that, it gives you an 8 for this entry. You take the dot product of that and that. It gives you the 9, the 9 for that entry. Just like that, we have constructed a 3 by 3 identity matrix. The 3 by 3 identity matrix
+is equal to 1, 0, 0, 0, 1, 0, and 0, 0, 1. As you will see, whenever you construct an identity matrix, if you're constructing a
+2 by 2 identity matrix, so I can say identity matrix 2 by 2, it's going to have a very similar pattern. It's going to be 1, 0, 0, 1. If you have a 4 by 4 identity matrix, it is going to be, you could guess it, 1, 0, 0, 0, 0, 1, 0, 0,
+0, 0, 1, 0, 0, 0, 0, 1. You essentially just
+have 1s down the diagonal going from the top left
+to the bottom right. What's neat about identity matrices, you multiply it times any matrix, and you're going to get that matrix again. Now another thing I encourage you to do is we've just shown that
+I times A is equal to A, but I'll let you do this after this video, what about A times I? We've seen that matrix multiplication, the order matters, so what happens here? If you take A times I, do you still get A?

@@ -1,0 +1,27 @@
+- [Instructor] In a previous video, we explored the sampling distribution that we got when we took the difference between sample proportions. And in that video, we
+described the distribution in terms of its mean,
+standard deviation, and shape. What we're going to do in this video is build on that example and try to answer a little bit more about it. So in this situation, what we wanna do is find the probability given that we, what we already know about this
+sampling distribution's mean and standard deviation and shape. We wanna find the probability
+that the sample proportion of defects from Plant B is greater than the sample proportion from Plant A. So pause this video and see
+if you can figure this out. All right, now let's do this together. So first of all, let's just
+interpret what this is. The probability that the sample proportion of defects from Plant B is greater than the sample proportion from Plant A. So the sample proportion from Plant B is greater than the
+proportion from Plant A. Then the difference between
+the sample proportions is going to be negative. So this is equivalent to the probability that the difference of
+the sample proportions, so the sample proportion from A minus the sample proportion from B is going to be less than zero. Or another way to think about it, that's going to be this
+area right over here. Now, there's a bunch of ways that we can figure out this area, but the easiest or one of the easiest, I guess there's many
+different ways to do it, is to figure out, well, how many, this is up to and including how many standard
+deviations below the mean, and then we could use a Z table. So we just have to do is figure
+out what is the Z value here and the Z value here we just have to say, well, how many standard
+deviations below the mean is this? And I'll do it up here. Let me square this off. So I don't make it too messy. Z is going to be equal to, so we are negative 0.02 from the mean or we're 0.02 to the left of the mean. So I'll just do negative 0.02, and then over the standard
+deviation, which is 0.025, which is going to be equal to, I'll get a calculator here. We get 0.02 divided by
+0.025 is equal to that. And we are, of course, going
+to be to the left of the mean. So our Z is going to be
+approximately negative 0.8 or 0.8. I'm saying approximately
+'cause this was approximate over here when we figured
+out the standard deviation. So it is negative 0.8 and
+then we just have to use a Z lookup table. And so if we look at a Z lookup table, we see here is if we're
+going to negative 0.8, negative 0.8 is right over
+here, so negative 0.8. And then we have zeros after that. So we're looking at this right over here. The area under the normal curve up to and including that Z value. So we always have to make sure that we're looking at the right thing on this standard normal
+probabilities table right over here. That gives us 0.21 or we could say this is approximately 21%. So let me get rid of this. And so we know that this right over here is approximately 21% or we could say 0.21. So the probability that
+the sample proportion of defects from Plant B is greater than the sample proportion from Plant A. It's, give or take, it's
+roughly one in five.

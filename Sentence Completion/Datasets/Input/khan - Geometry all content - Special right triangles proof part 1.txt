@@ -1,0 +1,122 @@
+What I want to do in this video
+is discuss a special class of triangles called
+30-60-90 triangles. And I think you know
+why they're called this. The measures of its angles
+are 30 degrees, 60 degrees, and 90 degrees. And what we're going
+to prove in this video, and this tends to be a very
+useful result, at least for a lot of what you see
+in a geometry class and then later on in trigonometry
+class, is the ratios between the sides of
+a 30-60-90 triangle. Remember, the hypotenuse is
+opposite the 90-degree side. If the hypotenuse
+has length x, what we're going to prove is that
+the shortest side, which is opposite the 30-degree
+side, has length x/2, and that the 60 degree
+side, or the side that's opposite the 60-degree
+angle, I should say, is going to be square root
+of 3 times the shortest side. So square root of 3 times x/2,
+that's going to be its length. So that's where we're going
+to prove in this video. And then in other videos,
+we're just going to apply this. We're going to show
+that this is actually a pretty useful result. Now, let's start with a triangle
+that we're very familiar with. So let me draw ourselves
+an equilateral triangle. So drawing the triangles
+is always the hard part. This is my best shot at
+a equilateral triangle. So let's call this ABC. I'm just going to
+assume that I've constructed an
+equilateral triangle. So triangle ABC is equilateral. And if it's equilateral,
+that means all of its sides are equal. And let's say equilateral
+with sides of length x. So this is going to be
+x, this is going to be x, and this is going to be x. We also know,
+based on what we've seen from equilateral
+triangles before, that the measures of
+all of these angles are going to be 60 degrees. So this is going
+to be 60 degrees, this is going to be
+60 degrees, and then this is going to be 60 degrees. Now, what I'm going
+to do is I'm going to drop an altitude from this
+top point right over here. So I'm going to drop
+an altitude right down, and by definition, when I'm
+constructing an altitude, it's going to intersect the base
+right here at a right angle. So that's going to
+be a right angle, and then this is going
+to be a right angle. And it's a pretty
+straightforward proof to show that not only
+is this an altitude, not only is it
+perpendicular to this base, but it's a pretty
+straightforward proof to show that it
+bisects the base. And you could pause it, if you
+like and prove it yourself. But it really comes
+out of the fact that it's easy to prove
+that these two triangles are congruent. So let me prove it for you. So let's call this
+point D right over here. So triangles ABD and BDC, they
+clearly both share this side. So this side is common to
+both of them right over here. This angle right over here
+is congruent to this angle over there. This angle right over here
+is congruent to this angle over here. And so if these two are
+congruent to each other, then the third angle has to
+be congruent to each other. So this angle right
+over here needs to be congruent to that
+angle right over there. So these two are congruent. And so you can use
+actually a variety of our congruence postulates. We could say,
+side-angle-side congruence. We could use
+angle-side-angle, any of those to show that triangle ABD is
+congruent to triangle CBD. And what that does for us,
+and we could use, as I said, we could use angle-side-angle
+or side-angle-side, whatever we like
+to use for this. What that does for
+us is it tells us that the corresponding
+sides of these triangles are going to be equal. In particular, AD is
+going to be equal to CD. These are corresponding sides. So these are going to
+be equal to each other. And if we know that they're
+equal to each other, and they add up to
+x-- remember, this was an equilateral
+triangle of length x-- we know that this side right
+over here, is going to be x/2. We know this is going to be x/2. Not only do we know
+that, but we also knew when we dropped
+this altitude, we showed that this angle has
+to be congruent to that angle, and their measures
+have to add up to 60. So if two things are the
+same and they add up to 60, this is going to be
+30 degrees, and this is going to be 30 degrees. So we've already shown one
+of the interesting parts of a 30-60-90 triangle, that if
+the hypotenuse-- notice, and I guess I didn't point this out. By dropping this
+altitude, I've essentially split this equilateral triangle
+into two 30-60-90 triangles. And so we've already shown
+that if the side opposite the 90-degree side
+is x, that the side opposite the 30-degree
+side is going to be x/2. That's what we showed
+right over here. Now we just have to come up with
+the third side, the side that is opposite the 60-degree side. I'll just use the letters
+that we already have here. This is BD. And we can just use the
+Pythagorean theorem right here. BD squared plus this
+length right over here squared plus x/2
+squared is going to be equal to the
+hypotenuse squared. So we get BD squared
+plus x/2 squared-- this is just straight out of
+the Pythagorean theorem.-- plus x/2 squared is going to
+equal this hypotenuse squared. It's going to equal x squared. And just to be clear, I'm
+looking at this triangle right here. I'm looking at this triangle
+right over here on the right, and I'm just applying
+the Pythagorean theorem. This side squared
+plus this side squared is going to equal the
+hypotenuse squared. And let's solve now for BD. You get BD squared
+plus x squared over 4. x squared over 4 is
+equal to x squared. You could view this
+as 4x squared over 4. That's the same thing,
+obviously, as x squared. If you subtract 1/4 x
+squared from both sides, or x squared over
+4 from both sides, you get BD squared is
+equal to-- 4x squared over 4 minus x squared over 4 is
+going to be 3x squared over 4. So it's just going to
+be 3x squared over 4. Take the principal
+root of both sides. You get BD is equal to the
+square root of 3 times x. The principal root
+of 3 is square root of 3. the principal root
+of x squared is just x, over the principal
+root of 4 which is 2. And BD is the side opposite
+the 60-degree side. So we're done. If this hypotenuse
+is x, the side opposite the 30-degree
+side is going to be x/2, and the side opposite
+the 60-degree side is going to be square
+root of 3 over 2 times x, or the square root of
+3x over 2, depending on how you want to view it.

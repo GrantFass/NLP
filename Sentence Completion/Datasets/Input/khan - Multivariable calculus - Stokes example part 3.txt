@@ -1,0 +1,141 @@
+We're now ready to get into the
+meat of evaluating this surface integral. And we really need
+to re-express it in terms of a double integral
+in the domain of the parameters. And the first thing
+I'm going to do is rewrite this part right
+over here using our parameters. And we already know that n, our
+normal vector times our surface differential, can
+also be written as kind of a vector version
+of our surface differential that points in the same
+direction as our normal vector. And this is going to
+be the same thing. And we need to make
+sure that we get the order on the
+cross product right as the partial
+derivative-- and I'm going to confirm
+this in a second. The partial derivative
+of the parametrization with respect to one
+of the parameters crossed with the
+partial derivative of the parametrization with
+respect to the other parameter. And then that whole
+thing-- I'm not going to take the absolute
+value because I need a vector right over here--
+times differentials of the parameters-- d theta
+dr. And we can swap these two things around depending
+on what will make our eventual double
+integral easier. But we can't swap
+these two things around because this would
+actually change the direction of the vector. So we need to make sure
+that this is popping us out in the right direction. So let's think
+about the direction that the partial with
+respect to r will take us. So as r increases, we're
+going to be moving radially outward from the
+center of our surface. Let me do this in
+a different color. As r increases, we'll be
+moving radially outwards. So this quantity
+will be a vector that looks something like that. And then as theta
+increases, we'll be going roughly
+in that direction. And so if we take the cross
+product of those two things-- and we could use
+the right-hand rule. Take your right hand,
+point your index finger in the direction of
+that yellow vector. Let me make it clear-- this
+is the orange vector right over here. Take your index finger
+in the direction of that yellow vector. So that's my index finger,
+my shakily drawn yellow index finger. Put your middle finger in the
+direction of the orange vector. So my middle, you
+bend it and put it in the direction of
+the orange vector. And we don't care what
+the other two fingers do. And then, your thumb
+will be in the direction of the cross product. So your thumb will
+point outward like that. That's my best
+attempt at drawing it. Which is exactly the direction
+we needed to point it. We need it to point
+upward here in order to be oriented properly
+with the direction that we are actually
+traversing the path. So this is actually
+the right order. If when we did this we
+got the thumb pointing into it or below
+the plane, then we would actually have
+to swap these orders. So with that out
+of the way, let's actually evaluate
+this cross product. So the cross product of the
+partial of our parametrization with respect to r
+crossed with the partial of our parametrization
+with respect to theta. I like to set up the matrix
+to take the cross product. So we'll put i, j, and k
+components, < like that. And then, first, I will write
+the partial with respect to r. So the i-component, if you
+take the derivative of this with respect to r, is just
+going to be cosine theta. The derivative of
+this with respect to r is just sine theta. And the derivative of
+this with respect to are r is just going to be a
+negative sine theta. And then we're going
+to cross it with this, so the derivative of this
+with respect to theta is going to be negative
+r sine of theta. The derivative of
+our j-component with respect to theta
+will be r cosine theta. And the derivative
+or our k-component-- or our z-component
+with respect to theta-- is going to be-- let's see--
+negative r cosine theta. Is that right? Yeah. Derivative of sine
+theta's cosine theta. Yeah. So it's negative r cosine theta. And now we just evaluate
+this determinant over here. Our i-component is
+going to be-- so ignore that row and this column. And we get sine times
+negative r cosine theta. I'll just do this
+in a new color. So we're going to get negative
+r-- that wasn't a new color. I'll do it in purple. We will get negative r cosine
+theta sine theta minus-- well, this is going to be
+a negative number. So when you subtract a negative
+number, it's going to be plus. So it's going to be plus
+r cosine theta sine theta. It's always nice when
+things cancel out like this. This plus this is just 0. Negative of it plus
+the positive of it. So that all canceled out to 0. We don't have an i-component. Now, let's go to
+the j-component. And remember, we need to do our
+little checkerboard pattern. So it's going to be minus j. And it's going to be-- ignore
+this column, that row-- cosine theta times negative r. Cosine theta is negative
+r cosine squared theta. I just multiplied those two. And then, from that I'm going
+to subtract this times that. And so this times that,
+the negatives cancel out. We get r sine squared theta. So this is minus--
+let me make sure. Yeah, I'm going to subtract
+the product of these two. The product is positive. It's going to be r
+sine squared theta. This is always a hard part. You can make a lot of
+careless mistakes here. And this looks like we
+might be able to simplify this in a second, but I'll wait. Actually, I'll just distribute
+this negative sign just for fun. So if we distribute
+the negative sign, these all become positive. Helps simplify
+things a little bit. And now let's worry
+about the k-component. The k-component I will be
+doing in purple-- well, I'll do it in blue. The k-component. Ignore this row,
+ignore this column. So plus k times cosine
+theta times r cosine theta is r cosine squared of theta. And then from that, I'm going
+to subtract negative r sine theta times sine theta. So that's going to be
+negative r sine squared theta, but I'm subtracting it. So it's going to be plus
+r sine squared theta. And this looks like we're
+going to simplify it as well. And so this piece
+right over here, we can factor out--
+let me just rewrite it. This can be rewritten as r
+times cosine squared theta plus sine squared theta. Basic trig identity. That just evaluates to 1. So this is just r times j. And this over here simplifies
+for the exact same reason. This is r times cosine squared
+theta plus sine squared theta. This also is just 1. So this just simplifies
+to r times k. This whole cross product--
+all of this business right over here-- simplified
+to, quite luckily, is equal to r times
+our j unit vector plus r times our k unit vector. And so now we can write
+our surface integral. Our original surface
+integral we can write as the double integral. Or we might want to change the
+order in which we integrate, but we'll give ourselves that
+option a little bit later. Double integral. Now, it's going to be over our
+parameter domain or the r theta domain. So it's the double integral of--
+we still have the curl of f. And we're going to have
+to evaluate the curl of f. So I'll just write "curl
+of our vector field f" dotted with this
+business, rj plus rk. And then we have
+our two parameters. And we might want
+to switch the order. So maybe we could
+write d theta dr. And then if we do
+it in this order, theta goes from 0 to 2 pi,
+and r is going from 0 to 1. But if we swap these
+two, then obviously, we're going to have to
+swap these two as well. I'll leave you there. In the next video, we will
+evaluate the curl of f. And maybe in that
+video, if we have time, we will get to the finish line.

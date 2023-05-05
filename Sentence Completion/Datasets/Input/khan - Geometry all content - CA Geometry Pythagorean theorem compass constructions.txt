@@ -1,0 +1,155 @@
+We're on problem 51. And they say, a diagram from
+a proof of the Pythagorean theorem is pictured below. And they they say, which
+statement would not be used in the proof of the Pythagorean
+theorem? So since they have drawn this
+diagram out, I think we might as well just kind of do the
+proof and then we can look at their choices and see which
+ones kind of match up to what we did. Hopefully, they do
+it the same way. And this is a pretty
+neat proof of the Pythagorean theorem. I don't think I've
+done it yet. So I might as well do it now. Well, let's figure out
+what the area of this large square is right. Well there's two ways to think
+about it you could just say, OK, this is a square. That's a, that's b. Well this is going
+to be b as well. This is going to be a as well. So the area of the square is
+going to be the length of one of its sides squared. So we could say the
+whole square's area is a plus b squared. And that's equal to a squared
+plus 2ab plus b squared. Fair enough. Now we can also say that the
+area of this larger square, and it's a bit of an optical
+illusion, it looks like it's tilted to the left because
+of the way it's drawn. But anyway, that the area of
+this larger square is also the area of these four triangles
+plus the area of this smaller square. So this, the area of the
+larger square, which we figured out just by taking one
+side of it and squaring it, that should be equal
+to the area of the four smaller triangles. So there's four of them. And what's the area
+of each of them. Let's see, let's just
+pick this one. 1/2 base times height. So it's 1/2 times a times b. So 1/2 ab is one of these and
+I multiply by 4 to get all four of these triangles. And then we want to add the area
+of this inside square. And that's just going
+to be c squared. So plus c squared. Let's see if we can
+simplify this. So you get a squared plus 2ab
+plus b squared is equal to 4 times 1/2 is 2ab
+plus c squared. Well, we could subtract
+2ab from both sides of this equation. The top and the bottom of
+this equation the way I've written it. But if we do that, subtract 2ab
+from there, subtract 2ab from there, and you're left with
+a squared plus b squared is equal to c squared, which
+is the Pythagorean theorem. And we've proved it. So let's see which of their
+choices matches what we did. OK, which statement would not
+be used in the proof of the Pythagorean theorem. The area of a triangle
+equals 1/2 ab. We used that. The four right triangles
+are congruent. No, we used that. The area of the inner square is
+equal to half of the area of the larger square. We didn't use that. I think this is the
+one that would not be used in the proof. Choice D, the area of the larger
+square is equal to the sum of the squares of the
+smaller square and the four congruent triangles. No, that that was the
+crux of the proof. So we definitely used that. So C is our answer. That's the statement
+that would not be used in the proof. I'm learning to copy and
+paste ahead of time. So I don't waste your time. All right, a right triangle's
+hypotenuse has length 5. If one leg has length 2,
+what is the length of the other leg? Pythagorean theorem, x squared
+plus 2 squared is equal to 5 squared, because 5 is
+the hypotenuse. x squared plus 4
+is equal to 25. Subtract 4 from both sides. x squared is equal to 21. So x is equal to the
+square root of 21. So choice B. Next question. A new pipeline is being
+constructed to reroute oil flow around the exterior of a
+national wildlife preserve. I guess that's the national
+wildlife preserve. The plan showing the old
+pipeline and the new route is shown below. OK, how many extra miles will
+the oil flow once the new route is establised. So the new route is going to
+be 60 miles plus 32 miles. So the new route is 92 miles. So what was the old route? Well the old route was the
+hypotenuse of this triangle. So we could say, let's
+call that x. 60 squared plus 32 squared
+is equal to x squared. Because that's the hypotenuse. And these numbers, that's a bit
+of a pain to deal with. Maybe if I can factor out
+something here I can make it more interesting. So I don't have to multiply out
+60 squared and 32 squared and all of the rest.
+Well, let me see. Both of those are
+divisible by 4. So then I would have 15 and 8. Yeah, that still doesn't
+make it that useful. So I'll just multiply
+them out. So this is 3600. At 32 squared, let's
+see, 32 times 32. 2 times 32 is 64. 3 times 2 is 6. 3 times 3 is 9. So it's 1024. Plus 1024 is equal
+to x squared. So let me just switch
+both sides. x squared is equal to 3600
+plus 1024 is 4624. Let me see if I can get
+an approximate. So x is going to be the square
+root of this thing right here. So let's see if I can get
+a handle at least on the magnitude of where
+this would be. So 20 times 20 is 400. So this is way too small. 60 times 60 is 3600. So 68 times 68, this
+looks right. Especially because 8 times
+8 should end in a 4. Let me try that out. 68 times 68. 8 times 8 is 64. 8 times 6 is 48 plus 6 is 54. 6 times 8, 48. 6 times 6, 36 plus 4 is 40. 4624. So x is 68. Oh, I used 68, I shouldn't have.
+Because they don't want to know how long was
+the old pipeline. That's 68. It just happened to be
+one of the choices. That's just to make
+sure that you read the question properly. But they want to know how
+much longer is going to be the new pipeline. So the new one was 92. And the old one is 68. Good thing they had that
+number there so I could try it out. That was the square
+root of 4624. So how much longer
+is the new one? Well 92 minus 68 that's
+24 miles. So choice A. Not choice B. B is how long the old
+pipeline was. We want to know how much longer
+the new route is. That was tricky. Well not tricky, but I kind of
+fell for it by forgetting what the question was about. Anyway, next question. Marcia is using a straightedge
+and compass to do the construction below. Interesting. Which best describes the
+construction Marcia is doing. So, I assume when they
+say construction she's drawing something. Let's see what it looks like. It looks she's taking her
+compass, she's probably putting one of the points
+here, she put one of the points there and then she
+kind of drew this arc. And then it looks like she put
+the point there and then she drew that arc. And then she put the point
+here and drew that arc. And then put the point there
+and drew that arc. And the end result, it seems
+like the reason why she picked this point here is it goes
+through this line L. So she's probably trying to find
+another point here, so that she can draw
+another line. Because they say she
+has a straightedge. A straightedge is to
+draw these lines. A compass is to draw
+these curves. So if she were to draw another
+line between these two points, it looks something like
+that, then she would have parallel lines. The reason why she would have
+parallel lines is because these would be corresponding
+angles and they would be congruent. And so if you have a transversal
+the corresponding angles are congruent, you're
+dealing with parallel lines. So my read of this question is
+that she's probably trying to draw a line that is
+parallel to L. A line through P parallel
+to line L. Yeah, that's what I think
+she's trying to do. All right, choice A. 55. Given angle A. So given this angle. What is the first step in
+constructing the angle bisector of angle A? OK, well actually I've
+never done this. But I can assume that
+if I have a compass. You know what a compass is,
+it has those two points. One of them is like
+a pivot point. It looks something like this. It looks like it has a little
+pivot point, and then on the other side you can stick
+your pencil. And you can adjust it up here. And the bottom line, you pivot
+around this and then you can draw circles of arbitrary
+radiuses. It seems like that's
+what they did here. So if I want to draw the angle
+bisector of a, just thinking about it, it seems I could put
+the pivot point here, and then I can put the pencil and
+I can draw this circle. And really, as long as I just
+find the two points that it intersects those two lines
+or those two rays, then I'll be fine. And I could have done
+it anywhere. I could have done it here. I could have done it out here. They just picked
+points B and C. And then from each of those
+points, you can put your pivot here. If you put your pivot here, and
+then you were to draw a circle around that, you
+would have gotten this one right here. And then if you were to put your
+pivot point right here, draw a circle, you would
+be able to draw that. And then where they interect,
+that would that would give you an indication of where the
+angle bisector is. And you could then draw that
+line to where they intersect. So let's see, they say what is
+the first step in constructing the angle bisector of angle a. So they say draw ray AD. Well that seems like that
+would be the last step. Then you're done. Draw AD, that is the
+angle biector. Draw a line segment connecting
+points B and C. No, that's useless. You don't need a line segment. I mean even what they have
+drawn, that's an arc. It's not a line. From points B and C, draw
+equal arcs that intersect at D. That was the second step. You have to have points B and
+C before you can draw those equal arcs. From point A, draw an arc that
+intersects the side of the angle at points B and C. Yeah, that's what we said. That was the first step. Put your pivot here, and use
+your pencil to draw the arc. You say OK, this point
+and this point. So that would be
+the first step. D. And I'm all out of problems
+and I'm out of time. See you in the next video.

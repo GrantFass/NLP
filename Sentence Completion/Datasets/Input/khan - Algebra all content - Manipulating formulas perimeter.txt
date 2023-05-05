@@ -1,0 +1,92 @@
+We are told that the formula for
+finding the perimeter of a rectangle is P is equal to 2l
+plus 2w, where P is the perimeter, l is the length,
+and w is the width. And just to visualize what
+they're saying, and you might already be familiar with this,
+let me draw a rectangle. That looks like a rectangle. And if this side's length is l,
+then this side's length is also going to be l. And if this width is w, then
+this width up here is w. And the perimeter is just how,
+what is the distance if you were to go around
+this rectangle? And so, that distance is going
+to be this w plus this l, plus this w-- or that width--
+plus this length. And if you have 1 w and you add
+it to another w, that's going to give you 2 w's. So that's 2 w's. And then if you have 1 l, and
+then you have another l, that's going to give you, if you
+add them together, that's going to give you 2 l's. So the perimeter is going
+to be 2 l's plus 2 w's. They just wrote it in a
+different order than the way I wrote it. But the same thing, so hopefully
+that makes sense. Now, their question is, rewrite
+the formula so that it solves for width. So the formula, the way it's
+written now, it says P is equal to something. They want us to write it so
+it's, this w, right here, they want it to be w is equal to a
+bunch of stuff with l's and P's in it, and maybe
+some numbers there. So let's think about
+how we can do this. So they tell us that P is
+equal to 2 times l, plus 2 times w. We want to solve for w. Well, a good starting point
+might be to get rid of the l on this side of the equation. And to get rid of it on that
+side of the equation, we could subtract the 2l from both
+sides of the equation. So let's do it this way. So you subtract 2l over here. Minus 2l. You're also going to have to do
+that on the left-hand side. So you're going to
+have minus 2l. We're doing it on both sides
+of the equation. And remember, an equation says
+P is equal to that, so if you do anything to that, you
+have to do it to P. So if you subtract 2l from this,
+you're going to have to subtract 2l from P in order
+for the equality to keep being true. So the left-hand side is going
+to be P minus 2l, and then that is going to be equal to--
+well, 2l minus 2l, the whole reason why we subtracted 2l is
+because these are going to cancel out. So these cancel out,
+and you're just left with a 2w here. You're just left with a 2w. We're almost there. We've almost solved for w. To finish it up, we just have
+to divide both sides of this equation by 2. And the whole reason why I'm
+dividing both sides of this equation by 2 is to get rid of
+this 2 coefficient, this 2 that's multiplying w. So if you divide both sides of
+this equation by 2, once again, if you do something to
+one side of the equation, you do it to the other side. The whole reason why I divided
+the right-hand side by 2 is 2 times anything divided by 2
+is just going to be that anything, so this is
+going to be a w. And then we have our
+left-hand side. So we're done. If we flip these two sides, we
+have our w will be equal to this thing over here-- equals
+P minus 2l, all of that over 2. Now, this is the
+correct answer. There's other ways to
+write it, though. You might want to rewrite this,
+so let me square this off, because this is completely
+the correct answer. This is the correct answer, but
+there's other ways that you might have been able to
+get this answer, other expressions for this answer. You might have also, you know,
+another completely legitimate way to do this problem-- let me
+write it this way-- so our original problem is P is equal
+to 2l plus 2w-- is on this right-hand side, what if
+we factor out a 2? So let me make this clear. You have a 2 here, and
+you have a 2 here. So you could imagine
+undistributing the 2. So we would get P is equal
+to 2 times l plus w. This is an equally legitimate
+way to do this problem. Now, we can divide both sides of
+this equation by 2, so that we get rid of this 2 on
+the right-hand side. So if you divide both sides of
+this equation by 2, these 2's are going to cancel out-- 2
+times anything divided by 2 is just going to be the
+anything-- is equal to P over 2. So let me just rewrite
+this over here. Let me just rewrite this. So we will get P over 2 is going
+to be equal to l plus w. And then if we want to solve for
+w, we just subtract l from both sides. And sometimes, you know, you
+could write it in a separate line like this. Sometimes you could just
+write it like this. You could say, I'm going to
+subtract an l on that side. If I do it on that side,
+I have to do it on this side, too. That's the same thing as
+adding a negative l. And so the right-hand side,
+you're just left with a w. And then the left-hand side,
+you're going to have, it could be a negative l plus P over 2,
+or you could just change the order, and you can write this
+as P over 2 minus l. And this is also an equally
+legitimate answer. And you're probably saying,
+hey Sal, wait. These things look different. P minus 2l over 2, that
+looks different than P over 2 minus l. And they're not. Think about this. We could rewrite this as P-- let
+me do this with the same colors-- this over here is the
+same thing as P over 2 minus 2l over 2. Right? If I have a minus b and they're
+both being divided by 2, I can just separate-- you can
+imagine I'm distributing the division by 2
+right over here. And over here, 2 times
+l divided by 2, that's just an l. So this is going to be equal to
+P over 2 minus l, which is the exact same thing as
+this right there.

@@ -1,0 +1,75 @@
+- [Voiceover] So up
+here, we are multiplying two rational expressions. And here, we're dividing
+one rational expression by another one. Now what I encourage you
+do is pause this video and think about what these
+become when you multiply them. I don't know, maybe you
+simplify it a little bit, and I also want you to
+think about what constraints do you have to put on the x values in order for your resulting expression to be algebraically equivalent
+to your original expression. So let's work it out
+together just so you realize what I'm talking about. So this is going to be, in our numerator, we are going to get six x to
+the third power times two, and our denominator,
+we're going to have five times three x. And we can see both the
+numerator and the denominator are divisible by x, so let's
+divide the denominator by x. We get one there. Let's divide x to the third by x. We get x squared. And we can also see the both
+the numerator and denominator are divisible by three,
+so divide six by three, you get two. Divide three by three, you get one. And we are left with
+two x squared times two, which is going to be four x squared over five times one times one over five. And we can also write
+that as 4/5 x squared. Now someone just presented
+you on the street with the expression 4/5 x squared and say, for what x is this defined? I could put any x here, x could be zero because zero squared is zero times 4/5 is just going to be zero, so
+it does seems to be defined for zero, and that is true. But if someone says, how
+would I have to constrain this in order for it to be
+algebraically equivalent to this first expression? Well then, you'd have to say,
+well, this first expression is not defined for all x. For example, if x were equal
+to zero, then you would be dividing by zero right over here, which would make this undefined. So you could explicitly
+call it out, x can not be equal to zero. And so if you want this to
+be algebraically equivalent, you would have to make
+that same condition, x cannot be equal to zero. Another way to think about
+it, if you had a function defined this way, if you
+said, if you said f of x is equal to six x to the third over five times two over, times two over three x; and if someone said,
+well what is f of zero, you would say f of zero is undefined. Undefined. Why is that? Because you put x equals zero
+there, you're going to get two divided by zero and it's undefined. But if you said, okay,
+well, can I simplify this a little bit to get the
+exact same function? Well, we're saying you can
+say f of x is equal to 4/5 times x squared. But if you just left it at
+that, you would get f of zero is equal to zero. So now it would be defined
+at zero, but then this would make it a different function. These are two different
+functions the way they're written right over here. Instead, to make them, to make it clear that this is equivalent to
+that one, you would have to say x cannot be equal to zero. Now these functions are
+equivalent because now, if u said f of zero, you'd say all right, x cannot be equal to zero, you know? This would be the case if x
+is anything other than zero and it's not defined for
+zero, and so you would say f or zero is undefined. So now, these two
+functions are equivalent, or these two expressions are
+algebraically equivalent. So thinking about that,
+let's tackle this division situation here. So immediately, when you
+look at this, you say, woah, what are constrains here? Well, x cannot be equal to
+zero because if x was a zero, this second, this five x
+to the fourth over four would be zero and you'd be
+dividing, you'd be dividing by zero. So we can explicitly call
+out that x cannot be equal to zero. And so if x cannot be equal to zero in the original expression, if the result, whatever we get for the
+resulting expression, in order for it to be
+algebraically equivalent, we have to give this same constraint. So let's multiply this,
+or let's do the division. So this is going to be
+the same thing as two x to the fourth power over
+seven times the reciprocal, times... The reciprocal of this is
+going to be four over five x to the fourth, which
+is going to be equal to in the numerator, we're going
+to have eight x to the fourth. So we're going to have
+eight x to the fourth, four times two x to the fourth, over seven times five
+x to the fourth is 35 x to the fourth. And now, there's something. We can do a little bit
+of simplification here, both the numerator and the
+denominator are divisible by x to the fourth, so let's
+divide by x to the fourth and we get eight over 35. So once again, you just look at eight 30, Well, this is going to
+be defined for any x. X isn't even involved in the expression. But if we want this to be
+algebraically equivalent to this first expression,
+then we have to make the same constraint, x does
+not, cannot be equal to zero. And to see, you know, this
+even seems a little bit more nonsensical to say
+x cannot be equal to zero for an expression that
+does not even involve x. But one way to think about
+it is imagine a function that was defined as g of x is equal to, is equal to
+all of this business here. Well, g of zero would be undefined. But if you said g of x is equal to 8/35, well now, g of zero
+would be defined as 8/35, which would make it a different function. So to make them algebraically equivalent, you could say g of x is equal to 8/35, as long as x does not equal zero. And you could say it's
+undefined if you want. Undefined for x equals zero. Or you don't even have to
+include that second row, and that will literally
+just make it undefined. But now, this expression, this algebraic expression, is equivalent to our original one even
+though we had simplified it.

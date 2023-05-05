@@ -1,0 +1,94 @@
+If I were to draw a hand, and
+let me just draw a hand really fast, so I'll draw
+a left hand. It looks something like that. That is a left hand. Now, if I were to take its
+mirror image, let's say that this is a mirror right there,
+and I want to take its mirror image, and I'll draw the
+mirror image in green. So its mirror image would look
+something like this. Not exact, but you
+get the idea. The mirror image of a left
+hand looks a lot like a right hand. Now, no matter how I try to
+shift or rotate this hand like this, I might try to maybe
+rotate it 180 degrees, so that the thumb is on the other side
+like this image right here. But no matter what I do, I will
+never be able to make this thing look like
+that thing. I can shift it and rotate it,
+it'll just never happen. I will never be able to
+superimpose the blue hand on top of this green hand. When I say superimpose,
+literally put it exactly on top of the green hand. So whenever something is not
+superimposable on its mirror image-- let me write this down--
+we call it chiral. So this hand drawing
+right here is an example of a chiral object. Or I guess the hand is an
+example of a chiral object. This is not superimposable
+on its mirror image. And it makes sense that it's
+called chiral because the word chiral comes from the
+Greek word for hand. And this definition of
+not being able to be superimposable on its mirror
+image, this applies whether you're dealing with chemistry,
+or mathematics, or I guess, just hands in general. So if we extend this definition
+to chemistry, because that's what we're
+talking about, there's two concepts here. There are chiral molecules,
+and then there are chiral centers or chiral-- well, I call
+them chiral atoms. They tend to be carbon atoms, so
+sometimes they call them chiral carbons. So you have these
+chiral atoms. Now, chiral molecules are
+literally molecules that are not superimposable on
+their mirror image. I'm not going to write
+the whole thing. You know, not superimposable--
+I'll just write the whole thing. Not superimposable
+on mirror image. Now, for chiral atoms, this is
+essentially true, but when you look for chiral atoms within a
+molecule, the best way to spot them is to recognize that these
+generally, or maybe I should say usually, are carbons,
+especially when we're dealing in organic chemistry,
+but they could be phosphoruses or sulfurs, but usually are
+carbons bonded to four different groups. And I want to emphasize
+groups, not just four different atoms. And to kind of
+highlight a molecule that contains a chiral atom or chiral
+carbon, we can just think of one. So let's say that I have a
+carbon right here, and I'm going to set this up so this
+is actually a chiral atom, that the carbon specific is a
+chiral atom, but it's partly a chiral molecule. And then we'll see examples
+that one or both of these are true. Let's say it's bonded
+to a methyl group. From that bond, it kind of
+pops out of the page. Let's say there's a
+bromine over here. Let's say behind it, there is a
+hydrogen, and then above it, we have a fluorine. Now if I were to take the mirror
+image of this thing right here, we have your carbon
+in the center-- I want to do it in that same blue. You have the carbon in the
+center and then you have the fluorine above the carbon. You have your bromine now
+going in this direction. You have this methyl group. It's still popping out of the
+page, but it's now going to the right instead of to
+the left, So CH3. And then you have the hydrogen
+still in the back. These are mirror images, if you
+view this as kind of the mirror and you can see on both
+sides of the mirror. Now, why is this chiral? Well, it's a little bit of a
+visualization challenge, but no matter how you try to rotate
+this thing right here, you will never make it exactly
+like this thing. You might try to rotate it
+around like that and try to get the methyl group over here,
+to get it over there. So let's try to do that. If we try to get the methyl
+group over there, what's going to happen to the other groups? Well, then the hydrogen group is
+going-- or the hydrogen, I should say. The hydrogen atom is going to
+move there and the bromine is going to move there. So this would be superimposable
+if this was a hydrogen and this was a
+bromine, but it's not. You can imagine, the hydrogen
+and bromine are switched. And you could flip it and do
+whatever else you want or try to rotate it in any direction,
+but you're not going to be able to superimpose them. So this molecule right here is
+a chiral molecule, and this carbon is a chiral center, so
+this carbon is a chiral carbon, sometimes called
+an asymmetric carbon or a chiral center. Sometimes you'll hear
+something called a stereocenter. A stereocenter is a more general
+term for any point in a molecule that is asymmetric
+relative to the different groups that it is joined to. But all of these, especially
+when you're in kind of in introductory organic chemistry
+class, tends to be a carbon bonded to four different
+groups. And I want to to stress that
+it's not four different atoms. You could have had a methyl
+group here and a propyl group here, and the carbon would still
+be bonded directly to a carbon in either case, but that
+would still be a chiral carbon, and this would still
+actually be a chiral molecule. In the next video, we'll
+do a bunch of examples. We'll look at molecules, try
+to identify the chiral carbons, and then try to
+figure out whether the molecule itself is--

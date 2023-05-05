@@ -1,0 +1,60 @@
+- [Voiceover] Let's say we
+have a first order reaction where A turns into our products, and when time is equal to zero we have our initial concentration of A, and after some time T, we have the concentration
+of A at that time T, and let's go ahead and write
+out the rate for our reaction. In an early video, we
+said that we could express the rate of our reaction in
+terms of the disappearance of A, so we said that's the change in the concentration of A
+over the change in time, and we put a negative in sign in here to give us a positive value for the rate. We could also write out the rate law, so for the rate law, the rate is equal to the rate constant K times the concentration of A, and since this is a first order reaction, this would be to the first power, so we talked about this in an early video. We can set these equal
+to each other, right? Since they're both equal to the rates, we can say that the rate
+of disappearance of A, so the negative change
+in the concentration of A over the change in time is
+equal to the rate constant K times the concentration
+of A to the first power. This is the average rate of
+reaction over here on the left, and so if we wanted to write
+this as the instantaneous rate, we need to think about
+calculus, all right? So the instantaneous rate would
+be at negative D A, right? D A, the negative rate of change
+of A with respect to time, so this would be D T, and this is equal to K
+A to the first power, and now we have a differential equation, and when you're solving
+a differential equation eventually you get to a function, and our function would be the concentration as a function of time, so we will eventually get there, but your first step for
+solving a differential equation is to separate your variables, so you need to put all
+the A's on one side, and we'll put the T on the opposite side, so we need to divide through by A, so we get on the left side... We divide both sides by A, and we get D A over the
+concentration of A here. We're going to multiply both sides by D T to get the T on the right side, so we would get K D T
+over here on the right, and I'll go ahead and put the negative sign on the right as well, so we just rearranged a few things to get us ready for integration, right? After you separate your variables you need to integrate, so we're going to integrate the left, and since K is a constant I can pull it out of my integral, and I can go like that, and let's see, what would be integrating from? Well, for time, let's go back up to here. All right, time we would
+be integrating from time is equal to zero
+to time is equal to T, and for concentration we'd be integrating from the initial concentration to the concentration at some time T, so let's go ahead and plug those in, so we'd be integrating from
+zero to T on the right side, and the left side we'd be integrating from the initial concentration of A to the final concentration, or I should say the
+concentration of A at any time T. All right, so on the left, right, D A over A, that's natural
+log of A, all right? So that would be equal
+to the natural log of A, and we would be evaluating this from the initial concentration to the concentration at some time T, and, on the right side,
+integral of D T is just T, so we have negative K T
+evaluated from zero to T. Next, we use the fundamental
+theorem of calculus, so on the left side we
+would have natural log of the concentration of A at some time T minus the natural log of A... Minus the natural log of the
+initial concentration of A, and then on the right side
+we would have negative K T, and so this is one way to write the integrated rate law, so on the current AP Chem
+formula sheet, right, this is your equation for
+a first order reaction, so this is your integrated rate law. Your integrated rate law, and this is one way to write it. You could keep on going and express this in a different way, which we'll do in a later video, but this is one equation that you can use to solve some problems here, and let's go ahead and
+rearrange that a little bit. All right, let's add the natural log of the initial concentration
+to the right side, so let's rearrange that, and, therefore, we get natural
+log of the concentration of A at some time T is equal to negative K T plus the natural log of the
+initial concentration of A, and the reason why I
+wanted to rearrange this is so you can see that this follows the graph of a straight line. Think about Y is equal to M X plus B. All right, so we know that
+Y is equal to M X plus B is the graph of a straight line, and if you think about what
+you would need to graph here, all right, you would put
+the natural log of A, all right, on your Y axis, and on your X axis you
+would put time, right? And then we can see that
+M, which is the slope, would be equal to negative K, and B, of course, is your Y intercept, and so that should be the natural log of the initial concentration of A, and so if we put together
+a little graph here... Let me just real quickly
+sketch in a graph, so we would have... Let's say that's our Y axis here, right? So here's our Y axis, and then we would have our X
+axis right here, all right? And let's go ahead and label on axises, so for our Y axis we would be
+putting over here on the left this would be the natural log of the concentration of A at any time T, and then on our X axis we
+would put time, all right? So here's what we're graphing, and then the graph of this should be a straight line, all right? So the graph is going
+to be a straight line. Let me go ahead and draw it in right here, so I'm just going to attempt to sketch a straight line here like that, and this would be our
+Y intercept, all right? And our Y intercept
+should be the natural log of the initial concentration
+of A, all right? So this point right here, our Y intercept, should be the natural log of
+the initial concentration of A, and the slope of our line, all right, let's go back over here... The slope of our line, which is M, should be equal to negative K, so if you get the slope of this line, this slope is equal to negative K, so from the slope you can
+find the rate constant, and the graph of the
+natural log of A verses time gives a straight line with
+a slope of negative K.

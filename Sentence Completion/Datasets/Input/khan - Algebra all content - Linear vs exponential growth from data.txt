@@ -1,0 +1,31 @@
+- [Voiceover] The number
+of branches of an oak tree and a birch tree since
+1950 are represented by the following tables. So for the oak tree we
+see when time equals zero has 34 branches. After three years it has 46 branches, so on and so forth. And in the birch tree
+they give us similar data. At the beginning has eight branches. In 10 years has 33 branches
+and they give us all of that. What I want to think about in this video is how should we model these? If we want to model these with functions and the choices we'll give ourselves, there are other options, but the choices we'll give
+ourselves in this video are linear, and linear versus exponential functions. Which of these are going to be better for modeling this data? So let's first look at the oak tree. A key to realization is,
+whenever I have a fixed increase in time, so each of these steps, this is plus three years. So it's a fixed increase in time. What happens to my number of branches? Is it going to be a fixed change, or roughly a fixed change in which case a linear model might be good, or is it going to be a
+change that's dependent on where we were? So what am I talking about? So 34 to 46, that is plus 12. 46 to 59 is plus 13. 59 to 70 is plus 11. 70 to 82 is plus 12. So at first you mention,
+well this isn't exactly a fixed change. These numbers they seem to
+average right around 12, but when you're looking at real world data you're never gonna get
+something that is exact. The models are just going
+to give us a good fit. Are going to give us a good approximation of the behavior of the
+number of branches over time. For me, this is pretty close
+to a constant 12 branches a year. So I would construct a linear model here. I would say here branches as a function of time. Let me be clear, this
+isn't 12 branches per year, this is 12 branches every three years. This is 13 branches over three years. This was 11 branches over three years. We're going to average 12
+branches over three years. So the number of branches we have, we're gonna start at 34 branches and then minus. If we have 12 branches every three years, that's four branches every, or I should say plus. Four branches every year. And you could test this out. B of zero is gonna give us 34 branches. B of 12. Let's just really test out
+the extreme part of the model. B of 12 is going to be 34 plus 48, which is equal to 82. So this model works quite well. It's gonna have a couple of places where it's not exactly fitting the data, but it fits it quite, quite well. This is the linear model. So this one is linear. We also got the birch tree. So time equals zero, so
+fixed change in time. Alright, so we have a fixed change in time every time we are moving
+into the future, a decade. Let's see, our change in branches. We go from eight to 33. So what is that? That is plus 25 branches. Then we go from 33 to 128. Well that's way more than 25 branches. That's going to be what? Five less than 100. So that's gonna be plus 95 branches. So this clearly is not a linear model. And so let's think in terms
+of an exponential model. How much do we have to
+multiply to go from... Did I do that right? 128 minus, yeah, if it was 133 then it would be 100 and it's five less than that, okay. So now let's think about it in terms of an exponential model. In terms of an exponential model what do we have to multiply for each step? So if we have a constant step in time, what do we multiply for how much we increase our branches? So if we go to eight to 33, it's gonna be approximately four. It's gonna be a little bit more than four. 33 to 128, well that's gonna be a
+little bit less than four, but it's approximately four. 33 times four would be
+132, so we're close. 128 to 512, that's exactly four, right? That's exactly 120 times four is 480 plus 32, yup, that is exactly four. So times four. And so it looks like we
+keep multiplying by four every 10 years that go by. So one way to think about it is we could say here, BFT, the branches of T, our initial condition,
+our initial state is eight and now we could say our
+common factor is four. But if we want T to be in years, well every 10 years we
+multiply by a factor of four. So T has to go to 10 before we increase the exponent to one, or has to go to 20 until
+this exponent becomes two. So eight times four to the T over 10 power seems like a pretty good model. And you could even verify
+this for yourself if you like. Try out what B of 30 is going to be. B of 30 would be eight times four. 30 divided by 10 to the third power and what is that going to be? That's going to be four
+to the third is 64. 64. Eight times 64 is, it's 480 plus 32. It is 512. So once again, this exponential model for this data does a pretty good job.

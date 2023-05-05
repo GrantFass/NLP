@@ -1,0 +1,71 @@
+- So far you've seen the
+First Law of Thermodynamics. This is what it says. Let's see how you use it. Let's look at a particular example. This one says, let's say
+you've got this problem, and it said 60 joules of
+work is done on a gas, and the gas loses 150 joules
+of heat to its surroundings. What is the change in internal energy? Well, we're going to use the First Law. That's what the First
+Law lets us determine. The change in internal
+energy is going to equal the amount of heat
+that's added to the gas. So let's see, heat added to the gas. Well it says that the gas
+loses 150 joules of heat to its surroundings. So that means heat left of the gas so heat left the gas. This must have been put
+into a cooler environment so that heat could leave. And so it lost 150 joules. A lot of people just stick 150 here. It's got to be negative 150 because this Q represents the
+heat added to the gas, if you lost 150 joules,
+it's a negative 150. And then plus, all right
+how much work was done. It says 60 joules of work is done on a gas so that's work done on the gas. That means it's a positive contribution to the internal energy. That's energy you're adding to the gas. So 60 joules has to be positive, and so this is plus the work
+done is positive 60 joules. Now we can figure it out the
+change in internal would be negative 90 joules. But why do we care? Why do we care about the change in internal energy of the gas? Well here's something important. Whether it's a monatomic or
+diatomic or triatomic molecule the internal energy of the
+gas is always proportional to the temperature. This means if the temperature goes up, the internal energy goes up. And it also means if the
+internal energy goes up, the temperature goes up. So one thing we can say,
+just going over here, looking that the change in
+internal energy was negative. This means the energy
+went down by 90 joules. Overall when all is said
+and done, this gas lost 90 joules of internal energy. That means the temperature went down. That means this gas is going to be cooler when you end this process
+compared to when it started. Even though you added
+60 joules of work energy it lost 150 joules of heat energy. That's a net loss. The temperature is going to go down. So this is an important key fact. Whatever the internal energy does, that's what the temperature does. And it makes sense since
+we know that an increase in internal energy means an
+increase in translational kinetic energy, rotational kinetic energy, vibrational energy. That temperature is also a
+measure of that internal energy. Note that we cannot say exactly how low the temperature went. This is a loss of 90 joules but this doesn't mean
+a loss of 90 degrees. These are proportional. They're not equal. If I go down 90 joules that doesn't mean I go down 90 degrees. I would have to know more
+about the make up of this gas in order to do that. But the internal energy and the temperature are proportional. Let's try another one. Let's say a gas started with
+200 joules of internal energy and while you add 180
+joules of heat to the gas, the gas does 70 joules of work. What is the final internal
+energy of the gas? All right, so the change
+in internal energy equals Q. Let's see, gas starts with
+200 joules of internal energy, that's not heat. While you add 180 joules of heat, here we go, 180 joules should
+it be positive or negative? It's going to be positive. You're adding heat to that system. So positive 180 joules of heat are added plus the amount of work done on the gas, it says the gas does 70 joules of work. So most people would just
+do, all right, 70 joules. So there we go. But this is wrong. This is wrong because this is
+how much work the gas does. This W up here with the
+plus sign represents how much work was done on the gas. If the gas does 70 joules of work, negative 70 joules of
+work were done on the gas. You have to be really careful about that. So we can find the change
+in internal energy. In this case it's going to
+equal positive 110 joules. But that's not our answer. The question's asking us for the final internal energy of the gas. This is not the final
+internal energy of the gas. This is the amount by which
+the internal energy changed. So we know the internal energy went up, because this is positive and this is the change in internal energy. Internal energy went up by 110 joules. That means the temperature
+is also going to go up. So what's the final
+internal energy of the gas? Well, if the internal
+energy goes up by 110 joules and the gas started with 200 joules we know the final
+internal energy, U final, is just going to be 200 plus 110 is 310, or if you want to be
+more careful about it, you can write this out. Delta U, we can call U
+final, minus U initial. That's what delta U stands for. U final is what we want to find minus U initial is 200. So positive 200 joules was
+what the gas started with. Equals, that's the change
+and that's what we found, 110 joules. Now you've solved this for U final. You would add 200 to both
+sides and again you would get 310 joules as the final
+internal energy of the gas. Let's look at one more. Let's say you got this one
+on a test and it said that 40 joules of work are done on a gas, and the internal energy
+goes down by 150 joules. What was the value of the
+heat added to the gas? Note we're not solving for
+the internal energy this time or the change in internal energy. We're trying to solve for the heat. What's heat? Heat is Q. So this time we're going to
+plug in for the other two and solve for Q. What do we know? 40 joules of work are done on a gas, so this work has got to be a positive 40 because the work is done on
+the gas and not by the gas. And we know the internal
+energy goes down by 150 joules. It means the change in internal energy has to be negative 150. So if I plug in here my delta U, since my internal energy went down by 150, delta U is going to be negative 150. Q we don't know so I'm just going to
+put a variable in there. Q I don't know. I'm just going to put a Q in there. I'm going to name my ignorance and I'm going to solve for it. Plus the work done. We know the work done was 40
+joules and it's positive 40. Positive 40 because work
+was done on the gas. Now we can solve for Q. The amount of heat. The value of the heat added
+to the gas is going to be, if I move my 40 over here I
+subtract it from both sides, I'm going to get negative 190 joules. This means a lot of heat left. 190 joules of heat left the system in order for it to make
+the internal energy go down by 150 joules. And that makes sense. 40 joules of work were added. But we said the internal energy went down. That means the heat has to take away not only the 40 that you
+added but also another 150 to make the energy go down
+overall so the heat taken away has to be negative 190 joules. All right, so those were a few examples of using the First Law. Basically, you've got to be
+careful with your positive and negative signs. You've got to remember
+what these things are that Q is the heat, W is the work, delta U is the change in the internal energy which don't forget that
+also gives you an idea of what happens to the temperature.

@@ -1,0 +1,74 @@
+- [Instructor] So let's say you're running some kind of company and
+you guys produce widgets. You produce some little trinket
+that people enjoy buying and the main costs that
+you have are labor, the workers that you have
+creating these and steel. And let's just say that your labor costs are $20 per hour, $20 each hour and then your steel costs are $2,000. Keep the numbers kind of
+related to each other. $2,000 for every ton of steel. And then you've had your
+analysts work a little bit on trying to model the
+revenues you can make with your widgets as a function of hours of labor and tons of steel. Now let's say the revenue model
+that they've come up with. The revenue as a function
+of hours of labor and then S for steel, let's say, is equal to about 100
+times the hours of labor to the power of 2/3 multiplied by the tons of steel to the power of 1/3. If you put in a given amount of labor and a given amount of steel,
+this is about how much money you're gonna expect to earn. And of course you wanna
+earn as much as you can plus you actually have
+a budget for how much you're able to spend on all these things. And your budget is $20,000. You're willing to spend $20,000 and you wanna make as
+much money as you can, according to this model based on that. Now this is exactly the kind of problem that the Lagrange multiplier
+technique is made for. We're trying to maximize
+some kind of function and we have a constraint. Now right now the constraint
+isn't written as a formula, but we can pretty easily
+write as a formula. Because what makes up our budget? Well, it's gonna be the number of hours of labor multiplied by 20, so that's gonna be $20 per hour multiplied by the number
+of hours you put in plus $2000 per tons of steel times the tons of steel that you put in. So the constraint is basically that you have to have these guys equal $20,000. I mean you could say less than, you could say you're not willing
+to go any more than that, but intuitively and in reality, it's gonna be the case that in order to maximize your revenues, you
+should squeeze every dollar that you have available and
+actually hit this constraint. So this right here is the
+constraint of our problem. And let's go ahead and
+give this guy a name, the function that we're
+dealing with a name. And I'm gonna call it g of h,
+s, which is gonna be that guy. And now if you'll remember
+in the last few videos, the way we visualize something like this, is to think about the set
+of all possible input, so in this case, you might be
+thinking about the h s plane, the number of hours of labor on one axis, the number of tons of steel on another. And this constraint, well, in this case, it's a linear function, so this
+constraint is gonna give us some kind of line that tells
+us which pairs of s and h are gonna achieve that constraint. And then the revenue function that we're dealing with will
+have certain contours. Maybe revenues of $10,000 have a certain contour that looks like this and revenues of $100,000
+have a certain contour that looks like this. But what we want is to find which value is barely touching the constraint curve. Just tangent to it at a given point cause that's gonna be the contour line, where if you up the value
+by just a little bit, it would no longer
+intersect with that curve, there would no longer be values of h and s that satisfy this constraint. And the way to think about
+finding that tangency is to consider the vector perpendicular to the tangent line to
+the curve at that point, which fortunately is
+represented by... (mumbles) Make some room for myself here. Represented by the gradient,
+the gradient of our r function, the function whose contour's
+this is, the revenue. And what it means for this to be tangent to the constraint line is that there's gonna be another vector, the gradient of g, of
+our constraint function, that points in the same direction, that's proportional to that. And typically the way you write this is to say that the
+gradient of this function is proportional to the gradient of g and this proportionality constant is called our Lagrange multiplier. It's called the Lagrange multiplier. So, let's go ahead and
+start working it out. Let's first compute the gradient of r. So the gradient of r is gonna
+be the partial derivative of r with respect to its first
+variable, which is h, so partial derivative with respect to h. And the second component
+is its partial derivative with respect to that second
+variable, s, with respect to s. And in this case, that
+first partial derivative, if we treat h as a variable
+and s as a constant, then that 2/3 gets brought down, so that'll be 100 times 2/3
+times h to the power of, well, we've gotta subtract one from 2/3 when we bring it down, so
+that'll be negative 1/3 multiplied by s to the 1/3. And then the second component here, the partial derivative with respect to s, is gonna be 100 times, well now, by treating s as the variable, we take down that 1/3, so that's 1/3, h to the 2/3 just looks like a constant as far as s is concerned
+and then we take s to the 1/3 minus 1, which is negative 2/3. Great, so that's the gradient of R. And now we need the gradient of g. And that one's a lot easier, actually, cause g is just a linear function. So when we take the gradient of g, which is its partial derivative, with respect to h, partial
+h, and its partial derivative with respect to s, partial s. Well, the partial with
+respect to h is just 20. The function looks like
+20 times h plus something that's a constant so
+that ends up being 20. And then the partial with respect to s, likewise is just 2,000,
+cause it's just some constant multiplied by s plus
+a bunch of other stuff that looks like constants. So that's great, and this means when we set the gradient of
+r equal to the gradient of g, the pair of equations that we get, here let me just write it all out again, is we have this top one,
+which I'll call 200/3 times, and let's go ahead and
+do a little simplifying while I'm rewriting things here. So h to the 1/3 is really one
+over, h to the negative 1/3, sorry, is one over h to the
+1/3, that's s to the 1/3. So all of this, that first component, is being set equal to the first component of the gradient of g, which is 20 times lambda, times this
+Lagrange multiplier, cause we're not setting the
+gradients equal to each other, we're just setting them
+proportional to each other. So that's the first equation
+and then the second one, I'll go ahead and do some simplifying while I rewrite that one also. That's gonna be 100/3
+and then h to the 2/3 so times h to the 2/3
+divided by s to the 2/3 cause s to the negative 2/3 is the same as 1 over s to the 2/3. All of that is equal
+to 2,000 times lambda. And the important thing
+it's that same lambda, because the entire vector
+has to be proportional. And I think right here's
+probably a pretty good point to stop and in the next video, I'll go ahead and work through the details and we'll land on a solution.

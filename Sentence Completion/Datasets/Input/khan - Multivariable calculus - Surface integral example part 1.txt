@@ -1,0 +1,182 @@
+What we will attempt to start
+to do in this video is take the surface integral
+of the function x squared over
+our surface, where the surface in question,
+the surface we're going to care about is
+going to be the unit sphere. So it could be
+defined by x squared plus y squared plus z
+squared is equal to 1. And what I'm going to focus on
+in this first video, because it will take us several
+videos to do it, is just the parameterization of
+this surface right over here. And as you'll see, this
+is often the hardest part because it takes a little
+bit of visualization. And then after that,
+it's kind of mechanical, but it can be kind of
+hairy at the same time. So it's worth going through. So first, let's think about
+how we can parameterize-- and I have trouble
+even saying the word. How we can parameterize
+this unit sphere as a function of two parameters. So let's think about it. Let's think about
+it a little bit. So first, let's just think
+about the unit sphere. I'm going to take a side
+view of the unit sphere. So let's take the unit sphere. So this right over
+here is our z-axis. That's our z-axis. And then over here,
+I'm going to draw-- this is going to be not
+just the x or the y-axis. This is going to be entire
+xy-plane viewed from the side. That is the xy-plane. Now, our sphere,
+our unit sphere, might look something like this. The unit sphere itself is
+not too hard to visualize. It might look
+something like that. The radius-- let me
+make it very clear. The radius at any point is 1. So this length right
+over here is 1. That length right
+over there is 1. And this is a sphere,
+not just a circle. So I could even shade
+it in a little bit, just to make it clear
+that this thing has some dimensionality to it. So that's shading it in. It kind of makes it look a
+little bit more spherical. Now, let's attempt
+to parameterize this. And as a first step,
+let's just think. If we didn't have to think
+above and below the xy-plane, if we just thought about where
+this unit sphere intersected the xy-plane, how we
+could parameterize that. So let's just think about it. So where it intersects
+the xy-plane. It intersects it there, and
+there, and actually everywhere. So it intersects it
+right over there. So let's just draw
+the xy-plane and think about that intersection,
+and then we could think about
+what happens as we go above and below the xy-plane. So on the xy-plane, this little
+region where we just shaded in. So let me draw. So now you could view
+this as almost a top view. The z-axis is now going to be
+pointing straight out at you, straight out of the screen. So that's x. So let me draw it. So that's x, and then this
+right over there is y. So this thing that we
+were viewing sideways, now we're viewing
+it from the top. And so now our unit
+sphere is going to look something like
+this viewed from above. What I just drew, this dotted
+circle right over here, this is going to be where
+our unit sphere intersects-- I labeled that y. That should be x. Don't want to
+confuse you already. Let me clear that. So this is our x-axis. This is our x-axis. So this little
+dotted blue circle, this is where our unit sphere
+intersects the xy-plane. And so using this,
+we can start to think about how to parameterize
+at least our x- and y-values, our x- and
+y-coordinates, as a function of a first parameter. So the first
+parameter, we can think of something that is-- so this
+is the z-axis popping straight out at us. So we're essentially,
+if we're rotating around that z-axis viewed from above,
+we could imagine an angle. I will call that angle
+s, which is essentially saying how much we're
+rotating from the x-axis towards the y-axis. You could think about
+it in the xy-plane or in a plane that is
+parallel to the xy-plane. Or you could say, going
+around the z-axis. The z-axis popping
+straight up at us. And the radius here is always 1. It's a unit sphere. So given this
+parameter s, what would be your x- and y-coordinates? And now we're thinking
+about it right if we're sitting
+in the xy-plane. Well, the x-coordinate--
+this goes back to the unit circle definition
+of our trig functions. The x-coordinate is
+going to be cosine of s. It would be the radius, which
+is 1, times the cosine of s. And the y-coordinate would
+be 1 times the sine of s. That's actually where we get our
+definitions for cosine and sine from. So that's pretty
+straightforward. And in this case, z is
+obviously equal to 0. So if we wanted to add our
+z-coordinate here, z is 0. We are sitting in the xy-plane. But now, let's think
+about what happens if we go above and
+below the xy-plane. Remember, this is
+in any plane that is parallel to the xy-plane. This is saying how we are
+rotated around the z-axis. Now, let's think about if
+we go above and below it. And to figure out how
+far above or below it, I'm going to introduce
+another parameter. And this new parameter I'm
+going to introduce is t. t is how much we've rotated
+above and below the xy-plane. Now, what's
+interesting about that is if we take any other cross
+section that is parallel to the xy-plane now, we are
+going to have a smaller radius. Let me make that clear. So if we're right over there,
+now where this plane intersects our unit sphere, the
+radius is smaller. The radius is smaller
+than it was before. Well, what would
+be this new radius? Well, a little bit
+of trigonometry. It's the same as this
+length right over here, which is going to
+be cosine of t. So the radius is going
+to be cosine of t. And it still works
+over here because if t goes all the way to
+0, cosine of 0 is 1. And then that works
+right over there when we're in the xy-plane. So the radius over here
+is going to be-- so that right over
+there is cosine of 0. So this is when t is equal to 0. And we haven't rotated
+above or below the xy-plane. But if we have rotated
+above the xy-plane, the radius has changed. It is now cosine of t. And now we can use that to truly
+parameterize x and y anywhere. So now, let's look at
+this cross section. So we're not necessarily
+in the xy-plane, we're in something that's
+parallel to the xy-plane. And so if we're up here,
+now all of a sudden, the cross section-- if
+we view it from above, might look something like this. It might look
+something like this. We're viewing it from
+above, this cross section right over here. Our radius right over
+here is cosine of t. And so given that--
+I guess altitude that we're at, what would now
+be the parameterization using s of x and y? Well, it's the exact same
+thing, except now our radius isn't a fixed 1. It is now a function of t. So we're now a
+little bit higher. So now, our
+x-coordinate is going to be our radius,
+which is cosine of t. That's just our radius. Times cosine of s. Times cosine of s, how
+much we've angled around. And in this case, s has gone
+all the way around here. S has gone all the
+way around there, so it's going to be cosine
+of t times cosine of s. And then, our
+y-coordinate is going to be our radius, which is
+cosine of t times sine of s. Same exact logic here, except
+now we have a different radius. Our radius is no longer 1. Times sine of s. I'm running out of space,
+let me scroll to the right a little bit. And I know this
+looks very confusing, but you just have to say,
+at any given level we are, we're parallel to the x-axis. We're kind of tracing
+out another circle where another plane intersects
+our unit sphere. We're now then
+rotating around with s. And so our radius will change. It's a function of how
+much above and below we've rotated-- how much
+above or below the xy-plane we've rotated. So this is just our
+radius instead of 1. And then, s is how much we've
+rotated around the z-axis. Same there for the y-coordinate. And then the z-coordinate
+is pretty straightforward. It's going to be
+completely a function of t. It's not dependent on how
+much we've rotated around here at any given altitude. It is what our
+altitude actually is. Now, we can go straight to
+this diagram right over here. Our z-coordinate is just
+going to be the sine of t. So our z is equal to sine of t. So let me write that down. So the z is going to
+be equal to sine of t. So now, every point
+on this sphere can be described as a
+function of t and s. Now, we have to think
+about over what range will they be defined. Well, s is going to go-- at any
+given level, you could think. For any given t, s is going
+to go all the way around. We see that right over here. At any given level
+viewed from above, s is going to go
+all the way around. So thinking about
+in radians, s is going to be between 0 and 2 pi. And t is essentially our
+altitude in the z-direction. So t can go all
+the way down here, which would be
+negative pi over 2. So t can be between
+negative pi over 2. And it can go all the
+way up to pi over 2. It doesn't need to go all
+the way back down again. And so it goes all the way
+back-- it goes only up to pi over 2. And then we have our
+parameterization. Let me write this down
+in a form that you might recognize even more. If we wanted to write our
+surface as a position vector function, we could
+write it like this. We could write it r is
+a function of s and t, and it is equal to
+our x-component. Our i-component is going to
+be cosine of t cosine of s i. And then plus our y-component
+is cosine of t sine of s plus our z-component,
+which is the sine-- which is just-- oh, I
+forgot our j vector. j plus the z-component, which
+is just sine of t sine k. And we're done. And these are the ranges that
+those parameters will take on. So that's just the first step. We've parameterized
+this surface. Now we're going to
+have to actually set up the surface integral. It's going to involve
+a little bit of taking a cross product,
+which can get hairy, and then we can actually
+evaluate the integral itself.

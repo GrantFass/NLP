@@ -1,0 +1,138 @@
+In the last few videos, we've
+been approximating the area under the curve using
+rectangles, where the height of each
+rectangle was defined by the function evaluated
+at the left boundary. So this would have been
+the first rectangle. Then the second rectangle
+would look something like this. And then we'd go all the
+way to the nth rectangle would look something like that. And we saw-- so this
+is the first rectangle, this is the second
+rectangle, and we'd go all the way to
+the nth rectangle-- and so we saw that the way that
+you would take the sum of all of these rectangles in order
+to approximate the area is that you would get the
+sum from i equals 1 to n. And so i is essentially a
+count of which rectangle we're dealing with. And what we're going
+to do is multiply the height times the base. So the height of each rectangle,
+the height of rectangle one, in this case, was the
+function evaluated at x0. The height of rectangle two was
+the function evaluated at x1. The height of rectangle
+n was the function evaluated at x sub n minus 1. So the height of
+a rectangle i is going to be the function
+evaluated x sub i minus 1. If i is 2, then we're
+evaluating it at x1. If i was 2, then this would be
+the function evaluated at x1. So it's the left boundary. And then we have to
+multiply it times the width. And in the last few
+videos, and in this video, we will assume that all of the
+rectangles have equal width. Now, we'll call that
+equal width delta x. And to find it, we just have
+to take the total distance that we're going
+in the x direction. So it's going to be
+b minus a divided by the number of
+rectangles we want. So it's going to
+be times delta x. Now, you might imagine that
+this is not the only way to take the sum
+using rectangles, or this is not the only
+way to take the sum or approximate the area using
+some type of geometric shape. For example, we could
+have created rectangles where the height is defined
+by the rightmost boundary. So let's define that. So here's our first rectangle. And we're defining the
+height by the right boundary of the rectangle. So this right over
+here is rectangle one, and its height is f of x1. And then for this
+one right over here, we take the right boundary. The right boundary
+defines that height. If we go all the
+way to the-- this is rectangle two-- if we
+go all way to the nth one, we use the right
+boundary to define the height of the rectangle. So in this case-- this
+is the nth rectangle-- how would we write this sum? Well, it would be
+the sum-- which is, remember, we're just
+trying to approximate the area under the curve-- from
+i is equal to 1 to n. So i is a count of
+each of the rectangles. And so the height of the
+first rectangle is f of x1. The height of the nth
+rectangle is f of x sub n. So this height right over
+here is f of x sub n. So the height of
+the i-th rectangle is going to be f of x sub i. Whatever the
+rectangle number is, we take the x sub
+that same number and evaluate the function there. That gives us the height. And we multiply
+that times delta x. So the difference between
+this and this here, for the i-th
+rectangle, we use x sub i minus 1, so the left boundary. Here we use the right
+boundary, f of x sub i. Well, we don't
+have to stop there. Instead, we could use maybe
+the midpoint between the two boundaries instead. So, for example,
+over here we could we could use the midpoint
+between x0 and x1 to find the height
+of the rectangle. So this is right over here. This is f of x0
+plus x1 over 2, just the midpoint between
+these two points, to define the height
+of the rectangle. So it would look
+something like that. And the next one, we
+would look at the midpoint to define the height. And we go all the
+way to the nth one, and we define the
+midpoint between its two sides of the rectangle. So the function
+evaluated there tells us how high our
+rectangle should be. And it would look
+something like that. And so what would
+this sum look like? Well, once again, we would
+count each of our rectangles, so i equals 1 to
+i equals n. i is which rectangle
+we're working on. So this is the first one,
+this is the second one, and this is the nth one. And the height isn't just
+going to be f evaluated x sub i minus 1 or
+f evaluated x sub i. It'll be the function
+evaluated at the midpoint between the two-- x sub
+i minus 1 plus x sub i, all of that over two,
+and then times delta x. The delta x's are the same in
+every one of these scenarios. Now finally, let's try to
+break out of approximating only with rectangles and get a
+little bit more creative. Why don't we try to
+approximate with trapezoids? So let's try to do that. So what we could have here is
+the left part of the trapezoid. The height is f of x sub 0. So this is f of x sub 0. And then the right side of
+the trapezoid is f of x sub 1. And then what would be
+the-- here, and let me do that for all of them. So that would be
+the first trapezoid. Then the second trapezoid
+would look like this. This one looks almost
+like a rectangle, but we assume that the
+top isn't completely flat. And then we go all the
+way to the nth one. And this should be clear that
+we're dealing with a trapezoid. All the way to the nth one
+will look something like that. So how would we
+calculate this area, the area of the trapezoid? Well, you just have to remember
+that the area of a trapezoid is just the average of
+the heights of the two sides times the base. So in this case-- and let me
+write it out a little bit. So the area right
+over there is going to be the average
+of the heights. So it's going to be f of
+x sub 0 plus f of x sub 1, all of that over 2. And then we're going to
+multiply that times delta x. So that would be the area just
+of this one right over here. We took the average
+of the two heights and multiplied that
+times the base. Now, if we wanted the sum of the
+areas of all these trapezoids, and we wanted to write
+in general terms, we could just write it's
+the sum-- once again, we're going to count
+the trapezoids. So this is the first
+trapezoid, this is the second, all the way to
+the nth trapezoid. So it's i equals
+1 to i equals n. And the height of
+each trapezoid, we're going to use the function
+evaluated at the left boundary, x sub i minus 1, the average
+of the function evaluated at the left boundary
+and the function evaluated at the right
+boundary, and we're going to take the
+average of that and then multiply
+that times the base. So the whole reason
+why I wanted to do this is to show you there's
+multiple, multiple ways of doing this. And in fact, if you wanted
+to get really general, you could even have
+different widths. But then that gets a
+little bit more confusing. But really, just to
+show you that you might see some of this fancy
+notation in your calculus book or in your precalculus book. But all it's doing is summing
+up the areas of trapezoids and rectangles depending
+on whether they're using the right boundaries
+of the rectangle to define the height, the
+left boundaries, the midpoint of the left and the
+right boundaries, or they could even
+construct trapezoids.

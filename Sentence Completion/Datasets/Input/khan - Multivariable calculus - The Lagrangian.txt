@@ -1,0 +1,143 @@
+- [Lecturer] All right, so
+today I'm gonna be talking about the Lagrangian. Now we talked about Lagrange multipliers. This is a highly related concept. In fact, it's not really
+teaching anything new. This is just repackaging
+stuff that we already know. So to remind you of the setup, this is gonna be a constrained
+optimization problem setup so we'll have some kind
+of multivariable function. F of x, y, and the one
+I have pictured here is, let's see, it's x squared times e to the y times y so what I have shown here is a contour line for this function. So that is, we say what
+happens if we set this equal to some constant, and we ask
+about all values of x and y such that this holds, such that this function
+outputs that constant, and if I choose a different constant, and that contour line can
+look a little bit different, it's kinda nice that it has similar shapes so that's the function, and
+we're trying to maximize it. The goal is to maximize this guy, and of course, it's not just that. The reason we call it a
+constrained optimization problem is 'cause there's some kind of constraint, some kind of other function, g of x, y. In this case, x squared plus y squared, and we want to say that this has to equal some specific amount. In this case, I'm gonna
+set it equal to four. So we say you can't look at any x, y to maximize this function. You are limited to the values of x and y that satisfy this property, and I talked about this in
+the last couple of videos, and kind of the cool thing
+that we found was that you look through the various
+different contour lines of f, and the maximum will be
+achieved when that contour line is just perfectly parallel
+to this contour of g, and you know, a pretty classic example for what these sorts of things could mean, or how it's used in
+practice is if this was, say a revenue function
+for some kind of company. You're kind of modeling your revenues based on different choices you could make running that company, and the constraint that
+you'd have would be, let's say a budget so
+I'm just gonna go ahead and write budget or B for budget here so you're trying to maximize revenues, and then you have some
+sort of dollar limit for what you're willing to spend, and these, of course, are just
+kind of made-up functions. You'd never have a budget
+that looks like a circle and this kind of random
+configuration for your revenue but in principle, you
+know what I mean, right? So the way that we took advantage
+of this tangency property, and I think this is pretty clever. Let me just kind of redraw it over here. You're looking at the point
+where the two functions are just tangent to each
+other is that the gradient, the gradient vector for
+the thing we're maximizing, which in this case is
+R, is gonna be parallel or proportional to the gradient
+vector of the constraint, which in this case is B,
+is gonna be proportional to the gradient of the constraint, and what this means is that
+if we were going to solve a set of equations, what you set up is you compute that gradient of R, and it'll involve two
+different partial derivatives, and you set it equal
+not to the gradient of B 'cause it's not necessarily equal to the gradient of B but it's proportional with some kind of
+proportionality constant, lambda. That's kind of a squarely lambda. Lambda. That one doesn't look
+good either, does it? Why are lambdas so hard to draw? Right, that looks fine. So the gradient of the revenue is proportional to the
+gradient of the budget, and we did a couple of examples of solving this kind of thing. This gives you two separate equations from the two partial derivatives, and then you use this right
+here, this budget constraint as your third equation,
+and the Lagrangian, the point of this video,
+this Lagrangian function is basically just a way to
+package up this equation along with this equation
+into a single entity so it's not really adding new information, and if you're solving things by hand, it doesn't really do anything for you but what makes it nice is
+that it's something easier to hand a computer, and
+I'll show you what I mean. So I'm gonna define the Lagrangian itself, which we write with this kind
+of funky looking script, L, and it's a function with the same inputs that your revenue function or the thing that you're
+maximizing has along with lambda, along with that Lagrange multiplier, and the way that we define it, and I'm gonna need some extra room so I'm gonna say it's equal to, and kinda define it down here, the revenue function or whatever it is that you're maximizing, the
+function that you're maximizing minus lambda, that Lagrange multiplier so that's just another
+input to this new function that we're defining multiplied
+by the constraint function, in this case, B evaluated at x, y minus whatever that constraint value is. In this case, I put in four
+so you write minus four. If we wanted to be more general, maybe we would write b for
+whatever your budget is so over here, you're
+subtracting off little b so this here is a new
+multivariable function, right? It's something where you
+could input x, y, and lambda, and just kind of plug it all in, and you'd get some kind of value, and remember b, in this
+case, is a constant so I'll go ahead and write that that this right here is
+not considered a variable. This is just some constant. Your variables are x, y, and lambda. And this would seem like a
+totally weird and random thing to do if you just saw it out of context, or if it was unmotivated
+but what's kind of neat, and we'll go ahead and
+work through this right now is that when you take this, is that when you take the
+gradient of this function called the Lagrangian, and
+you set it equal to zero, that's gonna encapsulate all
+three equations that you need, and I'll show you what I mean by that. So let's just remember the gradient of L, that's a vector. That's got three different components since L has three different inputs. You're gonna have the
+partial derivative of L with respect to x. You're gonna have the
+partial derivative of L with respect to y. And then finally the
+partial derivative of L with respect to lambda,
+our Lagrange multiplier, which we're considering
+an input to this function. And remember whenever we write
+that the vector equals zero, really we mean the zero vector. Often you'll see it in
+bold if it's in a textbook but what we're really saying is we set those three different functions, the three different partial
+derivatives all equal to zero so this is just a nice like
+closed form, compact way of saying that all of
+its partial derivatives is equal to zero, and let's go ahead and think about what those
+partial derivatives actually are. So this first one, the
+partial with respect to x, partial derivative of the
+Lagrangian with respect to x. It's kinda funny. Now you have all these curly symbols, the curly d, the curly l. It makes it look like you're
+doing some truly advanced math but really it's just kind of
+artificial fanciness, right? But anyway so we take
+the partial derivative with respect to x, and
+what that equals is well, it's whatever the partial derivative of R with respect to x is
+minus, and then lambda. From x's perspective, lambda
+just looks like a constant. So this can be lambda. And then this inside the parenthesis, the partial derivative of
+that with respect to x, well, it's gonna be whatever
+the partial derivative of B is with respect to x but
+subtracting off that constant, that doesn't change the derivative so this right here is the
+partial derivative of lambda with respect to x. Now if you set that equal to zero. I don't know. I've kind of run out of
+room on the right here but if you set that equal to zero, that's the same as just saying
+that the partial derivative of R with respect to x equals lambda times the partial derivative
+of B with respect to x, and if you think what's gonna happen when you unfold this property, the gradient of R is
+proportional to the gradient of B written up here. That's just the first
+portion of this, right? If we're setting the gradients equal, then the first component of that is to say that the partial derivative of R with respect to x is equal to lambda times the partial derivative
+of B with respect to x. And then if you do this for y, if we take the partial derivative of this Lagrangian function with respect to y, it's very similar, right? It's gonna be, well, you just
+take the partial derivative of R with respect to y. In fact, it all looks just identical. Whatever R is, you take
+as partial derivative with respect to y, and
+then we subtract off. Lambda looks like a constant
+as far as y is concerned, and then that's multiplied by, well, what's the partial derivative of this term inside the parenthesis with respect to y? Well, it's the partial
+of B with respect to y. And again, again, if you imagine
+setting that equal to zero, that's gonna be the same as setting this partial derivative term equal to lambda times this
+partial derivative term, right? You kind of just bring
+one to the other side. So this second component of our Lagrangian equals zero equation is just the second
+function that we've seen in a lot of these examples
+that we've been doing where you set one of the gradient vectors proportional to the other one, and the only real difference here from stuff that we've seen already, and even then it's not that different is that what happens when we
+take the partial derivative of this Lagrangian with respect to lambda, and I'll go ahead and give it that kind of green lambda color here. Well, when we take that
+partial derivative, if we kinda look up with the
+definition of the function, R, R never has a lambda in it, right? It's purely a function of x and y so that looks just like a constant when we're differentiating
+with respect to lambda so that's just gonna be zero when we take its partial derivative. And then this next
+component, B of x, y minus b, all of that just looks like a constant as far as lambda is concerned, right? There's x's, there's y,
+there is this constant b but none of these things
+have lambdas in them so when we take the partial derivative with respect to lambda, this just looks like some big
+constant times lambda itself. So what we're gonna get is I guess we're subtracting off, right? Up here, we're kind of
+writing a minus sign. We're subtracting off all the stuff that was
+in those parenthesis, B of x, y minus b, that constant. And this whole thing, if we set that whole thing equal to zero, well, that's pretty much the same as setting B of x, y
+minus b equal to zero, and that, that's really
+just the same as saying, "Hey, we're setting B of x, y "equal to that little b," right? Setting this partial
+derivative of the Lagrangian with respect to the Lagrange
+multiplier equal to zero boils down to the constraint, right? The third equation that we need to solve. So in that way, setting the gradient of this Lagrangian function equal to zero is just a very compact way of packaging three separate
+equations that we need to solve the constrained
+optimization problem, and I'll emphasize that in practice, if you actually see a function for R for the thing that you're maximizing, and a function for the budget,
+it's much better I think to just directly think about
+these parallel gradients, and kind of solve it from there because if you construct the Lagrangian, and then compute its gradient, all you're really doing
+is repackaging it up only to unpackage it again but the point of this, kind of the reason that this is a very useful construct is that computers often
+have really fast ways of solving things like this, things like the gradient of
+some function equals zero, and the reason is because
+that's how you solve unconstrained maximization
+problems, right? This is very similar
+to as if we just looked at this function L out of
+context, and we're asked, "Hey, what is its maximum value? "What are the critical
+points that it has?" And you said it's gradient equal to zero. So kind of the whole
+point of this Lagrangian is that it turns our
+constrained optimization problem involving R and B and this
+new made-up variable lambda into an unconstrained optimization problem where we're just setting the
+gradient of some function equal to zero so computers can
+often do that really quickly so if you just hand the
+computer this function, it will be able to find you an answer whereas it's harder to say, "Hey computer, "I want you to think about when
+the gradients are parallel, "and also consider this
+constraint function." It's just sort of a cleaner
+way to package it all up. So with that, I'll see you next video where I'm gonna talk
+about the significance of this lambda term, how it's
+not just a ghost variable but it actually has a
+pretty nice interpretation for a given constrained problem.

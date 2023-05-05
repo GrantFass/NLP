@@ -1,0 +1,103 @@
+- Let's see how to determine the number of expected signals in an NMR spectrum. And the best way to do this is just to do a lot of practice problems, and we'll start with methane. Methane has four protons
+in the same environment. Therefore, we say those four protons are chemically equivalent,
+and we would expect to see only one signal on our NMR spectrum. So, for methane, we would
+expect to see one signal, because all four protons
+are chemically equivalent. If we move on to propane,
+this carbon right here has two protons on it,
+and these two protons are in the same environment. Therefore, they are chemically equivalent, and we would expect to see only one signal for these two protons. If we look at these protons over here, so let me go ahead and draw them in, so these methyl protons. These methyl protons are in
+their own environment here, so we would expect one signal
+for these methyl protons. But for a molecule like this, you need to think about symmetry. So, if I draw a line right
+here, it's easy to see that these three protons are in the same environment as these. So really, really we have six protons in the same environment. So these six protons are
+chemically equivalent, and we would expect to see
+one signal for all six. So, for propane, we would expect to see a total of two signals. Alright, let's move on to this one. So let's draw in our protons here. Let's just go ahead and
+draw in all of them, first. So we're drawing in all
+of the protons, alright? So we have these methyl protons here, and then right here, we have
+a proton on this carbon, and then we have all of these protons. So, a lot of them. Let's focus in on the
+methyl protons first. These methyl protons here
+are in their own environment, and that environment is the same as all of these methyl protons. They're all in the exact same environment. They're all right next to a
+carbon with a hydrogen on it. And so, we would expect to see only one signal for all these protons. So one signal for the magenta protons. Alright, so again, think about symmetry. Think about the symmetry of this. And then, if I look at
+this proton right here, right, this is in a different environment from the magenta protons, but it's in the same
+environment as this proton. So we would expect one signal
+for these red protons, here. So, one signal for the red protons. So a total of two
+signals for the molecule. Alright, let's do some more examples. Let's look at this one next, alright? We have a carbon right here
+with two protons on it. And these two protons are
+in the same environment. They're chemically equivalent. These two protons are
+next to this oxygen here. We know oxygen is more
+electronegative than carbon, so oxygen is going to withdraw
+some electron density. And so, these two protons are
+in a different environment from these two protons. These two protons right here, let me go ahead and change
+colors, these two protons in red are further away from the oxygen, so they're in a different environment. So we'd expect one signal
+from the protons in red, and we would expect one signal
+from the protons in yellow. Alright, we still have our methyl protons. Let me go ahead and draw those in. So we have three protons
+over here on this carbon. They're further away from the oxygen. They're in their own environment, right? They're chemically equivalent. So, one signal expected for these protons. Finally, don't forget about
+the proton right here, the proton on the oxygen. So, that's in its own environment, so we would expect one
+signal for that proton. So, really, a total, if
+you count them all up, a total of four signals. So, we would expect four signals. Not sure why I put an S
+on here, only one signal. So, a total of four for this alcohol. Let's look at this alcohol down here. So, we have these two protons, right? And these protons over here, and these protons over here. So let's think about that. Symmetry helps for an example like this. These two protons are
+in the same environment. They're between two CH2's,
+so we would expect one signal for these protons, so they're
+chemically equivalent. Let's look at these protons
+next, so these, right here, are next to a CH2. They're also next to an OH. That's the exact same environment
+as these protons, right? They're next to a CH2 and next to an OH. So, if you think about
+symmetry right here, we'd expect only one signal, only one signal for these four protons. And then, finally, we still
+have the proton on the oxygen, and once again, symmetry
+helps us think about the fact that this proton is in the same
+environment as this proton, so we would expect one signal there. So a total of three expected
+signals for this molecule. Alright, let's move on to this compound over here on the right. And we can see there's a
+chiral center right here on this carbon, and there
+therefore must be a hydrogen, a proton, on that carbon. So, let's go ahead and
+draw in all our protons and then let's analyze them, here. So we have three protons on this carbon. On this carbon right
+here, we have two protons. And I'm drawing them in
+with a wedge and a dash because we're gonna need to
+think about those two protons. And then over here, we
+have three, like that. Alright, so let's think about how many different signals
+we're going to get. In the past, let me go back and
+use a different color, here, we talked about a CH2 group, right? And we didn't have any chiral centers, like these two protons right here. We didn't have any chiral
+centers in this molecule. These two protons are,
+generally, equivalent. But if I think about over
+here, I have a chiral center at this carbon, and that's going to affect these two protons. These two protons are no
+longer chemically equivalent, alright, because a
+chiral center is present. So in general, if a
+chiral center is present, the two protons on a methylene
+group, on a CH2 group, are generally not equivalent. So, we would expect two different signals. So this one might give us one signal, and I'll put that in magenta. So, one signal here. And this one, we would
+expect a different signal. They're in slightly
+different environments, because of this chiral
+center that is present. Alright, so let's keep on
+going, and let's figure out how many more signals we would expect. So, over here, we have these three protons are chemically equivalent,
+and they're in their own unique environment, so we would expect one signal for those
+three protons, alright? And those are in a different environment from these over here, so we would expect one signal for these. So for a methyl group,
+methyl protons are always in the same environment, so
+they're chemically equivalent. So you don't have to worry about them. And then let's see, what
+else do we have here? We have the proton on the oxygen, so we would expect one signal for that. And then, finally, we're going to have, let's see, what color
+should I choose here, let's go with orange. We still have a proton right here in its own unique environment, so we would expect one
+signal for that proton. So, how many total signals do we expect? Let's count them up. One, two, three, four, five, and six, so a total of six expected
+signals for this alcohol. Alright, let's move on
+to a benzene ring, here. Let's look at benzene. And we know that benzene
+has six protons, right? So I could draw in the six protons, here. And those six protons are all
+in the exact same environment. They're all chemically equivalent. And sometimes it's easier to just go ahead and draw your circle in here, and that just helps you to see that these protons are equivalent. It allows you to see the
+symmetry a little bit better. So, again, thinking about symmetry, all six protons are in
+the same environment. Therefore, we would expect only one signal for benzene on an NMR spectrum. Let me go ahead and write that here. So only one signal for benzene, because all six protons
+are chemically equivalent. Move over here to this
+molecule down here, alright? So, let's think about what we have. We have a methyl group
+here, a methyl group here, so that's three protons, three protons for each methyl group. And those protons are in the
+same environment, alright? So, these three protons
+on this methyl group are in the same environment
+as these three protons. They're right next to an oxygen, which is right next to this benzene ring. So, next to an oxygen
+next to a benzene ring. And so, we'd expect
+only one signal, right? Only one signal for these
+six protons right here. If you look at our ring, we
+know that there's a proton here. We know that there's a
+proton here, a proton here, and a proton here. And, if we think about those protons, they're all in the exact same environment. So if I think about,
+let's say, this proton. This proton is next to
+CH with a double bond. It's next to a carbon
+right here with an oxygen. This is in the same
+environment as this one, right? This one's in the exact same
+environment this one is, this one is, so again,
+symmetry helps you realize that all four protons are
+in the same environment. They're chemically equivalent. Therefore, one signal. So, we would expect to see two signals. We would expect to see two signals for this molecule on an NMR spectrum. Finally, let's just, for fun, let's just look at cubane, here. So one of the most interesting
+molecules, in my opinion. There are eight protons on cubane. Cubane is just this cube here. And these eight protons
+are all equivalent, right? So if you think about it, if
+you just rotated this cube, you wouldn't be able to
+tell the difference, here. So we have eight protons, all equivalent, therefore only one signal. So, cubane's NMR should
+have only one signal on it. So that's hopefully some
+insight into how to look at a dot structure, and how to figure out how many signals you would expect to see on your NMR spectrum.

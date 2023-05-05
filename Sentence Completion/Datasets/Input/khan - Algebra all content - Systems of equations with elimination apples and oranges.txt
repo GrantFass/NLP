@@ -1,0 +1,76 @@
+You've gone to a fruit stand
+to get some fresh produce. You notice that the
+person in front of you gets 5 apples and
+4 oranges for $10. You get 5 apples and
+5 oranges for $11. Can we solve for the price
+of an apple and an orange using this information
+in a system of linear equations
+in two variables? If yes, what is the solution? If no, what is the
+reason we cannot? So we're trying to figure
+out the price of an apple and the price of an orange. So I would use a for apple, but
+I don't like using o for orange because o looks too
+much like a zero. So I'll just say x for apples. Let's let x equal
+the price of apples. And let's let y equal
+the price of oranges. So let's describe what
+happened to the person in line in front of us. They bought 5 apples. So how much did they
+spend on apples? Well, they bought 5 apples
+times x dollars per apple, so they spent 5x dollars
+on their 5 apples. And they bought 4 oranges. They bought 4 oranges
+times y dollars per orange. So they spent 4y on oranges. So the total amount that
+they spent is 5x plus 4y. And they tell us
+that this is $10. This is equal to $10. Now, you get in line,
+and you buy 5 apples. So you buy 5 apples, just
+like the guy in front of you. And you paid x
+dollars per apple. So you're going to pay 5 apples
+times the price per apple. This is the amount that
+you spend on apples. And then you buy 5 oranges. So you're going to pay 5 oranges
+times the price per orange, which is y. So this is how much
+you spend on oranges. This is how much you spend on
+apples and oranges, the sum. And they tell us
+that this is $11. So can we solve
+for an x and a y? And it looks like we can. And a big giveaway
+right over here is the ratio between the x's and
+the y's in these two equations are different. So we're getting some
+information here. If the ratios were
+exactly the same, if this was 5x plus
+4y right over here, and we got a different number,
+then we would be in trouble. Because we bought
+the same combination, but we got a different price. But the good thing is is that
+we have a different combination here. So let's see if we
+can work it out. Now, the most obvious
+thing that jumps out at me is that I have a 5x here, and
+I have a 5x right over here. So if I could subtract
+this 5x from that 5x, then I would cancel
+out all of the x terms. So what I'm going
+to do is I'm going to multiply this bottom
+equation by negative 1. So it becomes negative
+5x plus negative 5y is equal to negative 11. And then I'm going
+to essentially add both of these equations. And I could do that
+because I'm doing the same thing to both sides. I already know that this
+thing is equal to this thing. So I'm just adding those
+things to either side. So on the left hand
+side, I have 5x minus 5x. Well, those cancel out. And then I have 4y minus 5y. Well, that's negative y. And that's going to be
+equal to 10 minus 11, which is negative 1. And then if we multiply
+both sides of this times negative 1, or divide
+both sides by negative 1, we're going to get
+y is equal to 1. So just like that, we
+were able to figure out the price of oranges. It's $1 per orange. So this is equal to 1. Now let's figure out
+the price of apples. So we can go back into
+either 1 of these equations. I'll go back into this first 1. So 5 times-- so let's go to the
+person in line in front of us. They bought 5 apples
+at x dollars per apple, plus 4 oranges at $1 per orange,
+and they spent a total of $10. So this of course is just 4. Let's subtract 4
+from both sides, and we get-- well, 4 times 1
+minus 4, that just cancels out. We're just going to be left
+with 5x on the left hand side. And on the right hand
+side, we have 10 minus 4, which is equal to 6. And we can just divide both
+sides by 6 now in order to solve for x. Oh, sorry. We can divide both sides by
+5 in order to solve for x. It's late in the day. Brain isn't working. Dividing by 6 wouldn't
+have done anything. We would have gotten 5/6x. We just want to get an x here. So dividing both sides by 5, we
+get x is equal to 6/5 dollars. Or you could say that
+x is equal to 6/5, which is the same
+thing as 1 and 1/5, which is the same
+thing as $1.20. So it's $1 per orange,
+and $1.20 per apple. So we absolutely
+could figure out the prices of apples and oranges
+using the information given.

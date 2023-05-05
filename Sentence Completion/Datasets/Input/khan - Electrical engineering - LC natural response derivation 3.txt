@@ -1,0 +1,60 @@
+- [Voiceover] In the last
+video we took a guess at what the solution was for our
+differential equation and we came up with an exponential as
+our guess and as we did the analysis we developed a
+characteristic equation. We ended up with a complex
+answer for one of the adjustable parameters, the
+natural frequency of our circuit. So here's the form of
+our proposed solution, now this is getting kinda
+complicated but I promise you we're gonna simplify this pretty soon. We have two solutions for s, s
+one and s two that we plugged in as plus and minus j omega naught, and we have more adjustable
+amplitude parameters that we have to figure out. So now in this video we're
+gonna continue on solving our differential equation, this
+is our proposed solution, this is a pretty complicated
+looking expression and what we're gonna call on
+here now is something really important in electronics and
+in general and it's called Euler's Identity. And we're gonna use this
+identity to figure out what to do with these complex exponential terms. So if you search on this term
+on Kahn Academy you'll find an explanation of where
+these identities come from but I'm just gonna state 'em right here. And what it says is that
+Euler's identitiy is e to the j x anything up
+there equals cosign x plus j times sine x, that's one of the identities and the other identity is
+e to the minus j x equals cosign of x minus j sine x. So these are useful because
+we have this exponential function with the complex
+unit inside of it, when we go over to this side, this is sort of a normal complex number, cosign x is some number
+between plus and minus one, sine x is some number
+between plus and minus one, and it's just a normal complex number so this may help us
+simplify our life here as we move forward. So that's a really important
+identity that we get to use to solve our LC circuit. Now I'm gonna go back and
+rewrite these two exponential's using Euler's Identity here. This is gonna get big but it'll
+collapse down pretty soon. Okay, let me move over here,
+i equals k one times e to the plus j omega t let's use this
+one here so that would be cosign x is omega naught t
+plus j sine x is omega naught t and we use the first one. Okay, now the second term is
+plus k two times now we have the negative up in the
+exponent so we use this one cosign omega naught t minus
+j sine omega naught t. Now we have our solution spread
+all out across the screen and let's see if we can
+tidy things up here. So what I'm gonna do is I'm
+gonna gather all the cosign terms together, this one and this one and then I'll gather
+the sine terms together. Okay so i equals cosign omega
+naught t, and the cosign is multiplied by k one
+and plus k two alright. Now let's add to that we have j sine and j sine so
+I'll write sine omega naught t over here and j times what,
+j times k one and this time we have this minus sign
+that makes it minus k two, alright so now, current is
+some number times cosign plus j times some number times sine. Now these are two arbitrary
+constants and I'm just gonna make up another one, I'm
+just call this one a one we'll call this one a
+two and we'll call that, I'll use the j, k one minus k two, now I can rewrite this as i equals a one cos mega naught t plus a two sine omega naught t, good. So from now on we're
+gonna work with these a's and if I ever want to know
+what the original k's were I would just come back
+to these equations here, once I figure out a, I can
+figure out both the k's. So let's keep pressing on, how do we figure out a one and a two? Well to do that we're gonna
+use the initial conditions, the ic's. And if we think back we
+remember that in our original schematic we had some q
+here which means we had a plus or minus v zero, v
+naught, and we said the current through here started at zero. So that's our initial conditions, v of time equals zero equals v naught and current of time
+equals zero equals zero. Let's use these two values
+to help us figure out what a one and a two are. And we'll do that in the
+next video as we continue the derivation of the natural response.

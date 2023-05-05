@@ -1,0 +1,111 @@
+Let's say we have a pipe again--
+this is the opening-- and we have fluid going
+through it. The fluid is going with a
+velocity of v1, the pressure entering the pipe is P1, and
+then the area of this opening of the pipe is A1. It could even go up, and
+the other end is actually even smaller. The fluid-- the liquid-- is
+exiting the pipe with velocity v2, the pressure that it
+exerts as it goes out. If there was a membrane on the
+outside, how much pressure would it exert on it as it
+pushes it out on the adjacent water is P2, and the area of
+the smaller opening-- it doesn't have to be
+smaller-- is A2. Let's say that this opening is
+at a height, on average, of h1, and the water exiting this
+opening is on average at a height of h2. We won't worry too much about
+the differential between the top of the pipe and the bottom
+of the pipe-- we'll assume that these h's are much
+bigger relative to the size of the pipe. With that set up-- and remember,
+there's fluid going through this thing-- let's go
+back to what keeps showing up, which is the law of conservation
+of energy, which is in any closed system, the
+amount of energy that you put into something is equal to
+the amount of energy that you get out. So energy in is equal
+to energy out. What's the energy that you put
+into a system, or that the system starts off with
+at this end? It's the work that you input
+plus the potential energy at that point of the system, plus
+the kinetic energy at that point of the system. Then we know from the
+conservation of energy that that has to equal the output
+work plus the output potential energy plus the output
+kinetic energy. A lot of times in the past,
+we've just said that the potential energy input plus the
+kinetic energy input is equal to the potential energy
+output plus the kinetic energy output, but the initial energy
+in the system can also be done by work. So we just added work to this
+equation that says that the energy in is equal to
+the energy out. With that information, let's
+see if we can do anything interesting with this pipe
+that I've drawn. So what's the work that's being
+put into this system? Work is force times distance,
+so let's just focus on this. It's the force in times the
+distance in, and so over a period of time, t, what
+has been done? We learned in the last video
+that over a period of time, t, the fluid here might have
+moved this far. What is this distance? This distance is the input
+velocity times whatever amount of time we're dealing with, so
+T-- so that's the distance. What's the force? The force is just pressure times
+area, and we can figure that out by just dividing
+force by, area and then multiply by area, so we get
+input force divided by area input, times area input. It's divided and multiplied by
+the same number-- that's pressure, that's area. It's equal to the input distance
+over that amount of time, and that's velocity times
+time, so the work input is equal to the input pressure
+times the input area times input velocity times time. What is this area times velocity
+times time, times this distance? That's the volume of fluid
+that flowed in over that amount of time. So that equals the volume of
+fluid over that period of time, so we could call that
+volume in, or volume i-- that's the input volume. We know that density is just
+mass per volume, or that volume times density is equal
+to mass, or we know that volume is equal to mass
+divided by density. The work that I'm putting into
+the system-- I know I'm doing a lot of crazy things, but it'll
+make sense so far-- is equal to the input pressure
+times the amount of volume of fluid that moved over
+that period of time. That volume of fluid is equal to
+the mass of the fluid that went in at that period of time,
+and we'll call that the input mass, divided
+by the density. Hopefully, that makes a
+little bit of sense. As we know, the input volume
+is going to be equal to the output volume, so the input
+mass-- because the density doesn't change-- is equal to the
+output mass, so we don't have to write an input and
+output for the mass. The mass is going to be
+constant; in any given amount of time, the mass that enters
+the system will be equivalent to the mass that exits
+the system. There we go: we have an
+expression, an interesting expression, for the work being
+put into the system. What is the potential energy
+of the system on the left-hand side? The potential energy of the
+system is going to be equal to that same mass of fluid that I
+talked about times gravity times this input height-- the
+initial height-- times h1. The initial kinetic energy of
+the fluid equals the mass of the fluid-- this mass right
+here, of that same cylinder volume that I keep pointing to--
+times the velocity of the fluid squared. We remember this from kinetic
+energy divided by 2. So what's the total energy at
+this point in the system over this period of time? How much energy has gone
+into the system? It's going to be the work
+done, which is the input pressure-- I'm running out
+of space, so let me erase all of this. I'll probably have to run out of
+time, too, but that's OK-- it's better than
+being confused. Back to what we were doing. So, the total energy going into
+the system is the work being done into the system,
+and I rewrote it in this format, which is the input
+pressure-- we'll call that P1-- times the mass divided by
+the density of the liquid, whatever it is. This is work in plus-- and
+what's the potential energy? I wrote it right here-- that's
+just mgh, where m is the mass of this volume of fluid, h is
+its average height, and you could almost think of how high
+the center of mass above the surface of the planet. Since we have a g here, we
+assume we're on Earth, so this is h1, because the height
+actually changes, so this is potential energy input plus
+the kinetic energy mv1 squared over 2. That is the kinetic
+energy input. We know that this has
+to equal the energy coming out of the system. This is going to be equal
+to the same thing on the output side. This is going to be equal to
+the work out, so that'll be the output pressure times the
+mass divided by the density plus the output potential
+energy, which will just be mg h2, plus the outbound kinetic
+energy, which will be mv2 squared divided by 2. I just realized I'm
+out of time. I will continue this
+in the next video. See you soon.

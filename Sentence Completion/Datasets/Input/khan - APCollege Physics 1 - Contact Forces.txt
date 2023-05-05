@@ -1,0 +1,102 @@
+- [Instructor] There are
+a lot of different types of forces in physics, but for the most part, all forces can be
+categorized as either being a contact force or a long range force. So contact forces as the name suggests requires the two objects that are exerting a force on each other to be touching or in contact. So tension, the normal
+force, frictional forces, these are all common everyday
+examples of contact forces. So, you know, this wire from this crane can exert a contact force
+i.e. attention force on the wrecking ball but that wire can only exert that tension
+force on the wrecking ball if the wire is actually connected to i.e. touching the wrecking ball, if you forgot to tie the
+wire to the wrecking ball, that wire is not gonna exert any tension on the wrecking ball. So these contact forces are
+to be distinguished from long range forces. Sometimes these are called
+action at a distance forces because they can be exerted on objects that are far
+away from each other, so gravity is a common example, the earth can exert a
+gravitational force on the moon even though the earth and
+the moon aren't touching. So that's a group long range force. Similarly, the electric force
+can exert a repulsive force on two charges if they're not touching, so not a contact force, and magnets can attract each other even if they're not touching, so those are all long range or
+action at a distance forces. But I'll be honest with you here, this distinction is not
+nearly as fundamental as it might seem at first. All of these forces that
+we call contact forces are really just an enormous
+number of long range forces in disguise. In other words, these contact
+forces, tension, normal force and friction are all arising
+microscopically due to a bunch of long range forces acting over really short distances. So just cause they're
+called long range forces doesn't mean they can't exert
+force over small distances, and in fact, all those forces arise, you know, cause all these forces to arise. So let me go through and explain
+how all these come about. So we'll start with tension here. Where does tension come from? Well, tension is the
+force exerted by a wire or a cable or a string,
+something like that. And so these strings, they're made out of atoms and molecules, I'm trying to represent that over here. Your string is probably
+more than three atoms wide, but I didn't wanna have to
+draw an enormous number here, so I imagine you've got
+a certain number of atoms and molecules in your string, well, these atoms and molecules
+are all bonded together, chemically bonded together, those are all electromagnetic bonds here, they don't wanna move away from
+their equilibrium position, they have a position and if
+they get displaced from there, they wanna go back to that spot. So that's what it means
+to be in a solid here. So this wire, if you connect
+to a heavy load to it like a wrecking ball, that wrecking ball is gonna
+try to rip these atoms and molecules apart, it's gonna try to pull
+them away from each other, but they don't wanna move
+away from each other, in other words, they try
+to restore themselves as this distance between these atoms and molecules gets bigger, and it does, you'll stretch
+your string or your wire sometimes imperceptibly, but a little bit, these distances get bigger, that force holding them
+together gets bigger, so more tension force occurs and this is the microscopic
+origin of that tension force. These atoms and molecules
+wanna restore themselves to their previous length and to do that they have to
+pull harder and harder. Now, this won't last forever, you hang a heavy enough load over here, you'll overwhelm these
+electromagnetic bonds and you'll rip these molecules apart and that's what happens
+when your string breaks. So that's the microscopic
+origin of tension but you don't have to draw an
+Avogadro's number of arrows, we just represent the
+tension with one arrow up, it turns out you can pretty much summarize all of those microscopic
+electromagnetic chemical bonds with one arrow that we call tension. So how about the normal force,
+where does that come from? Well, this is kind of the opposite. Tension is a pulling force, the normal force is the force
+that tries to prevent two objects from getting
+smashed into each other. So now instead of the atoms and molecules trying to get ripped apart, the atoms and molecules
+in this green box here due to its weight are
+trying to get shoved into the atoms and molecules this table, so I've tried to represent that here, again, the box and the
+table are made out of more than these number of atoms and molecules, but you've got your atoms
+molecules of the box, atoms and molecules of the table, they won't get moved into each other, there's gonna be an electron cloud around these atoms and
+molecules of the box and similarly for the table, there's gonna be an
+electromagnetic repulsion when they try to overlap and other quantum mechanical effects, it turns out it's surprisingly
+complicated to explain why matter is solid and it
+can't penetrate each other, but the enormous number of
+electromagnetic interactions and other quantum mechanical
+effects between these atoms and molecules are
+the microscopic origin of the normal force. So again, it's, you know,
+action at a distance over a small scale, which really bugs people out,
+they're like, wait a minute, are two things ever actually touching? You know, as you sit in a chair, do the atoms and molecules of your pants actually physically touch? Hard to actually define
+what it means touching here, you know, you've got these
+amorphous electron clouds, how do you define
+whether they're touching? Hard to do, but good news,
+we don't have to do it, we can actually just
+summarize microscopically all of these microscopic interactions as one big normal force and that helps us both calculationally and conceptually knock it to at last here. Now, you might be disturbed here, you might be like, wait a minute, this whole video is about contact forces, you're telling me, we don't even know if two
+surfaces are in contact, well, I'm saying it's hard to define but here's a good way to define it, your pants, atoms and molecules are contacting the seat's
+atom molecules as soon as you notice that force preventing them from
+moving into each other. So as soon as you could
+detect this normal force, that's as good a way as any to define two surfaces
+as being in contact. So let's look at some other forces. So how about the frictional force? What are the microscopic
+origins of the frictional force? Well, you know, the frictional
+force is the force that resist two surfaces from being
+dragged across each other. Why is there a resistive force? Well, if you zoomed in on these surfaces, a table, no matter how smooth it looks, even if you just wiped it down, if you zoomed in close enough, you'd be shocked at all the little crevices and cracks and valleys involved, the whole world you don't know about unless you look at it microscopically, and similarly for this purple
+box, maybe it's cardboard, if you zoomed in microscopically, again, it's astonishing how
+not smooth those surfaces are. So obviously, if you tried
+to drag one across the other and these are bumping into each other, these hills and valleys are
+running into each other, that's gonna be a problem that's gonna cause a resistive force. You might break this, you
+know, yellow hill off, sometimes they just bust off, yep, that's gonna be a
+resistive cause of friction. Sometimes they don't bust off, maybe they just like bend and bounce back but even if they do, still gonna cause a frictional force and add to this friction, and it's not just that
+but sometimes even like the atoms and molecules
+in the surface over here, look, this pot doesn't look too bad, it looks like they could
+slide across each other pretty well, but there can be adhesion
+like molecular bonds that form between those atoms and molecules
+that are near each other, that can also contribute to friction. So again, astonishingly complicated, there's actually lots of
+questions to still be answered in studying friction, and the study of friction
+is called tribology. Shockingly, a lot of
+questions to this day but, the good news is you can summarize all of those microscopic
+interactions as one force we call friction that resists the two surfaces from
+sliding over each other. So you don't have to do
+a lot of calculations and microscopically
+zoom in on the surface, we can pretty much account for all of it by simply drawing it as
+one big resistive force of friction backwards. So recapping, contact
+forces are those forces that require the two objects
+interacting to be touching for that force to occur, but we've seen that these
+contact forces are actually due to a mind bogglingly large
+number of long range forces all acting over a very short distance, but you can summarize all
+those long range forces as a single contact force when doing most introductory
+physics problems.

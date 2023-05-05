@@ -1,0 +1,27 @@
+- [Instructor] Anush is
+playing a carnival game that involves two free throws. The table below displays the
+probability distribution of X, the number of shots that
+Anush makes in a set of two attempts, along with
+some summary statistics. So here's the random variable X it's a discrete random variable. It only takes on a finite number of value, sometimes you can say
+it takes on a countable number of values. We see we can either
+make zero free throws, one, or two of the two. And the probability that
+he makes zero is here, one is here, two is here. And then they also give us the mean of X and the standard deviation of X. Then they tell us if the
+game costs Anush $15 to play and he wins $10 per shot he makes, what are the mean and standard
+deviation of his net gain from playing the game N? All right, so let's define
+a new random variable N. Which is equal to his net gain. Net gain. We can define N in terms of X. What is his net gain going to be? Well let's see, N, it's
+going to be equal to 10 times however many shots he makes. So it's gonna be 10 times X. And then no matter what,
+he has to pay $15 to play. Minus 15. In fact, we can set up a little table here for the probability distribution of N. So, let me make it right over here. So I'll make it look just like this one. N is equal to net gain. And here we'll have the probability of N. And there's three outcomes here. The outcome that corresponds
+to him making zero shots, well that would be 10 times zero minus 15. That would be a net gain of negative 15. And would have the same probability, 0.16. When he makes one shot,
+the net gain is gonna be 10 times one minus 15 which is, negative five. Which is going to have
+the same probability. He has a 48% chance of making one shot. And so it's a 48% chance
+of losing five dollars. And then last, but not least, when X is two his net gain
+is gonna be positive five. Plus five. And so this is a 0.36 chance. So what they want us to figure out are, what are the mean and standard deviation of his net gain? So let's first figure out the mean of N. Well, if you scale a random variable the corresponding mean is going to be scaled by the same amount. And if you shift a random variable the corresponding mean is gonna be shifted by the same amount. So the mean of N is gonna be 10 times the mean of X minus 15. Which is equal to 10 times 1.2 minus 15. 1.2. So there's 12 minus 15 which is equal to negative three. Now the standard deviation of N is gonna be slightly different. For the standard
+deviation, scaling matters. If you scale a random
+variable by a certain value you would also scale
+the standard deviation by the same value. So this is going to be equal to 10 times the standard deviation of X. Now you might say, what
+about the shift over here? Well, the shift should
+not affect the spread of the random variable. If you're scaling the
+random variable, well, your spread should grow by the amount that you're scaling it. But by shifting it, it doesn't affect how much you disperse from the mean. So standard deviation is
+only affected by the scaling, but not by the shifting. So this is going to be 10 times 0.69 which is going to. This was an approximation. So I'll say this is approximately to 6.9. So this is our new
+distribution for our net gain. This is the mean of our net gain. And this is roughly the standard
+deviation of our net gain.

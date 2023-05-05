@@ -1,0 +1,321 @@
+Let's say I have a linear
+transformation T that's a mapping between Rn and Rm. We know that we can represent
+this linear transformation as a matrix product. So we can say that T of x, so
+the transformation T-- let me write it a little higher to save
+space-- so we can write that the transformation T
+applied to some vector x is equal to some matrix times x. And this matrix, since it's a
+mapping from Rn to Rm, this is going to be a m by n matrix. Because each of these entries
+are going have n components, they're going to be members of
+Rn, so this guy has to have n columns in order to be able
+to have this matrix vector product well defined. So we can go back to what we've
+been talking about now. In the last couple of videos,
+we've have been talking about invertibility of functions,
+and we can just as easily apply it to this transformation,
+because transformations are
+just functions. We just use the word
+transformations when we start talking about maps between the
+vector spaces or between sets of vectors, but they are
+essentially the same thing. Everything we've done
+the last two videos have been very general. I never told you what the set
+of our domain and the set of our co-domains were
+made up of. Now we're dealing with vectors,
+so we can apply the same ideas. So T is a mapping right
+here from Rn to Rm. So if you take some vector here,
+x, T will map it to some other vector in Rm. Call that Ax. If we take this matrix vector
+product right there and this is the mapping T right there. So let's ask the same questions
+about T that we've been asking in general
+about functions. Is T invertible? And we learned in the last
+video that there's two conditions for invertibility. T has to be onto, or the other
+way, the other word was surjective. That's one condition
+for invertibility. And then T also has
+to be 1 to 1. And the fancy word for that was
+injective, right there. So in this video, I'm going to
+just focus on this first one. So I'm not going to prove to you
+whether T is invertibile. We will at least be able to try
+to figure out whether T is onto, or whether it's
+surjective. So just as a reminder, what does
+onto or surjective mean? It means that you take any
+element in Rm, you take any element in your co-domain, so
+you give me any element in your co-domain-- let's call that
+element b; it's going to be a vector-- the fact, if T is
+surjective or if T is onto, that means that any b that you
+pick in our co-domain, there's always going to be some vector,
+at least one vector, in our domain. That if you apply the
+transformation to it you're going to get b. Or another way to think about
+it is the image of our transformation is all of Rm. All of these guys
+can be reached. So let's think about
+what that means. So we know that the
+transformation is Ax. It's some matrix A. So the transformation of x--
+I'll just rewrite it-- is equal to some matrix A-- that's
+an m by n matrix-- times the vector x. Now, if T has to be onto, that
+means that Ax, this matrix vector product, has to be equal
+to any member of our co-domain can be reached by
+multiplying our matrix A by some member of our domain. So what's another way of
+thinking about it? Another way of thinking about
+it is for any b, so onto, implies that for any vector b
+that is a member of Rm-- so any b here-- there exists at
+least one solution to a times x is equal to b. Where, of course, x is, the
+vector x is, a member of Rn. It's just another way of saying
+exactly what I've been saying in the first part
+of this video. You give me any b in this set,
+and then there has to be, if we assume that T is onto, or for
+T to be onto, there has to be at least one solution
+to Ax is equal to b. There has to be at least one x
+out here, that if I multiply it by A, I get to my b. And this has to be true for
+every, maybe I should write, for every instead of any. But they are the same idea. But, for every b in Rm, we have
+to be able to find at least one x that makes
+this true. So what does that mean? That means that A times x has
+to be equal to-- you can construct any member of Rm by
+taking a product of A and x, where x is a member of Rn,
+where x is a member here. Now what is this? If x is an arbitrary member of
+Rn, Let me write like this. We know that matrix A would
+look like this. It'll be a bunch of
+column vectors. a1, a2 and it has n columns,
+so it looks like that. That's what our matrix
+A looks like. So we're saying if you take this
+product, you have to be able to reach any guy,
+any member of Rm. Well, what does this product
+look like if where taking this product instead of writing
+an x there, I could write x like this. x1, x2, all the way to xn. So this product is going to be
+x1 times the first column vector of A, plus x2 times the
+second column vector of A, all the way to plus xn times the
+nth column vector of A. That's what this product is. And in order for T to be onto,
+this combination has to be equal to any vector in Rm. Well, what does this mean? These are just linear
+combinations of the column vectors of A. So another way to say that is
+for T to be onto, So for T to be surjective or onto, the
+column vectors of A have to span Rm, have to span
+our co-domain. They have to span
+this right here. You have to be able to get any
+vector here with a linear combination of these guys. Right? And the linear combination is
+set up because the weights are just arbitrary members
+of the real numbers. This vector is just a bunch
+of arbitrary real numbers. So for T to be onto, the span of
+a1, a2, all the way to an, has to be equal to Rm, has to
+be equal to your co-domain. That just means that you can
+achieve any vector in your co-domain with the linear
+combinations of the column vectors of this. What's the span of a matrices'
+column vectors? By definition that is the
+matrices' column space. So we could say, that means that
+the span of these guys have to be Rn, or another way
+is that the column space of A-- let me switch colors-- the
+column space of A has to be equal to Rm. So how do we know if
+a vector's column space is equal to Rm? So here, maybe it might be
+instructive to think about, when can we not find solutions
+to the equation Ax is equal to b? So whenever you're faced
+with this type of an equation, what do we do? We can set up an augmented
+matrix that looks like this, where you put A on this side,
+and then you put the vector b on the right-hand side. And then you, essentially,
+perform a bunch of row operations. You have to perform the entire
+rows in both cases, on both sides, and we've done
+this multiple times. Your goal is to get the
+left-hand side into reduced row echelon form. So what you want to do is,
+eventually, get your augmented matrix to look like this. Where the left-handed side is--
+let me define R, capital R, to be the reduced row
+echelon form of A. And we've done many
+videos on that. That's just, you have a matrix
+where you have your pivots and the pivot will be the only
+non-zero entry in its column. But not every column has
+to have a pivot in it. Maybe, you have a free column
+or non-pivot column and then they could have a
+bunch of 0's. And maybe this has a pivot. This would have to be 0 if
+there is a pivot there. These would have to be 0,
+and so on and so forth. And maybe the next pivot
+is right there. These would have to be 0,
+and you get the idea. You could have some columns
+the don't have pivots, but whenever you do have a pivot,
+they have to be the only non-zero entry in
+their column. This is reduced row
+echelon form. So, what we do with any matrix
+is we keep performing those row operations so that we
+eventually get it into a reduced row echelon form. And as we do that we are
+performing those same operations on the
+right-hand side. We're performing on
+the entire row of these augmented matrices. So this vector b right here, I
+guess I could write it as a vector, it's eventually going
+to be some other vector c right here. You know, if this is 1, 2, 3,
+maybe I will perform a bunch of operations and this
+will be 3, 2, 1, or something of that nature. Now, when does this not
+have a solution? We reviewed this early on. The only time where you don't
+have a solution, remember, there are three cases, where
+you have many solutions. and that's the situation where
+you have free variables. We've talked about
+that before. You have the case where you have
+only one unique solution, that's the other case. And then you have
+the final case where you have no solutions. And when do you have
+no solutions? What has to happen to
+have no solution? To have no solutions, when you
+perform these row operations, you have to eventually get to
+a point where your matrix looks something like this. I don't know what all this stuff
+looks like maybe there's a 1 here, a bunch of stuff. There is a 1 here and a 0. But if you have a whole row, at
+least one whole row of 0's, you just have a bunch
+of 0's like that. And over here you have something
+that is non-zero. This is the only time that
+you have no solution. So let's remember what
+we're even talking about this stuff for. We are saying that our
+transformation is onto, if its column vectors or if its column
+space is Rm, if its column vectors span Rm. And what I'm trying to figure
+out is how do I know that it spans Rm? So, essentially, for it to span
+Rm, you can give me any b here, any b that's a member of
+Rm, and I should be able to get a solution. So we asked ourselves the
+question, when do we not get a solution? Well, we definitely don't get a
+solution if we have a bunch of 0's in a row. And then we have something
+non-zero here. That's definitely not going
+to be a solution. Now there's the other case where
+we have a bunch of 0's. So there's the other case
+where we do have some solutions, where it's only
+valid for certain b's. So that's the case-- let
+me draw it like this. Let me start it like this. So let's say I have my matrix
+A, and I have my b1, b2, let me write it all the way,
+and then you have bm. Remember, this is
+a member of Rm. And we do our reduced row
+echelon form with this augmented matrix, and
+A goes to its reduced row echelon form. Let's say it's reduced row
+echelon form has a row of 0's at the end of it. So it just has a row
+of 0's right there. Everything else looks
+like your standard stuff, 1's and 0's. But the last row, let's say
+it's a bunch of 0's. And when we perform the row
+operations here on this generalized member of Rm, this
+last row has some function. Maybe it just looks like 2b1
+plus 3b2-- I'm just writing a particular case, it won't always
+be this-- minus b3. And it will essentially
+be some function of all of the b's. So let me write it this way. I'm writing a particular case
+in here, maybe I shouldn't have written a particular
+case. This will be some function of
+b1, b2, all the way to bm. Now, clearly if this
+is non-zero, we don't have a solution. And so if we don't have a
+solution for some cases of b, then we are definitely
+not spanning Rm. So, let me write that down. If we don't have a solution for
+some cases of b, then we don't span Rm. I don't know if I'm overstating
+something that is maybe obvious to you, but I
+really want to make sure you understand this. Anytime you just want to solve
+the equation Ax is equal to b-- and remember, we want to
+make sure that this can be true for any b we chose-- what
+we could do is we just set up this augmented matrix like this,
+and we perform a bunch of row operations until we get
+A, we get this matrix A to reduced row echelon form. As we do this, the right-hand
+side is going to be a bunch of functions of b. So maybe the first
+row is b1 minus b2, plus b4, or something. And then the next row will
+be something like that. We've seen examples of this in
+the past. And if you end up by doing the reduced row echelon
+form with a row of 0's here, the only way that you're going
+to have a solution is if your vector b, if its entries satisfy
+this function here on the right, so that this
+thing equals 0. So it's only going to be
+true for certain b's. And if this only has a solution
+for the certain b's that make this equal to 0, then
+we definitely are not spanning all of Rm. Let me do it visually. So if that is Rm, and if we
+put-- if this is only 0 for a couple of b's, for, let's say
+for some handful of b's, then these are the only guys that we
+can reach by multiplying A times some vector in Rm. And we definitely won't
+be spanning all of Rm. In order to span all of Rm, when
+we put this in a reduced row echelon form, we have to
+always find a solution. And the only way we are always
+going be finding a solution is if we don't run into this
+condition where we have a row of 0's. Because when you have a row 0's,
+then you have to put the constraint that this right-hand
+side has to be 0. So what's the only reduced row
+echelon form where you don't have a row of 0's at the end? Well, any row in reduced row
+echelon form either has to have all 0's or it has to have
+a pivot entry in every row. So the only way that you span--
+so T is onto, if and only if, it's the column space
+of its transformation vector is equal to Rm. Its column vectors
+span all of Rm. And the only way that that's
+happening is if the reduced row echelon form of A has a
+pivot entry in every row. And how many rows
+does it have? This is an m by n matrix. It has m rows and n columns. So it has a pivot entry
+in every row. That means that it has to have
+m pivot entries, right there. Now, what's another way of
+thinking about that? Remember, earlier on, several
+videos ago, we thought about how do you figure out-- and this
+might confuse things a little bit-- how do you
+figure out the basis for your column space? So the basis for the column
+space of a matrix, and this is a bit of review. What we did is we say, look, you
+take your matrix, and you put it in reduced row echelon
+form of your matrix, and then, essentially-- let me draw it a
+little bit different heree-- well, you put it in reduced
+row echelon form. So let's say that's just reduced
+row echelon form. And you look at which columns
+have pivot entries. And the corresponding columns in
+your original matrices, in your original matrix,
+forms the basis for your column space. So let me draw that out. So, I'll do a particular
+instance. So, let's say that it has its
+column vectors a1, a2, all the way to an. That's what A looks like. And when you put it in reduced
+row echelon form, let's say that this column right here
+has a pivot entry. That column has a pivot entry. Let's say that this
+one doesn't. Let's say this is a 2 there. I'm just picking particular
+numbers. Let's say there's a 3. Let's say all of these are
+non-pivot entries, and then our last entry n is
+a pivot entry. So it just has a bunch of 0's,
+and then a 1 like that. How do you determine what are
+the basis vectors for the column space? Well, obviously, the column
+space is everything that's spanned by all these guys. But, what's the minimum
+set you need to have that same span? Well, you look at which one
+has a corresponding pivot entries or pivot columns. And you say, I have a pivot
+column here, and I have a pivot column there. So the basis for my column space
+must be this column in my original matrix, and that
+column in my original matrix. And then we said, well, how do
+you define the dimension of it's column space? And you just essentially count
+the number of vectors you need for your basis, and we call
+that the rank of A. This is all review. The rank of A was equal to the
+dimension of the column space of A, which is equal to number
+of basis vectors for the column space. And this is how you
+determine it. You essentially figure out how
+many pivot columns you have, the number of pivot columns
+you have is the number of basis vectors you have,
+and so that's going to be the rank of A. Now, the whole reason why I
+talked about this is we just said that our transformation T
+is onto, if and only if, its column space is Rm, which is
+the case if it has a pivot entry in every row in its
+reduced row echelon form. Or, since it has m rows, it has
+to have m pivot entries. So for every row, you have a
+pivot entry, but every pivot entry corresponds to
+a pivot column. So if you have m pivot entries,
+you also have m pivot columns, which means that if you
+were to do this exercise right here, you would have m
+basis vectors for your column space, or that you would
+have a rank of m. So this whole video was
+just a big long way of saying that T is onto. And another way of saying that
+is that if you have your domain here, which was Rm, and
+you have your co-domain here, that is Rm, that every member
+of Rm can be reached by T by some member of Rn. Any guy here, there's always at
+least one guy here, that if you apply T to it, you
+get right there. There might be more than one. We're not even talking
+about 1 to 1 yet. So we say that T is onto, if and
+only if, the rank of its transformation matrix,
+A, is equal to m. So that was the big takeaway
+of this video. Let's just actually do an
+example, because sometimes when you do things really
+abstract it seems a little bit confusing, when you see
+something particular. Let me define some
+transformation S. Let's say the transformation S
+is a mapping from R2 to R3. And let's say that S applied to
+some vector x is equal to the matrix 1, 2, 3, 4, 5,
+6, times the vector x. So this is clearly
+a 3 by 2 matrix. Let's see if S is onto. Well, based on what we just did,
+we just have to go and put this guy in reduced
+row echelon form. So let's do that. So if you put this guy into
+reduced row echelon form, so let's keep 1, 2, 3, 4, 5, 6. Now, let's keep the first row
+the same, that's 1, 2. Let's replace the second row
+with the second row minus 3 times the first row. Actually, let's replace it with
+3 times the first row minus the second row. So, 3 times 1 minus 3 is 0. 3 times 2 minus 4, that's
+6 minus 4, is 2. Now let's replace the third
+row with 5 times the first row, minus the third row. So 5 times 1 minus 5 is 0. 5 times 2 is 10, minus 6 is 4. Now, let's see if we can
+get a 1 right here. So I'm going to keep my
+middle row the same. Or, actually, let's just divide
+the middle row by 2, or multiply it by 1/2 So, you
+get 0, 1 and then you have a 0, 4, 1, 2. And now let's try to make these
+0, get it into reduced row echelon form. So I'm going to keep my middle
+row the same, 0, 1. And let's replace the top row
+with the top row minus 2 times the second row. So 1 minus 2 times 0 is 1. 2 minus 2, times 1 is 0. Now, let's replace this last row
+with the last row minus 4 times this row. So we get 0 minus 4,
+times that, is 0. 4 minus 4, times 1, is 0. So notice, we have a
+row with 0's here. We have two pivot entries or two
+rows with pivot entries, and we also have two pivot
+columns right there. So the rank of this guy right
+here, of 1, 2, 3, 4, 5, 6. The rank of that is equal
+to 2, which is not equal to our co-domain. It is not equal to R3. It's not equal to R3, so S is
+not onto, or not surjective. It's one of the two conditions
+for invertibility. So, we definitely know that
+S is not invertible. Hopefully that's helpful. Now, in the next video we're
+going to focus on the second condition for invertibility,
+and that's being 1 to 1.

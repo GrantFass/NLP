@@ -1,0 +1,47 @@
+- [Instructor] What we're going to do in this video is start to think about how we describe position in one dimension as a function of time. So we could say our position, and we're gonna think about position on the x-axis as a function of time. And we could define it by some expression, let's say, in this situation, it is going to be our
+time to the third power minus three times our
+time squared plus five. And this is going to apply for our time being non-negative 'cause the idea of negative time, at least for now, is a bit strange. So let's think about what this right over here is describing. And to help us do that, we could set up a little bit of a table to understand that depending
+on what time we are, let's say that time is in seconds, what is going to be our
+position along our x-axis? So at time equals zero, x of
+zero is just going to be five. At time one, you're gonna have
+one minus three plus five. So that is going to be, let's see, one minus
+three is negative two, plus five is going to be, we're going to be at position three. And then at time two, we are going to be at eight minus 12 plus five, so we're going to be at position one. And then at time t equals three, it's gonna be 27 minus 27 plus five, we're gonna be back at five. And so, this can at
+least help us understand what's going on for the
+first three seconds. So let me draw our positive x-axis. So, say it looks something like that. And this is x equals zero. This is our x-axis. X equals one, two, three, four, and five. And now let's play out how this particle that's being described is
+moving along the x-axis. So we're gonna start here, and we're gonna go one, two, three. Let's do it again. We're going to go one, two, three, the way I just moved
+my mouse, if we assume that I got the time roughly right, is how that particle would move. And we can graph this as well. So for example, it would look like this. We are starting at time t equals zero. Our position, this is our
+vertical axis, our y-axis, but we're just saying
+y is going to be equal to our position along the x-axis. So that's a little bit counterintuitive because we're talking about our position in the left-right dimension, and here you're seeing it start off in the vertical dimension, but you see the same thing. At time t equals one, our
+position has gone down to three. Then it goes down further. At time equals two, our
+position is down to one. And then, we switch direction and then over the next, if we
+say that time is in seconds, over the next second, we get back to five. Now an interesting thing to think about in the context of calculus is, well, what is our velocity
+at any point in time? And velocity as you might remember, is the derivative of position. So let me write that down. So we're gonna be thinking about velocity as a function of time. And you could view velocity
+as the first derivative of position with respect to time which is just going to be equal to, or we're gonna apply the power rule and some derivative
+properties multiple times. If this is unfamiliar to you, I encourage you to review it. But this is going to be three t squared minus six t and then plus zero, and we're gonna restrict
+the domain as well for t is greater than or equal to zero. And then, we can plot that. It would look like that. Now let's see if this curve
+makes intuitive sense. We mentioned that one second, two seconds, three seconds. So we're starting moving to the left. And the convention is if
+you're moving to the left, you have negative velocity, and if you're moving to the right, you have positive velocity. And you can see here our velocity immediately gets more and more negative until we get to one second, and then it stays negative
+but it's getting less and less negative until
+we get to two seconds. And at two seconds, our
+velocity becomes positive. And that makes sense,
+because at two seconds was when our velocity switched directions to the rightward direction. So, our velocity is getting
+more and more negative, less and less negative, and
+then we switch directions and we go just like that. And we see it right over here. Now one thing to keep in mind when we're thinking about
+velocity as a function of time is that velocity and speed
+are two different things. Speed, speed, let me write it over here. Speed is equal to, if you think about it in one dimension, you could think about it as the absolute value of your velocity as a function of time or
+your magnitude of velocity as a function of time. So in the beginning,
+even though your velocity is becoming more and more negative, your speed is actually increasing. Your speed is increasing to the left, then your speed is
+decreasing, you slow down, and then your speed is increasing as we go to the right. And we'll do some worked examples that work through that a little bit more. Now the last concept we
+will touch on in this video is the idea of acceleration. And acceleration you can view as the rate of change of
+velocity with respect to time. So acceleration as a function of time is just going to be the first derivative of velocity with respect to time which is equal to the second derivative of position with respect to time. It's just going to be the
+derivative of this expression. So once again, using the power rule here, that's going to be six t. And then using the power rule here, minus six, and once again,
+we will restrict the domain. And we can graph that as well. And we would see right over here, this is y is equal to acceleration
+as a function of time. And you can see at time equals zero, our acceleration is quite negative. It is negative six. And then it becomes less
+and less and less negative. And then, our acceleration actually becomes positive at t equals one. Now, does that makes sense? Well, we're going one, two, three. You might say, "Wait, we
+didn't switch directions "until we get to the second second." But remember, after we
+get to the first second, our velocity in the negative direction becomes less negative which means that our acceleration is positive. If that's a little confusing, pause the video and
+really think through that. So, our acceleration is
+negative, then positive, and then positive continues. And so, this is just to
+give you an intuition. In the next few videos, we'll
+do several worked examples that help us dive deeper into this idea of studying motion and position, into this idea of studying
+motion in one dimension.

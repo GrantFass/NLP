@@ -1,0 +1,104 @@
+In the last video, we studied
+a super simplified economy that only sold one
+good or service. But now let's think about things
+a little bit more generally, or a little bit more
+complex economies. And let's say that in
+year one economists have determined that the
+level of prices of the goods and services produced
+in that economy is 100. So they've essentially
+just multiplied and divided by
+the right numbers, so that their index
+that they generate just says that that is 100. And they do this so that
+they can measure the prices in other years
+relative to year one. So let's say in year
+two, using their index, they realize that
+prices are now 110. Now, this is not a
+simple thing to do. This would have been
+a very simple thing to do if there was only one
+good or service in the economy, like in our last
+example, apples. You could have just taken
+the price of apples. It went from $0.50 to $0.55. In the real world, this is
+not a simple thing to do. You have a gazillion
+goods and services. Some prices go up. Some prices to go down. The quantities of the
+goods and services change. In fact, there might
+be goods and services that were offered
+in year one that don't exist anymore in year two. And there are goods and
+services in year two that didn't exist in year one. But for the sake of
+this video, let's just assume that economists
+are able to say this. If you call the general level
+of prices 100 in year one, it's now 110. Or another way to think
+about it is things have gotten 10% more expensive. Now, assuming that we know this
+relationship-- and once again, it's not an easy
+thing to figure out, and it actually turns out
+there's no perfect way to do this-- how
+can we figure out a relationship between
+real GDP and nominal GDP? And remember, whenever
+we talk about real GDP-- so we're going to talk
+about real GDP in year two-- whenever you talk
+about real GDP, you're talking
+about GDP in terms of the prices in some base year. So in this example, we'll
+think about real GDP in year two in terms
+of a year one dollars. So whatever were the
+goods and services that were produced in year two,
+we're going to think about, well, what if they were at the
+same prices as in year one? And that will give us
+the real GDP in year two. So one way to think about
+it is really just a ratio. So let me write nominal GDP. So this is GDP in
+year two, measured in year two dollars,
+divided by-- I guess we could call
+this a proportion, really-- divided by the
+real GDP in year two. And this is measured
+in year one dollars. Well, that's going
+to be the same thing as the ratio of the prices
+between year two and year one. This is going to be the ratio
+of-- we use this indicator right over here-- 110 to 100. And I want you to just sit and
+think about this for a second. It's just saying, look, these
+are measuring the same goods and services. The real GDP is measuring
+them in year one prices. The nominal GDP is measuring
+them in year two prices. So if things got
+10% more expensive between year one and
+year two, the nominal GDP should be 10% larger
+than real GDP. We should have the
+exact same ratios. And now we can manipulate this
+thing using any type of algebra that we want. For example, we could
+say, well, nominal GDP-- And I'll just write nominal now. This is where I
+kind of specified exactly what we're
+talking about. This is a nominal
+GDP of year two. So now we could say
+nominal GDP is equal to-- we can multiply both
+sides times the real GDP-- is equal to 110 over
+100 times the real GDP. And remember, this is
+nominal GDP in year two. This is real GDP in year two,
+measured in year one dollars. Or we can divide both
+sides of this equation by this 110 over 100. And then we get nominal
+GDP in year two divided by 110 over 100 is equal
+to real GDP in year two. This is nominal GDP in year two. And writing it this
+way kind of feels like you're taking your
+nominal GDP in year two, and there's been
+a general increase in the level of prices. That's called price inflation. We see that right over here. And now we're deflating
+it to get real GDP. We're dividing it by
+the ratio of the prices. We're dividing it essentially by
+how much the prices have grown, or I guess you could say the
+ratio between the year two prices and the year one prices. So this quantity right
+over here is 1.1. So another way you
+could think about it, we're deflating the
+nominal GDP in year two to get the real GDP in year two. We're getting it in, remember,
+this is in year one prices. And because of that, this
+number right over here is referred to as a deflator. This is our GDP deflator. You pick a base here, in
+this case, it was year one. That base year could
+have been 1985. It could've been 2006. Who knows what it could be. It could be anything. Your GDP deflator is going to
+be relative to that base year. It's going to say, well,
+if that base here was 100, your deflator's going to
+say how much things are now in this year. And you can even go
+backwards in time. Year zero, the deflator
+might have been 85, because maybe things
+have gotten cheaper. Or you could actually
+had prices go down. You could have
+actually had deflation. So maybe in year two your
+deflator would be at 98. But the reason why
+it's called a deflator is because generally you have
+inflation as time goes on, and generally you're going to
+be deflating your nominal GDP. You're going to be dividing it
+by a value greater than one. It's going to be something
+over 100 divided by 100, which is your base year,
+to get your real GDP.

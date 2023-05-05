@@ -1,0 +1,48 @@
+- [Instructor] One of the
+most commonly used tools in all of statistics is
+the notion of a Z-score. And one way to think about a Z-score is it's just the number
+of standard deviations away from the mean that
+a certain data point is. So let me write that down. Number of standard deviations. I'll write it like this. Number of standard deviations
+from our population mean for a particular, particular data point. Now let's make that a little bit concrete. Let's say that you're some
+type of marine biologist and you've discovered a new
+species of winged turtles and there's a total of
+seven winged turtles, the entire population of
+these winged turtles is seven. And so you go and you're actually able to measure all the winged turtles and you care about their
+length and you also wanna care about, how are
+those lengths distributed? Lengths of winged turtles. All right, and let's say, and
+this is all in centimeters. These are very small turtles. So you discover, and these are all adults. So there's a two centimeter one, there's another two centimeter one. There's a three centimeter one. There's another two centimeter one. There's a five centimeter
+one, a one centimeter one, and a six centimeter one. So we have seven data
+points and from this, and I encourage you at
+any point if you want. Pause this video and see
+if you wanna calculate, what is the population mean here? We're assuming that this is the population of all the winged turtles. Well, the mean in this situation
+is going to be equal to, you could add up all these
+numbers and divide by seven and you would then get three. And then using these
+data points and the mean you can calculate the
+population standard deviation. And once again, as review
+I always encourage you to pause this video and see
+if you can do it on your own. But I've calculated that ahead of time. The population standard
+deviation in this situation is approximately, I'll round
+to the hundredth place, 1.69. So with this information you
+should be able to calculate the Z-score for each of these data points. Pause this video and
+see if you can do that. So let me make a new column here. So here I'm gonna put our Z-score. And if you just look at the definition what you're going to do for
+each of these data points, let's say each data point is x, you're going to subtract
+from that the mean and then you're going to divide that by the standard deviation. The numerator right over
+here's gonna tell you how far you are above or below the mean, but you wanna know how
+many standard deviations you are from the mean,
+so then you'll divide by the population standard deviation. So for example, this first
+data point right over here if I wanna calculate the
+Z-score I will take two. From that I will subtract three and then I will divide by 1.69. I will divide by 1.69. And if you've got a calculator out this is going to be -1 divided by 1.69 and if you use a calculator you would get, this is going to be approximately -0.59. And the Z-score for this data
+point is going to be the same. That is also going to be -0.59. One way to interpret this is, this is a little bit more
+than half a standard deviation below the mean, and we could
+do a similar calculation for data points that are above the mean. Let's say this data point right over here. What is its Z-score? Pause this video and see
+if you can figure that out. Well, it's going to be six
+minus our mean, so minus three. All of that over the standard deviation. All of that over 1.69 and
+this, if you have a calculator, and I calculated it ahead of time, this is going to be approximately 1.77. So more than one, but less
+than two standard deviations above the mean. I encourage you to pause this video and now try to figure out the Z-scores for these other data points. Now, an obvious question that
+some of you might be asking is why, why do we care how
+many standard deviations above or below the mean a data point is? In your future statistical life, Z-scores are gonna be a really useful way to think about how usual or how unusual a certain data point is. And that's going to be really valuable once we start making
+inferences based on our data. So I will leave you there. Just keep in mind it's a very useful idea, but at the heart of it
+a fairly simple one. If you know the mean you
+know the standard deviation. Take your data point, subtract
+the mean from the data point and then divide by your
+standard deviation. That gives you your Z-score.

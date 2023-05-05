@@ -1,0 +1,103 @@
+In the last video, we
+showed that the ratios of the sides of a
+30-60-90 triangle are-- if we assume
+the longest side is x, if the hypotenuse is x. Then the shortest side is
+x/2 and the side in between, the side that's opposite
+the 60 degree side, is square root of 3x/2. Or another way to think about it
+is if the shortest side is 1-- Now I'll do the shortest side,
+then the medium size, then the longest side. So if the side opposite
+the 30 degree side is 1, then the side opposite
+the 60 degree side is square root of 3 times that. So it's going to be
+square root of 3. And then the hypotenuse
+is going to be twice that. In the last video,
+we started with x and we said that the
+30 degree side is x/2. But if the 30 degree
+side is 1, then this is going to be twice that. So it's going to be 2. This right here is the side
+opposite the 30 degree side, opposite the 60 degree side,
+and then the hypotenuse opposite the 90 degree side. And so, in general, if
+you see any triangle that has those ratios, you say hey,
+that's a 30-60-90 triangle. Or if you see a
+triangle that you know is a 30-60-90 triangle,
+you could say, hey, I know how to figure out
+one of the sides based on this ratio right over here. Just an example, if
+you see a triangle that looks like this, where the
+sides are 2, 2 square root of 3, and 4. Once again, the ratio of
+2 to 2 square root of 3 is 1 to square root of 3. The ratio of 2 to 4 is
+the same thing as 1 to 2. This right here must
+be a 30-60-90 triangle. What I want to introduce
+you to in this video is another important
+type of triangle that shows up a lot in geometry
+and a lot in trigonometry. And this is a 45-45-90 triangle. Or another way to
+think about is if I have a right triangle
+that is also isosceles. You obviously can't have a right
+triangle that is equilateral, because an equilateral triangle
+has all of their angles have to be 60 degrees. But you can have
+a right angle, you can have a right triangle,
+that is isosceles. And isosceles--
+let me write this-- this is a right
+isosceles triangle. And if it's isosceles,
+that means two of the sides are equal. So these are the two
+sides that are equal. And then if the two
+sides are equal, we have proved to ourselves
+that the base angles are equal. And if we called the measure
+of these base angles x, then we know that x plus x plus
+90 have to be equal to 180. Or if we subtract
+90 from both sides, you get x plus x is equal
+to 90 or 2x is equal to 90. Or if you divide
+both sides by 2, you get x is equal
+to 45 degrees. So a right isosceles
+triangle can also be called-- and this is the more
+typical name for it-- it can also be called
+a 45-45-90 triangle. And what I want to do
+this video is come up with the ratios for the
+sides of a 45-45-90 triangle, just like we did for
+a 30-60-90 triangle. And this one's actually
+more straightforward. Because in a 45-45-90 triangle,
+if we call one of the legs x, the other leg is
+also going to be x. And then we can use
+the Pythagorean Theorem to figure out the length
+of the hypotenuse. So the length of the
+hypotenuse, let's call that c. So we get x squared
+plus x squared. That's the square of
+length of both of the legs. So when we sum those
+up, that's going to have to be
+equal to c squared. This is just straight out
+of the Pythagorean theorem. So we get 2x squared
+is equal to c squared. We can take the principal
+root of both sides of that. I wanted to just
+change it to yellow. Last, take the principal
+root of both sides of that. The left-hand side you
+get, principal root of 2 is just square
+root of 2, and then the principal root of x
+squared is just going to be x. So you're going to have x
+times the square root of 2 is equal to c. So if you have a right isosceles
+triangle, whatever the two legs are, they're going
+to have the same length. That's why it's isosceles. The hypotenuse is going to be
+square root of 2 times that. So c is equal to x times
+the square root of 2. So for example, if you have a
+triangle that looks like this. Let me draw it a
+slightly different way. It's good to have to orient
+ourselves in different ways every time. So if we see a triangle
+that's 90 degrees, 45 and 45 like this,
+and you really just have to know two of
+these angles to know what the other one
+is going to be, and if I tell you that
+this side right over here is 3-- I actually don't
+even have to tell you that this other
+side's going to be 3. This is an isosceles
+triangle, so those two legs are going to be the same. And you won't even have to
+apply the Pythagorean theorem if you know this--
+and this is a good one to know-- that the hypotenuse
+here, the side opposite the 90 degree side, is just going
+to be square root of 2 times the length of
+either of the legs. So it's going to be 3
+times the square root of 2. So the ratio of the
+size of the hypotenuse in a 45-45-90 triangle or
+a right isosceles triangle, the ratio of the sides are
+one of the legs can be 1. Then the other leg is going
+to have the same measure, the same length, and then
+the hypotenuse is going to be square root of 2
+times either of those. 1 to 1, 2 square root of 2. So this is 45-45-90. That's the ratios. And just as a review,
+if you have a 30-60-90, the ratios were 1 to
+square root of 3 to 2. And now we'll apply this
+in a bunch of problems.

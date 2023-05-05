@@ -1,0 +1,231 @@
+In this video, I'm going to
+introduce you to the concept of the convolution, one of the
+first times a mathematician's actually named something
+similar to what it's actually doing. You're actually convoluting
+the functions. And in this video, I'm not
+going to dive into the intuition of the convolution,
+because there's a lot of different ways you
+can look at it. It has a lot of different
+applications, and if you become an engineer really of any
+kind, you're going to see the convolution in kind of a
+discrete form and a continuous form, and a bunch of
+different ways. But in this video I just want
+to make you comfortable with the idea of a convolution,
+especially in the context of taking Laplace transforms. So the convolution theorem--
+well, actually, before I even go to the convolution theorem,
+let me define what a convolution is. So let's say that I have
+some function f of t. So if I convolute f with g-- so
+this means that I'm going to take the convolution of f and
+g, and this is going to be a function of t. And so far, nothing I've written
+should make any sense to you, because I haven't
+defined what this means. This is like those SAT problems
+where they say, like, you know, a triangle b means a
+plus b over 3, while you're standing on one leg or
+something like that. So I need to define this
+in some similar way. So let me undo this silliness
+that I just wrote there. And the definition of a
+convolution, we're going to do it over a-- well, there's
+several definitions you'll see, but the definition we're
+going to use in this, context there's actually one other
+definition you'll see in the continuous case, is the integral
+from 0 to t of f of t minus tau, times g of t-- let me
+just write it-- sorry, it's times g of tau d tau. Now, this might seem like a very
+bizarro thing to do, and you're like, Sal, how
+do I even compute one of these things? And to kind of give you that
+comfort, let's actually compute a convolution. Actually, it was hard to find
+some functions that are very easy to analytically compute,
+and you're going to find that we're going to go into a lot of
+trig identities to actually compute this. But if I say that f of t, if I
+define f of t to be equal to the sine of t, and I define
+cosine of t-- let me do it in orange-- or I define g of t to
+be equal to the cosine of t. Now let's convolute
+the two functions. So the convolution of f with g,
+and this is going to be a function of t, it equals this. I'm just going to show you how
+to apply this integral. So it equals the integral--
+I'll do it in purple-- the integral from 0 to t of
+f of t minus tau. This is my f of t. So it's is going to be sine of
+t minus tau times g of tau. Well, this is my g of t, so
+g of tau is cosine of tau, cosine of tau d tau. So that's the integral, and
+now to evaluate it, we're going to have to break out
+some trigonometry. So let's do that. This almost is just a very
+good trigonometry and integration review. So let's evaluate this. But I wanted to evaluate this
+in this video because I want to show you that this isn't some
+abstract thing, that you can actually evaluate
+these functions. So the first thing I want to
+do-- I mean, I don't know what the antiderivative of this is. It's tempting, you see a sine
+and a cosine, maybe they're the derivatives of each
+other, but this is the sine of t minus tau. So let me rewrite that sine of
+t minus tau, and we'll just use the trig identity, that
+the sine of t minus tau is just equal to the sine of t
+times the cosine of tau minus the sine of tau times
+the cosine of t. And actually, I just made a
+video where I go through all of these trig identities really
+just to review them for myself and actually to make a
+video in better quality on them as well. So if we make this subsitution,
+this you'll find on the inside cover of any
+trigonometry or calculus book, you get the convolution of f and
+g is equal to-- I'll just write that f-star g; I'll just
+write it with that-- is equal to the integral from 0 to t of,
+instead of sine of t minus tau, I'm going to write this
+thing right there. So I'm going to write the sine
+of t times the cosine of tau minus the sine of tau times the
+cosine of t, and then all of that's times the
+cosine of tau. I have to be careful with my
+taus and t's, and let's see, t and tau, tau and t. Everything's working so far. So let's see, so
+then that's dt. Oh, sorry, d tau. Let me be very careful here. Now let's distribute this
+cosine of tau out, and what do we get? We get this is equal to-- so f
+convoluted with g, I guess we call it f-star g, is equal to
+the integral from 0 to t of sine of t times cosine of
+tau times cosine of tau. I'm just distributing
+this cosine of tau. So it's cosine squared of tau,
+and then minus-- let's rewrite the cosine of t first, and I'm
+doing that because we're integrating with
+respect to tau. So I'm just going to write my
+cosine of t first. So cosine of t times sine of tau times
+the cosine of tau d tau. And now, since we're taking
+the integral of really two things subtracting from each
+other, let's just turn this into two separate integrals. So this is equal to the integral
+from 0 to t, of sine of t, times the cosine squared
+of tau d tau minus the integral from 0 to t of cosine
+of t times sine of tau cosine of tau d tau. Now, what can we do? Well, to simplify it more,
+remember, we're integrating with respect to-- let
+me be careful here. We're integrating with
+respect to tau. I wrote a t there. We're integrating with
+respect to tau. So all of these, this
+cosine of t right here, that's a constant. The sine of t is a constant. For all I know, t could
+be equal to 5. It doesn't matter that one
+of the boundaries of our integration is also a t. That t would be a 5,
+in which case these are all just constants. We're integrating only with
+respect to the tau, so if cosine of 5, that's a constant,
+we can take it out of the integral. So this is equal to sine of t
+times the integral from 0 to t of cosine squared of tau d tau
+and then minus cosine of t-- that's just a constant; I'm
+bringing it out-- times the integral from 0 to t of sine
+of tau cosine of tau d tau. Now, this antiderivative is
+pretty straightforward. You could do u substitution. Let me do it here, instead
+of doing it in our heads. This is a complicated
+problem, so we don't want to skip steps. If we said u is equal to sine of
+tau, then du d tau is equal to the cosine of tau, just
+the derivative of sine. Or we could write that
+du is equal to the cosine of tau d tau. We'll undo the substitution
+before we evaluate the endpoints here. But this was a little bit
+more of a conundrum. I don't know how to take the
+antiderivative of cosine squared of tau. It's not obvious what that is. So to do this, we're going
+to break out some more trigonometric identities. And in a video I just recorded,
+it might not be the last video in the playlist, I
+showed that the cosine squared of tau-- I'm just using tau as
+an example-- is equal to 1/2 times 1 plus the cosine
+of 2 tau. And once again, this is just a
+trig identity that you'll find really in the inside cover of
+probably your calculus book. So we can make this substitution
+here, make this substitution right there, and
+then let's see what our integrals become. So the first one over here,
+let me just write it here. We get sine of t times the
+integral from 0 to t of this thing here. Let me just take the 1/2 out,
+to keep things simple. So I'll put the 1/2 out here. That's this 1/2. So 1 plus cosine of 2 tau and
+all of that is d tau. That's this integral
+right there. And then we have this integral
+right here, minus cosine of t times the integral from--
+let me be very clear. This is tau is equal to 0
+to tau is equal to t. And then this thing right
+here, I did some u subsitution. If u is equal to sine of
+t, then this becomes u. And we showed that du is equal
+to cosine-- sorry, u is equal to sine of tau. And then we showed that du is
+equal to cosine tau d tau, so this thing right here
+is equal to du. So it's u du, and let's see if
+we can do anything useful now. So this integral right here, the
+antiderivative of this is pretty straightforward, so
+what are we going to get? Let me write this
+outside part. So we have 1/2 times
+the sine of t. And now let me take the
+antiderivative of this. This is going to be tau plus
+the antiderivative of this. It's going to be 1/2
+sine of 2 tau. I mean, we could have done
+the u substitution. we could have said u is equal to
+2 tau and all of that, but I think you could do that from
+recognition, and if you don't believe me, you just have to
+take the derivative of this. 1/2 sine of 2 tau is the
+derivative of this. You multiply, you take the
+derivative of the inside, so that's 2, so the 2 and the 1/2
+cancel out, and the derivative of the outside, so
+cosine of 2 tau. And you're going to evaluate
+that from 0 to t. And then we have minus
+cosine of t. When we take the antiderivative
+of this-- let me do this on the side. So the integral of u du,
+that's trivially easy. That's 1/2 u squared. Now, that's 1/2 u squared, but
+what was u to begin with? It was sine of tau. So the antiderivative of this
+thing right here is 1/2 u squared, but u is sine of tau. So it's going to be 1/2u, which
+is sine of tau squared. And we're going to evaluate
+that from 0 to t. And we didn't even have to do
+all this u substitution. The way I often do it in my
+head, I see the sine of tau, cosine of tau. if I have a function and I have
+its derivative, I can treat that function just like
+as if I had an x there, so it'd be sine squared of tau over
+2, which is exactly what we have there. So it looks like we're
+in the home stretch. We're taking the convolution of
+sine of t with cosine of t. And so we get 1/2 sine of t. Now, if I evaluate this thing
+at t, what do I get? I get t plus 1/2 sine
+of 2t, that's when I evaluated it at t. And then from that I need to
+subtract it evaluated at 0, so minus 0 minus 1/2 sine of
+2 times 0, which is just sine of 0. So this part right here, this
+whole thing right there, what does that simplify to? Well this is 0, sine of 0
+is 0, so this is all 0. So this first integral right
+there simplifies to 1/2 sine of t times t plus
+1/2 sine of 2t. All right, now what does this
+one simplify to over here? Well, this one over here, you
+have minus cosine of t. And we're going to evaluate this
+whole thing at t, so you get 1/2 sine squared of t
+minus 1/2 the sine of 0 squared, which is just 0,
+so that's just minus 0. So far, everything that we have
+written simplifies to-- let me multiply it all out. So I have 1/2-- let me just pick
+a good color-- 1/2t sine of t-- I'm just multiplying
+those out-- plus 1/4 sine of t sine of 2t. And then over here I have minus
+1/2 sine squared t times cosine of t. I just took the minus cosine t
+and multiplied it through here and I got that. Now, this is a valid answer,
+but I suspect that we can simplify this more, maybe using
+some more trigonometric identities. And this guy right there
+looks ripe to simplify. And we know that the sine of
+2t-- another trig identity you'll find in the inside cover
+of any of your books-- is 2 times the sine of t
+times the cosine of t. So if you substitute that there,
+what does our whole expression equal? You get this first term. Let me scroll down
+a little bit. You get 1/2t times the sine of
+t plus 1/4 sine of t times this thing in here, so times
+2 sine of t cosine of t. Just a trig identity, nothing
+more than that. And then finally I have this
+minus 1/2 sine squared t cosine of t. No one ever said this was
+going to be easy, but hopefully it's instructive
+on some level. At least it shows you that you
+didn't memorize your trig identities for nothing. So let me rewrite the whole
+thing, or let me just rewrite this part. So this is equal to 1/4. Now, I have-- well let
+me see, 1/4 times 2. 1/4 times 2 is 1/2. And then sine squared
+of t, right? This sine times this sine is
+sine squared of t cosine of t. And then this one over here is
+minus 1/2 sine squared of t cosine of t. And luckily for us, or lucky
+for us, these cancel out. And, of course, we had this
+guy out in the front. We had this 1/2t sine
+t out in front. Now, this guy cancels with this
+guy, and all we're left with, through this whole hairy
+problem, and this is pretty satisfying, is 1/2t sine of t. So we just showed you that the
+convolution-- if I define-- let me write our result. I feel like writing this
+in stone because this was so much work. But if we write that f of t is
+equal to sine of t, and g of t is equal to cosine of t, I
+just showed you that the convolution of f with g, which
+is a function of t, which is defined as the integral from 0
+to t of f of t minus tau times g of tau d tau, which was equal
+to-- and I'll switch colors here-- which was equal to
+the integral from 0 to t of sine of t minus tau times g of
+tau d tau, that all of this mess, all of this convolution,
+it all equals-- and this is pretty satisfying-- it all
+equals 1/2t sine of t. And the whole reason why I went
+through all of this mess and kind of bringing out the
+neurons that had the trig identities memorized or having
+to reproof them or whatever else is to just show you that
+this convolution, it is convoluted and it seems a little
+bit bizarre, but you really can take the convolutions
+of actual functions and get an
+actual answer. So the convolution of sine
+of t with cosine of t is 1/2t sine of t. So, hopefully, you have a little
+of intuition of-- well, not intuition, but you at least
+have a little bit of hands-on understanding of how
+the convolution can be calculated.

@@ -1,0 +1,17 @@
+So we have a matrix equation set up right over here, we have matrix A times this plus matrix B times this plus matrix C times this is equal to this two by two matrix. And the way it's set up, it's a little bit of a puzzle. And I'll give you one clue as to what type of matrices A, B, and C could be. They're each either going to be an Identity Matrix, or a Zero Matrix. So given that clue, that each of these are either an identity matrix or a zero matrix, can you pause this video, and essentially solve this puzzle? Which of these are identity matrices, and which of these are zero matrices? I'm assuming you've given a go at it. So let's go entry by entry. So if you look at this first entry right over here, how can we get a two
+for this top left entry? Well, let's see. When we multiply, if any
+of these are identities, and essentially you just
+get the value of the matrix, if any of these are zero, then essentially that
+product doesn't get added. It's one way of thinking about it, is that matrix won't matter anymore, because it's going to
+be multiplied by zero. So if A was a zero matrix and B and C were identity matrices, you would add one plus one to get to two. Just like oh, maybe that's the case. But it could be the other way around. It could be that A is identity matrix, B is a zero matrix, and C is an identity matrix, and you add one plus one over there to get two. Or you could say that
+maybe C is the zero matrix, and B is the identity matrix, and you add one plus one here. So really, all this is telling us is two of these matrix, two of A, B and C are going
+to be identity matrices, and one is going to be a zero matrix, but we don't know which
+one is which just yet. Any of them can be the zero matrix, at least based on looking
+at that first entry. Now let's look at, I don't know, let's look at this entry right over here. How can we add up to four? Well, let's see. Three, if this was an identity matrix and this was an identity matrix, then you're going to, then essentially you'll just be left with this matrix plus this matrix. This is going to be the zero. So three plus negative five. That is not equal to four. So both of these. You can't have A and
+B be identity matrices and C be the zero matrix. So let's think about
+other combinations here. So what about B and C being
+the identity matrices, and A being the zero matrix? In that situation, so A is the zero matrix,
+that's not going to matter, and we're essentially, when you multiply B times this you're just
+going to get this matrix, and C times this, you're
+going to get that matrix, if B and C are identity matrices. And so you have negative five plus one would be negative four. So that doesn't work either. So our last scenario is going to be so we can essentially rule out B as an identity matrix. Because when we had B be one of the identity matrices, and we picked the other two options, we still couldn't get to four here. So B is going to be a zero matrix. And let's see if that works out. A is identity, then A would be an identity and C would be an idenitty matrix as well. So let's see if that actually makes sense. So if this right over
+here is identity matrix, and that over there is an identity matrix, this whole thing simplifies to one three four comma negative two plus one one three two, and it does indeed equal one one plus is two, three plus one is four, four plus three is seven, negative two plus two is indeed zero.

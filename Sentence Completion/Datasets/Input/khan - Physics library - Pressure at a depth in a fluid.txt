@@ -1,0 +1,143 @@
+In the last video, we showed
+that any external pressure on a liquid in a container
+is distributed evenly through the liquid. But that only applied to-- and
+that was called Pascal's principle-- external pressure. Let's think a little bit about
+what the internal pressure is within a liquid. We're all familiar, I think,
+with the notion of the deeper you go into a fluid or the
+deeper you dive into the ocean, the higher the
+pressure is on you. Let's see if we can think about
+that a little bit more analytically, and get a
+framework for what the pressure is at any depth
+under the water, or really in any fluid. Here I've drawn a cylinder, and
+in that cylinder I have some fluid-- let's not assume
+that it's water, but some fluid, and that's
+the blue stuff. I'm also assuming that I'm doing
+this on a planet that has the same mass as Earth, but
+it has no atmosphere, so there's a vacuum up here--
+there's no air. We'll see later that the
+atmosphere actually adds pressure on top of this. Let's assume that there's no
+air, but it's on a planet of the same mass, so the
+gravity is the same. There is gravity, so the
+liquid will fill this container on the bottom
+part of it. Also, the gravitational constant
+would be the same as Earth, so we can imagine this is
+a horrible situation where Earth has lost its magnetic
+field and the solar winds have gotten rid of Earth's
+atmosphere. That's very negative, so we
+won't think about that, but anyway-- let's go back
+to the problem. Let's say within this cylinder,
+I have a thin piece of foil or something that
+takes up the entire cross-sectional area
+of the cylinder. I did that just because I want
+that to be an indicator of whether the fluid is moving
+up or down or not. Let's say I have that in the
+fluid at some depth, h, and since the fluid is completely
+static-- nothing's moving-- that object that's floating
+right at that level, at a depth of h, will
+also be static. In order for something to be
+static, where it's not moving-- what do we
+know about it? We know that the net forces on
+it must be zero-- in fact, that tells that it's
+not accelerating. Obviously, if something's not
+moving, it has a velocity of zero, and that's a constant
+velocity-- it's not accelerating in any direction,
+and so its net forces must be zero. This force down must be
+equal to the force up. So what is the force down
+acting on this cylinder? It's going to be the weight of
+the water above it, because we're in a gravitational
+environment, and so this water has some mass. Whatever that mass is, times
+the gravitational constant, will equal the force down. Let's figure out what that is. The force down, which is the
+same thing is the force up, is going to equal the mass of
+this water, times the gravitational constant. Actually, I shouldn't say
+water-- let me change this, because I said that this is
+going to be some random liquid, and the mass
+is a liquid. The force down is going to be
+equal to the mass of the liquid times gravity. What is that mass
+of the liquid? Well, now I'll introduce you to
+a concept called density, and I think you understand what
+density is-- it's how much there is of something in
+a given amount of volume, or how much mass per volume. That's the definition
+of density. The letter people use for
+density is rho-- let me do that in a different
+color down here. rho, which looks like a p to
+me, equals mass per volume, and that's the density. The units are kilograms per
+meter cubed-- that is density. I think you might have an
+intuition that if I have a cubic meter of lead-- lead is
+more dense than marshmallows. Because of that, if I have a
+cubic meter of lead, it will have a lot more mass, and in a
+gravitational field, weigh a lot more than a cubic meter
+of marshmallows. Of course, there's always that
+trick people say, what weighs more-- a pound of feathers,
+or a pound of lead? Those, obviously, weigh the
+same-- the key is the volume. A cubic meter of lead is going
+to weigh a lot more than a cubic meter of feathers. Making sure that we now know
+what the density is, let's go back to what we were
+doing before. We said that the downward force
+is equal to the mass of the liquid times the
+gravitational force, and so what is the mass
+of the liquid? We could use this formula right
+here-- density is equal to mass times volume, so we
+could also say that mass is equal to density times volume. I just multiply both sides of
+this equation times volume. In this situation, force down is
+equal to-- let's substitute this with this. The mass of the liquid is equal
+to the density of the liquid times the volume of the
+liquid-- I could get rid of these l's-- times gravity. What's the volume
+of the liquid? The volume of the liquid
+is going to be the cross-sectional area of the
+cylinder times the height. So let's call this
+cross-sectional area A. A for area-- that's the area
+of the cylinder or the foil that's floating within
+the water. We could write down that the
+downward force is equal to the density of the fluid-- I'll stop
+writing the l or f, or whatever I was doing
+there-- times the volume of the liquid. The volume of the liquid is just
+the height times the area of the liquid. So that is just times the height
+times the area and then times gravity. We've now figured out if we knew
+the density, this height, the cross-sectional area, and
+the gravitational constant, we would know the force
+coming down. That's kind of vaguely
+interesting, but let's try to figure out what the pressure
+is, because that's what started this whole discussion. What is the pressure when you go
+to deep parts of the ocean? This is the force-- what is the
+pressure on this foil that I have floating? It's the force divided by the
+area of pressure on this foil. So I would take the force and
+divide it by the area, which is the same thing as A,
+so let's do that. Let's divide both sides of this
+equation by area, so the pressure coming down--
+so that's P sub d. The downward pressure at that
+point is going to be equal to-- keep in mind, that's going
+to be the same thing as the upward pressure, because the
+upward force is the same. The area of whether you're going
+upwards or downwards is going to be the same thing. The downward pressure is going
+to be equal to the downward force divided by area, which is
+going to be equal to this expression divided by area. Essentially, we can just get
+rid of the area here, so it equals PhAg divided by A-- we
+get rid of the A's in both situations-- so the downward
+pressure is equal to the density of the fluid, times the
+depth of the fluid, or the height of the fluid above it,
+times the gravitational constant Phg. As I said, the downward pressure
+is equal to the upward pressure-- how
+do we know that? Because we knew that the upward
+force is the same as the downward force. If the upward force were less,
+this little piece of foil would actually accelerate
+downwards. The fact that it's static-- it's
+in one place-- lets us know that the upward force is
+equal to the downward force, so the upward pressure
+is equal to the downward pressure. Let's use that in an example. If I were on the same planet,
+and this is water, and so the density of water-- and this is
+something good to memorize-- is 1,000 kilograms
+per meter cubed. Let's say that we have no
+atmosphere, but I were to go 10 meters under the
+water-- roughly 30 feet under the water. What would be the
+pressure on me? My pressure would be the density
+of water, which is 1,000 kilograms per meter
+cubed-- make sure your units are right, and I'm running out
+of space, so I don't have the units-- times the height,
+10 meters, times the gravitational acceleration, 9.8
+meters per second squared. It's a good exercise for
+you to make sure the units work out. It's 10,000 times 9.8, so the
+pressure is going to be equal to 98,000 pascals. This actually isn't that
+much-- it just sounds like a lot. We'll actually see that this
+is almost one atmosphere, which is the pressure at sea
+level in France, I think. Anyway, I'll see you
+in the next video.

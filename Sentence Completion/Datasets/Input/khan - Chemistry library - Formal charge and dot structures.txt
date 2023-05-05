@@ -1,0 +1,200 @@
+The previous video,
+we saw some steps for drawing dot structures. In this video we're going to
+use the same steps to draw a few more structures. But we're also going to talk
+about how formal charge relates to dot structure. So we'll get back to this
+definition in a minute. Right now, let's draw
+a quick dot structure for the ammonium cation. So NH4 plus. The first thing you do
+is find the total number of valence electrons. And so to do that you
+look at a periodic table and find nitrogen,
+which is in group five. Therefore, nitrogen has
+five valence electrons. Right, each hydrogen has one. And we have four of them. So we have 5 plus 4,
+giving us 9 electrons. However, there's
+a plus 1 charge. Meaning this is
+a cation, meaning we're going to lose
+an electron here. So instead of representing
+nine in our dot structure, going to represent
+eight electrons. And so let's go ahead and put
+the nitrogen at the center. Remember you put the
+least electronegative atom at the center,
+except for hydrogen. So nitrogen is going to
+go in the center here. And we know it's going to
+have bonds to four hydrogens, so we go ahead and put in
+those hydrogens right here. And let's see how
+many valence electrons we've used up in
+our dot structure. Two, four, six, and eight. So that takes care of all
+eight valence electrons that we were supposed
+to represent. So this is the structure. And I can go ahead and put
+some brackets around it here. And also a plus 1 charge to
+indicate that this is an ion. And so that's the dot structure
+for the ammonium cation here. Let's see if we can
+assign formal charges to the nitrogen
+and the hydrogen. So I'm going to go ahead and
+redraw our dot structure here. And I'm also going to draw
+in the electrons, right? We know that each of
+those covalent bonds consists of two electrons. I'm going to go ahead and put in
+those two electrons right here. And if I want to find a
+formal charge for, let's say, the central nitrogen. What I would do is
+think about the number of valence electrons
+in the free atoms. So if you had a nitrogen
+all by itself, right? You look at the periodic
+table, it's in group five. And so therefore we're talking
+about five valence electrons in the free atom for nitrogen. From that number we're
+going to subtract the number of valence
+electrons in the bonded atom. And the way to approach that is
+to look at your dot structure here, and think about
+those two electrons in those covalent bonds. One of them we're going
+to assign to the hydrogen, and one of them are going
+to assign to the nitrogen. And so we go around,
+we do that for each one of our covalent bonds like that. And so now, we can
+see that nitrogen is surrounded by four valence
+electrons in the bonded atom. So let me go ahead
+and write that. So it's 5 minus 4. And so 5 minus 4 is
+of course plus 1. So we have a plus 1 of formal
+charge on the nitrogen. So this nitrogen as a
+plus 1 formal charge. Now let's do it
+for hydrogen here. So hydrogen's in group
+one on the periodic table. So let me just point this out. This is for . Nitrogen and then for hydrogen. It's in group one. So one valence electron
+in the free atom. And from that we're
+going to subtract a number of valence
+electrons in the bonded atom. So if we look here, we assigned
+one valence electron here to each hydrogen. So therefore, it's
+just 1 minus 1, or 0. So there's 0 formal charge
+for all the hydrogens in it the ammonium cation. And so that's how to
+assign formal charges. Let's see how that applies
+to actually affecting our final dot structure. And an example of that
+would be something like sulfuric acid here, so. The first step, of course, is
+to calculate the total number of valence electrons
+we need to worry about in our dot structure. So, once again, each hydrogen
+is one, I have two of them. Sulfur is in group six
+on the periodic table, so therefore I have
+six valence electrons. Oxygen is also in group six. And so we have six and we
+have four of them right here. So 6 times 4 is 24. So we have 24 plus 6
+is 30, plus 2 is 32. So we need to worry about 32
+valence electrons in our dot structure for sulfuric acid. All right, next thing we do
+is choose the central atom. And once again you
+ignore hydrogen so it's between
+sulfur and oxygen. And if you look at
+the periodic table, you'll see that oxygen is higher
+in group six than sulfur is. Therefore oxygen is
+more electronegative. And so therefore, we're going
+to put sulfur at the center. So we're going to put
+sulfur right here. Once again, look at the
+rules from the previous video if that didn't make
+quite sense to you here. So we have sulfur
+attached to four oxygens. And I'll go ahead and put
+my four oxygens in there like that. And then I have two hydrogens. And by experience, you are
+talking about an acid here. You're going to put your
+hydrogens on oxygens. And so we're going to go ahead
+and put our hydrogens here. And let's see how
+many valence electrons we've used up a drawing
+this skeleton here. So we have two, four, six,
+eight, ten, and twelve. So we've used up 12 valence
+electrons so 32 minus 12 gives us 20 valence electrons
+left to worry about. And so, remember
+the next step is to assign some of those
+left over electrons to some of the terminal atoms. But again, we're not going
+to assign those electrons to hydrogen because
+hydrogen's already surrounded by two electrons. And so we're going
+to try to assign some electrons to oxygen. And oxygen's going to
+follow the octet rule. So let's examine, let's
+say the top oxygen here. And we could see the top oxygen
+is surrounded by two electrons already right there in green. And so if we're going to give
+it an octet it needs six more. So we have one, two,
+three, four, five, six. Same thing for this oxygen
+down here, it needs an octet. So we go ahead and give it
+six more electrons like that. Right so, we also have these
+other oxygens over here to worry about. So let me go ahead
+and use green again. So let's say this
+oxygen over here on the left, the one bonded
+to this hydrogen here. Here's two electrons and
+here's another two for four. So for that option to have
+an octet, it needs four more. So that means we're going to
+put two lone pairs of electrons on this oxygen. And then we're going to do
+the same thing for this oxygen as well. So let's see, how many electrons
+did we just represent there? Well we had six
+on the top oxygen, six in the bottom oxygen. That's 12. And then we had four on the
+left and four more on the right. So that's eight. So 12 plus 8 is 20. So we've now represented
+all of the valence electrons that we needed to show. And let's think about this as
+possibly being the final dot structure. So we have an octet around
+sulfur, an octet around oxygen, and hydrogen's fine. So you might think
+that we are done here. However, let's go ahead and
+assign some formal charges. And let's see what that does. So let me go ahead and draw
+in some electrons here. So we know that each bond
+consists of two electrons. I'm going to go ahead and
+make them red here like that. And let's assign a formal
+charge to the top oxygen here. All right, so this top oxygen. I'm going to, and the bond
+between oxygen and sulfur. I'm going to give
+one of the electrons to oxygen and one of the
+electrons to the sulfur. And so I can see
+that oxygen is being surrounded by 7 electrons. In the free atom, right? We would expect oxygen to
+have six valence electrons, 6 minus 7 in this case gives
+us a formal charge of -1. And so this top oxygen
+has a formal charge of -1. It's the same situation
+for this bottom oxygen here, so that one has a
+formal charge of -1 as well. Let's look at the sulfur. So if we examine
+the sulfur here, and we know-- right
+sulfur is in group six on the periodic table. So normally six electrons
+for the three atom. And in this bonding situation,
+right let's go ahead, we know this one oxygen-- this
+one electron I should say, goes to sulfur. And then in this bond
+between oxygen and sulfur, sulfur is going to
+get one electron. And so on, all the
+way around here. So sulfur is surrounded
+by four electrons in the bonded atom here. And so it's 6 minus 4, which
+is a formal charge of plus 2. So this dot structure
+might look like we're done, but we have a lot
+of formal charges. We have -1, plus 2, and -1. And usually molecules
+like to have-- like to minimize
+the formal charge. And so if there's any way
+to get this formal charge as close to 0 as possible, that
+would be the preferred dot structure. And so let's go ahead and
+redraw this really quickly. And let's see if we can
+move some electrons around to minimize our formal charges. Now we can't add
+any more electrons because we've
+already represented all 32 valence electrons
+that we were supposed to. So the only thing
+that we can do is to share some more electrons. And so, if I took two electrons
+from this top oxygen here. So if I took these
+two electrons, and I move them into here. And if I took these two
+electrons right here, and I move them into here
+to form double bonds. Let's go ahead and look and see
+what our dot structure would look like and assign
+some formal charges. So now, I would have
+sulfur double bonded to this top oxygen, and double
+bonded to this bottom oxygen. Top oxygen has only two lone
+pairs electrons are on it. Same thing for
+this bottom oxygen. And then these oxygens are the
+same, with the OH on the left. And then we have the OH
+on the right, right here. OK so now let's look
+at our formal charges. So we'll put in our electrons. So let's go ahead and do that. And once again, we're
+going to do the same thing that we did before. So assigning formal charges will
+start with the top oxygen here. So the top oxygen, right? Six valence electrons
+in the free atom. And then if I go like that,
+you can see there are six here. So 6 minus 6 gives us
+a formal charge of 0. So the top oxygen is 0 now. Same thing with this bottom
+oxygen, this one's 0. Let's look at the sulfur now. So normally, we're talking
+about 6 for the sulfur. And let's see how
+many valence electrons are on the bonded atom here. So we do the same
+assigning of electrons that we've done before. And so now we can see that that
+sulfur is surrounded by six. So we would go 6 minus 6
+gives us a formal charge 0. And if you assign
+a formal charge to one of these other oxygens. So let's go ahead and
+do that really quickly. So one of these other
+oxygens right here. So I'm doing the
+oxygen on the right. OK, so let's see how many
+valence electrons are surrounding this atom. So we have a total
+of six is well. So 6 minus 6 is a
+formal charge of 0. So this dot structure actually
+gives us formal charges of zero for everything. And so this would be
+the preferred one. And let's finally
+talk about octets. Right so we know that hydrogen--
+we know the hydrogen's happy surrounded by two electrons. We know that oxygen is
+happy with an octet. And so you can see that all of
+these oxygens have an octet. Sulfur in this case, is
+not surrounded by an octet. It has an expanded outer shell. Right, it's OK for sulfur have
+an expanded valence shell, because it's in the third
+period on the periodic table. And so we talked
+about why that's OK in the previous video. And so this is
+just one more thing to think of when you're
+drawing dot structures. Sometimes formal charge will
+affect the final structure of your molecule or ion.

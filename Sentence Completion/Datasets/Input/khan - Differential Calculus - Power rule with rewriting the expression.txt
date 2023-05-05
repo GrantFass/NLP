@@ -1,0 +1,38 @@
+- [Instructor] What we're
+going to do in this video is get some practice taking
+derivatives with the power rule. So let's say we take the derivative with respect to x of one over x. What is that going to be equal to? Pause this video and try to figure it out. So at first, you might say, "How does the power rule apply here?" The power rule, just to remind ourselves, it tells us that if we're taking the derivative of x to
+the n with respect to x, so if we're taking the derivative of that, that that's going to be equal to, we take the exponent, bring it out front, and we've proven it in other videos, but this is gonna be n times x to the, and then we decrement the exponent. So, n minus one. But this does not look like that, and the key is to
+appreciate that one over x is the same thing as
+x to the negative one. So, this is going to be the derivative with respect to x of
+x to the negative one. And now, this looks a lot more like what you might be used to, where this is going to be equal to, you take our exponent, bring it out front, so it's negative one, times x to the negative one minus one, negative one minus one. And so, this is going to be equal to negative x to the negative two, and we're done. Let's do another example. Let's say that we're told that f of x is equal to the cube root of x and we wanna figure out what
+f prime of x is equal to. Pause the video and see if
+you can figure it out again. Well, once again, you might say, "Hey, how do I take the
+derivative of something like this, "especially if my goal or
+if I'm thinking that maybe "the power rule might be useful?" And the idea is to rewrite
+this as an exponent, if you can rewrite the cube
+root as x to the 1/3 power. And so, the derivative, you take the 1/3, bring it out front, so it's 1/3 x to the 1/3 minus one power. And so, this is going to be 1/3 times x to the 1/3 minus one is negative 2/3, negative 2/3 power, and we are done. And hopefully through these examples, you're seeing that the power
+rule is incredibly powerful. You can tackle a far
+broader range of derivatives than you might have initially thought. Let's do another example, and I'll make this one
+really nice and hairy. Let's say we wanna
+figure out the derivative with respect to x of the cube root of x squared. What is this going to be? And actually, let's just not figure out
+what the derivative is, let's figure out the
+derivative at x equals eight. Pause this video again and see
+if you can figure that out. Well, what we're gonna do is first just figure out what this is and then we're going evaluate
+it at x equals eight. And the key thing to appreciate
+is this is the same thing, and we're just gonna
+do what we did up here as the derivative with respect to x. Instead of saying the
+cube root of x squared, we can say this is x
+squared to the 1/3 power, which is the same thing as the derivative with respect to x of, well, x squared, if I raise
+something to an exponent and then raise that to an exponent, I can just take the
+product of the exponents. And so, this is gonna be x
+to the two times 1/3 power or to the 2/3 power. And now, this is just
+going to be equal to, I'll do it right over here,
+bring the 2/3 out front, 2/3 times x to the, what's 2/3 minus one? Well, that's 2/3 minus 3/3 or it would be negative 1/3 power. Now, we wanna know what
+happens at x equals eight, so let's just evaluate that. That's going to be 2/3
+times x is equal to eight to the negative 1/3 power. Well, what's eight to the 1/3 power? Eight to the 1/3 power is
+going to be equal to two, and so, eight to the
+negative 1/3 power is 1/2. Actually, let me just
+do that step-by-step. So, this is going to
+be equal to 2/3 times, we could do it this way, one
+over eight to the 1/3 power. And so, this is just one over two, 2/3 times 1/2, well, that's just going to be
+equal to 1/3, and we're done.

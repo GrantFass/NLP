@@ -1,0 +1,52 @@
+- [Instructor] We've already thought about what a definite integral means. If I'm taking the definite
+integral from a to b of f of x dx, I can just view that as the area below my function f. So if this is my y-axis,
+this is my x-axis, and y is equal to f of x,
+so something like that. Y is equal to f of x. And if this is a and if this is b, I could just view this expression as being
+equal to this area. But what if my function
+was not above the x-axis? What if it was below the x-axis? So these are going to be equivalent. Let's say, let me just draw that scenario. So let me draw a scenario where that's my x-axis, that is my y-axis. And let's say I have, let's say I have a function
+that looks like that. So that is y is equal to g of x. And let's say that this
+right over here is a, and this right over here is b. And let's say that this area right over here is equal to five. Well, if I were to ask you what is the definite integral from a to b of g of x dx, what do you
+think it is going to be? Well, you might be
+tempted to say, hey, well, it's just the area again
+between my curve and the x-axis. You might be tempted to say, hey, this is just going to be equal to five. But you have to be very careful. Because if you're looking
+at the area above your curve and below your x-axis, versus below your curve
+and above the x-axis, this definite integral
+is actually going to be the negative of the area. Now, we'll see later on why
+this will work out nicely with a whole set of
+integration properties. But if you want to get
+some intuition for it, let's just think about
+velocity versus time graphs. So, if I, in my horizontal axis, that is time. My vertical axis, this is velocity. And velocity is going to be
+measured in meters per second. Time is going to be measured in seconds. Time is measured in seconds. And actually, I'm going
+to do two scenarios here. So let's say that I have a
+first velocity time graph. Let's just call it v one of
+t, which is equal to three. And it would be three meters
+per second, so one, two, three. So it would look like that. That is v one of t. And if I were to look
+at the definite integral going from time equals
+one to time equals five of v sub one of t dt, what
+would this be equal to? Well, here my function is above my t-axis. So I'll just go from one to five, which will be around there. And I could just think
+about the area here, and this area is pretty easy to calculate. It's going to be three meters
+per second times four seconds. That's my change in time. And so this is going to be 12 meters. And so this is going to be equal to 12. And one way to conceptualize this is this gives us our change in position. If my velocity is three meters per second, and since it's positive
+you can conceptualize that as it's going to the right
+at three meters per second. What is my change in position? Well, I would have gone
+12 meters to the right. And you don't need calculus
+to figure that out. Three meters per second times four seconds would be 12 meters. But what if it were the other way around? What if I had another velocity function, ;et's call that v sub two of t, that is equal to negative
+two meters per second? And it's just a constant
+negative two meters per second. So this is v sub two of t right over here. What would or what should the definite integral from one
+to five of v sub two of t be, dt be equal to? Well, it should be equal
+to my change in position. But if my velocity is negative, that means I'm moving to the left. That means my change in
+position should be to the left, as opposed to to the right. And so we can just look at
+this area right over here. When if you just look
+at it as the rectangle, it's going to be two times
+four, which is equal to eight. But you have to be very careful. Since it is below my horizontal
+axis and above my function, this is going to be negative. And this should make a lot of sense. If I'm going two meters
+per second to the left for four seconds, or another
+way to think about it, if I'm going negative
+two meters per second for four seconds, then
+my change in position is going to be negative eight meters. I would have moved eight
+meters to the left, if we say the convention is
+negative means to the left. So the big takeaway is, if it's below your function
+and above the horizontal axis, the definite integral, and
+if your a is less than b, then your definite integral
+is going to be positive. If your a is less than b, but your function over that interval is below the horizontal axis, then your definite integral
+is going to be negative. And in the future, we'll also look at definite integrals
+that are a mix of both, but that's a little bit more complicated.

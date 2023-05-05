@@ -1,0 +1,71 @@
+- [Voiceover] As we start
+exploring the world of statistics, it's worth asking ourself, what is the word statistics even mean? Statistics is really a
+broad category of things that you might do with data. So it generally deals with
+data, collecting data. So actually let me write these down. It's involving collecting data, collecting data. You could present data
+in tables or charts, or just as lists of numbers, or however you might do it. It is analyzing the data, analyzing, analyzing, presenting and analyzing data. So this whole class of just all this stuff that you might do with
+data to answer a question or try to figure out what's going on, or just to learn about the world, the whole class of things
+is called statistics. Now an idea that will
+come up very frequently in statistics is the
+notion of variability. Variability. In everyday language, variability, it's how much something is ... How much does it vary? How much does it change? It's the same notion in statistics. In statistics, variability
+is the degree to which data points are different from each other, the degree to which they vary. Just as an example of that to just make it a little
+bit more concrete, let's say you were to go to five people, and you were to ask them, how many bricks did you eat yesterday? Each of the people say, well I ... Person one says, "I
+don't eat bricks at all. "I don't even know how to do that. "I ate zero bricks." Then next person says zero, the next person says zero, fourth person says zero, and the fifth person says zero. Fair enough, so that was our data point on the different data points on ... And I'm already doing statistics just by going out there and asking them how many bricks they ate. Then I ask them how many grapes did you eat yesterday? The first person says "I ate zero grapes." But the next person says
+"I survive on grapes. "I ate 235 grapes." The next person says, "Yeah I like grapes. "I ate 17 grapes." Then the person after that
+says that they five grapes. Then next person also survives on grapes, even to a larger degree. They ate 318 grapes. So if you look at these two data sets, one is the number of bricks
+someone ate yesterday, the other one is how many
+grapes they ate yesterday, you immediately see that
+there's more variability here. All of these data points are zero, while these, they change a good bit from data point to data point. So we have a sense that
+there is more variability in this data set. Now one of the things we will start doing a lot in statistics is try to measure how much more, how much variability is. How can we can quantify that? How can we put a number on it? How can we measure variability? This is a big aspect of statistics, but we won't do that in this video. There are future videos for doing that. But just as we go into
+the world of statistics, we should think about
+when should our brain even start getting into statistics mode, thinking about the tools
+that we have at our disposal, about collecting data and
+measuring variability, and measuring and finding numbers that somehow represent a pool
+of data that has variability. So the question we should ask ourselves is what questions in the world
+are statistical questions? So statistical, statistical questions. So let's come up with a definition for statistical questions, the type of question
+where we would want to start bringing out our
+statistical toolkit. One possible way to think about when you need to bring out
+your statistical toolkit is these are questions
+that to answer them, to answer, you need to collect data with variability. To answer, you need to collect data with variability. I apologize for my handwriting. Data with variability. That's W-I-T-H. Data with variability. So you're saying, okay
+that kinda makes sense, but I need to see some tangible questions or tangible examples of things that are statistical questions and things that are not
+statistical questions. I would say fair enough. Let's look at some examples. So here I have six questions, and I encourage you to
+pause this video right now. Before I work through it, think about it. Based on this definition
+of a statistical question, which of these questions are statistical, would require your statistical toolkit, and which of these are not statistical? So assuming you had a go at it, let's go through these one by one. So the first question, how much does my pet grapefruit weigh? You know, it's bizarre to begin with to have a pet grapefruit, but is this a statistical question? What do I need to do to answer it? I have to take my pet grapefruit out. I have to weigh it. Then I have to just write that down. Just doing that I am collecting data, so you could argue that
+maybe I'm kinda starting to mess with statistics a little bit, but I'm just getting one data point. So I might weigh it and I might see my grapefruit weighs one pound, but that's not data with variability. That's just one data point. In order to have
+variability you have to have multiple data points and should be at least
+possible that they could vary. So, for example, all of
+these folks ate zero bricks but maybe it was possible that
+someone actually ate a brick. But here I have just one data point. With one data point, you
+can't have variability, so this is not a statistical question. I just collect a data point. Next question, what is the average number of cars in a parking
+lot on Monday mornings? To think about whether it
+is a statistical question, we just have to think about what do I have to do to
+answer that question? I would have to go out to the parking lot on multiple Monday mornings, and measure the number of cars. So on the first Monday morning I might see there are 50 cars. The next Monday morning
+I might go out there and count there's 49 cars. The next Monday morning I
+might see 50 cars again. The next Monday morning
+I might see 63 cars. So I'm collecting multiple data points to answer this question. Then I'm going to take
+the average of all these, but I'm collecting multiple data points to answer this question. It's definitely possible that
+there could be variation here, that there could be variability, so this is a statistical question. Next question, am I hungry? It's an important question. We ask it to ourselves multiple times. In fact, sometimes our
+bodies just tell it to us. But I am definitely not collecting ... I guess you could say I'm collecting some type of feelings from my stomach or how weak I feel or not, but it's definitely not
+data with variability. I'm either hungry or not
+hungry on a given day. I mean if you said broader, how does my hunger change from day to day and you came up some type of a
+scale for rating your hunger, all right maybe that's more statistical. But just am I hungry, a yes-no question. This is not ... To answer this I do not have to collect data with variability, so this is not a statistical question. How many teeth does my mother have? To do this I would have
+to go find my mother, and then I would have to
+ask her to open her mouth, and count the teeth in her mouth. Maybe I'd get a number like 30. So it's kind of like how much
+does my pet grapefruit weigh. I do have to collect one data point, but one data point is not
+going to have variability, so I am not collecting
+data with variability, so this is not a statistical question. If I said how many teeth
+do all of the mothers that I know have on average, or what's the range of number of teeth of the mothers I know have, that would be statistical. But this is just one data
+point, so not statistical. How much time do the members of my family spend eating per year? Once again, what do I need to
+do to answer this question? I would have to go either observe or survey my family members, maybe my mom, my wife, my children, and my uncles, aunts, whoever else, and I would say how much
+do you eat each day? I would add them all up to figure out how much they eat in a year. Maybe family member A eats 813 hours in a year. Family member B ate, I don't know, 732 hours in the year. So you see the general notion
+that I will be collecting multiple data points from
+the different family members. There very well, and in fact, there's very likely to
+be variation in that. In fact, I might even see
+variation from year to year. Person A is probably going to eat a different number of
+hours in the next year. So I'm definitely going to
+collect data with variability in order to answer this question. So that is a statistical question. Then finally, I have the question, how many times have I watched Star Wars? This is very similar to how
+many teeth does my mother have, or how much does my pet grapefruit weigh. I just have to count the number of times that I watched Star Wars. Maybe I watched it seven times. Just one data point. No variability here. If I said on average how many times have my co-workers watched Star Wars, then I'm gonna have to
+collect data with variability. I'm gonna collect multiple data points, and it's definitely
+possible that my co-workers have watched it different
+numbers of times. But for this question in particular, where it's just one
+data point to answer it, how many times have I watched Star Wars? My answer in this case
+actually I think is seven. Then not a statistical question. So hopefully that gives you a sense of statistics variability and what a statistical question even is.

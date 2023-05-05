@@ -1,0 +1,24 @@
+- [Instructor] So I have a question here from the Kotz, Treichel,
+and Townsend Chemistry and Chemical Reactivity book, and I got their permission to do this. And it says a solution
+of potassium permanganate has an absorbance of 0.539 when measured at 540 nanometers in a one centimeter cell. What is the concentration of
+the potassium permanganate? Prior to determining the
+absorbance for the unknown solution the following calibration
+data were collected for the spectrophotometer. So the way that we would tackle this is we know that there
+is a linear relationship between absorbance and concentration. We could describe it something like this, that absorbance is going to be equal to sum slope times are concentration. And you could say sum y-intercept, if we're a purist about it, then the y intercept should be zero because at a zero concentration, you should have a zero absorbance. But the way that chemists
+would typically do it, is that they would put
+these points into a computer and then a computer do
+a linear aggression. You could also do that by hand but that's a little bit out
+of the scope of this video. And I did that, I went to Desmos and I typed in the numbers that they gave. And this is what I got, so I just typed in these numbers and then it fit a linear
+regression line to it and it got these parameters,
+m is equal to this and b is equal to this. Now we could say significant figures it seems like the small
+significant figures here we have have our three, but we could just view the m and the b as intermediate numbers
+in our calculations. What I'm going to do is
+I'm gonna use m and b, and then my final I'll answer I'm going to round to
+three significant figures. So what this tells us, is that absorbance is going to be 5.65333 times our concentration minus 0.0086. And now they've given us what A is. Let me get rid of all of this stuff here. They told us that our absorbance is 0.539, so we know that 0.539 is equal
+to 5.65333C minus 0.0086. And then if you wanna solve for C, let's see, we could add
+this to both sides first. So you get 0.539 plus
+0.0086 is equal to 5.65333C, and then divide both sides by this, and you would get C is equal to, is going to be approximately
+equal to, be a little careful all of these would really be approximate. C is gonna be equal to 0.539
+plus 0.0086 divided by 5.65333. And of course we want to round
+to three significant figures. All right, 0.539 plus
+0.0086 is equal to that, divided by 5.65333 is equal to this, so if we go three significant figures this is going to be 0.0969. So I would write the concentration is approximately 0.0969 Molar.

@@ -1,0 +1,49 @@
+Voiceover: What I want
+to do in this video is start to visualize the balance
+sheet for a simple bank so we can start to understand
+the actual mechanics for how a bank accounts for
+its assets and liabilities in the context of a
+fractional reserve system. First, let's just give a general idea of what a balance sheet is, and I go into a lot more
+depth in other playlists, but when we talk about a balance sheet, we're really just talking about how many assets does something have, and how many liabilities offset it, and how much is left over
+for the owners of the firm or whatever we're talking about. For example, So, for example, if I have, let's say, let's just say, generalize
+it to any type of company. Let's say that they have, so over here, I'll draw their assets, so their assets, I'll
+do it in this green box. The height of it is kind of the magnitude of their assets. Let's say there's some company that has $100 million in assets, and assets, you probably understand. It's something that gives
+you some type of benefit. The more formal definition is something that gives
+you some future value, and it's generally considered to have some positive economic value, so it could be cash because
+cash can be converted into other things. You can go buy a cow, and that cow can provide milk for you and give you future benefit. A cow itself would be an asset. A building would be an asset, because it gives you the future value of giving you shelter, so assets could be anything, but here for the sake of this company, we could even visualize
+it as cash, if you like. It has $100 million of assets, and let's say it has some liabilities, so let's say this company right over here has 60 million in liabilities. I'm trying to do it roughly
+equal to the height. It's not exact, but let's say that they have
+60 million in liabilities. Liabilities are just obligations, so it owes people $60
+million worth of stuff, and so when you look at it this way, this entity here, it could be a company, a firm, you could even call this a person, if this was a person. They have $100 million of assets, but they owe 60 million of that 100, or you could say they owe 60, and you could view it of that 100 million, so they would have 40 million left over for themselves. If you were to say, "What
+is the value of this?" How much do the owners of this entity, actually, how much are they
+worth from this entity? It would be the 100 minus the 60. they have 100, they owe 60, so the owner's equity, right over here, would be $40 million. That's really kind of the value of what the owners have, and it's called owner's equity. That's just a basic primary primer in assets and liabilities, and now I want to use, I want to build on that to think about what's actually happening in a fractional reserve
+system with the bank, and what we're going to see is, the way it's actually done mechanically in a modern fractional reserve system is slightly different than the way you would conceptualize it, the way you, actually, I've been
+conceptualizing it for you guys, because that's just an easier way to think about things. Let's just say we were
+going to go start a bank. Let's say I want to start a bank, and what I do is I go and I take, I go buy a, I don't know. Let's say I go buy a $10
+million existing bank. Here, I have an asset, which is my equipment and the building and all of the computers
+and all of the things, all of the things that can
+essentially run a bank, and that's worth $10 million, and this is my owner's equity. So i have $10 million of owner's equity. Maybe I'll do it in those
+same colors that I did, so let me do this in that green color. This is an asset, and I have no liabilities yet. Let's just say that I
+inherited that money, or that was just money
+that I had saved up, so I went in and bought
+a $10 million asset, and so my equity, since there's no offsetting liabilities is $10 million, so this is my owner's
+equity right over here, is $10 million, so I'll just call it equity. Now, let's say that, you know, you were impressed with my building, and my IT systems, and the number of ATMs
+that I have around town, so you decide that you want to deposit some money with me, so let's say that you take your, you take a wheelbarrow, and in your wheelbarrow,
+you come and you deposit, let's say you deposit
+$100 million in my bank, in cash. These are cash reserves. These are federal reserve notes that you're depositing in my bank, so I'll draw these as assets. So this is ... So, let me do $100 million, so it should be about 10 times as high as what I've already drawn, so you're going to come here, and you're going to deposit. you are going to deposit $100 million. So this is $100 million, 100 million of, I'll call it cash, of cash. We'll visualize it as physical cash, and it goes into these
+vaults that I had purchased, and so that's the asset that I got, but obviously, you're not
+just giving me this cash. Then I would be $100 million richer. You're keeping that, you want that on demand. You want that in a checking account so that you can write checks against it and access it from your ATM, and so I have an offsetting liability. My offsetting liability is that this is essentially
+a demand deposit for you, so this is, I guess the way we can view it is, the way we can view it is, we can write it as a checkable, checkable deposit, and I'm viewing it from
+the bank's perspective. That's why it's a liability because someone can hand me a check, and I would have to give them some money. This is an obligation. If someone writes a check against these deposits to someone else, that's an obligation that I, as the bank, have to service. I could call this just a checking account, or checking accounts of person A. Maybe that makes it easier to, A's checking account
+is a liability for me, so let me call it, if I haven't called them person A already, I'm calling them now. Person A's checking account, checking account, and that's a liability because person A can come at any time and they can demand $100 million of cash. Now, this, right over here, I haven't done anything fractional yet. This is just regular, so far, this would be equivalent
+to full reserve banking. I'm just keeping person A's money safe. We know in a fractional reserve system, I can lend out a good bit of money, so that's, essentially,
+what I could then do, if we're talking about fractional reserve. I can lend out 90% of this money. I could lend out 90% of this, so let me take out 90%, so let me clear this right over here. Let me clear that, and so let's say I took out 90% out of it, and lent it out, and so we only have 10 million of the original cash there as reserves, and I'll call them reserves now. But that's 10 million of the original, so I'm going to have 10
+million of reserves left, and everything else I lent out, so everything else I lent out, so 90 million, I lent, 90 million of lending, so we can even visualize
+it as big stacks of cash that I handed out to people, and then you might say, "Well, I didn't just give
+that to those people." In exchange for that, they are saying I'm going to pay me back. So that's an asset. If you borrow money from me, it's an obligation for you. It's a liability for you, but it's an asset for me. Let me make this clear. So, if I'm a bank, if I'm a bank, and there's a borrower, there is a borrower, there is a borrower, and if I give the borrower, if I give the borrower $1, if I give them $1, you could visualize it, although that's not exactly how it works, is that they give an IOU. They give the bank an IOU. I owe you $1 at some future date. Now, from the bank's point of view, this IOU is an asset. They're essentially exchanging assets. The bank is giving it a $1, the borrower is giving an IOU. From the borrower's point of view, the dollar is an asset, and this IOU is a liability. But from the bank's point of view, it's like, "Oh, I have this IOU. "Maybe I could give this to someone else. "Maybe I could sell this IOU. "This IOU is going to
+give me future benefit." Because assuming this person's good for their money, they're going to give that money back. That's the same reason why a check is a liability of the bank. If you write a check to someone, the bank has a responsibility to, if someone were to give
+that check to the bank, to give them cash. So, in a similar way, when the bank lends out all of this money, they're going to get IOUs from all the people that they lent it to, so they're going to have, they're going to get 90 million of IOUs. We could say 90 million worth of loans, but you really could just view those as these are IOUs to other people. This is an asset because
+it's going to give some future benefit at some future time. I'm going to leave you there, because what I did here, this is conceptually identical to everything we've been talking about. This is, frankly, how
+most people visualize fractural reserve lending. You get 100 million reserves, you lend out 90 million of that reserves, and you exchange that for an asset, which is essentially an IOU. What we'll see in the next video is this isn't exactly true. What a bank could actually do is it could actually create. It could actually take just
+the 10 million of reserves and then it could create these assets, which are functionally equivalent. It looks a little bit shady the first time you think about it, but they're actually
+functionally equivalent, so it's not as shady as you might initially think it to be, and we'll cover that in the next video.

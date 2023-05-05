@@ -1,0 +1,108 @@
+- [Instructor] There's
+a big fat, juicy apple hanging from a tree branch,
+and you want this apple, but you can't climb the tree? Luckily, you've got an
+orange in your pocket. So you take this orange and
+you chuck it at the apple, and it strikes it at the
+apex of its trajectory, causing the apple to fly off, and now you've got an orange and an apple. Now this is technically fruit vandalism if it's not your apple tree. So make sure you're only
+picking your own apples or you've paid someone to do
+this and everything's legit. But this is also a collision problem. And in physics, you could solve
+for the velocities involved and the mass and the momentums involved by using conservation momentum,
+if we had some numbers. So let's give ourselves some numbers. Let's see if we can solve
+for some quantities here. So let's say this apple, I
+told you it was big and fat, let's say this apple was 0.7 kilograms. Let's say the orange
+is probably not as big, so 0.4 kilograms. And let's give some numbers, let's say the speed of the
+orange right before the collision was five meters per second. So since this orange
+was at its apex, right? It was just heading in this way and it was going
+horizontally at that moment, five meters per second, right
+before it struck the apple. And let's say the apple was
+moving three meters per second right after the collision, so right after the orange hit the apple, the apple starts flying at
+three meters per second. One question we could ask,
+one obvious question, is, if this is the speed of the
+apple after the collision, what was the speed of the
+orange after the collision? What was the velocity of the orange? And which way was it going? So we'll call it VO for V orange, and was that orange going left or right immediately after the
+collision took place? Sometimes this isn't so obvious, so let's see if we can solve for this now. We've got enough to solve. We can do this using
+conservation momentum, and conservation momentum says that if there's no external
+impulse on a system, and our system here is
+the orange and apple, if there's no external
+impulse on these fruit, that means the total momentum before the collision took place, so right before the collision took place, has got to equal the total momentum right after the collision took place, and it's important that we denote right before and right after. We're not talking, like, right
+as someone threw this fruit before it got up here, and
+we're not talkin' finally, like after the apple gets
+back down to the ground. You can't do that. For most collision problems,
+you're gonna want to consider right before the
+collision and right after, and the reason is,
+remember, this formula here is only true if there's
+no external impulse. So only if external impulse is zero. And you might be like,
+well, isn't it always zero? Shouldn't it be zero in this case? It's not so obvious. If you're clever, you might
+be like, wait a minute, there's a force of gravity on this apple. There's a force of gravity on the orange. So doesn't that mean
+there's an external force? And if there's an external force, doesn't that mean there's
+an external impulse? And doesn't that mean that the momentum shouldn't be conserved? Well, not really. And the reason is, for one, this force of
+gravity is directed downward, so it's only gonna effect
+the vertical momentum. And we're just talking about
+the horizontal momentum here. I wanna know what happens
+to the horizontal momentum of this orange, but secondly,
+the definition of impulse is that it's the force that acts multiplied by the time duration. We're gonna say that if
+we consider right before the collision and right
+after the collision is our initial and final points, this time interval's gonna be so small that the force of gravity is gonna have almost no time to act. And because it has almost no time to act, it has almost no external impulse. So we're gonna ignore the
+impulse due to gravity, because it acts over such
+a small period of time and it's such a modest force,
+which means we get to use conservation momentum for our system. So what is this gonna look like? Well, the momentum formula
+is mass times velocity, so the initial momentum of the system, let's see, I'd have to
+add up initial momentum of the orange is 0.4
+kilograms, that's the mass, times the initial velocity,
+that's five meters per second, plus, I'm gonna add to
+that the mass of the apple, 0.7 kilograms, multiplied by the initial velocity of the apple. What was the initial
+velocity of the apple? It wasn't three, people
+try to plug in three, that wasn't the final
+velocity of the apple. The initial velocity of
+the apple was just zero, 'cause it was hangin' on a tree branch and was just sittin' there. So this is gonna be zero. What that means is, this
+entire term is gonna be zero, 'cause zero times 7.7 is still zero. So this term just goes away. It's gonna be zero equals the final momentum. All right, so we added
+up the total momentum of our system initially, now we're gonna add up all the momentum of our system finally. So 0.4 kilograms is
+the mass of the orange, multiplied by, we don't
+know the final velocity of the orange, that's
+the thing we wanna find. So I'm gonna write that as
+VO, for V of the orange. This final velocity of the
+orange is what we wanna find. This term here represents the
+final momentum of the orange, but I have to, I can't stop yet. I have to add to that the
+final momentum of the apple. So remember, when you're writing
+down conservation momentum for a system, the statement
+isn't that the initial momentum of one object equals the final momentum of some other object. It says that the total initial
+momentum of the entire system equals the total final
+momentum of the entire system. So I'll take my .7, multiplied
+by my final velocity is three meters per second for the apple, and now I can solve. So we can solve this,
+I've only got one unknown. So .4 times five is two
+kilogram meters per second, plus zero, I'm not gonna write that, 'cause it would just take up space. Equals .4 times VO is the unknown, so .4 kilograms times the unknown VO, and then plus .7 times three is gonna be 2.1 kilogram
+meters per second. So our system started off with two kilogram meters per second
+of momentum to the right. That's what the orange brought in. And our system ends with 2.1
+kilogram meters per second to the right, which is what the apple has, plus whatever momentum the orange has right after the collision, and you might look at this and be like, wait a minute, hold on, we screwed somethin' up. Two kilogram meters per second equals 2.1 kilogram meters
+per second plus something? How is this right hand
+side ever gonna equal two if it's got 2.1 to start with, but remember it can, momentum is a vector. And vectors can be positive or negative, depending on whether
+they point right or left. So this just tells us, okay, the orange is going to
+have to have momentum leftward after the collision, so that this whole right hand
+side can add up to two again, and we know we're gonna have
+a final velocity of the orange that's negative. But you don't have to be clever. If you just wanted to solve this equation, it'll tell you whether
+it's going right or left. I'll show you why. If we just do this, two minus 2.1. So if we subtract 2.1 from both sides we'll get negative 0.1
+kilogram meters per second and that's gonna equal this
+final momentum of the orange, so equals 0.4 kilograms for the orange, times VO, the final
+velocity of the orange, and now if we just
+divide both sides by .4, we'll get negative 0.25 meters per second. That's the final velocity of the orange, and you realize, oh, I
+didn't have to figure out the sine beforehand, I could just solve and in the conservation of
+momentum formula will tell me whether it's going right or left, 'cause if I get a negative
+sine here, it just says, oh that velocity had to be directed in the negative direction in
+order to conserve momentum in this case, so this orange,
+right after the collision was heading leftward, that's
+what the negative sign means, and this .25 means it was
+heading leftward at a rate of .25 meters per second. So recapping, we could use
+conservation of momentum to solve for an unknown velocity by setting the total initial
+momentum of the system equal to the total final
+momentum of the system. We gotta be careful with negative signs. If there was an initial
+velocity that was negative, we would've had to plug in that velocity with a negative number, and
+if we find a negative velocity to end with, that means that
+quantity of that velocity was directed in the negative direction. Also, we can only use
+conservation of momentum whenever the external impulse is zero, which is why we consider
+points immediately before the collision and immediately after, so that this time interval is so small, gravity can't apply much
+of an impulse at all, and I should say, we should
+assume that this stem was barely hanging on by a string, 'cause if this stem was
+secured to the tree, then there would've
+been and external force that coulda caused an external impulse. So let's assume this apple was already just about to fall off, and the slightest of
+forces could knock it off. That way, there's no external impulse and we get to use
+conservation of momentum.

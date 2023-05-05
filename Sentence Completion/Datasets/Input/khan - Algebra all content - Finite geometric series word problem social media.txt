@@ -1,0 +1,101 @@
+A new social media site
+boasts that its user base has increased 47% each
+month for the past year. The number of users on January
+1st of last year was 50,000. Which expression below
+gives the total number of new users in thousands
+that were added through month n of the past year, where 1 is
+less than or equal to n, which is less than or equal to 12. And they give us some
+choices of expressions for the total
+number of new users that were added through month n. And I encourage you to
+now pause this video and try to think about
+which of these expressions actually show that,
+that gives that value. Well to tackle it, I'm going
+to make a little bit of a table here. So let's say we have month, and
+then we have starting users-- so users at the
+start-- and then let's think about the users added. I want to give myself
+some space to work with. And then users at
+the end of the month. So in month 1, which is
+January we can assume, we started with 50,000 users. They want us to write
+the expression in 1,000. So we started with 50,000 users. And how many did we add? Well we added 47% of 50,000. So 50 times 47%. So times 0.47. So how many do we end with? Well 50 plus 50
+times 0.47, that's going to be 50 times-- I'm gonna
+do the 50 in green-- that's going to be 50 times 1.47. If this isn't clear,
+just think about this. This you could
+rewrite as 50 times 1. So 50 times 1 plus
+50 times 0.47, that's going to be
+50 times 1 plus 0.47. Or 1.47. So it's going to be this
+thing right over here. So now let's go to month 2. We start with what we
+ended the last month. So I could just copy
+and paste this actually. Let me just do that. So copy and paste. So that's what we start with. Now what are we going to add? Well we're going to add
+this, what we started with, times 0.47. And so what are we
+going to end with? Well if you sum these two-- and
+you could write it this way-- this is going to be
+this thing times 1.47. Or we could just write this
+is 50 times 1.47 squared. And you might start
+seeing a pattern now. Let's go to month 3. So month 3: what do we
+start the month with? We start the month
+with this thing. Let me copy and paste this. So, copy and paste. We start with that. What do we add? Well we're going to
+take that, and we're going to multiply it times 47%. We're going to
+multiply it times 0.47. And so what are we
+going to end up with? We're gonna have this times
+1 plus this times 0.47. That is going to be equal
+to that times 1.471. Or we could just write this as
+50 times 1.47 to the 3rd power. So what's the pattern here? Well in each month, we're
+going to be starting with 50 times 1.47 to a
+power 1 less than the month. In the third month,
+the power here is 2. In the second month,
+the power here is 1. In the first month, the
+power here-- you don't see it but you can view this as
+times 1.47 to the 0 power. So 1st month, 0 power. Third month, you
+have the 1st power. Third month, you have the
+second power over here. So if we're thinking
+about the nth month this is going to
+be 50 times 1.47 to the n minus 1th power, is what we're
+going to start the month with. Now what are we going
+to add in the nth month? Well it's going to
+be that times 47%. So it's going to be--
+we'll just copy and paste that-- so it's going
+to be that times 47%. Times 0.47. And then, what are
+we going to end with? Well when you add
+these two things, you are going to get
+50-- I'll just do it in the right colors instead
+of copying and pasting it-- you're going to get 50
+times 1.47 to the nth power. So let's think about
+how we can come up with the expression for the
+total number of new users in thousands that were
+added through month n. So there's a couple of
+ways to think about it. You could say, well how
+many total new users did we have at the
+end of month n? Well at the end of month
+n, we had that many. And then how many did we have
+at the beginning of the year? Well we have 50,000. So how many total new users
+did we add through month n. So we finished with this much. Let me just write it down. So we just finished
+with that much. And let me paste that. So that's what we finished with. And we started
+with 50,000 users. So this is essentially how
+many we added through month n. Now do any of our
+expressions look like that? Well, no not quite. If this one had a minus
+50 right over here, if that said minus 50, then
+that would've done the trick, but this doesn't do it. And none of the others really
+seem to either have this form or seem to be
+something that would be very easy to
+manipulate in this form. So that's one way to do it, but
+that's not one of our choices. So what's another way
+of thinking about it. Well, we could literally
+just add how many new users we added month by month. So we literally could just
+add all of these things right over here. So let's see, we could literally
+just add all of these terms. But let me simplify
+it a little bit. So what are some common factors
+that we see in all of these? Well we see they all have a 50. And they all have something
+being multiplied by 0.47. So let's factor out
+a 0.47 and a 50. So let's factor that out. So this is going to
+be equal to-- if we were to sum all this up-- it's
+going to be 0.47 times 50. And then what's left over? Times-- so in the first
+month, if you factor those two things out, you're going
+to just be left with a 1. In the second month if you
+factor out the 50 and the 0.47, you're left with 1.47. In the third month, if you
+factor that and that out, you're left with 1.47 squared. And we're going to go all
+the way to the nth month. If you factor out
+that and that, you're left with 1.47 to the
+n minus 1th power. So which of those
+expressions look like that? Well this is exactly the second
+expression right over here. This is exactly what
+we came up with. And we're done.

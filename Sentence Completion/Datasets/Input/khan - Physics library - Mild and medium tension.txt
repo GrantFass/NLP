@@ -1,0 +1,141 @@
+- [Voiceover] You bought a huge canister, aluminum can, of super hot red peppers, three kilograms' worth, and
+you hung them from two strings from the ceiling 'cause
+you don't want anyone to get your super hot red peppers, and you wanted to know, what's the tension in
+both of these strings? If this is the angle that the strings make with the ceiling, what are these two tensions? This problem's hard. This problem's spicy, this
+is a spicy tension problem. Let's start with something
+a little more mild and we'll work our way up to this to see how this works. We're gonna do that because
+even though this one seems very difficult, and easier problems seem much different from it, the process that you use
+to figure out the answer is always the same. So I'm gonna try to show you that you shouldn't get distracted. Even though the details
+are different, the process, the overall strategy is the same. Let's start with
+something a little easier. Let's start with this, a nice, red apple. Let's say this apple is three kilograms so we can keep the same number. Three kilogram apple,
+hanging from a string. We wanna know what's
+the tension in the rope. Well, this one's easy. The way you solve it is the way you solve all of these problems. So even though it's easy,
+we're gonna go through the entire process so
+you can see how it works, and it won't take long. We draw the forces. The force of gravity is
+exerted on this apple because it's always exerted
+on everything near the Earth, and it's mg. Now, we've got a tension force. And the tension does not push. You can't push with a rope. You can pull with a rope,
+so this tension force points upward, I'll call it T. That's always the first step. You draw your force diagram, and now you use Newton's Second Law for either the horizontal direction or the vertical direction,
+of both if you have to. So we're gonna use Newton's Second Law, which looks like this. And the acceleration
+in a certain direction equals the net force in that direction divided by the mass. Which direction do we pick? It's pretty obvious here. We'll pick the vertical direction because there are no forces
+in the horizontal direction. And I'll plug in the acceleration. If this apple's just
+hanging here and not moving, then it's not accelerating,
+it's just sitting here. Unless this was like an
+elevator or a rocket ship that had acceleration upward. You could do that, you'd
+plug in that acceleration. But if it's just hanging
+from the ceiling at rest, this acceleration's gonna be zero. That's gonna equal the net force. We've got tension upward. To figure out what goes here, like we draw this force
+diagram for a reason. This isn't just like happy fun painting time over here. This is a strategy. We draw these forces
+'cause this lets us know what we plug into Newton's
+Second Law for the net force. If it's not on here, I
+don't put it up here. And if it is on here, I
+have to put it in here if it's in that direction. So tension is vertical, and
+this is the vertical direction for the net force. So I put tension in here. I'm gonna call upward positive. That means I make this tension positive. And how about mg over here? mg points down so I minus mg. Then I divide by the mass. Well, now I just solve for the tension. So this is the process. You draw your force diagram,
+you use Newton's Second Law, and then you try to solve
+for the force that you want. In this case, it's the tension. So I multiply both sides by m. It's still zero on the left-hand side, so zero equals t minus mg. And if I solve this for t, I get something that might
+not be all that surprising. I just get that the
+tension is equal to mg. And you might be like, "Well, duh. "That was like way more
+trouble than it had to be." I mean, you just knew it, it was mg. This tension just has to balance gravity, so it's just mg, why did we
+go through all this trouble? And the reason is, I
+mean, it is equal to mg, but it won't always be equal to mg. So if you wanna know what to
+do when it's not equal to mg, you have to know how to
+use this process well. Why would it not be equal to mg? Well, imagine this. Imagine I had, say, two tensions up here. Or let's start with this,
+let's say I just pull down on the rope. I just come over here and
+someone pulls down on the apple. Let's say someone just
+pulls down the apple with an extra five Newtons. Right, pulling this apple,
+which pulls this string, which makes it tighter. What would I do in that case? Well, I've got one more force
+here in my force diagram. I just add that. So that's five Newtons. It's pointing downward, so
+when I come over to here to my net force, I've got
+to subtract five Newtons 'cause that's pointing downward. And now I do my algebra just as before. I multiply both sides by m. I'll have another minus five Newtons here. And then when I solve for t
+I'll add mg to both sides, and I'll add five Newtons to both sides. And so this would be my force. So with numbers, what are we gonna get? The mass was three, so
+we'll have three kilograms times the acceleration due to gravity is 9.8, but to make the numbers nice, let's just round to 10 for now, 10 meters per second squared. That way we don't get lost
+in details and decimals. So plus five Newtons. It's mg when it's just hanging there, but if there's extra
+forces, it won't be mg. In this case, with a five
+Newton force downward, it's gonna be 30 plus five, so it's gonna be 35 Newtons. So it's equal to mg in
+the easiest possible case, but if there's extra forces,
+it won't be equal to that. Also, if there was another rope pulling up in the same spot as the first rope, now I'd have two tensions pulling up. Now I've got another tension
+force pulling up this way. So what would I do now? I'd have to add another T. I'd have plus T. Well T plus T is just 2T. So I'd have a 2T here, I'd have a 2T here. To solve for T, I'd just
+have to do 35 Newtons divided by two. You could start making these
+harder, and harder, and harder, and you could do that
+by adding extra ropes, or adding forces down. And you might convince
+yourself erroneously you have to do something
+new, but you don't. You still just draw your force diagram, then you go to Newton's Second Law, you put those forces in carefully, you solve for what you wanna know. And if this is confusing,
+why is it 35 over two? It kind of makes sense. The total downward force is 35 Newtons 'cause this is 30 Newtons of weight here. We've got 35 Newtons in downward. The total upward force has to be 35. And if these strings are
+attached at the same point, they're both gonna bear
+the same amount of weight. They have to total up to 35, so you just get 35 over
+two amongst each of them 'cause they each bear half the weight. So that was one of the easiest problems. We turned it into a little
+bit of a harder problem. It gets even harder if we add an angle. Remember, those jalapenos
+were at an angle. We gotta do this. We gotta do one at an angle. Say you got a chalkboard
+hanging from two strings. One string's horizontal, one
+string is up here at an angle. What do you do now? It's easy to convince yourself
+you gotta try something new, or go for a new strategy, but you don't. You solve this the same way. We're gonna draw our forces. We've still got a force of gravity down. So this force of gravity is just mg. And for consistency's
+sake, let's say the mass of this chalkboard is
+also three kilograms. All right, what else do I have? I'm gonna have a tension that
+points up and to the right. It doesn't point this way. Tension doesn't push, tension pulls. So this tension's gotta pull this way. We'll call this T one. This is T one. And over on my force diagram,
+it would look like this. I'd have a T one that
+points something like that. So here's my T one. I'll put it here, T one. And I've got one more force now. I've got this horizontal force here. Again, it does not push. This is a rope, it can only pull. So it pulls to the left. I'll call this T two. So on my force diagram, I would have T two, and that's it. Those are all my forces. I don't have a normal force. Sometimes people wanna draw, people are so used to there
+always being normal force. They're like, "Normal force, right?" And it's like, "No." There's no surface
+touching this chalkboard. It's just hanging by strings. The only force keeping it up
+would be the vertical component of this T one, so this is it. These are the only forces we've got. What do you do after that? Same as the apple problem. We go to Newton's Second Law, and we say that the acceleration
+will be the net force divided by the mass. Which direction do we pick? It's not quite as obvious here. We've got forces vertically
+and horizontally. So here's my advice. Look for something that you know. in this case, I know the
+mass is three kilograms, and I know the acceleration
+due to gravity, or the magnitude of it, 9.8, but in this case, 10. Since I know this force, remember, this force is just 30 Newtons 'cause three times 9.8, or three times 10 meters
+per second squared is just 30 Newtons. Since I know this force,
+it's a vertical force, I know something about that direction. I'm just gonna start with that direction 'cause I already know something about it. So I'm gonna do a in the y direction, F in the y direction. We'll start with the vertical direction. If you make a mistake and
+you pick the wrong direction, it's not the end of the world. Just pick the other direction. There's only two to worry about, so if you screw one up,
+just go on to the next one. It's not that big of a deal. All right, acceleration vertically again. Let's say this is at rest, just hanging from these strings. So we don't have to worry
+about any acceleration. Although, if there was, you would just plug that acceleration in here. It's not that much harder of a problem. Zero equals, all right, what do we got? We need to put our vertical forces up top. I know this one. 30 Newtons downward. So I'm gonna have negative 30 Newtons 'cause those 30 Newtons point down, and I'm gonna consider
+downward as a negative, upward as positive. This is really just mg. I could've wrote it as negative mg. What else do I have? I've got T one; T one points up, but I can't add all of T one here 'cause it doesn't all point up. I can only add all of T one if T one pointed straight upward. But it doesn't. Part of it points up. So this part of T one points to the right, pulls to the right. This part of T one pulls up. It's this component right
+here that's gonna be the component that actually
+causes this chalkboard to stay up, that keeps
+it from falling down because that's the part
+that's fighting gravity. We'll call this T one in the y direction. We'll call this T one in the x direction. So we need to add plus T
+one in the y direction. And that's it, those
+are the only two forces that are vertical. T one x is not vertical. That's horizontal, and
+this T two is horizontal. So I've included T one y and mg. Those are the only two
+forces that are vertical. So now I divide by them my mass. I can multiply both sides by mass. m times zero is still zero. I get zero equals negative 30 Newtons plus T one y. And now we have to figure out, okay, T one y, T one y has to equal what? I can solve this for T one y. I add 30 to both sides. I'm gonna get T one y equals positive 30 Newtons. And that makes sense. I mean, this T one y is the only component that's balancing out gravity. We know it has to balance because there's no
+acceleration vertically. So this T one y has to
+be the exact same size as the force of gravity. I drew it, it's not proportional here. Sorry about that, I should've drawn it with this component
+exactly the same length as this component 'cause
+they to be the same, they have to cancel. But that just tells me T one y. I wanna know what T one is. How do I solve for what T one is, and what T two is? These are what I wanna figure out. What are the tensions? I don't just want the
+component, I want the tension. And so now I say that
+this component, T one y, is gonna be related to the total T one, and it's related through this angle here. So I can say that T one y, whatever this angle is right here. Remember, we can use trigonometry and we can say that sine theta is gonna be the opposite
+side over the hypotenuse. And in this case the
+opposite side to this angle, opposite is T one y. It's gonna be T one y divided by, the hypotenuse side is the total tension. So that's always the total
+magnitude of the force. In this case, we're calling that T one. So I wanna solve for T one. So if I multiply both sides by T one, I'll get T one times sine theta, and then I divide both
+sides by sine theta. I'll end up with T one equals T one in the y direction
+divided by sine theta. I know T one in the y direction. That was 30 degree, or
+sorry, not 30 degrees. That was 30 Newtons. So I've got 30 Newtons,
+that's my force, upward. This vertical component right
+here had to be 30 Newtons 'cause it had to balance gravity, divided by sine of the angle. But what is this angle? We know this angle's 30. And you could probably convince yourself, if I draw a triangle this way, let's try to figure out, we wanna figure out what
+this angle is right here 'cause that's what this angle is here. So if this is 30 and that's 90, then this has to be 60. And if that's 60, and this is 90, then this has to be 30. So this angle is 30 degrees right here. So that's 30 degrees. So this angle right here, which is this angle
+right here, has to be 30. So when I'm taking my sine, I'm taking my sine of 30 degrees. And I get 30 Newtons
+divided by sine of 30, and sine of 30 is 1/2. So .5, so I get that this is 60 Newtons. And that might seem crazy. You might be like, "Wait a minute. "T one is 60 Newtons? "60 Newtons? "The weight of this
+chalkboard is only 30 Newtons. "How in the world can
+the tension in this rope "be 60 Newtons?" I mean, if we just hung
+it by a single string, if we just hung this
+chalkboard by a single string over the center of mass, you'd just get a tension of 30 Newtons. How can this be 60 Newtons? And the reason is, this
+part's gotta be 30 Newtons. We know that 'cause it
+has to balance gravity. But that's only part of the total tension. So if the total tension, if
+part of the total tension is 30, all of the tension's
+gotta be more than 30. And in this case, it's 60 Newtons. So that's why it's larger in this case, 'cause it's at an angle. So this component has to equal gravity, and this total amount has
+to be bigger than that so that its component is equal to gravity. Right, how do we figure out T two? Well, you don't invent a new strategy. We keep going, we're just
+gonna say that the acceleration in the horizontal direction is the net force in the
+horizontal direction divided by the mass, so we still stick with Newton's Second Law even when we wanna find this other force. This force is horizontal,
+so it makes sense that we're gonna use Newton's Second Law for the horizontal direction. Again, if this chalkboard
+is not accelerating, the acceleration is zero,
+so I'll draw a line here to keep my calculations separate. Equals net force in the x direction. Okay, now I'm gonna have
+T one in the x direction. So this is gonna be T one in the x. So I'll have T one in the x direction. That's positive 'cause it points right, and I'm gonna consider rightward positive. Minus T two, all of T two. I don't have to break T two up. T two points completely in
+the horizontal direction. And I divide that by the mass. And well, I can multiply
+both sides by mass. I'd get zero equals T one in the x direction puh, minus, excuse me, minus T two. So if I solve this for T two, I'm gonna get that T two, if
+I add T two to both sides, I get that T two just equals T one in the x direction. But how big is T one in the x direction? We know T one is 60 Newtons. We know T one in the y direction of this piece here was 30 Newtons. How big is this piece? Well we can use, instead of sine now, we can use cosine. So if I use cosine, I can
+get that cosine theta, which is 30 degrees here,
+'cause this angle here's 30. Cosine of 30 would be the adjacent. That's this T one x, so it's adjacent over the hypotenuse. The hypotenuse is T
+one, and we know T one. T one was 60. So I can solve for T one x, and I get that T one in the x direction, if I multiply both sides by 60 Newtons, this is 60 Newtons, I get
+that T one in the x direction would be 60 Newtons times cosine of 30. And the cosine of 30 is, cosine of 30 is root three over two. So I get 60 Newtons times root three over two, which means that T one
+in the x direction is, 60 over two would be 30, so this is 30 root three Newtons. And that's what I can bring up here. This is T one x. So since that's T one x, I can
+say that T one x right here is 30 root three Newtons. And by Newton's Second Law
+in the horizontal direction, that's what T two had to equal. So T two equals 30 root three Newtons. So we figured it out. T two equals 30 root three Newtons, and that should be surprising. This force here, in order to make it so that there's no
+acceleration horizontally, just has to equal this force here. Those are the only two horizontal forces. We knew T one x was 30 root three. That's what we found. So that means T two also
+has to be 30 root three to make it so that these
+forces are balanced in the horizontal direction. All right, so we did it. We figured out T one, 60 Newtons. We figured out T two,
+30 root three Newtons. Now we're ready, now we could figure out the super hot jalapeno problem. We'll do that in the next video.

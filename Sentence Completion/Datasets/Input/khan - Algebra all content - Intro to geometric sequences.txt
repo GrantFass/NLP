@@ -1,0 +1,129 @@
+In this video I want to
+introduce you to the idea of a geometric sequence. And I have a ton of more
+advanced videos on the topic, but it's really a good place to
+start, just to understand what we're talking about
+when someone tells you a geometric sequence. Now a good starting point is
+just, what is a sequence? And a sequence is, you
+can imagine, just a progression of numbers. So for example, and this isn't
+even a geometric series, if I just said 1, 2, 3, 4, 5. This is a sequence of numbers. It's not a geometric sequence,
+but it is a sequence. A geometric sequence is a
+special progression, or a special sequence, of numbers,
+where each successive number is a fixed multiple of
+the number before it. Let me explain what
+I'm saying. So let's say my first number is
+2 and then I multiply 2 by the number 3. So I multiply it
+by 3, I get 6. And then I multiply 6 times the
+number 3, and I get 18. Then I multiply 18 times the
+number 3, and I get 54. And I just keep going
+that way. So I just keep multiplying
+by the number 3. So I started, if we want to get
+some notation here, this is my first term. We'll call it a1 for
+my sequence. And each time I'm multiplying
+it by a common number, and that number is often called
+the common ratio. So in this case, a1 is equal to
+2, and my common ratio is equal to 3. So if someone were to tell
+you, hey, you've got a geometric sequence. a1 is equal to 90 and your
+common ratio is equal to negative 1/3. That means that the first term
+of your sequence is 90. The second term is negative
+1/3 times 90. Which is what? That's negative 30, right? 1/3 times 90 is 30, and then you
+put the negative number. Then the next number is going
+to be 1/3 times this. So negative 1/3 times this. 1/3 times 30 is 10. The negatives cancel out,
+so you get positive 10. Then the next number is going
+to be 10 times negative 1/3, or negative 10/3. And then the next number is
+going to be negative 10/3 times negative 1/3 so it's going
+to be positive 10/3. And you could just keep going
+on with this sequence. So that's what people talk
+about when they mean a geometric sequence. I want to make one little
+distinction here. This always used to confuse me
+because the terms are used very often in the
+same context. These are sequences. These are kind of a progression
+of numbers. 2, then 6, then 18, 90, then
+negative 30, then 10, then negative 10/3. Then, I'm sorry, this is
+positive 10/9, right? Negative 1/3 times negative
+10/3, negatives cancel out. Right. 10/9. Don't want to make
+a mistake here. These are sequences. You might also see the
+word a series. And you might even see
+a geometric series. A series, the most conventional
+use of the word series, means a sum
+of a sequence. So for example, this is
+a geometric sequence. A geometric series would be 90
+plus negative 30, plus 10, plus negative 10/3, plus 10/9. So a general way to view
+it is that a series is the sum of a sequence. I just want to make that clear
+because that used to confuse me a lot when I first learned
+about these things. But anyway, let's go back to
+the notion of a geometric sequence, and actually do a word
+problem that deals with one of these. So they're telling us that Anne
+goes bungee jumping off of a bridge above water. On the initial jump, the cord
+stretches by 120 feet. So on a1, our initial
+jump, the cord stretches by 120 feet. We could write it this way. We could write, jump, and then
+how much the cord stretches. So on the initial jump,
+on jump one, the cord stretches 120 feet. Then it says, on the next
+bounce, the stretch is 60% of the original jump, and then
+each additional bounce stretches the rope 60% of
+the previous stretch. So here, the common ratio, where
+each successive term in our sequence is going to be
+60% of the previous term. Or it's going to be 0.6 times
+the previous term. So on the second jump, we're
+going to start 60% of that, or 0.6 times 120. Which is equal to what? That's equal to 72. Then on the third jump, we're
+going to stretch 0.6 of 72, or 0.6 times this. So it would be 0.6 times
+0.6 times 120. Notice, over here, so on the
+fourth jump we're going to have 0.6 times 0.6 times
+0.6 times 120. 60% of this jump, so every
+time we're 60% of the previous jump. So if we wanted to make a
+general formula for this, just based on the way we've defined
+it right here. So the stretch on the nth
+jump, what would it be? So let's see, we start at 120
+times 0.6 to the what? To the n minus 1. How did I get this? Let me write this a
+little bit here. So this is equal to 0.6,
+actually let me write the 120 first. This is equal to 120
+times 0.6 to the n minus 1. How did I get that? Well we're defining the first
+jump as stretching 120 feet. So when you put n is equal to 1
+here, you get 1 minus 1, 0. So you have 0.6 to the
+0th power, and you've just got a 1 here. And that's exactly what happened
+on the first jump. Then on the second jump, you put
+a 2 minus 1, and notice 2 minus 1 is the first
+power, and we have exactly one 0.6 here. So I figured it was n minus 1
+because when n is 2, we have one 0.6, when n is 3, we have
+two 0.6's multiplied by themselves. When n is 4, we have 0.6
+to the third power. So whatever n is, we're taking
+0.6 to the n minus 1 power, and of course we're multiplying
+that times 120. Now and the question they also
+ask us, what will be the rope stretch on the 12th bounce? And over here I'm going
+to use the calculator. and actually let me correct
+this a little bit. This isn't incorrect, but
+they're talking about the bounce, and we could call the
+jump the zeroth bounce. Let me change that. This isn't wrong, but I think
+this is where they're going with the problem. So you can view the initial
+stretch as the zeroth bounce. So instead of labeling it jump,
+let me label it bounce. So the initial stretch is the
+zeroth bounce, then this would be the first bounce, the second bounce, the third bounce. And then our formula becomes
+a lot simpler. Because if you said the stretch
+on nth bounce, then the formula just becomes 0.6
+to the n times 120, right? On the zeroth bounce, that was
+our original stretch, you get 0.6 to the 0, that's
+1 times 120. On the first bounce, 0.6 to
+the 1, one 0.6 right here. 0.6 times the previous
+stretch, or the previous bounce. So this has it in terms of
+bounces, which I think is what the questioner wants us to do. So what about the 12th bounce? Using this convention
+right there. So if we do the 12th bounce,
+let's just get our calculator out. We're going to have 120 times
+0.6 to the 12th power. And hopefully we'll get order
+of operations right, because exponents take precedence over
+multiplication, so it'll just take the 0.6 to the
+12th power only. And so this is equal
+to 0.26 feet. So after your 12th bounce,
+she's going to be barely moving. She's going to be moving about
+3 inches on that 12th bounce. Well, hopefully you found
+this helpful. And I apologize for the slight
+divergence here, but I actually think on some level
+that's instructive. Because you always have to make
+sure that your n matches well with what your
+results are. So when I talked about
+your first jump, I said, OK this is 1. And then I had 0.6 to
+the zeroth power, so I did n minus 1. But then when I relabeled things
+in terms of bounces, this was the zeroth bounce. This makes sense that this is
+0.6 to the zeroth power. This is the first bounce,
+so this would be 0.6 to the first power. Second bounce, 0.6 to
+the second power. It made our equation a
+little bit simpler. Anyway, hopefully you found
+that Interesting.

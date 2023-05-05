@@ -1,0 +1,33 @@
+- [Instructor] Alright,
+we are asked to choose the graph of the function. And the function is f(x) is equal to two, times three to the x and we have three choices here. So, pause this video and
+see if you can determine which of these three graphs actually is the graph of f(x). Let's work through this together. So, whenever I have a function like this, which is an exponential function, because I'm taking some number and I'm multiplying it by some
+other number to some power. So, that tells me that I'm
+dealing with an exponential. So, I like to think about two things. What happens when x equals zero? What is the value of our function? Well, when you just look at this function, this would be two,
+times three to the zero. Which is equal to, three
+to the zero is one. It's equal to two. So, one way to think about it. In the graph of y is equal to f(x), when x is equal to
+zero, y is equal to two. Or another way to think about it is this value in exponential function, sometimes called the initial value, if you were thinking of the x-axis. Instead of the x-axis, you're
+thinking about the time axis or the t-axis. That's why it's sometimes
+called the initial value. But the y-intercept is
+gonna be described by that when you have a function of this form. And you saw it right over there, f(0). Three to the zero's one. You're just left with the two. So, which of these have
+a y-intercept of two? Well, here, the
+y-intercept looks like one. Here, the y-intercept looks like three. Here, the y-intercept is two. So, just through elimination
+through that alone, we can feel pretty good that this third graph is probably the choice. But let's keep on analyzing it to feel even better about it. And so, we have the skills for really any exponential function
+that we might run into. Well, the other thing to realize. This number, three, is often referred to as a common ratio. And that's because every
+time you increase x by one, you're gonna be taking
+three to a one higher power. Or you're essentially gonna
+be multiplying by three again. So, for example, f(1) is going to be equal to two, times three to the one. Two, times three to the
+one or two times three, which is equal to six. So, from f(0) to f(1), you essentially have to multiply by three. And you keep multiplying by three. f(2) you're gonna multiply by three again. It's gonna be two, times three squared, which is equal to 18. And so, once again, when
+I increased my x by one, I'm multiplying the value
+of my function by three. So, let's just see which of these do this. This one we said has
+the wrong y-intercept, but, as we go from x equals
+zero to x equals one, we are going from one to three. And then, we are going from three till looks like pretty close to nine. So, it does look like this does have a common ratio of three. It just does have a different y-intercept than the function we care about. This looks like the graph f(x) is equal to just
+one, times 3 to the x. Here, we're starting at three. And then, when x equals one, it looks like we are doubling
+every time x increases by one. So, this looks like the
+graph of y is equal to... I have what we could
+call our initial value, our y-intercept, three. And, if we're doubling every
+time, we increase by one. Three, times two to the x. That's this graph here. As I said, this first graph looks like y is equal to one, times three to the x. We are tripling every time. One, times three to the x. Or we could just say y is
+equal to three to the x. Now, this one here better work, 'cause we already picked
+it as our solution. So, let's see if that's actually the case. So, as we increase by one,
+we should multiply by three. So, two times three is, indeed, six. And then, when you
+increase by another one, we should go to 18. And that's kind of off the charts here, but it does seem reasonable to see that we are multiplying by three every time. And you could also go the other way. If you're going down by one, you should be dividing by three. So, two divided by three, this does look pretty close to 2/3. So, we should feel very
+good about our third choice.

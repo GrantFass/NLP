@@ -1,0 +1,74 @@
+- Let's now get some practice
+with separable differential equations, so let's say I have
+the differential equation, the derivative of Y with
+respect to X is equal to two Y-squared, and let's say
+that the graph of a particular solution to this, the graph
+of a particular solution, passes through the point one
+comma negative one, so my question to you is, what is Y,
+what is Y when X is equal to three for this particular
+solution, so the particular solution to the differential
+equation that passes through the point one comma negative
+one, what is Y when X is equal to three, and I encourage
+you to pause the video, and try to work through it on your own. So I'm assuming you had a
+go at it, and the key with a separable differential
+equation, and that's a big clue that I'm even calling it a
+separable differential equation, is that you separate the Xs from the Ys. Or all the Xs and the
+DXs from the Ys and DYs. So how do you do that here? Well, what I could do,
+let me just rewrite it. So it's gonna be DY DX is
+equal to two Y-squared, is equal to two Y, equal to two Y-squared. So let's see, we can
+multiply both sides by DX, and let's see, so then we're
+gonna have, that cancels with that if we treat it as just
+a value, or as a variable. We're gonna have DY is
+equal to two Y squared DX. Well, we're not quite done yet. We gotta get this two Y
+squared on the left hand side. So we can divide both
+sides by two Y-squared. So if we divide both sides by
+two Y-squared, two Y-squared, the left hand side, we could
+rewrite this as 1/2 Y to the negative two power, is going
+to be equal to DY, DY is equal to DX, and now, we
+can integrate both sides. So we can integrate both sides. Let me give myself a
+little bit more space. And so, what is, what is this
+left hand side going to be? Well, we increment the exponent, and then divide by that value,
+so Y to the negative two, if your increment is
+Y to the negative one, and then divide by negative one, so this is going to be -1/2
+Y to the negative one power, and we could do a plus C like
+we did in the previous video, but we're gonna have a
+plus C on both sides, and you could subtract,
+or you know, you have different arbitrary
+constants on both sides and you could subtract them from each other, so I'm just gonna write the
+constant only on one side. So you have that is equal to,
+well if I integrate just DX, that's just going to give me
+X, that's just gonna give me X. So this right over here is X, and of course I can have
+a plus C over there, and If I want I can, I can
+solve for Y if I multiply, let's see, I can multiply
+both sides by negative two, and then I'm gonna have, the
+left hand side you're just gonna have Y to the negative
+one, or 1/Y is equal to, if I multiply the right hand
+side times negative two, I'm gonna have negative
+two times X plus, well it's some arbitrary constant,
+it's still going to, it's gonna be negative two
+times this arbitrary constant but I could still just call it
+some arbitrary constant, and then if we want we can take
+the reciprocal of both sides, and so we will get Y is equal
+to, is equal to 1/-2X+C. And now we can use, we can use
+the information they gave us right over here, the fact
+that our particular solution needs to go through this
+point to solve for C. So, when X is negative one,
+so when X is negative one. Oh sorry, when X is one, when
+X is one, Y is negative one, so we get negative one
+is equal to 1/-2+C, or we could say C minus two, we
+could multiply both sides times C minus two, if then we will
+get, actually let me just scroll down a little bit, so
+if you multiply both sides times C minus two, negative
+one times C minus two is going to be negative C plus two or
+two minus C is equal to one. All I did is I multiplied C
+minus two times both sides, and then, let's see, I can
+subtract two from both sides, so negative C is equal to negative
+one, and then if I multiply both sides by negative one,
+we get C is equal to one. So our particular solution
+is Y is equal to 1/-2X+1. And we are almost done,
+they didn't just ask for, we didn't just ask for
+the particular solution, we asked, what is Y when
+X is equal to three. So Y is going to be equal
+to one over, three times negative two is negative six
+plus one, which is equal to negative, is going to be
+equal to 1/-5, or -1/5. And we are done.

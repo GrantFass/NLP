@@ -1,0 +1,13 @@
+- [Instructor] Suppose we
+multiply a complex number Z by negative three i, and there shows Z right over here Plot the point that
+represents the product of Z and negative three i. I so pause this video and see
+if you can work through that. All right, now let's do it step-by-step. First I wanna think about what would, where would three Z be? Well, three Z would have
+the same angle as Z, but it's absolute value or it's modulus would
+be three times larger. So you'd be going in this direction but it'd be three times further. So that's one times it's modulus. That's two times it's modulus. That's three times it's modulus or it's three times it's absolute value. So three Z would be right over here. Now what about negative three Z? Well, if you multiply it by a negative, it's just going to flip it around. You can think about it as
+flipping it at 180 degrees but it's going to have the same modulus. So instead of being right over here, at three in this direction, it's going to be one, two,
+three in this direction, right over here. So that is negative three Z. And now perhaps most interestingly, what happens when you multiply it by i? So if we have negative three i times Z, now which is exactly what
+they want us to figure out. Well, let's think about
+what happens if you had one and if you multiply that by i. So one times i becomes one i. So it goes over there. What if you then took one
+i and multiplied it by i? Well, then you have negative one. What if you took negative one
+and you multiplied it by i? Well, then now you have negative one i. So notice every time we multiply by i, we are rotating by 90 degrees. So over here, if we take negative three Z and multiply it by i, you're
+just going to rotate 90 degrees and you're going to get right over there. So this is negative three i times Z, which is exactly what we were looking for.

@@ -1,0 +1,60 @@
+- [Instructor] As we go further
+in our statistical careers, it's going to be valuable to assume that certain distributors
+are normal distributions or sometimes to assume that
+they are binomial distributions because if we can do that, we can make all sorts of
+interesting inferences about them when we make that assumption. But one of the key things
+about normal distributions or binomial distributions is
+we assume that they're the sum or they can be viewed as the sum of a bunch
+of independent trials so we have to assume that trials are independent. Now that is reasonable
+in a lot of situations, but sometimes let's say you're conducting a survey of people exiting a mall and in that case and
+let's say you're saying whether they have done
+their taxes already. If they're exiting the mall, it's hard to do these
+samples with replacement. They're leaving the mall. You can't say, "Hey, hey, wait. "I just asked you a question. "Now you've answered it. "Now go back into the mall "because I want each trial
+to be truly independent." But we all know it feels intuitive that hey if there are
+10,000 people in the mall and I'm going to sample 10 of them, does it really matter that
+it's truly independent? Doesn't it matter that we're just close to being independent? And because of that idea and because we do wanna make inferences based on things being close
+to a binomial distribution or a normal distribution, we have something called the 10% rule and the 10% rule says that if our sample, if our sample is less than or
+equal to 10% of the population then it is okay to assume
+approximate independence and there are some fairly
+sophisticated ways of coming up with this 10% threshold. People could have picked 9%. They could have picked 10.1%, but 10% is a nice round number. And if we look at some tangible examples, it seems to do a pretty good job. So for example right over here, let's let x be the number
+of boys from three trials selecting from a classroom of n students where 50% of the class is a boy and 50% of the glass is a girl and so what we have over here is we have a bunch of different n's. What if we have 20 students in the class? What if we have 30? What if we have 100? What if we have 10,000? And so we could find the probability that we select three boys with replacement in each of these scenarios and we could also find the probability that we select three
+boys without replacement and then we could think about what proportion is our sample
+size of the entire population and then we could say, "Hey, does the 10% rule
+actually make sense?" So this first column where we are picking three
+boys with replacement, in this case because we are replacing, each of these trials are independent, are truly independent. And if our trials are independent, then x would be truly a binomial variable. Here, we aren't independent
+because we are not replacing, so not independent, and so officially in this
+column right over here when we're not replacing, x would not be considered
+a binomial random variable. Let's see if there's a threshold where if our sample size is
+a small enough percentage of our entire population
+where we would feel not so bad about assuming x is
+close to being binomial. So in all of the cases where
+you have independent trials and 50% of the population
+is boys, 50% is girls, you're going to amount to
+1/2 times 1/2 times 1/2 so in all of those situations
+we have a 12.5% chance that x is going to be equal to three and in this case x would
+be a binomial variable. But look over here. When three is a fairly large
+percentage of our population, in this case it is 15%, the percent chance of getting
+three boys without replacement is 10.5% which is reasonably
+different from 12.5%. It is 2% different but
+2% relative to 12.5% so that's some place in
+between 10 and 20% difference in terms of the probability. So this is a reasonably big difference. But as we increase the population size without increasing the sample size, we see that these numbers get closer and closer to each other all the way so that if you have 10,000 people in your population and you're only doing three trials that the numbers get very, very close. This is actually 12.49 something percent, but if you round to the
+nearest tenth of a percent, you see that they are close. So I think most people would say, "All right, if your sample "is three ten-thousandths
+of the population "that you'd feel pretty good "treating this column without replacement "as being pretty close to
+being a binomial variable." And most people would say, "All right, this first scenario "where your sample size
+is 15% of your population, "you wouldn't feel so good treating this "without replacement column as
+a binomial random variable." But where do you draw the line? And as we alluded to earlier in the video, the line is typically drawn at 10%. That if your sample size is less than or equal to
+10% of your population, it's not unreasonable to
+treat your random variable, even though it's not
+officially binomial to say, "Okay, maybe it is. "Maybe I can functionally
+treat it as binomial "and then from there "I can make all of the
+powerful interferences "that we tend to do in statistics." With that said, the lower the percentage the sample is of the
+population the better. Now to be clear, that's not saying that small
+sample sizes are better than large sample sizes. In statistics, large sample
+sizes tend to be a lot better than small sample sizes. But if you wanna make this
+independence assumption, so to speak, even when
+it's not exactly true, you want your sample to be a small percentage
+of the population. So the ideal, let's say you're
+doing a survey at the mall, you might wanna survey 100 people but you would hope that there's at least 1,000 people in the mall
+in order for you to feel like your trials are
+reasonably independent. If there's 10,000 people in the mall or somehow 50,000 people in the mall, which would be a very large
+mall, well that's even better.

@@ -1,0 +1,292 @@
+I've got a transformation T. When you apply the
+transformation T to some x in your domain, it is equivalent to
+multiplying that x in your domain, or that vector. by the matrix A. And let's say we know the linear
+transformation T can be-- that's transformation
+matrix when you put it in reduced row echelon form-- it is
+equal to an n by n identity matrix, or the n by
+n identity matrix. Well this alone tells
+a lot of things. First of all, if when you put
+this in reduced row echelon form, you get a square
+identity matrix. That tells us that the
+original matrix had to be n by n. And it also tells us that T is
+a mapping from Rn to Rn. And we saw in the last video,
+all of these are conditions, especially this one right here,
+for T to be invertible. So If we know that this is
+true-- T is a linear transformation, it's a reduced
+row echelon form of the transformation matrix of the
+identity matrix right there-- we know that T is invertible. Let's remind ourselves what it
+even means to be invertible. To be invertible means that
+there exists some-- we used the word function before, but
+now we're talking about transformations, they're
+really the same thing. So let's say there exists some
+transformation-- let's call it T-inverse like that, or T to
+the minus 1-- such that the composition of T-inverse with
+T is equal to the identity transformation on your domain,
+and the composition of T with T-inverse is equal to the
+identity transformation on your codomain. Just like that. And just to remind you what this
+looks like, let's draw our domains and codomains. Our domain is Rn, and our
+codomain is also Rn. So if you take some vector
+in your domain, apply the transformation T-- you're
+going to go into your codomain, so that is T. And then if you apply the
+T-inverse after that, you're going to go back to
+that original x. So this says, look,
+you apply T and then you apply T-inverse. You're just going to get back
+to where you started. It's equivalent to the identity
+transformation. Just like that. This is saying if you start
+here in your codomain, you apply this inverse
+transformation first, then you apply your transformation,
+you're going to go back to the same point in your codomain. So it's equivalent to the
+identity transformation in your codomain. It just happens to be in this
+case that the domain and the codomain are the same set, Rn. Now we know what a
+transformation-- what it means to be invertible. we know what
+the conditions are for invertibility. So this begs the
+next question. We know this guy is a linear
+transformation, in fact that's one of the conditions
+to be able to represent it as a matrix. Or any transformation that can
+be represented as a matrix vector product is a linear
+transformation. So this guy's a linear
+transformation. But the question is, is
+T-inverse a linear transformation? Let's review what the two
+conditions are that we need to have to be a linear
+transformation. So we know T is a linear
+transformation. So we know that if you apply
+the transformation T to two vectors-- let's say x and y--
+if we apply to the sum of those two vectors, it is equal
+to the transformation of the first vector plus the
+transformation of the second vector. That's one of the conditions,
+or one thing that we know is true for all linear
+transformations. And the second thing we know
+is true for all linear transformations is, if we take
+the transformation of some scaled version of a vector in
+our domain, it is equal to the scaling factor times
+the transformation of the vector itself. These are both conditions for
+linear transformations. So let's see if we can prove
+that both of these conditions hold for T-inverse, or
+this guy right here. So to do this, let's do this
+little exercise right here. Let's take the composition of
+T with T-inverse of two vectors, a plus b. Remember, T-inverse is a mapping
+from your codomain to your domain, although they're
+both going to be Rn in this case. But T-inverse maps from
+this set to that set. Let's write it up here. T-inverse is a mapping from your
+codomain to your domain. Although it looks identical,
+just like that. OK, so what is this going
+to be equal to? Well we just said, by definition
+of your inverse transformation, this is going
+to be equal to the identity transformation on
+your codomain. So assuming these guys are
+members of your codomain, in this case Rn, this is just going
+to be equal to a plus b. This thing, the composition
+of T with its inverse, by definition is just the identity
+transformation on your codomain. So this is just whatever
+I put in here. If I put in an x here,
+this would be an x. If I put in an apple here,
+this would be an apple. It's going to be the identity
+transformation. Now what is this equal to? Well I could use the same
+argument to say that this right here is equal to the
+identity transformation applied to a. And I'm not writing the identity
+transformation, I'm writing this. But we know that this is
+equivalent to the identity transformation. So we could say that is
+equivalent to the composition of T with the inverse applied
+to a, and we could say that this is the equivalent to the
+identity transformation, which we know is the same thing as T,
+the composition of t with T-inverse applied to b. So we can rewrite this thing
+right here as being equal to the sum of these two things. In fact we don't even
+have to rewrite it. We can just write it's equal
+to-- this transformation is equal to this. And maybe an easier way for you
+to process it is, we could write this as T of the T-inverse
+of a plus b, is equal to T of the T-inverse
+of a plus T of the T-inverse of b. And this should-- I don't know
+which one your brain processes easier, but either of these,
+when you when you take the composition of T with T-inverse,
+you're going to be left with an a plus b. You take the composition of
+T with T-inverse, you're left with an a. You take the composition of T
+with T-inverse, you're just left with a b there. So in either case you get a
+plus b-- when you evaluate either side of this expression
+you'll get the vector a plus the vector b. Now what can we do? We know that T itself is a
+linear transformation. And since T is a linear
+transformation, we know that T applied to the sum of two
+vectors is equal to T applied to each of those vectors
+and summed up. Or we can take it
+the other way. T applied to two separate
+vectors-- so we call this one vector right here, and this
+vector right here. So in this case I have a T
+applied to one vector, and I'm summing it to a T applied
+to another vector. So it's this right here, which
+we know is equal to T applied to the sum of those
+two vectors. So this is T applied to the
+vector T-inverse of a-- let me write it here-- plus
+T-inverse of b. It might look a little
+convoluted, but all I'm saying is, this looks just like this. If you say that x is equal to
+T-inverse of a, and if you say that y is equal to
+T-inverse of b. So this looks just like that. It's going to be equal to the
+transformation T applied to the sum of those two vectors. So it's going to equal the
+transformation T applied to the inverse of a plus
+T-inverse of b. I just use the fact that T
+is linear to get here. Now what can I do? Let me let me simplify
+everything that I've written right here. So I now have-- let
+me rewrite this. This thing up here, which is
+the same thing as this. T, the composition of T, with
+T-inverse, applied to a plus b is equal to the composition--
+or actually not the composition, just T-- applied to
+two vectors, T-inverse of a plus T-inverse of vector b. That's what we've
+gotten so far. Now we're very close to proving
+that this condition is true for T-inverse, if we can
+just get rid of these T's. Well the best way to get rid
+of those T's is to take the composition with T-inverse
+on both sides. Or take the T-inverse
+transformation of both sides of this equation. So let's do that. So let's take T-inverse of this
+side, T-inverse of that side, should be equal to
+T-inverse of this side. Because these two things
+are the same thing. So if you put the same thing
+into a function, you should get the same value
+on both sides. So what is this thing on
+the left-hand side? What is this? This is the composition-- let me
+write it this way-- this is the composition of T-inverse
+with T, that part, applied to this thing right here. I'm just changing the
+associativity of this-- applied to T-inverse of the
+vector a plus the vector b. That's what this left
+hand side is. This part right here, T-inverse
+of T of this, these first two steps I'm just writing
+as a composition of T-inverse with T applied
+to this right here. That right there is the same
+thing as that right there. So that was another
+way to write that. And so that is going to be equal
+to the composition of T-inverse with T-- I'll write
+that in the same color-- a composition of T-inverse
+with T. That's this part right here,
+which is very similar to that part right there-- of this stuff
+right here, of T-inverse of a plus T-inverse
+of the vector b. Now by definition of what
+T-inverse is, what is this? This is the identity
+transformation on our domain. This is the identity
+transformation on Rn. This is also the identity
+transformation on Rn. So if you apply the identity
+transformation to anything, you're just going
+to get anything. So this is going to be equal
+to-- I'll do it on both sides of the equation-- this whole
+expression on the left-hand side is going to simplify to the
+T-inverse of the vectors a plus the vector b. And the right-hand side
+is just going to simplify to this thing. Is equal to-- because this
+is just the identity transformation-- so it's just
+equal this one, T-inverse of the vector a plus T-inverse
+of the vector b. And just like that, T-inverse
+has met its first condition for being a linear
+transformation. Now let's see if we can do
+the second condition. Let's do the same
+type of thing. Let's take the composition of
+T with T-inverse, let's take the composition of that on some
+vector, let's call it ca. Just like that. Well we know what this is equal
+to, this is equal to the identity transformation on Rn. So this is just going
+to be equal to ca. Now what is a equal to? What is this thing right there--
+I'll write it on the side right here, let me do it
+in an appropriate color. Or we could say that a, the
+vector a is equal to the transformation T with the
+composition of T with T-inverse applied
+to the vector a. Because this is just the
+identity transformation. So we can rewrite this
+expression here as being equal to c times the composition of
+T with T-inverse applied to my vector a. And maybe it might be nice to
+rewrite it in this form instead of this composition
+form. So this left expression we can
+just write as T of the T-inverse of c times the
+vector a-- all I did is rewrite this left-hand side this
+way-- is equal to this green thing right here. Well I'll rewrite similarly. This is equal to c times the
+transformation T applied to the transformation T-inverse
+applied to a. This is by definition what
+composition means. Now T is a linear
+transformation. Which means that if you take c
+time T times some vector, that is equivalent to T times c times
+T applied to c times that vector. This is one of the conditions
+in your transformation. So this is always going
+to be the case with T. So if this is some vector
+that T is applying to, this is some scalar. So this thing, because we
+know that T is a linear transformation, we can rewrite
+as being equal to T applied to the scalar c times T-inverse
+applied to a. And now what can we do? Well let's apply the T-inverse
+transformation to both sides of this. Let me rewrite it. On this side we get T of
+T-inverse of ca is equal to T of c times T-inverse times a. That's what we have so far. But wouldn't it be nice
+if we could get rid of these outer T's? And the best way to do that
+is to take the T-inverse transformation of both sides. So let's do that. T-inverse-- let's take that of
+both sides of this equation, T-inverse of both sides. And another way that this
+could be written. This is equal into the
+composition of T-inverse with T applied to T-inverse applied
+to c times our vector a. This right here, I just decided
+to keep writing it in this form, and I took these two
+guys out and I wrote them as a composition. And this on the right-hand side,
+you can do something very similar. You could say that this is equal
+to the composition of T-inverse with T times--
+or not times, let me be very careful. Taking this composition, this
+transformation, and then taking that transformation
+on c times the inverse transformation applied to a. Let me be very clear
+what I did here. This thing right here is
+this thing right here. This thing right here is
+this thing right here. And I just rewrote this
+composition this way. And the reason why I did this
+is because we know this is just the identity transformation
+on Rn, and this is just the identity
+transformation on Rn. So the identity transformation
+applied to anything is just that anything. So this equation simplifies to
+the in T-inverse applied to c times some vector a, is equal
+to this thing, c times T-inverse times some vector a. And just like that, we've met
+our second condition for being a linear transformation. The first condition
+was met up here. So now we know. And in both cases, we use the
+fact that T was a linear transformation to get to the
+result for T-inverse. So now we know that if T is a
+linear transformation, and T is invertible, then T-inverse
+is also a linear transformation. Which might seem like a little
+nice thing to know, but that's actually a big thing to know. Because now we know that
+T-inverse can be represented as a matrix vector product. That means that T-inverse
+applied to some vector x could be represented as the product
+of some matrix times x. And what we're going to do is,
+we're going to call that matrix the matrix a-inverse. And I haven't defined as well
+how do you construct this a-inverse matrix, but we
+know that it exists. We know this exists now,
+because T is a linear transformation. And we can take it even
+a step further. We know by the definition of
+invertibility that the composition of T-inverse with
+T is equal to the identity transformation on Rn. Well what is a composition? We know that T, if we take--
+let me put it this way. We know that T of x
+is equal to Ax. So if we write T-inverse, the
+composition of T-inverse with T applied to some vector x is
+going to be equal to first, A being applied to x is going
+to be equal to Ax, this a right here, Ax. And then you're going to apply
+A inverse-x, you're going to apply this right here. And we got that this is the
+equivalent to-- when you take the composition, it's equivalent
+to, or your resulting transformation matrix
+of two composition transformations is equal to this
+matrix matrix product. We got that a long time ago. In fact that was the motivation
+for how a matrix matrix product was defined. But what's interesting here is,
+this composition is equal to that, but it's also equal to
+the identity transformation on Rn applied to that vector
+x, which is equal to the identity matrix applied to x. Right? That is the n by n matrix, so
+when you multiply by anything, you get that anything again. So we get a very interesting
+result. A-inverse times A has to be
+equal to the identity matrix. A-inverse, or the matrix
+transformation for T-inverse, when you multiply that with the
+matrix transformation for T, you're going to get
+the identity matrix. And the argument actually
+holds both ways. So we know this is true, but
+the other definition of an inverse, or invertibility, told
+us that the composition of T with T-inverse is equal to
+the identity transformation in our codomain, which
+is also Rn. iRn. So by the exact same argument,
+we know that when you go the other way, if you apply
+T-inverse first and then you apply T-- so that's equivalent
+of saying apply T-inverse first, and then you apply T
+to some x vector, that's equivalent to multiplying that
+x vector by the identity matrix, the n by n
+identity matrix. Or you could say, you could
+switch the order. A times A-inverse is also equal
+to the identity matrix. Which is neat, because we
+learned that matrix matrix products, when you switch the
+order they don't normally always equal each other. But in the case of an invertible
+matrix and its inverse, order doesn't matter. You can take A-inverse times A
+and get the identity matrix, or you could take A times
+A-inverse and get the identity matrix. Now we've gotten this far, the
+next step is to actually figure out how do
+you construct. We know that this thing exists,
+we know that the inverse is a linear
+transformation, that this matrix exists. We see this nice property,
+that when you multiply it times the transformation
+matrix you get the identity matrix. The next step is to actually
+figure out how to figure this guy out.

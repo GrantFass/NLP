@@ -1,0 +1,266 @@
+Let A equal 0, 0 and
+B equal lowercase b2 be points on the
+coordinate plane. Let ABCDEF be a convex
+equilateral hexagon. Convex means that
+it's not concave. A concave hexagon
+would look like this. That's 2 sides-- 3, 4, 5, 6. This would be a concave hexagon. So it's going to be popped out. And all the sides are
+going to be equal. So it's an equilateral hexagon. They're not telling us that
+it's a regular hexagon. So we don't know that
+all of the angles are going to be the same. But all the sides
+will be the same. Such that FAB is
+equal to 120 degrees. Then they show us
+a bunch of sides that are parallel to each other. And then, the y-coordinates
+of its vertices are distinct elements of
+the set 0, 2, 4, 6, 8, 10. The area of the hexagon could
+be written in the form m square root of n, where m and n are
+positive integers and n is not divisible by the
+square of any prime. That's just a
+fancy way of saying that we've simplified this
+radical as much as possible. Find m plus n. So really the first
+part-- let's just make sure we can
+visualize this hexagon. So let me draw-- we know
+1.1 vertex for short 0, 0. So let me draw my x-axis. That is my x-axis. Right over there. And then my y-axis. My y-axis would look like that. Y-axis. We know that the vertex
+A sits at the point 0,0. That is the vertex A. Now, we know that
+all of the vertices have y-coordinates that are
+either 0, 2, 4, 6, 8, 10. And they are distinct
+members of the set. Which means no 2 of the vertices
+share the same y-coordinate. So they're not going to be
+on the same horizontal line. So let me draw these horizontal
+lines-- the x-axis is 0. Then you have y is equal to 2. Then you have 4, then you
+have 6, and then you have 8, and then you have 10 up here. Now, B we already know. So first of all, we've
+already used up to the 0 for A. A Is already
+using up the 0. B uses of the 2-- they tell
+us that the y-coordinate of B is 2. So we use that as well. Let me see if I can
+draw B over here-- It sits on this
+horizontal someplace. And the hexagon
+has side length S, where we don't know
+what that length is, but they're all the same. So let's just call
+this S it's going to help me think about it. Now that I know that this
+is equilateral equaliateral hexagon, all the sides are
+going to be the same length. We're going to go out here
+the coordinate B comma 2. We don't know what B is,
+but that is our vertex B. Now, F is the other vertex
+that is connected to A. F cannot sit on
+this horizontal-- cannot sit on y is equal to 2. It can't sit on y is
+equal to 6, because then this distance
+would be super far. Clearly much further than
+this distance over here. Or, actually, you
+could have that. But then you would
+you wouldn't be able to draw really
+a convex hexagon. The next vertex is just going to
+have to sit on this horizontal. So it's going to be S away. Maybe it will be
+something like that. So let me draw it-- so
+that is the next vertex. That is vertex F. Because
+we're going A, B,C,D, E, F, and then back to A. Fair enough. Now what about vertex C? Well, vertex C can't
+be on the 4 horizontal. So it's going to have to
+be on the 6 horizontal. So vertex C is going to have
+to be someplace like that. That's vertex C. And once again,
+that length is S this length is S. Now what about vertex E? Can't be on the 6 horizontal,
+already taken up by vertex C. So the 4 the 6 are taken up. So it has to be at
+the 8 horizontal. And so this is length S. And we also know that we're
+going back to the origin now. So this is the
+vertex E right here. We know that we're going
+back to the same x value, this is going to be
+on the y-intercept. And the reason why
+we know that is this is the length S and
+in this is length S. And both of these
+diagonals travel the same vertical distance. This base is 4. This base is 4. So you could kind of view
+this as two right triangles. Both of them have base
+4 and hypotenuse S and so they share this
+side right over here. So this one goes out to the
+left that distance and then this one's going to have
+to come back that distance. Now, by the same
+logic over here, this guy's going to
+have to come back. So we can now use the
+10 coordinate, the 10 y horizontal, or the
+y-coordinate of 10. That's the only one we
+haven't used yet for D. And since we came out when we
+had a diagonal of length S, traveling 4 up, this
+time, same logic-- we had a diagonal of length
+S. It traveled up 4 over here and it moved out this distance. When we go back in the other
+direction and travel up 4 you're going to go back
+in the same direction. So this is going to be directly
+on top of B. The coordinate for D is actually
+going to be B comma 10. The y-coordinate here is 10. And there we have our hexagon. We're done drawing
+our actual hexagon. And all this parallel line
+information they told us-- AB is parallel to DE. And this is kind of obvious
+here, BC is parallel to EF. And then they say CD
+is parallel to FA. And the way that we
+drew it, it looks pretty clear that is the case. Now, we need to
+find the area, we need to find the
+area of this hexagon. And it seems like a
+good starting point would be to figure
+out what S is. And to figure out
+what S is, it's really going to be a
+function of how much we've inclined this thing. So let's draw--
+and you could see that since this isn't an
+equally angular hexagon, that this is kind of skwed. We distorted it a little bit. But all the sides
+are the same length. So let's just call this theta. Let's call that angle
+right over there theta. And then they tell us that
+angle FAB is 120 degrees. That is 120 degrees. So this angle over
+here on the left, is going to be 180
+minus 120 minus theta. So 180 minus 120 is 60. So this angle over
+here 60 minus theta. Now the reason why I
+did that because we have some information. We know that we
+traveled up 4 over here. And we know that we
+traveled up 2 over here. And maybe we can
+use that information to solve for S. Because S
+is the hypotenuse of both of these right triangles
+that I just constructed. Let me draw them-- So this
+right triangle right over here, I could draw it like this. So I have S. I have theta. And I have 2, that's this
+right triangle right over here. This right triangle
+looks like this. This angle is 60 minus theta. And this height over here is 4. So let's see what we can do
+to solve for S. This triangle on the left, or it was
+on the right over here, this triangle says
+predict the sine of theta. The sine of theta is
+equal to the opposite over the hypotenuse. It's equal to 2 over S. This triangle tells us that
+the sine-- and remember this hypotenuse
+over here is also S-- the sine of 60 minus
+theta is equal to 4 over S. And if we want to set
+these equal to each other, we can multiply this
+guy by 2 on both sides. You could say 2 sine
+of theta is equal to 4 over S. Sine of 60 minus 8
+is also equal to 4 over S, so we could set them
+equal to each other. So we have 2 sine of
+theta is equal to sine of 60 minus theta. And then we could use some
+of our trig identities, we know the sine of A
+minus B is the same thing. The sine of A minus B, this is
+equal to the sine of A times the cosine of B. Or I should
+say theta in this case. So sine of 60 minus theta--
+this is just a standard trig identity, it's called the
+difference, sum and difference identity-- minus cosine of
+60 times the sine of theta. And all this is equal
+to 2 sine of theta. Well sine of 60 degrees-- This
+is the square root of 3 over 2. Cosine of 60 degrees is 1/2. So we could add 1/2 sine
+theta to both sides of this. And what we're going to get? So we're going to
+add 1/2 sine theta. Then this guy's
+going to go away. And then you add 1/2
+sine theta to 2 sine of theta, which is
+really 4/2 sine of theta. So that's going to be
+5/2 the sine of theta. So I'm just adding 1/2
+sine theta to this. So it's 5/2 sine of theta
+is equal to square root of 3 over 2 cosine of theta. Right? I added 1/2 sine theta to both
+sides of this to get this. I can multiply both sides
+by 2 just to simplify it. So I get 5 sine of theta. 5 sine of theta is
+equal to the square root of 3 cosine of theta. Now, I want to use the
+identity sine squared of theta plus cosine squared
+of theta is equal to 1. So let me just square
+both sides of that. That'll also help us
+with this radical. So we'll get 25 sine
+squared of theta is equal to square
+root of 3 squared is 3. Instead of writing
+cosine squared of theta, let's just write-- that's 1
+minus sine squared of theta. Right? Cosine squared theta is 1
+minus sine squared of theta. I just squared both sides. Let me just write
+what I just did-- I just squared to both sides. And so we get 25
+sine squared theta is equal to 3 minus
+3 sine squared theta. We can add 3 sine squared
+theta to both sides-- We get 28 sine squared
+theta is equal to 3. Or, that the sine squared
+of theta-- homestretch-- is equal to 3 over 28. Or, we could even write
+that sine of theta is equal to the square
+root of 3 over 28. So it's equal to the
+square root of 3 over 28. Now, we could simplify
+that, 28 is 4 times 7, we could take it out. But that's good enough
+for now, maybe we'll simplify it later if we have to. Sometimes these are
+easier to deal with. So let's see over [INAUDIBLE]. So we have the sine of theta. And now we can relate that,
+actually, to S over here. We know that, before I
+messed with this thing, that the sine of theta is equal
+to 2 over S. Or that S over 2 is equal to 1 over
+sine of theta. Or that S is equal to 2
+over the sine of theta. Well, we know what
+sine of theta is, the square root of 3 over 28. So S is equal to 2
+divided by sine of theta. That's like multiplying by
+the inverse of sine of theta. So that's 2 times the
+square root of 28 over 3. So we figured out our S. 2
+times this thing over here. Now, given that we
+know an S, let's see how we can
+figure out the area. Well, what immediately
+pops out is that we have this triangle
+over here that has height, or I should say maybe its
+base, if you view it sideways, its base is 8. And this distance
+right over here, we should be able to figure out
+using the Pythagorean theorem. Because we know that this
+distance, right over here, is 4. We know that this distance,
+the hypotenuse is S. So we could call this the
+height of it, right over here. We could say that H squared
+plus 4 squared plus 16 is equal to the hypotenuse
+squared, is equal to S squared. S squared S is this
+thing over here. So if we want to square S it
+becomes 4 times 28 over 3. And we just subtract
+16 from both sides. So H is equal to
+4 times 28 over 3, minus, if I want
+to write 16 over 3. Or if I want it, 16 to
+something over three, that's going to be
+minus 48 over 3. And let's see, I don't want to
+have to multiply 4 times 28. So you could write
+48 as 4 times 12. So this numerator is going to be
+4 times 28 minus 12 over-- now, remember that's H squared. I should say-- H
+squared is going to be 4 times 28
+minus 12 over 3. Which is equal to
+4 times 16 over 3. Which is equal to 64 over 3. That's H squared. So H is going to be the
+square root of that, which is 8 over the
+square root of 3. So H right over here is 8
+over the square root of 3. So if I want to find the area
+of this whole thing over here-- well first, let's find the
+area of this small thing right over here. That's just going
+to be H times 4. So it's going to be-- well,
+I could do it either way. But let's just say this
+is H times 4 times 1/2. So it's going to be 2 times--
+so the area of this triangle-- let me do it in blue right
+here-- this triangle's area is going to be H, which is 8 over
+the square root of 3 times 4 times 1/2. So this guy right
+over here is just going to be 2 times 8
+over the square root of 3, or that's going to be 16
+over the square root of 3. So this guy over here is 16
+over the square root of 3. Now we have a bunch of
+it, we have this guy, and now this guy's going to have
+the exact same area, right over there. And then you have
+this guy who's going to have the exact
+same area again. Same exact logic, same exact
+logic, same base, same height. They're actually congruent. So you have 4 of
+these triangles. So you are going
+to multiply by 4 If you want the
+area of this area that I've are initiated in. So 4 times this. We're at 64 over the
+square root of 3. Now the only area we
+have left to figure out is the area of
+this parallelogram. in the middle. Now, we know the base
+of the parallelogram. The base of this
+parallelogram is 8. We just have to
+figure out its height. And once again, we can use
+the Pythagorean theorem. So I'll call this, I
+dunno, we already used H, well I'll use H again. But you just have to
+remember that this is a different height over here. This base over here
+is of length 2. I know it's hard to read now. So we can now write that H
+squared plus 4 plus 2 squared is equal to S squared. Now we already figured out
+what S squared was in the past. It's 4 times 28 over 3. Let's subtract 4
+from both sides. You subtract 4 there. So minus 12 over 3. And now let's see, 12 is
+the same thing as 4 times 3. So this is equal to
+4 times 28 minus 3. So that's 4 times 25 over 3. Which is equal to 100 over 3. That's H squared. So this H is going to be equal
+to the square root of this, which is 10 over the
+square root of 3. So this distance
+right over here is 10 over the square root of 3. So if we want the area
+of this parallelogram, it's going to be
+that height, times the base of the parallelogram. So the parallelogram is going
+to be 8 times 10 square roots of 3, or 80 square roots of 3. 80-- oh no, let me be
+very careful-- this was 10 over the square
+root of 3 is this height. So the whole area
+of this paralelagram is 8 times 10 over
+the square root of 3. It's 80 over the
+square root of 3. So our entire area now, if
+we add everything together, we have 64 square roots of
+3 for these 4 triangles, plus 80 over square root of 3. So let's add it together. So we have 80 over square roots
+of 3 for the parallelogram, plus 64 over square roots
+of 3 for the triangle parts. And this is equal to 144
+over the square root of 3. We can rationalize
+the denominator. So times the square root of
+3, over the square root of 3. And in the denominator,
+now, we're going to get a 3. 144 over 3 is going to be what? That's 48. Right? Three times 40 is
+120, 3 times 8 is 24. So it's going to be
+48 square roots of 3 for the area of
+our entire hexagon. And so, we have in the form--
+48 square roots of 3-- So if you want to find m plus
+n is 48 plus 3, which is 51. That was a tiring problem. My brain started to
+fry near the end of it. I had trouble keeping
+track of things. Anyway, hopefully
+you enjoyed that.

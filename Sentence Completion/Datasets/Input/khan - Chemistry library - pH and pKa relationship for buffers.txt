@@ -1,0 +1,57 @@
+- [Voiceover] We're gonna
+talk about the relationship between pH and pK_a and buffers. And specifically, we're
+going to be talking mostly about this in terms of the
+Henderson-Hasselbalch equation. But before we go to the
+Henderson-Hasselbalch equation, which I am gonna assume
+you've seen before, and if not we have some
+other videos introducing it and also deriving it,
+let's do a quick review of what exactly is a buffer. So a buffer is something that contains an aqueous solution. It's something that
+contains both a weak acid, which generically we write as HA, and it also contains in equilibrium the conjugate base of
+our acid, so A minus. This is, as written, it's the acid dissociation
+on reaction for HA and since it's an equilibrium we can write an expression called K_a, which is just the equilibrium
+constant for this equation. And it just has a special
+name, 'cause it happens to be for the dissociation of an acid. K_a is just equal to H_three O plus times A minus all over the concentration of HA, and we don't include water
+because it's a pure liquid, so we assume that the
+concentration is always one. Based on this expression
+for K_a, we can, and do, in the separate video, derive the Henderson-Hasselbalch equation. So the Henderson-Hasselbalch equation just says that the pH is equal to the pK_a plus the log of A minus over HA, where HA is our weak acid and A minus is its conjugate base. And as you can see up here, an acid and its conjugate base are just related by the fact
+that the acid has an extra H. We can rearrange the
+Henderson-Hasselbalch equation to get a lot of different
+kinds of information. One kind of problem you see a lot is for some buffer, you know, they might ask you, oh, what's the pH? And then that means you
+probably know the pK_a and you know the concentrations
+of A minus and HA. The other thing that you can use the Henderson-Hasselbalch equation to tell you is the relationship between A minus and HA which is something you might wanna know. A lot of times, you just wanna know, you know, what's in your solution, depending on what you
+wanna do to your solution, if you wanna add things to it, maybe you wanna add some
+acid, you wanna add some base. You wanna know what's going on. The Henderson-Hasselbalch equation gives you a really quick
+and easy way of doing that. So what we're gonna do, is we're gonna rearrange this equation
+to solve for this ratio that we might be interested in. So we're gonna subtract pK_a from both sides and that gives us a log of A minus over HA. And I don't know about
+you, but I actually find, well, (laughs) I find logs
+not super-intuitive sometimes. So I'm actually going
+to get rid of the log by raising both sides to the 10th power. So that gives us 10 to the pH minus pK_a is equal to A minus over HA. So what does this tell us? It may not look like it
+tells us a whole lot more, but actually, it tells us a lot. It tells us about the
+relative relationship and size between A minus and HA concentration. And it's saying that these
+two things are related to the relative size of pH and pK_a. So if we look at this, we can
+derive a couple relationships. We're saying that pH versus pK_a, this relationship, can tell us about A minus over HA, which is a ratio, but that in turn we can relate to just the relative size of HA versus A. So let's go ahead and look
+at all the possible scenarios for these three things. We're going to start with the
+simplest possible scenario, which is that pH is equal to pK_a. When pH is equal to pK_a, we're raising 10 to the zeroth power. So anything to the zeroth
+power is equal to one. Which tells us that this
+ratio is equal to one. And if A minus concentration over HA concentration is equal to one, that means that they have
+the same concentration. I forgot a minus sign there. This is a really helpful
+thing to remember. Any time you have a buffer and the pH of your solution is equal to the pK_a of your buffer, you immediately know
+that the concentration of your acid and its
+conjugate base are the same. And this comes up a lot not
+just when you're talking about buffers by themselves, but also when you're doing titrations. And the point in your titration where the HA is equal to A minus is called the half-equivalence point. Half-equivalence point. And if you haven't learnt
+about buffers, that's okay. Oh, sorry, if you haven't
+learn about titrations yet, that's fully fine. Just ignore what I just said (laughs), but if you have, the moral is just that, this is a really, really
+important relationship that is really helpful to remember. And I said really a lot there. So there are two other possibilities for pH and pK_a. We can have a pH that's greater than pK_a for your buffer, and you can have a pH that is less than you
+pK_a for your buffer. So if your pH is bigger than your pK_a, then this term up here, 10 to the pH minus pK_a,
+is going to be positive. And when you raise 10
+to a positive number, when you raise 10 to a positive number, you get a ratio that is greater than one. So if our ratio A minus over HA is greater than one, that tells us that A minus, the numerator,
+is actually greater than the denominator, HA. So if you know the pH and you know it's bigger
+than the pK_a of your buffer, buffer's acid, to be more specific, then you immediately know that you have more conjugate base around than your acid. The last scenario, pH is less than pK_a, well in that case, we're raising 10 to a negative number, because we're subtracting a bigger
+number from a smaller number. And that means that our ratio, A minus over HA, is
+actually less than one. So that tells us that our denominator, HA, is actually bigger than our numerator. So just to wrap up, we can look at the Henderson-Hasselbalch equation and we can just look at the relationship between pK_a and pH, and depending on whether
+they're equal to each other or one is bigger than the other, we can immediately know
+what the relationship is between our acid and its
+conjugate base in our solution. It's very easy to derive. We did it in just a few minutes, so it's okay if you don't
+remember this all the time. I usually just remember
+that pH equals pK_a means you have the same concentration, and then, if I forget, I will
+derive the other relation.

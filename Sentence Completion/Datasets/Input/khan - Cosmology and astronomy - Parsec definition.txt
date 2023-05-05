@@ -1,0 +1,108 @@
+You've probably
+heard the word parsec before in science fiction
+movies or maybe even some things dealing with astronomy. And what I want to
+do in this video is really just tell you where
+the word and the definition of the word really come from. And just to kind of
+cut to the chase, it's just a unit of distance. It's just about
+3.26 light years. But what I want to
+do is just think about where did this
+weird distance come from, this distance that is
+roughly 3.26 light years? It comes from the distance of
+something, probably a star. But let me say
+"something" because there are no stars exactly
+this far away from us. The distance of something that
+has a parallax angle of one arc second. And the word comes from
+the "par" in parallax and the "second" in arc seconds. So it's literally par-- let me
+do this in a different color. It's literally parsec. You could think of it as kind
+of the parallax arc second. How far would this thing be? It turns out it's
+3.26 light years. So we can actually
+calculate that. And that's actually what I'm
+going to do in this video. So let's say there is something. So this is the sun. This is the Earth at
+some point in time. This is the Earth
+six months later at the opposite
+end of the orbit. And we are looking
+at some distance. We are looking at some
+object some distance away. We know that this distance right
+here is one astronomical unit. And what we want
+to do is figure out the distance of this object. And all we know is that it
+has parallax angle of one arc second. So let's remind ourselves
+what this means. If we're looking
+right at-- remember, we're looking from
+above the solar system. So the Earth is rotating in
+this direction in either case. And so in this
+point in the year-- we don't know when this is. Depends on what star that is. At this point in the
+year right at sunrise, right when we first catch the
+first glimpses of the sun's light, if we look
+straight up, the angle between that object in the
+night sky and straight up is going to be the
+parallax angle. So this is going to
+be one arc second. And just to make it consistent
+with the last few videos we did on parallax,
+let's just visualize how that would look
+in the night sky. So let me draw the
+night sky over here. Let me do that in purple maybe. Let me draw the
+night sky over here. This is looking straight up. This is north, south,
+west, and east. And so you can imagine
+in this situation, the sun is just
+rising on the east. Let me make it the
+color of the sun. The sun is just
+rising on the east. And so this will be towards
+the direction of the sun. You can imagine that to some
+degree, well, this is north. North is the top of the
+Earth right here, kind of pointed towards us
+out of the screen. South is going into the screen. Hopefully that helps
+the visualization. Or another way to
+think about it, the sun is rising in the east. This is going to be towards
+the direction of the sun, of a certain angle
+from the center. In this case, it's
+on arc second. So it's going to
+be right over here. So this angle right over here
+is going to be one arc second. And then if we were to
+see where that object is six months later,
+it'll be the opposite. We're going to be looking in
+the center of the universe. Or I should say, the center of
+the night sky at that point, the same direction
+of the universe. The universe actually
+has no center. We've talked about
+that many times. If we look at the same
+direction in the night sky, we will be looking
+six months later. And instead of it being at
+dawn, it will now be at sunset. We'll be just getting the
+last glimpses of the sun. And so the sun will be
+setting in the west. And so this angle--
+this angle right here, which is also the same
+thing as a parallax angle-- will also be one arc second. So let's figure out
+how far this object is. What is an actual
+parsec in terms of astronomical
+units or light years? So if this is one
+arc second, this is going to be-- and
+remember one arc second is equal to 1/3600 of a degree. So this angle right over here
+is going to be 90 minus 1/3600. And we just use a little
+bit of trigonometry. The tangent of this angle, the
+tangent of 90 minus 1/3600, is going to be this distance
+in astronomical units divided by 1. Well, you divide
+anything by 1, it's just going to be that distance. So that's the distance
+right over there. So we get our calculator out. And we want to find the tangent
+of 90 minus 1 divided by 3,600. And we will get our distance
+in astronomical units, 206,264. We're going to say 265. So this distance
+over here is going to be equal to
+206,265-- I'm just rounding-- astronomical units. And if we want to convert
+that into light years, we just divide. So there are 63,115 astronomical
+units per light year. Let me actually write it down. I don't want to confuse you
+with the unit cancellation. So we're dealing with
+206,265 astronomical units. And we want to multiply
+that times 1 light year is equal to 63,115
+astronomical units. And we want this in the
+numerator and the denominator to cancel out. And so if you divide 206,265,
+this number up here, by 63,115, the number of astronomical
+units in a light year-- let me delete that right
+over there-- we get 3.2. Well, the way the
+math worked out here, it rounded to 3.27 light years. So this is equal to
+roughly 3.27 light years. So I should just show it's
+approximate right over there. But that's where the
+parsec comes from. So hopefully now you just
+realize it is just a distance. But even more, you actually
+understand where it comes from. It's the distance that an object
+needs to be from Earth in order for it to have a parallax
+angle of one arc second. And that's where
+the word came from. Parallax arc second.

@@ -1,0 +1,168 @@
+- [Instructor] So imagine
+you've got a wave source. This could be a little
+oscillator that's creating a wave on a string, or a little
+paddle that goes up and down that creates waves on water, or a speaker that creates sound waves. This could be any wave source whatsoever creates this wave, a nice
+simple harmonic wave. Now let's say you've got
+a second wave source. If we take this wave
+source, the second one, and we put it basically right
+on top of the first one, we're gonna get wave interference because wave interference
+happens when two waves overlap. And if we want to know what the
+total wave's gonna look like we add up the contributions
+from each wave. So if I put a little backdrop in here and I add the contributions, if the equilibrium point is right here, so that's where the wave would be zero, the total wave can be found by adding up the contributions from each wave. So if we add up the contributions
+from wave one and wave two wave one here has a value of one unit, wave two has a value of one unit. One unit plus one unit is two units. And then zero units and
+zero units is still zero. Negative one and negative
+one is negative two, and you keep doing this
+and you realize wait, you're just gonna get a really
+big cosine looking wave. I'm just gonna drop down to here. We say that these waves are
+constructively interfering. We call this constructive interference because the two waves
+combined to construct a wave that was twice as big
+as the original wave. So when two waves combine and form a wave bigger than they were before, we call it constructive interference. And because these two
+waves combined perfectly, sometimes you'll hear this
+as perfectly constructive or totally constructive interference. You could imagine cases
+where they don't line up exactly correct, but you
+still might get a bigger wave. In that case, it's still constructive. It might not be totally constructive. So that was constructive interference. And these waves were constructive? Think about it because
+this wave source two looked exactly like wave source one did, and we just overlapped them
+and we got double the wave, which is kinda like alright, duh. That's not that impressive. But check this out. Let's say you had another wave source. A different wave source two. This one is what we call Pi
+shifted 'cause look at it. Instead of starting at a maximum, this one starts at a minimum compared to what wave source one is at. So it's 1/2 of a cycle ahead of or behind of wave source one. 1/2 of a cycle is Pi because
+a whole cycle is two Pi. That's why people often
+call this Pi shifted, or 180 degrees shifted. Either way, it's out of
+phase from wave source one by 1/2 of a cycle. So what happens if we overlap these two? Now I'm gonna take these two. Let's get rid of that there,
+let's just overlap these two and see what happens. I'm gonna overlap these two waves. We'll perform the same analysis. I don't even really need the
+backdrop now because look at. I've got one and negative one. One and negative one, zero. Zero and zero, zero. Negative one and one, zero. Zero and zero, zero and
+no matter where I'm at, 1/2, a negative 1/2, zero. These two waves are gonna add up to zero. They add up to nothing, so we call this destructive interference because these two waves
+essentially destroyed each other. This seems crazy. Two waves add up to nothing? How can that be the case? Are there any applications of this? Well yeah. So imagine you're sitting on an airplane and you're listening to the annoying roar of the airplane engine in your ear. It's very loud and it might be annoying. So what do you do? You put on your noise
+canceling headphones, and what those noise
+canceling headphones do? They sit on your ear, they
+listen to the wave coming in. This is what they listen to. This sound wave coming in,
+and they cancel off that sound by sending in their own sound, but those headphones Pi shift the sound that's going into your ear. So they match that roar
+of the engine's frequency, but they send in a sound that's Pi shifted so that they cancel and your
+ear doesn't hear anything. Now it's often now completely silent. They're not perfect, but
+they work surprisingly well. They're essentially
+fighting fire with fire. They're fighting sound with more sound, and they rely on this idea
+of destructive interference. They're not perfectly,
+totally destructive, but the waves I've drawn
+here are totally destructive. If they were to perfectly cancel, we'd call that total
+destructive interference, or perfectly destructive interference. And it happens because
+this wave we sent in was Pi shifted compared to
+what the first wave was. So let me show you something interesting if I get rid of all this. Let me clean up this mess. If I've got wave source one, let me get wave source two back. So this was the wave that was
+identical to wave source one. We overlap 'em, we get
+constructive interference because the peaks are lining
+up perfectly with the peaks, and these valleys or troughs
+are matching up perfectly with the other valleys or troughs. But as I move this wave
+source too forward, look at what happens. They start getting out of phase. When they're perfectly lined
+up we say they're in phase. They're starting to get out of phase, and look at when I move it forward enough what was a constructive
+situation, becomes destructive. Now all the peaks are
+lining up with the valleys, they would cancel each other out. And if I move it forward a little more, it lines up perfectly again
+and you get constructive, move it more I'm gonna get destructive. Keep doing this, I go from constructive to destructive over and over. So in other words, one way to
+get constructive interference is to take two wave sources
+that start in phase, and just put them right
+next to each other. And a way to get destructive
+is to take two wave sources that are Pi shifted out of phase, and put them right next to each other, and that'll give you destructive 'cause all the peaks match the valleys. But another way to get
+constructive or destructive is to start with two
+waves that are in phase, and make sure one wave gets moved forward compared to the other, but how far forward should we move these in order to get constructive and destructive? Well let's just test it out. We start here. When they're right next to
+each other we get constructive. If I move this second wave source that was initially in
+phase all the way to here, I get constructive again. How far did I move it? I moved it this far. The front of that speaker moved this far. So how far was that? Let me get rid of this. That was one wavelength. So look at this picture. From peak to peak is
+exactly one wavelength. We're assuming these waves
+have the same wavelength. So notice that essentially what we did, we made it so that the
+wave from wave source two doesn't have to travel as far to whatever's detecting the sound. Maybe there's an ear here, or some sort of scientific
+detector detecting the sound. Wave source two is now
+only traveling this far to get to the detector,
+whereas wave source one is traveling this far. In other words, we made
+it so that wave source one has to travel one wavelength further than wave source two does, and that makes it so that they're in phase and you get constructive
+interference again. But that's not the only option, we can keep moving wave
+source two forward. We move it all the way to here, we moved it another wavelength forward. We again get constructive interference, and at this point, wave source one is having to make its wave
+travel two wavelengths further than wave source two does. And you could probably see the pattern. No matter how many wavelengths
+we move it forward, as long as it's an integer
+number of wavelengths we again get constructive interference. So something that turns out to be useful is a formula that tells us alright, how much path length
+difference should there be? So if I'm gonna call this X two, the distance that the
+wave from wave source two has to travel to get to
+whatever's detecting that wave. And the distance X one, that
+wave source one has to travel to get to that detector. So we could write down
+a formula that relates the difference in path length,
+I'll call that delta X, which is gonna be the distance
+that wave one has to travel minus the distance that
+wave two has to travel. And given what we saw up here, if this path length
+difference is ever equal to an integer number of wavelengths, so if it was zero that was when they were right next to each
+other, you got constructive. When this difference is
+equal to one wavelength, we also got constructive. When it was two wavelengths,
+we got constructive. It turns out any integer
+wavelength gives us constructive. So how would we get
+destructive interference then? Well let's continue with this wave source that originally started in phase, right? So these two wave sources
+are starting in phase. How far do I have to move
+it to get destructive? Well let's just see. I have to move it 'til
+it's right about here. So how far did the front
+of that speaker move? It moved about this far, which
+if I get rid of that speaker you could see is about
+1/2 of a wavelength. From peak to valley,
+is 1/2 of a wavelength, but that's not the only option. I can keep moving it forward. Let's just see, that's constructive. My next destructive happens here which was an extra this far. How far was that? Let's just see. That's one wavelength,
+so notice at this point, wave source one is having to
+go one and 1/2 wavelengths further than wave source two does. So let's just keep going. Move wave source two, that's constructive. We get another destructive here which is an extra this far forward, and that's equal to one more wavelength. So if we get rid of this you
+could see valley to valley is a whole nother wavelength. So in this case, wave
+source two has to travel two and 1/2 wavelengths
+farther than wave source two. Any time wave source one has to travel 1/2 integer more wavelengths
+than wave source two, you get destructive interference. In other words, if this
+path length difference here is equal to lambda over
+two, three lambda over two, which is one and 1/2 wavelengths. Five lambda over two, which
+is two and 1/2 wavelengths, and so on, that leads to
+destructive interference. So this is how the path length differences between two wave sources can determine whether you're gonna get constructive or destructive interference. But notice we started
+with two wave sources that were in phase. These started in phase. So this whole analysis down here assumes that the two sources started
+in phase with each other, i.e. neither of them are Pi shifted. What would this analysis give you if we started with one
+that was Pi shifted? So let's get rid of this wave two. Let's put this wave two back in here. Remember this one? This one was Pi shifted relative to relative to wave source one. So if we put this one in here,
+and we'll get rid of this, now when these two wave sources
+are right next to each other you're getting destructive interference. So this time for a path length
+difference of zero, right? These are both traveling the same distance to get to the detector. So X one and X two are gonna be equal. You subtract them, you'd get zero. This time the zero's giving us destructive instead of constructive. So let's see what happens
+if we move this forward, let's see how far we've
+gotta move this forward to again get destructive. We'd have to move it over to here. How far did we move it? Let's just check. We moved the front of
+this speaker that far, which is one whole wavelength. So if we get rid of this,
+we had to move the front of the speaker one whole wavelength, and look at again it's destructive. So again, zero gave us
+destructive this time, and the lambda's giving us destructive, and you realize oh wait, all
+of these integer wavelengths. If I move it another
+integer wavelength forward, I'm again gonna get
+destructive interference because all these peaks
+are lining up with valleys. So interestingly, if two
+sourcese started Pi out of phase, so I'm gonna change this. Started Pi out of phase,
+then path length differences of zero, lambda, and two lambda aren't gonna give us constructive, they're gonna give us destructive. And so you could probably guess now, what are these path length differences of 1/2 integer wavelengths gonna give us? Well let's just find out. Let's start here, and
+we'll get rid of these. Let's just check. We'll move this forward
+1/2 of a wavelength and what do I get? Yup, I get constructive. So if I move this Pi shifted
+source 1/2 a wavelength forward instead of giving me destructive, it's giving me constructive now. And if I move it so it goes
+another wavelength forward over to here, notice
+this time wave source one has to move one and
+1/2 wavelengths further than wave source two. That's 3/2 wavelengths. But instead of giving
+us destructive, look. These are lining up perfectly. It's giving us constructive,
+and you realize oh, all these 1/2 integer wavelength
+path length differences, instead of giving me destructive are giving me constructive now because one of these wave
+sources was Pi shifted compared to the other. So I can take this here,
+and I could say that when the two sources
+start Pi out of phase, instead of leading to destructive this is gonna lead to
+constructive interference. And these two ideas are the foundation of almost all interference
+patterns you find in the universe, which is kind of cool. If there's an interference
+pattern you see out there, it's probably due to this. And if there's an
+equation you end up using, it's probably fundamentally
+based on this idea if it's got wave interference in it. So I should say one more thing, that sources don't actually
+have to start out of phase. Sometimes they travel around. Things happen, it's a crazy universe. Maybe one of the waves get
+shifted along its travel. Regardless, if any of them get a Pi shift either at the beginning or later on, you would use this second
+condition over here to figure out whether you get
+constructive or destructive. If neither of them get a phase shift, or interestingly, if both
+of them get a phase shift, you could use this one
+'cause you could imagine flipping both of them over, and it's the same as not
+flipping any of them over. So recapping, constructive
+interference happens when two waves are lined up perfectly. Destructive interference happens when the peaks match the valleys
+and they cancel perfectly. And you could use the
+path length difference for two wave sources to
+determine whether those waves are gonna interfere
+constructively or destructively. The path length difference
+is the difference between how far one wave has
+to travel to get to a detector compared to how far
+another wave has to travel to get to that same detector, assuming those two
+sources started in phase and neither of them got a Pi
+shift along their travels. Path length differences
+of integer wavelengths are gonna give you
+constructive interference, and path length differences
+of 1/2 integer wavelengths are gonna give you
+destructive interference. Whereas if the two sources
+started Pi out of phase, or one of the got a Pi phase
+shift along its travel, integer wavelengths for
+the path length difference are gonna give you
+destructive interference. And 1/2 integer wavelengths
+for the path length difference are gonna give you
+constructive interference.

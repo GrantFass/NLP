@@ -1,0 +1,53 @@
+- [Voiceover] What I'm hoping
+to explore in this video is the notion of a sample space. And it's a pretty, hopefully you'll find, straightforward idea. If you're doing a trial, something that is probabilistic, a trial or an experiment, a sample space is just the
+set of the possible outcomes. So a very simple trial
+might be a coin flip. So if you're talking about a coin flip, well then the sample space is going to be the set of all the possible outcomes. So you could get a heads or you could get a tails. That right over here is the sample space for the coin flip. And it's very useful because, for example, if these are
+equally likely outcomes and you say well what's the probability of the event of a heads, you say okay that's one out of the
+two equally likely outcomes. Or you could even construct, once you know all of the possible outcomes even if they aren't equally likely, you could say well let's create a
+probability distribution. We at least know what the sample space is. We know what the possible outcomes are, now let's think about the probability of each of those outcomes. But a lot of times when people
+talk about sample spaces, they're often, they tend to
+be most useful, I would say, when you have equally likely outcomes like in the case of a fair coin flip. Because then from the sample space, it's fairly straight forward
+to think about the probability of various events. But this is a simple sample
+space right over here, but let's make things a
+little bit more interesting. Let's imagine a world, so let's just put this aside a little bit. Let's imagine a world
+where there's a bakery and at that bakery there are three types, three flavors of cupcakes, but there's also three
+different sizes of cupcakes. So now we're essentially
+looking at two different ways in which the thing that we're
+going to be sampling can vary. So what we're doing,
+let me write this down. So we have our flavors, flavors of cupcakes at this bakery. And let's say that you have chocolate, chocolate, you have, let's say there's strawberry, strawberry, and let's say that there is vanilla, there is vanilla. And they come in three different sizes. So sizes. Sizes could be small, I'll just write it out, small, medium, or large. So if you were, and let's
+say each of these flavors come in each of these sizes. Or you could view it the other way around, each of these sizes come
+in all three flavors. So now how do you
+construct the sample space? If you were to say, look I'm gonna go, you know, I'm gonna blindfold myself and walk into this bakery and randomly somehow pickup a cupcake and my fingers can't tell the flavor or
+the size of the cupcake, what are the possible,
+what are the possible outcomes for the cupcake I'll pick? And the outcome would be both the flavor and the size of the cupcake. Well there's a bunch of
+ways to think about this. One way is you could draw a tree. You could say, okay well I'm gonna pick three different flavors. I could either pick chocolate, chocolate, I'm gonna pick strawberry, strawberry, or I'm going to pick vanilla, vanilla. And then for each of those flavors, I'm only gonna pick a
+small, medium, or large. So you could say small, medium, large. Small, so this is a small chocolate, this is a medium chocolate,
+this is a large chocolate. This is a small strawberry,
+medium strawberry, large strawberry. This is a small vanilla, medium vanilla, large vanilla. And so you see there's
+nine possible outcomes. Once again, this is a medium chocolate. You picked a chocolate
+and it was a medium one. This is a large vanilla. You picked a vanilla,
+and it is a large one. And you could have done
+it the other way around. You could have said, well okay, I'm going to either pick a small, medium, or large and then for each of those I'm gonna pick either a chocolate,
+strawberry, or vanilla. And I'll just use the first letters. So I'm either gonna pick a chocolate, a strawberry, or a vanilla. When I write the S over
+here in this magenta color, I'm talking about the flavor and if I write the S in green, I'm talking about small. So here you can have, if
+you have a medium cupcake, it could be chocolate, it could be strawberry, or it could be vanilla. If you have a large cupcake it could be chocolate, strawberry, or vanilla. So for example, this was a
+medium, chocolate cupcake. Over here a medium, chocolate
+cupcake is this one. It's medium, chocolate. It would be that one over here. So you could use these kind of a tree diagram like this to think about the sample space, to think about the nine
+possible outcomes here. But you could also, you could also do a, I guess you could say grid, where you could write the flavors, so you could have chocolate, chocolate, actually, let me just write the, well no, let me write them out. Actually, let me just, let me just write the letters since this is gonna take a long time to do. So you could have the flavors chocolate, strawberry, vanilla. So that's along that axis. And then you have your sizes. You can have a small, a medium, or large. And you can set up a grid here. So this is another way to do it. And notice this grid has nine boxes. So let's look at it. So set up the grid. Set up the grid. And so what is this one going to be? This is a small chocolate. Small. Small chocolate. Small chocolate. What is this one? This is going to be a small, a small strawberry, A small strawberry. And you could just keep
+constructing like this where everything in this row,
+there are all about small. Oops. Do it in the... This is small. I'm having trouble changing colors. Alright (laughing). There is a small and then this is a small, this is a small vanilla. This color changing is really, it's a difficult thing. Small vanilla. And all of these, these are all, this would be a medium chocolate. Medium strawberry. Medium vanilla. Large chocolate, large strawberry, large vanilla. And once again you have nine outcomes. This is another way to think about all of the possible outcomes when you're looking at these two ways in which my cupcakes could vary. Another way, a third way
+that you could do it, is you could literally
+just construct a table. Well you could say, okay I could have a chocolate, actually I'm going to
+use the letters again. So let's say we make,
+this is the flavor column. And then this is the size column. Size column. And so you could say I could have a chocolate that is, so let's see, there's
+three types of chocolate that I could have. And they could be they could be small, medium, or large. You could say there's three types of, three types of strawberry. It could be small, medium, or large. So let me write that in. Small, medium, large. Or you could say oh, there's
+three types of vanilla. There's three types of, I'm color changing again. Three types of vanilla. Once again, it could be small, medium, or large. So you have these nine possibilities. Now, sample space, the sample space isn't telling you if they're equally likely or not. It's just telling you, hey, if you're gonna do an experiment, what are all the different possibilities, the possible outcomes for that experiment? Now in the case where
+they are equally likely, it can be very, very
+useful because you can say you could do something like, if you said okay, it's equally likely to pick any one of these nine outcomes, you could say well what's the probability of, what's the probability of
+getting something that is either small or chocolate? And so you could see well
+how many of those events out of the total actually
+meet that constraint? But we'll do more of
+that in future videos. That's just a little bit of a clue of why we even care about things like sample spaces. Especially sample spaces like this, where we're looking along two ways or multiple ways that something can vary. And these types of sample
+spaces in particular are called compound sample spaces. So these right over here, this is a compound sample space, because we're looking
+at two different ways that it can vary. Not just a heads or tails, it can vary by size or by flavor. And you can even have compound sample spaces that vary
+in more than two ways.

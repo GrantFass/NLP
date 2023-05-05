@@ -1,0 +1,48 @@
+- [Instructor] We're
+told that f of x is equal to one over the square root of x plus one, and what we want to figure out is what is the second degree
+Maclaurin polynomial of f? And like always, pause this video and see if you could have a go at it. so let's remind ourselves what
+a Maclaurin polynomial is, a Maclaurin polynomial is
+just a Taylor polynomial centered at zero, so the
+form of this second degree Maclaurin polynomial,
+and we just have to find this Maclaurin expansion
+until our second degree term, it's going to look like this. So p of x, I'm using p for polynomial, it's going to be our f of zero plus, and we could do
+that as f of zero times x to the zero power, well,
+that's just f of zero. F of zero plus f prime of zero x, plus f prime prime of zero, divided by, we could think of it as two factorial, but
+it's really just two, we could think of this as
+dividing by one factorial, which is just one, this
+dividing by zero factorial, well that's just one again,
+so we have f prime prime of zero, the second derivative evaluated zero divided by two, x squared. Now if we wanted a higher
+degree we could keep on going, but remember, they're just
+asking us for the second degree. So this is the form that we're gonna need, we're gonna have these three terms. So let's see if we can evaluate the function and its derivatives at zero. So f of zero, f of zero
+is equal to one over the square root of zero plus one, well that's one over
+the square root of one, the principle root of one,
+which is positive one, so that's just going to be equal to one. So that right over there is equal to one. Now let's evaluate f prime of x, and then I'll evaluate f prime of zero. F prime of x is equal to, well, one over the square
+root of x plus one, this is the same thing as x plus one, let me write it this way, this is the same thing as, actually let me write it down this way. Another way of writing f of
+x is this is the same thing as x plus one to the negative one half. And so if I'm thinking
+the first derivative of f, well, I could use the chain rule here, the derivative of x plus
+one with respect to x, well, that's just going to be one, and then I'll take the
+derivative of this whole thing with respect to x plus
+one and I'll just use the power rule there, this is
+gonna be negative one half, times x plus one, to the, and I decrement the exponent,
+negative three halves. And so the first derivative
+evaluated of zero is just negative one half, times, if this is zero, zero
+plus one is just one, one to the negative three halves, one to the negative three half power, well, that's just going to be one. So this whole thing, f prime of zero is just negative one half. So that is this right over
+here is negative one half. And now let's figure out
+the second derivative. All right, let me do
+this in this green color. So the second derivative
+with respect to x, well I did the same thing again, the derivative of x plus
+one with respect to x, that's just one, so I just have to take the derivative of the whole thing with respect to x plus one. So I take my exponent, bring it out front, negative three halves times one half, times negative one half, is going to be positive three fourths times x plus one, and then I decrement the
+exponent here by one, or by two halves, so that's
+gonna be negative five halves, and so the second derivative
+evaluated at zero, well if this is equal to
+zero you're gonna have one to the negative five
+halves which is just one, times three fourths, is
+gonna be three fourths. So this part right over
+here is three fourths. And so you're gonna have
+three fourths divided by two, three fourths divided
+by two is three eighths. So our Taylor, I should say,
+our Maclaurin polynomial, our second degree Maclaurin polynomial, p of x is going to be equal to, and I'll do it in the same colors, going to be equal to one, plus, maybe I'll just
+write it as minus one half, minus one half x, plus three eighths x squared, plus three eighths x squared, and we are done, there you have it. We have our second degree
+Maclaurin polynomial of f, which could be used to
+provide an approximation for our function, especially
+if our x is near zero.

@@ -1,0 +1,68 @@
+- [Instructor] What we're
+going to do in this video is talk about the various
+types of discontinuities that you've probably seen
+when you took algebra, or precalculus, but then
+relate it to our understanding of both two-sided limits
+and one-sided limits. So let's first review the
+classification of discontinuities. So here on the left,
+you see that this curve looks just like y equals x squared, until we get to x equals three. And instead of it being three squared, at this point you have this opening, and instead the function at
+three is defined at four. But then it keeps going
+and it looks just like y equals x squared. This is known as a point, or a removable, discontinuity. And it's called that for obvious reasons. You're discontinuous at that point. You might imagine defining
+or redefining the function at that point so it is continuous, so that this discontinuity is removable. But then how does this
+relate to our definition of continuity? Well, let's remind ourselves
+our definition of continuity. We say f is continuous, continuous, if and only if, or let me write f continuous at x equals c, if and only if the limit as x approaches c of f of x is equal to the
+actual value of the function when x is equal to c. So why does this one fail? Well, the two-sided limit actually exists. You could find, if we say
+c in this case is three, the limit as x approaches three of f of x, it looks like, and if you
+graphically inspect this, and I actually know this is the
+graph of y equals x squared, except at that discontinuity
+right over there, this is equal to nine. But the issue is, the way
+this graph has been depicted, this is not the same thing
+as the value of the function. This function f of three, the way it's been graphed, f of three is equal to four. So this is a situation where
+this two-sided limit exists, but it's not equal to the
+value of that function. You might see other
+circumstances where the function isn't even defined there, so that isn't even there. And so, once again, the limit might exist, but the function might
+not be defined there. So, in either case, you aren't
+going to meet this criteria for continuity. And so that's how a point
+or removable discontinuity, why it is discontinuous with regards to our limit
+definition of continuity. So now let's look at this second example. If we looked at our
+intuitive continuity test, if we would just try to trace this thing, we see that once we get to x equals two, I have to pick up my
+pencil to keep tracing it. And so that's a pretty good
+sign that we are discontinuous. We see that over here as well. If I'm tracing this function,
+I gotta pick up my pencil to, I can't go to that point. I have to jump down here, and then keep going right over there. So in either case I have
+to pick up my pencil. And so, intuitively, it is discontinuous. But this particular type of discontinuity, where I am making a jump from one point, and then I'm making a jump
+down here to continue, it is intuitively called a jump discontinuity, discontinuity. And this is, of course, a
+point removable discontinuity. And so how does this relate to limits? Well, here, the left and
+right-handed limits exist, but they're not the same thing, so you don't have a two-sided limit. So, for example, for
+this one in particular, for all the x-values up to
+and including x equals two, this is the graph of y equals x squared. And then for x greater than two, it's the graph of square root of x. So in this scenario, if you were to take the limit of f of x as x approaches two from the left, from the left, this is going to be equal to four, you're approaching this value. And that actually is the
+value of the function. But if you were to take the
+limit as x approaches two from the right of f of x, what is that going to be equal to? Well, approaching from the right, this is actually the square root of x, so it's approaching
+the square root of two. You wouldn't know it's
+the square root of two just by looking at this. I know that, just because when I, when I went on to Desmos
+and defined the function, that's the function that I used. But it's clear even visually that you're approaching
+two different values when you approach from the left than when you approach from the right. So even though the one-sided limits exist, they're not approaching the same thing, so the two-sided limit doesn't exist. And if the two-sided limit doesn't exist, it for sure cannot be equal to the value of the function there, even
+if the function is defined. So that's why the jump
+discontinuity is failing this test. Now, once again, it's intuitive. You're seeing that, hey, I gotta jump, I gotta pick up my pencil. These two things are not
+connected to each other. Finally, what you see here is, when you learned precalculus, often known as an
+asymptotic discontinuity, asymptotic, asymptotic discontinuity, discontinuity. And, intuitively, you
+have an asymptote here. It's a vertical asymptote at x equals two. If I were to try to trace the graph from the left, I would just keep on going. In fact, I would be doing
+it forever, 'cause it's, it would be infinitely, it would be unbounded as
+I get closer and closer to x equals two from the left. And if try to get to x
+equals two from the right, once again I get unbounded up. But even if I could, and when I say it's unbounded,
+it goes to infinity, so it's actually impossible in a mortal's lifespan to
+try to trace the whole thing. But you get the sense that,
+hey, there's no way that I could draw from here to here
+without picking up my pencil. And if you wanna relate it
+to our notion of limits, it's that both the left and right-handed
+limits are unbounded, so they officially don't exist. So if they don't exist, then
+we can't meet these conditions. So if I were to say, the limit as x approaches two from the
+left-hand side of f of x, we can see that it goes unbounded
+in the negative direction. You might sometimes see someone
+write something like this, negative infinity. But that's a little
+handwavy with the math. The more correct way to say
+it is it's just unbounded, unbounded. And, likewise, if we
+thought about the limit as x approaches two from the right of f of x, it is now unbounded
+towards positive infinity. So this, once again, this is also, this is also unbounded. And because it's unbounded and
+this limit does not exist, it can't meet these conditions. And so we are going to be discontinuous. So this is a point or
+removable discontinuity, jump discontinuity, I'm jumping, and then we have these
+asymptotes, a vertical asymptote. This is an asymptotic discontinuity.

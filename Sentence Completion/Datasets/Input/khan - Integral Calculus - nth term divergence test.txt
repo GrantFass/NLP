@@ -1,0 +1,81 @@
+- [Voiceover] What we're going to do now is start to explore a series of tests to determine whether a series
+will converge or diverge and the first one I'm going
+to go through right now is perhaps the most
+basic and hopefully see the most intuitive and this
+is the divergence test. The divergence test won't tell
+us if a series will converge but it can tell us if something
+will definitely diverge. First let me write it in
+kind of mathy notation and then we'll look at an
+actual concrete example on it. The divergence test tells
+us that if the limit as N approaches infinity of
+A sub N does not equal zero, then the infinite series
+going from N equals one to infinity of A sub N will diverge. We've already gone through
+what it means to diverge and this sum is either going to go unbounded to positive infinity or unbounded to negative infinity or it'll just oscillate between values, it'll never really approach
+a given sum or given value. That's what the divergence test tells us and you're probably
+thinking, okay all right, I can kind of get what this says but where is this actually useful? To see where it can be useful let's look at a candidate series and see if we can figure out
+if it's going to diverge. Let's say I had this series so the sum from N equals one to infinity and in general it doesn't
+always have to be N equals one, it could be N equals five, it could be N equals zero. The key is, is that this
+is an infinite series that we're talking about
+so that's why we care about the limit is N approaches infinity. Let's say we have the
+sum of four N squared minus N to the third over seven, minus three and to the third power. Given what we know about
+the divergence test, is this series going
+to converge or diverge? Well, let's just look at this, what we're taking the sums of. So this is essentially
+or this is our A sub N if we're trying to match to the definition or I guess the explanation
+of the divergence test. Let's think about what the limit, as N approaches infinity of four N squared minus N to the third over seven minus three N to the third is. I encourage you to pause the
+video and think about that. Well there's a couple of
+ways to think about it, one way is, hey look as N goes to infinity the highest degree terms of the numerator and the denominator are the ones that matter. So this is going to approach
+negative N to the third over negative three N to the third which will just be which
+would approach negative one over negative three which
+would be positive 1/3 or we could say if we want
+to do a little bit more, or do a little bit more systematically. Limit as N approaches infinity, we can divide what the
+numerator and the denominator by end of the third, so if we divide the
+numerator by end of the third this first third is
+going to be four over N minus one over seven over N
+to the third, minus three. Here it becomes clear, the
+limit is N approaches infinity, that's going to go to zero,
+that's going to go to zero and so you're going to
+be left with negative one over negative three which is equal to 1/3. Notice, the limit of A sub
+N as N approaches infinity in this case is not equal to zero, therefore this sum will, this
+infinite series will diverge. Now let's think for a second
+why this makes a ton of sense. Well, the only way that
+you're going to converge that you're going to set, remember you're taking infinite sum. You're taking an infinite sum of things so the only reasonable way that something might be able
+to converge to a finite value is if every extra term you're
+adding is getting smaller and smaller and smaller
+as approaching zero. If as N approaches
+infinity, you go unbounded or if it's even equal to 1/3, this means that for very large ends you just keep adding things
+that are getting closer and closer to 1/3. Well if you add an infinite
+number of one-thirds together, you're going to go to infinity, you're going to be unbounded. You are going to diverge so
+that's all it's telling us. Look, in order for something to converge as you're taking infinite sum of them, at some point these things
+are going to have to get really, really, really close to zero. If at some point they're
+not getting close to zero, there's no way is going to converge, that thing will diverge so hopefully that makes a little sense. That also gives you I
+guess another insight on what the divergence test can't do. The divergence test can be used to show that something will diverge but if something, I guess you could say passes the divergence test, it doesn't or I guess
+fails the divergence test or if this isn't true, it doesn't mean that the
+thing is going to converge. Let me give you an example of that. This right over here from
+N equals one to infinity of one over N and this is
+actually the harmonic series right over here. This, if we look at, if we try
+to apply the divergence test, we would say, okay, well what's the limit as N approaches infinity of one over N. Well, hey that is zero, if
+that approaches infinity this is equal to zero. We could say well it's kind
+of failing the divergence test so we're not just by
+using the divergence test we can't prove that this
+thing is going to diverge but that doesn't mean
+that it doesn't diverge. It actually turns out and we
+prove this in several videos, it actually turns out that
+this thing does diverge. This thing does diverge, it's just that the
+divergence test isn't enough, it's not enough of a tool
+to let us know for sure that this diverge, we'll
+see the comparison test and the integral test can either be used to prove that this in fact does diverge. You can definitely not
+say that if something, if this does not apply for something. If you think the limit
+as N approaches infinity and it does go to zero,
+that still might diverge. It doesn't necessarily
+mean that it converges. Now there are things that do converge that where they do approach zero so for example if I take the sum from N equals one to infinity
+of one over N squared. If I try to apply the divergence test, I have the limit as N approaches infinity of one over N squared,
+well this does equal zero. This gets really, really large, this thing is going to approach zero and so once again this is I guess failing the test for divergence. Just with that alone
+you don't know for sure that this thing is going to converge, it still might diverge, the divergence test just
+might not have been enough. Now it does turn out and
+once again we prove this in future videos that
+this thing does converge. This thing does converge
+but not because it, I guess you could say
+fails the divergence test. We have to use a different test to show that this does in fact converge, just as we have to use
+a different test to show that this does in fact diverge. Where the divergence test is useful is for the things that actually
+pass the divergence test. When you actually find that
+the limit is N approaches infinity of A sub N does not equal zero, like this case right over here. In this case the divergence test helps us because it helps us make the conclusion that this series definitely diverges.

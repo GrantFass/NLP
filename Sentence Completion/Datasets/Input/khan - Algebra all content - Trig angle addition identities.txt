@@ -1,0 +1,149 @@
+i've already made a handful
+of videos that covers what I'm going to cover, the
+trigonometric identities I'm going to cover in this video. The reason why I'm doing it is
+that I'm in need of review myself because I was doing some
+calculus problems that required me to know this, and I have
+better recording software now so I thought two birds with one
+stone, let me rerecord a video and kind of refresh
+things in my own mind. So the trig identities that I'm
+going to assume that we know because I've already made
+videos on them and they're a little bit involved to remember
+or to prove, are that the sine of a plus b is equal to the
+sine of a times the cosine of b plus the sine of b
+times the cosine of a. That's the first one, I assume,
+going into this video we know. And then if we wanted to know
+the sine of-- well, I'll just write it a little differently. What if I wanted to figure out
+the sine of a plus-- I'll write it this way-- minus c? Which is the same thing
+as a minus c, right? Well, we could just use this
+formula up here to say well, that's equal to the sine of a
+times the cosine of minus c plus the sine of minus c
+times the cosine of a. And we know, and I guess this
+is another assumption that we're going to have to have
+going into this video, that the cosine of minus c is equal
+to just the cosine of c. That the cosine is
+an even function. And you could look at that by
+looking at the graph of the cosine function, or even at
+the unit circle itself. And that the sine is
+an odd function. That the sine of minus
+c is actually equal to minus sine of c. So we can use both of that
+information to rewrite the second line up here to say that
+the sine of a minus c is equal to the sine of a times
+the cosine of c. Because cosine of minus
+c is the same thing as the cosine of c. Times the cosine of c. And then, minus the sine of c. Instead of writing this,
+I could write this. Minus the sine of c
+times the cosine of a. So that we kind of pseudo
+proved this by knowing this and this ahead of time. Fair enough. And I'm going to use all of
+these to kind of prove a bunch of more trig identities
+that I'm going to need. So the other trig identity is
+that the cosine of a plus b is equal to the cosine of a-- you
+don't mix up the cosines and the sines in this situation. Cosine of a times
+the sine of b. And this is minus--
+well, sorry. I just said you don't mix it
+up and then I mixed them up. Times the cosine of b minus
+sine of a times the sine of b. Now, if you wanted to know what
+the cosine of a minus b is, well, you use these
+same properties. Cosine of minus b, that's still
+going to be cosine on b. So that's going to be the
+cosine of a times the cosine-- cosine of minus b is the
+same thing as cosine of b. But here you're going to have
+sine of minus b, which is the same thing as the
+minus sine of b. And that minus will cancel that
+out, so it'll be plus sine of a times the sine of b. So it's a little tricky. When you have a plus sign
+here you get a minus there. When you don't minus
+sign there, you get a plus sign there. But fair enough. I don't want to dwell on that
+too much because we have many more identities to show. So what if I wanted an
+identity for let's say, the cosine of 2a? So the cosine of 2a. Well that's just the same thing
+as the cosine of a plus a. And then we could use this
+formula right up here. If my second a is just my b,
+then this is just equal to cosine of a times the cosine
+of a minus the sine of a times the sine of a. My b is also an a in this
+situation, which I could rewrite as, this is equal to
+the cosine squared of a. I just wrote cosine of a times
+itself twice or times itself. Minus sine squared of a. This is one I guess
+identity already. Cosine of 2a is equal to the
+cosine squared of a minus the sine squared of a. Let me box off my identities
+that we're showing in this video. So I just showed you that one. What if I'm not satisfied? What if I just want it
+in terms of cosines? Well, we could break out
+the unit circle definition of our trig functions. This is kind of the most
+fundamental identity. The sine squared of a
+plus the cosine squared of a is equal to 1. Or you could write that--
+let me think of the best way to do this. You could write that the sine
+squared of a is equal to 1 minus the cosine
+sign squared of a. And then we could take this
+and substitute it right here. So we could rewrite this
+identity as being equal to the cosine squared of a minus
+the sine squared of a. But the sine squared of
+a is this right there. So minus-- I'll do it
+in a different color. Minus 1 minus cosine
+squared of a. That's what I just substituted
+for the sine squared of a. And so this is equal to the
+cosine squared of a minus 1 plus the cosine squared of a. Which is equal to--
+we're just adding. I'll just continue
+on the right. We have 1 cosine squared of a
+plus another cosine squared of a, so it's 2 cosine
+squared of a minus 1. And all of that is
+equal to cosine of 2a. Now what if I wanted to get
+an identity that gave me what cosine squared of
+a is in terms of this? Well we could just
+solve for that. If we add 1 to both sides of
+this equation, actually, let me write this. This is one of our
+other identities. But if we add 1 to both sides
+of that equation we get 2 times the cosine squared of a is
+equal to cosine of 2a plus 1. And if we divide both sides of
+this by 2 we get the cosine squared of a is equal to 1/2--
+now we could rearrange these just to do it-- times 1
+plus the cosine of 2a. And we're done. And we have another identity. Cosine squared of a, sometimes
+it's called the power reduction identity right there. Now what if we wanted
+something in terms of the sine squared of a? Well then maybe we could go
+back up here and we know from this identity that the sine
+squared of a is equal to 1 minus cosine squared of a. Or we could have
+gone the other way. We could have subtracted sine
+squared of a from both sides and we could have gotten--
+let me go down there. If I subtracted sine squared of
+a from both sides you could get cosine squared of a is equal
+to 1 minus sine squared of a. And then we could go back into
+this formula right up here and we could write down-- and I'll
+do it in this blue color. We could write down that the
+cosine of 2a is equal to-- instead of writing a cosine
+squared of a, I'll write this- is equal to 1 minus sine
+squared of a minus sine squared of a. So my cosine of 2a is equal to? Let's see. I have a minus sine squared
+of a minus another sine squared of a. So I have 1 minus 2
+sine squared of a. So here's another identity. Another way to write
+my cosine of 2a. We're discovering a lot of ways
+to write our cosine of 2a. Now if we wanted to solve for
+sine squared of 2a we could add it to both sides
+of the equation. So let me do that and I'll
+just write it here for the sake of saving space. Let me scroll down
+a little bit. So I'm going to go here. If I just add 2 sine squared
+of a to both sides of this, I get 2 sine squared of a plus
+cosine of 2a is equal to 1. Subtract cosine of
+2a from both sides. You get 2 sine squared of a is
+equal to 1 minus cosine of 2a. Then you divide both sides of
+this by 2 and you get sine squared of a is equal to 1/2
+times 1 minus cosine of 2a. And we have our other discovery
+I guess we could call it. Our finding. And it's interesting. It's always interesting
+to look at the symmetry. Cosine squared-- they're
+identical except for you have a plus 2a here for the cosine
+squared and you have a minus cosine of 2a here for
+the sine squared. So we've already found a
+lot of interesting things. Let's see if we can do
+anything with the sine of 2a. Let me pick a new color
+here that I haven't used. Well, I've pretty much
+used all my colors. So if I want to figure out the
+sine of 2a, this is equal to the sine of a plus a. Which is equal to the sine of a
+times the co-- well, I don't want to make it that thick. Times the cosine of a plus--
+and this cosine of a, that's the second a. Actually, you could
+view it that way. Plus the sine-- I'm just
+using the sine of a plus b. Plus the sine of the
+second a times the cosine of the first a. I just wrote the same thing
+twice, so this is just people to 2 sine of a, cosine of a. That was a little bit easier. So sine of 2a is equal to that. So that's another result. I know I'm a little bit tired
+by playing with all of these sine and cosines. And I was able to get all the
+results that I needed for my calculus problem, so hopefully
+this was a good review for you because it was a
+good review for me. You can write these
+things down. You can memorize them if you
+want, but the really important take away is to realize that
+you really can derive all of these formulas really from
+these initial formulas that we just had. And even these, I also have
+proofs to show you how to get these from just the basic
+definitions of your trig functions.

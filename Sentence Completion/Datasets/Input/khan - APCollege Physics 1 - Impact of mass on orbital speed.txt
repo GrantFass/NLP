@@ -1,0 +1,52 @@
+- [Instructor] A satellite of
+mass lowercase m orbits Earth at radius capital R and speed
+v naught as shown below. So this has mass lowercase m. An aerospace engineer decides
+to launch a second satellite that is double the mass
+into the same orbit. So the same orbit, so this radius is still gonna be capital R. And so this satellite,
+the second satellite, has a mass of two m. The mass of Earth is M. So this is Earth right here, capital M. What is the speed, lowercase
+v, of the heavier satellite in terms of v naught? And speed you can view as
+the magnitude of velocity, and so that's why it's lowercase v without a vector symbol on it. And so what we're trying to figure out, the magnitude of its velocity,
+in order to stay in orbit. What is lowercase v going to be equal to? So pause this video and see
+if you can figure it out on your own. All right so to tackle this,
+remember the whole reason why something stays in
+orbit instead of just going in a straight line through
+space is because there is going to be a constant magnitude
+centripetal acceleration towards the center of
+Earth that keeps turning I guess you could say the
+satellite in this circular path. And we've seen from other
+videos that the magnitude of our centripetal acceleration
+is going to be equal to the magnitude of our velocity, and I'll just use this first satellite, so the magnitude of its
+velocity squared divided by our radius, which in
+this case is a capital R. But what determines our
+centripetal acceleration? Well we can explore Newton's
+law of gravitation there. So if we think about the
+magnitude of the force of gravity, well that's going to be equal to G, which is the universal
+gravitational constant, times the product of the two masses that have the force between them, so the product of the
+mass of Earth, capital M, and the mass of this satellite, I'll just focus on this satellite for now, divided by the distance
+between their center of masses squared. In this case that is
+R, capital R, squared. And if you wanted the
+centripetal acceleration, you would just divide
+force divided by mass. Remember from Newton's second law, we know that F is equal to ma. And so if we're talking about
+centripetal acceleration, it's the force of gravity
+that is causing it. And so if you wanna solve
+for centripetal acceleration, you just divide both sides of these by m. And so our centripetal acceleration here, if you divide our force
+of gravity by lowercase m, by the mass of the satellite, our centripetal
+acceleration is going to be the universal gravitational
+constant times the mass of Earth divided by the radius squared. And so we could then
+take this and substitute it back over here and solve for the magnitude of our velocity. So what you're going to
+have is the universal gravitational constant
+times the mass of Earth divided by the radius squared is equal to the magnitude of our
+velocity or the speed squared divided by capital R. Now you can multiply both sides by R, and I'll swap sides as well, and you're gonna get v
+naught squared is going to be equal to capital G times capital M over R. Or if you take the square
+root of both sides, you get v naught is
+equal to the square root of the universal gravitational constant times the mass of Earth
+divided by the distance between the center of masses. Now what's interesting here is, we see this speed we need in
+order to maintain this orbit in no way is it a function of
+the mass of this satellite. I don't see a lowercase m
+anywhere in this expression on the right-hand side. And since this is independent of the mass of the thing that is in orbit, if you double the mass,
+if you go from lowercase m to two times lowercase m, it does not change the
+needed orbital speed. And so what is the speed
+v of the heavier satellite in terms of v naught? It's gonna be the same thing. We could write v is going
+to be equal to v naught. Doesn't matter what you
+do to the mass here, you're going to need
+the same orbital speed.

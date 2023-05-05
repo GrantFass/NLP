@@ -1,0 +1,46 @@
+- [Instructor] In this video,
+I will attempt to prove, or actually this and
+the next several videos, attempt to prove a special
+case version of Stokes' theorem or essentially Stokes'
+theorem for a special case. And I'm doing this because the proof will be a little bit simpler, but at the same time
+it's pretty convincing. And the special case we're
+going to assume is that the surface we're dealing
+with is a function of x and y. So if you give me any particular x and y, it only determines one
+point on that surface. So a surface like this would be the case. So it's kind of a mapping of
+this region in the xy-plane into three dimensions. So for any xy, we can
+figure out the height. So essentially z is going
+to be a function of x and y, and we can get a point on the surface. So this proof would not apply to a surface that's like a sphere
+or something like that, where any point on the xy-plane would, could actually determine
+two points on our surface, but this is a pretty good start. The other thing that
+we're going to assume, we're going to assume that z, which is essentially
+a function of x and y, that this function of x and y is, has continuous second-order derivatives, so continuous, continuous second, second derivatives. And the reason why I'm
+gonna make that assumption is it's going to help us
+in our proof later on. It's going to allow us to say that the partial of our surface or the partial of z with respect to x, and then taking the derivative
+of that with respect to y, is going to be the same as the partial of z with respect to y and then taking the derivative
+of that with respect to x. And in order to be able
+to make this statement, we have to assume that z or our, the z right over here, z
+is a function of x and y, has continuous second-order derivatives. And over here, we've just
+written our vector field F that we're going to deal
+with when we're trying to play with Stokes'
+theorem, and we'll assume that it has continuous
+first-order derivatives. Now with that out of the way, let's think about what
+Stokes' theorem tells us. And then we'll think about,
+for this particular case, how we can write it out, and
+then hopefully we will see that the two things are equal. So let me write it out. So Stokes' theorem tells us that if, that F, F dot dr over some path, and the path that we care about is essentially this path right over here. I'll do it in blue. It's this path right over here. This is the boundary. This is the boundary of our surface. So this is c right over here. Stokes' theorem tells us that
+this should be the same thing, this should be equivalent
+to the surface integral over our surface, over our surface of curl of F, curl of F dot ds, dot, dotted with the surface itself. And so in this video, I wanna focus, or probably this and the next video, I wanna focus on the second half. I wanna focus this. I wanna see how we can express this given the assumptions we've made. And then after that, we're gonna see how we can express this
+given the same assumptions. And then hopefully we'll
+find that we get them to be equal to each other. So let's just start figuring out what the curl of F is equal to. So the curl of F, the curl of F is equal to, you could view it as the del operator crossed with our vector
+field F, which is equal to, can write our components. So i, I'll do 'em in
+different colors, i, j, and k components, i, j, and k components, and then I need to write my del operator or my partial operators I
+guess I should call 'em. So the partial with respect to x, the partial with respect to y, partial with respect to z, and then I have to write
+i, j, and k components of my vector field F. And I will do that in green,
+well, I'll do it in blue. And so we have P, which
+is a function of x, y, z, Q, which is a function of x, y, and z, and then R, which is a
+function of x, y, and z. And so this is going to evaluate as, it's going to be i, i times, so blank out that column, that row. It's gonna be the partial
+of R with respect to y, partial of R with respect to y minus the partial of Q with respect to z, minus the partial of Q with respect to z. And then checkerboard pattern minus j, gonna make that hat a little bit better, minus j and then times the
+partial of R with respect to x, partial of R with respect to x minus the partial of P with respect to z, minus the partial of P with respect to z. And then finally, plus k, plus k, and that's going to be
+times the partial of x with, or, sorry, the partial
+of Q with respect to x, partial of Q with respect to x minus the partial of P with respect to y, minus the partial of P with respect to y. So we figured out the curl of
+F, and I'll leave you there. I'm trying to make shorter videos now. And so in the next video, we have to figure out how to express ds, and then we'll just evaluate
+this, this entire operation. We'll take the dot product.

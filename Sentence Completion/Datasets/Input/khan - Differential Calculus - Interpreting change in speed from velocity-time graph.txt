@@ -1,0 +1,38 @@
+- [Instructor] An object
+is moving along a line. The following graph gives the
+object's velocity over time. For each point on the graph, is the object speeding up,
+slowing down, or neither? So, pause this video and see
+if you can figure that out. All right, now, let's do it together, and first, we need to make sure we're reading this carefully, 'cause they're not asking is the velocity increasing, decreasing, or neither, they're saying is the object speeding up, slowing down, or neither? So, they're talking about speed, which is the magnitude of velocity. You can think of it as the
+absolute value of velocity, especially when we're thinking about it in one dimension, here. So, even though they're
+not asking about velocity, I'm going to actually wanna answer both so that we can see how sometimes, they move together, velocity and speed, but sometimes, one might be increasing while the other might be decreasing. So, if we look at this
+point right over here, where our velocity is
+two meters per second, the speed is the absolute
+value of the velocity, which would also be two meters per second, and we can see that the slope of the velocity-time graph is positive, and so, our velocity is increasing and the absolute value of our velocity, which is speed, is also increasing. A moment later, our velocity
+might be 2.1 meters per second and our speed would also
+be 2.1 meters per second. That seems intuitive enough. Now, we get the other scenario if we go to this point right over here. Our velocity is still positive, but we see that our velocity-time graph is now downward sloping, so, our velocity is decreasing
+because of that downward slope, and the absolute of our
+velocity is also decreasing. Right at that moment, our
+speed is two meters per second, and then, a moment later, it
+might be 1.9 meters per second. All right, now, let's go to this point. So, this point is really interesting. Here, we see that our velocity, the slope of the tangent
+line, is still negative, so, our velocity is still decreasing. What about the absolute value of our velocity, which is speed? Well, if you think about
+it, a moment before this, we were slowing down to
+get to a zero velocity, and a moment after this,
+we're going to be speeding up to start having negative velocity. You might say, wait, speeding
+up for negative velocity? Remember, speed is the absolute value, so, if your velocity goes from zero to negative one meters per second, your speed just went from
+zero to one meter per second, so, we're slowing down here
+and we're speeding up here, but right at this moment,
+neither is happening. We are neither speeding
+up nor slowing down. Now, what about this point? Here, the slope of our
+velocity-time graph, or the slope of the tangent
+line, is still negative, so, our velocity is still
+decreasing, but what about speed? Well, our velocity is already negative, and it's becoming more negative, so, the absolute value of velocity, which is two meters per second, that is increasing at that moment in time, so, our speed is actually increasing, so, as you notice here,
+you see a difference. Now, what about this point? Well, the slope of the tangent line here of our velocity-time graph
+is zero right at that point, so, that means that our
+velocity is not changing, so, you could say velocity not changing, and if speed is the absolute value or the magnitude of velocity, well, that will also be not changing,
+so, we would say speed is, I'll say, neither slowing
+down nor speeding up. Last but not least, this
+point right over here. The slope of the tangent line is positive, so, our velocity is increasing,
+but what about speed? Well, the speed here is
+two meters per second. Remember, it'd be the absolute
+value of the velocity, and the absolute value
+is actually going down if we forward in time a little bit, so, our speed is actually decreasing. We are slowing down as our velocity gets closer and closer to zero, 'cause the absolute value is getting closer and closer to zero.

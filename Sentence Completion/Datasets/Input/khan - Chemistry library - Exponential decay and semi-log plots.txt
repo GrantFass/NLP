@@ -1,0 +1,60 @@
+- Here we have a graph
+of exponential decay. Where N refers to the number
+of radioactive nuclei, alright as a function of time. And so this, right, this equation describes our graph. So this would be the number
+of radioactive nucleis at any time, T, is equal to N naught, the initial number of nuclei, E to the negative lambda T. Lambda is equal to the decay constant. So this is just some constant number here. And you could also call
+this K, if you wanted to, you could call it K if you're thinking about the rate constant. But that's just some constant and now we're gonna multiply
+it by the time here. So let's say we wanted to, let's say we wanted to find what this point right here
+represents on our graph. Well that's when time is equal to zero. So let's plug in, let's plug in time is equal to zero into our equation. So this would be the number
+of radioactive nuclei when time is equal to
+zero, is equal to N naught, times E to the negative lambda times T, which is zero. So that's that is equal to, this would be N naught times E to the zero. Each of the zero is one. So the number of radioactive nuclei at time is equal to
+zero, is equal to N naught. So this represents N naught, the initial number of
+radioactive nuclei on our graph. And you could do this
+for any time T, right? You could just pick a time, let's say that's our time
+that we wanted, right, and go up to here and find what this value is on the graph. And so at any time T, right, this would represent the
+number of radioactive nuclei. Let's do it for half-life. So remember, when half-life-- when time is equal to a half-life, right, the number of radioactive nuclei, this would be, let's see one half-life, so this would be the
+initial divided by two. So half of it remains. So let's look at that on our graph, right, so if we take N naught,
+we divide that by two, that's approximately here, so let's say this is N naught over two. And we go over to, we go over to here, and we drop down to our time, so this should represent our half-life. That time should represent our half-life. So that's what it looks like graphically. Let's take these numbers, let's take the half-life and what the number of
+radioactive nuclei would be and let's plug it in to this equation. Alright, so let's go ahead and do that. Let's get some more room. So I'm just gonna rewrite
+that equation here. So we had the number of radioactive
+nuclei as a function of time is equal to the initial
+number of radioactive nuclei times E to the negative lambda T. So let's plug in those, let's plug in those. So when we're gonna
+talk about the half-life we're gonna plug that
+in here for the time. And then the number of radioactive nuclei would be N naught divided by two. So let's plug those in. So we would have N naught divided by two, is equal to N naught E to the negative lambda times the half-life. Alright, well that
+cancels out the N naughts. Alright so that gives us on the left side one half is equal to E
+to the negative lambda times the half-life. So next, let's get rid of the E. And we can do that by taking
+the natural log of both sides. Alright, so if I take the
+natural log of one half on the left side and I
+take the natural log of E to the negative lambda T one half. Alright, on the left side
+natural log of one half is equal to negative .693 so this is just plug it in your calculator you'll get negative .693 and the right, that takes care of this all that's equal to just this over here. Right, so now you would have-- this would negative lambda T one half. And so we don't have to worry
+about the negative signs, right, so this is just .693 is equal to lambda times T one half. So we could solve for the half-life, right, so if we solve for T one half. So T one half would be equal to .693 divided by lambda, divided by the decay constant. So this is one of those equations, right, that you see for half-life. So what if you wanted to go
+ahead and solve for lambda, the decay constant. Right, so that's obviously really simple. We just do the decay constant is equal to .693 divided by the half-life. And so obviously I'm just
+rearranging this equation here. So you could solve for half-life or you could solve for the decay constant. You could go back and
+forth between the half-life and the decay constant. So if you know one, you can
+figure out the other one. Alright so that's thinking about the exponential decay graph. Let's talk about semi-log plots next, which is another way
+at looking at the data. And so let's get some room here. I'm going to rewrite our equation, right, so the number of radioactive nuclei is equal to the initial number times E to the negative lambda T. Alright so let's convert this into a linear, into a straight line. So what we have to do,
+we have divide by N naught. We have N divided by N naught. So we divide both sides by N naught and we get E to the
+negative lambda T here. Right now, to get rid of this E once again we just take the natural log. So we take the natural log of both sides, so natural log of N over N naught is equal to the natural log
+of E to the negative lambda T. Alright so on the left
+side we have a log property so natural log of N over N naught is equal to natural log of N minus natural log of N naught. And then on the right,
+right, this goes away and we're left with this. So negative lambda T, so we have negative lambda T on the right side here. And if we just rearrange this, right, so let's just do natural log of N is equal to negative lambda T, so we're gonna add LN
+of N naught to this side. And now we have, now we
+have a very interesting, very interesting form. If you look at it closely you'll
+see this is the same thing as Y is equal to MX + B, which is the equation for a straight line. So Y, Y would be equal
+to natural log of N. M would be equal to negative lambda, alright so we're talking about T, right, as being X here. And then natural log
+of N naught is equal to B. So Y is equal to MX + B if
+you remember the equation, it's the graph of a straight line, right, where M is the slope. Alright so, we could say the slope of this is equal to negative lambda. And remember that this is your vertical intercept, right? So B is your vertical intercept so if we graph this our vertical intercept should be natural log of N naught. So let's go ahead and sketch
+this out really quickly. I won't be too concerned with details here but if we're graphing it. So if you think about
+this is being your Y axis, I'll just put this in parentheses cuz that's not really what we're doing. And this being your X axis, right, let's look at those again. So for my Y, I would be graphing natural log of N. So let me go ahead and
+use a different color so we can see it here. So natural of N on the Y axis. On the X axis here, that would be time. So we have time over here. Alright and we know that
+the vertical intercept is going to be natural log of N naught. So this vertical intercept
+is going to be here natural log of N naught. And we could prove that
+really quickly, right, we could say when time is equal to zero, right, so when time is equal to zero, let's plug that in, we
+could have natural log of N, which is equal to
+negative lambda times zero plus natural log of N naught. Right, so this would
+go away and you can see that we would have natural log of N naught would be equal to this point here. So that's our vertical intercept. And we know this is the
+graph of a straight line. And we're gonna have
+a negative slope here, so if I go ahead and draw this in it would look something like, oh just pretend like
+that's a straight line. I didn't do a very good job but you can use your imagination there. And the slope of this, right, so the slope, remember what slope is. That's change in Y over change in X. That would be the change in this axis over the change in this axis. That's equal to, right, that is equal to negative lambda, what we talked about over here. And so if you do a semi-log plot, right, so it's semi-log because
+we have this natural log over here versus here. It tells us some information, right, so it's another way to look at the data. You could find the slope
+of this straight line, right, take the negative of it
+and get your decay constant. And then from your decay constant you could get your half-life. And so once again sometimes you'll see semi-log plots done as just a different way at looking at the data.

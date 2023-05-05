@@ -1,0 +1,122 @@
+In the last couple of videos
+we've been slowly moving towards our goal of figuring
+out the surface area of this torus. And we did it by evaluating a
+surface integral, and in order to evaluate a surface integral
+we had to take the parameterization-- take its
+partial with respect to s and with respect to t. We did that in the first video. Then we had to take
+its cross product. We did that in the
+second video. Now, we're ready to take the
+magnitude of the cross product. And then we can evaluate it
+inside of a double integral and we will have solved or we would
+have computed an actual surface integral-- something you see
+very few times in your education career. So this is kind of exciting. So this was the cross
+product right here. Now, let's take the
+magnitude of this thing. And you might remember, the
+magnitude of any vector is kind of a Pythagorean theorem. And in this case it's going
+to be kind of the distance formula to the Pythagorean
+theorem n 3 dimensions. So the magnitude-- this is
+equal to, just as a reminder, is equal to this right here. It's equal to the partial of
+r with respect to s cross with the partial of
+r with respect to t. Let me copy it and paste it. That is equal to
+that right there. Put an equal sign. These two quantities are equal. Now we want to figure
+out the magnitude. So if we want to take the
+magnitude of this thing, that's going to be equal to-- well,
+this is just a scalar that's multiply everything. So let's just write
+the scalar out there. So b plus a cosine of s
+times the magnitude of this thing right here. And the magnitude of this thing
+right here is going to be the sum, of-- you can imagine,
+it's the square root of this thing dotted with itself. Or you could say it's the sum
+of the squares of each of these terms to the 1/2 power. So let me write it like that. Let me write the sum
+of the squares. So if you square this you get
+a squared cosine squared of s, sine squared of t. That's that term. Plus-- let me color code it. That's that term. I'll do the magenta. Plus that term squared. Plus a squared cosine squared
+of s, cosine squared of t. That's that term. And then finally-- I'll
+do another color-- this term squared. So plus a squared
+sine squared of s. And it's going to be all of
+this business to the 1/2 power. This right here is the same
+thing as the magnitude of this right here. This is just a scalar
+that's multiplying by both of these terms. So let's see if we can do
+anything interesting here. If this can be
+simplified in any way. We have a squared
+cosine squared of s. We have an a squared cosine
+squared of s here, so let's factor that out from both
+of these terms and see what happens. I'm just going to rewrite
+this second part. So this is going to be a
+squared cosine squared of s times sine squared of t-- put
+a parentheses-- plus cosine-- oh, I want to do it in that
+magenta color, not orange. Plus cosine squared of t. And then you're going to
+have this plus a squared sine squared of s. And of course, all of that
+is to the 1/2 power. Now what is this? Well, we have sine squared of
+t plus cosine squared of t. That's nice. That's equal to 1, the most
+basic of trig identities. So this expression right here
+simplifies to a squared cosine squared of s plus this
+over here: a squared sine squared of s. And all of that to
+the 1/2 power. You might immediately
+recognize you can factor out an a squared. This is equal to a squared
+times cosine squared of s plus sine squared of s. And all of that to
+the 1/2 power. I'm just focusing on
+this term right here. I'll write this in a second. But once again, cosine squared
+plus sine squared of anything is going to be equal 1 as long
+as it's the same anything it's equal to 1. So this term is a squared
+to the 1/2 power. Or the square root of a
+squared, which is just going to be equal to a. So all of this-- all that crazy
+business right here just simplifies, all of that
+just simplifies to a. So this cross product here
+simplifies to this times a, which is a pretty neat
+and clean simplification. So let me rewrite this. That simplifies, it
+simplifies to a times that. And what's that? a
+times b, so it's ab. ab plus a squared cosine of s. So already, we've gotten pretty
+far and it's nice when you do something so beastly and
+eventually it gets to something reasonably simple. And just to review what we had
+to do, what our mission was several videos ago, is we want
+to evaluate what this thing is over the region from s-- over
+the region over with the surface is defined. So s going from 0 to 2 pi
+and t going from 0 to 2 pi. Over this region. So we want to integrate
+this over that region. So that region we're going
+to vary s from 0 to 2 pi. So ds. And then we're going to vary
+t from 0 to 2 pi-- dt. And this is what
+we're evaluating. We're evaluating the magnitude
+of the cross product of these two partial derivatives of our
+original parameterization. So this is what we
+can put in there. Things are getting simple all
+of a sudden, or simpler. ab plus a squared cosine of s. And what is this equal to? So this is going to be equal
+to-- well, we just take antiderivative of the
+inside with respect to s. So the antiderivative--
+so let me do the outside of our integral. So we're still going to have
+to deal with the 0 to 2 pi and our dt right here. But the antiderivative with
+respect to s right here is going to be-- ab is just a
+constant, so it's going to be abs plus-- what's the
+antiderivative of cosine of s? It's sine of s. So plus a squared sine of s. And we're going to evaluate
+it from 0 to 2 pi. And what is this going
+to be equal to? Let's put our boundaries out
+again or the t integral that we're going to have to do in
+a second-- 0 the 2 pi d t. When you put 2 pi here you're
+going to get ab times 2 pi or 2 pi ab. So you're going to have 2 pi ab
+plus a squared sine of 2 pi. Sine of 2 pi is 0, so there's
+not going to be any term there. And then minus 0 times
+ab, which is 0. And then you're going to
+have minus a squared sine of 0, which is also 0. So all of the other
+terms are all 0's. So that's what we're left with
+it, it simplified nicely. So now we just have to take
+the antiderivative of this with respect to t. And this is a constant in t, so
+this is going to be equal to-- take the antiderivative with
+respect to t-- 2 pi abt and we need to evaluate that from 0 to
+2 pi, which is equal to-- so we put 2 pi in there. You have a 2 pi for t, it'll
+be a 2 pi times 2 pi ab. Or we should say, 2 pi
+squared times ab minus 0 times this thing. Well, that's just going to
+be 0, so we don't even have to write it down. So we're done. This is the surface
+area of the torus. This is exciting. It just kind of snuck up on us. This is equal to 4 pi squared
+ab, which is kind of a neat formula because it's
+very neat and clean. You know, it has a 2 pi,
+which is kind of the diameter of a circle. We're squaring it, which kind
+of makes sense because we're taking the product of-- you can
+kind of imagine the product of these 2 circles. I'm speaking in very abstract,
+general terms, but that kind of feels good. And then we're taking just
+the product of those two radiuses, remember. Let me just copy this
+thing down here. Actually, let me copy this
+thing because this is our new-- this is our exciting result. Let me copy this. So copy. So all of this work that we
+did simplified to this, which is exciting. We now know that if you have a
+torus where the radius of the cross section is a, and the
+radius from the center of the torus to the middle of
+the cross sections is b. That the surface area of that
+torus is going to be 4 pi squared times a times b. Which I think is a
+pretty neat outcome.

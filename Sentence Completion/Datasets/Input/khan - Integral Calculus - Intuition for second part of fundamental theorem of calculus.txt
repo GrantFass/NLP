@@ -1,0 +1,193 @@
+Let's say that I have
+some function, s of t, which is positioned
+as a function of time. And let me graph a potential
+s of t right over here. We have a horizontal
+axis as the time axis. Let me just graph something. I'll draw it kind
+of parabola-looking. Although I could
+have done it general, but just to make things a
+little bit simpler for me. So I'll draw it kind
+of parabola-looking. We call this the y-axis. We could even call this y equals
+s of t as a reasonable way to graph our position as a
+function of time function. And now let's think
+about what happens if we want to think about the
+change in position between two times, let's say between time
+a-- let's say that's time a right over there-- and then
+this right over here is time b. So time b is right over here. So what would be the change
+in position between time a and between time b? Well, at time b, we
+are at s of b position. And at time a we were
+at s of a position. So the change in
+position between time a and time b-- let me write this
+down-- the change in position between-- and this
+might be obvious to you, but I'll write it
+down-- between times a and b is going to be equal
+to s of b, this position, minus this position,
+minus s of a. So nothing
+earth-shattering so far. But now let's think
+about what happens if we take the derivative of
+this function right over here. So what happens when
+we take the derivative of a position as a
+function of time? So remember, the
+derivative gives us the slope of the tangent
+line at any point. So let's say we're looking
+at a point right over there, the slope of the tangent line. It tells us for a very
+small change in t-- I'm exaggerating it visually--
+for a very, very small change in t, how much are we
+changing in position? So we write that as ds dt is
+the derivative of our position function at any given time. So when we're talking about the
+rate at which position changes with respect to
+time, what is that? Well, that is equal to velocity. So this is equal to velocity. But let me write this
+in different notations. So this itself is going
+to be a function of time. So we could write this
+is equal to s prime of t. These are just
+two different ways of writing the derivative
+of s with respect to t. This makes it a
+little bit clearer that this itself is
+a function of time. And we know that this is the
+exact same thing as velocity as function of time, which
+we will write as v of t. So let's graph what v of t
+might look like down here. Let's graph it. So let me put another
+axis down here that looks pretty close
+to the original. I'll give myself
+some real estate, so that looks pretty good. And then let me try
+to graph v of t. So once again, if this is my
+y-axis, this is my t-axis, and I'm going to graph
+y is equal to v of t. And if this really
+is a parabola, then the slope over here is
+0, the rate of change is 0, and then it keeps increasing. The slope gets steeper
+and steeper and steeper. And so v of t might look
+something like this. So this is the graph of
+y is equal to v of t. Now, using this
+graph, let's think if we can conceptualize
+the distance, or the change in position, between time
+a and between time b. Well, let's go back
+to our Riemann sums. Let's think about what an
+area of a very small rectangle would represent. So let's divide this into
+a bunch of rectangles. So I'll do it fairly
+large rectangles just so we have some
+space to work with. You can imagine
+much smaller ones. And I'm going to do a
+left Riemann sum here, just because we've
+done those a bunch. But we could do it
+right Riemann sum. We could do a trapezoidal sum. We could do anything we want. And then we could keep going
+all the way-- actually, let me just do three right now. Let me just do three
+right over here. And so this is actually a
+very rough approximation, but you can imagine
+it might get closer. But what is the area of
+each of these rectangles trying-- what is it
+an approximation for? Well, this one right over
+here, you have f of a, or actually I should say v of a. So your velocity at time a is
+the height right over here. And then this distance
+right over here is a change in
+time, times delta t. So the area for that
+rectangle is your velocity at that moment times
+your change in time. What is the velocity
+at that moment times your change in time? Well, that's going to be
+your change in position. So this will tell you--
+this is an approximation of your change in
+position over this time. Then the area of this rectangle
+is another approximation for your change in position
+over the next delta t. And then, you can imagine,
+this right over here is an approximation
+for your change in position for
+the next delta t. So if you really wanted
+to figure out your change in position between
+a and b, you might want to just do a Riemann sum
+if you wanted to approximate it. You would want to take
+the sum from i equals 1 to i equals n of v of-- and
+I'll do a left Riemann sum, but once again, we
+could use a midpoint. We could do trapezoids. We could do the
+right Riemann sum. But I'll just do a left
+one, because that's what I depicted right
+here-- v of t of i minus 1. So this would be t0, would be a. So this is the first rectangle. So the first rectangle, you use
+the function evaluated at t0. For the second
+rectangle, you use the function evaluated at t1. We've done this in
+multiple videos already. And then we multiply it times
+each of the changes in time. This will be an
+approximation for our total-- and let me make it
+clear-- where delta t is equal to b minus a over the
+number of intervals we have. We already know, from
+many, many videos when we looked at
+Riemann sums, that this will be an approximation
+for two things. We just talked about it'll be
+an approximation for our change in position, but it's also an
+approximation for our area. So this right over here. So we're trying to approximate
+change in position. And this is also approximate
+of the area under the curve. So hopefully this
+satisfies you that if you are able to calculate the area
+under the curve-- and actually, this one's pretty easy,
+because it's a trapezoid. But even if this was a function,
+if it was a wacky function, it would still apply
+that when you're calculating the area under the
+curve of the velocity function, you are actually figuring
+out the change in position. These are the two things. Well, we already
+know, what could we do to get the exact
+area under the curve, or to get the exact
+change in position? Well, we just have
+a ton of rectangles. We take the limit as
+the number of rectangles we have approaches infinity. We take the limit as
+n approaches infinity. And as n approaches
+infinity, because delta t is b minus a divided
+by n, delta t is going to become
+infinitely small. It's going to turn into dt,
+is one way to think about it. And we already have
+notation for this. This is one way to think
+about a Riemann integral. We just use the
+left Riemann sum. Once again, we could use the
+right Riemann sum, et cetera, et cetera. We could have used a
+more general Riemann sum, but this one will work. So this will be equal
+to the definite integral from a to b of v of t dt. So this right over here is
+one way of saying, look, if we want the exact area under
+the curve, of the velocity curve, which is going to be
+the exact change in position between a and b, we
+can denote it this way. It's the limit of this Riemann
+sum as n approaches infinity, or the definite integral
+from a to b of v of t dt. But what did we just figure out? So remember, this is
+the-- we could call this the exact change in position
+between times a and b. But we already figured
+out what the exact change in position between
+times a and b are. It's this thing right over here. And so this gets interesting. We now have a way of evaluating
+this definite integral. Conceptually, we
+knew that this was the exact change in
+position between a and b. But we already figured
+out a way to figure out the exact change of
+position between a and b. So let me write all this down. We have that the definite
+integral between a and b of v of t dt is equal
+to s of b minus s of a where-- let me write this in
+a new color-- where s of t is the-- we know v of t is
+the derivative of s of t, so we can say where s of t is
+the antiderivative of v of t. And this notion,
+although I've written it in a very nontraditional--
+I've used position velocity-- this is the second fundamental
+theorem of calculus. And you're probably
+wondering about the first. We'll talk about that
+in another video. But this is a super
+useful way of evaluating definite integrals
+and finding the area under a curve, second
+fundamental theorem of calculus, very closely
+tied to the first fundamental theorem, which we
+won't talk about now. So why is this such a big deal? Well, let me write it in
+the more general notation, the way that you might
+be used to seeing it in your calculus book. It's telling us that
+if we want the area under the curve between
+two x points a and b of f of x-- and so this
+is how we would denote the area under the curve
+between those two intervals. So let me draw that
+just to make it clear what I'm talking about
+in general terms. So this right over
+here could be f of x. And we care about the area
+under the curve between a and b. If we want to find the
+exact area under the curve, we can figure it out by taking
+the antiderivative of f. And let's just say that capital
+F of x is the antiderivative-- or is an antiderivative, because
+you can have multiple that are shifted by constants--
+is an antiderivative of f. Then you just have to take--
+evaluate-- the antiderivative at the endpoints and
+take the difference. So you take the endpoint first. I guess you subtract the
+antiderivative evaluated at the starting point from
+the antiderivative evaluated at the end point. So you get capital F of
+b minus capital F of a. So if you want to figure out
+the exact area under the curve, you take the
+antiderivative of it and evaluate that
+at the endpoint, and from that, you subtract
+the starting point. So hopefully, that makes sense. In the next few videos,
+we'll actually apply it.

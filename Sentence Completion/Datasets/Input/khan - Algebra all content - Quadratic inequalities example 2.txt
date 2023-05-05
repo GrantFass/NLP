@@ -1,0 +1,112 @@
+We've got the inequality negative x times
+the expression 2x minus 14 is greater than or equal to
+24. So I encar, encourage you to pause this video now and think about what the
+solution set to this inequality would actually be,
+and actually plot the solution set on a number
+line. So I'm assuming you've given a go at it, so let's just try to simplify this a
+little bit. So on the left hand side we could
+distribute, we could distribute this negative x, and so if we
+did that we would get negative 2, negative 2x squared,
+negative times a negative is a positive, plus 14x is greater than or
+equal to 24. Now I'm gonna put the, I'm gonna subtract
+24 from both sides, just so that we just have a 0 here and then we can think about
+factoring what we have here on the left. So we have negative 2x squared, plus 14x,
+I'm gonna subtract 24 from both sides, so it's minus 24 is
+greater than or equal to, I've subtracted 24 from the
+right as well, so that's going to be greater than or
+equal to 0. Now, I don't like, I don't like having
+this negative 2 out front, so what I wanna do is I wanna divide this
+left hand side by negative 2, but I can't just divide the left hand
+side only by negative 2, I have to do divide the right hand side by
+negative 2 as well. And anytime I multiply or divide both
+sides of an inequality by a negative number, it's
+going to flip the inequality. So if I divide both sides by negative 2,
+I'm going to be left with x squared, positive x squared
+minus, so I'm dividing by negative 2, so minus 7x, plus
+12. And now since I divided by negative 2, I'm
+gonna flip this inequality, is less than or equal to zero divided by
+negative 2 is 0. So that simplified things a good bit, and
+now let's see if we can factor this quadratic
+expression. So two numbers whose product is positive
+12, so that means they're gonna have the same sign, and whose, and
+whose sum is negative 7. So if they have the same sign, and their
+sum is negative 7, that tells us that they're
+both going to be negative. And let's see, negative 3 and negative 4
+seem to fit the bill. Their product is positive 12. Their sum is negative 7. So we could write this as x minus 3 times
+x minus 4, is going to be less than or equal
+to 0. So now this is the point that we're gonna
+do a little bit of interesting logic. If the product of two things is less than,
+is less than or equal to 0, what does that tell us, tell what do
+we know about it? Well, that tells us that either, either
+one or both of them is 0, or they have different
+signs. The only way that you're gonna get less
+than 0 is if one is positive and the other is negative, or one
+is negative and the other is positive. So our 1 is negative, is that they have
+different signs. So let's write that down, let's write that
+down. So either, either x minus 3, x minus 3 is
+less than or, less than, either x minus 3 is less
+than or equal to 0 and, and x minus 4 is greater than or
+equal to 0, x minus 4 is greater than or equal to 0, so
+notice, note this one is non positive, this one is non
+negative, they're either equal to 0 or they are have
+different signs. So that's one situation, or, or the other
+way around, or x minus 3 is non negative, it's greater than
+or equal to 0, and x minus 4 is non positive, x minus 4 is
+less than or equal to 0. Once again, they're either zero or
+different signs, that's all I'm doing with this little with this little
+logic work right over here. So what are these, what is this, what is
+this simplified to? So x minus 3 less than or equal to 0, add
+3 to both sides, you get x is less than or
+equal to 3. And, and x minus 4 is greater than or
+equal to 0. If you add 4 to both sides of this, you
+get x is greater than or equal to 4. So what values of x are going to be less
+than or equal to 3, and greater than or equal
+to 4? Well anything that's less than or equal to
+3 is not going to be greater than or equal to 4 and anything that's greater than or equal
+to 4 is not going to be less than or equal to 3. So there's no x, there's no x value that
+can satisfy this situation right over here, there's no
+X value that will result in this one being negative, and
+this one being, or this one being non positive and this one
+being non negative. So let's go to this one right over here. So if we add 3 to both sides, we get x is
+greater than or equal to 3 and, and we get adding 4 to both sides, x
+is less than or equal to 4. Now does this make sense, that something
+could be greater than or equal to 3 and less than or equal to 4? Sure, for example, well 3 is greater than
+or equal to 3 and is less than or equal to 4, 4 is greater than or equal to 3 and it's less than or equal to 4 and anything in
+between. So we can plot the solution set here. So this is actually all that matters. Cuz this one, there's no situation which
+that would've been true. So this is the only thing, this is the only thing that's gonna make this or part
+true. This part is always going to be false. So if we wanted to make the solution set,
+it would look something like this. So if this is our possible values of x. So let's say that that is 0, so this is 1,
+2, 3, and 4, 3 and 4, 3 and 4, x could be
+greater than or equal to 3, so it's greater than or
+equal to 3. But it's also let, it also has to be less
+than or equal to 4 so we can't just go all past
+4. Also, less than or equal, less is since
+it's, less than or equal we can color in these dots, less
+than or equal to 4. So anything in this range, including 3 and
+4, that's why we circled in the dots, this would satisfy
+this equation here. And if you wanted to think about it
+visually, hey, you know we know that this type of thing,
+we know that this type of thing, or this type of
+thing, this type of thing right over here, these are,
+these are parabola's. So how would that relate to this little
+solution set that we just thought about right over
+here? Well if you look at let's, let's just look
+at one of these. Let's say we went to, let's say we went to
+this form right over here. So all, everything we did, this is just
+another way of thinking about negative 2x squared plus 14x minus 24 is
+greater than or equal to 0. So this right over here, we have a
+negative coefficient on the x squared term, that's going to be a
+downward opening parabola. So when is that greater than or equal to
+0? So if, if we though about the downward opening parabola, it could might
+look something like this, it might look something like this if we're now thinking in 2
+dimensions. And this is the, this is the, if you think
+of this as the Y axis right over here. So when is that greater than or equal to
+0? Well it's greater than or equal to 0, it's
+above the X axis in this range for x right over
+here. So that's one way of thinking about it. If we though about it from the point of view, not of that parabola, not of that
+parabola, but this parabola right over here, when is x
+squared minus 7x plus 12 less than or equal to 0? Well this is gonna be an up, upward
+opening parabola. So if it has a positive coefficient here,
+so this problem might look something like this, might look something like this, when
+is it less than or equal to 0? Well once again, once again it's less than
+or equal to 0 in that same range.

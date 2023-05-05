@@ -1,0 +1,76 @@
+Voiceover: Let's say that
+you have two folks that are trying to collectively
+push a box across the snow towards a target, so
+this is where the box is, right over here and this is
+the target, right over here. Let me write that, that is the target. That's where they're
+trying to get the box, and person A, because for
+some reason, they can't push it from exactly behind the box, maybe there's not a good footing there, or I guess if they pressed
+there, maybe the box squeezes a little bit,
+so person A has to push in a direction that's not
+exactly going in the direction of the target, so they push in a direction that looks like this, and so let me show you
+this vector I'm drawing, essentially represents the
+force that they're exerting. This is their force vector. This is person A's force vector. So this is person A's force vector, and we know the length of this vector, or another way to think
+about it, the magnitude of vector A is 330 newtons, 330 newtons. And let's say person B, once again, because they can't push exactly in the direction of the target, maybe the box is really
+soft right over here, person B is pushing at
+this angle right over here, so that right over there, that vector is the force that person B is pushing onto it and the direction, and the
+magnitude of that force, of that vector of person
+B's pushing, is 300 newtons. And we know their angles that those make with the direction of the target. So if this is the direction
+of the target right over here we know that this is a 35 degree angle, and we know that this
+is a 15 degree angle. Now what I want you to
+do, is pause this video and think about how much
+of each of their force is going in the direction of getting the box towards the target, and then who is actually exerting more
+force in that direction. We see that person A is exerting a total, a higher magnitude of
+force in this direction than person B is doing in that direction. 330 newtons versus 300, but who's helping the box
+go more in that direction? And by how much more? And also, what's the total force now pushing the box in that direction? So I'm assuming you had a go at it, and the key here is to find the component of each of these vectors, the magnitude of each of these vectors
+in this direction, in the direction towards the target. And so, let's look first at vector A. So vector A looks like this,
+and I'll just draw them separately just so we can
+clean it up a little bit. Vector A looks like this. We know its magnitude -
+the magnitude of vector A is equal to 330 newtons, and if we say that the target is in this
+direction right over here, so that's the target
+is some place out here, we've already been told
+that this is 35 degrees. So what we really want to
+do is find the component, the magnitude of the component going in that direction right over there. The way we can do that is just with our traditional trig functions. This right over here is a right triangle. We are looking for this
+side right over here. We have - let me just call that A sub X. And we already know
+that the magnitude of A is 330 newtons, so the magnitude - let me just say that the magnitude - let me just write it this
+way so we don't confuse. So let's just say the
+magnitude of the vector in the X direction, so this
+vector right over here, we can write like this. The magnitude of that, we'll just write it without the vector notation. So how can we think about that? Well we know cosine is
+adjacent over hypotenuse, so we could write cosine
+of 35 degrees is equal to the length of the adjacent side. That would just be A sub X,
+without the vector over it. We're just saying that
+that's the magnitude of vector A sub X, over
+the magnitude of vector A, over 330 newtons, or we
+could say that A sub X is equal to 330 times
+the cosine of 35 degrees. And we can make the exact
+same argument for B. Vector B, so let me draw it like this. Vector B, you could, maybe
+I'll draw it like this just to make it a little bit - let me do it a little bit different. If this is the direction to the target, so once again, I'll just draw
+a horizontal line for that. Then relative to that, vector B looks something like this. Vector B looks something like that, so that is vector B. B sub X, in the direction of the target - so we would drop a
+perpendicular like that. This would be - this
+right over here would be the vector B sub X, and
+so what is the magnitude of B sub X going to be equal to? Now we could say that the
+magnitude of B sub X - we'll just call that B sub X
+without the vector notation, same exact logic. This is 15 degrees. Cosine of 15 degrees is
+going to be the length of the adjacent side over the length of the hypotenuse. So we already know that the length of the hypotenuse is 300 newtons. So we could write that
+cosine of 15 degrees is equal to B sub X,
+length of the adjacent side over the length of the hypotenuse. Or that B sub X is equal to 300 times cosine of 15 degrees. So let's get our calculator out and let's calculate what these things are. So, let's see, we have 330 times cosine of 35 degrees,
+gets us to 270 newtons. So that's A sub X is 270 newtons, and B sub X is 300 times
+cosine of 15 degrees. We get 289.777, so what we see is, even though B's magnitude is less than A's magnitude, the
+component of vector B going the direction of the
+target is actually larger than the component of
+vector A going in it. So if we were rounding
+to the nearest newton, this right over here, the
+magnitude of this vector right over here, B sub X, that is, if we round to the nearest
+newton, 290 newtons. So this is approximately
+290 newtons length, or I guess you could say magnitude, while this one is a little bit shorter - it's a little bit shorter. We saw if we round to the nearest newton, it's about 270 newtons. The length of this one is
+270 newtons, approximately. So if you were to say, how much more is person B pushing in the direction that we care about, it's about - well, if we want to be
+a little more precise, we can subtract the two, so we can take 300 cosine of 15, minus 330 cosine of 35, and we get about 19.5 newtons difference. The blue, person B, is contributing 19.458 newtons more in that direction towards the target than person A is. But if we wanted to talk about, what is the total force
+going in that direction, then we would take the
+sum of these two things. So we would - the total
+force in that direction is going to be 560 newtons if we round to the nearest newton. So if you add this blue component to this magenta component,
+you get this one right over here, which is 560 newtons. So this whole vector right
+over here, it's magnitude - so I could write that as
+the magnitude of A sub X, plus B sub X, which is
+the same thing as A sub X, plus B sub X - I already
+said these are the equivalent of the magnitude of each of
+these vectors is equal to - I could write approximately
+equal 560 newtons.

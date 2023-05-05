@@ -1,0 +1,80 @@
+- [Voiceover] How do you describe rotation in three dimensions? So for example, I have here a globe and it's rotating in some way and there's a certain
+direction that it's rotating and a speed with which it's rotating. And the question is how could
+you give me some numerical information that perfectly
+describes that rotation? So you give me some numbers,
+and I can tell you the speed and the direction and
+everything associated with this rotation. But before talking about that, let's remind ourselves
+of how we talked about two dimensional rotation. So I have here a little pi creature, and I set him to start rotating about and the way that we can describe this, we pretty much need to
+just give a rate to it. And you might give that rate
+as a number of rotations per second, some unit of
+time. So rotations per second. And in this case, I think
+I programmed him so that he's going to do one rotation
+for every five seconds. So his rotational rate would be 0.2. But that's a little bit ambiguous because if you just say,
+"Hey, this little pi creature is rotating at 0.2 rotations per second," someone could say, "Well, is it clockwise or counterclockwise?" So there's some ambiguity. And the convention that
+people have adopted is to say, "Well, if I
+give you a positive number, if the number is positive,
+then that's going to tell you that the nature of the
+rotation is counterclockwise, but if I give you a negative number, if instead you see something
+that's a negative number of rotations per second,
+that would be rotation the other way, going clockwise." And that's the convention. That's just what people have decided on. And with this it's very nice
+because given a single number, just one number, and it could
+be positive or negative, you can perfectly describe
+two dimensional rotation. And there's a minor nuance here, usually in physics and
+math, we don't actually use rotations per unit second but
+instead you describe things in terms of the number of
+radians per unit second. And just as a quick
+reminder of what that means, if you imagine some kind of circle, and it could be any circle,
+the size doesn't really matter, and if you draw the radius to
+that and then ask the question how far along the circumference
+would I have to go such that the arc length,
+that sort of sub-portion of the circumference, is
+exactly as long as the radius? So if this was R, you'd want
+to know how far you have to go before that arc length is also R. And then that, that angle,
+that amount of turning that you can do, determines one radian. And because there's exactly two pi radians for every rotation, to
+convert between rotations per unit second and
+radians per unit second, you just multiply this guy by 2π so it would be whatever the
+number you have there times 2π. And the specific numbers
+aren't too important. The main upshot here is
+that with a single number, positive or negative, you
+can perfectly describe two dimensional rotation. But if we look over here at the 3D case, there's actually more information than just one number that
+we're going to need to know. First of all, you want to know the axis around which it's rotating,
+so the line that you can draw such that all rotation
+happens around that line. And then you want to
+describe the actual rate at which it's going. You
+know, is it slow rotation or is it fast? So you need to know a direction
+along with a magnitude. And you might say to yourself,
+"Hey, direction? Magnitude? Sounds like we could use a vector." And in fact, that's what we do. We use some kind of vector whose length is going to correspond to the
+rate at which it's rotating, typically in radians per second, it's called the angular velocity. And then the direction describes
+the axis of rotation itself But similar to how in
+two dimensions there was an ambiguity between clockwise
+and counterclockwise, if this was the only convention we had, it would be ambiguous whether
+you should use this vector or if you should use one pointing
+in the opposite direction. And the way I've chosen to
+draw these guys, by the way, it doesn't matter where they are, remember a vector it just has
+a magnitude and a direction and you can put it anywhere in space. I figured it was natural enough to just kind of put them around the poles just so that you could see them on the axis of rotation itself. So the question is,
+what vector do you use? Do you use the one
+pointing in this direction? Or do you use this green one pointing in the opposite direction? And for this, we have a convention known as the right-hand rule. So I'll go ahead and
+bring in a picture here to illustrate the right-hand rule. What you imagine doing
+is taking the fingers of your right hand and curling them around in the direction of rotation. And what I mean by that is
+the tips of your fingers will be pointing the direction that the surface of the sphere would move. Then when you stick out your thumb, that's the direction that
+is the choice of vector which should describe that rotation. So in the specific example we have here, when you stick out your right thumb, that corresponds to the white
+vector, not the green one. But if you did things
+the other way around, whoops, move this a little
+bit. Get him to stay in place. If you move things the other way around, such that the rotation were going kind of in the opposite direction, then when you imagine curling
+the fingers of your right hand around that direction, your
+thumb is going to point according to the green vector. But with the original rotation
+that I started illustrating, it's the white vector, the white vector is the one to go with. And this is actually pretty cool, right? Because you're packing
+a lot of information into that vector. It tells you what the axis is. It tells you the speed of
+rotation via its magnitude. And then the choice of which
+direction along the axis tells you whether the
+globe is going one way or if it's going the other. So with just three numbers, the three dimensional
+coordinates of this vector, you can perfectly describe any one given three dimensional rotation. And the reason I'm talking
+about this, by the way, in a series of videos about curl, is because what I'm about to talk about is three dimensional curl
+which relates to fluid flow in three dimensions and
+how that induces a rotation at every single point in space. And what's going to happen
+is you're going to associate a vector with every single point in space to answer the question
+what rotation at that point is induced by the certain fluid flow? And I'm getting a little
+bit ahead of myself here. For right now you just need to focus on a single point of rotation and a single vector corresponding to that. But it's important to kind
+of get your head around how exactly we represent
+this rotation with a vector before moving on to the notably
+more cognitively intensive subject of three dimensional curl. So with that, I will see you next video.

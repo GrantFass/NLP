@@ -1,0 +1,92 @@
+What I want to do in this video
+is come up with an expression for finding the sum from i
+equals 0 to n of i squared. So if I were to
+expand this out, this is equal to 0 squared
+plus 1 squared plus 2 squared plus 3 squared. And we're going to keep on
+going all the way to n squared. So my goal is to find
+some type of a function that you give me
+the n and I will find the sum from 0
+squared, 1 squared, 2 squared, all the
+way to n squared. And so you can imagine
+that'd be useful, because this might be OK
+if n is reasonably small. But if n is a big
+number, this is going to take you forever to do. So let's first study this. Let's study what the input and
+the output of this function needs to be. So the input is
+going to be our n. So here we're starting with--
+so n can go from 0 all the way-- and we'll just try
+up a bunch of values. So n could be 0. We could go from 0
+all the way to 0. n could be 1. n could be 2. n could be 3. And we could just keep on
+going on and on and on. But I'll just stop
+there for now. Actually, let's just
+go to 4, just for fun. And now, for each
+of these, let's see what the output of our
+function should be. The output of the function
+should be this thing. It should be the sum from i
+equals 0 to n of i squared. So when n is 0-- well, that's
+just going to be 0 squared. We'd just stop right over there. So that's just 0. When n is 1, it's 0
+squared plus 1 squared. So that is 1. When n is 2, it's 0 squared
+plus 1 squared plus 2 squared. So that's 1 plus 4, which is 5. When n is 3, now we
+go all the way to 3. So it's going to be 1 plus
+4, which is 5, plus 9. So 5 plus 9 is 14. And then when n is 4, we're
+going to add the 16, 4 squared, to this. So this gets us to 30. And of course, we could
+keep going on and on and on. So let's study this
+a little bit to think about what type of a function
+that, for each of these inputs, might give us this
+type of an output. So let's first look at the
+difference between these terms. So the difference here is 1. The difference here is 4. And this is obvious. We added 1 here. We added 2 squared here. We added 3 squared, or 9, here. We added 4 squared, or 16, here. And the reason
+why I'm doing this is if this was a
+linear function, then the difference
+between successive terms would be the same. Now, if this is a
+quadratic function, then the differences between the
+differences would be the same. Let's see if that's the case. So the difference here is 1. The difference here is 4. So the difference
+between those is 3. The difference here is 5. The difference here is 7. So even the difference of the
+differences is increasing. But if this is a cubic
+function, then the differences of the difference of the
+difference should be constant. So let's see if that's the case. And you'll appreciate
+this even more when you start
+learning calculus. So let's see. The difference
+between 3 and 5 is 2. The difference
+between 5 and 7 is 2. And so we keep having
+a constant shift of 2. So the fact that the
+difference of the difference of the difference
+is fixed tells us that we should be
+able to express this as some type of
+a cubic function. So this we could
+write as this should be equal to some
+function in terms of n. And we could write it as An
+to the third plus Bn squared plus C times n
+plus D. And now we can just use what the inputs
+are and the outputs are of these to solve for A, B, C, and D.
+And I encourage you to do that. Well, let's first think
+about when n is equal to 0. When n is equal to 0, this
+function evaluates to D. So this function evaluates
+to D. But that function needs to evaluate to
+0, so D needs to be 0. So I'm just trying to
+fix these letters here to get the right outputs. So when n is 0, this
+expression evaluates to D. And it needs to evaluate to 0,
+so D needs to be equal to 0. So D is equal to 0, or
+we could just ignore it. So that helps us a little bit. We know from this
+data point we're able to whittle it
+down to it having this form right over here. And so now we can take
+each of these inputs and figure out what their
+corresponding output is. So let's do that--
+I'll do that over here. So when n is 1,
+this thing evaluates to-- let me do this in
+a new color-- this thing evaluates to A times 1 to the
+third power, which is just 1, plus B times 1 squared, which
+is just 1, plus C times 1, which is just C. And this
+needs to be equal to 1. Now, when n is 2, we have
+A times n to the third. So that's 8A plus
+2 squared is 4, plus 4B plus 2C needs
+to be equal to 5. And I need to set
+up three equations if I want to solve
+for three unknowns. And so let's go to 3. So A times 3 to the third power,
+so that's going to be 27A, plus 9B plus 3C is
+going to be equal to 14. So I've set up three
+equations in three unknowns. Now I just have to solve
+these for A, B, and C. And I will have a generalized
+formula for finding this sum right over here, the sum of
+the first n numbers squared, I guess you could call it. So what I want to do now is
+I'm going to stop this video. I encourage you to try to
+solve the simultaneous equation on your own. In the next video, I'll
+actually go and solve it.

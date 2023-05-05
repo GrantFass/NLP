@@ -1,0 +1,64 @@
+- [Instructor] We have
+already seen a situation multiple times where there
+is some parameter associated with a population, maybe
+it's the proportion of a population that supports
+a candidate, maybe it's the mean of a population. The mean height of all
+the people in the city. And we've determined
+that's it's unpractical or there's no way for us to know
+the true population parameter. But, we can try to estimate
+it by taking a sample size. So, we take n samples and
+then we calculate a statistic based on that. We've also seen that, not
+only can we calculate the statistic, which is trying
+to estimate this parameter, but we can construct a
+confidence interval about that statistic based on some confidence level. And so, that confidence
+interval would look something like this. It would be the value of the
+statistic that we have just calculated plus or minus
+some margin of error. And so, we'll often say this
+critical value, z, and this will be based on the number
+of standard deviations we want to go above and below that statistic. And so, then we'll multiply
+that times the standard deviation of the sampling
+distribution for that statistic. Now, what we'll see is
+we often don't know this. To know this, you
+oftentimes even need to know this parameter. For example, in the situation
+where the parameter that we're trying to estimate and construct
+confidence intervals for is say, the population proportion. What percentage of the
+population supports a certain candidate? Well, in that world, the statistic
+is the sample proportion. So, we would have the sample
+proportion plus or minus z star times, well we can't calculate this unless we know the population proportion, so instead we estimate this
+with the standard error of the statistic, which, in this case, is p hat times one minus p hat. The sample proportion times
+one minus the sample proportion over our sample size. If the parameter we're trying
+to estimate is the population mean, then our statistic is
+going to be the sample mean. So, in that scenario we're
+going to be looking at, our statistic is our sample
+mean plus or minus z star. Now, if we knew the standard
+deviation of this population, we would know what the standard
+deviation of the sampling distribution of our statistic is. It would be equal to the
+standard deviation of our population times the square
+root of our sample size. But, we often will not know this. In fact, it's very unusual to know this. And so, sometimes, you'll say,
+okay, if we don't know this, let's just figure out the
+sample standard deviation of our sample here. So, instead, we'll say, okay,
+let's take our sample mean plus or minus z star times the sample standard deviation of our sample, which we can
+calculate, divided by the square root of n. Now, this might seem pretty
+good if we're trying to construct a confidence
+interval for our sample, for our mean, but, it
+turns out, that this is not not so good because it turns
+out that this right over here is going to actually
+underestimate the actual interval, the true margin of error you
+need for your confidence level. And so, that's why statisticians
+have invented another statistic. Instead of using z, they call
+it t and instead of using a z-table, they use a t-table. Now, we're going to see
+this in future videos. And so, if you are actually
+trying to construct a confidence interval for a sample mean, and you don't know the true
+standard deviation of your population, which is normally the case, instead of doing this, what
+we're going to do is we're going to take our sample mean, plus
+or minus, and our critical value, we'll call that t star
+times our sample standard deviation, which we can
+calculate, divided by the square root of n. And so, the real, functional
+difference is that this actually is going to give us
+the confidence interval that actually has the level of
+confidence that we want. If we want a 95% level of
+confidence, if we keep computing this over and over again
+for multiple samples, that roughly 95% of the time,
+this interval will contain our true population mean. And, to functionally do it,
+and we'll do it in future videos, you really just have
+to look up a t-table instead of a z-table.

@@ -1,0 +1,211 @@
+In the last video, we saw that
+if we had some curve in the x-y plane, and we just parameterize
+it in a very general sense like this, we could generate another
+parameterization that essentially is the same
+curve, but goes in the opposite direction. It starts here and it goes
+here, as t goes from a to b, as opposed to the first
+parameterization, we started with t equals a over here,
+and it went up like that. And the question I want to
+answer in this video is how a line integral of a scalar field
+over this curve, so this is my scalar field, it's a function
+of x and y, how a line integral over a scalar field over this
+curve relates to, that's a line integral of that same scalar
+field over the reverse curve, over the curve going in
+the other direction. So the question is, does it
+even matter whether we move in this direction or that
+direction when we're taking the line integral of
+a scalar field? And in the next video, we'll
+talk about whether it matters on a vector field. And let's see if we can get
+a little intuition to our answer before we even
+prove our answer. So let me draw a
+little diagram, here. Actually, let me do it a little
+bit lower, because I think I'm going to need a little
+bit more real estate. So let me draw the y-axis, that
+is the x-axis, let me draw the vertical axis, just
+like that, that is z. Let me draw a scalar
+field, here. So I'll just draw it as some
+surface, I'll draw part of it. That is my scalar field, that
+is f of xy right there. For any point on the x-y plane
+we can associate a height that defines this surface,
+this scalar field. And let me put a
+curve down there. So let's say that this is the
+curve c, just like that. And the way we define it first,
+we start over here and we move in that direction. That was our curve c. And we know from several videos
+ago that the way to visualize what this line integral means,
+is we're essentially trying to figure out the area of a
+curtain that has this curve as its base, and its ceiling is
+defined by this surface, by the scalar field. So we're literally just trying
+to find the area of this curvy piece of paper, or wall, or
+whatever you want to view it. That's what this thing is. Now, if we take the same
+integral but we take it the reverse curve, instead of
+going in that direction, we're now going in the
+opposite direction. We're not taking a curve,
+we're going from the top to the bottom. But the idea is still the same. You know, I don't know which
+one is c, which one is minus c. I could have defined this path
+going from that way as c, and then the minus c path would
+have started here, and gone back up. So it seems in either case, no
+matter what I'm doing, I'm going to try to figure out the
+area of this curved piece of paper. So my intuition tells me that
+the either these are going to give me the area of this curved
+piece of paper, so maybe they should be equal to each other. I haven't proved anything very
+rigorously yet, but it seems that they should be equal
+to each other, right? In this case, let's say
+I'm taking a, let me just make it very clear. I'm taking a ds. a little change in distance,
+let me do it in a different color. A little change in distance,
+and I'm multiplying it by the height, to find kind of a
+differential of the area. And I'm going to add a
+bunch of these together to get the whole area. Here I'm doing the same thing. I'm taking a little ds, and
+remember, the ds is always going to be positive, the
+way we've parameterized it. So here, too, we're taking
+a ds, and we're going to multiply it by the height. So once again, we
+should take the area. And I want to actually
+differentiate that relative to, when you take a normal integral
+from a to b of, say, f of x dx, we know that when we switch the
+boundaries of the integration, that it makes the
+integral negative. That equals the negative
+of the integral from b to a of f of x dx. And the reason why this is the
+case, is if you imagine this is a, this is b, that
+is my f of x. When you do it this way,
+your dx's are always going to be positive. When you go in that direction,
+your dx's are always going to be positive, right? Each increment, the right
+boundary is going to be higher than the left boundary. So your dx's are positive. In this situation, your
+dx's are negative. The heights are always going to
+be the same, they're always going to be f of x, but here
+your change in x is a negative change in x,
+when you go from b to a. And that's why you get
+a negative integral. In either case here, our path
+changes, but our ds's are going to be positive. And the way I've drawn this
+surface, it's above the x-y plane, the f of xy is also
+going to be positive. So that also kind of gives the
+same intuition that this should be the exact same area. But let's prove
+it to ourselves. So let's start off with our
+first parameterization, just like we did in the last video. We have x is equal to x of t, y
+is equal to y of t, and we're dealing with this from,
+t goes from a to b. And we know we're going to need
+the derivatives of these, so let write that down right now. We can write dx dt is equal to
+x prime of t, and dy dt, let me write that a little bit neater,
+dy dt is equal to y prime of t. This is nothing groundbreaking
+I've done so far. But we know the integral
+over c of f of xy. f is a scalar field,
+not a vector field. ds is equal to the integral
+from t is equal to a, to t is equal to b of f of x of t y of
+t times the square root of dx dt squared, which is the same
+thing as x prime of t squared, plus dy dt squared, the same
+thing as y prime of t squared. All that under the
+radical, times dt. This integral is exactly that,
+given this parameterization. Now let's do the
+minus c version. I'll do that in
+this orange color. Actually, let me do the
+minus c version down here. The minus the c version, we
+have x is equal to, you remember this, actually,
+just from up here, this was from the last video. x is equal to x of
+a plus b minus t. y is equal to y of
+a plus b minus t. And then t goes from a to b, t
+goes from a to b, and this is just exactly what we did in
+that last video. x is equal to x of a plus b minus t, y is
+equal to y of a plus b minus t, same curve, just going in a
+different direction as t increases a to b. But let's get the derivative. I'll do it in the
+derivative color, maybe. So dx dt. For this path, it's going
+to be a little different. We have to do the
+chain rule now. Derivative of the inside
+with respect to t. Well, these are constants. Derivative of minus t with
+respect to t is minus 1. So it's minus 1 times the
+derivative of the outside with respect to the inside. Well, that's just x prime
+of a plus b minus t. Or, we could rewrite this as,
+this is just minus x prime of a plus b minus t. dy dt, same logic. Derivative of the
+inside is minus 1 with respect to t, right? Derivative minus t
+is just minus 1. Times the derivative
+of the outside with respect to the inside. So y prime of a plus b minus
+t, same thing as minus y prime a plus b minus t. So given all of that, what is
+this integral going to be equal to, the integral of minus c of
+the scalar field f of xy ds? What is this going
+to be equal to? Well, it's going to be the
+integral from, you could almost pattern match it. t is equal
+to a to t is equal to be of f of x. But now x is no longer
+x of t. x now equals x of a plus b minus t. It's a little bit hairy,
+but I don't think anything here is groundbreaking. Hopefully it's not
+too confusing. And once again, y is no
+longer y of t. y is y of a plus b minus t. And then times a square root,
+I'll just switch colors, times the square root
+of dx dt squared. What is dx dt squared? dx dt squared is just
+this thing squared, or this thing squared. This thing, if I have minus
+anything squared, that's the same thing as anything
+squared, right? This is equal to minus x prime
+of a plus b minus t squared, which is the same thing is
+just x prime of a plus b minus t squared, right? You lose that minus information
+when you square it. So that's going to be equal to
+x prime of a plus b minus t squared, the whole result
+function squared, plus dy dt squared. By the same logic, that's going
+to be, you lose the negative when you square it. y prime of a plus b
+minus t squared. Let me extend the radical. And then all of that dt. So that's the line integral
+over the curve c, this is the line integral over
+the curve minus c. They don't look equal just yet. This looks a lot more
+convoluted than that one does. So let's see if we can
+simplify it little bit. And we can simplify it,
+perhaps, by making a substitution. Let's let, let me get a nice
+substitution color, let's let u equal to a plus b minus t. So first we're going to have to
+figure out the boundaries of our integral, well actually,
+let's just figure out, what's du? so du dt, the derivative of u
+with respect to t is just going to be equal to minus 1, or we
+could say that du, if we multiply both sides by the
+differential dt, is equal to minus dt. And let's figure out our
+boundaries of integration. When t is equal to a,
+what is u equal to? u is equal to a plus b minus
+a, which is equal to b. And then when t is equal to b,
+u is equal to a plus b minus b, which is equal to a. So if we do the substitution on
+this crazy, hairy-looking interval, let's simplify a
+little bit, and it changes our-- so this integral is going
+to be the same thing as the integral from u, when
+t is a, u is b. When t is b, u is a. And f of, x of, this thing
+right here is just u. x of u. So it simplified it a good bit. And y of, this thing
+right here, is just u. y of u. Times the square root-- let
+me do it in the same color. Times the square root of x
+prime of u squared plus y prime of u squared. Instead of a dt, we have to
+write a, or could write, if we multiply both sides of this by
+minus, we have dt is equal to minus du. So instead of a dt, we have
+to put a minus du here. So this is times minus du, or,
+just so we don't think this is a subtraction, let's just put
+that negative sign out here in the front, just like that. So we're going from b to a of
+this thing, right, like that. And just to make the boundaries
+of integration make a little bit more sense, because we know
+that a is less than b, let's swap them. And I said at the beginning
+of this video, for just a standard, regular, run of the
+mill integral, if you swap, if you have something going from b
+to a of f of x dx, or du, maybe I should write it this way. f of u du. This is equal to the minus
+of the integral from a to b of f of u du. And we did that by the logic
+that I had graphed up here. That here, when you switch the
+order, your du's will become the negatives of each other,
+when you actually visualize it, when you're actually finding
+the area under the curve. So let's do that. Let's swap the boundaries
+of integration right here. And if we do that, that
+will negate this negative, or make it a positive. So this is going to be equal
+to the integral from a to b. I'm dropping the negative
+sign, because I swapped these two things. So I'm going to take the
+negative of a negative, which is a positive. Of f of x of u y of u times the
+square root of x prime of u squared plus y prime
+of u squared du. Now remember, everything we
+just did was a substitution. This was all equal to, just to
+remember what we're doing, this was the integral of the minus
+curve of our scalar field, f of xy ds. Now how does this compare to
+when we take the regular curve? How does this compare to that? Let me copy and
+paste it to see. You know, I'm using
+the wrong tool. Let me copy and paste it
+to see how they compare. Copy, then let me pick to
+down here, edit, paste. So how do these two
+things compare? Let's take a close look. Well, they actually look
+pretty similar, right? Over here, for the minus curve,
+we have a bunch of u's. Over here, for the positive
+curve, we have a bunch of t's, but they're in
+the exact same places. These integrals are the
+exact same integrals. If you make a u-substitution
+here, if you just make the substitution u is equal to t,
+this thing is going to be integral from a to b of,
+it's going to be the exact same thing. Of f of x of u, y of u times
+the square root of of x prime of u squared plus
+y prime of u squared du. These two things are identical. So we did all the substitution,
+everything, but we got the exact same integrals. So hopefully that satisfies you
+that it doesn't matter what direction we go on the curve,
+as long as the shape of the curve is the same. Doesn't matter if we go forward
+or backward on the curve, we're going to get the same answer. And I think that meets our
+intuition, because in either case, we're finding the
+area of this curtain.

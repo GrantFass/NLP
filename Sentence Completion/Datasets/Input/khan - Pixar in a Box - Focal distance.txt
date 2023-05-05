@@ -1,0 +1,18 @@
+- In the previous exercise
+you probably noticed that a very small aperture
+results in a sharper image. But it's a dim image, because very few light rays are making it through that pinhole and entering the camera. We can make the image brighter by expanding our aperture size, but there is a trade-off: when we do this, it results
+in a blurrier image. Here is why. Let's look at our scene again and look at one point in that scene. There is light bouncing
+all around our scene, and at that point light rays
+are going in all directions. Our pinhole only lets light
+from one direction through. As we make it bigger, it
+lets more light rays through, making the image brighter. But this presents a new problem: it lets light from our point spread across more of the image plane. That tiny point in our scene now covers a big area at our image. That's the image blur. Aside from the size of our aperture, there is another important
+feature of this camera that we can manipulate. That's the distance
+between our image plane and the aperture. I'm gonna call that
+distance the focal distance. If we move the image plane
+closer to the aperture, the objects in our scene appear smaller, but we see more of the scene. So we say our field of view
+widens when we do this. If we move the image plane
+farther away from the aperture, the opposite happens. Now the objects in our
+scene appear bigger, but we don't capture as much of the scene. In this case, we'd say the
+field of view is narrower. So, there is some kind of relationship between the focal distance of the camera and its field of view. This is a really important concept. So let's pause here. In the next exercise you'll have a chance to develop your understanding
+about what's going on here by playing with a virtual pinhole camera with a variable distance
+between the aperture and the image plane. Give it a try!

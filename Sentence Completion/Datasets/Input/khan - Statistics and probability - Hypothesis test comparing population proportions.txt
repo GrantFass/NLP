@@ -1,0 +1,184 @@
+In the last couple of videos we
+were trying to figure out whether there was a meaningful
+difference between the proportion of men likely to vote
+for a candidate and the proportion of women. And in the last video, we
+actually estimated that using a 95% confidence interval for
+the difference in the proportion of men and the
+difference in the proportion of women. What I want to do in this
+video is just to ask the question more directly. Or just do a straight up
+hypothesis test to see is there a difference? So we're going to make
+our null hypothesis. No difference. No difference between how the
+men and the women will vote. Or another way of viewing, it
+that the proportion of men who will vote for the candidate is
+going to be the same as the proportion of women
+who are going to vote for the candidate. Or another way you could say
+that, is that the difference P1 minus P2, the true proportion
+of men voting for the candidate minus the true
+population proportion of women voting for the candidate
+is going to be 0. That's are our null
+hypothesis. Our alternative hypothesis is
+that there is a difference. Or that P1 does not equal P2. Or that P1 minus P2, the
+proportion of men voting minus the proportion of women voting,
+the true population proportions, do not equal 0. And we're going to do the
+hypothesis test with a significance level of 5%. And all that means, and we've
+done this multiple times, is we're going to assume
+the null hypothesis. And then assuming the null
+hypothesis is true, we're going to figure out the
+probability of getting the actual difference of our
+sample proportions. So we're going to figure out
+the probability of actually getting our actual difference
+between our male sample proportion and our female
+sample proportion. Given the assumption that our
+null hypothesis is correct. And if this probability is
+less than 5%, if this probability is less than
+our significance level. So if the odds of getting these
+two samples and the difference between those two
+samples, is less than 5% percent, then we're going to
+reject the null hypothesis. So how are we going
+to do this? So if we assume the null
+hypothesis, what does the sampling distribution of this
+statistic start to look like? Well, if we assume that the true
+population proportions are actually the same between
+men and women. If P1 and P2 are actually the
+same, then this right here is going to be 0. So what we can do is, we can
+figure out that we got when we took the proportion of men and
+we subtracted from that the proportion of women-- So this
+is our sample proportion of men who, at least in our
+poll, said they would vote for the candidate. This is a proportion of women
+who said they would vote for the candidate. The difference between
+the two was 0.051. So we can do is figure out
+what's the probability? Assuming that the true
+proportions are equal, that the mean of the sampling
+distribution of this statistic is actually 0, what's the
+probability that we get a difference of 0.051? So what's the likelihood that we
+get something that extreme? And what we're going to do
+here is just figure out a Z-score for this. Essentially figure out how many
+standard deviations away from the mean this is. That would be our Z-score. And then figure out, is the
+likelihood of getting a standard deviation, or that
+extreme of a result, or that many standard deviations away
+from the mean, is that likelihood more or
+less than 5%? If it is less than 5%, we're
+going to reject the null hypothesis. So let's first of all figure
+out our Z-score. So we're assuming the null
+hypothesis, P1 is equal to P2. Our Z-score, the number of
+standard deviations that our actual result is away from the
+mean, the actual difference that we sampled in the last few
+videos between the men and the women was 0.051. And from that we're going
+to subtract the assumed that mean. Remember, we're assuming that
+these two things are equal. So the mean of this sampling
+distribution right here is 0. So we're just going
+to subtract 0. And then we have to divide this
+by the standard deviation of the sampling distribution of
+the statistic right here. P1 minus P2. Now, what's the standard
+deviation of the distribution going to be? In the last video, we figured
+out that we could represent it by this formula over here. But with our null hypothesis,
+we're assuming that P1 and P2 are the same value. Let me rewrite it. So in our last video, and I
+don't want to confuse the issue, because in the last
+video, I made this approximation over here. So let me write the clean
+version down here. We know that the standard
+deviation of our sampling distribution of this statistic
+of the sample mean of P1 minus the sample proportion, or sample
+mean of P2, is equal to the square root of P1 times 1
+minus P1 over 1,000, plus P2 times 1 minus P2 over 1,000. We've seen this in
+several videos. But in the null hypothesis,
+we are assuming that P1 is equal to P2. That's what we do. We assume the null hypothesis
+and see the probability of this occuring. So if P1 is equal to P2, we
+can just represent them as just some true population
+proportion. So we could write it like this,
+the square root of-- we can literally just factor out
+1/1,000 times P times 1 minus P, plus P times 1 minus P. Because they're going to
+be the same value. That's what we're assuming
+in the null hypothesis. And so this is just two
+of these over here. So this is going to be equal to
+2P times 1 minus P, all of that over 1,000. And we're going to take the
+square root of that. Now this is the standard
+deviation, once again, of the distribution of this statistic
+right over. The sample proportion for
+the men minus the sample proportion of the women. Now, we still don't know this. We still don't know the
+true proportion. But we can estimate it
+using our samples. And since we're assuming that
+the men and women, that there's no difference between
+them, we can actually view it as a sample size of 2,000
+to figure out that true proportion. So we can actually substitute
+this with a sample proportion. And we can pretend like our
+survey of the men and women is just one huge survey. So you have your sample
+proportion, we're surveying a total of 2,000 people. 1,000 men and 1,000 women. But we're assuming that
+they're no different. That's what our null hypothesis
+is all about, assuming there's no difference
+between men and women. And we got 642 yeses
+amongst the men and 591 amongst the women. So we got a total
+of 642 plus 591. If you viewed it as just one
+huge sample of 2,000 people, we got 642 plus 591 is equal
+to 1,233 divided by 2,000 gives us 0.6165. And this is our best estimate of
+this consistent population proportion that is true
+of both men and women. Because we are assuming that
+they are no different. So we can substitute this value
+in for P to estimate the standard deviation of the
+sampling distribution of this statistic right over here. Assuming that the proportion of
+men and women are the same. Or the proportion that will
+vote for the candidate. So let's do that. It's going to be the square root
+of 2 times P, which is 0.6165, times 1 minus
+P, 1 minus 0.6165, divided by 1,000. Let make sure I got it. 2 times 0.6165, that's
+that P right there. Times 1 minus P divided
+by 1,000. We're taking the square root
+of the whole thing. And so we get a standard
+deviation of 0.0217. Let me write this over here. So this thing right over
+here is 0.0217. So if we want to figure out
+our Z-score, if we want to figure out how many standard
+deviations the actual sample that we got of this statistic
+right over here. If we want to figure out how
+many standard deviations that is away from our assumed mean,
+that there's no difference, then we just divide 0.051
+by this standard deviation right over here. So let's do that. So we have 0.051 divided by this
+standard deviation, and that was our answer up here. So I'll just do divided
+by our answer. And we are 2.35 standard
+deviations away. So our Z-score is
+equal to 2.35. So just to review what we're
+doing, we're assuming the null hypothesis, there's
+no difference. If we assume there's no
+difference, then the sampling distribution of this statistic
+right here is going to have a mean of 0. And the result that we actually
+got for the statistic has a Z-score of 2.34. Or this is equivalent to being
+2.34 standard deviations away from this mean of 0. So, in order to reject the null
+hypothesis, that has to be less probable than our
+significance level. And to see that, let's see what
+the minimum Z-score we need to reject our hypothesis. So let's think about
+that a second. I'll go back to my Z-table. We want to have a significance
+level of 5%. Which means the entire area of
+our rejection, in which we would reject the null
+hypothesis is 5%. This is a two tail test. An
+extreme event on either far above the mean or far below
+the mean will allow us to reject the hypothesis. So we care about the
+area over here. And over here we would put
+2.5% and over here we would have 2.5%. And we would have 95%
+in the middle. So we need to find
+this critical Z-score, critical Z-value. And if our Z-value is greater
+than the positive version of this critical Z-value, then the
+odds of getting something so extreme is less than 5%,
+assuming the null hypothesis is correct. So then we can reject
+the null hypothesis. So let's see what this
+critical Z-value is. So essentially we want a Z-value
+where the entire percentage below it is
+going to be 97.5%. Because then you're going
+to have 2.5% over here. And we've actually already
+figured that out. This whole cumulative has to be
+97.5%, we did that in the last video. If you look for that, you
+get 0.975 right there. It's a Z-score of 1.96. I even wrote it over there. So this critical Z-value
+is 1.96. So what that tells you is
+there is a 5% chance of sampling a Z-statistic greater
+than 1.96, assuming the null hypothesis is correct. Now, we just sampled a
+Z-statistic of 2.34 assuming the null hypothesis correct. So the probability of sampling
+this, given the null hypothesis is correct, is going
+to be less than 5%. It is more extreme than this
+critical view Z-value. It's going to be out
+here some place. And because of that, we can
+reject the null hypothesis. I'm sorry for jumping around
+so much in this video. I had already written a lot. So I just kind of leveraged what
+I had already written. But since the odds of getting
+that, assuming the null hypothesis, are less than 5%,
+and that was our significance level, we can reject the null
+hypothesis and say that there is a difference. We don't know 100% sure
+that there is. But statistically, we are in
+favor of the idea that there is a difference between the
+proportion of men and the proportion of women
+who are going to vote for the candidate.

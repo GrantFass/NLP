@@ -1,0 +1,56 @@
+- [Voiceover] We're asked to find the sum of the first 50 terms of this series, and you might immediately recognize it is a geometric series. When we go from one term to
+the next, what are we doing? Well, we're multiplying by
+10/11, to go from one to 10/11, you multiply by 10 over 11, then you multiply by 10 over 11 again, and we keep doing this, and we wanna find the
+first 50 terms of it. So we can apply the formula we derived for the sum of a finite geometric series and that tells us that the sum of, let's say in this case the first 50 terms, actually let me do it down here, so the sum of the first 50 terms is going to be equal to the
+first term, which is one, so it's gonna be one times one minus, let me do that in a different color, one times one minus the common ratio, so the common ratio here is
+10/11, 10/11 to the 50th power, to the power of how many terms we have, all of that over one
+minus our common ratio. And so I'm not gonna solve it completely, but we can simplify this a little bit, this is gonna be one minus, let me put parenthesis
+here just to make sure we're not just taking
+10 to the 50th power. So one minus 10/11 to the 50th power over, this is 11/11 minus 10/11 is one over 11, and so this is the same thing as multiplying the numerator by 11, and so this is gonna be equal to 11 times one minus 10/11 to the 50thpower, and you can try to
+simplify this even more, but this gets up pretty far, at this point it is just arithmetic. Let's do another one of
+these, this is kinda fun. So this is more clearly
+a geometric series, and let's just first
+think about how many terms we're gonna take the sum of. You might be tempted to say "Okay I'm gonna take it to the 79th power, "there must be 79 terms
+here", but be very careful, because the first term is
+when we're taking things to the zeroth power, we're
+taking 0.99 to the zeroth power. The second term is where we're
+taking it to the first power, the third term is where we're
+taking it to the second power, the fourth term is where we're
+taking it to the third power so on and so forth, so this
+right over here is the 80th, the 80th term, 80th term. So we wanna find S sub 80, and
+so this is gonna be equal to our first term is gonna be one times one minus our common
+ratio to the 80th power, to the 80th power, all over,
+and I'm leaving a blank because we still need to
+figure out our common ratio, all over one minus our common ratio. So at first you might say well maybe the common ratio here is 0.99, but notice we have a change in sign here, and the key thing is to say
+well to go from term to the next what are we multiplying by? Well to go from the first
+term to the second term, we multiply by negative 0.99. And then, so we're
+multiplying by negative 0.99. Now to go to the next term, we're again multiplying by negative 0.99, so the common ratio is not positive 0.99, but negative zero, negative 0.99, so let me write that, negative 0.99, and of course that is going
+to be to the 80th power, all over one minus negative 0.99. And so we could simplify
+this a little bit, this is all going to be equal to, oh that one we don't have to
+worry too much about that, and so this is going to be one minus, so negative 0.99 to the 80th power, I should put parenthesis
+there to make sure we are taking the negative
+0.99 to the 80th power. Well, we're taking it to an even power, so it's going to be positive,
+so that's going to be the same thing as 0.99 to the 80th power, and all of that over, well
+subtracting a negative that's just gonna be adding the positive, so all of that over 1.99, and we could attempt to
+simplify it more but, if we had a calculator we could actually find this exact
+value or close value actually, most calculators don't
+give you the exact value when you take something to the 80th power, but this is what that sum is going to be. Let's do one more of these. Alright, so here we have a
+series defined recursively and so it's useful to just think about what it would actually look like. So the first term is 10,
+and then the next term, so the second term A sub two is equal to A sub one times 9/10, alright. So the next term is gonna be
+the previous term times 9/10, so it's gonna be 10 times nine over 10, and then the next term
+is gonna be that times, is gonna be the second term, the third term is the
+second term times 9/10, so 10 times nine over
+10, nine over 10 squared. And the way it's written right now, we don't have it written as
+a finite geometric series, so let's say we wanna take the sum, let's say we want the sum of first, first I don't know 30 terms, sum of first 30 terms. So what will this be? Well we're gonna take S sub
+one, S sub 30, oh I wrote ten, S sub 30, the sum of the first 30 terms, is gonna be equal to the first
+term, we've done this before, the first term times one
+minus the common ratio, one minus the common
+ratio to the 30th power, all of that over one
+minus the common ratio. And let's see we could, one minus 9/10, this is 1/10 right over
+here, you divide by 1/10, this is the same thing
+as multiplying by 100, so this is gonna be 100
+times one minus 9/10 to the, oh let me write it this
+way, 9/10 to the 30th power. And, actually these
+parenthesis you always wanna put parenthesis there to make sure we see we're taking both the nine and the 10 or the 9/10, the whole
+thing to the 30th power, not just the nine, so
+there you go, did I.. yep there you go we're done.

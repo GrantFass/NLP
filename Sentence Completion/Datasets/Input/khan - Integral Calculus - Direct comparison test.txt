@@ -1,0 +1,55 @@
+- [Voiceover] So let's
+get a basic understanding of the comparison test when
+we are trying to decide whether a series is
+converging or diverging. So let's think of two series. So let's say that I have
+this magenta series here. It's an infinite series from n equals one to infinity of a sub n. We're speaking in generalities here, and let's have another one. That's the series b sub n
+from n equals one to infinity, and we know some things
+about these series. The first thing we know
+is that all the terms in these series are non-negative. So a sub n and b sub n
+are greater than or equal to zero, which tells us
+that these are either going to diverge to positive infinity or they're going to converge
+to some finite value. They're not going to
+oscillate, because you're not going to have negative values here. You can't go to negative
+infinity, because you don't have negative values here. Now, let's say we also know that each of the corresponding
+terms in the first series are less than or equal
+to the corresponding term in the second series. Less than or equal to b sub n. Once again, this is true for all the ns that we care about. So n equals one, two, three, all the way on, and on, and on. So the comparison test
+tells us that because all the corresponding terms of this series are less
+than the corresponding terms here, but they're greater than zero, that if this series converges,
+the one that's larger, if this one converges, well then the one that is smaller than
+it, or I guess when we think about it is kind
+of bounded by this one, must also converge. I'm not doing a formal
+proof here, but hopefully that gives you a little bit of intuition. So the comparison test tells
+us if, I guess in my brain the larger series, the one
+whose corresponding terms are at least as large as
+the ones here, if this one converges, if this one
+doesn't go unbounded towards infinity, it sums
+to some finite value, then that tells us that the
+one that is in some ways I guess you could say
+smaller must also converge. So this one right over
+here must also converge. So that must also converge. So why is that useful? We'll see this in future videos. Well if you find if you're
+looking you have your a sub n and you're like
+gee, I wish I could prove that it converges, I kind
+of have a gut feeling it converges, the comparison
+test tells us, well, just find another series
+that whose corresponding terms are at least as
+large as the corresponding terms here, and if you can
+prove that one converges, then you're good with this one. Of course it would only apply to the case where your original
+series, each of the terms are non-negative. Now what if you went the other way around? What if you could prove
+that the magenta series, the smaller one, and I
+guess I could kind of put them in quotes,
+this one right over here is the smaller, I guess
+each of its corresponding terms are smaller, what if you could prove this one diverges? Well if this one
+diverges, it's going to go unbounded to infinity. It's not going to go to negative infinity. All the terms are positive. It's not going to diverge because it oscillates between two values. Once again, if it's
+oscillating between values the only way you could do that is if you had negative terms here,
+so this would kind of be unbounded towards infinity. Well if this one is
+unbounded, each of these corresponding terms
+are larger, so this one must also be unbounded. So let's write that down. So the comparison test
+tells us if our smaller series diverges, if this one diverges, then the larger one must also diverge. So once again, if you wanted to prove that this thing right over
+here is going to diverge, and if you have a, once
+again you know that all the b sub ns are greater
+than or equal to zero and you want to prove it diverges, well, maybe you could try
+to find another series where each of the
+corresponding terms are less than the corresponding
+terms here and you could prove this one diverges,
+then you would be all set. We're going to start doing
+that in the next few videos.

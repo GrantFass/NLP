@@ -1,0 +1,21 @@
+(bouncing) - In the last video, we saw this preview of a shot from Finding Nemo where we've drawn the particles as balls to illustrate their motion. For the final shot, we
+used the particle positions to compute a surface. Then we rendered that surface
+to look more like water. To draw a smooth surface
+using individual particles, we use an analogy involving heat. First, imagine these
+particles are little heaters. Next, pretend we have a thermometer which tells us the temperature
+at any point in space. For example, the particles
+might be exactly 1,000 degrees, and as we move away, things cooled down. Let's say this point over
+here is exactly 100 degrees, and there isn't just one point in space which is 100 degrees, but many points. So if we connect all points
+where the thermometer says 100 degrees, we get a
+curve shown here in yellow. And that's the trick. Now we can fill in this yellow
+curve with a solid blue color to give us something that looks
+more like a puddle of water. If the particles are far apart, they each form their own
+isolated region, like a droplet. As they get closer, the
+droplets start to glob together, mimicking real water. Here's a version with
+a few more particles. This is starting to look like water. It would really look like water if we had a few thousand particles. For use in our movies, we
+work in three dimensions, and the curve becomes a surface like in this shot from Finding Dory, or in this more extreme water simulation also from Finding Dory. Here's an example from
+Monsters University. Here we're simulating
+paint, instead of water. We've turned up the viscosity since paint is more viscous than water. We weren't exactly sure
+how paint would behave so one of the first things
+we did to create this shot is to videotape reference of real paint. The reference really helped
+us create a believable look. Let's pause here so you can practice using the next exercise. Good luck. (playful music)

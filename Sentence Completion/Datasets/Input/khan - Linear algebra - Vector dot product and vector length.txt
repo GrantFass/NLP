@@ -1,0 +1,125 @@
+We've already made a few
+definitions of operations that we can do with vectors. We've defined addition in
+the context of vectors and you've seen that. If you just have two vectors,
+say a1, a2, all the way down to a n. We defined the addition of this
+vector and let's say some other vector, b1, b2,
+all the way down to bn as a third vector. If you add these two, we defined
+the addition operation to be a third-- you will result
+in a third vector where each of its components are
+just the sum of the corresponding components of the
+two vectors you're adding. So it's going to be a1 plus b1,
+a2 plus b2, all the way down to a n plus bn. We knew this and we've done
+multiple videos where we use this definition of
+vector addition. We also know about scalar
+multiplication. Maybe we should just call it
+scaling multiplication. And that's the case of look, if
+I have some real number c and I multiply it times some
+vector, a1, a2, all the way down to a n, we defined scalar
+multiplication of a vector to be-- some scalar times its
+vector will result in essentially, this vector were
+each of its components are multiplied by the scalar. ca1, ca2, all the way
+down to c a n. And so after seeing these two
+operations, you might be tempted to say, gee, wouldn't
+it be nice if there was some way to multiply two vectors. This is just a scalar times a
+vector, just scaling it up. And that's actually the actual
+effect of what it's doing if you visualize it in three
+dimensions or less. It's actually scaling the
+size of the vector. And we haven't defined size,
+very precisely just yet. But you understand at least
+this operation. For multiplying vectors or
+taking the product, there's actually two ways. And I'm going to define one
+of them in this video. And that's the dot product. And you signify the dot product
+by saying a dot b. So they borrowed one of the
+types of multiplication notations that you saw, but you
+can't write across here. That'll be actually a different
+type of vector multiplication. So the dot product is-- it's
+almost fun to take because it's mathematically pretty
+straightforward, unlike the cross product. But it's fun to take and it's
+interesting because it results-- so this is a1, a2,
+all the way down to a n. That vector dot my b vector: b1,
+b2, all the way down to bn is going to be equal to the
+product of each of their corresponding components. So a1 b1 added together plus a2
+b2 plus a3 b3 plus all the way to a n, bn. So what is this? Is this a vector? Well no, this is
+just a number. This is just going to
+be a real number. You're just taking the product
+and adding together a bunch of real numbers. So this is just going to be
+a scalar, a real scalar. So this is just going to be
+a scalar right there. So in the dot product you
+multiply two vectors and you end up with a scalar value. Let me show you a couple of
+examples just in case this was a little bit too abstract. So let's say that we take the
+dot product of the vector 2, 5 and we're going to dot that
+with the vector 7, 1. Well, this is just going to be
+equal to 2 times 7 plus 5 times 1 or 14 plus 6. No, sorry. 14 plus 5, which
+is equal to 19. So the dot product of this
+vector and this vector is 19. Let me do one more example,
+although I think this is a pretty straightforward idea. Let me do it in mauve. OK. Say I had the vector 1, 2, 3 and
+I'm going to dot that with the vector minus 2, 0, 5. So it's 1 times minus 2 plus
+2 times 0 plus 3 times 5. So it's minus 2 plus
+0 plus 15. Minus 2 plus 15 is
+equal to 13. That's the dot product
+by this definition. Now, I'm going to make
+another definition. I'm going to define the
+length of a vector. And you might say, Sal,
+I know what the length of something is. I've been measuring things
+since I was a kid. Why do I have to wait until a
+college level or hopefully you're taking this before
+college maybe. But what is now considered a
+college level course to have length defined for me. And the answer is because we're
+abstracting things to well beyond just R3 or just
+three-dimensional space is what you're used to. We're abstracting that these
+vectors could have 50 components. And our definition of length
+will satisfy, will work, even for these 50 component
+vectors. And so my definition of length--
+but it's also going to be consistent with what
+we know length to be. So if I take the length of a
+and the notation we use is just these double lines
+around the vector. The length of my vector a is
+equal to-- and this is a definition. It equals the square root of
+each of the terms, each of my components, squared. Add it up. Plus a2 squared plus all the
+way to plus a n squared. And this is pretty
+straightforward. If I wanted to take let's
+call this was vector b. If I want to take the magnitude
+of vector b right here, this would be what? This would be the square root
+of 2 squared plus 5 squared, which is equal to the square
+root of-- what is this? This is 4 plus 25. The square root of 29. So that's the length
+of this vector. And you might say look,
+I already knew that. That's from the Pythagorean
+theroem. If I were to draw my vector
+b-- let me draw it. Those are my axes. My vector b if I draw
+it in standard form, looks like this. I go to the right 2. 1, 2. And I go up 5. 1, 2, 3, 4, 5. So it looks like this. My vector b looks like that. And from the Pythagorean theorem
+you know look, if I wanted to figure out the length
+of this vector in R2, or if I'm drawing it in kind
+of two-dimensional space, I take this side which is length
+2, I take that side which is length 5; this is going to be
+the square root from the Pythagorean theorem of 2
+squared plus 5 squared. Which is exactly what
+we did here. So this definition of length is
+completely consistent with your idea of measuring things
+in one-, two- or three-dimensional space. But what's neat about it is that
+now we can start thinking about the length of a vector
+that maybe has 50 components. Which you know, really to
+visualize it in our traditional way,
+makes no sense. But we can still apply this
+notion of length and start to maybe abstract beyond what
+we traditionally associate length with. Now, can we somehow relate
+length with the dot product? Well what happens if I
+dot a with itself? What is a dot a? So that's equal to-- I'll
+just write it out again. a1, all the way down to a n
+dotted with a1 all the way down to a n. Well that's equal to a1 times
+a1, which is a1 squared. Plus a2 times a2. a2 squared. Plus all the way down, keep
+doing that all the way down to a n times a n, which
+is a n squared. But what's this? This is the same thing
+as the thing you see under the radical. These two things
+are equivalent. So we could write our definition
+of length, of vector length, we can write it
+in terms of the dot product, of our dot product definition. It equals the square root of the
+vector dotted with itself. Or, if we square both sides,
+we could say that our new length definition squared is
+equal to the dot product of a vector with itself. And this is a pretty neat--
+it's almost trivial to actually prove it, but this is
+a pretty neat outcome and we're going to use this
+in future videos. So this is an introduction
+to what the dot product is, what length is. In the next video I'm going
+to show a bunch of properties of it. It will almost be mundane, but
+I want to get all those properties out of the
+way, so we can use them in future proofs.

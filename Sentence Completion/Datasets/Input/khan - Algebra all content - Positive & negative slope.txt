@@ -1,0 +1,36 @@
+- [Voiceover] Slope is
+defined as your change in the vertical direction, and I could use the Greek letter delta,
+this little triangle here is the Greek letter
+delta, it means change in. Change in the vertical
+direction divided by change in the horizontal direction. That is the standard definition of slope and it's a reasonable way for measuring how steep something is. So for example, if we're
+looking at the xy plane here, our change in the vertical direction is gonna be a change in the y variable divided by change in horizontal direction, is gonna be a change in the x variable. So let's see why that is a
+good definition for slope. Well I could draw something
+with a slope of one. A slope of one might
+look something like... so a slope of one, as x increases by one, y increases by one, so a slope of one... is going to look like this. Notice, however much my change in x is, so for example here, my
+change in x is positive two, I'm gonna have the same change in y. My change in y is going to be plus two. So my change in y divided by change in x is two divided by two is one. So for this line I have
+slope is equal to one. But what would a slope of two look like? Well, a slope of two should be
+steeper and we can draw that. Let me start at a different point, so if I start over here a
+slope of two would look like... for every one that I
+increase in the x direction I'm gonna increase two in the y direction, so it's going to look like... that. This line right over here, you see it. If my change in x is equal to one, my change in y is two. So change in y over
+change in x is gonna be two over one, the slope here is two. And now, hopefully, you're appreciating why this definition of
+slope is a good one. The higher the slope, the
+steeper it is, the faster it increases, the faster
+we increase in the vertical direction as we increase in
+the horizontal direction. Now what would a negative slope be? So let's just think about what a line with a negative slope would mean. A negative slope would mean,
+well we could take an example. If we have our change
+in y over change in x was equal to a negative one. That means that if we
+have a change in x of one, then in order to get
+negative one here, that means that our change in y would have
+to be equal to negative one. So a line with a negative
+one slope would look like... would look like this. Notice, as x increases
+by a certain amount, so our delta x here is one, y decreases by that same
+amount instead of increasing. So now this is what we consider
+a downward sloping line. So change in y is equal to negative one. So our change in y over our change in x is equal to negative one over one which is equal to negative one. So the slope of this line is negative one. Now if you had a slope with negative two, it would decrease even faster. So a line with a slope of negative two could look something like this. So as x increases by one,
+y would decrease by two. So it would look something like... it would look like that. Notice, as our x increases
+by a certain amount, our y decreases by twice as much. So this right over here has a slope of negative two. So hopefully this gives you a little bit more intuition for what slope represents and how the number that
+we use to represent slope, how you can use that to
+visualize how steep a line is. A very high positive
+slope, as x increases, y is going to increase
+fairly dramatically. If you have a negative slope... as x increases, your y is
+actually going to decrease. And then the higher
+the slope, the steeper, the more you increase as x increases, and the more negative the slope, the more you decrease as x increases.

@@ -1,0 +1,111 @@
+I've got a matrix A, and
+it's an m by n matrix. It has m rows and n columns. So I can write it in fairly
+general terms like this. The first row would be a11. First row, first column. a12, First row, second column. All the way to-- I
+have n columns. So a1n, first row,
+n-th column. And then the second row
+would look like this. a second row, first column. A second row, second column. All the way to a second
+row, n column. And we'll just keep doing that
+all the way down until you get to the m-th row. The m row would look
+like this. Each of these are the entries
+in each of the rows or columns, depending on how
+you want to look at it. So this is going to
+be a sub m 1. mth row, first column. a sub m 2. And you go all the
+way to a sub m n. This is our matrix right here. That is my matrix A. Now, I'm going to define the
+transpose of this matrix as a with this superscript t. And this is going to be my
+definition, it is essentially the matrix A with all the rows
+and the columns swapped. So my matrix A transpose is
+going to be a n by m matrix. Notice I said m rows
+and n columns. Now this is going to have
+n rows and m columns. So what is this guy going
+to look like? What is he going to look like? Well I'm gonna swap my
+rows and my columns. So my first row becomes
+my first column. So I'm going to have a11. That entry's still going
+to be in that position. But now this entry is not
+going to be right here. a12. And my second row I have what
+I used to have in my second row, first column. I'm now going to have what
+I had in my second column, first row. I'm just going to go down
+all the way to a1n. And that makes--
+not a i n, a1n. And that makes sense because
+I'll now have n columns. Sorry I now have n rows. I had n columns before. Now I have n rows. Now this row, when I transpose
+it is going look like this. a21, a22, all the
+way down to a2n. It might be a little confusing
+for you right now to have this notation right there because
+everything we've done so far. We've always said, hey this
+first number's the row and the second number is the column. That's what we did up here. What I'm doing here, you can
+ignore that reference to the rows and columns. You can just say whatever we
+had here in my first row, second column, I
+now have here. When you look at this transpose,
+don't take these subscripts too literally. Or now you can kind of reverse
+your interpretation. This is now the first
+column, second row. This was the second
+row, first column. I don't want you get too
+confused with these subscripts. Just keep in mind, we're
+taking all the rows and turning them into the columns
+to get the transpose. And then you just
+keep doing this. And then this m-th row will now
+become the m-th column. am1, am2, all the way
+down to a m n. So, this entry is
+now that entry. If you know, this entry
+is now that entry. That entry is now
+at that entry. I think you get the idea. This is what a transpose is. And sometimes when you do in
+the abstract, it can be a little confusing. And we'll especially appreciate
+that once we do some of the proofs involving
+the transpose. But actually taking the
+transpose of an actual matrix, with actual numbers, shouldn't
+be too difficult. So, let's start with
+the 2 by 2 case. I'll try to color code
+it as best as I can. So let's say I have
+the matrix. Let's say I defined A. Let's do B now. I already defined A. Let's say B. B is equal to the matrix
+1, 2, 3, 4. Those colors are pretty close. But what is B transpose
+going to look like? B transpose is going to be equal
+to-- You switch the rows and columns. So the first row will now
+become the first column. 1, 2. And the second row will
+now become the second column, 3, 4. Or you could view it
+the other way. The first column now became
+the first row. And the second column now
+became the second row. Let's do an example. Instead of even doing a 2 by
+3-- or a 3 by 3-- let me do one that might be a little
+bit more challenging. I think this'll make
+things clear. So let's say I have
+the matrix C. Let me make it a pretty
+big matrix. Let's say it is a 4 by
+3 matrix right here. Let me just throw some
+numbers in there. 1, 0, minus 1. 2, 7. Oh I want to do it in
+different colors. Let me do that in a
+different color. So then I get 2, 7, minus 5. Then I get 4 minus 3, 2. I have to do one
+more row here. So let me just make that
+minus 1, 3, and 0. That is my matrix C. So what is-- let me do that,
+and I like to be aesthetically pleasing. So let me close the bracket
+in the same color. So what is C transpose
+going to be? So, C transpose. Let me do that in a
+different color. C transpose is now going
+to be a 3 by 4 matrix. And, essentially, it's going
+to be the matrix C with all the rows swapped for the columns
+or all the columns swapped for the rows. So, it's now going to
+be a 3 by 4 matrix. And that first row there
+is now going to become the first column. 1, 0, minus 1. The second row here
+is now going to become the second column. 2, 7, minus 5. I didn't use the exact same
+green, but you get the idea. This third row will become
+the third column. 4, minus 3, 2. And then, finally, the
+fourth row will become the fourth column. Minus 1, 3, and 0. All we did is, this guy was in
+the second row, third column. Now, that same guy
+is in the what? He is in the second column
+and the third row. All we did is switch the
+rows and the columns. We could do it with another. Let's see. Let's do it with this
+one right here. This guy right here is
+in the third row. 1, 2, 3. And the second column. And when you go down here this
+guy is now in the third column and the second row. That's all a transpose is. And, just as a little
+interesting thing, what happens if we take the transpose
+of the transpose? So what happens if we
+take C transpose and then transpose that? What is that going
+to be equal to? Well to go from C to C
+transpose, we switched all the rows and the columns. All the entries the
+rows and columns. When you take the transpose
+again, remember let's just focus on this guy. This was second row,
+third column. You took the transpose,
+it becomes second column and third row. If you were to take the
+transpose again of that, he would then become the second
+row and third column again. So C transpose, the transpose
+of C transpose, is just equal to C. You're swapping all
+the columns when you take the transpose. And when you take the
+transpose again, you swap them all back. That's all that means. Anyway. Hope you found that useful.

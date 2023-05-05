@@ -1,0 +1,116 @@
+In the last video, I told
+you that we would figure out the final velocity of
+when this thing lands. So let's do that. I forgot to do it
+in the last video. So let's figure out
+the final velocity-- the vertical and the
+horizontal components of that final velocity. And then we can reconstruct
+the total final velocity. So the horizontal
+component is easy, because we already know that
+the horizontal component of its velocity is this value
+right over here, which we-- this 30 cosine of 80 degrees. And that's not going to
+change at any point in time. So this is going to be
+the horizontal component of the projectile's
+velocity when it lands. But what we need
+to do is figure out the vertical component
+of its velocity. Well, one thing we did
+figure out in the last video, we figured out what the time
+in the air is going to be. And we know a way of figuring
+out our final velocity from an initial velocity
+given our time in the air. We know that a
+change in velocity -- and we're only dealing
+in the vertical now-- we're only dealing
+with the vertical, because the horizontal velocity
+is not going to change. We've assumed that air
+resistance is negligible. So we're only dealing with
+the vertical component right over here. We know that the
+change in velocity-- or, we could say
+the horizontal-- the vertical component of
+the change in velocity, is equal to the vertical
+component of the acceleration times time. Now, we know what
+the change in time is, we know it is-- I'll just
+write down times our time. And what is our
+change in velocity? Well, our change in velocity
+is our final vertical velocity minus our initial
+vertical velocity. And we know what our
+initial vertical velocity is, we solved for it. Our initial vertical
+velocity, we figured out, was 29.54 meters per second. That's 30 sine of 80 degrees,
+29.54 meters per second. So this is going to be minus
+29.54 meters per second, is equal to-- our acceleration
+in the vertical direction is negative, because
+it's accelerating us downwards, negative 9.8
+meters per second squared. And our time in the
+air is 5.67 seconds. Times 5.67 seconds. And so we can solve for
+the vertical component of our final velocity. So once again, this is
+the vertical component. This isn't the total one. So, the vertical component. Let me-- well I wrote
+vertical up here. So there's the
+vertical component. So let's solve for this. So if you add 29.54
+to both sides, you get the vertical component
+of your final velocity. Well, this is a
+vertical component, I didn't mark it
+up here properly-- is equal to 29.54 meters
+per second plus 9.8 plus -- or I should say minus--
+meters per second. Minus 9.8 meters per second
+squared, times 5.67 seconds. The seconds cancel out
+with one of these seconds. So everything is
+meters per second. And so, get the
+calculator out again, we have 29.54 minus
+9.8 times 5.67. So we get our change-- our final
+velocity is negative 26.03. So this is negative
+26.03 meters per second. And you might say
+wait, wait Sal , what is this negative 26.03
+meters per second mean? Remember, when we're dealing
+in the vertical dimension, positive means up,
+negative mean down. So it means we're going 26.03
+meters per second downwards. Downwards, right when we land. So what is our
+total velocity when we fall back to that landing? So the vertical
+component of our velocity is negative 29.06 times .03
+in the downward direction. And the horizontal component
+of our velocity, we know, hadn't changed the entire time. That, we figured out, was
+30 cosine of 80 degrees. So that over here, is
+30 cosine of 80 degrees. I'll get the calculator
+out to calculate it. 30 cosine of 80 degrees,
+which is equal to 5.21. So this is 5.21
+meters per second. These are both in
+meters per second. So what is the total velocity? Well, I can do
+the head to tails. So I can shift this guy
+over so that its tail is at the head of the blue vector. So it would look like that. The length of
+this-- the magnitude of our vertical
+component, is 29.03. And then we could just use
+the Pythagorean theorem to figure out the magnitude of
+the total velocity upon impact. So the length of
+that-- we could just use the Pythagorean theorem. So the magnitude of our
+total velocity, that's this length right over here. The magnitude of
+our total velocity, our total final velocity
+I guess we can say, is going to be equal to-- well
+that's-- let me write it this way. The magnitude of
+our total velocity is going to be equal to square
+root-- this is just straight from the Pythagorean
+theorem-- of 5.21 squared plus 29.03 squared. And we get it as
+being the second-- the square root of 5.21
+squared plus 29.03 squared gives us 29.49
+meters per second. This is equal to 29.49
+meters per second. That is the magnitude
+of our final velocity, but we also need to
+figure out its direction. And so we need to
+figure out this angle. And now we're talking about
+an angle below the horizontal. Or, if you wanted to view
+it in kind of pure terms, it would be a
+negative angle-- or we could say an angle
+below the horizontal. So what is this angle
+right over here? So if we view it as
+a positive angle just in the traditional
+trigonometric way, we could say that the-- we could
+use any of the trig functions, we could even use tangent. Let's use tangent. We could say that the
+tangent of the angle, is equal to the opposite
+over the adjacent-- is equal to 29.03 over 5.21. Or that theta is equal
+to the inverse tangent, or the arctangent
+of 29.03 over 5.21. And that gives us-- we take
+the inverse tangent of 29.03 divided by 5.21, and
+we get 79.8 degrees. But it's going to be
+79.8 degrees south, or, I guess, below
+the horizontal. Or you could view this as an
+angle of negative 79.8 degrees above the horizontal,
+either one of those work. What's neat about this, is we
+figured out our final velocity vector. The entire vector, we know
+what that entire vector is. It is 29.49 meters
+per second at 79.8 degrees below the horizontal.

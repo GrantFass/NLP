@@ -1,0 +1,97 @@
+In the last a video we figured
+out the volume between this surface, which was xy squared
+and the xy-plane when x went from 0 to 2 and y
+went from 0 to 1. And the way we did it
+is we integrated with respect to x first. We said, pick a y, and
+let's just figure out the area under the curve. And so we integrated with
+respect to x first, and then we integrated with respect to y. But we could have done it
+the other way around. So let's do that and just make
+sure we got the right answer. So let me erase a lot of this. So remember, our answer was 2/3
+when we integrated with respect to x first, and then
+with respect to y. But I will show you that we can
+integrate the other way around. That's good when you can
+get the same answer in two different ways. So let me redraw that graph
+because I want to give you the intuition again. So that's my x-axis,
+y-axis, z-axis. x, y, z. Then this is my xy-plane. down here. y goes from 0 to 1; x goes from
+0 to 2, This is x equals 1, this is equals 2, this is y
+equals 1, and then the graph-- I will do my best to draw it. Looks something-- let me get
+some contrast going here. So the graph looks
+something like this. Let me see if I can draw it. On this side it looks something
+like that and then it comes down like that, straight. And then, the volume
+we care about. It's actually this volume
+underneath the graph. This is the top of the
+surface on that side. We care about this volume
+underneath the surface. And then when we draw the
+bottom of the surface-- let me do it in a darker color--
+looks something like this. This is the bottom
+underneath the surface. I can even shade it a little
+bit just to show you that it's the underneath. Hopefully that's a
+decent rendering of it. Let's look back at
+what we had before. It's like a page that I just
+flipped up at this point, and we care about this volume,
+kind of the colored area under there. So let's figure
+out how to do it. Last time we integrated
+with respect to x first. Let's integrate with
+respect to y first. So let's hold x constant. So if we hold x constant what
+we could do is for a given x-- let's pick an x. So if we pick a given x,
+let's pick the x here. Then what we can do, for a
+given x, you can view that function of x and y. If x is a constant, let's say
+if x is 1 then z is just equal to y squared. That's easy to figure out the
+area under because we can see that x isn't the constant, but
+we can treat it as a constant. So for example, for any
+given x, we would have a curve like this. What we could do is we could
+try to figure out the area of this curve first. So how do we do that? Well, we just said, we could
+kind of view this function up here as z is equal to xy
+squared because that's exactly what it is. But we're holding x constant. We're treating it
+like a constant. To figure out that area we
+could take a dy, a change in y, multiply it by the
+height, which is xy squared. So we take xy squared, multiply
+it by dy, and then if we want this entire area we integrate
+it from y is equal to 0 to y is equal to 1. Fair enough. Now once we have that area, if
+you want the volume underneath this entire surface what we
+could do is we can multiply this area times dx and
+get some depth going. Let me pick a nice
+color, that's green. So that's our dx. So if we multiply that times
+dx we would get some depth. Let me do a darker color,
+get some contrast. Sometimes I feel like that
+guy who paints on PBS. So now we have the volume of
+this, you kind of view it-- the area under the curve times a
+dx, so we have some depth here. So it's time dx. And if we want to figure out
+the entire volume under this surface-- between the surface
+and the xy-plane given this constraint to our domain-- we
+just integrate from x is equal to 0 to 2. All right, so let's
+think about it. This area in green here
+that we started with, that should be a function of x. We held x constant, but
+depending on which x you pick this area is going to change. So when we evaluate this
+magenta inner integral with respect to y we should
+get a function of x. And then when you evaluate
+the whole thing we'll get our volumes. So let's do it. Let's evaluate this
+inner integral. Hold x constant. What's the antiderivative
+of y squared? It's y of the third over 3. The x is a constant, right? We're going to evaluate
+that at 1 and at 0. The outer integral is still
+with respect to x dx. This is equal to-- let's see. When you evaluate y is equal
+to 1 you get 1 to the third. That's 1. So it's x/3 minus when
+y is 0 then that whole thing just becomes 0. This purple expression
+is just x/3. And then we still have
+the outside integral from 0 to 2 dx. So given what x we have, the
+area of this green surface-- that was where we started. Given any given x, that
+area-- I wanted something with some contrast. This area is x/3 depending
+on which x you pick. If x is 1, this area
+right here is 1/3. But now we're going to
+integrate underneath the entire surface and get our volume. And like I said, when
+you integrate it, it's a function of x. So let's do that. And this is just plain old
+vanilla, standard integral. So what's the
+antiderivative of x? It's x squared over 2. We have a 1/3 there so
+it equals x squared over 2 times 3. So x squared over 6. And we're going to evaluate
+it at 2 and at 0. 2 squared over 6 is 4/6. Minus 0/6, which is equal to 0. Equals 4/6. What is 4/6? Well, that's just the
+same thing as 2/3. So the volume under the surface
+is 2/3, and if you watched the previous video you will
+appreciate the fact that when we integrated the other way
+around, when we did it with respect to x first and then y,
+we got the exact same answer. So the universe is in
+proper working order. And I've surprisingly,
+actually finished this video with extra time. So for fun, we can just spin
+this graph and just appreciate the fact that we have figured
+out the volume between this surface, xy squared
+and the xy-plane. Pretty neat. Anyway, I'll see you
+in the next video.

@@ -1,0 +1,35 @@
+- [Voiceover] Carlos has
+taken an initial dose of a prescription medication. The relationship between the time, between the elapsed time t, in hours, since he took the first dose
+and the amount of medication, M of t, in milligrams, in
+his bloodstream is modeled by the following function. Alright, in how many hours
+will Carlos have 1 milligram of medication remaining
+in his bloodstream? So M of what t is equal to, so
+we need essentially to solve for M of t is equal to 1 milligram. Because M of t outputs, whatever
+value it outputs is going to be in milligram. So let's just solve that. So M of t is, they give us a definition, it's model is an exponential
+function, 20 times e to the negative 0.8 t is equal to one. So let's see, we can
+divide both sides by 20 and so we will get e to the negative 0.8 t is equal to one over 20, one over 20. Which we could write as 0.05, 0.05. I have a feeling we're gonna
+have to deal with decimals here regardless. And so how do we, how do we solve this? Well one way to think about
+it, one way to think about it if we took, what happens
+if we took the natural log of both sides? And just a remember, a
+reminder, the natural log is the logarithm base e. So actually let me write
+this, let me write this a little bit differently. So this is zero and that is 0.05. So I'm gonna take the natural
+log of both sides, so ln, ln. So the natural log, this
+says, what power do I have to raise e to, to get to
+e to the negative 0.8 t? Well I've got to raise e
+to the, this simplifies to negative 0.8 t. Once again natural log this thing... let me clarify ln of e
+to the negative 0.8 t. This is equivalent to if
+I were to write log base e of e to the negative 0.8 t. What power do I have to raise e to, to get to e to the negative 0.8 t? Well I have to raise it to
+the negative 0.8 t power. So that's why the left-hand
+side simplified to this and that's going to be
+equal to the natural log, actually I'll just
+leave it in those terms, the natural log of 0.05, the natural log of 0.05 all of that and now we
+can divide both sides by negative 0.8 to solve for t. So let's do that. So we divide by negative 0.8, divide by negative 0.8 and so t is going to be equal
+to all of this business. On the left-hand side now we just have a t and on the right-hand side
+we have all of this business which I think a calculator
+will be valuable for. So let me get a calculator out. Clear it out and let's start with 0.05. Let's take the natural log, that's that button right over
+there, the natural log. We get that value and we want
+to divide it by negative .8. So divided by, divided by .8 negative. So we're gonna divide by
+.8 negative is equal to, let's see they wanted us to
+round to the nearest hundredth so 3.74, so it'll take 3.74, seven four hours for his dosage to go down to one milligram
+where it actually started at 20 milligrams. When t equals zero it's 20 after 3.74 hours he's down in his bloodstream to one milligram. I guess his body has metabolized
+the rest of it in some way.

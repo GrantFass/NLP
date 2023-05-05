@@ -1,0 +1,45 @@
+- [Voiceover] So what we have here is x being defined in terms of t and y being defined in terms of t, and then if you were to plot
+over all of the t values, you'd get a pretty cool
+plot, just like this. So you try, t equals zero, and
+figure out what x and y are, t is equal to one, figure
+out what x and y are, and all of the other ts, and then you get this
+pretty cool-looking graph. But the goal in this video
+isn't just to appreciate the coolness of graphs or curves, defined by parametric equations. But we actually want to do some calculus, in particular, we wanna
+find the derivative, we wanna find the derivative
+of y, with respect to x, the derivative of y with respect to x, when t, when t is equal to negative one third. And if you are inspired, I encourage you to pause and try to solve this. And I am about to do it with you, in case you already did,
+or you just want me to. (chuckles) All right, so the key is, is well, how do you find the
+derivative with respect to x, derivative of y with respect to x, when they're both defined in terms of t? And the key realization
+is the derivative of y with respect to x, with respect to x, is going to be equal to,
+is going to be equal to, the derivative of y with respect to t, over the derivative of
+x with respect to t. If you were to view these
+differentials as numbers, well this would actually
+work out mathematically. Now, it gets a little bit non-rigorous, when you start to do that, but, if you though of it that,
+it's an easy way of thinking about why this actually might make sense. The derivative of something
+versus something else, is equal to the derivative
+of y with respect to t, over x with respect to t. All right, so how does that help us? Well, we can figure out the derivative of x with respect to t and the derivative of y with respect to t. The derivative of x with respect to t is just going to be equal to, let's see, the derivative of the outside, with respect to the inside,
+it's going to be two sine whoops, the derivative of sign is cosine, two cosine of one plus three t, times the derivative of the
+inside with respect to t. So that's going to be,
+derivative of one is just zero. Derivative of three t with
+respect to t is three. So times three, that's the
+derivative of x with respect to t I just used the Chain Rule here. Derivative of the outside
+two sine of something, with respect to the inside, so derivative of this outside, two sine of something with
+respect to one plus three t, is that right over there. And the derivative of the
+inside with respect to t, is just our three. Now, the derivative of y with respect to t is a little bit more straight-forward. Derivative of y with respect to t, we just apply the Power Rule here, three times two is six, t to
+the three minus one power, six t squared. So this is going to be
+equal to six t squared, six t squared, over, well, we have the two times the three, so we have six times cosine of one plus three t, and then our sixes cancel
+out, and we are left with, we are left with t squared over cosine of one plus three t. And if we care when t is
+equal to negative one third, when t is equal to negative one third, this is going to be equal to, well, this is going to be equal to
+negative one third squared. Negative one third squared, over, over, over the cosine of one plus three times negative one third is negative one. So it's one plus negative
+one, so it's a cosine of zero. And the cosine of zero
+is just going to be one. So this is going to be equal to positive, positive one ninth. Now let's see if we can
+visualize what's going on here. So let me draw a little table here. So, I'm gonna plot, I'm gonna think about t, and x, and y. So t, and x, and y. So when t is equal to negative one third, well our x is going to
+be, this is going to be sine of zero, so our
+x is going to be zero, and our why is going
+to be, what, two over, or negative two over 27. So, we're talking about,
+we're talking about the point zero comma negative two over 27. So that is that point right over there. That's the point where
+we're trying to find the slope of the tangent line. It's telling us that
+that slope is one ninth, that slope is one ninth, so if we move, I guess one way to think
+about it is if we move four, one, two, three, four and a half, we're gonna move up half. So, if I wanted to draw the
+tangent line right there, it would look something like, something like that. Something, something, something like that. Let's see if we've got,
+one, two, three, four, and a half, that's what we got, just like that is pretty close. So that's what we just figured out. We figured out that the
+slope of the tangent line, right at that point is one ninth. So, it's not only neat to look at, but I guess somewhat useful.

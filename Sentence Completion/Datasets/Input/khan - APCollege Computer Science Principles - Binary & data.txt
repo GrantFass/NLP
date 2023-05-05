@@ -1,0 +1,46 @@
+(upbeat music) - Hi, my name is Limor
+Fried, and I'm an engineer here at Adafruit Industries,
+and this is where I do engineering and design,
+and I design circuits for fashion and music and technology. - My name is Federico Gomez Suarez, and I'm a software developer
+with Microsoft Hack for Good, and I look into using technology to help solve some of the big
+social problems of our times. (upbeat music) - You may have heard that
+computers work on ones and zeroes, or you may have seen
+scary-looking visuals like this. But almost nobody today
+actually deals directly with these ones and zeroes,
+but ones and zeroes do play a big role in how computers
+work on the inside. - Inside a computer are
+electric wires and circuits and carry all the
+information in a computer. How do you store or represent
+information using electricity? - Well, if you have a single wire with electricity flowing through it, the signal can either be on or off. That's not a lot of choices, but it's a really important start. With one wire, we can
+represent a "yes" or a "no," true or false, a one or a zero, or anything else with only two options. This on/off state of a
+single wire is called a bit, and it's the smallest piece of information the computer can store. If you use more wires, you get more bits. More ones and zeroes with more bits, you can represent more
+complex information. But to understand that,
+we need to learn about something called the binary number system. (calm music) - In the decimal number system, we have 10 digits from zero to nine, and that's how we've all learned to count. In the binary number system, we only have two digits, zero and one. With these two digits, we
+can count up to any number. Here's how this works. In the decimal number
+system we're all used to, each position in a number
+has a different value. There's the one position, the 10 position, the 100 position, and so on. For example, a nine in
+the 100 position is a 900. In binary, each position
+also carries a value, but instead of multiplying
+by 10 each time, you multiply by two. So there's the one's position, the two's position, four's position, the eight's position, and so on. For example, the number
+nine in binary is 1001. To calculate the value,
+we add one times eight, plus zero times four, plus zero times two, plus one times one. Almost nobody does this math
+because computer do it for us. What's important is that any number can be represented with
+only ones and zeroes, or by a bunch of wires that are on or off. The more wires you use, the larger the numbers you can store. With eight wires, you can store numbers between zero and 255. That's eight ones. With just 32 wires, you can store all the way from zero
+to over four billion. Using the binary number system, you can represent any number you like. But what about other types of information, like text, images, or sound? It turns out that all these things can also be represented with numbers. (upbeat music) Think of all the letters in the alphabet. You could assign a number to each letter. "A" could be "1," "B"
+could be "2," and so on. You can then represent
+any word or paragraph as a sequence of numbers, and as we saw, these numbers can be stored as
+on or off electrical signals. Every word you see on
+every webpage or your phone is represented using a system like this. (upbeat music) Now, let's consider photos, videos, and all the graphics you see on a screen. All of these images are
+made out of teeny dots called pixels, and each pixel has color. Each of the colors can be
+represented with numbers. When you consider that a
+typical image has millions of these pixels, and a
+typical video shows 30 images per second, now, we're taking
+about a lot of data here. (upbeat music) - Every sound is basically a series of vibrations in the ear. Vibrations can be represented
+graphically as a waveform. Any point on this waveform can
+be represented by a number. And this way, any sound can be broken down into a series of numbers. If you want higher-quality sound, you will pick 32-bit
+audio over 8-bit audio. More bits means a higher range of numbers. - When you use a computer to write code or make your own app,
+you're not dealing directly with these ones and zeroes,
+but you will be dealing with images, or sound, or video. So, if you want to
+understand how computers work on the inside, it all comes down to these simple ones and zeroes and the electrical signals
+in the circuits behind them. They are the backbone of how all computers input, store, process,
+and output information. (upbeat music)

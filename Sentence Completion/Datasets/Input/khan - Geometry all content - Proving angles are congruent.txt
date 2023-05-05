@@ -1,0 +1,35 @@
+We have an interesting looking
+diagram here. Let's see if we know a few things
+about this diagram. Let's say we know that line MK is parallel to line NJ. So this line is parallel to this line. This is line MK, this is line NJ. Now, given that
+and all the other information on this diagram, I'm hoping to prove that the measure
+of this angle LMK is equal to the measure
+of this angle over here and this angle is LNJ. Another way of writing this is; the measure of LMK is b
+and the measure of LNK is a. So we want to prove that b is equal to a using all this information
+that we know. Like always I encourage you
+to try this on your own before I walk through it. Alright, let's walk through it. The first thing you might see is
+I have a triangle formed up here, triangle MLK. What do we know about the measurement
+of the interior angles of a triangle? The measures of the interior angles
+of a triangle are going to add up to 180 degrees. We know that b,
+which is the measure of this angle plus the measure of this angle, c plus the measure of this right angle,
+which is plus 90 degrees is going to be equal to 180 degrees. And so if we subtract 90 degrees
+from both sides we're going to get b plus c
+is equal to 180 degrees minus 90 degrees. It's going to be 90 degrees. Or if we wanted to solve
+explicitly for b we could subtract c from both sides, and we could write b is equal to
+90 degrees minus c. So that's interesting,
+that's one way of expressing b. Can we express a in a similar way? Once again, if at any point
+you get inspired I encourage you to do that. If we look carefully we see that
+we have triangle NLJ, this really big triangle,
+it's really most of the diagram. What's interesting about NLJ
+is that J is another right triangle, c is one of the measures
+of one of the interior angles, and a is a measure of
+the other interior angle. We can write something very similar, we can write a plus c
+plus 90 degrees is going to be equal
+to 180 degrees. So what can we do here? We can do the exact same process
+to solve for a. If we subtract 90 from both sides
+and we subtract c from both sides what do we get? We get a is equal to 90 degrees
+and if you subtract c from both sides you're going to get 90 degrees minus c. Now this is interesting, b is equal to 90 degrees minus c
+and a is equal to 90 degrees minus c. So 90 degrees minus c is equal to a,
+it's also equal to b. Or, we can now say that
+a must be equal to b, that the measure of angle LMK
+which is b is equal to the measure of angle LNJ
+which is equal to a.

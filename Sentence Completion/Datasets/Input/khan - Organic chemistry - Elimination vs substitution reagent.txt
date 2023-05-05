@@ -1,0 +1,83 @@
+- [Instructor] When
+you're trying to determine between a substitution and
+an elimination reaction, it's important to consider
+the function of the reagent. Does your reagent
+function as a nucleophile or does it function as a base? So first let's look at nucleophile. Let's consider the idea of charge. We know that water can
+function as a nucleophile so we have a region of
+high electron density around the oxygen. The oxygen is partially negative because oxygen is more
+electrode negative than hydrogen so these hydrogens are partially positive. So water can function as a nucleophile, however it is a weak nucleophile because we do not have as high
+a region of electron density as we would with the hydroxide ion. So the hydroxide ion is
+a strong nucleophile. It has a full negative
+charge on the oxygen instead of only a partial negative charge. Next let's consider the
+polarizability of the nucleophile. Let's compare the hydroxide
+ion with hydrogen sulfate. So we've already seen the hydroxide ion is a strong nucleophile
+with its negative charge on the oxygen, but hydrogen
+sulfate also turns out to be a strong nucleophile, even though it doesn't have a negative
+charge on the sulfur. And that's because of the
+concept of polarizability which is related to the size of the atom, the distance of electrons
+from the nucleus. Sulfur is a larger atom than oxygen, and we have several electrons that are far away from the nucleus, and since those electrons
+are far away from the nucleus the nucleus doesn't have
+as much of a pull on them and it's easier to
+polarize those electrons. So it's easier for, let's
+say, a pair of these electrons to function as a nucleophile to get closer to an electrophile. And so that's the reason
+why hydrogen sulfate is a strong nucleophile. Hydroxide, we've already
+seen, is a strong nucleophile. The electrons are closer to the nucleus so the nucleus has a
+stronger pull on them. So it's not as polarizable
+but it still turns out to be a strong nucleophile
+because of the negative charge. When you get to something
+like the hydride ion, this is very small. We know that hydrogen is the smallest atom so these two electrons are
+pretty close to the nucleus, so the nucleus has a
+very strong pull on them. So because this electron cloud is so close to the nucleus it's not polarizable, even though it has a
+negative charge on it. So this does not function as a nucleophile so the hydride ion can't
+function as a nucleophile because it's not polarizable. When you're trying to figure
+out the nature of the reagent there are four different categories and you want to assign your reagent to one of those four categories. The first one is where your reagent acts only as a nucleophile and not as a base, and a good example of that
+would be the chloride anion. So it can act as a nucleophile because we have a
+negative one charge here, we have a region of high electron density. But it can't act as a
+base, and think about why. The conjugate acid to the
+chloride anion would be HCl. Just add an H plus to Cl
+minus and you get HCl. And we know that HCl is a strong acid, and we also know the stronger the acid the weaker the conjugate base, so the chloride anion is a very weak base, and that's why it's only gonna function as a nucleophile in our reactions. So the same idea for the bromide
+anion and the iodide anion. And then we also have
+our sulfur nucleophiles which we just saw. This hydrogen sulfate here
+is a strong nucleophile because of the polarizability of sulfur. But these are also only gonna function as a nucleophile in our reactions, and that's because the conjugate
+acids are fairly acidic. So the same reason we
+talked about over here. The second category is when your reagent only functions as a base
+and not a nucleophile. And the example of that
+would be the hydride ion. We've already seen why the hydride ion does not function as a nucleophile but now let's talk about
+why it's a strong base. If you think about the
+conjugate acid to H minus, just add an H plus and
+you, of course, get H2. We know that H2 is a very stable molecule which makes it a very weak acid. And the weaker the acid the stronger the conjugate base, which makes the hydride
+anion a very strong base. And if you see it in a reaction think base only as the reagent. You would get the hydride
+ion, like sodium hydride, so NaH would be your source. Another example is this molecule which has the abbreviation DBN. So DBN functions as a base
+only and not a nucleophile. You might think a lone pair of electrons on the nitrogen could
+function as a nucleophile, but not when you have this
+fused ring system here. That would be too bulky and prevents this from acting as a nucleophile. It does act as a base though. And let's figure out which
+nitrogen gets protonated. Is it this sp3 hybridized nitrogen or this sp2 hybridized nitrogen? It turns out to be the
+sp2 hybridized nitrogen, and let's look at why. So I'm gonna make this lone
+pair of electrons magenta, and that long pair of electrons is gonna pick up a proton and form a bond. So that lone pair turns
+into this bond here, and now this nitrogen would have a plus one formal charge. So plus one formal
+charge on this nitrogen, this is the conjugate acid to DBN. And this conjugate acid
+is resonance stabilized. I could push these electrons into here and then push these electrons
+off on to the nitrogen, and let's follow those electrons. Let's make these electrons red. So this lone pair moves into
+here to form a double bond, and then let's make these
+electrons in here blue. The blue electrons come
+off onto this nitrogen and we still have a bond
+to our hydrogen in here, which moves the formal charge
+to this other nitrogen. So this nitrogen now has
+a plus one formal charge. So our conjugate acid
+is resonance stabilized, the positive charge is
+delocalized over two nitrogens. And because our conjugate
+acid is resonance stabilized it's not very acidic, which means that the
+conjugate base is strong, and that's why this is
+a strong conjugate base even though it's a neutral molecule. So protonation occurs at
+the sp2 hybridized nitrogen and not the sp3. If you tried to protonate sp3 it wouldn't be able to delocalize the positive charge over both nitrogens. So there's a similar molecule to DBN, which is abbreviated DBU,
+and it acts in the same way, only as a base in a reaction. Our third category is where our reagent is a strong nucleophile and a strong base, and a good example of
+that is the hydroxide ion. We've already talked about
+why the hydroxide ion is a strong nucleophile, and
+we notice from experience that hydroxide is a strong base. So something like sodium hydroxide is used all the time in general chemistry. If we replace the hydrogen
+with an alkyl group, we form an alkoxide ion which functions in a similar way to the hydroxide ion. So they're both examples of strong nucleophiles and strong bases. Our fourth and last category is weak nucleophile/weak base. And the water molecule, we
+know, is a weak nucleophile. It does not have a negative one formal charge on the oxygen. And water, of course, is a weak base. So the conjugate acid
+will be H3O plus, right? Just add an H plus to
+H2O and you get H3O plus. And we know the hydronium
+ion is fairly acidic. So it would have a weak conjugate base. If you replace one of the hydrogens with an alkyl group,
+then you form an alcohol, which is also a weak
+nucleophile and a weak base.

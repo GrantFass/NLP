@@ -1,0 +1,32 @@
+- [Teacher] We're given
+a differential equation right over here, cosine of y plus two, this whole thing times the derivative of y with respect to x is equal to two x, and we're given that for
+a particular solution, when x is equal to one, y
+of one is equal to zero, and we're asked what is
+x when y is equal to pi? So the first thing I like to look at when I see a differential
+equation is: is it separable? Can I get all the ys and dys on one side, and can I get all the xs
+and dxs on the other side? And this one seems like it is. If I multiply both sides by dx, where you can view dx
+as the x differential of an infinitely small change in x, well, then you get cosine of y plus two times dy is
+equal to two x times dx, so just like that I would've
+been able to, all I did is I multiplied both sides of this times dx, and I was able to separate
+the ys and the dys from the xs and the dxs, and
+now I can integrate both sides. So, if I integrate both
+sides, what am I going to get? So the antiderivative of
+cosine of y with respect to y, with respect to y, is sine of y, and then the antiderivative
+of 2 with respect to y is 2y, and that is going to be equal to, well, the antiderivative
+of 2x with respect to x is x squared, and we can't forget
+that we could say a plus a different constant on either side, but it serves our purpose just
+to say plus c on one side, and so this is a general solution to the separable differential equation, and then we can find the
+particular one by substituting in when x is equal to one,
+y is equal to zero, so let's do that to solve for c. So we get, or when y is equal
+to zero, x is equal to one, so, sine of zero plus two times zero, all I did is I substituted
+in the zero for y, is equal to x squared, well now x is one, is equal to one squared plus c. Well sine of zero is zero,
+two times zero is zero, all of that's just gonna be zero, so we get zero is equal to one plus c, or c is equal to negative one. So now we can write down
+the particular solution to this differential equation
+that meets these conditions. So we get, let me write it over here, sine of y plus two y is equal to x squared, and our constant
+is negative one, so minus one. And now what is x when y is equal to pi? So, sine of pi plus two
+times pi is equal to x squared minus one, see
+sine of pi is equal to zero, and so we get, let's see we
+can add one to both sides, and we get two pi plus
+one is equal to x squared, or we could say that x is
+equal to the plus or minus the square root of two pi plus one. So I would write the
+plus or minus square root of two pi plus one, and we're done.

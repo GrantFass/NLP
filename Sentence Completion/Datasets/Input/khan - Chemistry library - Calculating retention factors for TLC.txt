@@ -1,0 +1,95 @@
+Remember that when you
+run a TLC plating lab you have twp phases, the
+stationary phase shown as this blue silica gel on
+the plate and a mobile phase. The mobile space
+is a solvent that's less polar than the
+solid stationary phase. Silica gel is very, very polar. Let's say that you had a
+plate that looked something like this. You had initially
+spotted two compounds. We'll call them A and
+compound B. And then what you saw on the plate was
+that your mobile phase had traveled up to about here, A
+had traveled to about here, and B had traveled this far. But what does that really mean? How can we even
+report these values? The way we'd report them if we
+were writing up a lab report or writing a
+manuscript, you'd need something known as the
+retardation factor, also known as the retention
+factor or RF for short. RF is equal to the
+distance traveled by solute over the distance
+traveled by the solvent. So the first step
+you need to do is measure these distances
+for the different compounds and also for the solvent, also
+known as the mobile phase. So let's put a ruler
+next to our TLC plate, much like you would if
+you were sitting in lab. We'll say that this is 1 unit,
+2 units, 3 units, and 4 units. So we can measure the
+distance that A has traveled, and that's from the starting
+line to the center of the spot. That's two units. And for compound B, again
+from the starting line to the center of the
+spot, that's 3 units. And for the solvent, the
+starting line to this finish line, that is 4 units. So let's plug that
+into our equation. If we wanted to
+solve RF of A, you need the distance
+traveled by compound A over the distance
+traveled by the solvent, so let's say A over S.
+Here, that would be equal to 2 over 4, and
+the convention is to report these values
+as decimal points, so we'll say that this is 0.5. Now, we'll do the same
+for compound B. RF of B is equal to distance traveled by
+B over distance traveled by S. In this case, that's equal
+to 3 over 4, or 0.75. So what can we tell about
+these two compounds? If we remember from talking
+about the mobile phase and stationary phase, compounds
+that travel really far must be more attracted
+to the mobile phase, and therefore are less polar. So we can say that compound B is
+less polar and travels faster. The opposite is
+true for compound A. Since this doesn't
+move as much, it's more attracted to
+the polar silica gel, and hence it's more polar than
+compound B and travels slower. Think about it like it's getting
+stuck in the stationary phase and doesn't really want
+to move away from it. So there we've done
+our first example. Let's do another one. In this example, we can see that
+our initial reaction mixture separated into four
+different compounds. Let's label these
+as A through D, with A being the orange
+spot, B as the yellow one, C as the green one, and
+D as the purple one. Again, we'll use the same
+process that we used earlier. So the first step
+is to take a ruler and put it next your TLC plate. This is 1 unit, 2
+units, 3, 4, 5, and 6. So let's calculate
+the RF of A. This is equal to the
+distance traveled by A over the distance
+traveled by the solvent, so we need to measure these. First, we can see that A has
+traveled 1 unit, equal to 1, and the solvent has
+traveled about 6 units. So we'll say that's
+1 over 6 then. Let's convert that to
+decimals and you have 0.17. We can do the same for
+each these compounds. Next, we'll take
+B. This is again equal to B over S, which equals
+this distance is about 3 units. So we have 3 over 6,
+which is equal to 0.50. Next, we'll measure
+this for C. The RF of C is equal to the
+distance traveled by C over the distance traveled
+by S, which equals-- distance traveled by C is 4-- so
+that's going to be 4 over 6, which is equal to 0.66. And lastly for D,
+again we'll have to measure the distance traveled
+by D over distance traveled by S. In this case,
+this distance is 5, so this would be 5 over
+6, which is equal to 0.83. Now what can we say about
+these overall trends? Again, we said that compounds
+that travel really, really far are pretty nonpolar,
+and compounds that don't travel
+very far at all are more attracted to
+the stationary phase and hence are more polar. So if we look at
+these RFs, we can show that there really
+is a trend here. Compounds with a smaller
+RF are more polar, since they're more attracted
+to the stationary phase. And compounds with a
+bigger RF are less polar, since they're more attracted
+to the mobile phase. Let's review quickly
+what we've learned today. We learned how to calculate
+the RF value, also known as the retention factor
+or retardation factor, and how you would report that
+when presenting in a lab report or in the literature. We showed that compounds
+with big RFs are less polar, and compounds with pretty
+small RFs are more polar.

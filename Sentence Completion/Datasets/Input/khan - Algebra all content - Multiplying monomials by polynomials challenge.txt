@@ -1,0 +1,44 @@
+- [Voiceover] So we have
+an equation right here that says negative two-y
+times the expression y-squared plus c-y minus three is equal to d-y to the third
+plus 12-y-squared plus f-y. And what I'd like you to do
+is pause the video and see if you can figure out what
+the variables c, d, and f are. Alright, so now let's work through it. So at first this could
+look kind of intimidating. We just have an equation,
+you're trying to figure out what these three variables
+are, how do you do it? And one reasonable approach
+would be let's just try to simplify what we have
+here on the left hand side. And to simplify that
+we can just distribute the negative two-y onto this polynomial, onto the y-squared plus c-y minus three. And then we could set it equal to what we have here on the right and let's see if we can match up coefficients. So let's distribute it. So first we could think about what negative two-y times
+y-squared is going to be. Negative two-y times y-squared, well that's going to be negative
+two-y to the third power. Cause y to the first times
+y-squared is y to the third power Alright, now let's multiply
+the negative two-y times c-y. Well that's gonna be negative two times c. So negative two-c and then
+you're gonna have y times y. So negative two-c-y-squared. And then we would multiply
+the negative two-y times, and we gotta keep in mind this is a, we're subtracting three here, so we could view that as a negative three. Negative two-y times negative three, negative two times negative
+three is positive six, and we still have that y over there. So there you have it we have simplified the left hand side of this equation. And now let's see if, let
+me actually just write the right hand side in different colors and then things might jump out at us. So over her I wrote this,
+the third degree term, the y to the third term,
+I wrote that in blue, so let me write the y to the
+third term here in blue as well So d-y to the third. And then I wrote the
+y-squared term in magenta so let me write the y-squared
+term in magenta here. So plus 12-y-squared. And then last but not least I
+wrote the first degree term, this y term in green, so let
+me write the first degree term in green right over here, so plus f-y. And when you see it like
+that you see which terms match up with (stutters). With which terms match
+up to which other terms. So we could see that, look, I have the third degree term here. That has to match up to this
+third degree term there. So d, d needs to be equal to negative two. So let's write that down, d is equal to negative two. We could see the second degree term. This second degree term matches up to this second degree
+term right over there. So that tells us that
+this coefficient, the 12, must be equal to the negative two-c. So let's write that down,
+negative two-c is equal to 12. To solve for c we can divide
+both sides by negative two. And we get c is equal to 12 divided by negative two is negative six. And that makes sense,
+if c is negative six, negative two times negative six, or subtracting two times negative six, is subtracting negative 12, which would be the same
+thing as adding 12. So then we get the exact same coefficient for the second degree term. I think you see where this is going. Over here we have a six-y
+on the first degree term. Here we have an f-y on
+the first degree term. This f must be the same thing, must be equal to the coefficient here. So f must be equal to six. And we're done. And the key realization
+here is you match up the corresponding degree terms. There's no way that, well I don't want to get too complex here, but the simplest way to address this, is to realize, "Okay, I have
+a third degree term here, "I have a third degree term here. "Well if I look at it very
+simply the way I'm gonna "get this third degree term here "is using this third degree term." And I just look at the
+coefficients and say, "Okay, they must have
+the same coefficient." And then we say, "D is
+equal to negative two", and then we keep doing that.

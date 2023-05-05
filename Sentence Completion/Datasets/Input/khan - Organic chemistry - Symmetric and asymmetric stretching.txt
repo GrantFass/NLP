@@ -1,0 +1,120 @@
+- [Voiceover] Before we get into symmetric and asymmetric stretching, let's look at the IR
+spectrum for dibutylamines. So here's our dot structure
+for a dibutylamine. And we start by drawing
+a line about 3,000, and we know to the right
+of that, we expect to find the signal for the
+carbon-hydrogen bond stretch, where we're talking about
+an SP3 hybridized carbon. So this is the bond to hydrogen
+region on the IR spectrum. And notice we have
+another signal right here, so a signal that is at
+a higher wave number than the carbon-hydrogen bond stretch. So if we drop down here, we
+can estimate the wave number. It's approximately, this'll be 31, 32, 33. So at approximately 3,300 wave numbers, we get another signal, so another bond of an atom to hydrogen. This is the bond stretch
+for nitrogen-hydrogen, so that's this bond
+stretching right there. So in magenta, this is the
+nitrogen-hydrogen bond stretch. Let's compare the strength of that bond to a carbon-hydrogen bond where the carbon is SP3 hybridized. We know that the wave
+number is dependent on two things from an earlier video. We know it's dependent
+upon the force constant, k, or the spring constant
+k, and the reduced mass. Well, the reduced mass for these two bonds is approximately the same. So if you did a calculation
+for the reduced mass for nitrogen-hydrogen
+and for carbon-hydrogen, you're gonna get
+approximately the same value for the reduced mass. And so that's not what's
+affecting the different wave numbers for these signals here. So it must be the force constant. It must be k. And since the nitrogen-hydrogen
+bond has a greater wave, the signal shows up at
+a higher wave number, that must mean it's a stronger bond, because if you increase
+the force constant, increase the strength of the bond, you increase the wave number. You increase the frequency. And so the nitrogen-hydrogen
+bond is stronger than the carbon-hydrogen bond, where the carbon is SP3 hybridized. And if it's stronger, it takes more energy to cause that bond to stretch. So let's really quickly talk about energy. Energy is equal to h,
+which is Planck's constant, times the frequency, so
+when you're talking about the energy of a photon,
+it's equal to h nu. And nu is our frequency, and we know that relates to wave number. So the frequency is equal to the wave number times the speed of light. We talked about this in an earlier video. So if you take this and plug it into here, you can see the energy is
+directly proportional to the wave number, so this
+would be E is equal to h times the wave number
+times the speed of light. And this is one of the reasons why you see IR spectrum done in wave numbers, because you can also
+think about energy, right? So if you increase the wave number, if you're talking about
+increased wave number, you're talking about increased energy. So as you go this way, as
+you increase in wave number, you're also talking about
+increasing in energy. So you can think about
+it takes more energy, more energy is needed to
+stretch a stronger bond. And so it takes more energy to stretch this nitrogen-hydrogen bond. So again, think about a bond as a spring. If you have a really
+stiff or strong spring, it takes more energy to
+stretch that spring out as compared to a looser spring. And so that's thinking about
+energy, and also looking at a typical IR spectrum here
+for a secondary amine. So this nitrogen here is
+bonded to two carbons, so this is a secondary amine. And in a secondary amine,
+you're going to get one signal approximately 3,300 here. So let's compare this IR
+spectrum of a secondary amine with another amine, so
+this is a primary amine. Let's compare it to butylamine. So over here, this is a primary amine. The nitrogen is bonded to one carbon, so we're talking about
+a primary amine now. And let's analyze the IR spectrum. So once again, we're gonna
+draw a line around 3,000, and we know that this
+in here is talking about the carbon-hydrogen bond stretch for an SP3 hybridized carbon. Alright, once again, let's
+look at just past that, right in the bond to hydrogen region, and we get two signals this time, right? So if we look over here,
+there are two signals. This signal, let's drop down,
+this is approximately 3,300, so we have one signal approximately 3,300. And then we have another signal. Let me go ahead and make that green here. So we've got another signal right here, which is a little bit higher
+in terms of the wave number. So we drop down, this signal
+is approximately 3,400. So we know this is where
+we would expect to find the nitrogen-hydrogen bond stretch. We get two signals, and
+we need to figure out what's going on here. Well, this has to do with symmetric and asymmetric stretching. So let's look at two generic amines here, and let's talk about
+what the difference is between symmetric and
+asymmetric stretching. If you have symmetric
+stretching, so these bonds are stretching in phase, if you will. You can think about the
+hydrogens stretching away from the nitrogen at the same time. So this is called symmetric stretching. This is symmetric stretching. And this one over here,
+let me go ahead and draw what's happening over here. So this time these two
+nitrogen-hydrogen bonds are stretching out of phase. So if that hydrogen is
+stretching this way, this hydrogen might be contracting here, so that's an asymmetric stretch. Let me go ahead and write that. So we're talking about an
+asymmetric stretch here. So this is what's happening. This is why we get these
+two different signals. It turns out it takes less energy to do the symmetric stretching. So if it takes less energy to
+do the symmetric stretching, this is the one that we
+find at a lower wave number. Remember, wave numbers
+correspond to energy. So it takes less energy to
+do a symmetric stretching, and so that's this signal. It takes a little more energy
+to do asymmetric stretch. And so that's this signal, right up here. So we get two different signals
+here for our primary amine. Two signals, right? And it's tempting to say,
+"Oh, we get two signals "because we have two
+nitrogen-hydrogen bonds. "So here's a nitrogen-hydrogen bond, "and here's a nitrogen-hydrogen bond." But that's not really what's happening. Some of the molecules are
+having a symmetric stretch, and some of the molecules are
+having an asymmetric stretch. And so that's why you see
+these two different signals. Once again, let's just
+really quickly compare these two different amines. A secondary amine is going
+to give you only one signal on your IR spectrum,
+whereas a primary amine is going to give you two signals, right? These two different signals, here. That's something to look out for. Also, we can think about the carbon-hydrogen SP3 stretching here. For example, if you have a CH2 here, so a CH2, let me go ahead and draw two
+different situations here, so a CH2 in a molecule, you
+can have the same thing. You can have a symmetric stretch
+and an asymmetric stretch. So if these hydrogens are both
+stretching at the same time, that's a symmetric stretch. You could also have an
+asymmetric stretch like this. And, once again, you'll
+find the asymmetric stretch, so this one, actually takes
+a little bit more energy. So you're gonna find this signal at a slightly higher wave number. It's a pretty small difference, but it is a slightly higher
+wave number for this stretch. And that's one of the
+reasons why you get such a hard to interpret signal
+in here, so less than 3,000 there's a lot of stuff going on. It's too difficult to worry
+about in great detail. Just understand that that's
+where you would expect to find your carbon-hydrogen bond stretch, where I'm talking about
+an SP3 hybridized carbon. Finally, let's look at one more example of a symmetric and asymmetric stretch, and that's an acid and hydride. So let's look at an IR spectrum, just a generic IR spectrum
+for an acid and hydride. Let's draw a line around 1,500. To divide our two regions, we
+draw a line around 3,000 here. So we know this is our
+carbon-hydrogen in here. And then we get these two
+very intense signals, right? So let's figure out where
+these are, approximately. This signal right in here, let me use a different color for right here. We drop down, so where
+is that, approximately? Well, if this is 1,500, 1,600, 1,700, so that's pretty close to, let's say, 1,760 here for this signal. So, 1,760 wave numbers for that signal. And then this other
+signal, we drop down here. This is just a tiny bit past 1,800. We'll say approximately 1,800 here. So we get these two
+different, strong signals for an acid and hydride, and once again, we're talking about symmetric
+and asymmetric stretching. So a symmetric stretch,
+let me go down here, so this carbonyl, of course,
+is what we're talking about. We're talking about this
+really strong absorbence in the double bond region, right? So in here is the double bond
+region on our IR spectrum. We get these two strong
+signals, and the signal at a lower wave number is
+due to symmetric stretching. So this carbonyl could
+be stretching in phase with this carbonyl, so that's
+our symmetric stretch signal. So that's this one, down here. And then once again, we could
+get an asymmetric stretch. So we could have one of
+these, we could have this one stretching and this one
+contracting for our spring. It takes more energy to
+do an asymmetric stretch, and so that's this higher signal here. So if you see an IR spectrum,
+and you see these two really intense signals, we're
+talking about the carbonyl. So right in here, this is
+our double bond region. We're talking about the carbonyl stretch, with a large dipole
+moment, so a large change in dipole moment when it stretches. So that's why we see such
+an intense signal here. And then we see two of
+them, because we have symmetric and asymmetric stretching. There are other examples of symmetric and asymmetric stretching,
+but hopefully this gives you an idea about what to look
+for on your IR spectrum.

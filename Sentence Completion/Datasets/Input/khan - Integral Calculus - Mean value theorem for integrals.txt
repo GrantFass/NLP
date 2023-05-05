@@ -1,0 +1,112 @@
+- [Voiceover] We have many
+videos on the mean value theorem, but I'm going to review it
+a little bit, so that we can see how this connects
+the mean value theorem that we learned in differential calculus, how that connects to what we learned about the average value of a function
+using definite integrals. So the mean value theorem
+tells us that if I have some function f that is
+continuous on the closed interval, so it's including the
+endpoints, from a to b, and it is differentiable,
+so the derivative is defined on the open
+interval, from a to b, so it doesn't necessarily
+have to be differentiable at the boundaries, as long
+as it's differentiable between the boundaries, then we know that there exists some value, or some number c, such that c is between the
+two endpoints of our interval, so such that a < c < b, so
+c is in this interval, AND, and this is kind of the meat of it, is that the derivative of
+our function at that point, you could use as the
+slope of the tangent line at that point, is equal
+to essentially the average rate of change over the
+interval, or you could even think about it as the slope
+between the two endpoints. So the slope between the
+two endpoints is gonna be your change in y, which is going to be your change in your function value, so f of b, minus f of a, over
+b minus a, and once again, we go into much more depth in this when we covered it the first
+time in differential calculus, but just to give you
+a visualization of it, 'cause I think it's always handy, the mean value theorem that we
+learned in differential calculus just tells us, hey look,
+if this is a, this is b, I've got my function doing
+something interesting, so this is f of a, this is
+f of b, so this quantity right over here, where
+you're taking the change in the value of our function,
+so this right over here is f of b, minus f of a,
+is this change in the value of our function,
+divided by the change in our x-axis, so it's a
+change in y over change in x, that gives us the slope,
+this right over here gives us the slope of this line,
+the slope of the line that connects these two
+points, that's this quantity, and the mean value theorem
+tell us that there's some c in between a and b where you're
+gonna have the same slope, so it might be at LEAST
+one place, so it might be right over there, where you
+have the exact same slope, there exists a c where the
+slope of the tangent line at that point is going to be
+the same, so this would be a c right over there, and
+we actually might have a couple of c's, that's
+another candidate c. There's at least one c where the slope of the tangent line is the
+same as the average slope across the interval, and
+once again, we have to assume that f is continuous,
+and f is differentiable. Now when you see this, it
+might evoke some similarities with what we saw when
+we saw how we defined, I guess you could say, or the formula for the average value of a function. Remember, what we saw for the
+average value of a function, we said the average value
+of a function is going to be equal to 1 over b minus a,
+notice, 1 over b minus a, you have a b minus a in
+the denominator here, times the definite integral
+from a to b, of f of x dx. Now this is interesting, 'cause
+here we have a derivative, here we have an integral, but
+maybe we could connect these. Maybe we could connect these two things. Well one thing that might jump out at you is maybe we could rewrite this numerator right over
+here in this form somehow. And I encourage you to pause
+the video and see if you can, and I'll give you actually
+quite a huge hint, instead of it being an f of x
+here, what happens if there's an f prime of x there, so I
+encourage you to try to do that. So once again, let me rewrite all of this, this is going to be equal to... This over here is the exact same thing as the definite integral from
+a to b, of f prime of x dx. Think about it. You're gonna take the
+anti-derivative of f prime of x, which is going to be f
+of x, and you're going to evaluate it at b, f of
+b, and then from that you're going to subtract it
+evaluated at a, minus f of a. These two things are identical. And then, you can of
+course divide by b minus a. Now this is starting to get interesting. One way to think about
+it is, there must be a c that takes on the average value of, there must be a c, that when you evaluate the derivative at c, it takes on the average
+value of the derivative. Or another way to think about it, if we were to just write g of
+x is equal to f prime of x, then we get very close to
+what we have over here, because this right over
+here is going to be g of c, remember, f prime of c is
+the same thing as g of c, is equal to 1 over b minus
+a, so there exists a c where g of c is equal to 1 over b minus a, times the definite integral
+from a to b, of g of x dx, f prime of x is the same thing as g of x. So another way of thinking
+about it, this is actually another form of the mean value theorem, it's called the mean value
+theorem for integrals. I'll just write the acronym, mean value theorem for
+integrals, or integration, which essentially, to
+give it in a slightly more formal sense, is if you have
+some function g, so if g is, let me actually go down a
+little bit, which tells us that if g of x is continuous
+on this closed interval, going from a to b, then there
+exists a c in this interval where g of c is equal to, what is this? This is the average value of our function. There exists a c where g of c is equal to the average value of your
+function over the interval. This was our definition of the
+average value of a function. So anyway, this is just
+another way of saying you might see some of the mean value
+theorem of integrals, and just to show you that
+it's really closely tied, it's using different
+notation, but it's usually, it's essentially the
+same exact idea as the mean value theorem you learned
+in differential calculus, but now your different
+notation, and I guess you could have a slightly
+different interpretation. We were thinking about it
+in differential calculus, we're thinking about having a point where the slope of the tangent line
+of the function of that point is the same as the average
+rate, so that's when we had our kind of differential
+mode, and we were kind of thinking in terms of slopes,
+and slopes of tangent lines, and now, when we're in
+integral mode, we're thinking much more in terms of average value, average value of the
+function, so there's some c, where g of c, there's some c, where the function
+evaluated at that point, is equal to the average
+value, so another way of thinking about it, if
+I were to draw g of x, that's x, that is my
+y-axis, this is the graph of y is equal to g of x, which
+of course is the same thing as f prime of x, but we've
+just rewritten it now to be more consistent with
+our average value formula, and we're talking about
+the interval from a to b, we've already seen how to
+calculate the average value, so maybe the average value
+is that right over there, so that is g average, so
+our average value is this, the mean value theorem for
+integrals just tells us there's some c where our
+function must take on that value at c, whereas that c is inside, where the c is in that interval.

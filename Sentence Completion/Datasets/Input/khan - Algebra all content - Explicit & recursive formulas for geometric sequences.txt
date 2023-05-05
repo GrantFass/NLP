@@ -1,0 +1,55 @@
+- [Voiceover] So, this table here where you're given a bunch of Ns, N equals one, two, three, four, and we get the corresponding G of N. And one way to think about
+it is that this function, G, defines a sequence where N
+is the term of the sequence. So for example, we could
+say this is the same thing as the sequence where
+the first term is 168, second term is 84, third term is 42, and fourth term is 21,
+and we keep going on, and on, and on. Now, let's think about what
+type of a sequence this is. If we think of it as starting at 168, and how do we go from 168 to 84? Well, one way, you could
+say we subtract at 84, but another way to think about it is you multiply it by one half. So, times one half. And then to go from 84 to 42, you multiply by one half again. Times one half. And to go from 42 to 21, you
+multiply by one half again. So, this right over here
+is a geometric series. We're starting at a term
+and every successive term is the previous term
+times, it's often called the common ratio, times one half. So, how can we write G
+of N, how can we define this explicitly in terms of N? And I encourage you to pause the video and think about how to do that. So, construct a, so,
+if I say G of N equals, think of a function
+definition that describes what we've just seen here starting at 168, and then multiplying
+by one half every time you add a new term. Well, one way to think
+about it is we start at 168, and then we're gonna multiply by one half, we're gonna multiply by one
+half a certain number of times. So, we could view the exponent
+as the number of times we multiply by one half. And how many times are we
+gonna multiply by one half? The first term, we multiply
+by one half zero times. The second term, we multiply
+by one half one time. Third term, we multiply
+by one half two times. Fourth term, we multiply
+by one half three times. So, the figure, it seems
+like whatever term we're on, we're multiplying by one half,
+that term minus one times. And you can see that this works. If N is equal to one, you're going to have one minus one, that's just gonna be zero. One half to the zero's just one. So, you're just gonna get a 168. If N is two, well, two minus one, you're gonna multiply
+by one half one time, which you see right over here, N is three, you're gonna multiply by one half twice. Three minus two is, or,
+three minus one is two. You're gonna multiply by one half twice, and you see that right over there. So, this feels like a really
+nice explicit definition for this geometric series. And you can think of it in other ways, you could write this
+as G of N is equal to, let's see, one way you could write it, as, you could write it as 168,
+and I'm just algebraically manipulating it over
+two to the N minus one. Another way you could think about it is, well, let's use our exponent
+properties a little bit, we could say G of N is
+equal to, let's see, one half to the N minus
+one, that's the same thing as one half, let me write this. It's equal to 168. Lemme do this in a different color. So, this part right over
+here is the same thing as one half to the N. So, times one half to
+the N, times one half to the negative one. One half to the negative one. Well, one half to the negative one is just two, is just two, so, this is times two. So, we could rewrite this whole thing as 168 times two is what? 336? 336, did I do that right? 160 times two would be 320, plus 16, two times eight, so yeah, 336. And then times one half to the N. Times one half to the N. So, these are equivalent statements. This one makes a little
+bit more intuitive sense, it kinda jumps out at you,
+you're starting at 168 and you're multiplying by one half. Whatever term you are minus one times. But this is algebraically
+equivalent to this, to our original one. But, can we also define
+G of N recursively? And I encourage you to pause
+the video and try to do that. In a lot of ways, the recursive definition is a little bit more straight
+forward, so let's do that. G, well, I'll make the
+recursive function a different, well, I got, I'll stick
+with G of N since it's on this table right over here. G of N is equal to, and so, let's see, if we're going to, when N equals one, if N is equal to one,
+we're starting at 168. 168, and if N is greater than one and a whole number, so, if N, so, we're, this is gonna be defined
+over all positive integers, and whole number, what are we gonna do? Well, we're gonna take
+one half and multiply it times the previous term. So, it's gonna be one half
+times G of N minus one. And you can verify that this works. If N is equal to one, we
+just go right over here, it's gonna be 168. G of two is gonna be
+one half times G of one, which is, of course, 168. so, 168 times one half is 84. G of three is gonna be
+one half times G of two, which it is, G of three is
+one half times G of two. So, this is how we would define, this is the explicit
+definition of this sequence, this is a recursive function
+to define this sequence.

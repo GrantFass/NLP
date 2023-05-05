@@ -1,0 +1,57 @@
+- [Instructor] So we're told that Amanda Young wants
+to win some prizes. A cereal company is giving away a prize in each box of cereal, and they advertise, "Collect all six prizes." Each box of cereal has one prize, and each prize is a
+equally likely to appear in any given box. Amanda wonders how many boxes it takes on average to get all six prizes. So there's several ways to
+approach this for Amanda. She could try to figure out a
+mathematical way to determine what is the expected number of boxes she would need to collect on average to get all six prizes, or she could run some random numbers to simulate collecting box
+after box after box and figure out multiple trials on
+how many boxes does it take to win all six prizes. So for example, she could say, "All right, each box is gonna have one of six prizes," so there could be... She could assign a number
+for each of the prizes, one, two, three, four, five, six, and then she could have a
+computer generate a random string of numbers, maybe something
+that looks like this, and the general method, she
+could start at the left here, and each new number she gets she can say, "Hey, this is like getting a cereal box, and then it's going to
+tell me which prize I got." So she starts her first experiment. She'll start here at the
+left, and she'll say, "Okay, the first cereal
+box of this experiment of this simulation I
+got prize number one," and she'll keep going. The next one, she gets prize number five. Then the third one, she
+gets prize number six. Then the fourth one, she
+gets prize number six again, and she will keep going until
+she gets all six prizes. You might say, "Well, look. There are numbers here that
+aren't one through six." There's zero. There's seven. There's eight or nine. Well, for those numbers,
+she could just ignore them. She could just pretend
+like they aren't there and just keep going past them. So why don't you pause
+this video and do it for the first experiment. On this first experiment,
+using these numbers, assuming that this is the
+first box that you are getting in your simulation, how
+many boxes would you need in order to get all six prizes? So let me make a table here. So this is the experiment, and then in the second column, I'm gonna say number of boxes, number of boxes you would have
+to get in that simulation. So maybe I'll do the first
+one in this blue color. So we're in the first
+simulation, so one box, we got the one. Actually, maybe I'll check things off, so we have to get a one,
+a two, a three, a four, a five, and a six. So let's see. We have a one. I'll check that off. We have a five. I'll check that off. We get a six. I'll check that off. Well, the next box we got another six. We've already had that prize, but we're gonna keep getting boxes. Then the next box, we get a two. Then the next box, we get a four. Then the next box, the number is a seven, so we will just ignore
+this right over here. The box after that, we get a six, but we already have that prize. Then we ignore the next box, zero. That doesn't give us a prize. We assume that that didn't even happen, and then we would go to the number three, which is the last prize that we need. So how many boxes did
+we have to go through? Well, we would only count the valid ones, the ones that gave a valid prize between the numbers one through
+six, including one and six. So let's see. We went through one, two,
+three, four, five, six, seven, eight boxes in the first experiment, so experiment number one, it took us eight boxes
+to get all six prizes. Let's do another experiment
+'cause this doesn't tell us that on average she
+would expect eight boxes. This just meant that on this first experiment
+it took eight boxes. If you wanted to figure out on average, you want to do many experiments, and the more experiments you do, the better that that
+average is going to... The more likely that your
+average is going to predict what it actually takes on
+average to get all six prizes. So now let's do our second
+experiment, and remember, it's important that these
+are truly random numbers, and so we will now start
+at the first valid number. So we have a two, so this
+is our second experiment, and we got a two. We got a one. We can ignore this eight. Then we get a two again. We've already had that prize. Ignore the nine. Five, that's a prize we
+need in this experiment. Nine, we can ignore, and then four, haven't
+gotten that prize yet in this experiment. Three, haven't gotten that
+prize yet in this experiment. One, we already got that prize. Three, we already got that prize. Three, already got that prize. Two, two, already got those prizes. Zero. We already got all of
+these prizes over here. We can ignore the zero. Already got that prize, and finally, we get prize number six. So how many boxes did we need
+in that second experiment? Well, let's see. One, two, three, four, five, six, seven, eight, nine, 10, 11, 12, 13, 14, 15, 16, 17 boxes, so in experiment 2, I needed
+17, or Amanda, needed 17 boxes, and she can keep going. Let's do this one more time. This is strangely fun. So experiment three, and remember, we only want to look at the valid numbers. We'll ignore the invalid numbers, the ones that don't give
+us a valid prize number. So four, we get that prize. These are all invalid, in fact, and then we go to five. We get that prize. Five, we already have it. We get the two prize. Seven and eight are invalid. Seven's invalid. Six, we get that prize. Seven's invalid. One, we got that prize. One, we already got it. Nine's invalid. Two, we already got it. Nine is invalid. One, we already got the one prize, and then finally, we
+get prize number three, which was the missing prize. So how many boxes, valid boxes,
+did we have to go through? Let's see. One, two, three, four, five, six, seven, eight, nine, 10. 10, so with only three
+experiments, what was our average? Well, with these three experiments, our average is going to be eight
+plus 17 plus 10 over three, so let's see. This is 25, 35 over three, which is equal to 11 2/3. Now, do we know that this is the true theoretical
+expected number of boxes that you would need to get? No, we don't know that, but
+the more experiments we run, the closer our averages likely get to the true theoretical average.

@@ -1,0 +1,34 @@
+- [Voiceover] In the last
+video we did a quick review of the exponential and what it means. And then we looked in and figured out what the magnitude exponential is, the magnitude is 92 is equal to one. Now we're gonna look closely
+at this complex exponential as it represents a cosine,
+a part of a cosine. Now we're gonna keep
+combining some of our ideas from the last couple of videos. And you remember if one
+of the things we did is we used Euler's formula and inside out and developed
+an expression for cosine. So if I say cosine of theta I can say that equals one half times E to the plus J theta plus E to the minus J theta. This is cosine of theta expressed as two separate exponentials. And now we're gonna take
+a really special step. I'm gonna put in an
+argument right here of time. I'm gonna say cosine of omega T. T is time. N is shape here this symbol here is the lowercase omega from the Greek alphabet. And that's the frequency. So time is in units of seconds. And omega is a frequency so it's in units of one over seconds. That's the units of
+frequency are per seconds. And when these multiply together we get dimensionless number right here. And we can take the cosine
+of the dimensionless number. So what does this equal to? This equals one half times E to the plus J omega T plus E to the minus J omega T. Well we make T the argument
+of the cosine here. T is the stuff that keeps
+going up and up and up. The number T gets just
+gets bigger all the time. And so we ended up with a cosine wave formula I'll just to make a bad
+cosine looking thing here. That's what a cosine looks like. And it keeps going and going and going. So we have an idea of what
+a cosine wave looks like. The frequency determines how
+fast this goes up and down or how often it goes up and down. Now what I want to do is I want to look at a really special thing. I want to look at what
+is this thing right here? What is this thing, E
+to the plus J omega T? And what we see is this cosine here is made
+of two of these things. So whatever these things are I can make a cosine out of them. So now we're gonna really carefully add E to the J omega T. What we just reviewed was that this is a complex number. Let's draw that complex number. So we're gonna put a number out here. We know it falls on the unit circle. We know its angle is whatever is multiplying the J up in this exponent. Whatever's up in the exponent
+is the angle of this thing. So this angle right here is omega T. And we know the magnitude of this is as we decided before,
+the magnitude is one. That's why it falls on the unit circle. Okay, so now look at this. Here's this number T that's
+determining the angle. And that means, what? That means that the angle
+is increasing with time. If time is equal to zero the point is right here. At time equals zero. Because angle is zero. As time proceeds the angle keep starts growing and growing and it basically keeps
+growing and it keeps going. It comes back to here after
+omega T equals two pi. And then what happens? It goes, it keeps going around it again. And, this basically goes along for as long as time goes along. So here's this number. Here's this complex number moving along the unit circle in time, over and over and over again. So this is a number that is rotating, the number is rotating. So I can write here, E to the J omega T. And I know that that
+because time's up here I know it's rotating in time. All right, now I'm gonna put
+a different number on there. Let's put it over here say. Actually let's start this number at zero. And I'm gonna call this number E to the minus J omega T. What does that number look like? That's this guy here. That's this one here. We'll make him orange. So at time equals zero is E to the zero or one, just as we would expect. Now as time gets bigger the angle the thing multiplying J is minus omega T. And so the angle is becoming
+more and more negative. So after a little bit of time it's here. And after a little bit more time it's here. And what we notice is it keeps it rotates this way. This is what happens when you have E to the minus J omega T. You rotate in this direction. And it keeps going and going and going. So these two numbers are
+pretty similar in behavior except one rotates counterclockwise and the other rotates clockwise in our coordinate system
+which is the complex plane. So in summary, if you see
+either of these shapes E to the minus plus J omega T or E to the minus J omega T. What pops into your head is a number that spins. So for me the simple idea is I have a number here and
+I have a number here. They both spin in a complex base. And to represent those
+in mathematical notation I need this kind of notation here which is a little bit awkward but as I get used to it E to the J omega T is a spinning number. E to the minus J omega T is a spinning number. This is a amazingly powerful idea and we'll be able to describe every single that happens using these kind of terms.

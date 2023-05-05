@@ -1,0 +1,51 @@
+Now let's talk about how to control an
+animatronic character. Recall that earlier, I said that the control unit is the brain of the character. The control unit is one or more computers that generate control signals to drive the actuators. And receive signals from the
+sensors so that the character moves to create a compelling performance. The software running on the control unit is responsible for coordinating the motion
+of all the actuators. There are two kinds of software that we'll talk about in this video. Pre-program performances, where the character does one or more
+predefined sequences over and over. And autonomous performances, where the character makes its own decisions about how to perform. A traditional audio-animatronics character plays back a finely crafted animated performance. You want to control the speed. You want to control what part of the robot moves when. The tools really start with the animation, and so you want to create what
+position you want the robot to be at what time. And it's and it really goes
+back to it that's the principles of animation. So, when it plays back in the
+robot it's telling every motor, "You need to be at this position, at this time." And
+when you combine all that together is when you get performance. When I animate,
+I typically start with the function that is the main root of the storytelling
+that I'm trying to do. So when Albert peeks up and walks up to the the music
+box, you know, getting his mechanism to make it look like he's walking, that's
+like the big body functions, but when he opens it, right, it's really all about the
+wrist, right. Because that's the key of the performance. So I'm gonna focus on on
+that little bit first and then everything else in the head, the eyes, the
+torso, that's all to support the main action of that storytelling scene. We want to make sure that our characters are natural, right. We want them to feel
+like this is this is not like a animatronic version of Rocket, this is
+the real Rocket, right. He's really here right now. So one of the things we wanted
+to convey was is that he could be anywhere, right. He snuck in here. Nobody
+knows how he's doing it, but he can kind of pull off anything.
+Basically, we were like okay cool well he needs to be able to be around the room.
+Well it's not realistic for us to build multiple rocket figures, right? And then it's
+like, well, I don't know maybe it is, actually, right. So what we did is we kind
+of took Rocket and split him apart into multiple pieces, so we have various
+pieces of Rocket all over the room to kind of pull off that effect of him
+moving from here to there. Now through new and emerging
+technologies, like natural language processing, speech recognition, computer
+vision and artificial intelligence, we're able to make characters that see you
+recognize you and are able to meaningfully engage with you like they
+never could before. Jake is an autonomous character, that
+means that he uses sensors to perceive the world around him and then he makes
+his own decisions about what he's gonna do next. When Jake is interacting with
+people, he is doing a bunch of different things at the same time. He's trying to understand where he is in space. He's trying to understand where people are
+around him. He's trying to think about where he is in his show and his
+personality and sort of what he wants to do next. He's thinking about how the
+people around him make him feel and how that should change his mood. As we get
+into a future of autonomous characters, we're looking at characters that are
+building their own performances out of little pieces that we've told them about
+how to behave, but then they're combining those elements on their own to interact
+with a guest or respond to something in the environment in real-time. The tiny life figures are using pretty simple cameras and microphones to see the world
+around them, but behind the scenes the software is making lots of decisions in
+terms of what to do next and how to transition cleanly from one animation to
+the next. If somebody walks past their case, we want to be able to track them
+right to show you that we saw that person. Also if someone gets close and
+kind of looks in at these little guys, they need to look up and see a face. For over 50 years our audio animatronics have been somewhat static, usually bolted to
+the ground and scenes inside shows. But now, we have new technologies that are enabling us to get our animatronic figures up and out. Whether that's
+rolling around the park interacting with guests or even doing some spectacular
+over-the-top action stunts. But when you're in the room with something you've
+animated it and it's there in front of you and it looks like it's breathing
+that's like, "Oh my gosh this thing is like crazy, it is alive!" Now it's your turn. Use the next exercise to create a pre-programmed performance. And that brings us to the end of this lesson on bringing characters to life. You're now
+an honorary Imagineer!

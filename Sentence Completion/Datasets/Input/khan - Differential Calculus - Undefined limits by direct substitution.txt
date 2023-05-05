@@ -1,0 +1,17 @@
+- [Voiceover] Let's see if
+we can figure out the limit of x over natural log of
+x as x approaches one. And like always pause this
+video and see if you can figure it out on your own. Well we know from out limit
+properties this is going to be the same thing as the limit as x approaches one of x over over the limit, the limit as x approaches one of the natural log of x. Now this top limit, the
+one I have in magenta, this is pretty straight forward, if we had the graph of y equals x that would be continuous everywhere it's defined for all real
+numbers and it's continuous at all real numbers. So it's continuous to limit
+as x approaches one of x. It's just gonna be this
+evaluated x equals one. So this is just going to be one. We just put a one in for this x. For the numerator here we
+just evaluate to a one. And then the denominator, natural log of x is not
+defined for all x's, therefore it isn't continuous everywhere. But it is continuous at x equals one. And since it is continuous
+at x equals one, then the limit here is just
+gonna be the natural log evaluated at x equals one. So this is just going
+to be the natural log the natural log of one. Which of course is zero. E to the zero power is one. So this is all going to be equal to this is going to be equal to we just evaluate it one over one over zero. And now we face a bit of a conundrum. One over zero is not defined. It is was zero over zero,
+we wouldn't necessarily be done yet but it's indeterminate form as we will learn in the future
+there are tools we can apply when we're trying to find
+limits and we evaluate it like this and we get zero over zero. But one over zero. This is undefined which tells us that this limit does not exist. So does not exist. And we are done.

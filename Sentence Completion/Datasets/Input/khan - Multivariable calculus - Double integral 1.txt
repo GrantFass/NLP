@@ -1,0 +1,146 @@
+So far, we've used integrals
+to figure out the area under a curve. And let's just review a little
+bit of the intuition, although this should hopefully be second
+nature to you at this point. If it's not, you might want
+to review the definite integration videos. But if I have some function--
+this is the xy plane, that's the x-axis, that's the y-axis--
+and I have some function. Let's call that, you know,
+this is y is equal to some function of x. Give me an x and
+I'll give you a y. If I wanted to figure out the
+area under this curve, between, let's say, x is equal to
+a and x is equal to b. So this is the area I
+want to figure out. What I do is, I split it up
+into a bunch of columns or a bunch of rectangles. Where-- let me draw one of
+those rectangles-- where you could view-- and there's
+different ways to do this, but this is just a review. Where you could review-- that's
+maybe 1 of the rectangles. Well, the area of the
+rectangle is just base times height, right? Well, we're going to make these
+rectangles really skinny and just sum up an infinite
+number of them. So we want to make them
+infinitely small. But let's just call the
+base of this rectangle dx. And then the height of this
+rectangle is going to be f of x, at that point. It's going to be f of-- if this
+is x0, or whatever, you can just call it f of x, right? That's the height
+of that rectangle. And if we wanted to take
+the sum of all of these rectangles-- right? There's just going to
+be a bunch of them. One there, one there. Then we'll get the area, and if
+we have infinite number of these rectangles, and they're
+infinitely skinny, we have exactly the area
+under that curve. That's the intuition behind
+the definite integral. And the way we write that--
+it's the definite integral. We're going to take the sums of
+these rectangles, from x is equal to a, to x is equal to b. And the sum, or the areas that
+we're summing up, are going to be-- the height is f of x,
+and the width is d of x. It's going to be f
+of x times d of x. This is equal to the
+area under the curve. f of x, y is equal to f
+of x, from x is equal to a to x is equal to b. And that's just a
+little bit of review. But hopefully, you'll now
+see the parallel of how we extend this to taking the
+volume under a surface. So first of all,
+what is a surface? Well, if we're thinking
+in three dimensions, a surface is going to be
+a function of x and y. So we can write a surface as,
+instead of y is a function of f and x-- I'm sorry. Instead of saying that y is a
+function of x, we can write a surface as z is equal to
+a function of x and y. So you can kind of view
+it as the domain. Right? The domain is all of the set
+of valid things that you can input into a function. So now, before, our domain was
+just-- at least, you know, for most of what we dealt with--
+was just the x-axis, or kind of the real number line
+in the x direction. Now our domain is the xy plane. We can give any x and any y--
+and we'll just deal with the reals right now, I don't
+want to get too technical. And then it'll pop out another
+number, and if we wanted to graph it, it'll be our height. And so that could be the
+height of a surface. So let me just show you what
+a surface looks like, in case you don't remember. And we'll actually figure out
+the volume under this surface. So this is a surface. I'll tell you its function
+in a second, but it's pretty neat to look at. But as you can see,
+it's a server. It's like a piece of
+paper that's bent. Let's see, let me rotate it
+to its traditional form. So this is the x direction,
+this is the y direction. And the height is a function of
+where we are in the xy plane. So how do we figure out
+the volume under a surface like this? How do we figure
+out the volume? It seems like a bit of a
+stretch, given what we've learned from this. But what if-- and I'm just
+going to draw an abstract surface here-- let
+me draw some axis. Let's see, that's my x-axis. That's my y-axis. That's my z-axis. I don't practice these videos
+ahead of time, so I'm often wondering what I'm
+about to draw. OK. So that's x, that's
+y, and that's z. And let's say I
+have some surface. I'll just draw something. I don't know what it is. Some surface. This is our surface. z is a function of x and y. So, for example, you give me a
+coordinate in the xy plane. Say, here, I'll put it into
+the function and it'll give us a z value now. And I'll plot it there
+and it'll be a point on the surface. So what we want to figure
+out is the volume under the surface. And we have to specify
+bounds, right? From here, we said x is equal
+to a, to x is equal to b. So let's make a square
+bound first, because this keeps it a lot simpler. So let's say that the domain or
+the region-- not the domain-- the region of-- the x and y
+region of this part of the surface under which we want
+to calculate the volume. Let's say, the shadow-- if
+the sun was right above the surface, the shadow
+would be right there. Let me try my best to
+draw this neatly. So this is what we're
+going to try to figure out the volume of. And let's say-- so, if we
+wanted to draw it in the xy plane, like you can kind of
+view the projection of the surface of the xy plane,
+or the shadow of the surface of the xy plane. What are the bounds? You can almost view-- what are
+the bounds of the domain? Well, let's say that this
+point-- let's say that this right here, that's 0,
+0 in the xy plane. Let's say that this is y is
+equal to-- I don't know, that's y is equal to a. That's this line right here. Y is equal to a. And let's say that this line
+right here is x is equal to b. Hope you get that, right? This is the xy plane. If we have a constant x, it
+would be a line like that. A constant y, a line like that. And then we have the
+area in between it. So how do we figure out
+the volume under this? Well, if I just wanted to
+figure out the area of-- let's just say, this sliver. Let's say we had a--
+well, actually let me go the other way. Let's say we had a constant y. So let's say I had some sliver. I don't want to confuse you. Let's say that I had
+some constant y. I just want to give
+you the intuition. You know, let's say. I don't know what that is. It's an arbitrary y. But for some constant y, what
+if I could just figure out the area under the curve there? How would I figure out just
+the area under that curve? It'll be a function of
+which y I pick, right? Because if I pick a y here,
+it'll be a different area. If I pick a y there, it'll
+be a different area. But I could view this now
+as a very similar problem to this one up here. I could have my dx's-- let
+me pick a vibrant color so you can see it. Let's say that's dx, right? That's a change in x. And then the height is going
+to be a function of the x I have and the y I picked. Although I'm assuming,
+to some degree, that that's a constant y. So what would be the area
+of this sheet of paper? It's kind of a constant y. It's part of-- it's a sheet
+of paper within this volume, you can kind of view it. Well, it would be-- we said
+the height of each of these rectangles is f of xy, right? That's the height. It depends which x and
+y we pick down here. And then its width is
+going to be d of x. Not d of x, dx. And then if we integrated it,
+from x is equal to 0, which was back here, all the way to x
+is equal to b, what would it look like? It would look like that.
+x is going from 0 to b. Fair enough. And this would actually
+give us a function of y. This would give us an
+expression so that I would know the area of this kind of sliver
+of the volume, for any given value of y. If you give me a y, I can tell
+you the area of the sliver that corresponds to that y. Now what could I do? If I know the area of any given
+sliver, what if I multiply the area of that sliver times dy? This is a dy. Let me do it in a
+vibrant color. So dy, a very small
+change in y. If I multiplied this area
+times a small dy, then all of a sudden I have
+a sliver of volume. Hopefully that
+makes some sense. I'm making that-- that little
+cut that I took the area of-- by making it three dimensional. So what would be the
+volume of that sliver? The volume of that sliver will
+be this function of y times dy, or this whole thing times dy. So it would be the integral
+from 0 to b of f of xy dx. That gives us the area
+of this blue sheet. Now if I multiply this
+whole thing times dy, I get this volume. It gets some depth. This little area that I'm
+shading right here gets depth of that sheet. Now if I added all of those
+sheets that now have depth, if I took the infinite sum-- so if
+I took the integral of this from my lower y bound-- from 0
+to my upper y bound, a, then-- at least based on our intuition
+here-- maybe I will have figured out the volume
+under this surface. But anyway, I didn't
+want to confuse you. But that's the intuition of
+what we're going to do. And I think you're going to
+find out that actually calculating the volumes are
+pretty straightforward, especially when you have
+fixed x and y bounds. And that's what we're going
+to do in the next video. See you soon.

@@ -1,0 +1,79 @@
+- We have two by two matrices here and in other videos we talk
+about how a two by two matrix can represent a transformation
+of the coordinate plane of the two dimensional plane where this of course is the x-axis and this of course is the y-axis. What we're doing in
+this video is visualize these transformations and
+get a visual understanding for why it's reasonable
+for A to have an inverse or for why matrix A is invertible and why it's not reasonable for B to have an inverse matrix or why matrix B is not invertible. So just as a reminder transformation these transformation matrices essentially tell us what to
+do with our unit vectors. For example, we have
+the one zero unit vector and the first column of
+each of these matrices tell us what the one zero unit vector the vector that goes one
+unit in the extraction what it will get transformed to under each of these transformations and then of course you have
+the unit vector in the Y direction the zero one unit
+vector and the second columns here tell us how we would transform that. So let's first think about
+matrix A, matrix A transforms the one zero vector
+into the two, one vector so the two, one vector is going
+to look something like that and it transforms the zero one vector into the two, three vector
+so the two three vector is going to look something like this. So one way to think about
+it instead of our grid looking like this grid
+that I already had here which is just our
+standard coordinate axes. This is defining a new grid
+that would look like this and I define this new grid
+by looking at our multiples of what the one zero vector
+has been transformed into and we also look at multiples
+of what the zero one vector has been transformed into. So for example, if I were to
+take this point right here before it is transformed
+it has one of each of these vectors, well under this
+first transformation it would be one of each of these vectors. So it's going to be one two one vector plus one two three vector
+so this point will be mapped to this point and by that
+same logic this point right over here which is one
+unit more in the extraction well now it's going to have one unit more in the direction that the X unit vector has been transformed into
+this point right over here by the same logic will be one
+unit more in the direction that the Y unit vector
+has been transformed into so it will be there. And that this point by the
+same logic will be transformed into that point and so this
+region that I'm showing you in white will get
+transformed to this region. Now there's some obvious
+things going on here. We have a two dimensional
+area that has been transformed to another two dimensional
+area and in fact, it looks like it has been scaled up in
+other videos we have talked about that this scale factor
+is going to be the absolute value of the determinant
+of A and it's clear that frankly, not only is this non-zero but it's going to be greater
+than what it looks like we are scaling up our area
+but the very fact that this does not equal zero tells
+us that we were scaling from a two dimensional area to
+another two dimensional area. And so it's completely
+reasonable to be able to go back you will, for sure be able
+to find a transformation that takes you from this
+region to that region. So that makes us feel good
+that A inverse is reasonable. Now, as a point of contrast
+let's think about matrix B right over here. Matrix B transforms the
+one zero unit vector into the two, one unit vector so it transforms it into this unit vector actually very similarly to how A did it but then let's see what it
+does to the zero one vector transforms this vector
+into the four two vector four two is this notice
+the four two vector is just two of the two one vectors is going in the same direction it just has a different
+size or different length or a different magnitude. So in this situation is taking things in two dimensional space
+and it's turning them into combinations of things
+that sit on this same direction. So everything in two dimensions
+is going to be mapped to something along this line here. So this region, if I were
+to apply transformation B it's going to be a region
+of this line over here anything, if I were to
+map it using matrix B is going to get mapped onto this line so you're going to something with area and then you're mapping it
+to something that has no area so the scaling factor here must be zero. So we know since the absolute value of the determinant of B is
+zero, we could also fairly say that the determinant of B is equal to zero and the how are you going
+to have an inverse matrix? How are you going to have
+something that can scale from zero area to something that has area? So we know that B inverse does not exist there's nothing that can transform us back and so there's a couple of things here this reinforces this idea
+that if your determinant of a transformation matrix is zero you're not going to have an
+inverse, it's not invertible the other thing to recognize
+is seeing the patterns in the matrix itself here we
+saw that the second column is just a multiple of the
+first column it's twice the first column two times two
+is four one times two is two you can also view it the other way round the first row is a
+multiple of the second row and you can play around
+with the math if you wanted to generalize it and
+see if that's the case the determinant will always be zero and that's because if you
+view them as transformations it's going to map to line
+and you're gonna lose all your area, if you view
+it as a representation for at least the left-hand
+side of a system of equations you can think about it as
+lines that have the same slope but we talk about that in other videos.

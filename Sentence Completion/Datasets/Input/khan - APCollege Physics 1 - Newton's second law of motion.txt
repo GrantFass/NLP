@@ -1,0 +1,120 @@
+Newton's First Law tells
+us that an object at rest will stay at rest, and object
+with a constant velocity will keep having that
+constant velocity unless it's affected by
+some type of net force. Or you actually could say an
+object with constant velocity will stay having a
+constant velocity unless it's affected
+by net force. Because really, this
+takes into consideration the situation where
+an object is at rest. You could just have
+a situation where the constant velocity is zero. So Newton's First
+Law, you're going to have your constant velocity. It could be zero. It's going to stay being
+that constant velocity unless it's affected,
+unless there's some net force that acts on it. So that leads to the
+natural question, how does a net force affect
+the constant velocity? Or how does it affect of
+the state of an object? And that's what Newton's
+Second Law gives us. So Newton's Second
+Law of Motion. And this one is maybe
+the most famous. They're all kind of
+famous, actually. I won't pick favorites here. But this one gives us
+the famous formula force is equal to mass
+times acceleration. And acceleration is
+a vector quantity, and force is a vector quantity. And what it tells us--
+because we're saying, OK, if you apply
+a force it might change that constant velocity. But how does it change
+that constant velocity? Well, let's say I have
+a brick right here, and it is floating in space. And it's pretty nice for us
+that the laws of the universe-- or at least in the classical
+sense, before Einstein showed up-- the laws of
+the universe actually dealt with pretty simple mathematics. What it tells us is if
+you apply a net force, let's say, on this
+side of the object-- and we talk about net force,
+because if you apply two forces that cancel out and that
+have zero net force, then the object won't change
+its constant velocity. But if you have a
+net force applied to one side of this
+object, then you're going to have a net acceleration
+going in the same direction. So you're going to have
+a net acceleration going in that same direction. And what Newton's
+Second Law of Motion tells us is that acceleration
+is proportional to the force applied, or the force
+applied is proportional to that acceleration. And the constant
+of proportionality, or to figure out what you have
+to multiply the acceleration by to get the force, or what you
+have to divide the force by to get the acceleration,
+is called mass. That is an object's mass. And I'll make a
+whole video on this. You should not confuse
+mass with weight. And I'll make a whole
+video on the difference between mass and weight. Mass is a measure of
+how much stuff there is. Now, that we'll
+see in the future. There are other things
+that we don't normally consider stuff that
+does start to have mass. But for our classical, or at
+least a first year physics course, you could
+really just imagine how much stuff there is. Weight, as we'll see
+in a future video, is how much that stuff
+is being pulled down by the force of gravity. So weight is a force. Mass is telling you how
+much stuff there is. And this is really neat that
+this formula is so simple, because maybe we could have
+lived in a universe where force is equal to mass squared
+times acceleration times the square root of acceleration,
+which would've made all of our math much
+more complicated. But it's nice. It's just this constant
+of proportionality right over here. It's just this nice
+simple expression. And just to get our feet wet
+a little bit with computations involving force, mass,
+and acceleration, let's say that I have a force. And the unit of force
+is appropriately called the newton. So let's say I have a
+force of 10 newtons. And just to be clear, a
+newton is the same thing as 10 kilogram meters
+per second squared. And that's good that a newton
+is the same thing as kilogram meters per second squared,
+because that's exactly what you get on this side of the formula. So let's say I have a
+force of 10 newtons, and it is acting on a mass. Let's say that the
+mass is 2 kilograms. And I want to know
+the acceleration. And once again, in this video,
+these are vector quantities. If I have a positive
+value here, we're going to make the assumption
+that it's going to the right. If I had a negative value, then
+it would be going to the left. So implicitly I'm
+giving you not only the magnitude of the
+force, but I'm also giving you the direction. I'm saying it is to the
+right, because it is positive. So what would be acceleration? Well we just use f equals ma. You have, on the
+left hand side, 10. I could write 10
+newtons here, or I could write 10 kilogram
+meters per second squared. And that is going to be
+equal to the mass, which is 2 kilograms times
+the acceleration. And then to solve
+for the acceleration, you just divide both
+sides by 2 kilograms. So let's divide the
+left by 2 kilograms. Let me do it this way. Let's divide the
+right by 2 kilograms. That cancels out. The 10 and the 2, 10
+divided by 2 is 5. And then you have kilograms
+canceling with kilograms. Your left hand side, you get
+5 meters per second squared. And then that's equal
+to your acceleration. Now just for fun, what happens
+if I double that force? Well then I have 20 newtons. Well, I'll actually work it out. Then I have 20 kilogram
+meters per second squared is equal to-- I'll
+have to color code-- 2 kilograms times
+the acceleration. Divide both sides by 2
+kilograms, and what do we get? Cancels out. 20 divided by 2 is 10. Kilograms cancel kilograms. And so we have the
+acceleration, in this situation, is equal to 10 meters
+per second squared is equal to the acceleration. So when we doubled the force--
+we went from 10 newtons to 20 newtons-- the
+acceleration doubled. We went from 5 meters
+per second squared to 10 meters per second squared. So we see that they are
+directly proportional, and the mass is that how
+proportional they are. And so you could imagine what
+happens if we double the mass. If we double the mass in this
+situation with 20 newtons, then we won't be dividing
+by 2 kilograms anymore. We'll be dividing
+by 4 kilograms. And so then we'll have 20
+divided by 4, which would be 5 and would be meters
+per second squared. So if you make the mass
+larger, if you double it, then your acceleration
+would be half as much. So the larger the mass
+you have, the more force you need to accelerate it. Or for a given force, the less
+that it will accelerate it, the harder it is to change
+its constant velocity.

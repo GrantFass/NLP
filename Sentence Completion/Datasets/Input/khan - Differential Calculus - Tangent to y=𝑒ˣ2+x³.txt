@@ -1,0 +1,99 @@
+We have the curve y is
+equal to e to the x over 2 plus x to the third power. And what we want to do
+is find the equation of the tangent line to this
+curve at the point x equals 1. And when x is equal to 1, y is
+going to be equal to e over 3. It's going to be e over 3. So let's try to figure out the
+equation of the tangent line to this curve at this point. And I encourage you
+to pause this video and try this on your own first. Well, the slope of the
+tangent line at this point is the same thing as the
+derivative at this point. So let's try to find
+the derivative of this or evaluate the derivative of
+this function right over here at this point. So to do that, first
+I'm going to rewrite it. You could use the
+quotient rule if you like, but I always forget
+the quotient rule. The product rule is much
+easier for me to remember. So I can rewrite this as y
+is equal to-- and I might as well color code it-- is equal
+to e to the x times 2 plus x to the third to the
+negative 1 power. And so the derivative of
+this, so let me write it here. So y prime is going to be
+equal to the derivative of this part of it, e to the x. So the derivative of e to
+the x is just e to the x. Just let me write that. So we're going to take
+the derivative of it. And that's what's
+amazing about e to the x, is that the derivative
+of e to the x is just e to the x
+times this thing. So times 2 plus x to the
+third to the negative 1. And then to that we're
+going to add this thing. So not its derivative anymore. We're just going
+to add e to the x times the derivative of
+this thing right over here. So we're going to
+take the derivative. So we can do the chain rule. It's going to be
+the derivative of 2 plus x to the third
+to the negative 1 power with respect to 2
+plus x to the third times the derivative of 2 plus x to
+the third with respect to x. So this is going to be
+equal to negative-- I'll write it this way-- negative
+2 plus x to the third to the negative 2 power. And then we're going to multiply
+that times the derivative of 2 plus x to the third
+with respect to x. Well, derivative of
+this with respect to x is just 3x squared. And of course, we could simplify
+this a little bit if we like. But the whole point of
+this is to actually find the value of the
+derivative at this point. So let's evaluate. Let's evaluate y prime
+when x is equal to 1. Y prime of 1 when
+x is equal to 1. This thing will
+simplify to-- let's see, this is going to be e times 2
+plus 1 to the negative power. So that's just going
+to be 1/3, right? 2 plus 1 to the negative 1. So that's 3 to the negative 1. That's 1/3. So that's times 1/3 plus
+e to the first power. Now let's see,
+what does this do? This part right
+over here, this is 2 plus 1 to the
+negative 2 power. So this-- actually,
+let me-- I don't want to-- so this part right
+over here is going to be, let's see, this
+is going to be-- I don't want to make a
+careless mistake here-- is 3 to the negative 2 power. So 3 squared is 9. 3 to the negative
+second power is 1/9. And so it's going to be 1/9. Well, you're going to
+multiply this negative there. So it's negative 1/9. And then we're going to
+multiply that times 3 times 1. So it's negative 1/9 times 3. Times 3 right over here. So it's negative
+3/9 or negative 1/3. So times negative 1/3. And all I did here
+is I substituted 1 for x and evaluated it. Now this is interesting. I have essentially--
+let me rewrite this. This is equal to e over 3 minus
+e over 3, which is equal to 0. So the slope of the derivative
+when x is equal to 1 is 0, or the slope of the
+tangent line is equal to 0. This simplified to a pretty
+straightforward situation. If I wanted to write a line
+in slope intercept form, I could write it like this. y
+is equal to mx plus b, where m is the slope and b
+is the y-intercept. Now we know that the slope of
+the tangent line at this point, it has a slope, is 0. So this is going to be 0. So this whole term
+is going to be 0. So it's just going to have
+the form y is equal to b. This is just going to
+be a horizontal line. So what is a
+horizontal line that contains this point
+right over here? Well, it contains the value
+y is equal to e over 3. So this is a horizontal line. It has the same y
+value the entire time. So if it has the
+y value e over 3, then we know the equation
+of the tangent line to this curve at
+this point is going to be y is equal to e over 3. Another way you could think
+about this right over here is, well, let's substitute
+when x is equal to 1. Well, there's not
+even an x here. But when x is any value,
+y is equal to e over 3, you get b is equal
+to e over 3, or you'd get y is equal to e over 3. So it's just a horizontal line. So let's actually
+visualize this, just to make sure that this
+actually makes sense. So let me get my
+graphing calculator out. And so I'm in graphing mode. If you wanted to know
+how to get there, you literally can just
+go to graph, y equals, and I will do-- so e
+to the x power divided by 2 plus x to the third power. That looks right. And I actually set the range
+ahead of time to save time. So let me graph this. So let's see. Ooh, it does all sorts
+of interesting things. All right. Oh, look at that. All right, so now we can trace
+to get to when x is equal to 1. x equals 1. Right over there, you see
+y is equal to e over 3, which this is kind of
+its decimal expansion right over here. And it does look like
+the slope right over here is 0, that the
+tangent line is just going to be a horizontal
+line at that point. So that makes me feel pretty
+good about our answer.

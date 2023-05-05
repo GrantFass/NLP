@@ -1,0 +1,61 @@
+- [Instructor] Robert was
+asked to find where g of x, which is equal to the cube root
+of x, has inflection points. This is his solution. And then later we are asked,
+"Is Robert's work correct? "If not, what's his mistake?" So pause this video and try
+to figure it out on your own. All right, now let's work
+through this together. So our original g of x is
+equal to the cube root of x, which is the same thing as x to the 1/3. So in step one it looks
+like Robert's trying to find the first and second derivative. So the first derivative,
+we just do the power rule, so it'll be 1/3x to the
+decrement of the exponent, so this is looking good. Second derivative, we take
+this, multiply this times 1/3, which would be negative 2/9. And then decrement, negative 2/3, which would indeed by negative
+5/3, so that looks right. And then it looks like
+Robert's trying to rewrite it. So we have the negative 2/9 still, but then he recognized
+that this is the same thing as x to 5/3 in the denominator, and x to the 5/3 is the same thing as the cube root of x to the fifth. So this is all looking good. Step one looks good. And then step two, it
+looks like he's trying to find the solution or
+he's trying to find x values where the second derivative
+is equal to zero, and it is indeed true
+that this has no solution, that you can never make
+this second derivative equal to zero. In order to be zero, the
+numerator would have to be zero. And, well, two is never
+going to be equal to zero. So this is correct. And then step three, he says g doesn't have
+any inflection points. Now, this is a little bit suspect. It is in many cases our
+inflection point is a situation where our second derivative
+is equal to zero, and even then we don't know
+it's an inflection point. It would be a candidate inflection point. We would have to confirm that our second derivative crosses signs or switches signs as
+we cross that x value. But here we can't find a situation where our second derivative
+is equal to zero, but we have to remind ourselves that other candidate inflection points are where our second
+derivative is undefined. And so he can't make this
+statement without seeing where our second derivative
+could be undefined. So, for example, he could say that g prime prime is undefined when what? Well, this is going to be undefined when x is equal to zero. Zero to the fifth, cube root
+of that, that's gonna be zero. But then you're dividing by zero. So g prime prime undefined
+when x is equal to zero. So therefore x equals,
+so we could say candidate inflection point when x equals zero. And so then we would want to test it. And we could set up a traditional table that you might have seen before where we have our interval or intervals. We could have test
+values in our intervals. We have to be careful with those. Make sure that they are indicative. And then we would say the sign of our second derivative of g prime prime. And then we would have our concavity. Concavity of g. And in order for x equals zero
+to be an inflection point, we would have to switch signs, or our second derivative
+would have to switch signs as we cross x equals zero, which would mean our
+concavity of g switches signs as we cross x equals zero. So let's do values less than zero, negative infinity to zero and then values greater
+than zero, zero to infinity. I could do test values. Let's say, I'll use negative one and one. And you have to be careful
+when you use these. You have to make sure
+that we are close enough that nothing unusual happens
+between these test values up until we get to that
+candidate inflection point. And, now, what's the sign
+of our second derivative when x is equal to negative one? When x equals negative one. So, let's see, negative one to the fifth power is negative one. Cube root of negative one is negative one. And so we're gonna have negative 2/9 divided by negative one. It's gonna be positive 2/9. So our sign right over
+here is gonna be positive. And this is gonna be in general when we're dealing with
+any negative value, 'cause if you take any negative
+value to the fifth power, it's gonna be negative. And you take the cube root of that and you're gonna have negative. But then you have a negative
+value divided by that. You're gonna get a positive value. So you can feel good that
+this test value's indicative of actually this entire interval. And if you're dealing
+with a positive value, well, that to the fifth
+power is gonna be positive. Cube root of that is still
+going to be positive. But then you're gonna have negative 2/9 divided by that positive value, so this is going to be negative. So it is indeed the case that
+our concavity of g switches as we cross x equals zero. We're concave upwards
+when x is less than zero. Our second derivative is positive. And we're concave downwards
+when x is greater than zero. Let me write that a little bit. Downwards. Downwards when x is greater than zero. So we are switching concavity
+as we cross x equals zero, and so this tells us that x. So let's see, we are switching signs. Switching. Let me say g prime prime switching signs as we cross x equals zero. And our function is
+defined at x equals zero. And function defined at x equals zero. So we have an inflection
+point at x equals zero. So inflection point at x is equal to zero. And if you're familiar with
+the graph of the cube root, you would indeed see an
+inflection point at that point. So there we go. He was wrong in step three. There actually is an inflection point. It's not when the second
+derivative is equal to zero. It's actually where the second
+derivative is undefined.

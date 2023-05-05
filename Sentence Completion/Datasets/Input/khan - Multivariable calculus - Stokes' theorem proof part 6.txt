@@ -1,0 +1,82 @@
+Where we had left off, we had
+expressed our line integral over the boundary of our
+surface in terms of dt, in the dt domain. We expressed what f dot dr
+is going to be equal to. What I'm going to
+do in this video is do a little bit of
+algebraic manipulation, and then we will actually
+apply Green's theorem. And whether or not we
+have time in this video, we'll then manipulate
+that to show that it's the exact same thing
+that we saw in the earlier part, where we evaluated
+the surface integral. And so let's do that. So this integral right
+over here is the same thing as the integral from a to b. And then what I'm
+going to do is I'm going to group the things that
+are being multiplied by dx dt. So if I group them and
+then factor out a dx dt, so if I take this part right
+here and this part right over here, I'm essentially
+going to distribute the R. Let me make it clear. I'm going to distribute
+the R. And so I'm going to group that and
+that right over there, I will be left with-- and
+I'll factor out the dx dt. I will be left with P plus
+R times the partial of z with respect to x times dx dt. And I'll do the same
+thing for the dy dt's. So that's that part
+right over there. And then the R is going
+to get distributed in this thing right over here. So it's going to be plus
+Q plus R-- the R is going to get distributed-- times the
+partial of z with respect to y. And I'm going to
+factor out a dy dt. And then we can't
+forget all of that is going to be multiplied by dt. Now, this right over
+here is interesting, because it's starting to
+look very similar to what we had up here, where we just
+had our theoretical vector field. In fact, let me
+copy and paste it. So actually, I don't know if I'm
+on the right a layer of my work right over here. So let me copy and paste. No, that didn't work. Let me try it one more time. So if I try to copy,
+I'll go a layer down. I'm using an art
+program for this. Copy-- and then I think
+this will work-- and paste. There we go. So this is a result
+that we had before. This is kind of a
+template to look at. But what is going on
+over here if we just look at this template? We see that we're
+in the t domain. We're integrating over
+t right over here. But then we have these things. We have some function that's
+a function of x and y times dx dt, and then some function,
+the function of x and y times dy dt, and we're integrating
+with respect to dt. Well, that's exactly what
+we're doing right over here. We can distribute
+the dt, and we have something that looks exactly
+like this right over here, where M is analogous to
+this piece right over here. Let me make it clear. M, this piece right over
+here, looks a lot like M in our example right over here. It's being multiplied by
+dx dt, and then this dt, which you can distribute, and
+this piece right over here, looks a lot like N. And so, we can
+say that, well, we have something that
+looks like this. We can rewrite it
+like this and go back into the-- kind of
+deparametrize it. So this thing is going to
+be equal to now the line integral of C1. We are in the xy plane. We started with the curve C,
+but now we're going to go to C1. It's completely analogous. These are only functions
+of x's and y's. Everything here is. So now, this is going to be
+the line integral over C1-- and I could even draw it as
+that, if I like-- of M dx, and that makes sense. Because if you multiply dt times
+dx dt, the dt's cancel out, and you're just left with dx. So M times dx, so let
+me write it that way. So it's going to be P plus
+R times the partial of z with respect to x dx plus n. Let me scroll to the
+right a little bit. Plus n, which is Q plus
+R times the partial of z with respect to y dy. And then this is
+really interesting, because this path that we
+are now concerned with, it's completely analogous. I hope you don't think I'm
+doing some voodoo here. This statement is completely
+analogous to this statement, where M could be this
+and N could be this. And so, we can revert
+it back to now the path C1 that sits in the xy plane. Not our original
+boundary C, but now we're just dealing with a
+boundary in the xy plane. So it reverts to this. But what's powerful about
+getting it to this point, is we can now apply Green's
+theorem to this to essentially turn this into a double
+integral over the region that this path surrounds,
+the original region over this region R.
+And when we change how we manipulate that,
+when we play around with it, we're going to see that we get
+the exact same result that we got in earlier videos. And I'll leave you
+there, and I'll see if I can do that
+in the next video.

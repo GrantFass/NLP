@@ -1,0 +1,140 @@
+Welcome back. So let's do a potential
+energy problem with a compressed spring. So let's make this an
+interesting problem. Let's say I have
+a loop-d-loop. A loop-d-loop made out of ice. And I made it out of ice so that
+we don't have friction. Let me draw my loop-d-loop. There's the loop, there's
+the d-loop. All right. And let's say this loop-d-loop
+has a radius of 1 meter. Let's say this is-- this right
+here-- is 1 meter. So of course the loop-d-loop
+is 2 meters high. And let's say I have a
+spring here-- it's a compressed spring. Let's say this is the wall. This is my spring, it's
+compressed, so it's all tight like that. And let's say its spring
+constant, k, is, I don't know, 10. Attached to that compressed
+spring-- so I have a block of ice, because I need ice on ice,
+so I have no friction. This is my block of
+ice, shining. And let's say the block of ice
+is, I don't know, 4 kilograms. And we also know that we are
+on Earth, and that's important, because this problem
+might have been different if we were
+on another planet. And my question to you is how
+much do we have to compress the spring-- so, let's say
+that the spring's natural state was here, right, if
+we didn't push on it. And now it's here. So what is this distance? How much do I have to compress
+this spring, in order for when I let go of the spring, the
+block goes with enough speed and enough energy, that it's
+able to complete the loop-d-loop, and reach safely
+to the other end? So, how do we do this problem? Well, in order-- any loop-d-loop
+problem, the hard part is completing the
+high point of the loop-d-loop, right? The hard part is making sure
+you have enough velocity at this point, so that you
+don't fall down. Your velocity has to offset the
+downward acceleraton, in which case-- and here, is going
+to be the centripetal acceleration, right? So that's one thing
+to think about. And you might say, wow this is
+complicated, I have a spring here, it's going to accelerate
+the block. And then the block's going to
+get here, and then it's going to decelerate, decelerate. This is probably where it's
+going to be at its slowest, then it's going to accelerate
+back here. It's a super complicated
+problem. And in physics, whenever you
+have a super complicated problem, it's probably because
+you are approaching it in a super complicated way,
+but there might be a simple way to do it. And that's using energy--
+potential and kinetic energy. And what we learned when we
+learned about potential and kinetic energy, is that the
+total energy in the system doesn't change. It just gets converted from
+one form to another. So it goes from potential
+energy to kinetic energy, or to heat. And we assume that
+there's no heat, because there's no friction. So let's do this problem. So what we want to know is, how
+much do I have to compress this spring? So what I'm essentially saying
+is, how much potential energy do I have to start off with--
+with this compressed spring-- in order to make it up here? So what's the potential
+energy? Let's say I compress the
+spring x meters. And in the last video, how
+much potential energy would I then have? Well, we learned that the
+potential energy of a compressed spring-- and I'll
+call this the initial potential energy-- the initial
+potential energy, with an i-- is equal to 1/2 kx squared. And we know what k is. I told you that the spring
+constant for the spring is 10. So my initial potential energy
+is going to be 1/2 times 10, times x squared. So what are all of the energy
+components here? Well, obviously, at this point,
+the block's going to have to be moving, in order
+to not fall down. So it's going to have
+some velocity, v. It's going tangential
+to the loop-d-loop. And it also is going to have
+some potential energy still. And where is that potential
+energy coming from? Well, it's going to come because
+it's up in the air. It's above the surface
+of the loop-d-loop. So it's going to have some
+gravitational potential energy, right? So at this point, we're going
+to have some kinetic energy. We'll call that-- well, I'll
+just call that kinetic energy final-- because this is while
+we care about alpha, maybe here it might be the kinetic
+energy final, but I'll just define this as kinetic
+energy final. And then plus the potential
+energy final. And that of course, has to
+add up to 10x squared. And this, of course, now, this
+was kind of called the spring potential energy,
+and now this is gravitational potential energy. So what's the energy
+at this point? Well, what's kinetic energy? Kinetic energy final is going
+to have to be 1/2 times the mass times the velocity
+squared, right? And then what's the potential
+energy at this point? It's gravitational potential
+energy, so it's the mass times gravity times this height. Right? So I'll write that here. Potential energy final is going
+to be mass times gravity times the height, which also
+stands for Mass General Hospital, anyway. You can tell my wife's
+a doctor, so my brain just-- anyway. So let's figure out the kinetic
+energy at this point. So what does the velocity
+have to be? Well, we have to figure out
+what the centripetal acceleration is, and then, given
+that, we can figure out the velocity. Because we know that the
+centripetal acceleration-- and I'll change colors for
+variety-- centripetal acceleration has to be the
+velocity squared, over the radius, right? Or we could say-- and what is
+the centripetal acceleration at this point? Well it's just the acceleration
+of gravity, 9.8 meters per second squared. So 9.8 meters per second
+squared is equal to v squared over r. And what's the radius
+of this loop-d-loop? Well it's 1. So v squared over r
+is just going to be equal to v squared. So v squared equals 9.8-- we
+could take the square root, or we could just substitute the
+9.8 straight into this equation, right? So the kinetic energy final is
+going to be equal to 1/2 times the mass times 4 times
+v squared times 9.8. And that equals-- let's just use
+g for 9.8, because I think that might keep it
+interesting. So this is just g, right? So it's 2 times g. So the kinetic energy final
+is equal to 2g-- and g is normally kilogram meters per
+second squared, but now it's energy, right? So it's going to be in joules. But it's 2g, right? And what is the potential
+energy at this point? Well, it's the mass, which is
+4, times g times the height, which is 2. So it's equal to 8g. Right. So what's the total energy
+at this point? The kinetic energy is 2g, the
+potential energy is 8g, so the total energy at this
+point is 10g. 10g total energy. So if the total energy at this
+point is 10g, and we didn't lose any energy to friction
+and heat, and all of that. So then the total energy
+at this point has also got to equal 10g. And at this point we have no
+kinetic energy, because this block hasn't started
+moving yet. So all the energy is
+a potential energy. So this also has to equal 10g. And this g, I keep saying,
+is just 9.8. I just wanted to do that just
+so you see that it's a multiple of 9.8, just for
+you to think about. So what do we have here? [? I'll do ?] these numbers worked out well. So let's divide both
+sides by 10. You get x squared is equal
+to g, which is 9.8. So the x is going to be equal to
+the square root of g, which is going to be equal to what? Let's see-- if I take 9.8, take
+the square root of it, it's like 3.13. So x is 3.13. So we just did a fairly-- what
+seemed to be a difficult problem, but it wasn't so bad. We just said that, well the
+energy in the beginning has to be the energy at any point in
+this, assuming that none of the energy is lost to heat. And so we just figured out
+that if we compress this spring, with the spring
+constant of 10. If we compress it 3.3 meters--
+3.13 meters-- we will have created enough potential
+energy-- and in this case, the potential energy is 10 times
+9.8, so roughly 98 joules. 98 joules of potential energy
+to carry this object all the way with enough velocity at the
+top of the loop-d-loop to complete it, and then come
+back down safely. And so if we wanted to think
+about it, what's the kinetic energy at this point? Well we figured out it
+was 2 times g, so it's like 19.6 joules. Right. And then at this point,
+it is 98 joules. Right? Did I do that right? Well, anyway I'm running out
+of time, so I hope I did do that last part right. But I'll see you in
+the next video.

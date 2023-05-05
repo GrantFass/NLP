@@ -1,0 +1,201 @@
+In the last video, I showed
+you that the definition of efficiency, eta, is the work
+that we do given the amount of heat we are given
+to work with. And we showed that for an
+engine, that could also be rewritten as 1 minus Q2 over
+Q1, or essentially, 1 minus the heat we output from our
+engine divided by the amount of heat we input from
+our engine. Now we applied this formula to
+a Carnot cycle, and we said, hey, for a Carnot engine,
+we could get an efficiency of this. So let me write this here. So the efficiency for Carnot,
+eta for Carnot, is 1 minus T2 over T1. To get this result, we had to
+use the fact that we were dealing with the Carnot cycle
+to use, you know, we were moving along these isotherms,
+and so I was able to take the natural log of them and do all
+of that, and I was able to get this for the efficiency
+of a Carnot engine. And let me be very clear. This is the efficiency that
+can only be attained by a Carnot engine. The other definitions of
+efficiency-- so when I just defined efficiency as equal to
+the work performed divided by the heat, let me call it the
+heat input-- or when I defined it as the net heat in. So Q1 minus Q2 over Q1. This applies to all
+heat engines. This is true for all
+heat engines, including the Carnot engine. A heat engine is an engine
+that operates on heat. I probably should have said
+that a while ago. And this engine that I made,
+this Carnot engine, is definitely a engine that is
+operating on heat, because it's taking heat here,
+and later it releases the heat down here. The cycle just shows what's
+happening to that engine. And I just want to make
+that distinction, too. The engine is the actual
+physical thing. The cycle just describes
+what's happening to it. So with that said, I said that
+this is only true for a Carnot heat engine. Now, what I'm about to embark
+on-- and I don't know if I'm going to finish it
+in this video. It might take into the next
+video to do it properly-- is to show you that if we're
+operating a heat engine between two temperature
+sources-- so I have my hot temperature source, I'll call
+that TH for T hot, and it's transferring some heat, Q1, and
+some other heat is coming out at Q2, and I'm performing
+some work, and then my other cold temperature reservoir,
+I'll call that T cold, is down here. And that's where I'm releasing
+the heat, too. I'm going to show over the next
+few videos that the most efficient engine is this
+theoretical Carnot engine. That no engine can get more
+efficient than this. So if this is a Carnot
+engine, this is the most efficient engine. Or this is the ideal, where
+nothing is lost. Well, I'll go into that in more detail. No engine can get more efficient
+than this Carnot heat engine. So to get there, to prove it to
+you, I'm just going to play with the Carnot engine a little
+bit, just to show you some of the tools that it
+has at its disposal. So one of the things-- let me
+just draw a PV diagram. In the Carnot cycle we've done
+so far, we've kind of always moved in one direction. We had our isothermal
+expansion. It went something like that. That was isothermal. Then we had our adiabatic
+expansion-- and the whole time we were going in that
+direction-- and it went like that. Then we had our isothermal
+contraction. It went something like this. And then we had our adiabatic
+contraction, to get to where we were to begin with. So then we went back
+like that. And the whole time, we
+went in this kind of clockwise direction. We went in the clockwise
+direction, and we took in heat up here-- because we were doing
+work-- we took in heat to keep our temperature
+constant, and then we released heat here to keep our
+temperature from going up from Q2. And so if I were to draw this
+another way-- well, I just did one like that, but let
+me draw it like this. I could also depict it like
+this, where that's my engine, this is my hot reservoir--
+let me put this as T1-- T1 is up here. It transferred Q1 to
+my Carnot engine. My Carnot engine did some work,
+and then left over, it transferred into my cold
+reservoir, T2, it transferred Q2. This is another way of depicting
+what went on in this Carnot cycle. And here I've actually
+drawn the engine. Now, one of the tools I want to
+show you is that this is a reversible reaction. Or that we can take this and
+go the other way around. And it's dependent upon an
+assumption that I threw out a long time ago. So when I first drew these, I
+kind of introduced you to the idea of a quasistatic process. And quasistatic just means,
+look, you do it really slowly, so that you can always say that
+you're close enough to equilibrium that your
+macro state variables are always defined. And that was the whole
+justification for dealing with pebbles like this. Instead of just doing it
+wholesale, instead of just moving all the pebbles, and just
+getting to this state, from A to B kind of jumping, I
+wanted to do it gradually, so that I would be defined at
+every point in between. That's what quasistatic
+did for us. And when I actually made the
+video quasistatic processes, I said, you know, quasistatic
+processes, for the most part, are reversible. And sometimes I used the
+words interchangeably. Now, by definition, our
+theoretical Carnot cycle is said to be, not only is it
+quasistatic, but it is also reversible. Which means at any point in
+time-- let's say we've moved a couple of pebbles, and we've
+gotten right here. If we want to, if we're in the
+mood, we can add some pebbles back, and just follow this right
+back to where we were. That's what reversible means. It means you can reverse
+something. Now, what has to be ideal about
+the system in order for that to be true? Well, it means that the actual
+movement of our piston, of this movable ceiling, that it
+shouldn't have any friction. Because if some of the heat is
+lost to friction, then when we go back, we would have lost
+some of our heat. Some heat would have been
+destroyed, just going from one state forward and back. So the assumption that we have
+to make in order for the Carnot cycle to be reversible
+is that it's frictionless. So the Carnot heat engine, this
+theoretical engine, is a frictionless engine, which is
+theoretically impossible. To be completely frictionless. To be-- but we'll talk more
+about that in the future. So if you have a completely
+frictionless engine, and it's quasistatic, it's
+also reversible. So if we want to do
+it reversible, what does that mean? It means I could start in this
+state, my state A that I've labelled before, but instead
+of going around that way, I could go around the other way. So what I could do first, is I
+could adiabatically expand first-- so maybe let me redraw
+it, so I do it the other way. So I could reverse
+this reaction. And it would happen the
+exact same way. And that's an artifact of that
+I'm always in equilibrium, and that my system is frictionless,
+that I don't lose energy just going
+back and forth. So I could start at state
+A here, and then I could adiabatically contract. Adiabatic contraction would look
+something like this, and it'll get to that state. Then I can isothermically
+expand. So I'm going like this. And as I isothermically expand--
+so I'm going like this, I'm all along an
+isotherm-- I'd doing some isothermic expansion-- so in
+this case, I'm doing work, but I'm doing work isothermically,
+right? At some cold isotherm. Let's call it T2, right? Just like this was T2. So in this case, if I'm
+expanding, and I'm staying at T2, and I'm sitting
+on top of my T2 reservoir, heat is coming. This area under the curve,
+the work I'm doing, is the heat added. This is Q2, and that is given
+to me by my T2 reservoir. So everything is going
+in reverse. That's the whole idea. Then I adiabatically contract,
+like that, and then I isothermically contract,
+like that, to get back where I started. When I isothermically contract,
+what's happening? Work is being done to me, so now
+all of this area over here will be negative. And in order to keep my
+temperature constant, I have to release heat. So I'm releasing heat, but
+I'm doing it at a high temperature. So I'm releasing it into
+my T1 reservoir. So it's the exact same thing
+as it happened before, but since when I go in a reverse
+direction, some work is being applied. So now, when you look at it this
+way, when you figure out all of the areas,
+the area in here will actually be negative. And the reason why I'm saying
+that is because the positive work values are going
+to be this. This is going to be the
+positive, what I'm doing in blue right here. And the negative work
+values are going to be all of this stuff. So if you wanted to figure out
+the total work done, it's going to be negative. So what's happening, if I run
+the Carnot cycle in reverse-- so I'll call it the Carnot
+refrigerator. No, that's not what
+I wanted to do. I'll call it Carnot reverse. But it's handy that R also
+stands for refrigerator. This is the Carnot engine. It does work by using heat, by
+taking advantage of the heat difference between this hot--
+you could view this as the T hot and the T cold. Now, a reverse Carnot engine, or
+maybe you call it a Carnot refrigerator, does
+the opposite. That's exactly what I
+just drew over here. What it does is, it starts with
+a cold body-- I'll call that T cold, or T2-- it takes
+some smaller amount of heat from the cold body. Some work has to be input
+into the system in order to do this. And then it puts more heat-- you
+can kind of view it as a combination of this work and
+this heat taken from the cold body-- and it gives it
+to the warm body. Sorry. This is Q2, and it
+gives it Q1. So everything just happens
+completely in reverse. And that's just a byproduct
+of, this is reversible. So I can just go and I can do,
+if this is the way we went before, when we're an engine,
+if we want to be a refrigerator, we go the other
+direction, and everything just gets reversed. And I want you to really
+understand that this is doable. That there's nothing
+wrong with this. You might say, doesn't this
+defy the second law of thermodynamics? We're taking heat from a cold
+body to a warm body? And my answer will be the
+same thing I said on my entropy videos. I said, well, no. We're applying some work. This is a refrigerator. So some work has to be done
+in order to do this. And whatever object that is
+doing the work-- it may be some, in the case of your
+refrigerator, it's a compressor. That is adding more entropy to
+the universe than the entropy that's being destroyed
+by our refrigerator. So this does not defy the second
+law of thermodynamics. Now, I want to make another
+point about the Carnot engine. Let me take the reverse
+Carnot engine. Let me call it the Carnot
+refrigerator. So if we take that-- and this is
+really just more math than anything else. If we're taking in Q2, adding
+in some work, and producing Q1, we can scale this
+up arbitrarily. If we take x times Q2 in, and
+we put in x times W in, then we're going to put x times Q1
+into our top reservoir. And that makes sense,
+because these are just arbitrary numbers. For example, if we have two
+Carnot engines in parallel, you can just kind of view that
+whole thing as two Carnot engines doing it together, so
+all of these would be 2s. If we had three Carnot engines
+doing it together, all of those would be three, you could
+just view them as one collective engine. Now, with that said, I think
+I've laid the framework for at least the ideas that will let us
+show that the Carnot engine is the most efficient engine
+that's able to be produced. And given that the Carnot
+engine's efficiency is this-- and we're going to prove that
+it's the most efficient engine-- this becomes the upper
+bound on efficiency for any engine that anybody
+can or will ever make. And I'll kind of
+do the crowning touch in the next video.

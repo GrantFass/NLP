@@ -1,0 +1,52 @@
+- [Instructor] We are
+asked to find the value of this indefinite integral. And some of you, in attempting
+this, might try to say, all right, is the numerator
+here the derivative or a constant multiple of the
+derivative of the denominator? In which case, u-substitution might apply, but it's not the case here. So what do we do? And my hint to you would be
+partial fraction decomposition, which might invoke some memories
+from a precalculus class or maybe from an algebra 2 class, but it's a technique to break
+up this rational expression into the sum of two rational expressions. And a good hint there is the fact that this denominator here is factorable into these two expressions. So what we're gonna try to do with partial fraction
+decomposition is say, can we express x-5 over (2x-3)(x-1), can we express it as a sum
+of two rational expressions, where the denominator of the
+first rational expression is 2x-3, and the denominator of the
+second rational expression is x-1, and I don't have to
+put parentheses there, is x-1. Now we don't know the numerators. As you might have learned before, and I encourage you,
+if this the first time you're ever seeing partial
+fraction decomposition, look that up on Khan Academy. We have many videos on it. But the general principle here is that your numerator is
+gonna be one degree less than your denominator. So our denominators here are first degree, so our numerator's gonna be
+zero degree, or just constants. So it's gonna be some
+unknown constant data. Let's call that A. And some unknown constant B. And our goal is to solve for A and B. And this is all a review. This isn't really calculus. This is more precalculus now, or algebra. How do we solve for A and B? Well, let's add them as if we're just adding two fractions with unlike denominators. So we wanna have a common denominator. So what we wanna do is multiply this first rational expression by x-1 in the numerator
+and the denominator. So you could call this A(x-1) over (2x-3)(x-1). And then for this second
+rational expression, we'd multiply the numerator
+and the denominator by 2x-3. So (2x-3)B over (2x-3)(x-1). And now, since I have the same
+denominator, I can add them. And the goal is when I add 'em, and I think about the
+numerator, I will try to say, well how do the A's and B's line up to what we have already, right over here? So this is going to be
+equal to, same denominator, so the denominator's (2x-3)(x-1), and then in the numerators, actually, let me do it over here. This is the same thing as
+Ax-A, just distributing the A, and if I distribute the B here, this is the same thing as 2Bx-3B. And so if we add the numerators,
+we can add the x terms, Ax+2Bx, so we could call that (A+2B)x. And then if we add these
+constant terms, -A, -3B. And since we have a minus right over here, I'm gonna try to pattern match, so I'm gonna have minus, and I'll write that as -(A+3B). If you distribute this negative sign, then you're gonna get -A and -3B. So these are equivalent. And now we can see the pattern. We say, all right, our
+denominators are now the same, so this thing in our numerator has to be the same thing as x-5. So whatever our coefficient here is on x, that's gotta be equal to 1,
+that's the coefficient on x. And this thing that we're subtracting, that's gotta be equal to 5. And we're gonna set up a system of two equations with two
+unknowns to solve for A and B. So we know that A+, so
+let me write that down, we know that A+2B needs to be equal to 1. And we know that A+3B, or A+3B, is going to be equal to 5. And so now, to solve for A and B, well, we could do that by elimination. So let's see, what if we
+multiply this top equation by -1. So that'd be -A, -2B, -1,
+and now we add them together. The whole point was to cancel out the A's, so we're left with -2B+3B,
+that's just going to be B, is equal to 4, and then we can substitute
+back in to solve for A. So let's say right over
+here, we know that, we know that A+3x4, so that's gonna be 12, I'm using this equation right over here, is going to be equal to 5. Subtract 12 from both sides,
+you get A is equal to -7. So just like that, we can
+rewrite this entire integral. We can say this is going to be equal to the indefinite integral
+of, open parentheses, A over 2x-3. We now know that A is -7, so it's -7 over 2x-3, and then we're going have +B, B is 4, so, +4 over x-1, over x-1, and close parentheses, dx. Now if you are so inspired, I encourage you to pause the video and try to run with it from this point, because we have seen the
+techniques to solve integrals like this before, but
+I'll do it step by step. This is going to be the same thing as, well actually let me just, so this is going to be the same thing as the integral of, so 2x-3. I could write the -7 here, but I'm gonna take the
+constant out of the integral. So I'll put a -7 here. And to help us solve this,
+and this could be a 1, but to help us solve this, it would be nice if we had a 2 here. Why is that? Because 2 is the derivative of 2x-3, and so then we can do our u-substitution, which we have, sometimes,
+gotten practiced doing a little bit in our head. And so if we want this to be a 2, we can't just multiply by 2. We've also gotta divide by 2. And I can do that outside,
+'cause that's just a constant dx+, well the derivative of x-1 is 1, so we just want a 1 up in the numerator. So we can take the 4 out of the integral. 4 times the integral of 1 over x-1, dx. So this is going to be equal to, we just have our constant out front, -7/2, and since we have this
+thing in the denominator, and we have its derivative, we can really just think
+about this as integrating with respect to this
+thing in the denominator. You can sometimes view u-substitution, which I'm not explicitly going to do here, as the reverse chain rule. The antiderivative of 1
+over x is the natural log of the absolute value of x, but here, this is going,
+the antiderivative of this is going to be the natural log of the absolute value of 2x-3. And then for this part, it's gonna be +4, times the antiderivative here is the natural log of the
+absolute value of x-1. Once again, I can do that, 'cause the derivative of x-1 is just 1. And of course, since we're
+taking an indefinite integral, we do not want to forget our +C. And we're done.

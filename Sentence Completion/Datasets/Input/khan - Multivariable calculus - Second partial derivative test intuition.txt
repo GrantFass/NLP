@@ -1,0 +1,127 @@
+- [Voiceover] Hey everyone. So in the last video I introduced this thing called the second
+partial derivative test, and if you have some kind
+of multivariable function or really just a two variable function is what this applies to, something that's f of x, y and it outputs a number. When you're looking
+for places where it has a local maximum or a local
+minimum, the first step, as I talked about a few videos ago, is to find where the gradient equals zero and sometimes you'll hear these called critical points or stable points, but inputs where the gradient equals zero and that's really just a way of compactly writing the fact that all the partial derivatives are equal to zero. Now when you find a point like this, in order to test whether
+it's a local maximum or a local minimum or a saddle point without actually looking at the graph, 'cause you don't always have the ability to do that at your
+disposal, the first step is to compute this long value, and this is the thing I
+wanna give intuition behind. Where you take all three
+second partial derivatives, the second partial
+derivative with respect to x, the second partial
+derivative with respect to y and the mixed partial derivative where first you do it with respect to x, then you do it with respect to y. And you compute this
+value where you evaluate each one of those at your critical point and you multiply the two pure
+second partial derivatives and then subtract off the square of the mixed partial derivative and again, I'll give intuition
+for that in a reason, but right now we just kinda take it, oh, alright, I guess
+you compute this number and if that value H, if that value H is greater than zero, what it tells you, what it tells you is
+that you definitely have either a maximum or a minimum. So you definitely have either
+a maximum or a minimum. And then to determine which one you just have to look at the
+concavity in one direction. So you'll look at the
+second partial derivative with respect to x for example, and if that was positive
+that would tell you when you look in the x direction there's a positive
+concavity, if it was negative it would mean a negative concavity. And so that means a positive value for that second partial derivative would mean a local minimum
+and a negative value would mean a local maximum. So that's what it means if this value H turns out to be greater than zero. And if this value H turns
+out to be less than zero, strictly less than zero,
+then you definitely have a saddle point, saddle point. Which is neither a maximum, nor a minimum. It's kind of like there's disagreement in different directions over whether it should be a maximum or a minimum. And if H equals zero, the
+test isn't good enough. You would have to do something
+else to figure it out. So why does this work? Why does this seemingly
+random conglomeration of second partial
+derivatives give you a test that let's you determine what type of stable point you're looking at? Well let's just understand
+each term individually. So this second partial
+derivative with respect to x, since you're taking
+both partial derivatives with respect to x,
+you're basically treating the entire multivariable function as if x is the only variable and
+y was just some constant. So it's like you're only looking at movement in the x direction. So in terms of a graph,
+let's say we've got like, this graph here, you
+can imagine slicing this with a plane that represents movement purely in the x direction, so that'll be a constant y value slice,
+and you take a look at the curve where this
+slice intersects your graph. And in the one that I have pictured here it looks like it's a positive concavity. So this term right here kind
+of tells you x concavity. So it's kind of like the,
+what is the concavity as far as the variable x is concerned. And then symmetrically, this over here, when you take the partial derivative with respect to y two times in a row, it's like you're ignoring the fact that x is even a variable
+and you're looking purely at what movement in
+the y direction looks like. Which on the graph that
+I have pictured here, also happens to give you kind of this positive concavity parabola look, but the point is that
+the curve on the graph that results from looking at movement purely in the y direction can be analyzed just looking at this partial derivative with respect to y twice in a row. So that term kind of tells
+you y concavity, y concavity. Now first of all, notice what happens if these disagree. If say, x thought there
+should be positive concavity and y thought there should
+be negative concavity. Here, I'll write that
+down, what that means. If x thinks there's positive concavity we have here some kind of positive number that I'll just write as like,
+a plus sign in parenthesis. And then this here, y concavity, would be some kind of negative number,
+so we'll just put like, a negative sign in parenthesis. So that would mean this very first term would be a positive times a negative and that first term would be negative. And now the thing that
+we're subtracting off, I'll get to the intuition behind this mixed partial derivative term in a moment, but for now you can notice
+that it's something squared, it's something that's
+always a positive term. So you're always subtracting
+off a positive term which means if this
+initial one is negative, the entire term H is
+definitely gonna be negative, so it's gonna put you over into
+this saddle point territory. Which makes sense,
+because if the x direction and the y direction disagree on concavity that should be a saddle point. The quintessential example here is when you have the function f of x, y is equal to x squared minus y squared, x squared minus y squared. And the graph of that, by the way, the graph of that would look like this where, let's see, so
+orienting myself here, moving in the x direction
+you have kind of, positive concavity which corresponds to the positive coefficient
+in front of x squared, and in the y direction it
+looks like negative concavity. Corresponding to that negative coefficient in front of the y squared. So when there's disagreement among these, the test ensures that we're
+gonna have a saddle point. Now what about if they agree, right, what if either it's the case that x thinks there should be positive concavity and y thinks there should
+be positive concavity, or they both agree that there should be, you know, negative concavity. In either one of these cases, when you multiply them
+together they're positive. So it's kind of like saying, if you look purely in the x direction or
+purely in the y direction, they agree, that there
+should be, you know, definitely positive concavity or definitely negative concavity. So that entire first term
+is going to be positive. So it's kind of like a clever way of capturing whether
+or not the x directions and y directions agree. However, the reason that it's not enough is 'cause in either case we're still subtracting off something
+that's always a positive term. So when you have this agreement between the x dicretion
+and the y direction it then turns into a battle between this x, y agreement
+and whatever's going on with this mixed partial derivative term. And the stronger that mixed
+partial derivative term, the bigger this negative number, so the more it's pulling the entire value H towards being negative. So let me see if I can give a little bit of reasoning behind why this mixed partial derivative term is trying to pull things towards
+being a saddle point. Let's take a look at
+the very simple function f of x, y, is equal to x times y. So what that looks like graphically, f of x, y equal x times y, is this. It looks like a saddle point. So let's go ahead and look
+at it's partial derivatives. So the first partial derivatives, partial with respect to x and partial with respect to y, well when you do it with respect to x, x
+looks like a variable, y looks like a constant,
+it's just that constant y. And when you do it with respect to y it goes the other way around. Y looks like the variable,
+x looks like the constant so the derivative is that constant x. Now when you take the
+second partial derivatives, if you do it with respect
+to x twice in a row you're differentiating
+this with respect to x, that looks like a
+constant, so you get zero. And similarly, if you
+do it with respect to y twice in a row, you're doing this and the derivative of x with respect to y, x looks like a constant, goes to zero. But the important term, the one that we're getting an intuition about here, this mixed partial derivative,
+first with respect to x then with respect to y, well
+you can view it in two ways. Either you take the
+derivative of this expression with respect to y, in which case it's one, or you think of taking the
+derivative of this expression with respect to x, in
+which case it's also one. So it's kind of like this
+function is a very pure way to take a look at what this mixed partial derivative term looks like. And the higher the coefficient here, if I had put a coefficient
+of, you know, three here that would mean that the
+mixed partial derivative would ultimately end up being three. So notice, the reason that
+this looks like a saddle isn't because the x and
+y directions disagree, in fact if you take a
+look at pure movement in the x direction it just
+looks like a constant. The height of the graph along this plane, along this line here is just a constant which corresponds to the fact that the second partial derivative
+with respect to x is equal to zero. And then likewise, if
+you cut it with a plane representing a constant x value, meaning movement purely
+in the y direction, the height of the graph doesn't
+really change along there, it's constantly zero which corresponds to the fact that this other
+partial derivative is zero. The reason that the whole
+thing looks like a saddle is 'cause when you cut it
+with a diagonal plane here, a diagonal plane, it looks
+like it has negative concavity. But if you were to chop it,
+you know, in another direction it would look like it
+has positive concavity. So in fact, this xy term
+is kind of like a way of capturing whether there's disagreement in the diagonal directions. And one thing that might
+be surprising at first is that you only need one of these second partial derivatives in order to determine all of the information about the diagonal directions. 'Cause you can imagine,
+you know, maybe there's disagreement between movement
+along one certain vector and movement along
+another and you would have to account for infinitely many directions and look at all of them. And yet evidently, it's
+the case that you only really need to take a look at this mixed partial derivative term. You know, along with the original pure second partial derivatives with respect to x twice and with respect to y twice. But still, looking at
+only three different terms to take into account possible disagreement in infinitely many directions actually feels like quite the surprise. And if you want the full,
+rigorous justification for why this is the case, why this second partial derivative test works and kind of, an airtight argument. I've put that in an
+article that you can find that kind of, goes into the dirty details for those who are interested. But if you just want the intuition, I think it's fine to think about the fact that this
+mixed partial derivative is telling you how much your function looks like the graph of f
+of x, y equal x times y. Which is the graph that kind of captures all of the diagonal disagreement. And then when you let that term, that mixed partial derivative term, kind of compete with the agreement between the x and y directions, you know, if they agree very strongly, you have to subtract
+off a very strong amount in order to pull it
+back to being negative. So this battle back and
+forth, if it's pulled to be very negative that
+will give you a saddle point, if it doesn't pull hard
+enough, then the agreement between the x and y directions wins out and it's either a local
+maximum or a local minimum. So hopefully that sheds
+a little bit of light on why this term makes sense
+and why it's a reasonable way to combine the three different
+second partial derivatives available to you, and
+again, if you want the full details, I've written that
+up in an article form. I'll see you next video.

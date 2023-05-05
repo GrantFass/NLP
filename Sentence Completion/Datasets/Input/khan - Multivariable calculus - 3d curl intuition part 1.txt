@@ -1,0 +1,48 @@
+- [Voiceover] Hello, everyone. So I'm gonna start talking
+about three-dimensional curl. And to do that, I'm gonna start off by taking the two-dimensional example that I very first used when I was introducing the intuition. You know I talked about fluid flow and I animated it here where with this particular vector field you see a certain counter-clockwise
+rotation on the right and a clockwise rotation on the top. So I'm gonna take that vector field which hopefully we have a
+little bit of an intuition for and I'm gonna plop it into
+three-dimensional space on the x-y plane. So if I just take that whole vector field and I copy it onto the x-y plane here's how it looks. And the vector spacing might
+be a little bit different, the choice of what
+subsample of points to use in displaying vectors might
+be a little bit different but this is the same field, and it's actually worth writing out how it's defined in two-dimensions. This guy is a function of x and y, so it's a vector field function of x and y and what it's components are. Now the first component
+is y cubed minus nine y and then the next one
+is x cubed minus nine x. So now if I look at this guy and I say let's start thinking about the fluid rotation associated with it, because it's in three-dimensions it's natural to describe that rotation, not just with a number at each point, you know with a scale or value like the two-dimensional curl gives us, but instead to assign
+a vector to each one. And when you do that, when you associate a
+vector to each different point in space according
+to the fluid rotation that would be happening there, you get something that looks like this. Now this is kind of complicated because there's two different
+vector fields going on. One of them, all the vectors are perpendicular to the x-y plane. So let's just kind of
+take it piece by piece and see if we can understand it. So I've got four different
+circled regions here and one of them is this one on the right where there's counter-clockwise
+rotation happening. And if you think to your right hand rule, I'm gonna go ahead and bring in the picture of the right hand rule here, where you imagine curling your fingers around that direction of rotation, in the fingers of your right hand, then you stick out your thumb, the direction your thumb is pointing would be the direction of vectors that describe that rotation. So if we do that here and if we you know, you imagine curling
+your right fingers around there and sticking up your thumb you're gonna get vectors that point in the positive z-direction. So this is why in that
+region you have vectors pointing up, positively
+in the z-direction, they're telling you that
+as you view this x-y plane from above there's
+counter-clockwise rotation. But then what about at a different point? What about up here at the top where you have clockwise rotation? Now there, if you imagine taking the fingers of your right hand and curling them around
+that direction of rotation your thumb is gonna be
+pointing straight down. It'll be kind of in the
+negative z-direction, and we see that with
+this vector field here. Where below that circle, below that point, you have vectors pointing
+straight down indicating that that's the direction of
+rotation in that region. So if you do this at every single point and you kind of get an understanding of what the rotation is at every point and assign a vector this is the field that you're gonna get. And let's go ahead and describe that with an actual, with a function. Because we know how to compute
+the two-D curl at this point. You see if this whole thing, if we give names to the two
+different component functions as P and Q then the curl, the two-D curl of this guy, two-D curl of the vector field v has a function of x and y what it equals is the partial derivative of that second component
+with respect to x. So the partial of q with respect to x minus the partial derivative
+of that first component with respect to y. So minus partial of p with respect to y. And what we get when we do that, the partial of q with respect to x So we take the partial derivative of this with respect to x, that just looks like a derivative since there's only x's in there, and you get three x squared minus nine. And I actually did this, there's another video where
+this is the example that I do, when you take this second
+derivative of p with respect to y, you're taking the
+derivative of this top part with respect to y and that's three y squared minus nine. And what you can do is you can say, this minus nine cancels out with that, you know minus minus nine. So these guys cancel, and what you ultimately get is three x squared plus three y squared. Now what does this mean
+for the vector field that we see here? Because this, this is a
+scale of valued quantity and yet the vector field that I'm showing, with all these blue vectors
+indicating rotation, these are vectors. And because the rotation is happening purely in the x-y plane, which is perpendicular to the z-axis, all of these vectors
+purely have a z-component. So what you might say is that the curl, and I'm not gonna say two-D curl, but actual curl of v of v as a function of x and y is a, it's not a scale or value, but it's a vector and it's
+gonna be a vector that describes these blue ones in the pure z-direction. And since they're in the pure z-direction the x and y components are zero. But that last component is
+the formula that we found that describes the magnitude of the curl. Three x squared minus three y squared, and this, let's see kinda
+running out of room, this here you can think
+of as kind of a prototype to three-dimensional curl. Because really, this vector field v, is not quite a three-dimensional
+vector field is it? It only lives in the x-y plane, it only take in x and y's input points. So what we wanna do is
+start extending this to say, how can you make this look
+like a three-dimensional vector field and still kind
+of understand the rotation as a three-dimensional vector quantity? And that's what I'm gonna
+continue doing in the next video.

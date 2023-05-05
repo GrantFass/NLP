@@ -1,0 +1,140 @@
+- Let's talk about polarization of light. We know what light waves are;
+they're electromagnetic waves. So they're made out of electric fields. And that's not good enough. We know there's not just electric fields. That couldn't sustain itself. There's got to be magnetic
+fields there, as well, that are changing. Those are perpendicular, so
+you can kind of draw them. It's hard, on something two-dimensional, but you can kind of imagine those looking something like this. And those magnetic fields
+would point at a right angle to the electric fields. But this gets really
+messy if I try to draw both the electric and magnetic
+fields at the same time. So we're going to leave
+the magnetic fields out. It's often good enough to
+just know the direction of the electric field when we
+focus on the electric field. So what does polarization mean? Polarization refers to the
+fact that, if this light ray was heading straight toward
+your eye, or a detector, over here, what would you see? Well, if I draw an axis over here, and this point here, in the
+middle, this is this line -- so imagine we're looking
+straight down that line -- and then up and down is up and down, and then left and right, that direction I have the magnetic field, would be this way and that way. What would my eye see? Well, my eye's only going
+to see electric fields that either point up or
+electric fields that point down. They might have different
+values, but I'm only going to see electric fields that point up or down. Because of that, this
+light ray is polarized. So polarized light is light
+where the electric field is only oscillating in one direction. Up or down, that's one
+direction -- vertically. Or it could be polarized horizontally. Or it could be polarized diagonally. But either way, you could
+have this wave polarized along any direction. I mean, a light ray
+like this, if we had it coming in diagonal, this light ray that's
+oscillating like this, where the electric field
+oscillates like that, that also polarized. These are both polarized because
+there's only one direction that the electric field is oscillating in. And you might thing, "Pff,
+how could you ever have "a light ray that's not polarized?" Easy. Most light that you get is not polarized. That is to say, light
+that's coming from the sun, straight from the sun --
+typically not polarized. Light from a lightbulb, an
+old incandescent light bulb, this thing's hot. You can get light
+polarized in any direction, all at once, all overlapping. So if we draw this case for a light bulb, just a random incandescent light bulb, you might get light, some of
+the light, hitting you eye, you can get some light
+that's got that direction, you got light that's got this direction, you got light in all these directions at any given moment. I mean, you'd have to add
+these up to get the total, and they might not all be the same value. But what I'm trying to say
+is, at any given moment, you don't know what direction
+the electric field's going to be hitting your
+eye at from a random source. It could be in any direction. So this is not polarized. This diagram represents
+light that is not polarized. At some point, the field
+might be pointing this way, at some later point it's
+this way; it's just random. You never know which
+way the electric field's going to be pointing. Whereas these over here,
+these are polarized. So how could you polarize this light? Let's say you wanted
+light that was polarized. You were doing an experiment. You needed polarized light. Well, that's easy. You can use what's called a polarizer. And this is a material
+that lets light through, but it only lets light
+through in one orientation, so you're going to have a
+polarizer that, for instance, only lets through
+vertically polarized light. So this is a polarizer. These are cheap: thin, plastic, configured in a way so that it only lets light through
+that's vertically polarized. Any light coming in here
+that's not vertically polarized gets blocked, or absorbed. So what that means is, if
+you used this polarizer and held it in between your
+eye and this light bulb, you would only get this light. All the rest of it would get blocked. Or you could just rotate this thing and imagine a polarizer
+that only lets through horizontal light. Now it would only let through
+light that was this way, and so you would only get
+this part of the light. Or you could just orient
+it at any angle you want and block everything but the certain angle that this polarizer is defined
+as letting light through. So you can do this. And once you hold this up,
+you get polarized light, light that's only got one orientation. So that's what polarization means. But why do we care about polarization? Well, let me get rid of this for a minute. You've heard of polarized sunglasses. So imagine you're standing near water, or maybe you're standing on ice or snow or something reflective. There's a problem. Say the sun's out. It's shining. It's a beautiful day -- except
+there's going to be glare. Let's say you're looking down at something here on the ground. It's going to get light
+reflecting off of it from just ... you know, light's coming
+in from all direction. But it also gets this
+direct light from the sun. So it gets light from
+reflected off the clouds and whatever, whatever's
+nearby, ambient light. And there's also this direct sunlight. That's harsh. If that reflects straight
+up to your eye, that hurts. You don't like that. It blocks our vision. It's hard to see, it's glare. We don't want this glare. So what can we do? Well, it just so happens
+that, when light reflects off of a surface, even
+though the light from the sun is not polarized, once it
+reflects, it does get polarized or at least partially polarized. So this surface here,
+once this light reflects, it's coming in at all orientations. You got electric field ... you never know what electric
+field you're going to get straight from the sun. And when it reflects,
+though, you mostly get, upon reflection, the
+direction of polarization defined by the plane of
+the surface that it hit. So because the floor is horizontal, when this light ray hits
+the ground and reflects, that reflected light
+gets partially polarized. This horizontal component
+of the electric field is going to be more present
+than the other components. Maybe not completely. Sometimes it could be. It could be completely polarized, but often it's just partially polarized. But that's pretty cool,
+because now you know what we can do. I know how to block this. We should get some sunglasses. We put some sunglasses on
+and we make our glasses so that these are polarized. And how do we want these polarized? I want to get rid of the glare. So what I do is, I make sure my sunglasses only let through
+vertically polarized light. Here's some polarizers. That way, a lot of this glare gets blocked because it does not have
+a vertical orientation, it has a horizontal orientation. And then we can block it. So that's one good thing that
+polarization does for us, and understanding it,
+we can get rid of glare. Also, fishermen like it because,
+if you're trying to look in the water at fish, you want
+to see in through the water, you want to see this light
+from the fish getting to you. You don't want to see
+the glare off of the sun getting to you. So polarized sunglasses are useful. Also, we can play a trick on our eye, if we really wanted to. You could take one of these, make one eye have a vertical orientation
+for the polarization, have the other eye with a horizontal ... and you're thinking, "This is stupid. "Why would you do this for?" "This eye's going to get a lot of glare." We wouldn't use these outside, when you're, like, skiing or fishing, but you could play a trick on your eyes if you went to the movies and
+you went and watched a movie. Well, the reason our eyes see 3D is because they're spaced a little bit apart. They each get a different,
+slightly different image. That makes us see in 3D. We can play the same trick on our eye if we have the polarization like this. If light, if some of the light
+from the movie theater screen is coming in with one polarization, and the other light's coming
+in with the other polarization, we can send two different
+images to our eyes at the same time. If you took these off,
+it'd look like garbage because you'd be getting both of these slightly different images,
+it'd look all blurry. And it does. If you take off your 3D
+glasses and look at a 3D movie, looks terrible, because now both eyes are getting both images. But if you put your glasses back on, now this eye only gets the orientation that it's supposed to get, and this eye only gets the orientation
+that it's supposed to get, and you get a 3D image. So it's useful in many ways. Let me show you one more thing here. Let's come back here. This light was polarized vertically. So that's called linear polarization. Any time ... Same with these. These are all linear polarization because, just up and down,
+one linear direction, just diagonal. This is also linear. All of these are linear. You can get circular polarized light. So if we come back to here, we've got our electric field
+pointing up, like that. Now let's say we sent
+in another light ray, another light ray that
+also had a polarization, but not in this direction. Let's say our other light
+ray had polarization in this direction, so it looks like this, kind of like what our magnetic
+field would have looked like. But this is a completely
+different light ray with its own polarization
+and its own magnetic field. So we send this in. What would happen? Well, at this point, you'd
+have a electric field that points this way. At this point, you'd have a electric field that points that way. What would your eye see
+if you were over here? Let's see. If I draw our axis here. All right, when this point
+right here gets to your eye, what am I going to see? Well, I'm going to have a light ray that's one part of a light ray. One component points up. That's this electric field. One component points left. That's this electric field. So the total, my total electric
+field, would point this way. I could to the Pythagorean theorem if I wanted to figure out the size of it, but I just want to know
+the direction for now. And then it gets to here, and look at it: they both have zero. This light ray has zero electric field, this one has zero electric fields. So then it'd just be at zero. Now what happens over here? Well, I've got light. This one points to the right
+at that point, this pink one, and then this red one
+would be pointing down. So what would I have at that point? I'd have light that went this way, and it would just be
+doing this over and over. It would just be ... I'd just have diagonally polarized light. This isn't giving me anything new. You might think this is dumb. Why do this? Why send in two different waves to just get diagonally polarized light? I could have just sent in one wave that was diagonally polarized
+and got the same thing. The reason is, if you
+shift this purple wave, this pink wave, by 90 degrees of phase, by pi over two in phase,
+something magical happens. Let me show you what happens
+here, if we move this to here. Now we don't just get diagonally
+linear polarized light. What we're going to get is ... Let me get rid of this. Okay, so we start off with red, right? The red electric field points up, and then this pink wave's electric
+field is zero at that point. So this is all I have. My total electric field would just be up. I'm going to draw it right here. The green'll be the total. Now I come over to
+here, and at this point, there's some red electric
+field that points up, but there's some of this
+other electric field that points this way. So I'd have a total electric field that would point that way. And then I get over to here, and I'd have all of the electric
+field from the pink one, none from the red one. It would point all left then. Look what's happening. The polarization of this
+light, if I shift this, if I'm sitting here, looking with my eye, as my eye receives this light, I'm going to see this light
+rotate its polarization. The polarization I'm going to notice swings around in a circular pattern. And because of this, we call
+this circular polarization. So this is another type of polarization, where the actual angle of
+polarization rotates smoothly as this light ray enters your eye. And you know what? Er, drrr ... All right, actually, I sent
+you to receive this one first. That makes no sense. You're going to receive the
+ones closes to you first in this light ray going this way. So you'd actually receive
+this one first, then that one, then this one, then this one. Because of that, you wouldn't see this going in a counterclockwise
+way, you'd see this going in a clockwise
+circularly polarized way. Sorry about that. You might think, "Okay, why? "Why even bother with
+circular polarization?" Well, I kind of lied earlier. Turns out, in the movie theater example, they don't actually do
+it like this, typically. Oftentimes in the movie theaters, we don't have just linearly
+polarized sunglasses. This would be a problem
+because, when you look at the movie theater screen, and if you were to tilt your
+head just a little bit ... Think about it. This one's not really going to
+get the right image anymore. It's going to get some of both. And this one's going to get some of both. It's going to be blurry. Your head would have to be
+perfectly level the whole time, which might be annoying. So what we do is, instead, we create circular polarized glasses, so that this one would
+only get one polarization, this one would get the other direction. This way, even if you tilt
+your head a little bit ... shoot, clockwise is clockwise, counterclockwise is counterclockwise. By using circular
+polarization for 3D movies, it can make it a little easier on you eyes to see a better 3D image, even if your head's tilted a little bit.

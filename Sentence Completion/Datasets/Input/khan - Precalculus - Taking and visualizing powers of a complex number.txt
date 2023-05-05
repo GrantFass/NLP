@@ -1,0 +1,50 @@
+- We're told to consider the
+complex number z is equal to -1 plus i times the square root of 3. Find z to the fourth in
+polar and rectangular form. So pause this video and see
+if you can figure that out. All right, now let's work
+through this together. So first let's just think
+about what the modulus of z is. We know that the modulus
+is going to be equal to the square root of the real part squared plus the square root of 3, plus
+the imaginary part squared. So it is going to be -1 squared plus square root of 3 squared, which is going to be equal to 1 plus 3. So principal root of
+4, which is equal to 2. Now the next interesting question is, what is the argument of z? And the reason why I'm
+even going through this is once we put it into polar form, it's going to be a lot
+easier to both visualize what it means to take the
+various exponents of it. And then we can convert
+back into rectangular form. And so let us, let me draw
+another complex plane here. Imaginary axis. That is my real axis. And if I were to plot z, it
+would look something like this. We have -1 in the real direction. So that might be -1 there. And we have square root of 3
+in the imaginary direction, square root of 3. So our point z is right over here and we know the distance
+from the origin, the modulus, we know that this distance
+right over here is 2. We know that this distance right over here is square root of 3. And we know that this
+distance right over here is 1. And so you might
+immediately recognize this as a 30-60-90 triangle because
+in a 30-60-90 triangle, the short side is half of the hypotenuse, and the long side is the square root of 3 times the short side. So we know that this is a 60-degree angle. We know that this is a 30-degree angle. And the reason why that helps us, sorry, it's hard to see that 30 degree. The reason why that helps us is if this is 60 degrees, we know that the argument
+here must be 120 degrees. So the arg of z, the argument
+of z, is 120 degrees. And so just like that we can now think about z in polar form. So let me write it right over here. We can write that z is
+equal to its modulus, 2, times the cosine of 120 degrees, plus i times the sine of 120 degrees. And we could also
+visualize z now over here. So its modulus is 2. So that's halfway to 4, and
+its argument is 120 degrees. So it would put us right over here. This is where z is. Now, what would z squared be? Well, when you multiply complex numbers and you've represented them in polar form, we know that you would
+multiply the moduli, so it would then be 2 squared. So it'd be 4 right over here. And then you would add the arguments. So you would essentially
+rotate z by another 120 degrees 'cause you're multiplying it by z. So it's going to be cosine of 240 degrees plus i sine of 240 degrees. Once again, 2 times 2 is equal to 4. 120 degrees plus another
+120 degrees is 240 degrees. And so now where would z squared sit? Well, its argument is 240
+degrees and its modulus is 4. So now it is twice as far from the origin. And now let's think about what, I'll do this in a new color, what z to the third power
+is going to be equal to. Well, that's going to be
+z squared times z again. So we're gonna multiply
+2 times this modulus. So that's going to be equal to 8 times, and then we're going to rotate
+z squared by 120 degrees. So cosine of 360 degrees plus i sine of 360 degrees. And so that's going to put
+us at 8 for our modulus. And 360 degrees is the
+same thing as zero degrees. So we are right over here. So this is z to the third power. And I think, you know where this is going. What is z to the fourth power going to be? Let me move my screen down a little bit so I have a little more real estate. z to the 4th. Well, I'm just gonna
+take this modulus here since I'm going to multiply
+z to the third times z, I'm gonna multiply that
+modulus times 2 to get to 16. And then I'm going to
+add another 120 degrees. Well, I could write cosine of 480 degrees, or 360 degrees is the same
+thing as zero degrees. So this I could say is zero
+degrees. This is zero degrees. So if I add 120 to that, I
+get cosine of 120 degrees. Plus i sine of 120 degrees. So my argument is back
+to being at 120 degrees, but now my modulus is 16. So there's 4, 8, 12, 16, this outer circle right over here. I am right over there
+with z to the fourth. So we're almost done. We've just represented z to
+the fourth in polar form. Now we just have to think
+about it in rectangular form. Now, lucky for us, we already know what
+cosine of 120 degrees is and sine of 120 degrees is. It is, we can construct if we want another 30-60-90 triangle right over here. So the hypotenuse here has length 16. The short side is going to be 1/2 of that. So it has length 8. And then the long side is
+gonna be square root of 3 times the short side. So it's going to be 8 square roots of 3. So if we wanted to write z to the fourth in rectangular form, it would be the real part is -8. Plus i times 8 square
+roots of 3, and we're done.

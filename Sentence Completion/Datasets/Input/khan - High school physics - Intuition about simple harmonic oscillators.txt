@@ -1,0 +1,125 @@
+- [Instructor] Alright, we
+should talk about oscillators. And what an oscillator is is an object or variable that can move back and forth or increase and decrease, go up and down, left and right, over and over and over. So for instance, a mass on a spring here is an oscillator if we
+pull this mass back, it's gonna oscillate back and forth, and that's what we mean by an oscillator. Or another common example is a pendulum, and a pendulum is just a
+mass connected to a string, and you pull the mass back and then it swings back and forth. So you've got something
+going back and forth, that's an oscillator. These are the two most common types. Masses on springs, pendulum, but there's many other examples and all those examples share one common feature of why they're an oscillator. So you could ask why do these things oscillate in the first place, and it's because they all
+share this common fact, that they all have a restoring force. And a restoring force,
+like the name suggests, tries to restore this system, but restore it to what? Restore the system to
+the equilibrium position. So every oscillator has
+an equilibrium position, and that would be the point at which there's no net force on the
+object that's oscillating. So for instance, for this mass, if this mass on the spring was sitting at the equilibrium position, the net force on that
+mass would be 0 because that's what we mean by
+the equilibrium position. In other words, if you just sat the mass there it would just stay there because there's no net force on it. However, if I pull this mass to the right, the spring's like uh uh, now I'm gonna try and restore this mass back to the equilibrium position, the spring would pull to the left. If I push this mass to the left, the spring's like uh uh, we're movin' this thing back
+to the equilibrium position, we're trying to push it back there. So if I push left, the
+spring pushes right. And if I pull the mass right, the spring pulls left. It tries to restore
+always, it tries to restore mass back to the equilibrium position. Sam for the pendulum. If I pull the pendulum to the right, gravity is the restoring force trying to bring it back to the left. But if I pull the mass to the left, gravity tries to pull
+it back to the right, always trying to restore this mass back to the equilibrium position. That's what we mean by a restoring force. Now there's lots of oscillators, but only some of those oscillators are really special, and we
+give those a special name. We call them Simple Harmonic Oscillators. And you might be thinking, that's a pretty dumb name because that doesn't sound very simple. But they're something called the Simple Harmonic Oscillator. So what makes Simple Harmonic Oscillator's so special is that even though all oscillators have a restoring force, Simple Harmonic Oscillators
+have a restoring force that's proportional to the
+amount of displacement. So what that means is if I pull this mass to the right there
+will be a restoring force, but if it's proportional
+to the displacement, if I pulled this mass back twice as much, I'd get twice the restoring force. And if I pulled it back
+three times as much, I'd get three times the restoring force. Same down here. If I pulled this pendulum back with two times the angle, I'd get two times the restoring force. If that's the case, then you've got what we call a Simple Harmonic Oscillator. And you still might not be impressed, you might be like who cares if the restoring force is proportional
+to the displacement. Why should I care about that? You should care about that because these satisfy some very special rules that I'll show you throughout this video and it turns out that even though this doesn't sound very simple, they are much simpler than the alternative of Non-Simple Harmonic Oscillators. So these are what we typically study in introductory physics classes, and it turns out a mass on a spring is a Simple Harmonic Oscillator, and a pendulum also
+for small oscillations, here you have to make a caveat, you have to say only for small angles, but for those small angles, the pendulum is a Simple
+Harmonic Oscillator as well. Now in this video,
+we're just going to look at the mass on the
+spring to make it simple. We could look at the pendulum later. So I'm going to get rid of the pendulum so we can focus on this mass on a spring. Now you might not be convinced, you might be like how do we know this mass on a spring is really a Simple Harmonic Oscillator? Well we can prove it
+because the force that's providing the restoring force
+in this case is the spring. So the spring is the
+restoring force in this case, and we know the formula for
+the force from a spring, that's given by Hooke's Law. And Hooke's Law says
+that the spring force, the force provided by the spring, is going to be negative. The spring constant times
+x, the spring displacement, so x is going to be positive if the spring has been displaced to the right because the spring's going to get longer. So this would be a positive x amount. And if you compress the spring, the length of the spring gets smaller, that's going to count
+as a negative x value. But think about it, if I compress the spring to the left, my x is going to be negative, and that negative combines
+with this negative to be a positive so I'd
+get a positive force. That means the spring is
+there's a force to the right. And that makes sense. Restoring, it means it
+opposes what you do. If you push the mass to the left, the spring is going to push to the right. And if we did it the other way, if we pulled the mass to the right, now that would be a positive x value. If I have a positive x value in here and combine that with a negative, I'd get a negative spring force. And that means the spring would be pulling to the left, it's restoring this mass back
+to the equilibrium position. And that's exactly what
+an oscillator does. And look at it up here, this spring force, this restoring force, is proportional to the displacement. So x is the displacement, this is a force that's proportional to the displacement. And that's the definition. That was what we meant by
+Simple Harmonic Oscillator. So that's why masses on springs are going to be Simple
+Harmonic Oscillators, because the restoring force is proportional to the displacement. Now to be completely honest, it has to be negatively
+proportional to the displacement. If you just had f equals
+kx with no negative, then if you displaced it to the right, the force would be to the right which would displace it more to the right, which would create a
+larger force to the right, this would be a runaway solution, this thing would blow up,
+that wouldn't be good. So it's really forces that have a negative proportionality to the displacement. That way it's going to restore back to the equilibrium position and if this is proportional, you get a Simple Harmonic Oscillator. And so we should talk about this, what the heck do we mean by simple? Like what is simple about this? It turns out that what's simple is that these types of oscillators are going to be described by sin and cosin functions. So Simple Harmonic
+Oscillators will be described by sin and cosin and
+that should make sense because think about sin and cosin, what do those look like? Sin and cosin look like this. So here's what sin looks like, it's a function that
+oscillates back and forth. And cosin looks like
+this, it starts up here, so it's also a function that
+oscillates back and forth. And so these are simple, turns
+out those are very simple functions that oscillate back and forth. And because of that, we like those. In physics, we love things that are described by sin and cosin, it turns out they're pretty easy to deal with mathematically. Maybe you don't feel that way, but they're much easier
+than the alternatives of other things that could oscillate. So that's what Simple
+Harmonic Oscillators mean. But let's try to get some intuition, what is really going on
+for this mass on a spring? So let's imagine we pull
+the mass back, right? So the mass, if the mass just continues to sit at the equilibrium position, it's a pretty boring problem because the net force right there would be 0 and it would just continue to sit there. So let's say we pull the mass back, we pull it back by a certain amount. Say we pull it back this far, and then we let go. So since we let go of the mass, we've released it at rest. So it started at rest. And that means the speed
+initially over here is 0. So it starts off with 0 speed, but the spring has been stretched. And so the spring is going to restore, right, the spring is always trying to restore the mass back to
+the equilibrium position. So the spring pulling
+the mass to the left, speeding it up, speeds the mass up until it gets to the equilibrium position, and then the spring realizes, oh crud, I messed up. I wanted to get the mass here but I pulled it so much this mass has a huge speed to the left now. And masses don't just stop on their own, They need some force to do that. So this mass has inertia, and according to Newton's First Law, it's going to try and keep moving. So even though the spring got the mass back to the equilibrium
+position, that was its goal, it got it back there with this huge speed and the mass continues straight through the equilibrium position and the spring starts getting compressed
+and the spring's like oh no, I've gotta start pushing
+this thing to the right. I want to get the mass back
+to the equilibrium position. So now the spring's pushing to the right, slowing the mass down until it stops it, but the spring is compressed, so it's going to keep
+pushing to the right. Now it's pushing in the
+direction the mass is moving. Now it's got it going back to the equilibrium position again, which is good, but again, same mistake, the spring gets this mass back to the equilibrium position
+with a huge speed to the right, and now the spring's like oh great, I did it again, I got this mass back where I wanted it, but this mass had a huge speed and it's got inertia, and so this mass is going
+to keep moving to the right, past the equilibrium position. And this is why the oscillation happens. It's a constant fight between inertia of the mass wanting to keep moving because it's got mass
+and it's got velocity, and the restoring force
+that is desperately trying to get this mass
+back to the equilibrium position and they can
+never quite figure it out because they keep overshooting each other and this oscillation happens
+over and over and over. So just knowing the story, let's you say some really important things about the oscillation. One of them is that at these end points, at these points of maximum compression or extension, the speed is 0. So this mass is moving the slowest, i.e. it's not moving at all at these maximum points of
+compression or extension because that's where the spring has stopped the mass and started bringing it back in the other direction. Whereas in the middle, at
+the equilibrium position, you get the most speed. So this is where the
+mass is moving fastest, when the spring has got it back
+to the equilibrium position and the spring at that
+point realizes oh crap, this mass is going really fast, and the mass is coming at
+it or going away from it too fast for the spring
+to stop it immediately. So if the equilibrium
+point this mass has the most speed during the oscillation. So we could also ask where will the magnitude of the
+restoring force be biggest and where will it be least
+during this oscillation? And we've got a formula for that. Look at, the spring force
+is the restoring force. So we could just ask where will the spring force be biggest? That's going to be where this
+x is biggest or smallest. So if we wanted to know where the magnitude of this f is largest, we could just ask where will the magnitude of the x be largest? If we don't care about
+which way the force is, we just want to know where we'll get a really big force, we just try to figure out where will I get the biggest x? X is displacement. So the x value at the
+equilibrium position is 0. So there's no displacement
+of the spring right here, that's what it means to be
+the equilibrium position, this is the natural length of the spring. That's the length that
+the spring wants to be. If the spring has that shape right there, it doesn't push or pull. But if you've displaced it this way, or the other way, this would
+be positive displacement, and this would be negative displacement, now the spring's going to exert a force. So where will the force be greatest? It's where the spring has been compressed or stretched the most. So at these points here, at the points of maximum extension or compression, you're going to have the
+greatest amount of force. So greatest magnitude of force, because the spring is really stretched, it's going to pull with
+a great amount of force back toward the equilibrium position. And we can say which way it points, right? This spring's going to
+be pulling to the left, so there's going to be a great
+spring force to the left. Technically that'd be a negative force, so I mean, if you're
+taking signs into account, you could say that that's the least force because it's really negative. But if you're just
+worried about magnitude, that would be a great magnitude of force. And then also over here, at the maximum compression, this spring is really pushing
+the mass to the right, you get a great amount of force this way because your x, even though it's very negative at that point, it's going to give you
+a large amount of force. And so here you would also have a great amount of magnitude of force which can be confusing because look it. At these end points, you
+have the least speed, but the greatest force. Sometimes that freaks people out. They're like, how can
+you have a great force and your speed be so small? Well that's the point where the spring has stopped the mass and started pulling it in the other direction. So even though the speed is 0, the force is greatest. So, be careful, force does not have to be proportional to the speed. The force has to be proportional to the acceleration, right? Because we know net force, we could say that the
+net force is equal to ma. So wherever you have the
+largest amount of force, you'll have the largest
+amount of acceleration. So we could also say at these endpoints, you'll have not only the
+greatest magnitude of the force, but the greatest magnitude
+of acceleration as well. Because where you're pulling
+or pushing on something with the greatest amount of force, you're going to get the greatest amount of acceleration according
+to Newton's Second Law. So at these endpoints, the force is greatest, the
+acceleration is also greatest. The magnitude, the
+acceleration is also greatest even though the speed
+is 0 at those points. So those are the points where you get the greatest force
+and greatest acceleration. Where will you get the least amount of magnitude of force and
+magnitude of acceleration? Well look at up here. The least force will happen where you get the least possible displacement. And the least possible displacement's right here in the middle,
+this equilibrium position is when x equals 0. That's when the spring is
+not pushing or pulling. When it's at this point here. So when the mass is passing through the equilibrium position,
+there is 0 force. Right, that's the point where the mass got back there and the spring was like I'm glad I got it back to
+the equilibrium position and then the spring quickly realized, oh no, this mass, I got it back there, but the mass was moving really fast, so it shot straight through that point. But right at that moment, the spring had this glorious moment where it thought it had done it and it stopped exerting any force because at that point, the x is 0. And if x is 0, we know from
+up here, the force is 0. So this would be the least possible force. And I guess I should say
+it's actually 0 force, it's not just the least, there is 0 force exerted at this point. And if there's 0 force,
+by the same argument, we could say that there's 0
+acceleration at that point. Hopefully that gives you some intuition about why oscillators do what they do and where you might find the largest speed or force at any given point. So recapping, objects
+with a restoring force that's negatively proportional
+to the displacement will be a Simple Harmonic Oscillator and for all Simple Harmonic Oscillators, at the equilibrium position you'll get the greatest speed but 0 restoring force and 0 acceleration. Whereas at the points
+of maximum displacement, you'll get the maximum
+magnitude of restoring force and acceleration but the
+least possible speed.

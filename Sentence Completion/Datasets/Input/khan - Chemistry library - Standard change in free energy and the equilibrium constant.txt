@@ -1,0 +1,62 @@
+- [Voiceover] In the previous video, we looked at the relationship between the change in free energy, delta-G, and the reaction quotient, Q. And we plugged in different values for Q and we saw how that affected
+our answer for delta-G. The sign of delta-G told us if a reaction was spontaneous or not. We also said that at equilibrium, Q, the reaction quotient is equal to the equilibrium constant, K. And we plugged K into the equation and solved for delta-G. Delta-G was equal to zero. So, we know, at equilibrium, the change in free energy is equal to zero. So, there's no difference in free energy between the reactants and the products. Let's plug in delta-G is equal to zero into our top equation
+here, so, we have zero is, zero is equal to delta-G zero, the standard change in free energy, plus R times T, and since
+we're at equilibrium, delta-G is equal to zero, this would be the natural log of the
+equilibrium constant, K. So, we solve for delta-G zero. Delta-G zero is equal to negative RT, natural log of K. So, we have another very
+important equation to think about. Delta-G zero is the standard
+change in free energy, or the change in free energy
+under standard conditions. R is the gas constant, T is
+the temperature in Kelvin, and K is our equilibrium constant. So, if you're using this equation, you're at equilibrium,
+delta-G is equal to zero. And we know at equilibrium,
+our equilibrium constant tells us something about
+the equilibrium mixture. Alright, do we have more products or do we have more reactants at equilibrium. And this equation relates the equilibrium constant
+K to delta-G zero, the standard change in free energy. So, delta-G zero becomes a guide to the ratio of the amount of products to reactants at equilibrium,
+because it's related to the equilibrium constant
+K in this equation. If you're trying to find the
+spontaneity of a reaction, you have to use this equation up here, and look at the sign for delta-G. So, if you're trying to find if a reaction is spontaneous or not, use this equation. If you're trying to find or think about the ratio of the amount
+of products to reactants at equilibrium, then you wanna
+use this equation down here, and that ratio is related to the standard change in
+free energy, delta-G zero. Now we're ready to find
+some equilibrium constants. Remember, for a specific temperature, you have one equilibrium constant. So, we're going to find
+the equilibrium constant for this reaction at 298 K. So, we're trying to
+synthesize ammonia here, and at 298 Kelvin, or 25 degrees C, the standard change in free energy, delta-G zero, is equal to
+negative 33.0 kilojoules for this balanced equation. So, let's write down our equation that relates delta-G zero to K. Delta-G zero is equal to negative RT, natural log of K. Delta-G zero is negative 33.0 kilojoules, so, let's write in here, negative 33.0, and let's turn that into joules, so times ten to the third, joules. This is equal to the negative, the gas constant is 8.314 joules over moles times K. So, we need to write over here, joules over moles of reaction. So, for this balanced equation, for this reaction,
+delta-G zero is equal to negative 33.0 kilojoules. So, we say kilojoules, or
+joules, over moles of reaction just to make our units work out, here. Temperature is in
+Kelvin, so we have 298 K, so, we write 298 K in here,
+Kelvin would cancel out, and then we have the natural log of K, our equilibrium constant, which is what we are trying to find. So, let's get out the calculator and we'll start with the
+value for delta-G zero which is negative 33.0 times 10 to the third. So, we're going to divide that by negative 8.314, and we'd also need to divide by 298. And so, we get 13.32. So, now we have 13.32, right, so our units cancel out here, and this is equal to the natural log of the equilibrium constant, K. So, how do we solve for K here? Well, we would take E to both sides. So, if we take E to the 13.32 on the left, and E to the natural
+log of K on the right, this would cancel out
+and K would be equal to E to the 13.32, so let's do that. So, let's take E to the 13.32, and that's equal to, this would be 6.1, 6.1 times ten to the one, two, three, four, five. So, 6.1, 6.1 times ten to the fifth. And since we're dealing with gases, if you wanted to put in
+a KP here, you could. So, now we have an
+equilibrium constant, K, which is much greater than one. And we got this value from a negative value for delta-G zero. So, let's go back up to here, and we see that delta-G
+zero, right, is negative. So, when delta-G zero is less than zero, so when delta-G zero is negative, what do we get for our
+equilibrium constant? We get that our equilibrium constant, K, is much greater than one. So, what does this tell us
+about our equilibrium mixture? This tells us that at equilibrium, the products are favored
+over the reactants, so the equilibrium mixture contains more products than reactants. And we figured that out by using
+our value for delta-G zero. Let's do the same problem again, but let's say our reaction is
+at a different temperature. So now, our reaction is at 464 Kelvin, so we're still trying
+to make ammonia here, and our goals is to find the equilibrium constant
+at this temperature. At 464 Kelvin, the standard
+change in free energy, delta-G zero, is equal to zero. So, we write down our equation, delta-G zero is equal to negative RT, a natural log of the
+equilibrium constant, K. And this time, for delta-G
+zero, we're plugging in zero. So, zero is equal to, we know that R is the gas constant, and we know that the temperature
+here would be 464 Kelvin. So, for everything on the
+right to be equal to zero, the natural log of K
+must be equal to zero. So, we have zero is equal
+to the natural log of K. And now, we're solving for K, we're finding the equilibrium constant. So, we take E to both sides. So, E to the zero is equal
+to E to the natural log of K. E to the natural log of
+K is just equal to K. So, K is equal to E to the zero, and E to the zero is equal to one. So, when delta-G zero is equal to zero, so let's write this down on here, so, when your standard
+change in free energy, delta-G zero, is equal to zero, K is equal to one. And that means that at equilibrium, your products and your
+reactants are equally favored. Let's do one more example. So, let's find the
+equilibrium constant again at another temperature. So, now we're at 1000 K, and our standard change in free energy, delta-G zero, is equal to
+positive 106.5 kilojoules. So, delta-G zero is equal to negative RT, natural log of K. This time, we're putting in
+positive 106.5 kilojoules, which is positive 106.5 times ten to the third joules is equal to negative, R is our gas constant, 8.314, I'll leave units out of this just to make it a little bit clearer, times the temperature, which is 1000 K, so this would be 1000 Kelvin times the natural log of the
+equilibrium constant, K. So, let's do the math there. We'll start with our delta-G zero, which is 106.5 times ten to the third. So, we're going to take
+that value and divide it by negative 8.314, and then, we need to divide by 1000, and that gives us negative 12.81. So, we have negative 12.81 is equal to the natural log of the
+equilibrium constant. So, to solve for the equilibrium constant, we take E to both sides, and we get that K is equal to E to the negative 12.81. So, what is that equal to? E to the negative 12.81 is equal to 2.7 times
+10 to the negative six. So, K, the equilibrium constant, is equal to 2.7 times ten to the negative six. So, when delta-G zero is positive, when the standard change
+in free energy is positive, let's write this one down. So, when delta-G zero
+is greater than zero, so, when it's positive, your
+equilibrium constant, K, is less than one. Alright, so K is less than one. And we know what that
+means at equilibrium. The reactants are favored at equilibrium. So, your equilibrium mixture contains more reactants than products.

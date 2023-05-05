@@ -1,0 +1,36 @@
+- [Instructor] Let's try to
+convert the decimal number six, from decimal to binary, I'm gonna show you my
+favorite way of doing it. So I started off by writing
+dashes for the bits. I'm gonna start off with eight dashes, representing the eight bits or one byte, even though we probably
+don't need all of these for such a small number. And then I'm going to write the values of each of these places. So this first bit, this is
+the ones place or two to zero. The second bit is the
+twos place, two to one. The third bit is the
+fours place, two squared. And then we have eights place, 16s place, you see we just double, 32s
+place, 64s place and 128s place. Okay, now that we have these places, I start on the left side, and
+I look at the place and I say, is this value greater than this value? 128 is greater than that value, so we're gonna put a zero here, because we do not need to
+represent the value 128 inside this tiny little number. 64 is also greater than six, 32 also greater than six, 16 is also greater, eight is also greater, so we've got a whole lot of zeros so far. Four is not greater than six. So we're finally going to put a one. And then what we're gonna do
+is subtract four from six. So six minus four equals two. So that's the remaining value that we still need to represent. And we go to the next one. This is the twos place, two
+is not greater than two, it's actually exactly equal to two. So we're going to put a one as well. And now subtract again,
+two minus two equals zero, we fix that, two minus two is zero, there's nothing left to represent, we have entirely represented
+the value six already. So that means we can put a
+zero in this remaining place. So now we can say this is how
+to represent six in binary. The full byte would look like this, or we might shorten it to just four bits. Or we might even shorten it to just three, but we typically do like present bits in groupings of four or eight. Now let's try a bigger number. So let's erase all this work here. I wanna keep my place values around because those are handy and
+they're gonna be the same, and just erase everything
+else, okay, good enough. All right, so let's
+try the value 25, okay? 25 decimal, how do we
+convert that to binary? So once again we start over here, is 128 greater than 25? Yes it is, put a zero. 64 is greater, put a zero. 32 also greater, we'll put a zero. 16 is not greater than 25,
+so 16 is contained within 25. We'll put a one and then do a little math to figure out what we
+still need to represent. So 25 minus 16 equals four
+and five, that's nine. All right, so we still need
+to represent the value nine in these remaining bits, okay? The next place value is the eights place. Eight is not greater than nine. So that means we are going to
+need to use the eights place, we'll put a one in there. So now we have nine
+minus eight equals one. All right, there's only one more thing that we have to represent. So we've already represented 24, right? Here we're looking at
+having represented 24. If we filled the rest of zeros right now, we'd have the number 24,
+but we're looking for 25. So we keep going, is
+four greater than one? Yes, so we'll put a zero. Two is greater than one, we'll put a zero. One is equal to one, so
+we will put a one here. So here we have the decimal
+number 25 in binary. So this required one, two,
+three, four five bits, so we would probably represent
+it in a byte like this. So this is the basic strategy that I use for converting
+numbers from decimal to binary and this will work for numbers up to 255 using these eight bits here. Beyond that, you're
+going to need more bits. And honestly, at that point, you might wanna just use a calculator or write a program to do it.

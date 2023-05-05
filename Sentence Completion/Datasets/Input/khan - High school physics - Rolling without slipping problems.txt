@@ -1,0 +1,154 @@
+- [Instructor] So we saw last time that there's two types of kinetic energy, translational and rotational, but these kinetic energies aren't necessarily
+proportional to each other. In other words, the amount of
+translational kinetic energy isn't necessarily related to the amount of rotational kinetic energy. However, there's a
+whole class of problems. A really common type of problem where these are proportional. So that's what we're
+gonna talk about today and that comes up in this case. So, imagine this. Imagine we, instead of
+pitching this baseball, we roll the baseball across the concrete. So, say we take this baseball and we just roll it across the concrete. What's it gonna do? It's gonna rotate as it moves forward, and so, it's gonna do
+something that we call, rolling without slipping. At least that's what this
+baseball's most likely gonna do. I mean, unless you really
+chucked this baseball hard or the ground was really icy, it's probably not gonna
+skid across the ground or even if it did, that
+would stop really quick because it would start rolling and that rolling motion would just keep up with the motion forward. So when you have a surface
+like leather against concrete, it's gonna be grippy enough, grippy enough that as
+this ball moves forward, it rolls, and that rolling
+motion just keeps up so that the surfaces never skid across each other. In other words, this ball's
+gonna be moving forward, but it's not gonna be
+slipping across the ground. There's gonna be no sliding motion at this bottom surface here, which means, at any given moment, this is a little weird to think about, at any given moment, this baseball rolling across the ground, has zero velocity at the very bottom. This bottom surface right
+here isn't actually moving with respect to the ground because otherwise, it'd be slipping or sliding across the ground, but this point right here, that's in contact with the ground, isn't actually skidding across the ground and that means this point
+right here on the baseball has zero velocity. So this is weird, zero velocity, and what's weirder, that's means when you're
+driving down the freeway, at a high speed, no matter how fast you're driving, the bottom of your tire
+has a velocity of zero. It's not actually moving
+with respect to the ground. It's just, the rest of the tire that rotates around that point. So that point kinda sticks there for just a brief, split second. That makes it so that
+the tire can push itself around that point, and then a new point becomes
+the point that doesn't move, and then, it gets rotated
+around that point, and then, a new point is
+the point that doesn't move. So, they all take turns,
+it's very nice of them. Other points are moving. This point up here is going
+crazy fast on your tire, relative to the ground, but the point that's touching the ground, unless you're driving a little unsafely, you shouldn't be skidding here, if all is working as it should, under normal operating conditions, the bottom part of your tire should not be skidding across the ground and that means that
+bottom point on your tire isn't actually moving with
+respect to the ground, which means it's stuck
+for just a split second. It has no velocity. So that's what we mean by
+rolling without slipping. Why is this a big deal? I'll show you why it's a big deal. This implies that these
+two kinetic energies right here, are proportional, and moreover, it implies
+that these two velocities, this center mass velocity
+and this angular velocity are also proportional. So that's what I wanna show you here. So, how do we prove that? How do we prove that
+the center mass velocity is proportional to the angular velocity? Well imagine this, imagine
+we coat the outside of our baseball with paint. So I'm about to roll it
+on the ground, right? Roll it without slipping. Let's say I just coat
+this outside with paint, so there's a bunch of paint here. Now let's say, I give that
+baseball a roll forward, well what are we gonna see on the ground? We're gonna see that it
+just traces out a distance that's equal to however far it rolled. So if it rolled to this point, in other words, if this
+baseball rotates that far, it's gonna have moved forward exactly that much arc
+length forward, right? 'Cause if this baseball's
+rolling without slipping, then, as this baseball rotates forward, it will have moved forward exactly this much arc length forward. So in other words, if you
+unwind this purple shape, or if you look at the path
+that traces out on the ground, it would trace out exactly
+that arc length forward, and why do we care? Why do we care that it
+travels an arc length forward? 'Cause that means the center
+of mass of this baseball has traveled the arc length forward. So the center of mass of this baseball has moved that far forward. That's the distance the
+center of mass has moved and we know that's
+equal to the arc length. What's the arc length? Remember we got a formula for that. If something rotates
+through a certain angle. So if we consider the
+angle from there to there and we imagine the radius of the baseball, the arc length is gonna equal r times the change in theta, how much theta this thing
+has rotated through, but note that this is not true for every point on the baseball. Consider this point at the top, it was both rotating
+around the center of mass, while the center of
+mass was moving forward, so this took some complicated
+curved path through space. It might've looked like that. This distance here is not necessarily equal to the arc length, but the center of mass
+was not rotating around the center of mass, 'cause it's the center of mass. The center of mass here at this baseball was just going in a straight line and that's why we can say the center mass of the
+baseball's distance traveled was just equal to the amount of arc length this baseball rotated through. In other words it's equal to the length painted on the ground, so to speak, and so, why do we care? Why do we care that the distance the center of mass moves is equal to the arc length? Here's why we care, check this out. We can just divide both sides
+by the time that that took, and look at what we get,
+we get the distance, the center of mass moved,
+over the time that that took. That's just the speed
+of the center of mass, and we get that that equals the radius times delta theta over deltaT, but that's just the angular speed. So this shows that the
+speed of the center of mass, for something that's
+rotating without slipping, is equal to the radius of that object times the angular speed
+about the center of mass. So the speed of the center of mass is equal to r times the angular speed about that center of mass, and this is important. This you wanna commit to memory because when a problem
+says something's rotating or rolling without slipping, that's basically code
+for V equals r omega, where V is the center of mass speed and omega is the angular speed
+about that center of mass. Now, you might not be impressed. You might be like, "Wait a minute. "Didn't we already know this? "Didn't we already know
+that V equals r omega?" We did, but this is different. This V we showed down here is
+the V of the center of mass, the speed of the center of mass. This V up here was talking about the speed at some point on the object, a distance r away from the center, and it was relative to the center of mass. So, in other words, say we've got some
+baseball that's rotating, if we wanted to know, okay at some distance
+r away from the center, how fast is this point moving, V, compared to the angular speed? Well if this thing's rotating like this, that's gonna have some speed, V, but that's the speed, V,
+relative to the center of mass. What we found in this
+equation's different. This is the speed of the center of mass. This tells us how fast is
+that center of mass going, not just how fast is a point
+on the baseball moving, relative to the center of mass. This gives us a way to determine, what was the speed of the center of mass? And it turns out that is really useful and a whole bunch of problems that I'm gonna show you right now. Let's do some examples. Let's get rid of all this. So let's do this one right here. Let's say you took a
+cylinder, a solid cylinder of five kilograms that
+had a radius of two meters and you wind a bunch of string around it and then you tie the
+loose end to the ceiling and you let go and you let
+this cylinder unwind downward. As it rolls, it's gonna
+be moving downward. Let's say you drop it from
+a height of four meters, and you wanna know, how fast is this cylinder gonna be moving? How fast is this center
+of mass gonna be moving right before it hits the ground? That's what we wanna know. We're calling this a yo-yo, but it's not really a yo-yo. A yo-yo has a cavity inside and maybe the string is
+wound around a tiny axle that's only about that big. We're winding our string
+around the outside edge and that's gonna be important because this is basically a case of rolling without slipping. You might be like, "this thing's
+not even rolling at all", but it's still the same idea, just imagine this string is the ground. It's as if you have a wheel or a ball that's rolling on the ground and not slipping with
+respect to the ground, except this time the ground is the string. This cylinder is not slipping
+with respect to the string, so that's something we have to assume. We're gonna assume this yo-yo's unwinding, but the string is not sliding across the surface of the cylinder and that means we can use
+our previous derivation, that the speed of the center
+of mass of this cylinder, is gonna have to equal
+the radius of the cylinder times the angular speed of the cylinder, since the center of mass of this cylinder is gonna be moving down a
+distance equal to the arc length traced out by the outside
+edge of the cylinder, but this doesn't let
+us solve, 'cause look, I don't know the speed
+of the center of mass and I don't know the angular velocity, so we need another equation,
+another idea in here, and that idea is gonna be
+conservation of energy. This problem's crying out to be solved with conservation of
+energy, so let's do it. So we're gonna put
+everything in our system. We're gonna say energy's conserved. Starts off at a height of four meters. That means it starts off
+with potential energy. So I'm gonna say that
+this starts off with mgh, and what does that turn into? Well this cylinder, when
+it gets down to the ground, no longer has potential energy, as long as we're considering
+the lowest most point, as h equals zero, but it will be moving, so it's gonna have kinetic energy and it won't just have
+translational kinetic energy. So, it will have
+translational kinetic energy, 'cause the center of mass of this cylinder is going to be moving. The center of mass of the
+cylinder is gonna have a speed, but it's also gonna have
+rotational kinetic energy because the cylinder's gonna be rotating about the center of mass, at the same time that the center
+of mass is moving downward, so we have to add 1/2, I omega, squared and it still seems like we can't solve, 'cause look, we don't know
+V and we don't know omega, but this is the key. This is why you needed
+to know this formula and we spent like five or
+six minutes deriving it. This is the link between V and omega. So, we can put this whole formula here, in terms of one variable, by substituting in for
+either V or for omega. Now, I'm gonna substitute in for omega, because we wanna solve for V. So, I'm just gonna say that omega, you could flip this equation around and just say that, "Omega equals the speed "of the center of mass
+divided by the radius." So I'm gonna use it that way, I'm gonna plug in, I just
+solve this for omega, I'm gonna plug that in
+for omega over here. Let's just see what happens when you get V of the center of mass, divided by the radius, and you can't forget to square it, so we square that. So after we square this out, we're gonna get the same thing over again, so I'm just gonna copy
+that, paste it again, but this whole term's gonna be squared. So I'm gonna have a V of
+the center of mass, squared, over radius, squared, and so, now it's looking much better. We just have one variable
+in here that we don't know, V of the center of mass. This I might be freaking you out, this is the moment of inertia,
+what do we do with that? With a moment of inertia of a cylinder, you often just have to look these up. The moment of inertia of a cylinder turns out to be 1/2 m,
+the mass of the cylinder, times the radius of the cylinder squared. So we can take this, plug that in for I, and what are we gonna get? If I just copy this, paste that again. If we substitute in for our I, our moment of inertia, and I'm gonna scoot this
+over just a little bit, our moment of inertia was 1/2 mr squared. So I'm gonna have 1/2, and this
+is in addition to this 1/2, so this 1/2 was already here. There's another 1/2, from
+the moment of inertia term, 1/2mr squared, but this r is the same as that r, so look it, I've got a, I've got a r squared and
+a one over r squared, these end up canceling,
+and this is really strange, it doesn't matter what the
+radius of the cylinder was, and here's something else that's weird, not only does the radius cancel, all these terms have mass in it. So no matter what the
+mass of the cylinder was, they will all get to the ground with the same center of mass speed. In other words, all
+yo-yo's of the same shape are gonna tie when they get to the ground as long as all else is equal when we're ignoring air resistance. No matter how big the yo-yo, or have massive or what the radius is, they should all tie at the
+ground with the same speed, which is kinda weird. So now, finally we can solve
+for the center of mass. We've got this right hand side. The left hand side is just gh, that's gonna equal, so we end up with 1/2, V of the center of mass squared, plus 1/4, V of the center of mass squared. That's just equal to 3/4 speed of the center of mass squared. If you take a half plus
+a fourth, you get 3/4. So if I solve this for the
+speed of the center of mass, I'm gonna get, if I multiply
+gh by four over three, and we take a square root, we're gonna get the
+square root of 4gh over 3, and so now, I can just plug in numbers. If I wanted to, I could just
+say that this is gonna equal the square root of four times 9.8 meters per second squared, times four meters, that's
+where we started from, that was our height, divided by three, is gonna give us a speed of
+the center of mass of 7.23 meters per second. Now, here's something to keep in mind, other problems might
+look different from this, but the way you solve
+them might be identical. For instance, we could
+just take this whole solution here, I'm gonna copy that. Let's try a new problem,
+it's gonna be easy. It's not gonna take long. Let's say we take the same cylinder and we release it from rest at the top of an incline that's four meters tall and we let it roll without slipping to the
+bottom of the incline, and again, we ask the question, "How fast is the center
+of mass of this cylinder "gonna be going when it reaches
+the bottom of the incline?" Well, it's the same problem. It looks different from the other problem, but conceptually and mathematically, it's the same calculation. This thing started off
+with potential energy, mgh, and it turned into
+conservation of energy says that that had to turn into
+rotational kinetic energy and translational kinetic energy. Again, if it's a cylinder, the moment of inertia's 1/2mr squared, and if it's rolling without slipping, again, we can replace omega with V over r, since that relationship holds for something that's
+rotating without slipping, the m's cancel as well, and we get the same calculation. This cylinder again is gonna be going 7.23 meters per second. The center of mass is gonna
+be traveling that fast when it rolls down a ramp
+that was four meters tall. So recapping, even though the
+speed of the center of mass of an object, is not
+necessarily proportional to the angular velocity of that object, if the object is rotating
+or rolling without slipping, this relationship is true and it allows you to turn equations that would've had two unknowns in them, into equations that have only one unknown, which then, let's you solve for the speed of the center
+of mass of the object.

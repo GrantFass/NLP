@@ -1,0 +1,135 @@
+Let's now tackle a
+classic thought experiment in probability, called
+the Monte Hall problem. And it's called the
+Monty Hall problem because Monty Hall was the game
+show host in Let's Make a Deal, where they would set up
+a situation very similar to the Monte Hall problem
+that we're about to say. So let's say that
+on the show, you're presented with three curtains. So you're the contestant, this
+little chef-looking character right over there. You're presented with
+three curtains-- curtain number one, curtain number
+two, and curtain number three. And you're told that behind
+one of these three curtains, there's a fabulous prize,
+something that you really want, a car, or a vacation, or some
+type of large amount of cash. And then behind the
+other two, and we don't know which they
+are, there is something that you do not want. A new pet goat or an
+ostrich or something like that, or a
+beach ball, something that is not as good
+as the cash prize. And so your goal is to try
+to find the cash prize. And they say guess
+which one, or which one would you like to select? And so let's say that you
+select door number one, or curtain number one. Then the Monte
+Hall and Let's Make a Deal crew will make it a
+little bit more interesting. They want to show you
+whether or not you won. They'll then show you one
+of the other two doors, or one of the
+other two curtains. And they'll show you one
+of the other two curtains that does not have the prize. And no matter
+which one you pick, there'll always be at
+least one other curtain that does not have the prize. There might be two,
+if you picked right. But there will always be
+at least one other curtain that does not have the prize. And then they will
+show it to you. And so let's say that they
+show you curtain number three. And so curtain number
+three has the goat. And then they'll
+ask you, do you want to switch to curtain number two? And the question here is,
+does it make a difference? Are you better off holding
+fast, sticking to your guns, staying with the original guess? Are you better off switching
+to whatever curtain is left? Or does it not matter? It's just random
+probability, and it's not going to make a difference
+whether you switch or not. So that is the brain teaser. Pause the video now. I encourage you
+to think about it. In the next video, we will
+start to analyze the solution a little bit deeper, whether
+it makes any difference at all. So now I've assumed
+that you've unpaused it. You've thought deeply about it. Perhaps you have
+an opinion on it. Now let's work it
+through a little bit. And at any point,
+I encourage you to pause it and kind of
+extrapolate beyond what I've already talked about. So let's think
+about the game show from the show's point of view. So the show knows
+where there's the goat and where there isn't the goat. So let's door number
+one, door number two, and door number three. So let's say that our
+prize is right over here. So our prize is the car. Our prize is the car, and
+that we have a goat over here, and over here we
+also have-- maybe we have two goats in
+this situation. So what are we going
+to do as the game show? Remember, the contestants
+don't know this. We know this. So the contestant picks door
+number one right over here. Then we can't lift
+door number two because there's
+a car back there. We're going to lift
+door number three, and we're going to
+expose this goat. In which case, it
+probably would be good for the person to switch. If the person picks door number
+two, then we as the game show can show either door number
+one or door number three, and then it actually
+does not make sense for the person to switch. If they picked
+door number three, then we have to
+show door number one because we can't
+pick door number two. And in that case, it
+actually makes a lot of sense for the
+person to switch. Now, with that out of
+the way, let's think about the probabilities
+given the two strategies. So if you don't
+switch, or another way to think about this strategy is
+you always stick to your guns. You always stick to
+your first guess. Well, in that situation, what
+is your probability of winning? Well, there's three doors. The prize is equally likely
+to be behind any one of them. So there's three possibilities. One has the outcome
+that you desire. The probability of winning will
+be 1/3 if you don't switch. Likewise, your
+probability of losing, well, there's two ways
+that you can lose out of three possibilities. It's going to be 2/3. And these are the
+only possibilities, and these add up to
+one right over here. So don't switch, 1/3
+chance of winning. Now let's think about
+the switching situation. So let's say always--
+when you always switch. Let's think about how
+this might play out. What is your
+probability of winning? And before we even
+think about that, think about how you would
+win if you always switch. So if you pick wrong
+the first time, they're going to show you this. And so you should always switch. So if you pick door
+number one, they're going to show you
+door number three. You should switch. If you picked wrong
+door number three, they're going to show
+you door number one. You should switch. So if you picked wrong and
+switch, you will always win. Let me write this down. And this insight actually came
+from one of the middle school students in the summer camp
+that Khan Academy was running. It's actually a fabulous
+way to think about this. So if you pick
+wrong, so step one, so initial pick is wrong,
+so you pick one of the two wrong doors, and then step
+two, you always switch, you will land on the car. Because if you picked
+one of the wrong doors, they're going to have to
+show the other wrong door. And so if you
+switch, you're going to end up on the right answer. So what is the probability of
+winning if you always switch? Well, it's going to be the
+probability that you initially picked wrong. Well, what's the probability
+that you initially picked wrong? Well, there's two
+out of the three ways to initially pick wrong. So you actually have a
+2/3 chance of winning. There's a 2/3 chance you're
+going to pick wrong and then switch into the right one. Likewise, what's
+your probability of losing, given that you're
+always going to switch? Well, the way that you would
+lose is you pick right, you picked correctly. In step two, they're
+going to show one of the two empty
+or non-prize doors. And then step
+three, you're going to switch into the
+other empty door. But either way, you're
+definitely going to switch. So the only way to lose, if
+you're always going to switch, is to pick the right
+the first time. Well, what's the
+probability of you picking right the first time? Well, that is only 1/3. So you see here, it's
+sometimes counter-intuitive, but hopefully this makes
+sense as to why it isn't. You have a 1/3 chance of winning
+if you stick to your guns, and a 2/3 chance of winning
+if you always switch. Another way to
+think about it is, when you first make
+your initial pick, there's a 1/3 chance
+that it's there, and there's a 2/3
+chance that it's in one of the other two doors. And they're going to
+empty out one of them. So when you switch,
+you essentially are capturing that
+2/3 probability. And we see that right there. So hopefully you enjoyed that.

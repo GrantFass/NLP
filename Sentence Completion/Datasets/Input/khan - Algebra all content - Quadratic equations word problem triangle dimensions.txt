@@ -1,0 +1,119 @@
+The height of a triangle
+is four inches less than the length of the base. The area of the triangle
+is 30 inches squared. Find the height and base. Use the formula area
+equals one half base times height for the
+area of a triangle. OK. So let's think about
+it a little bit. We have the-- let me
+draw a triangle here. So this is our triangle. And let's say that the
+length of this bottom side, that's the base,
+let's call that b. And then this is the height. This is the height
+right over here. And then the area is equal to
+one half base times height. Now in this first
+sentence they tell us at the height
+of a triangle is four inch is less than
+the length of the base. So the height is equal
+to the base minus 4. That's what that first
+sentence tells us. The area of the triangle
+is 30 inches squared. So if we take one half
+the base times the height we'll get 30 inches squared. Or we could say that
+30 inches squared is equal to one half times
+the base, times the height. Now instead of putting
+an h in for height, we know that the height
+is the same thing as 4 less than the base. So let's put that in there. 4 less than the base. And then let's see
+what we get here. We get-- let me
+do this in yellow. We get 30 is equal to
+one half times-- let's distribute the b-- times
+b, let me make it clear. So let's do it this way. Times b over 2,
+times b, minus 4. I just multiplied the
+one half times the b. Now let's distribute
+the b over 2. So 30 is equal to b
+squared over 2, be careful. b over 2 times b is
+just b squared over 2. And then b over 2, times
+negative 4 is negative 2b. Now just to get rid
+of this fraction here let's multiply both
+sides of this equation by 2. So let's multiply
+that side by 2. And let's multiply
+that side by 2. On the left hand
+side you get 60. On the right hand side
+2 times b squared over 2 is just b squared. Negative 2b times
+2 is negative 4b. And now we have
+a quadratic here. And the best way to
+solve a quadratic-- we have a second degree
+term right here-- is to get all of the terms
+on one side of the equation, having them equal 0. So let's subtract 60 from
+both sides of this equation. And we get 0 equal to b
+squared, minus 4b, minus 60. And so what we need
+to do here is just factor this thing right
+now, or factor it. And then, no-- if I have
+the product of some things, and that equals 0, that
+means that either one or both of those things need
+to be equal to 0. So we need to factor b
+squared, minus 4b, minus 60. So what we want to do, we
+want to find two numbers whose sum is negative 4 and
+whose product is negative 60. Now, given that the
+product is negative, we know there are
+different signs. And this tells us that
+their absolute values are going to be four apart. That one is going to be
+four less than the others. So you could look at the
+products of the factors of 60. 1 and 60 are too far apart. Even if you made
+one of the negative, you would either get positive
+59 as the sum or negative 59 as the sum. 2 and 30, still too far apart. 3 and 20, still too far apart. If you had made
+one negative you'd either get negative
+17 or positive 17. Then you could have 4 and
+15, still too far apart. If you made one
+of them negative, their sum would be either
+negative 11 or positive 11. Then you have 5 and a 12,
+still seems too far apart from each other. One of them is negative,
+then you either have their sum being
+positive 7 or negative 7. Then you have 6 and 10. Now this looks interesting. They are four apart. So if we make-- and we want
+the larger absolute magnitude number to be negative so
+that their sum is negative. So if we make it
+6 and negative 10 their sum will be negative
+4, and their product is negative 60. So that works. So you could literally
+say that this is equal to b plus 6, times
+b, minus 10. b plus the a, plus b minus the b. And let me be very careful here. This b over here, I want
+to make it very clear, is different than the b that
+we're using in the equation. I just used this b
+here to say, look, we're looking for two numbers
+that add up to this second term right over here. It's a different b. I could have said x plus
+y is equal to negative 4, and x times y is
+equal to negative 60. In fact, let me do it that way
+just so we don't get confused. So we could write x plus
+y is equal to negative 4. And then we have x times
+y is equal to negative 60. So we have b plus 6,
+times b plus y. x is 6, y is negative 10. And that is equal to 0. Let's just solve
+this right here. And then we'll go
+back and show you. You could also factor
+this by grouping. But just from this, we know
+that either one of these is equal to zero. Either b plus 6 is equal to 0,
+or b minus 10 is equal to 0. If we subtract 6 from both
+sides of this equation, we get b is equal to negative 6. Or if you add 10 to both
+sides of this equation, you get b is equal to 10. And those are our two solutions. You could put them
+back in and verify that they satisfy
+our constraints. Now the other way that
+you could solve this, and we're going to
+get exact same answer. Is you could just break
+up this negative 4b into its constituents. So you could have broken this
+up into 0 is equal to b squared. And then you could have broken
+it up into plus 6b, minus 10b, minus 60. And then factor it by grouping. Group these first two terms. Group these second two terms. Just going to add them together. The first one you
+could factor out a b. So you have b times b, plus 6. The second one you can
+factor out a negative 10. So minus 10 times b, plus 6. All that's equal to 0. And now you can
+factor out a b plus 6. So if you factor
+out a b plus 6 here, you get 0 is equal to b
+minus 10, times b, plus 6. We're literally just factoring
+out this out of the expression. You're just left
+with a b minus 10. You get the same thing that
+we did in one step over here. Whatever works for you. But either way,
+the solutions are either b is equal to negative
+6, or b is equal to 10. And we have to be careful here. Remember, this is
+a word problem. We can't just state, oh b could
+be negative 6 or b could be 10. We have to think about
+whether this makes sense in the context of
+the actual problem. We're talking about
+lengths of triangles, or lengths of the
+sides of triangles. We can't have a negative length. So because of that,
+the base of a triangle can't have length of negative 6. So we can cross that out. So we actually only
+have one solution here. Almost made a careless mistake. Forgot that we were dealing
+with the word problem. The only possible base is 10. And let's see, they say find
+the height and the base. Once again, done. So the base we're saying is 10. The height is four inches less. It's b minus 4. So the height is 6. And then you can verify. The area is 6 times 10
+times one half, which is 30.

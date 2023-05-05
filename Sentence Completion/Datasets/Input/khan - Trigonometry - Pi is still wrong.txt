@@ -1,0 +1,98 @@
+Let's say you're me, and
+you're in math class. And you're supposed to
+be learning trigonometry, but you're having
+trouble paying attention because it's boring and stupid. This is not your fault. It's not even your
+teacher's fault. It's pi's fault,
+because pi is wrong. I don't mean that
+pi is incorrect. The ratio of a circle's
+diameter to its circumference is still 3.14 and so on. I mean that pi, as a concept,
+is a terrible mistake that has gone uncorrected
+for thousands of years. The problem of pi and
+Pi Day is the same as the problem with
+Columbus and Columbus Day. Sure, Christopher Columbus was a
+real person who did some stuff. But everything you learn
+about him in school is warped and overemphasized. He didn't discover America. He didn't discover
+the world was round. And he was a bit of a jerk. So why do we celebrate
+Columbus Day? Same with pi. You learned in school that pi
+is the all-important circle constant, and had to memorize
+a whole bunch of equations involving it because
+that's the way it's been taught for
+a very long time. If you found any of these
+equations confusing, it's not your fault. It's just that pi is wrong. Let me show you what I mean. Radians. Good system for measuring angles
+when it comes to mathematics. It should make sense. But it doesn't, because
+pi messes it up. For example, how
+much pie is this? You might think this
+should be one pie. But it's not. The full 360 degrees
+of pi is actually 2 pi. What? Say I ask you how much pie you
+want, and you say pi over 8. You'd think this should
+be an eighth of a pie. But it's not. It's a sixteenth of a pie. That's confusing. You may thinking, come on, Vi! It's a simple conversion. All you have to
+do is divide by 2. Or multiply by 2, if
+you're going the other way. So you just have to make sure
+you pay attention to which way you're-- No. You're making excuses for pi. Mathematics should be as elegant
+and beautiful as possible. When you complicate
+something that should be as simple as one pi
+equals one pi by adding all these conversions, something
+gets lost in translation. But Vi, you ask. Is there a better way? Well, for this
+particular example, there's an easy
+answer for what you'd have to do to make a pie
+be 1 pi instead of 2 pi. You could redefine pi
+to be 2 pi or 6.28. And so on. But I don't want to
+redefine pi because that would be confusing. So let's use a different letter. Tau. Because tau looks
+kind of like pi. A full circle would be 1 tau. A half circle would be
+half tau, or tau over 2. And if you want 1/16 of this
+pie, you want tau over 16. That would be simple. But Vi, you say, that
+seems rather arbitrary. Sure, tau makes
+radians easier, but it would be annoying to have to
+convert between tau and pi every time you want
+to work in radians. True. But the way of mathematics
+is to make stuff up and see what happens. So let's see what happens if
+we use tau in other equations. Math classes make you
+memorize stuff like this, so that you can draw
+graphs like this. I mean, sure you could derive
+these values every time. But you don't, because it's
+easier to just memorize it. Or use your calculator, because
+pi and radians are confusing. This appalling notation
+makes us forget what the sine wave
+actually represents, which is how high this point
+is when you've gone however far around this unit circle. When your radians are
+notated horrifically, all of trigonometry
+becomes ugly. But it doesn't have
+to be this way. What if we used tau? Let's make a sine wave
+starting with tau at 0. The height of sine
+tau is also 0. At tau over 4, we've
+gone a quarter of the way around the circle. The height, or y
+value of this point, is so obviously 1
+when you don't have to do the extra step of the
+in-your-head conversion of pi over 2 is actually a
+quarter of a circle. Tau over 2, half a
+circle around, back at 0. 3/4 tau, 3/4 of the
+way around, negative 1. A full turn brings us all
+the way back to 0 and bam. That just makes sense. Why? Because we don't make
+circles using a diameter. We make circles using a radius. The length of the radius
+is the fundamental thing that determines the
+circumference of a circle. So why would we
+define this circle constant as a ratio of the
+diameter to the circumference? Defining it by the ratio of
+the radius to the circumference makes much more sense. And that's how you
+get our lovely tau. There's a boatload of important
+equations and identities where 2 pi shows up,
+which could and should be simplified to tau. But Vi, you say, what
+about e to the i pi? Are you really suggesting
+we ruin it by making it e to the i tau over 2
+equals negative 1? To which I respond,
+who do you think I am? I would never suggest
+doing something so ghastly is killing Euler's identity. Which, by the way, comes
+from Euler's formula, which is e to the i theta equals
+cosine theta plus i sine theta. Let replace theta with tau. It's easy to remember
+that the sine, or y value, of a full tau turn of
+a unit circle is 0. So this is all 0. Cosine of a full turn is
+the x value, which is 1. So check this out. E to the i tau equals 1. What now? If you're still
+not convinced, I'd recommend reading The Tau
+Manifesto by Michael Hartl, who does a pretty thorough
+job addressing every possible
+complaint at tauday.com. If you still want to
+celebrate Pi Day, that's fine. You can have your
+pie and eat it. But I hope you'll all
+join me on June 28, because I'll be making
+tau and eating two. I've got pie here, and
+I've got pie there. I'm pie winning.

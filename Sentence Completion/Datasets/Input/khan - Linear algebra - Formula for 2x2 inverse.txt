@@ -1,0 +1,248 @@
+I've got a 2 by 2 matrix here. Let's say A is equal
+to a, b, c, d. So I'm going to keep
+it really general. So this is really any
+2 by 2 matrix. What I want to do is use our
+technique for finding an inverse of this matrix to
+essentially find a formula for the inverse of a
+2 by 2 matrix. So I want to essentially find a
+inverse, and I want to do it just using a formula that it
+just applies to this matrix right here. So how can I do that? Well, we know a technique. We just create an augmented
+matrix. So let's just create an
+augmented matrix right here. So we have a, b, c, d, and then
+we augment it with the identity in R2, so 1, 0, 0, 1. And we know if we perform a
+series of row operations on this augmented matrix to get the
+left-hand side in reduced row echelon form. The right-hand side, if the
+reduced row echelon form here gets to the identity, then the
+right-hand side is going to be the inverse. So let's do it in this general
+case, not dealing with particular numbers here. So the first thing I want to do,
+or I would like to do, is I would like to zero
+this guy out. What we want to do is we want
+to zero that out, zero that out, and then these two terms
+have to become equal to 1. So the best way to zero this
+out, let's perform a little transformation here. So if I perform the
+transformation on the columns, C1, so those are the entries
+of a column-- this would be one column right here, that
+would be another column right there, that's the third column, that's the fourth column. But the transformation I'm going
+to perform on each of these columns, and we know this
+is equivalent to a row operation, is going to be equal
+to-- since I want to zero this one out, I'm going to
+keep my first row the same, so it's going to be C1, and I'm
+going to replace my second row with a times my second row
+minus c times my first row. Now why am I doing that? Because a times c minus c times
+a is going to be 0. So this guy's going to be 0. That's the row operation
+I'm going to perform. And I'm doing this so we can
+kind of keep track, account for what we're doing because
+the algebra's going to get hairy in a little bit. So let me perform
+this operation. So if I perform that operation
+on our matrix, what do we have. So our first row's going
+to be the same. Let me start with our second
+row because that's a little bit more complicated. So I'm going to replace c with
+a times c minus c times a. That's ac-- so let me put it
+this way-- so that's going to be 0 right there. I'm going to replace d with d
+times a or a times d minus c times C1 in this
+column vector. So minus c times b. Let me write this as bc. And then let me augment it. And then this guy's going to be
+a times 0, because he's C2 minus c times C1. So it's going to be minus c. And then finally, this guy right
+here is going to be a times 1-- a times this 1 right
+here-- minus c times 0. So that's just going
+to be an a. And then the first row is
+pretty straightforward. We know that the first row or
+the first entries in our column vectors just stay
+the same through this transformation. So it's a, b, 1, 0. And just to make sure you're
+clear what we're doing, when you perform this transformation
+on this column vector right here, you
+got this column vector right there. When you perform the
+transformation on this column vector right there, you
+get this column vector right there. Now I just want to make that
+clear because I did all of the second entries of all of the
+column vectors at once because we all were essentially
+performing the same row operation, so that just helped
+me simplify at least my thinking a little bit. Let me stay in this mode. So let's continue to get this
+in reduced row echelon form. The next thing we want to do
+is, let's make another transformation, we'll
+call this T1. That was our first
+transformation. Let's do another
+transformation. T2, or another set of
+row operations. So if I start with the column
+vector C1, C2, what I want to do now is I want to keep my
+second row the same and I want to zero out this character
+right here. I want to zero him out. I know I'm going to keep my
+second row the same, so C2 is just going to still be C2. But in order to zero this out,
+what I can do is I can replace the first row with this scaling
+factor times the first row minus this scaling factor
+times the second row. So it'll be ad minus bc times
+your first entry in your column vector minus b times
+your second entry. And the whole reason why I'm
+doing that is so that this guy zeroes out. So if we apply that to this
+matrix up here-- let's do the first row first. So this first entry right here
+is going to be ad minus bc times a, because that's C1--
+let me write that down. So it's ad minus bc times a
+minus b times C2 minus 0. So it's just going to be--
+that second term just becomes 0. Fair enough. Now what is this guy
+going to be? He's going to be-- I'll
+write it out. He's going to be ad minus bc
+times b minus b times your C2 in this column vector, minus
+b times ad minus bc. And you can see immediately that
+these two guys are going to cancel out and you're
+going to get a 0 there. And then we've got
+to augment it. I want to make sure I don't run
+out of space, I should've started to the left
+a little bit more. So what's this guy
+going to be? Well I'm going to have this guy
+times ad minus bc-- I'll do it in pink-- so you're going
+to have ad minus bc times 1, which is just ad minus
+bc minus b times C2, so minus b times minus c. So that's plus bc. So 1 times ad minus bc
+minus b times minus c is equal to that. And you can immediately see
+that these two guys will cancel out. You're just [INAUDIBLE] ad. And then this guy over here,
+you're going to have 0 times ad minus bc, which is just
+a 0, minus b times a. So you have minus ab-- just
+squeeze it in there. And we know that our second
+row just stays the same. Our second row just stays the
+same in this transformation. So we had a 0 here, we're
+still going to have a 0. We had an ad minus bc. We'll still have
+an ad minus bc. We had a minus c. Then we had an a. Just like that. Now let me re-write this matrix
+just so it gets cleaned up a little bit. So let me re-write
+it right here. I'll do it in my orange--
+well, let me do it in this yellow. So I have ad minus bc times a. And then this term right
+here just became a 0. This term right here is a 0. This term right here
+is an ad minus bc. And then our augmented part,
+this part was just an ad. This was a minus ab. This is a minus c. And then this is an a. Now we're almost at reduced row
+echelon form right here. These two things just have to be
+equal to 1 in order to get reduced row echelon form. So let's define a transformation
+that'll make both of these equal to 1. So if this was T2 let me define
+my transformation T3. You give it a column
+vector, C1, C2. And it's just going to scale
+each of the column vectors. So what I want to do is I want
+to divide my first entries by this scaling factor right here
+so that this becomes a 1. So I'm essentially going to
+multiply 1 over ad minus bc times a, so 1 over ad, bc, a
+times my first entry in each of my column vectors. And then my second one I
+want to divide by this. So that this guy becomes a 1. So I'm doing two scalar
+divisions in one transformation. So this one's going to be 1
+over ad minus bc times C2. So I'm just scaling everything
+by these two scaling factors. So if you apply this
+transformation to that right there, what do we get? We get a matrix. And this guy, I'm going to
+divide him by ad minus bc times a, so I'm dividing
+it by itself, so that guy's going to be 1. I'm going to divide 0 by
+this, but 0 divided by anything is just 0. Then we're in an
+augmented part. ad divided by-- so let me
+write it like this. So ad-- I'm going to divide by
+this-- so it's going to be ad minus bc times a-- you
+immediately see that the a's cancel out. This is going to be minus
+ab divided by ad minus bc times a. Once again, the a's
+cancel out. And then in my second row are my
+second entries in my column vectors, 0 divided
+by anything is 0. So 0 divided by this thing is
+going to be 0, assuming we can divide by that, and we're
+going to talk about that in a second. This guy divided by this guy,
+we're just dividing by himself, so it's going
+to be equal to 1. Now we have minus c divided
+by this, or ad minus bc. And then we have an a. a divided by ad, ad minus bc. And we're done. We put the left-hand side of
+our augmented matrix into reduced row echelon form. And now this is going
+to be our inverse. So let me clean it
+up a little bit. So, so far we started off with
+a matrix-- I'll do it in purple-- we started off
+with a matrix a is equal to a, b, c, d. And now just using our technique
+we figured out that a inverse is equal to this
+thing right here. And just to simplify-- well let
+me just write it the way I have it there, because I don't
+want to skip any steps-- this is equal to d over
+ad minus bc. Right, this guy and that
+guy canceled out. And then we have a minus b over
+ad minus bc because that guy and that guy canceled out. Then you have a minus
+c over ad minus bc. And then finally you have
+an a over ad minus bc, which is our inverse. But one thing might just pop out
+at you immediately is that everything in our inverse is
+being divided by this. So maybe an easier way
+to write our inverse. We could also write our
+inverse like this. We could just write it as 1
+over ad minus bc times the matrix d minus b
+minus c and a. And just like that we have come
+up with a formula for the inverse of a 2 by 2 matrix. You give me any real numbers
+here and I'm going to give you its inverse. That straightforward. Now one thing you might be
+saying, hey, but not all 2 by 2 matrices are invertible. How can this be the case
+for all of them. And I'll give you a question,
+when will this thing right here not be defined? When is this thing
+not defined? Every operation I did, I can do
+with any real numbers, and this applies to any
+real numbers. But when is this thing
+not defined? Well it's not defined
+when I divide by 0. And when would I divide by 0? Everything else you can multiply
+and subtract and add a zero to anything, but you
+just can't divide by 0. We've never defined what it
+means when you divide something by 0. So it's not defined if ad
+minus bc is equal to 0. So this is an interesting
+thing. I can always find the inverse of
+a 2 by 2 matrix as long as ad minus bc is not equal to 0. We came up with all of these
+fancy things for invertability, you've got to
+put it into reduced row echelon form, and before
+that we talked being on 2 and 1 to 1. For at least a 2 by
+2 matrix we've really simplified things. As long as ad minus bc does not
+equal 0, we can use this formula and then we know that
+a-- and it goes both ways-- a is invertible. And not only is it invertible,
+but we can just apply this formula to it. So immediately something
+interesting might-- you might say hey, this is an interesting
+number. We should come up with
+some name for it. And lucky for us, we have come
+up with a name for it. This is called the
+determinant. Let me write it in pink. Determinant. So the determinant of a, and
+it's also written like this with these little straight lines
+around a, and you could also write it like
+this, a, b, c, d. But most people kind of think
+this is redundant to have brackets and these lines. So then they just write it like
+this, this is equal to just, they just write the
+lines, a, b, c, d. I want to make this
+very clear. If you have the brackets you're
+dealing with a matrix. If you have just these straight
+lines you're talking about the determinant
+of the matrix. But this is defined for
+the 2 by 2 case to be equal to ad minus bc. This is a definition
+of the determinant. So we can re-write, if we have
+some matrix here, we have some matrix a which is equal
+to a, b, c, d. We can now write its inverse,
+a inverse is equal to 1 over this thing, which we've defined
+as the determinant of a times-- and let's just
+see a good way of kind of memorizing this. We're swapping these two
+guys, right, the a and the d get swapped. So you get a d and an a. And then these two guys
+stay the same, they just become negative. So minus b and minus c. So that's the general
+formula for the determinant of a 2 by 2 matrix. Let's try to do a couple. Let's try to find the
+determinant of the matrix 1, 2, 3, 4. Easy enough. So the determinant of-- let's
+say this is the matrix B. So the determinant of B, or we
+could write it like that, that's equal to the
+determinant of B. That is just equal to-- that's
+this thing right here-- 1 times 4 minus 3 times 2, which
+is equal to 4 minus 6, which is equal to minus 2. So the determinant is minus
+2, so this is invertible. Not only is it invertible, but
+it's very easy to find its inverse now. We can apply this formula. The inverse of B in this case--
+let me do it in this color-- B inverse is equal to
+1 over the determinant, so it's 1 over minus 2 times the
+matrix where we swap-- well, this is the determinant of B. I want to be careful. B is the same thing,
+but with brackets. 1, 2, 3, 4. So B inverse is going to be 1
+over the determinant of B, which is equal to minus 2. So 1 over minus 2. We swap these two guys, so they
+get a 4 and a 1, and then these two guys become
+negative-- minus 2 and then minus 3. And then if we were to multiply
+this out it would be equal to minus 1/2 times
+4 is minus 2. Minus 1/2 times minus 2 is 1. Minus 1/2 times minus
+3 is 3/2, minus 1/2 times 1 is minus 1/2. So that there is the
+inverse of B. Now let's say we have
+another matrix. Let's say we have the
+matrix C, and C is equal to 1, 2, 3, 6. What is the determinant of C? It is equal to-- we could write
+this way-- 1, 2, 3, 6. And it is equal to 1 times 6
+minus 3 times 2, which is equal to 6 minus 6, which
+is equal to 0. And there you see it's equal to
+0, so you cannot find-- so this is not invertible. So we can't find its inverse
+because if we would try to apply this formula right here
+you'd have a 1 over 0. But we know this formula just
+comes out-- that attempt to put it into reduced row echelon
+form, and in that last step we just had to essentially
+divide everything by these terms. So these terms
+would be 0 in this matrix C that I just constructed
+for you. And the reason why I knew-- I
+just pulled this out of my brain-- I knew this wasn't going
+to be invertible because I constructed a situation where
+I have columns that are linear combinations
+of each other. I have 1, 3-- you multiply that
+by 2 you get 2 and 6. So I knew that these aren't
+linearly independent columns. So you know that its rank wasn't
+going to be equal to, so I knew it wasn't going to be
+invertible, but we see that here by just computing
+its determinant.

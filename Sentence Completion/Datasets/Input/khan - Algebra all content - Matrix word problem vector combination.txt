@@ -1,0 +1,176 @@
+In the last video we saw how a
+matrix and figuring out its inverse can be used to solve
+a system of equations. And we did a 2 by 2. And in the future, we'll
+do 3 by 3's. We won't do 4 by 4's because
+those take too long. But you'll see it applies to
+kind of an n by n matrix. And that is probably the
+application of matrices that you learn if you learn this in
+your Algebra 2 class, or your Algebra 1 class. And you often wonder,
+well why even do the whole matrix thing? Now I will show you another
+application of matrices that actually you're more likely to
+see in your linear algebra class when you take
+it in college. But the really neat thing here
+is, and I think this will really hit the point home, that
+the matrix representation is just one way of representing
+multiple types of problems. And what's really
+cool is that if different problems can be represented the
+same way, it kind of tells you that they're the
+same problem. And that's called an isomorphism
+in math. That if you can reduce one
+problem into another problem, then all the work you
+did with one of them applies to the other. But anyway, let's figure
+out a new way that matrices can be used. So I'm going to draw
+some vectors. Let's say I have the vector--
+Let's call this vector a. And I'm going to just write this
+is as a column vector. And all of this is
+just convention. These are just human
+invented things. I could have written
+this diagonally. I could have written
+this however. But if I say vector a
+is 3, negative 6. And I view this as the x
+component of the vector, and this is equal to the y component
+of the vector. And then I have vector b. Vector b is equal to 2, 6. And I want to know are there
+some combinations of vectors a and b-- where you can say, 5
+times vector a, plus 3 times vector b, or 10 times victor a
+minus 6 times vector b-- some combination of vector a and b,
+where I can get vector c. And vector c is the
+vector 7, 6. So let me see if I can visually
+draw this problem. So let me draw the
+coordinate axes. Let's see this one. 3, negative 6. That'll be in quadrant--
+these are both in the first quadrant. So I just want to figure
+out how much of the axes I need to draw. So let's see-- Let me do
+a different color. That's my y-axis. I'm not drawing the second or
+third quadrants, because I don't think our vectors
+show up there. And then this is the x-axis. Let me draw each of
+these vectors. So first I'll do vector a. That's 3, negative 6. 1, 2, 3, and then negative 6. 1, 2, 3, 4, 5, 6. So it's there. So if I wanted to draw it
+as a vector, usually start at the origin. And it doesn't have to start
+at the origin like that. I'm just choosing to. You can move around a vector. It just has to have the
+same orientation and the same magnitude. So that is vector
+a for the green. Now let me do in magenta,
+I'll do vector b. That is 2, 6. 1, 2, 3, 4, 5, 6. So 2, 6 is right over there. And that's vector b. So it'll look like this. That's vector b. And then let me write down
+vector a down there. That's vector a. And I want to take some
+combination of vectors a and b. And add them up and
+get vector c. So what does vector
+c look like? It's 7, 6. Let me do that in purple. So 1, 2, 3, 4, 5, 6, 7. Comma 6. So 7, 6 is right over there. That's vector c. Vector c looks like that. I'm going to draw
+it like that. And that's vector c. So what was the original
+problem I said? I said I want to add some
+multiple of vector a to some multiple of vector b,
+and get vector c. And I want to see what
+those multiples are. So let's say the multiple
+that I multiply times vector a is x. And the multiple of
+vector b is y. So I essentially want to say
+that-- let me do it in another neutral color-- that vector ax--
+that's how much of vector a I'm contributing-- plus vector
+by-- that's how much of vector b I'm contributing--
+is equal to vector c. And you know, maybe I can't. Maybe there's no combinations of
+vector a and b when you add them together equal vector c. But let's see if we
+can solve this. So how do we solve? So let's expand out
+vectors a and b. Vector a is what? 3, negative 6. So vector a, we could write
+as 3, minus 6 times x. That just tells us how much
+vector a we're contributing. Plus vector b, which is 2, 6. And then y is how much vector
+b we're contributing. And that is equal to 7, 6. Vector c. Now this right here, this
+problem can be rewritten just based on how we've defined
+matrix multiplication, et cetera, et cetera, as this. As 3, minus 6, 2, 6, times
+x, y, is equal to 7, 6. Now how does that work out? Well think about how matrix
+multiplication works out. The way we learned matrix
+multiplication, we said, 3 times x, plus 2 times
+y is equal to 7. 3 times x plus 2 times
+y is equal to 7. That's how we learned matrix
+multiplication. That's the same thing here. 3 times x, plus 2 times y, is
+going to be equal to 7. These x and y here are
+just scalar numbers. So 3 times x plus 2 times
+y is equal to 7. And then matrix multiplication
+here, minus 6 times x plus 6 times y is equal to 6. That's just traditional matrix
+multiplication that we learned several videos ago. That's the same thing here. Minus 6x plus 6y
+is equal to 6. These x's and y's are
+just numbers. They're just scalar numbers. They're not vectors
+or anything. We would just multiply them
+times both of these numbers. So hopefully you see that this
+problem is the exact same thing as this problem. And you've maybe had an a-ha
+moment now, if you watched the previous video. Because this matrix also
+represented the problem, where do we find the intersection
+of two lines? Where the two lines-- I'm just
+going to do it on the side here-- the intersection of
+the two lines, 3x plus 2y is equal to 7. And minus 6x plus 6y
+is equal to 6. And so, I had drawn two lines. And we said, what's the
+point of intersection, et cetera, et cetera. And it was represented
+by this problem. But here, we have-- well I
+won't say a completely different problem, because
+we're learning they're actually very similar-- but here
+I'm doing a problem of, I'm trying to find what
+combination of the matrices a and b add up to the matrix c. But it got reduced to the same
+matrix representation. And so we can solve this the
+same exactly way we solved this problem. If we call this the matrix a,
+let's figure out a inverse. So we get a inverse
+is equal to what? It equals 1 over the
+determinant of a. The determinant of
+a is 3 times 6. 18 minus minus 12. So that's 18 plus 12,
+which is 1/30. And we did this in the
+previous video. You swap these two numbers. So you get 6 and 3. And then you make these
+two negatives. So you get 6 and minus 2. That's a inverse. And now to solve for x and y, we
+can multiply both sides of this equation by a inverse. If you multiply a inverse times
+a, this cancels out. So you get x, y is equal to
+a inverse times this. It's equal to 1/30 times
+6, minus 2, 6, 3. Times 7, 6. And remember, with matrices,
+the order that you multiply matters. So on this side, we multiplied
+a inverse on this side of the equation. So we have to do a inverse on
+the left side on this side of this equation. So that's why did it here. If we did it the other way,
+all bets are off. So what does this equal? This is equal to 1/30 times--
+and we did this the previous problem-- 6 times 7
+is 42, minus 12. 30. 6 times 7, 42. Plus 18. 60. So that equals 1, 2. So what does this tell us? This tells us that if we have
+1 times vector a, plus 2 times vector b. 1 times-- this is 1-- and
+2 times vector b. So 1 times vector a plus
+2 times vector b is equal to vector c. And let's confirm
+that visually. So 1 times vector a. Well that's vector
+a right there. So if we add 2 vector b's to
+it, we should get vector c. So let's see if we
+can do that. So if we just shift vector b
+over this way, well vector let's see, vector b is
+over 2 and up 6. So over 2 and up 6 would
+get us there. So 1, vector b-- just doing
+heads to tail visual method of adding vectors-- would
+get us there. 1, 2, 3. Good. No, let me see. 1, 2, 3. And then vector b goes
+over two more. two more. So it'll get us up 6. It's like that. So that's 1, vector b. And then if we add another-- but
+we want 2 times vector b. We essentially need
+two vector b's. So we had one, and then
+we add another one. I think visually you see that
+it does actually-- I didn't want to do it like that. I wanted to use the line
+tool so it looks neat. So you add another vector b. And there you have it. That's a vector b. So it's 2 times vector b. So it's the same direction as
+vector b, but it's two times the length. So we visually showed it. We solved it algabraically. But the real learning, and the
+big real discovery of this whole video, is to show you that
+the matrix representation can represent multiple different
+problems. This was a finding the combinations
+of a vector problem. And the previous one it
+was figure out if two lines can intersect. But what it tells you is that
+these two problems are connected in some deep way. That if we take the veneer of
+reality, that underlying it, they are the same thing. And frankly, that's why math
+is so interesting. Because when you realize that
+two problems are really the same thing, it takes all of the
+superficial human veneer away from things. Because our brains are kind of
+wired to perceive the world in a certain way. But it tells us that there's
+some fundamental truth, independent of our perception,
+that is tying all of these different concepts together. But anyway, I don't want to
+get all mystical on you. But if you do see
+the mysticism in math, all the better. But hopefully you found that
+pretty interesting. And actually, I know I'm going
+over time, but I think this is-- A lot of people take linear
+algebra, they learn how to do all of the things, and
+they say, well what is the whole point of this? But this is kind of
+an interesting thing to think about. We had this had vector a and
+we had this vector b. And we were able to say, well
+there's some combinations of the vectors a and b, that
+when we added it up, we got vector c. So an interesting question is,
+what are all the vectors that I could get to by adding
+combinations of vectors a and b. Or adding or subtracting. Or you could say,
+I could multiply them by negative numbers. But either way. What are all of the vectors
+that I can get by taking linear combinations of
+vectors a and b? And that's actually called the
+vector space spanned by the vectors a and b. And we'll do more of that
+in linear algebra. And here we're dealing
+with a two dimensional Euclidean space. We could have had three
+dimensional vectors. We could've had n dimensional
+vectors. So it gets really, really,
+really abstract. But this is, I think, a really
+good toe dipping for linear algebra as well. So hopefully I haven't confused
+or overwhelmed you. And I'll see you in
+the next video.

@@ -1,0 +1,122 @@
+- [Instructor] Let's try a hard one. This one's a classic. Let's say you have two charges, positive eight nanoCoulombs and
+negative eight nanoCoulombs, and instead of asking
+what's the electric field somewhere in between, which is essentially a one-dimensional
+problem, we're gonna ask, what's the electric field
+up here, at this point, P? Now, this is a two-dimensional problem because if we wanna find
+the net electric field up here, the magnitude n direction of the net electric field at this point, we approach it the same way initially. We say alright, each charge
+is gonna create a field up here that goes in a certain direction. This positive charge creates a field up here that goes radially away from it, and radially away from this positive at point P is something like this. I'll call this electric field blue E because it's created by
+this blue positive charge, and this negative charge
+creates its own electric field at that point that goes
+radially into the negative, and radially into the negative is gonna look something like this. I'll call this electric field yellow E because it's created by
+the yellow electric field. So far so good. Same approach, but now
+things get a little weird. Look, these fields aren't even pointing in the same direction. They're lying in this
+two-dimensional plane, and we wanna find the net electric field. So what we have to do in these
+2D electric field problems is break up the electric
+fields into their components. In other words, the field
+created by this positive charge is gonna have a horizontal component, and that's gonna point to the right. And I'll call that blue E x
+because it was the horizontal component created by the
+blue, positive charge. And this electric field
+is gonna have a vertical component, that's gonna point upward. I'll call that blue E y. And similarly, for the electric
+field this negative charge creates, it has a horizontal component that points to the right. We'll call that yellow E x,
+and a vertical component, but this vertical
+component points downward. I'll call that yellow E y. What do we do with all these components to find the net electric field? Typically what you do in
+these 2D electric problems is focus on finding the components of the net electric field in
+each direction separately. We divide and conquer. We're gonna ask, what's
+the horizontal component of the net electric field, and what's the vertical component of
+the net electric field? And then once we know
+these, we can combine them using the Pythagorean
+theorem if we want to, to get the magnitude of
+that net electric field. But we're kind of in luck in this problem. There's a certain amount of symmetry in this problem, and when
+there's a certain amount of symmetry, you can save a lot of time. What I mean by that is that both of these charges have the
+same magnitude of charge. And because this point, P, lies directly in the middle of them, the distance from the charge to point
+P is gonna be the same as the distance from the
+negative charge to point P, so both of these charges
+create an electric field at this point of equal magnitude. The fields just point
+in different directions, and what that means is
+that this positive charge will create an electric field that has some vertical component upward
+of some positive amount. We don't know exactly how much that is, but it'll be a positive
+number because it points up, and this negative charge is gonna create an electric field that has a
+vertical component downward, which is gonna be negative,
+but it's gonna have the same magnitude as
+the vertical component of the blue electric field. In other words, the field
+created by the positive charge is just as upward as the field created by the negative charge is downward. So when you add those up, when you add up these two vertical
+components to find the vertical component of the net electric field, you're just gonna get zero. They're gonna cancel completely, which is nice because
+that means we only have to worry about the horizontal components. These will not cancel. How come these don't cancel? Because they're both
+pointing to the right. If one was pointing right
+and the other was left, then the horizontal
+components would cancel, but that's not what happens here. These components combine
+to form a total component in the x direction that's
+larger than either one of them. In fact, it's gonna be twice as big because each charge
+creates the same amount of electric field in this x direction because of the symmetry of this problem. So we've reduced this
+problem to just finding the horizontal component
+of the net electric field. To do that, we need the
+horizontal components of each of these
+individual electric fields. If I can find the horizontal component of the field created
+by the positive charge, that's gonna be a positive contribution to the total electric
+field, since this points to the right, and I'd add that to the horizontal component
+of the yellow electric field because it also points to the right, even though the charge creating
+that field is negative, the horizontal component
+of that field is positive because it points to the right. So if I can get both of these, I will just add these
+up, and I'd get my total electric field in the x direction. How do I get these? How do I determine these
+horizontal components? Well, to get the horizontal component of this blue electric field, I first need to find what's the magnitude
+of this blue electric field. We know the formula for that. I'll write it over here. The magnitude of the electric field is always k Q over r squared. So for this blue field, we'll say that E is equal to nine times 10 to the ninth, and the charge is eight nanoCoulombs. Nano means 10 to the negative ninth. And then we divide by the r,
+but what's the r in this case? It's not four or three. Remember, the r in that
+electric field formula is always from the charge
+to the point you're trying to determine the electric field at. So r is this. This distance is r. How do we figure out what this is? Well, we're kind of in luck. If you know about three,
+four, five triangles, look at, this forms a
+three, this side is three, meters, and this side is four meters. That means that this side automatically we know is five meters. If you're not comfortable with that, you can always do the Pythagorean theorem. Pythagorean theorem says that a squared plus b squared equals c
+squared for a right triangle, which is what we have here. A is this side, three. B is the four meter side. And then c would be r,
+I'll call that r squared. And if you solve this for r, nine plus 16, square root gives you r is
+five meters, just like we said. But if you know three,
+four, five triangles, it's kinda nice because
+you could just quote that. And that's the r we're gonna use up here. We'll use five meters squared, which, if you calculate, you get that the electric field is
+2.88 Newtons per Coulomb. This is the magnitude
+of the electric field created at this point, P,
+by the positive charge. How do we get the horizontal
+component of that field? There's a few ways to do it. One way to do it is first
+just find this angle here. If we could find what that angle is, we can do trigonometry to get
+this horizontal component. How do I find this angle? Well, you note that that angle's gonna be the same as this angle down here. These are gonna be similar angles because I've got horizontal lines and then this diagonal line
+just continues right through. So this angle is the same as this angle, so if I could find this angle here, I've found that angle up top. How do I get this angle? I know each side of this triangle, so I can use either
+sine, cosine, or tangent. I'm just gonna use tangent. We'll say that tangent of that angle is defined always to be
+the opposite over adjacent. We know the opposite side to this angle is four meters, and the
+adjacent side was three meters, so tangent theta's gonna equal 4/3. How do we get theta? We say that theta's going to equal the inverse tangent of 4/3. We basically take inverse
+tangent of both sides. We get theta on the left,
+and if you plug this into your calculator,
+you get 53.1 degrees. So that's what this angle is right here. This is 53.1 degrees, but
+that means this angle up here is also 53.1 degrees because
+these are the same angle. This horizontal component is not the same as this three meters? And this diagonal electric
+field is not the same as five meters, but the angle
+between those components are the same as the angle
+between these length components. So what do I do to get
+this horizontal component? This is the adjacent side to this angle, so this E x is adjacent to that angle. We're gonna use cosine. We're gonna say that
+cosine of 53.1 degrees is gonna be equal to the
+adjacent side, which is E x. We'll write this as E x divided by the hypotenuse, and
+we found the hypotenuse. This is the magnitude of the total electric field right here,
+which is the hypotenuse of this triangle, so that's 2.88. And we get that E x is
+going to be 2.88 Newtons per Coulomb times cosine of 53.1, which, if you plug that
+into the calculator is gonna give you 1.73
+Newtons per Coulomb. This is how much electric field the positive charge
+creates in the x direction. That's what this component up here is. This is 1.73 Newtons per Coulomb. So that's what this is. That's what I'm gonna plug in here. To get this horizontal component of the yellow field created
+by the negative charge, you could go through the whole thing again or you could notice that because of symmetry, this horizontal component has to be the exact same
+as the horizontal component created by the positive charge. They're both 1.73, and
+they're both positive because both of these
+components point to the right. So to get the total electric field in the x direction, we'll take 1.73 from the positive charge
+and we'll add that to the horizontal component
+from the negative charge, which is also positive 1.73, to get a horizontal component in the x direction of the net electric field equal to 3.46 Newtons per Coulomb. This is the horizontal component of the net electric field at that point. We basically took both of
+these values and added them up, which, essentially is just
+one of them times two. And now you might be
+worried though, this is just the horizontal component
+of the net electric field. How do we get the magnitude of
+the total net electric field? Well, this is gonna be the same value because since there was
+no vertical component of the electric field,
+the horizontal component is gonna be equal to the magnitude of the total electric field at that point. If there was a vertical component of the electric field, we'd have to do the Pythagorean theorem
+to get the total magnitude of the net electric field,
+but since there was only a horizontal component, and these vertical components canceled,
+the total electric field's just gonna point to the
+right, and it will be equal to two times one of these
+horizontal components, which, when you add them up, gives you 3.46 Newtons per Coulomb. That's the magnitude of
+the net electric field, and the direction would
+be straight to the right. So recapping, when you have
+a 2D electric field problem, draw the field created by each charge, break those fields up into
+their individual components. If there's any symmetry involved, figure out which component cancels, and then to find the net electric field, use the component that doesn't cancel, and determine the contribution from each charge in that direction. Add or subtract them accordingly, based on whether those components point to the right or to the
+left, and that will give you your net electric field at that point, created by both charges.

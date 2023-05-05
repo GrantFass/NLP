@@ -1,0 +1,136 @@
+Lisa owns a "Random
+Candy" vending machine, which is a machine
+that picks a candy out of an assortment in
+a random fashion. Lisa controls the probability
+in which each candy is picked. She is running out
+of "Honey Bunny," so she wants to
+program its probability so that the probability of
+getting a different candy twice in a row is greater than 2
+and 1/4 times the probability of getting "Honey
+Bunny" in one try. So let me read that again. She wants to program
+its probability so that the probability of
+getting a different candy twice in a row, or really any
+other candy twice in a row, is greater than 2 and 1/4 times
+the probability of getting "Honey Bunny" in one try. Write an inequality that
+models the situation. Use p to represent
+the probability of getting "Honey
+Bunny" in one try. Solve the inequality, and
+complete the sentence. Remember that the
+probability must be a number between 0 and 1. So we want to write
+the inequality that models the problem here. And then we want to
+complete the sentence, the probability of getting
+"Honey Bunny" in one try must be-- so they give
+us a bunch of options. Greater than, greater than or
+equal to, less than, less than or equal to, and then we
+have to put some number here. So to work through this, I've
+copy and pasted this problem onto my little scratch
+pad right over here. And so let's just think
+about it a little bit. So they tell us,
+use p to represent the probability of getting
+"Honey Bunny" in one try. And they also say she wants
+to program its probability so that the probability of
+getting a different candy twice in a row is greater than 2 and
+1/4 the probability of getting "Honey Bunny" in one try. So if p is the probability of
+getting "Honey Bunny," what's the probability of getting
+any other candy at once? Well, that's going
+to be 1 minus p. If you have a probability of
+p of getting "Honey Bunny, well, then it's 1 minus p of
+anything but "Honey Bunny." Now, what's the probability
+of getting this twice in a row, of getting
+anything else twice in a row? Well, you're just
+going to multiply this probability times itself. It's going to be 1
+minus p times 1 minus p, or we could just write
+that as 1 minus p squared. So this right over
+here is the probability of getting a different
+candy, any other candy, twice in a row. So prob of any other non-"Honey
+Bunny" candy, any other candy, twice in a row. Now, they tell us
+that this probability needs to be greater than 2
+and 1/4 times the probability of getting "Honey
+Bunny" in one try. So is greater than
+2 and 1/4 times the probability of getting
+"Honey Bunny" in one try, well, that is p-- times p. So we have just set
+up the first part. We have written an inequality
+that models the situation. Now let's actually
+solve this inequality. And so to do that, I will just
+expand 1 minus p squared out. 1 minus p squared is the
+same thing as-- well, I'll just multiply it out. So this is going to be 1
+squared minus 2p plus p squared. And that's going to be
+greater than 2 and 1/4 p. Now let's see. If we subtract 2 and
+1/4 p from both sides, we're going to be left with--
+and I'm going to reorder this. We're going to get p squared. So you have minus 2p
+minus 2 and 1/4 p, so that's going to get
+us minus 4 and 1/4 p. Or let me just write
+that as 17/4 p plus 1 is greater than 0. And so let's think about solving
+this quadratic right over here. And under which circumstances
+is this greater than 0? To think about it,
+let's factor it. And actually,
+before we factor it, let's simplify it a little bit. I don't like having this
+17/4 right over here, so let's multiply
+both sides times 4. And since 4 is a
+positive number, it's not going to
+change the sign, the direction of
+this inequality. So we could rewrite
+this as 4p squared minus 17p plus 4
+is greater than 0. And let's see. What are the roots of this? And we could use the
+quadratic formula if we wanted to do
+it really quick. We could probably
+do it other ways. But negative b-- so it's
+going to be 17 plus or minus the square root of negative 17
+squared-- b squared-- so that's 289 minus 4 times a times c. Well a times c is 16
+times 4, so minus 64. All of that over 2 times
+a-- all of that over 8. So that's 17 plus
+or minus-- let's see, this is the square
+root of 225 over 8, which is equal to 17
+plus or minus 15 over 8, which is equal to-- let's
+see, 17 minus 15 over 8 is 2/8-- which is
+equal to 2/8 or 1/4. So that's one of them. That's when we take the minus. And if we add 17 plus 15, that
+gets us to 32 divided by 8 is 4. So there's two situations
+right over here. Let's factor this out. We could write this as p
+minus 1/4 times p minus 4 is greater than 0. So under what circumstances
+is this going to be true? What constraints are
+this going to be true? Well if you're taking
+the product of two terms and they are going
+to be greater than 0, that means that these two
+things have to be the same sign. Or actually, in particular,
+they both have to be positive, or they both have
+to be negative. So let's look at
+those two situations. And I'll switch colors
+here just for fun-- so both positive
+or both negative. So if they are both
+positive-- let me do it here. That means that p minus 1/4
+has to be greater than 0, and p minus 4 is greater than 0. Add 1/4 on both sides
+right over here. You get p is greater than
+1/4, and p is greater than 4. So that's the situation
+where they are both positive. Now, what about if
+they are both negative? Well then you have p minus 1/4
+is less than 0, and p minus 4 is less than 0. Add 1/4 here. So p needs to be less than 1/4,
+and p needs to be less than 4. Now, what does this
+constraint simplify to? p has to be greater than 1/4,
+and p has to be greater than 4. Well, if p is
+greater than 4, it's definitely going to
+be greater than 1/4. So all of this collapses into
+p needs to be greater than 4. That's the situation
+where both are positive. p must be greater than 4. Now what about here? Well if p is less than
+1/4, it's definitely going to be less than four. And this is an and right over
+here, so this collapses to p is a less than 1/4. So which one do we go with--
+p needs to be greater than 4, or p needs to be less than 1/4? Well, we need to
+remind ourselves that we're talking
+about a probability. To go back to the
+original problem, we're talking about a
+probability of someone getting "Honey
+Bunny" in one try. A probability must
+be between 0 and 1, so the probability having
+to be greater than 4, well that just doesn't
+make any sense. That doesn't make any sense in
+the context of this question. So we have to go with the
+probability of getting "Honey Bunny" needs to be less
+than 1/4, or less than 0.25, which makes complete sense. So let's fill in
+this information. This was the inequality
+that modeled the problem. And we got p has to
+be less than 1/4. So let's go back to
+the original problem. The inequality was 1
+minus p squared needs to be greater than 2 and 1/4. So we could write
+that multiple times. I could write that
+as 2.25 times p. And then the
+probability of getting "Honey Bunny" in one try
+must be less than 0.25. And we're done.

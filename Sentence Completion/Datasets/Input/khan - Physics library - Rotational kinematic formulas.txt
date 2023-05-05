@@ -1,0 +1,174 @@
+- [Instructor] So in the
+previous couple videos, we defined all these new
+rotational motion variables and we defined them exactly
+the same way we defined all these linear motion variables. So for instance, this angular displacement was defined the exact same way we defined regular displacement, it's just
+this is the angular position as opposed to the position,
+the regular position. Similarly this angular velocity was the angular displacement per
+time just like velocity was the regular displacement over time. And the angular acceleration
+was the change in the angular velocity per time,
+just like regular acceleration was the change in regular
+velocity per time. And so because these
+definitions are exactly the same except for the fact that
+the linear motion variable is replaced with its angular counterpart, all the equations results in
+principles we found and derived for the linear motion
+variables will also hold true for the rotational motions
+variables as long as you replace the linear motion variable
+in that equation with its rotational motion variable counterpart. And it even works with graphs. So let's say you had a
+velocity versus time graph and it looked like this. Since we already know from 1D
+motion that the slope of this velocity versus time graph
+is equal to the acceleration, that means on an angular
+velocity versus time graph, the slope is going to represent
+the angular acceleration, because the relationship
+between omega and alpha is the same as the
+relationship between v and a. Similarly the area underneath the curve on a velocity versus time graph represented the displacement. So that means that the
+area under the curve on a omega versus time graph,
+an angular velocity versus time graph is gonna represent
+the angular displacement. And so if you remember
+from 1D motion, the way we derived a lot of the 1D
+kinematic formulas that related these linear motion variables,
+was by looking for areas under a velocity graph. We could do the same thing for the rotational motion variables. We could find this area,
+relate it to omega and alpha and we'd get the rotational
+kinematic formulas, but we already know since
+these are all defined the same way the linear
+motion variables are defined, we're gonna get the exact
+same equations, just with the linear motion variable
+replaced with its rotational motion variable. So let's right those down. First we'll right down the
+linear motion kinematic formulas. If you remember they looked like this. So there they are. These are the four kinematic
+formulas that relate the linear motion variables. But remember this only works,
+these equations only work if the acceleration is constant. But if the acceleration is constant, these four kinematic formulas
+are a convenient way to relate all these kinematic
+linear motion variables. Now if you wanted rotational
+kinematic formulas, you could go though the
+trouble that we went through with these to derive them
+using areas under curves, but since we know the
+relationship between all these rotational motion variables
+is the same as the relationship between the
+linear motion variables, I can make rotational
+motion kinematic formulas simply by replacing all
+of these linear variables with their rotational motion
+variable counterparts. So let's do that. So in other words, instead
+of V, the velocity, the final velocity, I would have omega, the final angular velocity. Instead of V initial,
+the initial velocity, I'd have the initial angular velocity. Instead of acceleration, I'd
+have the angular acceleration. And time is just time. So there's no such thing as
+angular time or linear time. As far as we know, there's
+only one time and that's t and that works in either equation. So you could probably guess,
+when are these rotational motion kinematic formulas gonna be true? It's gonna be when the alpha, the angular acceleration is constant. And so you can keep goin' through, wherever you had an x, that
+was the regular position, you'd replace it with
+theta, the angular position. So I'll replace all these x's with thetas. We replace all of our accelerations with angular accelerations. And then I'll finish cleaning up these v initial and v finals. And then we've got 'em. These are the rotational
+kinematic formulas. The are only true if the angular
+acceleration is constant, but if it is constant,
+these are a convenient way to relate all these
+rotational motion variables and you can solve a ton a problems using these rotational kinematic formulas. And in fact, you use
+these, the exact same way you used these regular kinematic formulas. You identify the variables that you know. You identify the variable
+that you wanna find and you use one of the
+formulas that lets you solve for that unknown variable. So let me show you some examples. Let's do a couple examples
+using these formulas, cause it takes a while before
+you get the swing of 'em. So let me copy these. We're about to use these. And let's tackle a couple examples of rotational kinematic formula problems. So let me get rid of all this
+and let's tackle this problem. Let's say you had a four meter long bar, that's why I've had this
+bar here the whole time, to show that it can rotate. It starts from rest and
+it rotates through five revolutions with a constant
+angular acceleration of 30 radians per second squared. And the question is, how
+long did it take for this bar to make the five revolutions? So what do we do? How do we tackle these problems? You first identify all the
+variables that you know. So it said that it
+revolved five revolutions, that's the amount of angle
+that it's gone through, but it's in weird units. This is in units for revolutions. So we know what the delta theta is, five revolutions. But we want our delta theta
+always to be in radians, cause look it, our acceleration was given in radians per seconds squared. You've gotta make sure you
+compare apples to apples. I can't have revolutions for delta theta and radians for acceleration. You've gotta pick one unit to go with and the unit we typically
+go with is radians. So how many radians would
+five revolutions be? One revolution is two pi
+radians, cause one time around the entire circle is two pi radians. That means that five revolutions would be five times two pi radians, which gives us 10 pi radians. So we've got our angular
+displacement, what else do we know? It tells us this 30
+radians per second squared. That is the angular acceleration. So we know that alpha is 30
+radians per second squared. You can write the radian,
+you can leave it off. Sometimes people write the radian, sometimes they leave it blank. So you can write one over
+second squared if you wanted to. That's why I left this blank over here, but we could write
+radians if we wanted to. And should this be alpha
+be positive or negative? Well, since this object is speeding up, it started from rest,
+that means it sped up. So our direction of the
+angular displacement, has to be the same direction
+as this angular acceleration. In other words, if
+something's speeding up, you have to make sure that
+your angular acceleration has the same sign as
+your angular velocity, and your angular velocity'll
+have the same sign as your angular displacement. So since we called this
+positive 10 pi radians and the object sped up, we're
+gonna call this positive 30 radians per second squared. If this bar would have slowed
+down, we'd of had to make sure that this alpha has the opposite sign as our angular velocity. But that's only two rotational
+kinematic variables. You always need three in
+order to solve for a fourth. So what's our third
+rotational kinematic variable? It's this. That it says the object started from rest. So this is code. This is code word for
+omega initial is zero. Initial angular velocity is
+zero, cause it starts from rest. So that's what we can say down here. That's our third known variable. And now we can solve. We've got three, we
+can solve for a fourth. Which one do we want to solve for? It says how long, so that's the time. We wanna know the time that it took. All right so these are the
+variables that are involved. We wanna know the time. We know the top three. The way I figure out what
+kinematic formula to use is that I just ask which
+variable's left out of all these? I've got my three knowns
+and my one unknown that I want to find. Which variable isn't involved? And it's omega final. So omega final is not
+involved here at all. So I'm gonna use the
+rotational kinematic formula that does not involve omega final. I'll put these over here. So I'll look through 'em. First one's got omega final. I don't wanna use that one cause I wouldn't know what to plug in here and I don't wanna solve for it anyway. I don't want the second one. This third one has no omega final, so I'm gonna use that one. So let's just take this,
+we'll put it over here. So we know delta theta. Delta theta was 10 pi radians. And we know omega initial was zero. So this whole term is zero. Zero times t is still
+zero, so that's all zero. And we have 1/2. The angular acceleration was 30 and the time is what we wanna know. And you can't for get that that's squared. So now we just solve this
+algebraically for time. We multiply both side by two. That would give us 20 pi. Then we divide by 30. And that'll end up giving us 20 pi, and technically that is 20 pi radians divided by 30 radians per second squared and then you have to take the square root, because it's t squared. And if you solve all this for t, I get that the time ended up
+taking about 1.45 seconds. And our units all canceled
+out the way should here. Radians canceled radians. You ended up with seconds
+squared on the top. You too the square root. That gives you seconds to end with. Now this second part, part b, says what was the angular
+velocity after rotating for five revolutions? Now there's a couple
+ways we could solve this. Because we solved for the
+time, we know every variable except for the final angular velocity. So I could use any of these now. To me, this first one's the simplest. There's no squares involved. There's not even a ratio or
+anything, so let's use this. We could say that omega
+final is gonna equal omega initial, that was just zero, plus the angular acceleration was 30, and now that we know the
+time we could say that this time was 1.45 seconds. And that gives me a final angular velocity of 43.5 radian per second. That's how fast this thing
+was revolving in a circle the moment it hit five revolutions. So that was one example. Let's do another one. Let's carry our kinematic
+formulas with us. We could use those. So we get rid of all that. Let's check this one out. Says this four meter
+long bar is gonna start, this time it doesn't start from rest. This time it starts with
+an angular velocity, oh, we're not gonna rotate that. Whoa, that'd be a more difficult problem, we're gonna rotate this. This four meter long bar
+starts with an angular velocity of 40 radians per second,
+but it decelerates to a stop after it rotates 20 revolutions. And the first question is, how
+fast is the edge of the bar moving initially in meters per second? So in other words, this
+point on the bar right here, is gonna have some velocity this way. We wanna know, what is
+that velocity initially in meters per second? Well this isn't too hard. We've got a formula that relates the speed to the angular speed. You just take the distance from the axis, to the point that you want
+to determine the speed and then you multiply it
+by the angular velocity and that gives you what
+the speed of that point is. So this r, let's be careful, this is always from the axis. And in this case this
+is the axis right there. The distance from the axis
+to the point we wanna find is in fact the entire length of this bar, so this will be four meters. So to find the speed we
+could just say that that's equal to four meters, since you wanna know the
+speed of a point out here that's four meters from the axis, and we multiply by the angular velocity, which initially was 40 radians per second. And we get the speed of
+this point on the rod, four meters away from the
+axis is 160 meters per second. That's really fast. And that's the fastest point on this rod. If you were gonna ask
+what the speed of the rod would be halfway, that
+would be half as much. Because this would only
+be, this r right here, would only be two meters
+from the axis to that point, it's only two meters. And the closer in you go,
+the smaller the r will be, the smaller the speed will be. So these are gonna travel, these
+points on the rod down here don't travel very fast at all, because their r is so small. All these points have the
+same angular velocity. They're all rotating with the same number of radians per second, but the
+actual distance of the circle they're traveling through is different, which makes all of their speeds different. So that answers part a, we got how fast in meters per second. It was going 160 meters per second. And the next part asks, what
+was the angular acceleration of the bar? All right, this one we're
+gonna have to actually use a kinematic formula for. We'll bring these back, put 'em over here. Again the way you use these,
+you identify what you know. We know the initial
+angular velocity was 40. So this time we know omega
+initial 40 radians per second. Set it revolved 20 revolutions. That's delta theta, but
+again, we can't just write 20. We've gotta right this in terms of radians if we're gonna use these
+radians per second. They have to all be in the same unit. So it's gonna be 20 revolution times two pi radians per revolution. So that's 40 pi radians. What's our third known? You always need a third known
+to use a kinematic formula. It's this. It says it decelerates to a
+stop, which means it stops. That means omega final, the
+final angular velocity is zero. And we want the angular
+acceleration, that's alpha. So this is what we wanna know. We wanna know alpha. We know the rest of these variables. Again to figure out which equation to use, I figure out which one got left out. And that's the time. I was neither give the time nor was I asked to find the time. Since this was left out, I'm
+gonna look for the formula that doesn't use time at all. And that's not the first one. That's not the second or the third, it's actually the fourth. So I'm gonna use this fourth equation. So what do we know? We know omega final was zero. So I'm gonna put a zero squared. But zero squared is still zero, equals omega initial squared. That's 40 radians per second squared. And then it's gonna be
+plus two times alpha. We don't know alpha, but
+that's what we wanna find, so I'm gonna leave that as a variable. And then delta theta we know. Delta theta was 40 pi radians
+since it was 20 revolutions. And if you solve this
+algebraically for alpha, you move the 40 over to the other side. So you'll subtract it. You get a negative 40
+radians per second squared. And then you gotta divide by this two as well as the 40 pi radians, which gives me negative 6.37
+radians per second squared. Why is it negative? Well this thing slowed down to a stop. So this angular acceleration
+has gotta have the opposite sign to the initial angular velocity. We called this positive 40, that means our alpha's gonna be negative. So recapping, these are the
+rotational kinematic formulas that relate the rotational
+kinematic variables. They're only true if the angular
+acceleration is constant. But when it's constant, you
+can identify the three known variables and the one unknown
+that you're trying to find and then use the variable
+that got left out of the mix to identify which
+kinematic formula to use, since you would use the
+formula that does not involve that variable that was
+neither given nor asked for.

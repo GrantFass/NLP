@@ -1,0 +1,254 @@
+Let me graph our coordinates
+in R2. So let's see, let me do
+it fairly neatly. I want to do it neater
+than that. So that is my vertical
+coordinate, this is my horizontal coordinate. Good enough. So let's say I have four points
+in R2 specified by four position vectors. So this is R2 right here. So my first position vector
+is the zero vector. So it just specifies the point
+right there, so it's 0, 0. My second point is specified the
+by the vector say k 1, 0, so some constant times 0. Let me write it a little
+bit neater than that, a little bit bigger. So it's k 1, 0, so that's my
+second position vector, which would specify that point
+right there. So let me draw my vector
+right there. Let's say my third point
+is going to be up here. As you can, see I'm creating
+a rectangle. Let's say it's specified
+by the position vector. Let me draw the position
+vector like that. And that position vector is
+going to be the vector k1. That's going to be its
+horizontal component and then k2 is its vertical component. If we wanted to graph it on the
+coordinates, this would be the k2 coordinate right there. And let's say that the last
+point is this point right here, and it is specified by
+the position vector 0, k2. And let me define a set. Let me call that set rectangle, say R for rectangle. Let me just call it Rec. Let's say that rectangle is
+equal to the set of all of the points when you connect the
+points specified by those position vectors. So the rectangle formed by
+connecting points specified by these guys here. So if we call this vector a,
+this is vector b, this is vector c, and then this is
+vector d right here, so rectangle specified
+by connecting the points a, b, c and d. Now let's say-- so let me draw
+what our set rectangle is going to be. It's going to be all of these
+points here, all of these points there, all of those
+points there, and then all of those points there, including
+our vertices. So that is my rectangle. Now, what is the area within
+this rectangle? So this is the area
+of rectangle. What's the area within
+this rectangle? Well, it's just base
+times height. The base has length k1. The distance from here to here
+is k1, so it's just k1. And what's the height? It's the distance from here
+to here, which is just k2. So it's just k1 times k2. That's fairly straightforward. I haven't shown you anything
+that fascinating just yet. But let's say we're going
+to transform this set. We're going to transform this
+rectangle and we're going to transform it with the
+transformation T. Let me pick a nice
+color for T. Let's say we have the
+transformation T. It is a mapping from R2 to R2,
+and it can be represented as-- so when you apply the
+transformation T to some vector x, it is equal to the
+matrix a, b, c, d times your vector x, just like that. Now, let's see what happens
+when we apply the transformation to each
+of these points. We saw many videos ago that if
+you want essentially the image of our rectangle under this
+transformation, you can essentially just get the
+transformation of each of the end points and then connect
+the dots in your codomain, which is also going to be R2. So we just have to figure out
+the transformation of each of these guys. So what is my transformation? I'll do it over here. I'll do it in the colors. What is the transformation
+applied to the zero vector, applied to point
+a right there? Well, it's just going to be
+a times 0 plus b times 0, which is just 0. And then the second term is
+going to be c times 0 plus d times 0, which is just 0. That's vector a. Vector b. If I apply the transformation
+to vector b, vector b is k1, 0, just like that. If I apply the transformation,
+it's going to be a times k-- so the first entry in the
+transformed vector or what we're mapping to in our codomain
+is going to be a times k1 plus b times
+0, so it's just ak1. And then the second entry's
+going to be c times k1 plus d times 0. So it's going to
+be c times k1. All I'm doing is taking the
+matrix vector product of this guy and that guy. And then let's move
+on to point c. So the transformation of point
+c of k1, k2 is equal to-- or the transformation of
+vector c, we could say, is equal to what? The first entry's going to be
+a times k1 plus b times k2. a times k1 plus b times k2, and
+the second entry's going to be c times k1 plus
+d times k2. We have one point left. The transformation, if we take
+the transformation of our vector 0, k2, what do we get? We get a times 0 plus b times
+k2, which is just b times k2, and then c times 0 plus d times
+k2, which is just d times k2, just like that. So let's draw the image of
+our rectangle under our transformation. So let me redraw my axes. So this is my vertical
+axis right there. This is my horizontal
+axis right there. And so a gets mapped to the
+zero vector right there. So this is the transformation
+of 0, 0 right like that. Now, what does the vector
+b get transformed? The vector b gets transformed
+to ak1, ck1, so let me draw it like this. The vector b gets transformed
+to something that looks like this, where this is the vector--
+so this is the transformation of k1 and 0,
+which is equal to ak1, ck1. We saw that already. Now, what does this yellow
+guy get transformed to? Let me do the blue one first.
+So the blue one gets transformed here. Let me finish here. So if we come down here,
+this is going to be ak1 right there. If we go to the left like that,
+that's going to ck1. That's how we graph it. Now this last guy, this blue
+guy, maybe he looks something like this. This is the transformation of
+that vector right there by this linear transformation, 0,
+k2, which is equal to the vector bk2 and dk2, so this
+point right here is bk2 and then this coordinate
+right there is dk2. Now this last guy, this yellow
+point, when I transformed it, what do I get? I get ak1, plus bk2, so ak1 plus
+bk2 will get you right about there, so that's going
+to be its x-coordinate. And then its y-coordinate
+is ck1 plus dk2. So ck1, and then I'm going to
+add that much again to it. So it's going to get me
+someplace over here. So I'm going to add this
+distance to this whole distance over here, so
+I'm going to get up here some point. I'm going to get right
+over here. So that vector's going to look
+something like that. That is the transformation
+of k1, k2. That's the transformation
+of that guy. And then if we connect the
+dots, remember, the transformation of this set of
+this rectangle, or we could say the image of this
+rectangle under the transformation, we just take
+each of the points that define that rectangle and then
+we connect the dots. We saw that awhile ago. So let me draw it this way. This line right here that
+connects those two dots will be transformed to this line that
+connects these two dots right there. This line-- I was going to do
+that in a different color. This line that connects those
+two dots is going to be transformed to this line that
+connects those two dots. And then we have this line that
+connects those two dots is going to be transformed to
+this line that connects these two dots right there. And then finally, this line that
+connects these two dots is going to be transformed to
+this line that connects these two dots right there. Now, just out of curiosity,
+what is-- let me just write this. So this rectangle right
+here is the image. We could write this as T of our
+rectangle, or if we wanted to write it in words, this is
+equal to the image of the rectangle under our
+transformation T. Now, what is the area of the
+image of our rectangle under our transformation? What is the area
+of this thing? What is this area right there? Well, we could view this
+parallelogram essentially as a parallelogram generated by this
+vector and that vector. Or if we wanted to write it
+another way, if we had a matrix, if we had some matrix
+whose column vectors are this guy and that guy, so let's say,
+it's first column vector is this guy, so ak1, ck1, And
+this one right here, this was the transformation of k1, 0. And then its second column
+vector is this guy right here, which was bk2 and dk2. This parallelogram is a
+parallelogram generated by these two column vectors. This was the transformation
+right here. This was the transformation
+of 0, k2, right? And in the last video, we said
+that the area of this parallelogram is equivalent
+to-- let me write this right now. So the area of the
+parallelogram, which is the same thing as the area of the
+image of our original rectangle under our
+transformation, the area this parallelogram is equivalent to
+the absolute value-- let me call this determinant
+right here, let me call this I for image. So it's equal to the absolute
+value of the determinant of the matrix whose column
+vectors generate that parallelogram. So it should be equal to the
+determinant of the absolute value of the determinant of I. We saw that in the last video. That's what the area of this
+thing is going to be. Well, what is the determinant
+of this? Well, this is going to be equal
+to-- we've got to keep our absolute value signs. So the determinant of this is
+ak1 times dk2, so we could right this as-- let
+me switch colors. We could write it
+as k1, k2, ad. All I did is multiply that term
+times that term minus this term times that term. So minus k1, k2, bc. That's just the definition
+of the determinant of a 2-by-2 matrix. We saw this in the last video. This is nothing new here, or
+maybe it might be relatively new if you just watched the last
+video, but all I'm saying is, look, if we want to figure
+out this parallelogram, this is the parallelogram
+generated by that vector and that vector. And if we say that those two
+guys are the column vectors of some matrix right there, we saw
+on the last video that the area of this parallelogram is
+equal to the absolute value of the determinant of
+this matrix. Now, what is the equal to? This is equal to-- we can
+factor out a k1, k2. So it's the absolute value of
+k1, k2 times ad minus bc. Now what is this equal to? Well, ad minus bc, that is
+the determinant of our transformation vector. So if we say that T of x-- if we
+called that vector-- or our transformation matrix. If we call this matrix A, if we
+call it A, this is equal to k1, k2 times the determinant
+of A, which is a pretty interesting takeaway. What this is telling us is,
+look, if I have some region, or in this case, I just have the
+rectangle, but if I have some region in my domain and I
+apply a transformation, and let's say my region
+has some area. Let's say in this case,
+it has some area A. Let me write this
+right as area. This was my original area in
+my original region, right? And then I apply some
+transformation to it where the transformation is equal to some
+matrix A times any member of your domain. I apply some transformation
+to it. I get some new region. I get the image of this set
+under my transformation. Your new area is going to be
+equal to the absolute value of the determinant of your
+transformation matrix. That's the determinant of the
+transformation matrix. That's the transformation
+matrix. So it's equal to the
+determinant of the transformation matrix times
+the area of your original rectangle in this case, right? This was your original
+rectangle. You take the absolute value,
+just because sometimes you swap these vectors you might
+get a negative sign, so you take the absolute value. But that's a really neat idea. The determinant of the
+transformation matrix is essentially a scaling
+factor on the area of a certain region. Now, I'm not going to prove it
+to you here, but you can kind of imagine it. Let's say I have some-- let
+me go abstract now. Let's say I have some region in
+R2-- let me do a better-- let me do a shape that
+you might recognize. Let's say I have something
+like that. Let's say it's an
+ellipse, right? And this is our domain. It's R2. And let's say that the area
+here, the area of this region right here, is equal to A. So area is equal to A. And let's say I have some
+transformation T that is a mapping from R2 to R2 And T is
+defined, so T applied to some vector x in my domain is equal
+to-- well, I already used A, so let's say it's equal to some
+matrix B times any vector in my domain. If I take the image of this area
+under T, so this is my domain right here. Let me do it in the codomain. Let's say the image of this
+under B, let's say it looks something like-- or my image
+under T-- let's say it looks something like this. I don't know what it's going to
+look like, but let's say it looks something like this. Let's say it looks something
+like that right there, so this right here. So if we call this set-- let
+me call it E for ellipse. That's this whole thing
+right here. This is the ellipse
+right there. This is the image of my
+ellipse under the transformation T. If I take every point of this
+ellipse, I'll construct this right here. Or I guess maybe just to keep
+the analogy straight for this example, let's say that the
+ellipse is the set of just the boundary, but it also applies
+actually if you were to fill up the whole region. So this is boundary gets
+mapped to this boundary right here. But it would have worked
+just as well if we filled up the region. Since I'm not proving either to
+you very rigorously, you'll have to accept it as
+a leap of faith. So this is the image of this
+boundary under our transformation. And if the area surrounded by
+this boundary, or if you could say the area of this region is
+A, then the area here, the area of the image of our
+ellipse under our transformation is going to be
+equal to the absolute value of our area, our original area,
+right there times the determinant of our
+transformation matrix. If you find it a little bit of
+a big leap to go from just an arbitrary rectangle
+transformation to maybe these more generalized shapes, you
+can imagine-- so T is going from there to there. It's always nice to
+draw that arrow. But if you view it as a bit of
+a leap to make that jump from rectangles to curves, you can
+imagine this shape to be able to be constructed by a bunch
+of arbitrary rectangles. So you could essentially fill
+this space with a bunch of arbitrary rectangles like
+this, and you could keep making them infinitely
+small so that you completely fill the space. You completely fill that
+space with rectangles. And if you were to map each of
+those rectangles using T, each of those rectangles might look
+something like this. Maybe they look something
+like this. I don't know what they'll
+look like. They'll look like a bunch of
+parallelograms. Maybe they'll look something like that. I'm not drawing it
+that neatly. They'll look like a bunch of
+parallelograms, and they will essentially fill this
+space right there. So that's a way you can get your
+head around the idea of jumping from just the arbitrary
+rectangles to these arbitrary curves or
+shapes or regions. But this is a pretty neat
+outcome, and it's a very interesting way to view
+a determinant. A determinant of a
+transformation matrix is essentially a scaling factor for
+area as you map from one region to another region, or
+as we go from one region to the image of that region under
+the transformation.

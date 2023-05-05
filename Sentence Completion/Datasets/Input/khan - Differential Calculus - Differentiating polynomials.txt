@@ -1,0 +1,27 @@
+- [Voiceover] So I have
+the function F of X here and we're defining it using
+a polynomial expression. And what I would like to do here is take the derivative of our function which is essentially gonna make us take the derivative of this
+polynomial expression and we're gonna take the derivative with respect to X. So the first thing I'm gonna do is let's take the derivative of both sides. So we can say the
+derivative with respect to X of F of X of F of X is equal to the derivative with respect to X the derivative with respect to X of X to the fifth X to the fifth plus two plus two X to the third minus X squared. And so the notation, just
+to get familiar with it you could do this as
+the derivative operator. This is, I want to take the derivative of whatever's inside of the parentheses with respect to X. So the derivative of F with respect to X we could use the notation but that is just F prime of F prime of X. And that is going to be equal to. Now here we can use our
+derivative properties. The derivative of the sum or difference of a bunch of things. The derivative of is equal to the sum of the difference of the
+derivative of each of them. So this is equal to the derivative let me just, with the
+derivative with respect to X of each of these three things. So the derivative with respect to X. Let me just write it out like this. Of that first term plus the derivative with respect to X of that second term minus the derivative with respect to X of that third term. Of that third term. And I'll color code it here. So here I had an X of the fifth so I'll put the X to fifth X of the fifth there. Here I had a two X to the third. So I'll put the two X to the third there. And here I have a X squared I'm subtracting an X squared so I'm subtracting the
+derivative with respect to X of X squared. So notice all that's happening here is I'm taking the derivative individually of each of these terms and then I'm adding or subtracting in the
+same way that the terms were added or subtracted. And so what is this going to be equal to? Well, this is going to be equal to for X of the fifth we can just use the power rule. We can bring the five out front and decrement the exponent by one so it becomes five X we can say to the five minus one power. Which of course, is just four. And then for this second one we could do it in a few steps. Actually, let me just write it out here. So I could write I could write the derivative with respect to X of two X to the third power is the same thing it's equal to the same, we could bring the constant out. The derivative with,
+two times the derivative with respect to X of X to the third power. This is one of our this is one of our derivative properties. The derivative of a constant times some expression is the same thing as a constant times the derivative of that expression. And what will the
+derivative with respect to X to the third be? Well, we would bring the three out front and decrement the exponent. And so this would be equal to this two times the three times X to the three minus one power. Which is, of course, the second power. So this would give us six X squared. So, another way that
+you could have done it I could just write I could just write a six X squared here. So I could just, so this is going to be six X squared. And, instead of going through all of this you'll learn as you do more of these, that you could have done this pretty much in your head. Say look, I have the three
+out here as an exponent. Let me multiply the three
+times this coefficient because that's what we
+ended up doing anyway. Three times the coefficient is six X and then three minus one is two. So you didn't necessarily have to do this but it's nice to see
+that this comes out of the derivative properties
+that we talk about in other videos. And then finally, we have minus. And we use the power rule right over here. So, bring the two out front and decrement the exponent. So it's gonna be two. It's going to be two times X to the two minus one power which is just one. Which, we could just write as two X. So just like that we have been able to figure out the derivative of F. And you might say, well
+what this thing now? Well now we have an
+expression that tells us the slope of the tangent line. Or you could view it as the instantaneous rate of change with respect to X for any X value. So, if I were to say if I were to now to say F prime, let's say F prime of two. This would tell me what is the slope of the tangent
+line of our function when X is equal to two. And I do that by using this expression. So this is gonna be five times two to the fourth plus plus six times two squared. Six times two squared. Minus minus two times two. Minus two times two. And this is going to be equal to let's see, two to the fourth power is 16, 16 times five is 80. And that's 80, and then this is six times four, which is 24. And then we are going to subtract four. So this is 80 plus 24 is 104 minus four is equal to 100. So, when X is equal to two this curve is really steep. The slope is 100. If you look, if you were to graph the tangent line when X is equal to two for every positive
+movement in the X-direction by one you're gonna move
+up in the Y-direction by 100. So it's really steep
+there and it makes sense. This is a pretty high degree. X to the fifth power and
+then we're adding that to another high degree X to the third power. And then we're subtracting a lower degree. So that's what you would expect.

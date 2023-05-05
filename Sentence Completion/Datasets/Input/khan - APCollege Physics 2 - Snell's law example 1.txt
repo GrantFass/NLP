@@ -1,0 +1,156 @@
+As promised, let's do a couple
+of simple Snell's law examples. So let's say, that
+I have two media-- I guess the plural of mediums. So let's say I have
+air right here. And then right here
+is the surface. Let me do that in a
+more appropriate color. That is the surface
+of the water. And I know that I have a light
+ray, coming in with an incident angle of-- so relative to the
+perpendicular-- 35 degrees. And what I want to know is
+what the angle of refraction will be. So it will refract a little bit. It will bend inwards
+a little bit, since this outside's going to
+be in the air a little longer, if you buy into my car
+travelling into the mud analogy. So it will then
+bend a little bit. And I want to figure out
+what this new angle will be. I want to figure out
+the angle of refraction. I'll call that theta 2. What is this? This is just straight
+up applying Snell's law. And I'm going to use the
+version using the refraction indices, since we
+have a table here from the ck12.org FlexBook
+on the refraction indices-- and you can go get it
+for free if you like. And that just tells
+us that the refraction index for the
+first medium-- that is air-- times the sine of the
+incident angle, in this case is 35 degrees, is going to
+be equal to the refraction index for water, times the
+sine of this angle right over here-- times
+the sine of theta 2. And we know what the refraction
+index for air and for water is, and then we just have
+to solve for theta 2. So let's just do that. The refraction index for
+air is this number right over here, 1.00029. So it's going to be, there's
+three 0's, 1.00029 times the sine of 35 degrees, is going
+to be equal to the refraction index for water, which is 1.33. So it's 1.33 times
+sine of theta 2. Now we can divide both sides
+of this equation by 1.33. On this side, we're just left
+with the sine of theta 2. On the left-hand side, let's
+get our calculator out for this. So let me get the
+handy calculator. And so we want to
+calculate-- and I made sure my calculator is in degree
+mode-- 1.00029 times the sine of 35
+degrees, so that's the numerator of
+this expression right here-- the green part--
+that's 0.5737 divided by 1.33. I'm just dividing by
+the numerator here. When you just
+divide this answer, it means your last answer. That's the numerator up here
+divided by that denominator. And so I get 0.4314. I'll just round a little bit. So I'll get-- I'll
+switch colors-- 0.4314 is equal to
+sine of theta 2. And now to solve
+for theta, you just have to take the inverse
+sine of both sides of this. This doesn't mean sine
+to the negative 1. You could also use the arcsine. The sine inverse
+of 0.4314 is going to be equal to-- the inverse
+sine of sine is just the angle itself or, I guess
+when we're dealing with angles in a
+normal range, it's going to be the angle itself. And that's going to be the
+case with this right over here. And if any of that
+is confusing you might want to review the
+videos on the inverse sine and the inverse
+cosine, and they're in the Trigonometry playlist. But we can very
+easily figure out the inverse sine for
+this right over here. You literally, you
+have sine here, when you press Second
+you get the inverse sine. So it's the inverse
+sine, or the arcsine of that number right over there. And instead of
+retyping it, I can just put Second, and then Answer. So I'm taking the inverse
+sine of that number. And that will give me an angle. And I get 25.55, or I'll
+round it, 25.6 degrees. So this theta 2,
+is equal to 25.6, or I'll say approximately
+equal to some 25.6 degrees. So Snell's law goes
+with our little car driving in to the mud analogy. It's going to be
+a narrow degree. It's going to come inwards a
+little bit closer to vertical. And theta 2 is equal
+to 25.6 degrees. And you could do the other way. Let's do another example. Let's say that we have,
+just to make things simpler, that I have some
+surface right over here. So this is some
+unknown material. And we're traveling in space,
+we're on the space shuttle, and so this is a vacuum. Or pretty darn
+close to a vacuum. And I have light coming in at
+some angle, just like that. Let me drop a vertical. So it's coming in at some angle. Actually, let me
+make it interesting. Let me make the light go
+from the slower medium to the faster medium, just
+because the last time we went from the faster
+to the slower. So it's in a vacuum. So let's say I have some
+light traveling like this. And once again, just to get
+the "get" of whether it's going to bend inward
+or bend outward, the left side is going
+to get out first, so is going to
+travel faster first. So it will bend inwards when it
+goes into the faster material. So this is some unknown. This is some unknown material,
+where light travels slower. And let's say we were able
+to measure, the angles. So let me drop a
+vertical right here. And so let's say that this
+right here, is 30 degrees. And let's say we're
+able to measure the angle of refraction. And the angle of
+refraction over here is, let's say that
+this is 40 degrees. So given that we're able
+to measure the incident angle, and the
+angle of refraction, can we figure out the refraction
+index for this material? Or even better, can we
+figure out the speed of light in that material? So let's figure out the
+refraction index first. So we know the refraction index
+for this questionable material times the sine of
+30 degrees is going to be equal to the refraction
+index for a vacuum. Well, that's just the
+ratio of the speed of light in the vacuum to the
+speed of light in the vacuum. So that's just going to be 1. This is the same thing
+as n for a vacuum-- and I'll just write a 1 there--
+times the sine of 40 degrees. Or If we wanted to solve for
+this unknown refraction index, we just divide both sides of
+the equation by sine of 30. So our unknown
+refraction index is going to be-- this is
+just the sine of 40 degrees-- over this-- over
+the sine of 30 degrees. So we can get our
+handy calculator out. And so we have the
+sine of 40 divided by the sine of 30 degrees. Make sure you're in degree
+mode, if you try this. And you get, let's
+just round it, 1.29. So this is approximately equal
+to-- so our unknown refraction index for our material
+is equal to 1.29. So we were able to figure out
+the unknown refraction index. And we can actually
+use this to figure out the velocity of light
+in this material. Because remember, this
+unknown refraction index is equal to the
+velocity of light in a vacuum, which is 300
+million meters per second, divided by the velocity in this
+material, the unknown material. So we know that 1.29 is equal
+to the velocity of light in a vacuum. So we could write
+300 million meters per second, divided by
+the unknown velocity in this material. I'll put a question mark. And so we can
+multiply both sides times our unknown velocity. I'm running out of
+space over here, I have other stuff
+written over here. So I could multiply
+both sides by this v and I'll get 1.29 times
+this v with a question mark, is going to be equal to 300
+million meters per second. And then I could divide
+both sides by 1.29. v question mark is going to be
+this whole thing, 300 million divided by 1.29. Or another way to
+think of it is, light travels 1.29
+times faster in a vacuum than it does in this
+material right over here. But let's figure
+out it's velocity. So in this material,
+light will travel a slow-- so the 300 million
+divided by 1.29. Light will travel a super slow
+232 million meters per second. So this is approximately,
+just to round off, 232 million meters per second. And if we had to guess
+what this material is, let's see-- I just
+made up these numbers-- but let's see if there's
+something that has a refraction index close to 1.29. So that's pretty
+close to 1.29 here. So maybe this is some
+type of interface with water in a vacuum,
+where the water somehow isn't actually
+evaporating because of the lack of pressure. Or maybe it's some
+other material. Let's keep it that
+way, maybe it's some type of solid material. But anyway, those
+were, hopefully, two fairly straightforward
+Snell's law problems. In the next video, I'll do a
+slightly more involved one.

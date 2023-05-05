@@ -1,0 +1,110 @@
+- [Voiceover] Let's talk
+about thin film interference. What does this mean? Well, it's kind of redundant, film already means something really thin, a thin amount of substance. And thin film means really, really thin. So, how does this happen? It can happen naturally. When it rains outside, there
+will be puddles of water. And because there's oil
+left over on the road, sometimes some oil will
+float on top of the water, and it's often a very
+thin, small amount of oil. In other words, the thickness of the oil floating on the water is extremely thin. So, we'll call this thickness t. How do we know it's thin and how do we know it's
+there, if we can't see it? We know it's there, because
+if you look down at it, if you look down at the
+water, you'll sometimes see a colorful pattern in here,
+and that colorful pattern on the top of the water, streaks of red and blue
+and orange and green, happen because of thin film interference. It also happens in bubbles. If you blow a bubble and you
+hold it on a bubble wand, you will see that there's
+these colors in there. And those are coming from
+thin film interference. How does it happen? Well, light comes in, so,
+this might be from the sun or whatever, some source of light. Comes in here; that's only one light ray. We need multiple light
+rays to get interference. So, what happens when it hits the oil? Part of it is gonna reflect
+off the top of the oil. So, it's gonna reflect
+right back on top of itself, but if I already draw it
+right back on top of itself, this would get messy really fast. So I'm gonna draw it over here, but know, this light really reflects right back on top of itself,
+if it was coming straight in. We'll call that light ray one. But that's not all the light does. Part of it reflects, but part of it continues through the oil. So, in order to get thin film interference the thin film has to be translucent, it has to let light through. Not just reflect it,
+but let light through. So, some of this light ray
+is gonna continue on through. Like that. But what does it do? It meets another interface. And every time light meets an
+interface between two medium it's gonna reflect and some of it is gonna pass through, refract. In this case, some of it
+reflects off of this interface. So, we have a reflection here and we have a reflection up here. Both of these were reflections. Some of this light comes back up again. I'm not gonna try to draw it
+right back on top of itself. I'll draw it over here,
+so that we can see them. So, it comes up. Now these overlap. Look, now that these are
+overlapping, wave one and wave two, now my eye can experience interference, 'cause these two waves
+are gonna hit my eye. They might be constructive,
+they might be destructive. And I might see different colors in here depending on the wavelength. That's what we want to try to figure out. How does the thickness of this oil and the wavelength of the light determine, whether this is gonna be constructive, destructive, or neither. Here's what we're gonna do. We are not gonna stray from what we know. What we know, is that to get
+constructive interference we have two light rays. What matters is the
+path length difference. If the path length
+difference is zero, lambda... Right, any integer lambda. You can just call this
+m lambda, if you want. That's gonna be constructive. And any time the path length difference is gonna be half integer
+of what lambda is. So, half lambda, three
+halves lambda, and so on. If you wanted to, you can call
+this m plus a half lambda. These are gonna be destructive. I guess, it doesn't equal constructive, it implies constructive and destructive. But, remember, gotta be
+careful, it can be weird here. These are flip-flopped, if
+there's a pi shift between them. If one of these gets pi
+shifted and the other does not. If one of the waves is pi
+shifted and the other is not, remember, if this was this thing with the back of the speakers,
+if you flipped the wires on the back of the speakers,
+now instead of the speaker wave coming out like that, speaker
+wave comes out like this. Now, if you overlap these, this
+condition gets flip-flopped. If you forgot why, go back and watch that video on wave interference. So, this is the condition. Integer wavelengths give us constructive, half integer wavelengths
+give us destructive, unless one is pi shifted. If they're both pi shifted,
+then this condition still holds. But if only one is pi shifted, you flip-flop these relations, and the half integer wavelengths
+give you constructive. And the whole integer
+wavelengths give you destructive. So, does that happen here? Do we have to worry about pi shifts? We didn't with double slit. Remember, with double slit, shoot, we didn't worry
+about any pi shifts. That was because one wave came in. And now these were both
+from the exact same wave, so now we know they started off in phase. How about these waves for thin film? Could there be any shift in pi? Well, there can. Every time there's a reflection,
+there can be a pi shift. I repeat, every time light reflects, there may be a pi shift. How do you know? It depends on the speed of
+the wave in those materials. Let's say we had air out here. Light has some speed in the air. Turns out the speed in
+air is about the same as the speed in vacuum. Three times 10 to the
+eighth meters per second. But I'm just gonna write
+it as V air out here. And then you have a
+certain speed of the light. Light will travel at
+certain speed in the oil. So, V oil in here is gonna be less. Let's just say, for the sake of argument, V oil, the speed of the
+light wave in the oil, is less, it's gotta be
+less, let's just say it's 2.7 times 10 to the
+eighth meters per second. And in water, again, it's gonna have a speed of light in the water. Let's say, the speed
+of light in the water, well, we don't have to say, we know that's about 2.25 times 10 to
+the eighth meters per second. So, how do we determine,
+knowing these speeds, whether there's going
+to be a pi shift or not? Here's how we tell. Every time light reflects
+off of a slow substance, there's a pi shift. So, what do I mean by that? The light here has started
+off in this material. And did it reflect off
+of a slow substance? It was in air, that's pretty fast, three times 10 to the eighth. It reflected off of oil, it
+reflected off of a medium, where it would have traveled slower. So, this reflection right
+here does get a pi shift. There's a pi shift for this reflection. The light wave that came in. If it came in at a peak, then it's getting sent
+back out as a valley. And if it came in as this point going up, it'll leave as this point going down. It's gonna get shifted
+by 180 degrees, or pi. How about this one down here, did it reflect off of a slow medium? It did, it was in oil. It would have traveled into water, which is slower than the oil. So, this one also gets a pi shift. And same thing, if it came in as a peak, it'll leave as a valley. What does that mean for
+this condition up here? If both are pi shifted, it's as if neither of them gets shifted. If we flipped both of them upside down, well, everything is cool again. We just made everything
+back to where it was. So, we would not swap these
+conditions in this case. If, for some reason, we use
+something besides water, we use some other liquid here, and this liquid had a
+speed of, instead of 2.25, let's say the speed here was
+2.85 times 10 to the eighth. Now, that doesn't change anything up here. This is still getting a pi shift. It was in air, it reflected
+off of something slower, oil. And by slower I mean, if
+the light traveled into it, it would travel slower,
+so that gets a pi shift. But now this one down here, this light ray that was in the oil, would
+have gone through water, sorry, this isn't water anymore,
+this is some new liquid. It reflected off of this liquid that it would have
+traveled faster through. So, does it get a pi shift? Nope, there would be no
+more pi shift down here, only one of these reflected
+light rays get a pi shift. And if that ever happens,
+if one of the light rays gets pi shifted and the other does not, then we would swap these conditions, and it'd be the half integer wavelengths that would give us constructive, and the whole integer wavelengths that would give us destructive. Let me just be clear here, let me show you what I'm talking about. Let me clear this off. If I had material, and
+right here it's slow compared to this one. If it reflects off of a
+fast material, no pi shift. No 180 degree shift. But if it's in a fast material and it reflects off of a slow material, then yes, this gets a pi shift. This gets a 180 degree shift. That's how you determine it,
+is whether it reflects off of a fast material or if it
+reflects off of a slow material. For both sides, the top two up here, you gotta ask the same question: did it go from slow to
+fast, reflect off of a fast, or did it reflect off of a slow. That's how you determine. If it reflects off of a fast, no pi shift. If it reflects off of a slow material, then it does get a pi shift. Okay, so that's how you
+deal with pi shifts. Let's go back to this one. There's a few more details here. People have a lot of trouble
+with thin film, to be honest. That's one problem, is they
+don't like figuring out whether it was pi shifted or not. It's actually not that hard
+once you know the rule. But there's another problem
+here, what's delta x? We never even said what delta x is. It's gotta be related to the thickness. Imagine these both waves come in, imagine both waves are combined
+in this big wave coming in. They were both in there to start off with. They both travel that distance. Wave one reflects off and
+just travels this distance. Wave two also travels that distance, but only after wave two traveled this extra distance within the thin film. So, the extra path length
+the wave two traveled compared to wave one
+was not the thickness t. Here's where people make the mistake, people think that delta
+x for thin film is t. No, the wave two had to
+travel down and then back up. So it's two t. This is the key for
+thin film interference. The path length difference
+will always be two t. I'd just have to come up
+here, I know what delta x is. For thin film it's always
+gonna just be equal to two times the thickness
+of the thin film. So I'm gonna put two t here. This is my condition,
+this is how I change this to make it relevant for thin film. For double slit delta x was d sin theta. For the thin film delta x,
+the path length difference, is just two times t, so
+it's kind of simpler. You've got these pi shifts to worry about, but the delta x is simpler. All right, so that's not too bad. Anything left to worry about? Yes, one more thing to worry about.

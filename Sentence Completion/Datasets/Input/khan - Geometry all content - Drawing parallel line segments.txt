@@ -1,0 +1,36 @@
+Any pair of points can be
+connected by a line segment. That's right. Connect two pairs
+of black points in a way that creates two
+parallel line segments. So let's see if we can do that. So I could create
+one segment that connects this
+point to this point and then another
+one that connects this point to this point. And they look pretty parallel. In fact, I think this
+is the right answer. If we did it another way, if
+we had connected that point to that point and this
+point to this point, then it wouldn't
+look so parallel. These clearly, if they
+were to keep going, they would intersect
+at some point. So let me set it back up the
+way I did it the first time. Let me make these
+two points parallel. And these are line
+segments because they have two end points. They each have two end points. And they continue forever. Well they don't
+continue forever. They continue forever in no
+directions, in zero directions. If it was a ray, it
+would continue forever in one direction. If it's a line, it
+continues forever past both of these points. In fact, it wouldn't
+have end points because it would
+just continue forever in both of these directions. Let's do one more. Drag the ray so it
+has an endpoint at A, so we want to make its endpoint
+at A where the ray terminates and goes through one of
+the other black points. The ray should also be
+parallel to the pink line. So I have two options. I could make it go
+through this black point, but it's clearly not parallel. In fact, it looks
+perpendicular here. So let's try to make it
+go through this point. Well, yes, when I do that, it
+does indeed look like my ray is parallel to the pink line. And this is a ray because
+it has one endpoint. This is where the
+ray terminates. It's an endpoint. It literally ends there. And it continues forever
+in one direction. In this case, the
+direction is to the right. It continues forever
+to the right. So it continues forever
+in one-- continues forever in one direction.

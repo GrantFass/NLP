@@ -1,0 +1,106 @@
+- [Voiceover] So, let's say I have some multi-variable function like F of XY. So, they'll have a two variable input, is equal to, I don't know, X squared times Y, plus sin(Y). So, allow for just a single number. It's a scalar valued function. Question is, how do we take the derivative of an expression like this? And there's a certain method
+called a partial derivative, which is very similar
+to ordinary derivatives and I kinda wanna show
+how they're secretly the same thing. So, to do that, let me
+just remind ourselves of how we interpret the notation
+for ordinary derivatives. So, if you have something
+like F(X)=X squared, and let's say you wanna
+take its derivative, and I'll use the Leibniz notation here, df/dx, and let's evaluate it at two, let's say. I really like this notation
+because it's suggestive of what's going on. If we sketch out a graph, so this axis represents our output, this over here represents our input, and X squared has a certain
+parabolic shape to it. Something like that. Then we go to the input,
+x equals one, two. This little DX here, I like to interpret as just a little nudge in the X direction. And it's kind of the size of that nudge. And then DF, is the resulting change in the output after you make that initial little nudge. So, it's this resulting change. And when you're thinking
+n terms of graphs, this is slope. You kind of have this rise over run for your ratio between the tiny change of the output that's caused
+by a tiny change in the input. And of course, this is
+dependent on where you start. Over here we have X=2. But, you could also think
+about this without graphs if you really wanted to. You might just think about, your input space as just a number line and your output space,
+also as just a number line, the output of F over here. And really, you're just thinking
+of somehow mapping numbers from here onto the second line. And in that case, your initial nudge, your initial little DX, would be some nudge on that number line. And you're wondering how that influences the function itself. So maybe that causes a nudge
+that's four times as big and that would mean your
+derivative is four at that point. So, the reason I'm talking about this is because over in the multi-variable world, we can pretty much do the same thing. You can write df/dx and
+interpret that as saying, hey how does a tiny change in
+the input in the X direction influence the output. But, this time, the way
+that you might visualize it, you'd be thinking of your input space. Here, I'll draw it down
+here, as the XY plane. So, this time, this is not
+gonna be graphing the function, this is, every point on
+the plane is an input. And let's say you were evaluating this at a point like one, two. In that case, you'd go over
+to the input that's one and then two, and then you'd say, okay, so this tiny nudge in the input, this tiny change DX, how does
+that influence the output. And in this case the output, I mean, it's still just a number. So maybe we go off to the side here and we draw just like a
+number line as our output. And somehow we're thinking
+about the function as mapping points on the
+plane to the number line. So you'd say, okay, that's your DX, how much does it change the output? And, maybe this time it
+changes it negatively. It depends on your function. And that would be your DF. And you can also do this
+with the Y variable, right. There's no reason that
+you can't say DF, DY, and evaluate at that same point, one, two. And interpret totally the same way. Except, this time your DY would be a change in the Y direction. So maybe I should really
+emphasize here that that DX is a change in
+the X direction here and that DY is a change
+in the Y direction. And maybe, when you change
+your F according to Y, it does something different. Maybe, the output increases
+and it increases by a lot, it's more sensitive to Y. Again, it depends on the function. And I'll show you how you can
+compute something like this in just a moment here. But, first there's kind of
+an annoying thing associated with partial derivatives,
+where we don't write them with D's in DX/DF. People came up with this new notation, mostly just to emphasize to the reader of your equation that it's a multi-variable function involved. And what you do, is
+you say, you write a D, but it's got kind of a curl at the top. It's this new symbol and
+people will often read it as partial. So, you might read like
+partial F, partial Y. If you're wondering, by the way, why we call these partial derivatives, it's sort of like, this
+doesn't tell the full story of how F changes 'cause it only
+cares about the X direction. Neither does this, this only
+cares about the Y direction. So, each one is only a
+small part of the story. So, let's actually evaluate
+something like this. I'm gonna go ahead and
+clear the board over here. I think the one-dimensional analogy is something we probably have already. So, little remnants. So, if you're actually
+evaluating something like this, here, I'll write it up here again up here. Partial derivative of
+F, with respect to X, and we're doing it at one, two. It only cares about
+movement in the X direction, so it's treating Y as a constant. It doesn't even care about
+the fact that Y changes. As far as it's concerned,
+Y is always equal to two. So, we can just plug
+that in ahead of time. So, I'm gonna say partial, partial X, this is another way you might write it, put the expression in here. And I'll say X squared,
+but instead of writing Y, I'm just gonna plug in that
+constant ahead of time. 'Cause when you're only
+moving in the X direction, this is kind of how the
+multi-variable function sees the world. And I'll just keep a little note that we're evaluating this
+whole thing at X equals one. And here, this is actually
+just an ordinary derivative. This is an expression that's an X, you're asking how it changes as you shift around X and
+you know how to do this. This is just taking the derivative of X square times two is gonna be 4x 'cause
+X squared goes to 2x. And then the derivative of a constant, sin of two is just a constant, is zero. And of course we're evaluating
+this at X equals one, so your overall answer is gonna be four. And as for practice, let's also do that with derivative with respect to Y. So, we look over here, I'm
+gonna write the same thing. You're taking the partial derivative of F with respect to Y. We're evaluating it at
+the same point one, two. This time it doesn't care about
+movement in the X direction. So, as far as it's concerned, that X just stays constant at one. So, we'd write one squared
+times Y, plus sin(Y). Sin(Y). And you're saying, oh, I'm keeping track of this at Y=2. So, it's kind of, you're
+evaluating at Y=2. When you take the
+derivative, this is just 1xY. So the derivative is one. This over here, the
+derivative is cosine, cos(Y). Again, we're evaluating
+this whole thing at Y=2. So, you're overall answer, it would be 1+cos(2). I'm not sure what the value of cos(2) is off the top of my head, but that would be your answer. And, this is a partial
+derivative at a point, but a lot of times, you're
+not asked to just compute it at a point, what you
+want is a general formula that tells you, hey, plug in any point XY and it should spit out the answer. So, let me just kinda go
+over how you would do that. It's actually very similar, but this time, instead of
+plugging in the constant ahead of time, we just have to pretend that it's a constant. So let me make a little bit
+of space for ourselves here. We don't need any of this anymore. I'm gonna leave the partial
+partial F, partial partial Y. We want this as a more
+general function of X and Y. Well we kind of do the same thing. We're gonna say that this is derivative with respect to X, and I'm using partials
+just to kind of emphasize that it's a partial derivative. And now, we'd write X squared and then kind of emphasize that
+it's a constant value of Y, plus the sin, and again, I'll say Y. And here, I'm writing the variable Y, but we have to pretend
+like it's a constant, you're pretending that you plugin two or something like that. And you still just take the derivative. So, in this case, the derivative of X
+squared times a constant, is just 2x times that constant. And over here, the derivative
+of a constant is always zero. So that's just always gonna be zero. So, this is your partial derivative as a more general formula. If you plugged in one, two to this, you'd get what we had before. And similarly, if you're doing this with partial F partial Y, we write down all of the same things, now you're taking it with respect to Y. And I'm just gonna copy
+this formula here actually. But this time, we're considering all of the the X's to be constants. So, in this case, when
+you take the derivative with respect to Y of
+some kind of constant, constant squared is a constant, times Y, it's just gonna
+equal that constant. So, this is gonna be X squared. And over here, you're taking
+the derivative of sin(Y). There's no X's in there,
+so that remains the sin(Y). Now this is a more general formula. If you plugged in one,
+two, you would get one. I'm sorry that's cos(y). Cos(y) because we're taking a derivative. So, if you plugged in one, two, you would get 1+cos(1), which is what we had before. So this, this is really what you'll see for how to compute a partial derivative. You pretend that one of
+the variables is constant and you take an ordinary derivative. And in the back of your mind, you're thinking this is because you're just
+moving in one direction for the input and you're seeing
+how that influences things. And then, you might move in
+one direction for another input and see how that influences things. In the next video, I'll
+show you what this means in terms of graphs and slopes, but it's important to understand
+that graphs and slopes are not the only way to
+understand derivatives because as soon as you start thinking about vector valued functions or functions with inputs of
+higher dimensions than just two, you can no longer think
+in terms of graphs. But, this idea of nudging
+the input in some direction, seeing how that influences the output, and then taking the ratio
+of that output nudge to the input nudge, that's a more general
+way of viewing things. And that's gonna be very
+helpful moving forward in multi-variable calc.

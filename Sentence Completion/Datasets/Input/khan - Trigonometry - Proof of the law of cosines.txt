@@ -1,0 +1,113 @@
+In the last video, we had a
+word problem where we had-- we essentially had to figure out
+the sides of a triangle, but instead of, you know, just
+being able to do the Pythagorean theorem and because
+it was a right triangle, it was just kind of a normal triangle. It wasn't a right triangle. And we just kind of chugged
+through it using SOHCAHTOA and just our very simple trig
+functions, and we got the right answer. What I want to do now is to
+introduce you to something called the law of cosines,
+which we essentially proved in the last video, but I want to
+kind of prove it in a more-- you know, without the word
+problem getting in the way, and I want to show you, once you
+know the law of cosines, so you can then apply it to a problem,
+like we did in the past, and you'll do it faster. I have a bit of a mixed opinion
+about it because I'm not a big fan of memorizing things. You know, when you're 40 years
+old, you probably won't have the law of cosines still
+memorized, but if you have that ability to start with the trig
+functions and just move forward, then you'll
+always be set. And I'd be impressed if
+you're still doing trig at 40, but who knows? So let's go and let's
+see what this law of cosines is all about. So let's say that I
+know this angle theta. And let's called this
+side-- I don't know, a. No, let's call this side b. I'm being a little
+arbitrary here. Actually, let me stay in
+the colors of the sides. Let's call that b and let's
+call this c, and let's call this side a. So if this is a right triangle,
+then we could have used the Pythagorean theorem
+somehow, but now we can't. So what do we do? So we know a-- well, let's
+assume that we know b, we know c, we know theta, and then
+we want to solve for a. But, in general, as long as you
+know three of these, you can solve for the fourth once you
+know the law of cosines. So how can we do it? Well, we're going to do
+it the exact same way we did that last problem. We can drop a line
+here to make-- oh, my God, that's messy. I thought I was using
+the line tool. Edit, undo. So I can drop a line like that. So I have two right angles. And then once I have right
+triangles, then now I can start to use trig functions and
+the Pythagorean theorem, et cetera, et cetera. So, let's see, this is a right
+angle, this is a right angle. So what is this side here? Let me pick another color. I'm probably going to get too
+involved with all the colors, but it's for your improvement. So what is this side here? What is the length of that
+side, that purple side? Well, that purple side is just,
+you know, we use SOHCAHTOA. I was just going to write
+SOHCAHTOA up here. So this purple side is adjacent
+to theta, and then this blue or mauve side b is the hypotenuse
+of this right triangle. So we know that-- I'm just
+going to stick to one color because it'll take me forever
+if I keep switching colors. We know that cosine of theta--
+let's call this side, let's call this kind of subside--
+I don't know, let's call this d, side d. We know that cosine of theta
+is equal to d over b, right? And we know b. Or that d is equal to what? It equals b cosine theta. Now, let's call this
+side e right here. Well, what's e? Well, e is this whole c
+side-- c side, oh, that's interesting-- this whole c side
+minus this d side, right? So e is equal to c minus d. We just solved for d, so
+side e is equal to c minus b cosine of theta. So that's e. We got e out of the way. Well, what's this magenta
+side going to be? Well, let's call this magenta--
+let's call it m from magenta. Well, m is opposite to theta. Now, we know it. We've solved for c as well, but
+we know b, and b is simple. So what relationship gives us
+m over b, or involves the opposite and the hypotenuse? Well, that's sine:
+opposite over hypotenuse. So we know that m over b is
+equal to sine of theta. We know that-- let
+me go over here. m over b, right, because this
+is the hypotenuse, is equal to sine of theta, or that m
+is equal to b sine of theta, right? So we figured out m, we
+figured out e, and now we want to figure out a. And this should
+jump out at you. We have two sides of
+a right triangle. We want to figure
+out the hypotenuse. We can use the
+Pythagorean theorem. The Pythagorean theorem tells
+us a squared is equal to m squared plus e squared, right? Just the square of
+the other two sides. Well, what's m squared
+plus e squared? Let me switch to another
+color just to be arbitrary. a squared is equal
+to m squared. m is b sine of theta. So it's b sine of theta
+squared plus e squared. Well, e we figure out is this. So it's plus c minus b
+cosine theta squared. Now, let's just chug
+through some algebra. So that equals b sine-- b
+squared sine squared of theta. Sine squared of theta
+just means sine of theta squared, right? Plus, and we just foiled
+this out, although I don't like using foil. I just multiply it out. c squared minus 2cb cosine
+theta plus b squared cosine theta, right? I just expanded this out
+by multiplying it out. And now let's see if we can
+do anything interesting. Well, if we take this term and
+this term, we get-- those two terms are b squared sine
+squared of theta plus b squared cosine-- this should be squared
+there, right, because we squared it. b squared cosine squared of
+theta, and then we have plus c squared minus 2bc cosine theta. Well, what does
+this simplify to? Well, this is the same thing
+as b squared times the sine squared theta plus
+cosine squared of theta. Something should be jumping out
+at you, and that's plus c squared minus 2bc cosine theta. Well, this thing, sine
+squared plus cosine squared of any angle is 1. That's one of the
+earlier identities. That's the Pythagorean
+identity right there. So this equals 1, so then
+we're left with-- going back to my original color. We're almost there-- a squared
+is equal to-- this term just becomes 1, so b squared. We're just left with a b
+squared plus c squared minus 2bc cosine of theta. That's pretty neat, and this
+is called the law of cosines. And it's useful because, you
+know, if you know an angle and two of the sides of
+any triangle, you can now solve for the other side. Or really, if you want to, if
+you know three sides of a triangle, you can now solve
+for any angle, so that also is very useful. The only reason why I'm a
+little bit, you know, here, there, is I don't-- if you are
+in trigonometry right now and you might have a test, you
+should memorize this because it'll make you faster, and
+you'll get the answer right quicker. I'm not a big fan of just
+memorizing it without knowing where it came from, because a
+year from now or two years from now when you go to college and
+it's been four years since you took trigonometry, you probably
+won't have this memorized. And if you face a trig problem
+all of a sudden, it's good to kind of get there from scratch. With that said, this is the law
+of cosines, and if you use the law of cosines, you could have
+done that problem we just did a lot faster because we just--
+you know, you just have to set up the triangle and then just
+substitute into this, and you could have solved for a in
+that ship off-course problem. I'll see you in the next video.

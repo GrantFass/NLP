@@ -1,0 +1,73 @@
+- [Instructor] So, here's a pink ball rolling toward a green cube that's sitting at rest on
+a frictionless surface. When the pink ball hits and
+slams into the green cube, it's gonna exert a force to
+the right on the green cube and the green cube's gonna speed up. But because of Newton's third law, whatever force the pink ball exerts on the green cube to the right has to be equal and opposite to the force the green cube exerts
+backward on the pink ball. So, the green cube's
+gonna gain some momentum, but the pink ball is
+gonna lose some momentum. And here's the cool thing. Whatever momentum is
+gained by this green cube has to be the same amount of momentum that's lost by the pink ball. So, if the green cube gained three units of momentum to the right, and then, the pink ball has to lose three units of momentum to the right. And this is true, whether these are the same
+mass or different masses, or whether the green cube was moving left to
+start or right to start. However they collide, if two objects collide, the change in momentum
+between the two objects has to be equal and opposite. And this is why we love momentum. Whatever momentum is gained by one has to be lost by the other. And so, how is that possible? You might be like, "How can that work?" Well, let's go up here. Think about these forces. The forces on each object
+are equal and opposite. Here's the cool part though. The time they're in contact
+also has to be equal because as soon as one of them
+loses contact with the other, the other loses contact with the one. And in physics, force times
+time is called the impulse. Now, this is the change in momentum. This will equal the change in momentum. So, if you wanna know how much momentum was gained by this green cube, multiply the force
+exerted on it by the time, you'll get the change in
+momentum of the green cube. That's true for this pink ball. And look, the force is backwards. It's just the negative
+of this other impulse. So, this is why the pink ball, no matter what it's mass
+or how fast it's going, same with green cube, these changes in momentum
+must be equal and opposite simply due to Newton's third law. So, to be clear, what I'm saying is this. If you are to graph the momentum, this pink ball would have
+started off with some momentum. And that would have been
+constant before the collision if there's no friction or resistance. But then, it lost some momentum. So, this goes down and
+maybe end up right here. And then, afterward, it'll maintain a constant amount of momentum. The green box, the green cube here, started with zero
+momentum, it was at rest. During this collision,
+it gained some momentum. So, it's gonna jump up maybe to here. What I'm saying is that, and
+afterward, it stays constant, what I'm saying is that
+these two jumps are the same. You know, if this thing lost, let's say it lost four units of momentum, well then, this green cube has to gain four units of momentum. And you might be like,
+"Okay, I don't care." But here's why you should care. If you are to graph the total momentum, what this means is that
+the total momentum, which was just the pink ball initially, is gonna remain constant the whole time. It's as if the momentum never
+realized a collision occurred. This total momentum just remains constant. And this is why conservation
+and momentum is a thing. It is why it's really useful. The total initial momentum in a system, even if a collision occurs
+between objects in that system, the total initial momentum must be equal to the total final momentum. As long as the forces are only internal, that is to say between
+objects in the system, and there's no external forces, then, this will always be true. So, this is a super powerful tool we can use to problem-solve. This saves us a lot of time and trouble. If a collision is occurring, this is one of our best
+methods to solve for things is conservation of momentum. Now, keep in mind. Even though the total momentum in a system has to stay the same, the momentum of an individual object does not have to stay the same. These objects can exchange
+momentum, but again, the reason this is gonna be conserved is that they do so equally. If one gains five, the
+other loses five and so on, and the total amount stays the same. So, let me show you how
+this works real quick. So, to give you an idea numerically here. So, let's say the pink
+ball was two kilograms and it was going five
+meters per second start. And the green cube had a
+mass, m, and afterward, let's say the pink ball's
+going four meters per seconds. So, it's slowed down. And the green cubes speeds up. Let's say, it's going
+eight meters per second. You might think, "Wait,
+this isn't conserved. The pink ball only lost one, five to four, but the green cube gained eight." But, remember, we're
+not conserving velocity. We're conserving momentum. So, momentum is m times v, momentum is mv, and it's a vector, you gotta be careful. It has a direction. So, I'm not saying the amount
+of velocity is conserved or anything like that. I'm saying momentum is conserved. So, what I'm saying is
+that p initial total has to equal p final total. So, only the pink ball
+had momentum initially. So, it had two kilograms times five meters per second of momentum. To start with, the green cube had none. So, this has gotta equal. Afterward, the pink ball has two kilograms times four meters per second. And the green cube does
+have momentum afterward. Now, we gotta add it up. There's gotta be the total momentum. So, plus mass of the cube times its eight meters per second. Well, so this isn't too hard. The math here is easy. So, this is gonna be 10 units of momentum, 10 kilogram meters per second is what the ball started with. And then, the ball is gonna end with eight kilogram meters per second. So, we can see right here, the ball lost two units of momentum. That means the green cube better gain two units of momentum. So, it's gonna be plus m times eight. And so, this is what I mean when this can help you solve problems, we can just solve for the mass now. Now, we can know what the
+mass of the cube had to be. So, 10 minus eight,
+it's gonna be two units. It's how much momentum this
+green cube has to gain. And if we divide two by eight, we get that the mass of the green cube had to be .25 kilograms. So, indeed, if we took the
+.25 kilograms times the eight that this cube ended with, .25 times eight really does give us two, positive two, it gained two units of momentum. This is why momentum is conserved. Whatever a gain in
+momentum one thing gets, there's a corresponding loss in the other. And so, this is gonna be equal. Now, how could you ever make
+it so that this was not equal? Well, this will always be equal if the only force is being exerted are internal to your system. The only way you make this nonequal is to have external forces. What would that look like? Well, imagine the ball and
+the cube were on a ramp now. So, now that this thing's inclined, gravity is gonna be
+exerting an external force. Let's say it sit like 30 degrees. And if we graph the total
+momentum of the ball and cube, it's not gonna be a straight line anymore. It is not gonna look like this. That's what it looked like before when there were no external forces. This time, it's gonna be angled up. Let's just call down the ramp positive. This time, it's gonna look like this. Gravity's pulling down the ramp. Let's call that the positive direction. If we're measuring the momentum in that parallel to the ramp direction, we're gonna see an increase
+in momentum that direction, because that's the way that this external
+force of gravity points. So, how much will this increase? How could you figure out what the change in the total momentum is gonna be? One way to do it is to find the impulse. So, remember, force times time
+would give you the impulse. Let's just say we were looking at this for about one second of the time that these were on the ramp. And let's say they have
+the values they did before. So, two kilograms and .25 kilograms. That would mean the force down
+the ramp is mg sine theta. So, the force along this
+parallel direction is m, which the total mass of our
+system is 2.25 kilograms. So, m times g, 9.8, times sine of 30. So, you need to take this sine of 30 if you wanna know the change in momentum along this ramp direction. So, the force of gravity
+parallel is mg sine theta. And then, that's the force. So, that's the force parallel to the ramp. That would give us the
+change in momentum parallel. We just have to multiply by
+the time, which is one second. And that gives us about
+11 units of momentum. So, this system would
+gain 11 units of momentum. That doesn't tell you who's gonna get it. It's not like the two gets all of it, or the .25 gets all of it. But the total system, if you watched for a second, while it's on this
+ramp, frictionless ramp, it would increase its momentum. It'd be changing its total momentum because there was an external force. So, recapping, if there are no
+external forces on a system, then, the total momentum initial will equal the total momentum final. So, using p equals mv, you can add up these contributions and set them equal to problem-solve. And in a case where there
+is an external force, you can find how much that system will gain or lose in momentum by taking that external force times the time that force was applied. That would give you the
+total change in momentum of that system over that time.

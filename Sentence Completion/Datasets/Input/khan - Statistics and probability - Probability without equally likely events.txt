@@ -1,0 +1,148 @@
+So far, we've been dealing
+with one way of thinking about probability, and
+that was the probability of A occurring is the
+number of events that satisfy A over all of the
+equally likely events. And this is all of the
+equally likely events. And so in the case
+of a fair coin, the probability of heads--
+well, it's a fair coin. So there's two
+equally likely events, and we're saying one of
+them satisfies being heads. So there's a 1/2 chance
+of you having a heads. The same thing for tails. If you took a die, and
+you said the probability of getting an even number
+when you roll the die. Well, there's six
+equally likely events, and there's three even
+numbers you could get. You could get 2, a 4, or a 6. So there's three even numbers. So once again, you have a
+1/2 chance of that happening. And this is a really
+good model where you have equally likely
+events happening. Now I'm going to change
+things up a little bit. So I'm going to draw a line
+here because this was just one way of thinking
+about probability. Now we're going to
+introduce another one that's more helpful when we can't think
+about equally likely events. And in particular, I'm going
+to set up an unfair coin. So this right over here is
+going to be my unfair coin. So that is my coin. Well, I could draw the coin. So it's a gold coin this time. It is unfair. One side of that coin is a
+little heavier than the other, even though it's
+meant to look fair. So it still has that picture
+of some president or something on one side of it. So this is the head side. This is heads, and then,
+obviously, on the back, you have tails. But as I mentioned,
+this is an unfair coin. And I'm going to make
+it interesting statement about this unfair coin and
+one that really doesn't fit into the mold that
+I set up over here, and this interesting
+statement is that we have more than a 50/50
+chance of getting heads or more than a 50% chance
+or more than a 1/2 chance of getting heads. I'm going to say that the
+probability of getting heads for this coin right
+over here is 60%. Or another way to
+say it, it's 0.6. Or another way to say
+it, it is 6 out of 10. Or another way to
+say it, it is 3/5. And this might make
+intuitive sense to you and hopefully it
+does a little bit, but I want you to
+realize that this is fundamentally different
+than what we were saying before because now we can't say that
+there are two equally likely events. There are two possible events. You can either get
+heads or tails. We're assuming that the
+coin won't fall on its edge. That's impossible. So you're either going
+to get heads or tails, but they're not
+equally likely anymore. So we really can't do
+this kind of counting the number of events
+that satisfy something over all of the possible events. In this situation, in order
+to visualize the probability, we have to kind of take what's
+called a "frequentist approach" or think about it in terms
+of frequency probability. And the way to conceptualize
+a 60% of getting heads is to think, if we had a
+super large number of trials, if we were to just flip
+this coin a gazillion times, we would expect that 60% of
+those would come up heads. It's unclear how I
+determined that this is 60%. Maybe I ran a
+computer simulation. Maybe I know exactly all
+of the physics of this, and I could completely model how
+it's going to fall every time. Or maybe I've actually
+just run a ton of trials. I've flipped the coin a
+million times, and I said, wow, 60% of those, 600,000
+of those, came up heads. And then, we could make a
+similar statement about tails. So if the probability
+of heads is 60%, the probability
+of tails-- well, there's only two
+possibilities, heads or tails. So if I say the probability
+of heads or tails, it's going to be equal
+to 1 because you're going to get one of
+those two things. You have 100% chance of
+getting a heads or a tails, and these are mutually
+exclusive events. You can't have both of them. The probability
+of tails is going to be 100% minus the
+probability of getting heads, and this, of course, is 60%. So it's 100% minus 60%, or
+40%, or as a decimal, 0.4, or as a fraction, 4/10, or as
+a simplified fraction, 2/5. So, once again,
+this probability is saying-- we can't say
+equally likely events. We could say that,
+if we're going to do a gazillion of
+these, we would expect, as we get more and more and more
+trials, more and more flips, 40% of those would be heads. Now, with that out of
+the way, let's actually do some problems with this. So let's think about the
+probability of getting heads on our first flip and
+heads on our second flip. So, once again, these
+are independent events. The point has no memory. Regardless of what I
+got on the first flip, I have an equal chance
+of getting heads on the second flip. It doesn't matter if I got
+heads or tails on the first. So this is the probability of
+heads on the first flip times the probability of heads
+on the second flip, and we already know. The probability of heads on
+any flip is going to be 60%. I'll write it as a decimal. It makes the math a little
+bit easier, 0.6, 0.6, and we can just multiply. I'll do it right over here. So this is 0.6 times 0.6. Now, it's always good
+to do a reality check. One way to think about it
+is I'm taking 6/10 of 6/10, so it should be a little
+bit more than half of 6/10 or probably a little
+bit more than 3/10. And we've explain
+this in detail where we talk about
+multiplying decimals, but we essentially just
+multiply the numbers, not thinking about
+the decimals at first. 6 times 6 is 36. And then you count
+the number of digits we have to the right
+of the decimal. We have one, two to the
+right of the decimal. So we're going to
+have two to the right of the decimal in our answer. So it is 0.36, and
+that makes sense. We're taking 60% of 0.6. We're taking 0.6 of 0.6, a
+little bit more than half of 0.6. And, once again, it's a
+little bit more than 0.3. So this also makes sense. So it's 0.36. Or another way to
+think about it is there's a 36%
+probability that we get two heads in a row,
+given this unfair coin. Remember, if it was a fair
+coin, it would be 1/2 times 1/2, which is 1/4, which
+is 25%, and it makes sense that this is more than that. Now, let's think about a
+slightly more complicated example. Let's say the probability
+of getting a tails on the first flip, getting
+a heads on the second flip, and then getting a
+tails-- I'm going to do this in a new
+color-- and then getting a tails on the third flip. So this is going to be equal
+to the probability of getting a tails on the first flip
+because these are all independent events. If you know that you had
+a tail on the first flip, that doesn't affect
+the probability of getting a heads
+on the second flip. So times the probability
+of getting a heads on the second flip,
+and then that's times the probability of getting
+a tails on the third flip. And the probability of getting
+a tails on any flip we know is 0.4. The probability of getting
+a heads on any flip is 0.6, and then the probability of
+getting tails on any flip is 0.4. And so, once again, we
+can just multiply these. So 0.4 times 0.6. There's actually a couple of
+ways we can think about it. Well, we could literally say,
+look, we're multiplying 4 times 6 times 4, and then
+we have three numbers behind the decimal point. So let's do it that way. 4 times 6 is 24. 24 times 4 is 96. So we write a 96,
+but remember, we have three numbers
+behind the decimal point. So it's one to the right
+of the decimal there, one to the right of
+the decimal there, one to the right
+of decimal there. So three to the right. So we need three to the right
+of the decimal in our answer. So one, two-- we need one more
+to the right of the decimal. So our answer is 0.096. Or another way to think about it
+is-- write an equal sign here-- this is equal to a 9.6% chance. So there's a little bit
+less than 10% chance, or a little bit less
+than 1 in 10 chance, of, when we flip this
+coin three times, us getting exactly a
+tails on the first flip, a heads on the second flip,
+and a tails on the third flip.

@@ -1,0 +1,27 @@
+- [Instructor] Use one rotation
+to map quadrilateral ABCD to the other quadrilateral. So to map this one to
+this one right over here. Use a number between zero
+and 360 degrees to describe the angle. Counter-clockwise is positive. So we're going to want to
+move is counter-clockwise to try and get it to map there. And the only option they
+give us 'cause they want us to do it with one rotation
+is the rotation tool. And so we have to think about
+what do you we want to rotate around what point and if
+we put it right over here, it looks like this point point
+A does correspond to this point right over here. So if we were to rotate this
+around, if we were to rotate this around not 90 but
+it looks like 180 degrees around this point, point
+A would show up over here, it feels like point let's see
+is that right is that right or let's actually just try it out. Point A would show up over,
+no no no that's not right, that doesn't seem to... Let's try it out. 'Cause if we rotated 180
+degrees, oh actually I was right it did match up, that's why
+this is interesting, it tests your visualization skills. So it did actually match
+up and what I did is I put that point of rotation
+exactly between those points but because it looked like
+180 degrees around this point, so rotation by 180 degrees
+about negative one negative one so the center of rotation is
+negative one negative one, the angle of rotation is 180 degrees. Point A maps to this point
+right over here, so point A maps to the point one negative
+one, one negative one. And point C point C which is
+diagonally opposite point A maps to this point right
+over here, which is six negative six, six negative
+six, six negative six and we got it right.

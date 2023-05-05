@@ -1,0 +1,126 @@
+Let's do some more
+nonhomogeneous equations. So let's take the same problem,
+but we'll change the right-hand side. Because I think you know how
+to solve the-- essentially, the homogeneous version. So the same problem as we
+did in the last video. The second derivative of y
+minus 3 times the first derivative y minus 4
+times the function. And now in the last example,
+the nonhomogeneous part was 3e to the 2x. But we're tired of dealing with
+exponent functions, so let's make it a trigonometric
+function. So let's say it equals
+2 sin of x. So the first step you do is
+what we've been doing. You essentially solve the
+homogeneous equation. So this left-hand side
+is equal to 0. You do that by getting the
+characteristic equation r squared minus 3r minus
+4 is equal to 0. You get the solutions, r is
+equal equal to 4, r is equal to minus 1, and then you get
+that general solution. We did this in the last video. You get the general solution
+of the homogeneous. Maybe we'll call this the
+homogeneous solution. y homogeneous. We've got the C1 e to the 4x
+plus C2e to the minus x. And that's all and good, but
+in order to get the general solution of this nonhomogeneous
+equation, I have to take the solution of the
+nonhomogeneous equation, if this were equal to 0, and
+then add that to a particular solution that satisfies
+this equation. That satisfies-- when you take
+the second derivative minus 3 times the first minus 4 times
+the function, I actually get 2 sin of x. And here once again we'll use
+undetermined coefficients. And undetermined coefficients,
+just think to yourself. What function, when I take its
+second and first derivatives and add and subtract multiples
+of them to each other, will I get sine of x? Well, two functions end up with
+sine of x when you take the first and second
+derivatives. And the sine and cosine of x. So it's a good guess. And that's really what you're
+doing it the method of undetermined coefficients. You take a guess of a particular
+solution and then you solve for the undetermined
+coefficients. So let's say that our guess is
+y is equal to-- I don't know, some coefficient times
+sine of x. And if this was sine
+of 2x, I'd put A times sine of 2x here. Just because I still want-- no
+matter what happens here-- the sine of 2x's or maybe cosine
+of 2x's to still exist. If this was a sine of 2x, there's
+nothing I could do to a sine of x, or nothing at least
+trivial that I could do to the sine of x. It would end up with
+a sine of 2x. So whatever's here,
+I want here. Plus B, some undetermined
+coefficient times cosine of x. And once again, this
+was sine of 2x. I'd want a cosine of 2x here. So let's figure out its first
+and second derivatives. So the first derivative of this
+y prime is equal to A cosine of x. Cosine derivative is minus sine,
+so minus B sine of x. And then the second
+derivitive-- I'll write down here. The second derivative
+is equal to what? Derivative of cosine is minus
+sine, so minus A sine of x minus B cosine of x. I think you're starting to see
+that the hardest thing in most differential equations problems
+is not making careless mistakes. It's a lot of algebra and a lot
+of fairly basic calculus. And the real trick is to not
+make careless mistakes. Every time I say that,
+I tend to make one. So I'm going to focus
+extra right now. So anyway, let's take these and
+substitute them back into this nonhomogeneous equation. Let's see if I can solve
+for A and B. So the second derivative
+is that. Let me just rewrite it,
+just so that you see what I'm doing. So I'm going to take the second
+derivative, y prime prime, so that's minus A sine
+of x minus B cosine of x. I'm going to add minus 3 times
+the first derivative to that. And I'm going to write the sines
+under the sines and the cosines under the consines. So minus 3 times this. So the sine is, let's see. It's plus 3B sine of x
+minus 3 times this. So minus 3A cosine of x. And then minus 4 times our
+original function. So minus 4A sine of x. Right? Minus 4 times that. Minus 4 times this. Minus 4B cosine of x. And when I take the sum of all
+of those-- that's essentially the left-hand side to this
+equation-- when I take the sum of all of that, that is
+equal to 2 sine of x. I could have written them out
+in a line, but it would have just been more confusing. And now this makes it easy to
+add up the sine of x's and the cosine of x's. So if I add up all the
+coefficients on the sine of x, I get minus A plus
+3B minus 4A. So that looks like minus 5A plus
+3B sine of x plus-- and now what are the coefficients
+here? I have minus B and then I have
+another minus 4B, so minus 5B and then minus 3A. So minus 3A minus
+5B cosine of x. The cosine of x should
+go right here. So anyway, how do I
+solve for A and B? Well, I have the minus 5A
+3B is equal to whatever coefficients in front
+of sine of x here. So minus 5A plus 3B must
+be equal to 2. And then minus 3A minus 5B is
+the coefficient on cosine of x, although I kind of
+squeezed in the cosine of x here, right? So this must be equal to
+whatever the coefficient on cosine of x is on the
+right-hand side. Well the coefficient of
+cosine of x on the right-hand side is 0. So that sets up a system of two unknowns with two equations. A linear system. So we get minus 5A plus
+3B is equal to 2. And we get minus 3A minus
+5B is equal to 0. And let's see if I can simplify
+this a little bit. Let's see. This is a system of two
+unknowns, two equations. If I multiply the top equation
+by 5 1/3s, right? Actually, let me multiply the
+top equation by 5 1/3s. I get minus 25/3 A plus 5B is
+equal to 5 1/3s times this. 5 1/3s times 2 is 10 1/3s. And the bottom equation
+is minus 3A minus 5B is equal to 0. Let's add the two equations. I get 10 1/3s is equal to--
+these cancel out. That's minus 25/3 minus 9/3
+A is equal to 10 1/3s. This is getting a little bit
+messier than I like, but we'll soldier on. So minus 25 minus 9. What's minus 25 minus 9? So that is 34. So we get 34 over 3A
+is equal to 10/3. We can multiply both
+sides by 3. Divide both sides by 34. A is equal to 10/34, which
+is equal to 5/17. Nice ugly number. 5/17 and now we can
+solve for B. So let's see. Minus 3 times A minus
+3 times A. 5/17 minus 5B is equal to 0. So that's what? Minus 15/17 is equal
+to plus 5B. I just took this and put it
+on the right-hand side. And then divide both
+sides by 5. Oh, you know what? I realized I made a careless
+mistake here. Minus 25 minus 9. That's the minus 34 over 3. so minus 34A is equal to 10. A is equal to minus 10/34
+or minus 5/17. So minus 3 times minus 5/17. So 5/17 is equal to
+plus 5B, right? And then we get B is
+equal to 3/17. That was hairy. And notice, the hard
+part was not losing your negative sines. But anyway, we now have our
+particular solution to this. let me try to write in a
+non-nauseating color, although I think I picked a
+nauseating one. The particular solution is A
+minus 5/17 sine of x-- right? That was a coefficient on sine
+of x-- plus B plus 3/17 times cosine of x. And if we look at our original
+problem, the general solution out of this nonhomogeneous
+equation would be this-- which is the general solution to the
+homogeneous equation, which we've done many videos on--
+plus now our particular solution that we solved using
+the method of undetermined coefficient. So if you just take that and add
+it to that, you're done. And I am out of time. See you in the next video.

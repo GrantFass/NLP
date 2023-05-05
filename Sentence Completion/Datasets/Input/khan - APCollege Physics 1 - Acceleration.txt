@@ -1,0 +1,151 @@
+In this video, I want to talk a
+little bit about acceleration. And this is probably
+an idea that you're somewhat familiar
+with, or at least you've heard the term
+used here or there. Acceleration is just the
+change in velocity over time. Probably one of the most typical
+examples of acceleration, if you're at all
+interested in cars, is that many times
+they will give you acceleration numbers, especially
+for sport cars, actually all cars if you look
+up in Consumer Reports, or wherever they give the
+stats on different cars. They'll tell you something like,
+I don't know, like a Porsche-- and I'm going to make up
+these numbers right over here. So let's say that we
+have a Porsche 911. They'll say that a Porsche 911,
+they'll literally measure it with a stopwatch, can go
+0 to 60 miles per hour. And these aren't
+the exact numbers, although I think it's
+probably pretty close. 0 to 60 miles per hour
+in, let's say, 3 seconds. So, although officially what
+they're giving you right here are speeds, because
+they're only giving you magnitude and no
+direction, you can assume that it's in
+the same direction. I mean, We could
+say, 0 miles per hour to the east to 60 miles per
+hour to the east in 3 seconds. So what was the
+acceleration here? So I just told you the
+definition of acceleration. It's change in
+velocity over time. So the acceleration-- and
+once again acceleration is a vector quantity. You want to know not only
+how much is velocity changing over time, you also care
+about the direction. It also makes sense
+because velocity itself is a vector quantity. It needs magnitude
+and direction. So the acceleration
+here-- and we're just going to assume
+that we're going to the right, 0 miles per
+hour and 60 miles per hour to the right-- so it's going
+to be change in velocity. So let me just write it
+down with different notation just so you could
+familiarize yourself if you see it in the
+textbook this way. So change in velocity. This delta symbol right
+here just means "change in." Change in velocity over time. It's really, as I've
+mentioned in previous videos, it's really time is
+really a change in time. But we could just
+write time here. This 3 seconds is
+really change in time. It might have been, if you
+looked at your second hand, it might have been 5 seconds
+when it started, and then my 8 seconds when it stopped, so
+it took a total of 3 seconds. So time is really a
+change in seconds. But we'll just go with time
+right here, or just with a t. So what's our
+change in velocity? So our final velocity
+is 60 miles per hour. And our original velocity
+was 0 miles per hour. So it's 60 minus
+0 miles per hour. And then, what is our time? What is our time over here? Well, our time is, or we could
+even say our change in time, our change in time is 3 seconds. So this gives us 20 miles
+per hour, per second. Let me write this down. So this becomes,
+this top part is 60. 60 divided by 3 is 20. So we get 20. But then the units are
+little bit strange. We have miles. Instead of writing MPH, I'm
+going to write miles per hour. That's the same thing as MPH. And then we also, in the
+denominator, right over here, have seconds. Which is a little bit strange. And as you'll see, the
+units for acceleration do seem a little bit strange. But if we think it
+through, it actually might make a little
+bit of sense. So miles per hour. And then we could either
+put seconds like this, or we could write per second. And let's just think
+about what this is saying, and then we could get
+it all into seconds, or we could all get into
+hours, whatever we like. This is saying that every
+second, this Porsche 911 can increase its velocity
+by 20 miles per hour. So its acceleration is 20
+miles per hour, per second. And actually, we should
+include the direction, because we're talking
+about vector quantities. So this is to the east. So this is east, and then
+this is east right over here-- just so we make sure that
+we're dealing with vectors. You're giving it a
+direction, due east. So every second it can
+increase in velocity by 20 miles per hour. So hopefully, with
+the way I'm saying it, it makes a little bit of sense. 20 miles per hour, per second. That's exactly what
+this is talking about. Now we could also
+write it like this. This is the same thing
+as 20 miles per hour, because if you take
+something and you divide by seconds, that's the
+same thing as multiplying it by 1 over seconds. So that's miles
+per hour-seconds. And although this
+is correct, to me this makes a little
+less intuitive sense. This one literally says it. Every second, it's increasing in
+velocity by 20 miles per hour. 20 miles per hour increase
+in velocity per second. So that kind of
+makes sense to me. Here it's saying 20
+miles per hour-seconds. So once again, it's
+not as intuitive. But we can make this so it's
+all in one unit of time, although you don't
+really have to. You can change this
+so that you get rid of maybe the hours
+in the denominator. And the best way to get rid
+of an hour in the denominator, is by multiplying
+it by something that has hours in the numerator. So hour and seconds. And here, the smaller
+unit is the seconds. So it's 3,600 seconds
+for every 1 hour. Or 1 hour is equal
+to 3,600 seconds. Or 1/3600 of an hour per second. All of those are legitimate
+ways to interpret this thing in magenta
+right over here. And then you multiply, do a
+little dimensional analysis. Hour cancels with hour. And then will be
+equal to 20/3600. 20/3600 miles per
+seconds times seconds. Or we could say,
+miles-- let me write it this way-- miles per
+seconds times seconds. Or we could say,
+miles per second-- I want to do that in
+another color-- miles per second squared. And we can simplify
+this a little bit. Divide the numerator
+and denominator by 10. You get 2/360. Or you could get,
+this is the same thing as, 1/180 miles
+per second squared. And I'll just
+abbreviate it like that. And once again, this 1/180
+of a mile, how much is that? You might want to
+convert to feet. But the whole point
+in here is, I just wanted to show you
+that, well, one, how do you calculate acceleration? And give you a little bit
+of a sense of what it means. And once again, this
+right here, when you have seconds squared in
+the bottom of your units, it doesn't make a ton of sense. But we can rewrite
+it like this up here. This is 1/180 miles per second. And then we divide by
+seconds again, per second. Or maybe I can write
+like this, per second, where this whole thing
+is the numerator. So this makes a
+little bit more sense from an acceleration
+point of view. 1/180 miles per
+second, per second. Every second, this
+Porsche 911 is going to go 1/180 of a
+mile per second faster. And actually, it's
+probably more intuitive to stick to the miles per
+hour, because that's something that we have a little
+bit more sense on. And another way to visualize it. If you were to be
+driving that Porsche, and you were to look at the
+speedometer for that Porsche, and if the acceleration
+was constant-- it's actually not going to
+be completely constant-- and if you look at
+speedometer-- let me draw it. So this would be 10,
+20, 30, 40, 50, 60. This is probably not what
+the speedometer for a Porsche looks like. This is probably more analogous
+to a small four cylinder car's speedometer. I suspect the Porsche's
+speedometer goes much beyond 60 miles per hour. But what you would
+see for something accelerating this fast is,
+right when you're starting, the speedometer
+would be right there. And that every second it would
+be 20 miles per hour faster. So after a second
+the speedometer would have moved this far. After another second
+the speedometer would have moved this far. And then after another
+second the speedometer would have moved that far. And the entire time
+you would have kind of been pasted to the
+back of your seat.

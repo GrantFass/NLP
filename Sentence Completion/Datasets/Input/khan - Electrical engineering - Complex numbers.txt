@@ -1,0 +1,37 @@
+- [Voiceover] This video's going to be a quick review of complex numbers. If you studied complex numbers in the past this will knock off some of the rust and it will help explain
+why we use complex numbers in electrical engineering. If complex numbers are new to you, I highly recommend you go look on the Khan Academy videos that Sal's done on complex numbers and those
+are in the Algebra II section. So let's get started. The complex numbers are
+based on the concept of the imaginary j, the number j, in electrical engineering
+we use the number j instead of I. And j squared is defined to be minus one. So that's the definition of j. And that's referred to
+as an imaginary number. I don't really like the name imaginary but that's what we call it. It's a real useful concept
+in electrical engineering. So with that definition we define a complex number and the usual variable we often use for that is a z, and a complex number has a real part, we'll call that x and
+it has an imaginary part that we're gonna call jy. So j is explicit out here. This is the imaginary part of the number. This is the real part of z. So based on what this number looks like, this suggests that we can maybe plot this on a two dimensional plot. And we'll call this the complex plane. And the complex plane looks like this. We can plot two parts, we'll have a real part over here on what is usually the x axis. And we'll have an imaginary part which is the vertical axis. So this is referred to
+as the complex plane. And if I have a complex number z, I could represent it on this plane by basically going over x like this, going over a distance x and up a distance y. That will give me an imaginary number and that's z. So z is a location in this complex space. And that's one representation
+of a complex number. So the other common way to
+represent a complex number is by drawing a line from the origin here and going right through z, like that. And then we basically have some radius, r, from the origin to distance out to z and it's measured by some angle like that. That angle would be theta. So in the orange is r and theta and in the blue here we have x and y and those are two
+different ways to represent exactly the same number z. So over here I can say, I can say z equals r at some angle, that's the angle symbol of theta. Now I can go over here and I can work out how we convert between the two, how do I convert from r to y and x and how do I go the other way. So one thing I notice is I just used some simple trigonometry. So this distance here if I know r, say I know r, this distance here x, is equal to the cosine of theta, times the distance r, r cosine theta. So I can say x equals r cosine of theta. So if I want to figure
+out the y distance here and I know r already, let me just move, here's
+the y distance right here. I can say y equals r
+times the sin of theta. That's this distance here. Okay, so if I know r and theta
+this is how I get x and y. Now let's go the other way. Suppose I know x and y and
+I want to know r and theta. So r, this is a right triangle here, there's our right triangle, so I use the Pythagorean theorem. So to convert from x and y to r I use the Pythagorean theorem, r squared equals x squared plus y squared. And now if I want to
+find theta I use another little bit of trigonometry, tangent is opposite over adjacent, opposite over adjacent is y over x, so tangent of theta equals y over x. So if you're gonna do
+this on your calculator you would say that theta equals the inverse tangent of y over x. So there's two conversions between two different forms of the of the complex number. We want to be able to
+use these conversions and we want to be able to use either of these two representations freely and go back and forth between them. Now there's a third representation that's also gonna be really useful to us. Now what I'm gonna do is I'm gonna take this x and y expression here and I'm gonna put it back into this way, this rectangular way of writing z. What that looks like is, z equals x is r times cosine theta and y is equal to r, I'll
+put the r out front here, r sin theta with a j in front of it. So I can write plus j sin theta. Now if you look closely at
+this expression right here, we recognize this. We recognize this as one
+side of Euler's Formula. And the other side of Euler's Formula I could rewrite z as r
+times e to the j theta. And this is called the exponential form of a complex number. All this means, what does this mean here, what is this thing? This means exactly the same thing as this and this is one of the two ways we can write complex numbers. So this r e to the j theta,
+that is z right here, that means a complex
+number sitting out here at radius r from the
+origin at angle theta. That's what you think of when you see e to the j something written down. It's just a representation
+of a complex number. And this form is going
+to be particularly useful because if you remember
+when we were solving all those differential equations, we always liked exponential solutions. So I want to put some
+squares around these guys. These are the three ways
+that we can represent a complex number and
+they're all equivalent. And I'll go over here
+just as a reminder note, I'll write down Euler's Formula. That's where that comes from. And let me write that down over here. Euler's Formula is e to the j theta equals cosine theta plus j sin theta. The other form has a negative exponent. E to the minus j theta equals
+cosine theta minus j sin theta So that's Euler's Formula. And Sal has videos on how
+to derive this equation and you would search on this
+term here in Khan Academy.

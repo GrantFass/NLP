@@ -1,0 +1,127 @@
+- [Voiceover] Here we
+have a proton NMR spectrum for a molecule that has
+a molecular formula of C five H 10 O two. And let's start by calculating the hydrogen deficiency index. So if we have five carbons,
+we can have a maximum of two times five plus two hydrogens. And so that's equal to 12 so 12 hydrogens is the maximum number for five carbons. Here we have only 10 hydrogens, and so we're missing two hydrogens. We're missing one pair of hydrogens. So, therefore, we can say
+the HDI is equal to one. And when the HDI is equal
+to one, I immediately think a double bond is present in this molecule or a ring is present in this molecule. Next, you go to the integration values. So for this signal, an
+integration value of 33 point two. For this one, 48 point four. For this one 33 point 3
+and then 48 point seven. And you divide all four integration values by the lowest one. So the lowest one would be 33 point two. So 33 point two divided by 33 point two is obviously equal to one. Forty-eight point four
+divided by 33 point two is approximately one point five. Thirty-three point three
+divided by 33 point two is obviously very close to one. And then finally, 48 point
+seven divided by 33 point two gives us approximately one point five. And these numbers tell us
+the relative ratio of protons that are giving us these four signals. But we need to think about 10 protons. So we have 10 hydrogens here,
+and so this is only relative. To get the absolute number of
+hydrogens, we need to multiply these numbers in this ratio by two. If we multiply one by
+two, we obviously get two so this signal represents two protons. Multiply one point five
+by two and we get three so this signal represents three protons. Multiply one by two, this
+signal is two protons. Multiply one point five by two, this signal is three protons. All right. Let's go through
+and look at each signal one by one. We start with the signal
+that has two protons on the left over here. So two protons that we're
+talking about is C H two group. So I go ahead and draw in
+a C H two group over here. How many neighboring protons
+for this C H two group? We can find that by thinking
+about the n plus one rule. If we have n neighboring
+protons, we'd expect to see n plus one peaks. So how many peaks do we have? One, two, three so three peaks. So to find the number of
+neighbors just subtract one. So three minus one is two
+so these two C H two protons have two neighboring protons. Next, let's think about
+the chemical shift. So this signal has a chemical shift of approximately four parts per million and that's the highest
+value for the chemical shift out of all four of these signals. And that's the region for
+a proton that's connected to a carbon that's bonded
+to an electronegative atom. And if we look at our molecular formula, we have two oxygens here. So I'm gonna take one of those oxygens and put that oxygen on that carbon because, once again, when
+you're thinking about the signal for a proton on
+a carbon that's bonded to an electronegative atom, you get
+a chemical shift somewhere. In this case, close to
+four parts a million because the oxygen is
+deshielding those protons. The oxygen is withdrawing
+electron density. All right, so that's
+one piece of the puzzle. And let's move on to our
+next signal so this will be the next piece of the puzzle. We have three protons so
+that's a methyl group. So let me go ahead and
+draw in a methyl group here so C H three. How many neighboring protons
+for those methyl protons? Well, we see one peak here. So one minus one is zero so
+zero neighboring protons. Let's think about the chemical shift. So the chemical shift is just past two parts per million
+and that's in the region for a proton that's next to a carbonyl. All right. So let's go ahead
+and draw in a carbonyl here. And we're assuming that
+the carbonyl carbon is bonded to another carbon over here. That makes sense in terms
+of numbers of neighbors. All right, so let's use blue for this. So the signal for these three protons, all right, zero neighbors. And so if we go to this carbon, if there's a carbon over
+here, there are no protons on this carbonyl carbon
+and so that explains this piece of the puzzle. Next, next signal. A C H two, all right. So we draw in a C H two here. How many neighbors? Little bit hard to see. One, two, three, four, five, six peaks. Six minus one is five so we
+would expect five neighbors using the oversimplified n plus one rule. And we'll come back to that C H two. And, finally, we have a
+signal with three protons so a C H three. How many neighbors for
+these methyl protons? We have one, two, three peaks. So three minus one is
+two, so two neighbors. All right, let's put all
+of the pieces of the puzzle together and let's draw
+the final dot structure. So let's start with this piece
+of the puzzle right here. So we have a carbonyl. So I'm gonna draw in my carbonyl here. And then we have a methyl
+group bonded to that carbonyl. So I'm gonna draw in our
+methyl group like that, and we used blue for these methyl protons. So the signal for these methyl
+protons appears right here. Next, let's think about a
+possible functional group. All right, well, we have a carbonyl. And then over here we have an oxygen. So if we put the oxygen
+next to the carbonyl, that gives us an ester. So let's go ahead and do that. Let's put the oxygen next to the carbonyl and then bonded to that
+oxygen we had a C H two. So I draw in my C H two there. And let's identify those protons. So the protons in magenta are giving us this signal over here. All right, next, let's
+think about, let's use red, and let's think about these protons, these methyl protons right here. Those methyl protons have two neighbors, and it makes sense that they would be these two neighbors right here. All right, so these chemical
+shifts are under two. So those are relatively
+far away from the oxygens. So let's draw in the methyl protons next. So we have our methyl protons right here. And let's make them red
+so let's highlight those. So these methyl protons right here are giving us this signal. And then, finally, we have
+a C H two left right here. So we draw in our C H two
+and let's make these green. All right, so these two
+protons right here in green are giving us this signal. All right, let's go through and see if everything makes sense. And we'll start with the green protons. So we predicted five neighbors. All right, so we look at the carbon that the green protons are on. We go to the next door carbon. One, two, three neighboring protons. We go to the other next door carbon. One, two so a total of five neighbors. And so that's what we predicted using the n plus one rule. In reality, the magenta and red protons are in different environments, and so this oversimplified n plus one rule isn't exactly correct, but it corresponds to what we see on the NMR spectrum. So we can just go with it here. It helped us figure out the
+structure of the molecule. All right, so this makes
+sense, five neighbors here. Let's move on to the red protons. We've predicted two
+neighbors for the red protons so we go to the carbon that's next door. All right, so this carbon
+has the red protons. We go to the next door carbon,
+and we see two neighbors. So this makes sense. All right, let's look
+at the magenta protons. So the magenta protons we
+predicted two neighbors. So the magenta protons are on this carbon. We go to the carbon next door, and I see one, two neighbors
+so this makes sense. And then, finally, the
+blue protons over here we predicted zero neighbors. So we go to the carbon that's
+next door to this carbon, and there are no protons on this carbon. All right, so zero
+neighbors and that's why we got our singlet over here. So this makes sense. The chemical shifts make sense. The splitting makes sense. Everything seems to make
+sense for this ester. One thing I've noticed when students get a problem with an ester, sometimes they reverse the ester. Let me show you what I mean. So I've seen a lot of
+students do this on exams. What they'll do is they identify the fact they have an ester, but in
+this case they would put the methyl group on the
+oxygen and then draw in the rest of the molecule over here. So we had three carbons
+so one, a two, a three. And they'll put this down
+for their answer on a test. So why is this wrong? Well, this is wrong because the signal for these methyl protons that's right next to this oxygen. This oxygen is deshielding,
+so we would get a singlet for these methyl protons, but
+the signal would be closer to four parts per million
+and not right here, not right here at two parts per million. And so that's a clue as to how to assemble the pieces for an ester. So think about what's
+next to this oxygen here. Think about the chemical shifts and you won't make that mistake. For this NMR spectrum our molecule has a molecular formula of C four H 10 O. And let's calculate the
+hydrogen deficiency index. So if we have four
+carbons, the maximum number of hydrogens we can have
+is two times four plus two, which is equal to 10 and
+that's how many hydrogens we have in our molecular formula. So this time we're not
+missing any hydrogens and so the HDI is equal to zero. So we wouldn't expect
+any double bonds or rings so no double bonds or rings
+for the dot structure. For integration, this
+signal is one proton, this signal is three protons,
+and this signal over here is six protons. Let's focus in on this signal. So we have one proton. So I'm gonna go ahead and draw that proton on a carbon like that. Let's think about how many
+neighbors that proton has. So look at the peaks. I see one, two, three, four,
+five, six, seven peaks. So seven minus one is six so
+that proton is going to have six neighboring protons. I'm gonna go ahead and
+give that proton a color. So this is the signal
+for the magenta proton. The chemical shift is somewhere around four parts per million and
+that's the chemical shift that we would expect if that proton was on a carbon bonded to
+an electronegative atom. And we have an oxygen here. So I'm gonna go ahead a
+put an oxygen right here bonded to that carbon because
+the oxygen is withdrawing electron density away from this proton. It's deshielding this proton, giving it a higher chemical shift. All right, let's move
+on to our next signal. So we have three protons. So this would be a methyl group. So we have three methyl protons. How many neighboring protons
+for those methyl protons? We have only one peak here. So one minus one is zero,
+so zero neighboring protons. And the chemical shift is about three point five parts per million so those methyl protons must
+be really close to that oxygen. We get a higher value
+for the chemical shift. And so we can put the
+methyl protons over here on the left side of the oxygen. All right, and so that makes sense in terms of the chemical shift. All right, it also makes sense in terms of the number of neighbors. So these three protons right
+here give us this signal, and we have zero neighbors. So there are no neighbors
+for these three protons. Let's move on to the last signal. All right, so we have six protons so that's like two methyl groups. So we have two methyl groups here. And the signal is split into a doublet. So we see these two peaks here. So two minus one is one
+so we expect one neighbor for these two methyl groups. And obviously, it would have
+to be this proton in magenta because we have these,
+only these two places left. So we put these methyl groups right here, and we can see we get one neighbor. So those two methyl
+groups are further away from the oxygen relatively
+because of the signal having a lower value
+for the chemical shift. So let's use red here so
+red for these six protons. It's giving us this signal, and we have one neighboring proton. It's this proton in magenta right here. Let's think about the magenta proton. We said that the magenta proton would have six neighbors
+and that's what we see. So three from this methyl and
+then three from this methyl. So six neighbors for the magenta proton. And then, finally, we said
+there'd be zero neighbors for the protons in blue
+and that's what we see for our dot structure. And so this molecule is an ether so this NMR spectrum
+represents this ether.

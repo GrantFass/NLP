@@ -1,0 +1,124 @@
+We'll now use that equation we
+just derived to go back and solve-- or at least address--
+that same problem we were doing before, so let's write
+that equation down again. Actually, let's write
+the problem down. Lets say I have the cliff
+again, and so my initial distance is 0, but it goes
+down 500 meters. I'm not going to redraw the
+cliff, because it takes a lot of space up on my limited
+chalkboard. We know that the change
+in distance is equal to minus 500 meters. I'm still going to use the
+example where I don't just drop the ball, or the penny, or
+whatever I'm throwing off the cliff, but I actually throw
+it straight up, so it's going to go up and slow down
+from gravity, and then it will go to 0 velocity, and start
+accelerating downwards. You could even say decelerating in the other direction. The initial velocity, vi, is
+equal to 30 meters per second, and of course, we know that the
+acceleration is equal to minus 10 meters per second
+squared-- it's because acceleration gravity is always
+pulling downwards, or towards the center of our planet. If we wanted to figure out the
+final velocity, we could have just used the formula, and we
+did this in the last video-- vf squared is equal to
+vi squared plus 2ad. Now what I want to do is use the
+formula that we learned in the very last video to figure
+out-- how long does it take to get to the bottom, and
+to hit the ground? Let's use that formula: we
+derived that the change in distance is equal to the initial
+velocity times time plus acceleration time
+squared over 2, and that's initial velocity. The change in distance is minus
+500, and that's equal to the initial velocity-- that's
+positive, going upwards, 30 meters per second, 30t. I'm not going to write the units
+right now, because I'll run out of space, but you can
+redo it with the units, and see that the units
+do work out. When you square time, you have
+to square the time units, although we're solving
+for time. Then, plus acceleration, and
+acceleration is minus 10, and we're going to divided it by 2,
+so it's minus 5t squared. We have minus 500 is equal to
+30t plus minus 5t, and we could just say minus
+5t squared, and get rid of this plus. At first, you say, Sal-- there's
+a t, that's t to the first, and t to the second,
+how do I saw solve this? Hopefully, you've taken algebra
+two or algebra one, in some places, and you remember
+how to solve this. Otherwise, you're about to learn
+the quadratic equation, although I recommend you go
+back, and learn about factoring in the quadratic
+equation, which there are videos on that I've
+put on Youtube. I hope you watch those first
+if you don't remember. We can do this-- let's put these
+two right terms on the left hand side, and then we'll
+use the quadratic equation to solve, because I don't think
+this is easy to factor. We'll get 5t squared minus 30t
+minus 500 is equal to 0-- I just took these terms and put
+them on the left side. We could divide both sides by
+5, just to simplify things, and so we get t squared minus
+6t minus 100 is equal to 0. I could do that, because 0
+divided by 5 is just five, so I just cleaned it
+up a little bit. Let's use the quadratic
+equation, and for those of us who need a refresher,
+I'll write it down. The roots of any quadratic--
+in this case, it's t we're solving for-- t will equal
+negative b plus or minus the square root of b squared minus
+4ac over 2a, where a is a coefficient on this term, b is
+the coefficient on this term, negative 6, and c is the
+constant, so minus 100. Let's just solve. We get t is equal to negative
+b-- so negative this term. This term is negative 6, so if
+we make it a negative, it becomes plus 6. It becomes 6 plus or minus the
+square root of b squared, so it's minus 6 squared, 36,
+minus 4 times a, and the coefficient on a is here,
+and that's just times 1. With 4ac, c is a constant term,
+minus 100, minus 4 times 1 times minus 100, and all of
+that is over 2a-- a is 1 agains, so all of
+that is over 2. That just equals 6 plus or minus
+the square root-- this is minus 4 times minus 100, and
+these become pluses, so it becomes 36 plus 400. So, 6 plus or minus
+436 divided by 2. This is not a clean number,
+and if you type into a calculator, it's something on
+the order of about 20.9. We can just say approximately
+21-- you might want to get the exact number, if you're actually
+doing this on a test, or trying to send something to
+Mars, but for our purposes, I think you'll get the point. I'll say it approximately now,
+because we're going to be a little off, but just to have
+clean numbers, this is approximately 21--
+it's like 20.9. We'll say 6 plus or minus--
+let me just write 20.9-- 20.9 over 2. Let me ask you a question:
+if I do 6 minus 20.9, what do I get? I get a negative number,
+and does a negative time make sense? No, it does not, and that means
+that somehow in the past-- I don't want to get
+philosophical-- the negative time in this context will
+not make sense. Really, we can just stick to the
+plus, because 6 minus 20 is negative, so there's only one
+time that will solve this in a meaningful way. Time is approximately equal to
+6 plus 20.9, so that's 26.9 over 2, and that equals
+13.45 seconds. That's interesting. I think if you remember way
+back, maybe four or five videos ago, when we first did
+this problem, we just dropped the penny straight
+from the height. Actually, in that problem, I
+gave you the time-- I said it took 10 seconds to hit the
+ground, and we worked backwards to figure out that the
+cliff was 500 meters high. Now, if you're here at the top
+of a 500 cliff, or building, and you drop something that has
+air resistance-- like a penny, that has very air
+resistance-- it would take 10 seconds to reach the ground,
+assuming all of our assumptions about gravity. But if you were to throw the
+penny straight up, off the edge of the cliff, at 30 meters
+per second right here, it's going to take 13.5--
+roughly, 13 and 1/2 seconds-- to reach the ground. It takes a little bit longer,
+and that should make sense because-- I have time to
+draw a little picture. In the first case, I just took
+the penny, and its motion just went straight down. In the second case, I took the
+penny-- it first went up, and then it went down. It had all the time when it went
+up, and then it went down a longer distance, so it makes
+sense that this time-- this was 10 seconds, while this time
+was 13.45 five seconds. You can kind of say that it
+took-- well, you actually can't say that. I don't want to get too
+involved, but I hopefully this make sense to you. If you have a smaller number
+here, you should have gone and checked your work, because why
+would it take less time when I throw the object straight up? Hopefully, that gave you a
+little bit more intuition, and you really do have in your
+arsenal now all of the equations-- and hopefully, the
+intuition you need-- to solve basic projectile problems. I'll now probably do a couple
+more videos where I just do a bunch of problems, just to
+really drive the points home. Then, I'll expand these
+problems to two dimensions and angles. Before we get there, you might
+want to refresh your trigonometry. I'll see you soon.

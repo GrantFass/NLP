@@ -1,0 +1,42 @@
+- [Tutor] So I've got
+a binomial variable X and I'm gonna describe
+it in very general terms, it is the number of successes after n trials, after n trials, where the probability of success, success for each trial is P and this is a reasonable way to describe really any
+random, any binomial variable, we're assuming that each of
+these trials are independent, the probability stays constant, we have a finite number
+of trials right over here, each trial results in either a very clear success or a failure. So what we're gonna focus on in this video is well, what would be the expected value of this binomial variable? What would the expected value, expected value of X be equal to? And I will just cut to the
+chase and tell you the answer and then later in this video,
+we'll prove it to ourselves a little bit more mathematically. The expected value of X, it turns out, is just going to be equal
+to the number of trials times the probability of
+success for each of those trials and so if you wanted to make that a little bit more concrete, imagine if a trial is a Free Throw, taking a shot from the Free Throw line, success, success is made shot, so you
+actually make the shot, the ball went in the basket, your probability is,
+use this yellow color, your probability, this would
+be your Free Throw percentage, so let's say it's 30% or 0.3 and let's say for the sake of argument, that we're taking 10 Free
+Throws, so n is equal to 10, so this is making it
+all a lot more concrete, so in this particular
+scenario, your expected value, your expected value, if X is
+the number of made Free Throws, after taking 10 Free Throws with a Free Throw percentage of 30%, well, based on what I just told
+you, it would be n times p, it would be the number of trials times the probability of success
+in any one of those trials, times 0.3, which is just going to be, of course equal to three. Now does that make intuitive sense? Well, if you're taking 10 shots with a 30% Free Throw percentage, it actually does feel natural that I would expect to make three shots. Now with that out of the way, let's make ourselves feel
+good about this mathematically and we're gonna leverage some of our expected value properties, in particular, we're
+gonna leverage the fact that if I have the expected value of the sum of two
+independent random variables, let's say X plus Y, it's going to be equal to the expected value of X
+plus the expected value of Y, that we talk about in other videos and so assuming this right over here, let's construct a new random variable, let's call our random variable Y and we know the following things about Y, the probability that Y is equal to one is equal to p and the probability
+that Y is equal to zero is equal to one minus p and these are the only two
+outcomes for this random variable and so you might be seeing
+where this is going, you could view this random variable, it's really representing one trial, it becomes one in its success, zero when you don't have a success and so you could view our
+original random variable, X right over here as being equal to Y plus Y and we're gonna have 10 of these, so we're gonna have 10 Ys, in the concrete sense, you
+could view the random variable Y as equaling one, if you make a Free Throw and equaling zero, if you
+don't make a Free Throw, it's really just representing
+one of those trials and you can view X as the
+sum of n of those trials, well now actually, let
+me be very clear here, I immediately went to the concrete, but I really should be saying n Ys, 'cause I wanna stay
+general right over here, so there are n, n Ys right over here, this was just a particular example, but I am going to try to stay general for the rest of the video, because now we are really trying to prove this result right over here, so let's just take the
+expected value of both sides, so what is it going to be? So we get the expected value of X, of X is equal to well, it's the expected
+value of all of this thing, but by that property right over here is going to be the expected value of Y plus the expected value of Y plus, and we're gonna do this n times, plus the expected value of Y and we're gonna have n
+of these, so we have n and so you could rewrite
+this as being equal to, this is our n right over here, this is n times the expected value of Y. Now what is the expected value of Y? Well, this is pretty straightforward, we can actually just do it directly, the expected value of Y, let
+me just write it over here, the expected value of Y is just the probability-weighted outcome and since there's only two
+discrete outcomes here, it's pretty easy to calculate, we have a probability
+of p of getting a one, so it's p times one plus we have a probability of one minus p of getting a zero, well, what does this simplify to? Well, zero times anything, that's zero and then you have one times
+p, this is just equal to p, so expected value of Y is just equal to p and so there you have it, we
+get the expected value of X is 10 times the expected value, or the expected value of X is n times the expected value of Y and the expected value of Y is p, so the expected value of X is equal to np, hope you feel good about that.

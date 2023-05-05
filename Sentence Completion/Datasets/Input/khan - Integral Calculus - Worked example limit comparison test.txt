@@ -1,0 +1,58 @@
+- [Instructor] So we're
+given a series here, and they say, "What series should we use "in the limit comparison test?" Let me underline that,
+"The limit comparison test, "in order to determine
+whether S converges?" So let's just remind ourselves about the limit comparison test. If we say, if we say
+that we have two series, and I'll just use this notation, a sub-n, and then another series, b sub-n. And we know that a sub-n
+and b sub-n are greater than or equal to zero for all n,
+for all n, if we know this, then if, then if the limit
+as n approaches infinity of a sub-n over b sub-n is equal
+to some positive constant. So zero is less than that
+constant is less than infinity, then either both converge,
+then both converge, both converge, both converge, or both diverge, both diverge. And it really makes a lot of
+sense, because it's saying, look, as we get into our
+really large values of n, as we go really far out
+there in terms of the terms, if our behavior starts to look
+the same, then it makes sense that both these series
+would converge or diverge, and we have an introductory
+vizio, (chuckles) we have an introductory video
+on this in another video. So let's think about what,
+if we say that this is our a sub-n, if we say that this
+is a sub-n right over here, what is a series that we
+can really compare to? That seems to have the same
+behavior as n gets really large? Well this one just
+seems to gets unbounded. This one doesn't look that similar. Has a three to the n minus
+one in the denominator, but the numerator doesn't behave the same. This one over here is interesting because we could write this, the is the same as a sum
+n equals one to infinity. We could write this is two
+to the n over three to the n, and these are very similar. The only difference between
+this and this is that in the denominator here, or
+in the denominator up here we have a minus one, and down here we don't have that minus one, and so it makes sense given
+that that's just a constant, that as n gets very large, that
+these might behave the same. So let's try it out. Let's find the limit, and we also know that the a
+sub-n's and the b sub-n's, if we say that this over here is b sub-n, we say that's b sub-n, that
+this is going to be positive, or this is going to be
+greater than or equal to zero for n equals one, two,
+three, so for any values this is going to be greater
+than or equal to zero, and the same thing right over here. It's gonna be greater
+than or equal to zero for all of the n's that we care about. So we meet these first
+constraints, and so let's find the limit as n approaches
+infinity of a sub-n, which is, I'll write in that red color, which is two to the nth power
+over three to the n minus one over b sub-n, over two to the
+nth over three to the nth. So let me actually do a little algebraic manipulation right over here. This is going to to be the same thing as two to the nth over
+three to the n minus one, times three to the n, over two the n. Divide the numerator and the denominators by two to the n, those cancel out, and so this will give
+us, this will give us three to the n over
+three to the n minus one. We can divide the numerator
+and the denominator by three to the n, and that'll give us one over one minus one
+over three to the n. So we could say this is
+the same thing as the limit as n approaches infinity
+of one over one minus one, over three to the n. Well what's this going to be equal to? Well as that approaches
+infinity, this thing, one over three to the n,
+that's just gonna go to zero. So this is, this whole thing
+is just going to approach one. And one is clearly
+between zero and infinity, so the destinies of these
+two series are tied. They either both converge
+or they both diverge. So this is a good one to use
+a limit comparison test with, and so let's think about it. Do they either both converge,
+or do they both diverge? Well this is a geometric
+series, our common ratio here is less than one, so this
+is going to converge, this is going to converge. And because this one converges, by the limit comparison test, our
+original series S converges. Converges, and we are done.

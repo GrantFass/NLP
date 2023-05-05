@@ -1,0 +1,37 @@
+- [Instructor] What we're
+gonna do in this video is talk about Type I errors and Type II errors and this is in the context
+of significance testing. So just as a little bit of review, in order to do a significance test, we first come up with a null and an alternative hypothesis. And we'll do this on some
+population in question. This will say some hypotheses
+about a true parameter for this population. And the null hypothesis
+tends to be kind of what was always assumed or the status quo while the alternative hypothesis, hey, there's news here, there's something alternative here. And to test it, and we're really testing the null hypothesis. We're gonna decide
+whether we want to reject or fail to reject the null hypothesis, we take a sample. We take a sample from this population. Using that sample, we
+calculate a statistic, we calculate a statistic,
+that's trying to estimate the parameter in question. And then using that statistic, we try to come up with the probability of getting that statistic, the probability of getting that statistic that we just calculated from that sample of a certain size, given
+if we were to assume that our null hypothesis, if our null hypothesis is true. And if this probability, which
+is often known as a p-value, is below some threshold
+that we set ahead of time which is known as the significance level, then we reject the null hypothesis. Let me write this down. So this right over here,
+this is our p-value. This should all be review, we introduced it in other videos. We have seen on other
+videos if our p-value is less than our significance level, then we reject our null hypothesis, and if our p-value is greater than or equal to
+our significance level, alpha, then we fail to reject, fail to reject our null hypothesis. And when we reject our null hypothesis, some people will say that might suggest the alternative hypothesis. And the reason why this makes sense is if the probability of getting the statistic from a sample of a certain size, if we assume that the null hypothesis is true is reasonably low if
+it's below a threshold, maybe this threshold is 5%, if the probability of that
+happening was less than 5%, then hey, maybe it's
+reasonable to reject it. But we might be wrong in
+either of these scenarios and that's where these
+errors come into play. Let's make a grid to make this clear. So there's the reality, let me put reality up here, so the reality is there's two
+possible scenarios in reality, one is the null hypothesis is true and the other is that the
+null hypothesis is false, and then based on our significance test, there's two things that we might do, we might reject the null hypothesis, or we might fail to reject the null hypothesis. And so let's put a little grid here to think about the different combinations, the different scenarios here. So in a scenario where the
+null hypothesis is true, but we reject it, that
+feels like an error. We shouldn't reject something that is true and that indeed is a Type I error. Type I error. You shouldn't reject the null
+hypothesis if it was true. And you can even figure
+out what is the probability of getting a Type I error. Well that's gonna be
+your significance level because if your null hypothesis is true, let's say that your
+significance level is 5%, well 5% of the time, even if
+your null hypothesis is true, you're going to get a statistic that's going to make you
+reject the null hypothesis. So one way to think about the
+probability of a Type I error is your significance level. Now, if your null hypothesis is true and you failed to reject
+it, well that's good. This we can write this as,
+this is a correct conclusion. The good thing just happened
+to happen this time. Now, if your null hypothesis
+is false and you reject it, that's also good. That is the correct conclusion. But if your null hypothesis is false and you failed to reject it, well then that is a Type II error. That is a Type II error. Now with this context,
+in the next few videos, we will actually do some examples where we try to identify, one, whether an error is occurring and whether that error
+is a Type I or a Type II.

@@ -1,0 +1,110 @@
+Let's say we have the
+indefinite integral of 1 over 36 plus x squared d x. Now, as you can imagine, this
+is not an easy integral to solve without trigonometry. I can't do u substitution, I
+don't have the derivative of this thing sitting someplace. This would be easy if I
+had a 2x sitting there. Than I would say, oh the
+derivative of this is 2x, I could do u substitution
+and I'd be set. But there is no 2x there,
+so how do I do it? Well, I resort to our
+trigonometric identities. Let's see what trig
+identity we can get here. The first thing I always do,
+this is just the way my brain works, I always like it-- I can
+see this is a constant plus something squared, which
+tells me I should use a trigonometric identity. But I always like it in terms
+of 1 plus something squared. I'm just going to rewrite my
+integral as being equal to, let me write the dx
+in the numerator. This is just times dx. Let me write a nicer
+integral than that. This is equal to the integral
+of d x over 36 times 1 plus x squared over 36. 1 plus x squared over 36,
+that's another way to write my integral. Let's see if any of our trig
+identities can somehow be substituted in here for
+that that would somehow simplify the problem. So the one that springs to
+mind, and if you don't know this already, I'll write it
+down right here, is 1 plus tangent squared of theta. Let's prove this one. Tangent squared of theta, this
+is equal to 1 plus just the definition of tangent sine
+squared of theta over cosine squared of theta. Now 1 is just cosine squared
+over cosine squared. So I can rewrite this as equal
+to cosine squared of theta over cosine squared of theta, that's
+1, plus sine squared theta over cosine squared of theta,
+now that we have a common denominator. Now what's cosine squared
+plus sine squared? Definition of the unit circle. That equals 1 over cosine
+squared of theta. Or we could say that that
+equals 1 over cosine squared. One over cosine is secant. So this is equal to the
+secant squared of theta. If we make the substitution, if
+we say let's make this thing right here equal to tangent of
+theta, or tangent squared of theta. Then this expression will be 1
+plus tangent squared of theta. Which is equal to
+secant squared. Maybe that'll help simplify
+this equation a bit. We're going to say that x
+squared over 36 is equal to tangent squared of theta. Let's take the square root of
+both sides of this equation and you get x over 6 is equal to
+the tangent of theta, or that x is equal to 6 tangent of theta. If we take the derivative of
+both sides of this with respect to theta we get d x d theta is
+equal to-- what's the derivative of the
+tangent of theta? I could show it to you just
+by going from these basic principles right here. Actually let me do it
+for you just in case. So the derivative of tangent
+theta-- never hurts to do it on the side, let me
+do it right here. It's going to be 6 times the
+derivative with respect to theta of tangent of theta. Which we need to figure,
+so let's figure it out. The derivative of tangent of
+theta, that's the same thing as d d theta of sine of
+theta over cosine of theta. That's just the
+derivative of tangent. Or this is just the same thing
+as the derivative with respect to theta, let me scroll to
+the right a little bit. Because I never remember the
+quotient rule, I've told you in the past that it's somewhat
+lame, of sine of theta times cosine of theta to
+the minus 1 power. What is this equal to? We could say it's equal to,
+well the derivative of the first expression or the first
+function we could say, which is just cosine of theta. This is equal to cosine of
+theta, that's just the derivative of sine of theta
+times our second expression. Times cosine of theta
+to the minus 1. I've put these parentheses, and
+put the minus 1 out there because I didn't want to put
+the minus 1 here and make you think that I'm talking about an
+inverse cosine or an arccosine. So that's the derivative of
+sine times cosine and now I want to take plus the
+derivative of cosine. Not just cosine, the derivative
+if cosine to the minus 1. So that is minus 1 times cosine
+to the minus 2 power of theta. That's the derivative of
+the outside times the derivative of the inside. Let me scroll over more. So that's the derivative
+of the outside. If the cosine theta was just an
+x, you would say x to the minus 1 derivative is minus
+1 x to the minus 2. Now times the derivative
+of the inside. Of cosine of theta with
+respect to theta. So that's times minus
+sine of theta. I'm going to multiply all of
+that times sine of theta. The derivative of this thing,
+which is the stuff in green, times the first expression. So what does this equal? These cosine of theta
+divided by cosine of theta, that is equal to 1. And then I have a minus 1 and
+I have a minus sine of theta. That's plus plus. What do I have? I have sine squared, sine of
+theta time sine of theta over cosine squared. So plus sine squares of theta
+over cosine squared of theta. Which is equal to 1 plus
+tangent squared of theta. What's 1 plus tangent
+squared of theta? I just showed you that. That's equal to secant
+squared of theta. So the derivative of tangent
+of theta is equal to secant squared of theta. All that work to get us
+fairly something-- it's nice when it comes out simple. So d x d theta, this is
+just equal to secant squared of theta. If we want to figure out what d
+x is equal to, d x is equal to just both sides times d theta. So it's 6 times secant
+squared theta d theta. That's our d x. Of course, in the future
+we're going to have to back substitute, so we want
+to solve for theta. That's fairly straightforward. Just take the arctangent of
+both sides of this equation. You get that the arctangent of
+x over 6 is equal to the theta. We'll save this for later. So what is our
+integral reduced to? Our integral now becomes
+the integral of d x? What's d x? It is 6 secant squared
+theta d theta. All of that over this
+denominator, which is 36 times 1 plus tangent
+squared of theta. We know that this right there
+is secant squared of theta. I've shown you that
+multiple times. So this is secant squared of
+theta in the denominator. We have a secant squared on the
+numerator, they cancel out. So those cancel out. So are integral reduces to,
+lucky for us, 6/36 which is just 1/6 d theta. Which is equal to
+1/6 theta plus c. Now we back substitute
+using this result. Theta is equal to
+arctangent x over 6. The anti-derivative 1 over
+36 plus x squared is equal to 1/6 times theta. Theta's just equal to the
+arctangent x over 6 plus c. And we're done. So that one wasn't too bad.

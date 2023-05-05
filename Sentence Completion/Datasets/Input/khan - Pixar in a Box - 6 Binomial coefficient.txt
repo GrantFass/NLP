@@ -1,0 +1,19 @@
+- Nice work. Thanks for stickin' with us. We're at the last step of the lesson. Earlier, I promised you a
+powerful counting formula. Let's work together to see if
+we can develop that formula. First notice that 6 x 5 x 4
+looks a little like a factorial except that it's missing the 3 x 2 x 1. That means we can write 6 x 5 x 4 using factorials as 6! over 3!. Because 6! equals 6 x 5 x 4 x 3! So dividing by 3! just leaves 6 x 5 x 4. That means, we can rewrite our earlier example as 6! over 3! x 3!. To generalize this for
+other numbers of actors, let n be the number of
+actors we can pick from and let k be the size of the cast. On the first pick, we have n choices. Then, on the second pick, we
+have n-1 choices and so on. Notice that the number being subtracted is one less than the choice number. So, on the kth choice,
+you have n - (k-1) choices which is n - k +1. Multiplying the choices together gives n x n - 1 through n - k + 1 which can be written as n! over (n-k)!. Now, we have to divide by k! because there are k! ways
+to order the k choices. So, finally, we get to, wait for it. Drum roll, please! n! over k!(n-k)! possible
+casts of k actors chosen from a group of n actors total. This formula is so famous that it has a special name and
+a special symbol to write it. It's called a binomial coefficient and mathematicians write it as n choose k equals n! divided by k! (n-k)!. It's powerful because you can use it whenever you're selecting
+a small number of things from a larger number of choices. With this tool, we can
+easily compute, say, how many casts of 4
+robots I can come up with when I have, let's say, 12
+different robots to choose from. There are 12 choose 4, which, if you work it out, is exactly 495. Your final challenge, should
+you choose to accept it, is to answer some final questions with the binomial coefficient formula and there won't be any
+diagrams to help you this time. And, you'll be asked to count
+something other than robots, like, let's say, plants,
+or sandwiches, or outfits.

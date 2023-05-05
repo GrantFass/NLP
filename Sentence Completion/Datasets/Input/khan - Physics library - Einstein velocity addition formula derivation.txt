@@ -1,0 +1,47 @@
+- [Voiceover] Let's say this is me and I am floating in space. My coordinate system,
+my frame of reference, we've seen it before, we'll call it the S frame of reference. Any point in spacetime, we give it an x and y coordinates. And let's say that we have my friend. We've involved her in
+many other videos before. She is traveling with a relative velocity to me of v. So v right over there. Her frame of reference, we call it the S prime frame of reference, and you can denote any event in spacetime by the coordinates x prime and ct prime. Now you could also do it
+as t prime if you like, but we've been doing it as ct prime so that we have similar units. Now let's say that we have
+a third character now. This is going to get interesting. Let's say this third
+character is traveling with a velocity u in
+my frame of reference. So u is equal to change in x over change in time. If we know all of this information, let's see if we can come
+up, we can formulate a way if we know what the change in x and change in time is
+and we know what v is, if we can figure out what
+is this velocity going to be in the S prime frame of reference, in this purple friend's
+frame of reference. What we want to figure out is what is, let me do it in that purple color, we wanna figure out what
+is going to be the change in x prime over change in t prime. If we figure this out then we know what will this velocity
+look like in the S prime frame of reference. Well let's just go back to
+the Lorentz Transformations. Let's first think about what our... Let's first think about what change in x prime is going to be. Well our change in x prime is going to be the Lorentz factor times our change in x, change, this in white,
+times our change in x minus beta times change in ct. Let me close those parentheses. Then we wanna divide that
+by our change in time. We wanna divide it by our change in time. So change in time or change in t prime I should say. Well let me just go back to
+the Lorentz Transformation. Let me write it the way
+that I'm used to writing it. I'm used to writing it as change in ct prime, which
+is the same thing as c times the change in t prime, is equal to the Lorentz factor times this is going to be change in ct or I could write it as c change in t minus beta times change in x. Once again I could have
+written this as change in ct or I could write this
+as c times change in t because the c isn't changing. So we know that all ready. If we wanted to solve for
+just change in t prime, we could just divide both sides by c. So let's do that. If we divide all of this by c, what do we get? This is a form, we've
+seen this in other videos that you might recognize
+and you might see this in some textbooks. Our change in t prime is
+going to be equal to gamma times, well c times delta t divided by c is just going to be delta t. And then if you take, so
+minus, beta divided by c. Well let's just remind ourselves that beta is equal to v over c. So beta divided by c is v over c squared. I could write this as
+minus v over c squared change in x. Change in t prime, let's write that now. That's going to be equal to you have your gamma times change in time in my coordinate system. So not the t prime just change in t minus v over c squared change in x. Immediately there's at
+least one simplification we can do. We can divide both the numerator and the denominator by gamma. I keep wanting to change... So we can divide the numerator
+and denominator by gamma that simplifies it a little bit. We can write this as our change in x prime over change in t prime is equal to in the numerator we have change in x and actually let me just
+write out what beta is. Beta, I'll do it over here, minus v over c that's what beta is And actually let me take the c out. Change in ct is the same
+thing as c times change in t. So times c delta t. v divided by c times c
+is just going to be v. Let me write it that way. This part, these cancel out. This is the same thing as
+change in x minus v change in t. Let me write it that way, simplfy it. Minus v change in t, that's our numerator. And then our denominator is change in t minus v over c squared change in x. It looks like we're getting close here. But we don't have the
+change in x change in t. We have how much of a change in x we have for a given change in t. So what we could do is we
+could divide the numerator and the denominator by delta t. We could multiply the
+numerator by one over delta t. And the denominator by one over delta t which is equivalent to dividing the numerator and the
+denominator each by delta t. And why am I doing that? Well, if I do that this
+first term right over here is going to be delta x over delta t which we know. Then we have minus v, cuz
+delta t divided by delta t is just going to be one. And then our denominator delta t divided by delta t is just one. Then we're gonna have minus v over c squared and then times delta x divided by delta t. This is cool. We've just been able to
+figure out what our velocity in the primed coordinate system, in the S prime frame of
+reference is in terms of the relative velocity between
+the S prime frame of reference and my frame of reference. Delta x delta t the velocity
+in my frame of reference. And well we know all of
+this other stuff too, this is just delta x
+delta t and this is v. Or we can even write it like this. We said delta x over delta
+t is going to be equal to u. So it's equal to u minus v over one minus, delta x over delta t is just u. So this is just u here. It's u times v or v times u, all of that over c squared. This is a really, really,
+really useful deriviation which we're going to apply some numbers to in the next video so we can appreciate kinda how fun this is on some level.

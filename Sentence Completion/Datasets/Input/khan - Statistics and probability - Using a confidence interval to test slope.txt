@@ -1,0 +1,25 @@
+- [Instructor] Hashem obtained
+a random sample of students and noticed a positive linear relationship between their ages and
+their backpack weights. A 95% confidence interval for the slope of the regression line was
+0.39 plus or minus 0.23. Hashem wants to use this interval to test the null hypothesis that the true slope of the population regression line, so this is a population
+parameter right here for the slope of the
+population regression line, is equal to zero versus
+the alternative hypothesis is that the true slope of the
+population regression line is not equal to zero at
+the alpha is equal to 0.05 level of significance. Assume that all conditions
+for inference have been met. So given the information that we just have about what Hashem is doing,
+what would be his conclusion? Would he reject the null hypothesis, which would suggest the alternative? Or would have be unable to
+reject the null hypothesis? Well let's just think
+about this a little bit. We have a 95% confidence interval, let me write this down, so our 95% confidence interval, we could write it like this or you could say that it
+goes from 0.39 minus 0.23, so that'd be 0.16, it goes from 0.16 until 0.39 plus 0.23 is going to be 0.62. Now what a 95% confidence
+interval tells us is that 95% of the time
+that we take a sample and we construct a 95% confidence interval that 95% of the time we do this, it should overlap with the
+true population parameter that we are trying to estimate. But in this hypothesis test, remember, we're assuming that the
+true population parameter is equal to zero and that does not overlap with this confidence interval. So assuming, let me write this down, assuming null hypothesis is true, we are in the less than or equal to 5% chance of situations where beta not overlap with 95% intervals. And the whole notion of
+hypothesis testing is you assume the null hypothesis, you take your sample, and
+then if you get statistics, if the probability of
+getting those statistics for something even more
+extreme than those statistics is less than your significance level, then you reject the null hypothesis and that's exactly what's happening here. This null hypothesis value
+is nowhere even close to overlapping, it's over 0.16ths below the low end of this bound. And so because of that, we
+would reject the null hypothesis which suggests the alternative, which suggests the alternative hypothesis and one way to interpret
+this alternative hypothesis that beta is not equal to zero is that there is a non zero linear relationship between ages and backpack weights. And we are done.

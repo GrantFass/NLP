@@ -1,0 +1,221 @@
+Let's do a slightly
+more complicated two-dimensional projectile
+motion problem now. So in this situation, I am going
+to launch the projectile off of a platform. And then it is going to
+land on another platform. And I'm going to fire the
+projectile at an angle. Let me draw this a
+little bit better. So I'm going to
+fire the projectile at an angle of-- let me
+use a not so clean number. Let's say it is a
+53-degree angle. And it's coming
+out of the cannon. And let me make it clear. So it's coming out--
+let me do it this way, just to make it 100% clear. So this angle right
+over here is 53 degrees. And we are going
+to have it come out of the muzzle of the cannon
+with a velocity of 90 meters per second. And just to give ourselves
+a sense of the heights, or how high it's being
+launched from-- so from the muzzle of the
+cannon down to here. So this height right
+over here, let's say that that is 25 meters. And let's say that this height
+right over here is 9 meters. And so we're essentially
+launching this from a height of 25 meters. I know in the last video,
+even though I drew the cannon like this, we
+assumed that it was being launched from
+an altitude of 0 and then landing back
+at an altitude of 0. Here we're assuming
+we're launching it from an altitude of 25
+meters, because that's when it's leaving the muzzle. And it's going to
+start decelerating at least in the
+vertical direction as soon as it leaves the muzzle. And then we're
+assuming it's not going to land back at
+the same altitude. It's going to land at
+a different altitude. So how do we think
+about this problem? So the first thing
+you'll always want to do is divide your velocity
+vector into its horizontal and vertical components. You use the vertical
+component to figure out how long it's going
+to stay in the air. And then you use the horizontal
+component to figure out, given how long it's in the
+air, how far did it travel. And once again,
+we're going to assume that air resistance
+is negligible. So just based on what we
+did in the last video-- and I'll go through all of the
+steps in this one, as well. So if we draw our vector, the
+length here is going to be 90. This is our velocity vector. The angle over here between
+the x-axis and our vector is 53 degrees. And let me draw the
+horizontal component. The horizontal component
+would look like this. And the vertical component--
+I'll do it in orange. The vertical component would
+look like-- that's not orange. The vertical component
+will look like this. And so the vertical
+component of the vector-- what would be the length of
+this side right over here? Well, this is the opposite side. We know from basic
+trigonometry sine of an angle is opposite
+over the hypotenuse. So we know that the
+sine of 53 degrees is equal to this
+opposite side, is equal to the vertical velocity. And I could write
+it's the magnitude of the vertical velocity. I write that subscript
+y, because we're in the y direction. That's the vertical
+direction, over the length of the hypotenuse,
+over the magnitude of our original vector. Or we can get that this
+side right over here. If we multiply both
+sides by 90, we get that the
+magnitude of that side is going to be equal to 90
+times the sine of 53 degrees. Now, if we want to do
+the horizontal component, the horizontal side
+is adjacent to this. Cosine, soh cah toa. Cosine is adjacent
+over hypotenuse. So the horizontal
+component of our velocity, I'll say in the x direction,
+over the hypotenuse, over 90, is equal to the
+cosine of 53 degrees. Cosine is adjacent
+over hypotenuse. Adjacent, that's
+this length, over 90. Multiply both sides by 90. You get that the
+horizontal component is equal to 90 times
+cosine of 53 degrees. Now, how do we
+figure out how long this thing stays in the air? Well, we'll use the
+vertical component for that. And especially since we're
+dealing with different levels, we can't use that more basic
+reasoning, that hey, whatever velocity we start
+off at, it's going to be the same velocity but
+in the opposite direction. Or the same magnitude
+and velocity but the opposite direction. Because we're not going
+to the same elevation. But what we could do is
+we can use the formula that we derived in
+the previous video. That the displacement--
+let me just copy and paste this a little bit
+lower so we can use it. So I'll stick it
+right over here. So we could use this. We know that the displacement is
+equal to the initial velocity-- and we're dealing with
+the vertical direction right here-- times the change
+in time plus the acceleration, times the change in time
+squared, divided by 2. So how do we use this to figure
+out how long were in the air? So what is the displacement? If we're starting
+at 25 meters high, and we're going
+to 9 meters high. So over the course, while
+this thing is traveling, it will be displaced
+downwards 16 meters. Or another way to
+think about it is our displacement in
+the vertical direction is going to be equal
+to negative 16 meters. Let me write that a
+little bit bigger. Negative 16 meters, right? Because 25 minus 9 is 16. And so we can put
+that into the formula that we derived in
+the previous video. We get negative 16-- I won't
+write the units here just so that we don't take up
+too much real estate, so that at least
+it looks simple-- is equal to the
+initial velocity. We're dealing with just the
+vertical dimension here. So we're just dealing
+with the vertical. And remember, it's negative
+because our displacement is going to be downwards. We're losing altitude. So our vertical velocity--
+we already figured that out. It is 90 times the
+sine of 53 degrees. Actually, let me do
+it in that same color. The first time we do
+a new type of problem, it's good to know-- so 90
+times the sine of 53 degrees, times our change in time,
+is equal to the acceleration of-- due to the force of gravity
+for an object in free fall is going to be negative 9.8
+meters per second squared. But we're dividing that by 2. So we're going to have minus 4.9
+meters per second squared times delta t squared. Times our change
+in time squared. So how do we solve
+something like this? You can't just factor
+out a t and solve it. But you might recognize
+this is a quadratic equation right over here. And the way you solve
+quadratic equations is you get everything onto
+one side of this equation. And then you either
+factor it out. But more likely
+in this situation, we will use the
+quadratic formula, which we've proved
+in other videos and hopefully given you the
+intuition for it-- to actually solve for the times where
+your elevation, where your displacement in
+the vertical direction is negative 16 meters. And you'll get two
+solutions here. And one of the solutions will
+be a negative change in time. So it'll be like at
+sometime in the past, you were also at
+negative 16 meters. That's nonsensical
+for this problem. So we'll want to take
+the positive value here. So let's put all of this on
+one side of the equation. So let's add 16 to both sides. On the left-hand side,
+you just get a 0. 0 is equal to--
+and I'll write it in kind of the traditional way
+that we're used to seeing it. I'll write the highest
+degree term first. So negative 4.9 times
+delta t squared. And then we have plus 90 sine
+of 53 degrees times delta t, and then plus 16. I'm going to do that in yellow. All of this is equal to 0. And this, once again, is
+just a quadratic equation. We can find its roots. And the roots will be
+in terms of delta t. We can solve for delta t
+using the quadratic formula. So we get delta t-- and if
+this is very unfamiliar to you, review the videos on Khan
+Academy in the algebra playlist on the quadratic formula. And if you don't know
+where it came from, we also prove it for you. So it's equal to negative B.
+B is this term right here, the coefficient on the delta t. So it's going to be negative
+90 sine of 53 degrees. I'll write the quadratic
+formula up here for those of you who
+don't fully remember it. So if I'm trying to
+solve Ax squared plus Bx plus C is equal to 0,
+the roots over here are going to be negative B plus
+or minus the square root of B squared minus 4AC, all
+of that over 2 times A. These are going to
+be the x values that satisfy this equation up here. So that's all I'm
+doing over here. This is the B value. Negative B plus or
+minus-- and it's going to turn out that we
+only care about the plus one, because that's going to
+give us the positive value. But I'll just write it out here. Plus or minus the square
+root of B squared. So it's this quantity squared. So it is 90 sine of 53
+degrees squared, minus 4-- we're going to run
+[? out that ?] little space. So minus 4 times A,
+which is negative 4.9. Well, let me just write negative
+4.9 times C. C over here is 16, times 16. Let me put this radical
+all the way over here. All of that over 2A. So A is negative 4.9. 2 times A is negative 9.8. So now we can get
+the calculator out to figure out our
+change in time. And I'm just going to focus
+on the positive version of it. I'll leave it up to you to
+find the negative version and see that it'll give you
+a negative value for change in time. And that's
+nonsensical, so we only care about the
+positive change in time where we get to a displacement
+of negative 16 meters. Let's get the calculator out. So we get-- want to
+do this carefully. We have negative 90
+sine of 53 degrees plus. I'm doing the plus version
+here because that'll give us the positive value--
+plus the square root of. And I'll do this in parentheses. 90 sine of 53 degrees squared. That's that part right there. These two negatives cancel out. So I could say this is
+plus 4 times positive 4.9. So plus 4 times 4.9 times 16. And then that closes
+off our entire radical. And so this will give me
+the numerator up here. That gives me the numerator. And then I want to divide that
+by-- did I do the negative 90? Oh, and I just realized
+that I made a mistake. I said that the positive
+version would give you the positive time. But now we realize that's wrong. Because when I took the positive
+version, when I put a plus up here, I get a positive
+2.14 for the numerator. But then we divide
+it by negative 9.8. We're going to get
+a negative value. So that's not going to be
+the time that we care about. We care about the time where
+this is a negative value. So let me re-enter that. So let me do the negative value. So let me move
+back a little bit. And then let me replace
+this with a minus sign. So I'm going to look
+at the negative value, because I want
+the positive time. And so now my numerator
+here is a negative value. And so this is actually
+what we care about. We care about the
+numerator's a negative value. You divide by
+negative 9.8, and you get 14.8-- I'll just
+round-- 14.89 seconds. So delta t, the
+positive version, is equal to 14.89 seconds. And so my initial comment about
+using the positive version was wrong because we have this
+denominator that's negative. So you want the
+numerator to be negative. And only when the
+numerator is negative will the whole
+expression be positive. And so we got this positive
+time of 14.89 seconds. I'm going to leave you there. And the next part of
+the video-- actually, I might as well just solve it
+instead of making a new video. Although this is running long. So the amount of time that we're
+in the air is 14.89 seconds. So if I were to ask you the
+horizontal displacement, it's going to be
+the amount of time we're in the air times your
+constant horizontal velocity. And we already figured out our
+constant horizontal velocity. So if you want to figure
+out how far along the x-axis we get displaced, we
+just take this time times-- that just means
+our previous answer-- times this value right here,
+times 90 cosine of 53 degrees. And that gives 806 meters. So this displacement right
+over here is 806 meters.

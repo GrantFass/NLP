@@ -1,0 +1,202 @@
+We've learned a good bit
+about the dot product. But when I first introduced it,
+I mentioned that this was only one type of vector
+multiplication, and the other type is the cross product, which
+you're probably familiar with from your vector calculus
+course or from your physics course. But the cross product is
+actually much more limited than the dot product. It's useful, but it's
+much more limited. The dot product is defined
+in any dimension. So this is defined for any two
+vectors that are in Rn. You could take the dot product
+of vectors that have two components. You could take the dot product
+of vectors that have a million components. The cross product is
+only defined in R3. And the other, I guess, major
+difference is the dot produc, and we're going to see this in a
+second when I define the dot product for you, I haven't
+defined it yet. The dot product results
+in a scalar. You take the dot product
+of two vectors, you just get a number. But in the cross product you're
+going to see that we're going to get another vector. And the vector we're going to
+get is actually going to be a vector that's orthogonal to
+the two vectors that we're taking the cross product of. So now that I have you excited
+with anticipation, let me define it for you. And you probably already have
+seen this once or twice in your mathematical careers. Let's say I have the vector a. It has to be in R3, so
+it only has three components: a1, a2 and a3. And I'm going to cross that with
+the vector b and it has three components:
+b1, b2 and b3. a cross b is defined
+as a third vector. And now this is going to seem a
+little bit bizarre and hard to essentially memorize because
+this is a definition. But I'll show you how I think
+about it when I have my vectors written in
+this column form. If you watch the physics
+playlist, I have a bunch of videos on the cross product
+and I show you how I think about the cross product when I
+have it in the i, j, k form. But when I have it like this,
+the way you think about this first term up here, this is
+going to be another three vector or another vector in R3,
+so it's going to have 1, 2, 3 terms. For the first term, what you do
+is you ignore these top two terms of this vector and then
+you look at the bottom two and you say, a2 times b3
+minus a3 times b2. And I've made a few videos on
+determinants, although I haven't formally done them in
+kind of this linear algebra playlist yet. But if you remember kind of
+co-factor-- finding out the co-factor terms for when
+you're determining the determinant or if you're just
+taking the determinant for a 2x2 matrix, this might
+seem very familiar. So this first term right here is
+essentially the determinant of-- if you get rid of this
+first row out of both of these guys right here, you take a2
+times b3 minus a3 times b2. So it's a2 times b3
+minus a3 times b2. That was hopefully pretty
+straightforward. Now, not to make your life any
+more complicated, when you do the second, when you do the
+middle row, when you do this one right here, so you
+cross that out. And you might want to do a1
+times b3 minus a3 times b1. And that would be natural
+because that's what we did up there. But the middle row you
+do the opposite. You do a3 times b1 minus
+a1 times b3. Or you can kind of view it as
+the negative of what you would have done naturally. So you would have done
+a1 b3 minus a3 b1. Now we're going to do
+a3 b1 minus a1 b3. And that was only for
+that middle row. And then, for the bottom
+row, we cross that out again or ignore it. And we do a1 times b2, just like
+we do with the first row. Times a2 b1. Or minus a2 b1. This seems all hard to-- and
+it is hard to remember. That's why I kind of have to get
+that system in place like I just talked to you about. But this might seem pretty
+bizarre and hairy. So let me do a couple of
+examples with you, just so you get the hang of our definition
+of the dot product in R3. So let's say that I have the
+vector-- let's say I'm crossing the vector. I have the vector 1,
+minus 7, and 1. And I'm going to cross that
+with the vector 5, 2, 4. So this is going to be equal
+to a third vector. Let me get some space to
+do my mathematics. So for the first element in
+this vector, the first component, we just ignore the
+first components of these vectors and we say minus 7
+times 4 minus 1 times 2. And these are just regular
+multiplication. I'm not taking the
+dot product. These are just regular
+numbers. Then for the middle term, we
+ignore the middle terms here and then we do the opposite. We do 1 times 5 minus
+1 times 4. Remember, you might have been
+tempted to do 1 times 4 minus 1 times 5 because that's how we
+essentially did it in the first term. But the middle term
+is the opposite. And then finally, the third
+term you ignore the third terms here and then you do it
+just like the first term. You start in the top left. 1 times 2 minus 7. Put that in parentheses. Minus minus 7 times 5. And so that is equal
+to-- let me see. What do we get? Minus 7 times 4. I don't want to make a careless
+mistake here. That's minus 28. Minus 2. So this is minus 30 for
+that first term. This one is 5 minus 4. 5 minus 4 is just 1. And then 2 minus minus 35. So 2 minus minus 35. That's 2 plus 35. That's 37. So there you go. Hopefully you understand at
+least the mechanics of the cross product. So the next thing you're
+saying well, OK. I can find the cross product
+of two things. But what is this good for? What does this do for me? And the answer is, is that this
+third vector right here, and depending on whether I stay
+in the abstract case or whether this case with numbers,
+this is orthogonal to the two vectors that we took
+the cross product of. So this vector right here is
+orthogonal to a and b. Which is pretty neat. If you just go think about the
+last video when we were talking about normal vectors
+to a plane, we can define a vector by-- we can define
+a plane by two vectors. If we define a plane-- let's say
+that I have vector a right there, and then I
+have vector b. Let me do vector b like this. Those define a plane in R3. Let me define your plane. So all the linear combinations
+of those two guys, that's a plane in R3. You can kind of view it
+as they might form a subspace in R3. That forms a plane. If you take a cross b, you
+get a third vector that's orthogonal to those two. And so a cross b will
+pop out like this. It'll be orthogonal to both of
+them and look like that. And so this vector right
+there is a cross b. And you might say, Sal, how did
+you know-- I mean, there's multiple vectors that
+are orthogonal. Obviously, the length of the
+vector, and I didn't specify that there, but it could pop
+straight up like that or why didn't it-- you know, you just
+as easily could have popped straight down like that. That also would be orthogonal
+to a and b. And the way that a cross b is
+defined, you can essentially figure out the direction
+visually by using what's called the right hand rule. And the way I think about it
+is you take your right hand and let me see if I can draw
+a suitable right hand. Point your index finger
+in the direction of a. So if your index finger is in
+the direction of a and then I point my middle finger in
+the direction of b. So my middle finger, in this
+case, is going to go something like that. My middle finger is going to
+do something like that. And then my other fingers
+do nothing. Then my thumb will go in the
+direction of a cross b. You could see that there. My thumb is in the direction
+of a cross b. And assuming that you are
+anatomically similar to me, then you still get
+the same result. Let me draw it all. So this is vector a. Vector b goes in
+that direction. Hopefully you don't have a
+thumb hanging down here. You know that a cross b in this
+example will point up and it's orthogonal to both. To kind of satisfy you a little
+bit, that the vector's definitely orthogonal or that
+this thing is definitely orthogonal to both of these,
+let's just play with it and see that that definitely
+is the case. And what is orthogonal? What is in our context, the
+definition of orthogonal? Orthogonal vectors. If a and b are orthogonal, that
+means that a dot b is equal to 0. Remember, the difference
+between orthogonal and perpendicular is that
+orthogonal also applies to 0 vectors. So these could also
+be 0 vectors. Notice that I didn't say that
+any of these guys up here had to be nonzero. Well, in a little bit, we'll
+talk about the angle between vectors and then you have
+to assume nonzero. But if you're just taking a
+cross product, nothing to stop you from taking-- no reason
+why any of these numbers can't be 0. But let me show you that
+a cross b is definitely orthogonal to both a and b. I think that might be somewhat
+satisfying to you. So let me copy a cross b here. I don't feel like
+rewriting it. OK. Let me paste it. OK, bundle up little other
+stuff with it. Let me take the dot product of
+that with just my vector a, which was just a1, a2, a3. So what does the dot
+product look like? That term times that, so it's
+a1-- let me get some space. It's a1 times a2 b3 minus
+a1 times that. Minus a1 times a3 b2. And then you have plus
+this times this. So plus a2 times a3. So plus a2 times a3 times b1. And then minus a2 a1 b3. And then finally, plus-- I'll
+just continue it down here. Plus a3 times a1 b2 minus
+a3 times a2 b1. All I did I just took the
+cross-- the dot product of these two things. I just took each of this. This guy times that was equal
+to those two terms. That guy times that was equal to the next
+two terms, equal to those two terms. And then this guy
+times that was equal to those two terms. And if these guys
+are really orthogonal, then this should be equal to 0. So let's see if that's
+the case. So I have an a1 a2 b3, a
+positive here, and then I'm subtracting the same
+thing here. This is the same thing as a1 a2
+b3, but it's just a minus. So that will cancel
+out with that. Let's see, what else
+do we have? We have a minus a1 a3 b2. We have a plus a1 a3 b2 there,
+so these two are going to cancel out. And I think you see where
+this is going. You have a positive a2 a3 b1 and
+then you have a negative a2 a3 b1 there. So these will also cancel out. Now, I just showed you that
+it's orthogonal to a. Let me show you that it's
+orthogonal to b. Let me get another version of
+my-- the cross product of the two vectors. Probably scroll down
+a little bit. And let me go back. And let me multiply that
+times the vector b. b1, b2 and b3. I'll do it here just so
+I have some space. So b1 times this whole thing
+right here is b1 a2 b3 minus b1 times this. Minus b1 a3 b2. Let me switch colors. And then b2 times this thing
+here is going to be b2-- so it's going to be plus. This is all really one
+expression, I'm just writing it on multiple lines. This isn't a vector. Remember, when you take the dot
+product of two things, you get a scalar quantity. So plus b2 times this thing. So b2 a3 b1 minus b2 a1 b3. And then finally,
+b3 times this. So plus b3 a1 b2
+minus b3 a2 b1. So if these guys are definitely
+orthogonal, then this thing needs to equal 0. And let's see if that's
+the case. We have a b1, a2, b3. So b1 and a b3. b1 a2 b3, that's a positive
+one and this is a negative one. You have a b3, an a2 and a b1
+so that and that cancel out. Here you have a minus
+b1 a3 b2. So you have a b1 and a b2. It's a minus b1 a3 b2. This is a plus the same thing. Just switching the order
+of the multiplication. But these two are
+the same term. They're just opposites of each
+other, so they cancel out. And then finally, you have
+a b2, an a1 and a b3. It's a negative. And then you have a positive
+version of the same thing. So these two guys cancel out. So you see that this
+is also equal to 0. So hopefully you're satisfied
+that this vector right here is definitely orthogonal
+to both a and b. And that's because that's
+how it was designed. This is a definition. You could do a little bit of
+algebra and you could have without me explaining this
+definition to you, you could have actually come up with this
+definition on your own. But obviously this was kind
+of designed to have other interesting properties to it. And I'll cover those in the next
+few videos, so hopefully you found that helpful.

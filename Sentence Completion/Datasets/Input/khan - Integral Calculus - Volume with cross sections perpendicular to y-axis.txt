@@ -1,0 +1,45 @@
+- [Instructor] Let R be
+the region enclosed by y is equal to four times the
+square root of nine minus x and the axes in the first quadrant. And we can see that region
+R is gray right over here. Region R is the base of a solid. For each y-value the cross
+section of the solid taken perpendicular to the y-axis
+is a rectangle whose base lies in R and whose height is y. Express the volume of the
+solid with a definite integral. So pause this video and
+see if you can do that. Alright, now let's do this together. And first let's just try
+to visualize the solid and I'll try to do it by drawing this little bit of perspective. So if that's our y-axis and then this is our
+x-axis right over here. And I can redraw region R,
+looks something like this. And now let's just imagine a
+cross section of our solid. So it says the cross section solid taken perpendicular to the y-axis, so let's pick a y-value right over here. We're gonna go
+perpendicular to the y-axis. It says whose base lies in R. So the base would look like that, it would actually be the
+x-value that corresponds to that particular y-value. So I'll just write x right over here. And then the height is y. So the height is goin'a be
+whatever our y-value is. And then if we wanted to
+calculate the volume of just a little bit, a slice that
+has an infinitesimal depth, we could think about that
+infinitesimal depth in terms of y. So we could say its depth,
+right over here, is d y. D y, and we could draw
+other cross sections. For example, right over
+here, our y is much lower, it might look some, so our
+height will be like that. But then our base is the
+corresponding x-value that sits on the curve
+right over that x y pair, that would sit on that curve. And so this cross section
+would look like this. And once again, if we wanted to put, if we wanted to calculate its volume, we could say there's
+an infinitesimal volume and it would have depth d y. And so as we've learned
+many times in integration, what we wanna do is
+think about the volume of one of these, I guess
+you could say, slices, and then integrate across all of them. Now there's a couple
+of ways to approach it. You could try to integrate
+with respect to x, or you could integrate with respect to y. I'm gonna argue it's much
+easier to integrate with respect to y here 'cause we already
+have things in terms of d y. The volume of this little slice is going to be y times x times d y. Now if wanna integrate with respect to y, we want everything in terms of y. And so what you do is
+express x in terms of y. So here we just have to solve for x, so one way to do this is, let's see, we can square both sides of, oh, actually let's divide
+both sides by four. So you get y over four is equal to the square root of nine minus x. Now we can square both sides. Y squared over 16 is
+equal to nine minus x. And then, let's see, we could multiply both sides by negative one. So negative y squared over 16 is equal to x minus nine. And now we could add nine to both sides. And we get nine minus y
+squared over 16 is equal to x. And so we could substitute
+that right over there. So another way to express
+the volume of this little slice right over here
+of infinitesimal depth, d y depth, is going to be y times nine minus y squared over 16 d y. And if we wanna find the
+volume of the whole figure, it's gonna look something like, something like that, we're
+just goin'a integrate from y equals zero to y is equal to 12. So integrate from y is equal to zero to y is equal to 12. And that's all they asked us to do to express the volume
+as a definite integral, but this is actually a definite integral that you could solve without a calculator. If you multiply both of these terms by y, well then you're just goin'a
+have a polynomial in terms of y and we know how to take
+the antiderivative of that and then evaluate a definite integral.

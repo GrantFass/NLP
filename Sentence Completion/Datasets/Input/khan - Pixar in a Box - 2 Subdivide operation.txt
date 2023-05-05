@@ -1,0 +1,11 @@
+- One of the cool things about
+splitting and averaging is that it's pretty easy to program. So, you just need to find the midpoint, which is just averaging coordinates. This makes it pretty easy for the people that write our software to create intuitive tools for artists, like myself, to create characters. Kinda like you used on the smiley face. In this next version of the interactive, we've replaced the split
+and average buttons with a single button, called "Subdivide". Clicking it simply does
+split followed by average. Focus your attention on
+this region of the curve. Now, let's extend these lines until they hit the control polygon. Hmm. Doesn't this look, suspiciously, like the string art construction we saw in the parabolic arcs? Now, watch what happens
+when I subdivide again. The string art pattern
+continues to emerge. Now, every time you hit subdivide, you get twice as many strings. And that means that the curve that we're creating is a
+parabolic arc in this region. And there's another
+parabolic arc over here and over here and over here. But, magically, these
+four arcs are smoothly blending from one to another. I think that's just so cool. As someone interested in mathematics, this is the kind of surprise
+that I find exciting. This next exercise will test how well you understand this concept.

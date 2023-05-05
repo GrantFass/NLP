@@ -1,0 +1,71 @@
+Let's have a little bit of a review of what
+a function is before we talk about what it means that what the domain of a function means.
+So function we can view as something -- so I put a function in this box
+here and it takes inputs, and for a given input, it's going to
+produce an output which we call f of x. So, for example, let's say that
+we have the function -- let's say we have the function f of x is equal to 2 over x. So in this case if -- let me see -- that's my function f. If I were to input the number 3. Well, f of 3 that we're going to output -- we have, we
+know how to figure that out. We've defined it right over here. It's going to be
+equal to 2 over 3. It's going to be equal to 2 over 3. So we're able, for that input, we're
+able to find an output. If our input was pi, then we input into our function and then
+f of pi -- when x is pi, we're going to output
+f of pi, which is equal to 2 over pi. So we
+could write this as 2 over pi. We're able to find the output
+pretty easily. But I want to do something interesting. Let's attempt to input 0 into the function. If we input 0 then
+the function tells us what we need to output. Does this
+definition tell us what we need to output? So if I attempt to put x equal 0, then this
+definition would say f of 0 be 2 over 0, but 2 over 0 is
+undefined. Rewrite this -- 2 over 0. This is undefined.
+This function definition does not tell us what to actually do with 0. It gives us an
+undefined answer. So this function is not defined here.
+It gives a question mark. So this gets to the essence of what domain is. Domain is the set of all inputs over
+which the function is defined. So the domain of this
+function f would be all real numbers except for x equals 0. So we write down these, these big ideas.
+This is the domain -- the domain of a function -- Actually let me write that out. The domain of a function A domain of a function is the set of all inputs -- inputs over which the function is defined -- over which the function is defined,
+or the function has defined outputs over which the function has defined outputs. So the domain for this f
+in particular -- so the domain for this one  -- if I want
+to say its domain, I could say, look, it's going to
+be the set of these curly brackets. These are kind of typical mathy set notation. I said OK
+, it could be the set of -- I gonna put curly brackets like that. Well, x can be a
+member So this little symbol means a
+member of the real numbers. But it can't be any real number. It could be most of the real numbers except it
+cannot be 0 because we don't know -- this definition is undefined when
+you put the input as 0 So x is a member of the real numbers,
+and we write real numbers -- we write it with this kind of double stroke right over here.
+That's the set of all real numbers such that -- we have to put
+the exception. 0 is not a -- x equals to 0 is not a member of that
+domain -- such that x does not -- does not equal 0. Now let's make this a little bit
+more concrete by do some more examples So more examples we do, hopefully the clearer this will become.
+So let's say we have another function. Just be clear, we don't
+always have to use f's and x's. We could say, let's say we
+have g of y is equal to the square root of y minus 6. So what is the domain here? What is the set of all inputs over which this function g
+is defined? So here we are in putting a y it to function g and we're gonna output g of y. Well it's going to be defined
+as long as whatever we have under the radical right over here is non-negative. If this becomes a
+negative, our traditional principal root operator here is not defined. We need something that --
+if this was a negative number, how would you take the principal
+root of a negative number? We just think this is kind of the the
+traditional principal root operator. So y minus 6, y minus 6 needs to be greater than or equal to 0, in order for, in order for g
+to be defined for that input y. Or you could say add six to both sides.
+y is to be greater than or equal 6. Or you could say g is defined for any inputs
+y that are greater than or equal to 6. So you could say the domain here, we
+could say the domain here is the set of all y's that are members of
+the real numbers such that y, such that they're also
+greater than or equal, such that they're also greater than or equal to 6. So hopefully
+this is starting to make some sense -- You're all used to a function that is
+defined this way. You could even see functions that are divided fairly exotic ways. You could see a
+function -- let me say h of x -- h of x could be defined as -- it literally
+could be defined as, well h of x is gonna be 1 if x is equal to pi and it's equal to 0 if, if, x is equal to 3. Now what's the domain
+here? And I encourage you to pause the video and think about it. Well, this function is actually only
+defined for two input. If you, we know h of -- we know h of pi --
+if you input pi into it we know you're gonna output 1, and
+we know that if you input 3 into it h of 3, when x equals 3, you're going to
+-- you're going to -- put some commas here. You're gonna get 0.
+But if you input anything else, what's h of 4 going to be? Well, it hasn't defined. It's undefined.
+What's h of negative 1 going to be? It hasn't defined. So the domain, the domain here, the domain of h is literally -- it's just literally
+going to be the the two valid inputs that x can be are 3 and pi. These are the only valid inputs.
+These are the only two numbers over which this function is actually defined.
+So this hopefully starts to give you a flavor of why we care about to the domain.
+It's not all functions are defined over all real numbers. Some are defined 
+for only a small subset of real numbers, or for some other
+thing, or only whole numbers, or natural numbers, or positive numbers, and negative
+numbers. So they have exceptions. So we'll see that as we do
+more and more examples.

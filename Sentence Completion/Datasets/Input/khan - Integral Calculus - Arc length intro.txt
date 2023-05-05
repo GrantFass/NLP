@@ -1,0 +1,66 @@
+- [Voiceover] We've used the definite integral to find areas. What I want to do now is to see if we can use the definitive role
+to find an arc length. What do I mean by that? Well, if I start at this point
+on the graph of a function, and if I were to go at
+this point right over here, not a straight line, we
+know already how to find the distance in the straight
+line but instead we want to find the distance along the curve. If we lay a string along the curve, what would be the
+distance right over here? That's what I'm talking
+about by arc length. What we could think about it
+is okay, that's going to be from x equals a to x
+equals b along this curve. So how can we do it? Well, the one thing that
+integration, integral calculus is teaching us is that when we see something that's changing like
+this, what we could do is we can break it up into
+infinitely small parts. Infinitely small parts
+that we can approximately with things like lines and
+rectangles, and then we could take the infinite sum of
+those infinitely small parts. So let me break up my arc length. Let me break it up into infinitely small sections of arc length. Let me call each of those
+infinitely small sections of my arc length a, I
+guess I could say a length to differential, an arc length
+to differential, I call it ds. I'll draw it a much bigger
+that when I at least I conceptualize what a differential is, just so that we could see it. What do I mean by breaking
+it up into these ds's? Well, if that's the ds, and then let me do the
+others in other colors, that's another infinitely
+small change in my arc length. Another infinitely small
+change in my arc length. If I summed all of these ds's together, I'm going to get the arc length. The arc length, if I take
+is going to be the integral of all of these ds's sum
+together over this integral so we can denote it like this. But this doesn't help me right now. This is in terms of this arc
+length that's differential. We do know how to do things
+in terms of dx's and dy's. Let's see if we can re-express this in terms of dx's and dy's. If we go on a really, really small scale, once again, we can approximate. This is going to be a line. We just the way that we approximated area with rectangles at first. But if we have an infinite number of infinite small
+rectangles, we're actually approximating a non-rectangular region. The area on a non-rectangular region. Similarly, we're approximating with lines with the infinitely small
+and there's infinite number of them, you are actually
+finding the length of the curve. Well, just focusing on
+this is a line for now. This distance right over
+here, I'm just going to try express in terms of dx's and dy's. So this distance right
+over here, that's dx. You can do this as
+infinitely small change in x, and this distance right
+over here, this is a dy. Once again, I'm being
+loosey-goosey with differentials. Really giving you
+conceptual understanding, not a reader's proof, but
+it'll give you a sense of where the formula for arc
+length is actually coming from. Based on this, you can see
+the ds could be expressed based on the Pythagorean
+Theorem as equal to dx squared plus dy squared, or you could rewrite this as square root of dx
+squared plus dy squared. So we could rewrite this. We could say this is the same
+thing as the integral of, instead of writing ds,
+I'm going to write it as the square root of dx
+squared plus dy squared. Once again, this is straight
+out of the Pythagorean Theorem. Now this is starting to get interesting. I've written in terms of dx's and dy's but they're getting squared. They're under radical sign. What can I do to simplify this? Or at least write it in a way
+that I know how to integrate. Well, I could factor out a dx squared, so let me just rewrite it. This is going to be the same thing as the integral of the square root. I'm going to factor out the dx squared, dx squared times one
+plus dy over dx squared. Notice this, and this
+is exact same quantity. If I distribute this dx squared, I'm going to get this right up here. Now I can take the dx
+squared out of the radical. So this is going to be the integral of, let me write that in the white color, the integral of one plus dy, dx squared. This is interesting because
+we know what dy, dx is. This is the derivative of our function, dy, dx squared. If you take the dx squared
+out of the radical, the square root of dx squared
+is just going to be dx. This is just going to be dx. This is just going to be dx. Now this is really
+interesting because we know how to find this between two bounds. We can now take the
+definitive role from a to b. This is now we are
+integrating a bunch of dx's or we're integrating with respect to x. We could say, "Okay, x
+equals a to x equals b." Let's take the sum of the product of this expression and
+dx, and this is essential. This is the formula for arc length. The formula for arc length. This looks complicated. In the next video, we'll
+see there's actually fairly straight forward to apply although sometimes in math gets airy. If you wanted to write this in
+slightly different notation, you could write this as equal
+to the integral from a to b, x equals a to x equals b of
+the square root of one plus. Instead of dy, dx, I could write it as f prime of x squared, dx. So if you know the function,
+if you know what f of x is, take the derivative of it
+with respect to x squared added to one, take the square
+root, and then multiply, and then take the definite integral of that with respect to x from a to b. We'll do that in the next video.

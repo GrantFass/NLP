@@ -1,0 +1,28 @@
+- [Voiceover] We're told that
+the quadratic expressions m squared minus 4m minus 45, and 6m squared minus 150, share a common binomial factor. What binomial factor do they share? And like always pause the video and see if you can work through this. All right, now let's work
+through this together and the way I am going to do this is I'm just going to try and
+factor both of them into the product of binomials and
+maybe some other things and see if we have any
+common binomial factors. So first let's focus on m squared minus 4m minus 45. So let me write it over here, m squared minus 4m minus 45. So when you're factoring a
+quadratic expression like this, where the coefficient
+on the, in this case, m squared term, on the
+second degree term is one, we could factor it as being equal to m plus a, times m plus b, where a plus b is going to be equal to this coefficient right over here, and a times b is going to be equal to this coefficient right over here. So let's be clear, so, a, let me see another color, so a plus b needs to
+be equal to negative 4, a plus b needs to be equal to negative 4, and then a times b needs
+to be equal to negative 45. A times b is equal to negative 45. Now I like to focus on the
+a times b and think about, well, what could a and b
+be to get to negative 45? Well if I'm taking the
+product of two things and if the product is negative that means that they are going to have different signs and if when we add them we get a
+negative number that means that the negative one has a larger magnitude. So let's think about this a little bit. So a times b is equal to negative 45. So this could be, let's
+try some values out. So, 1 and 45, those are too far apart. Let's see. 3 and 15, those still
+seem pretty far apart. Let's see, it looks like
+5 and 9 seem interesting. So if we say, if we say 5 times, if we were to say, 5 times negative 9, that indeed is equal to negative 45, and 5 plus negative 9 is indeed equal to negative 4. So a could be equal to 5 and b could be equal to negative 9. And so if we were to factor
+this, this is going to be m plus 5, times m, I could say m plus negative 9, but I'll just write m minus 9. So just like that I've
+been able to factor this first quadratic expression right over there as a product of two binomials. So now let's try to factor the
+other quadratic expression. Let's try to factor 6m squared minus 150. And let's see, the first
+thing I might want to do is, both 6m squared and 150, they're both divisible by 6. So let me write it this
+way, I could write it as, 6m squared minus 6 times, let's see, 6 goes into 150, 25 times. So all I did is I rewrote this and really I just wrote 150 as 6 times 25. And now you can clearly see
+that we can factor out a 6. You can view this as undistributing the 6. So this is the same thing as 6 times m squared minus 25, which we recognize this is
+a difference of squares. So it's all going to be 6 times, m plus 5, times m minus 5. And so we've factored this out
+as a product of binomials and a constant factor here, 6, and so, what is their shared, common or what is their common
+binomial factor that they share? Well you see when we factored
+it out, they both have an m plus 5. So m plus 5 is the binomial factor that they share.

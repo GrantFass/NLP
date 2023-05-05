@@ -1,0 +1,132 @@
+We're on problem 31. A sewing club is making a
+quilt consisting of 25 squares, with each side of
+the square measuring 30 centimeters. OK, and there's going
+to be 25 of these. And they're going
+to be 30 by 30. If the quilt has 5 rows and 5
+columns, what is the perimeter of the quilt? OK, so let me draw that out. So it has 5 rows and 5 columns
+and they're all squares. So the quilt itself is
+going to be a square. It has 4 rows, one two, three,
+four, and then five. And then one, two,
+three, four. So that's a 5 by 5. And each of these squares,
+their sides are 30 centimeters. So how long is one side of
+this quilt going to be? It's going to be 30 times 5. So it's going to be
+150 centimeters. Same argument, that's going
+to be 150 centimeters. And that's going to be
+150 centimeters. 30 times 5. And this is going to
+be 150 centimeters. So the perimeter is 150 plus
+150 plus 150 plus 150 and that's 600. So that's choice C. 32. The four sides of this figure
+will be folded up and taped to make a box. Fair enough. What will be the volume
+of the box? OK, so if we cut this out right
+now and we folded it along where I'm drawing these
+green lines, we'll get a box. And they want to say,
+what's the volume? Well, volume is just
+the base times the height times the depth. So if I were to fold up this
+box is going to look something like this. You're going to have the base,
+which is this base right here. And this is one, one, two,
+three, four, five by one, two, three, four, five. So it's 5 by 5 base. And then each of the sides are
+going to be 2 high if I fold this up, it's going to
+be 2 high like that. It's going to look like that
+if I folded that side up. This side, when I fold it up,
+is going to look like this. One, two, three, four, five. That's side when I fold it is
+going to look like that. And this side when I fold it up
+is going to look like that. One, two, three, four, five. The big picture, the width is
+5, the depth is 5, and the height is 2. So the volume is 5 times
+5 is 35 times 2. Which is equal to 50. And that's choice A. Problem 33. Where's 33, I think it's
+on the next page. OK, let me copy and paste it. I should just copy and
+paste the whole test. OK, it says a classroom globe
+has a diameter of 18 inches. If I were to go from
+the center to the side, it's 18 inches. Which of the following is the
+approximate surface area. Oh no, sorry, I just
+drew the radius. It has a diameter
+of 18 inches. This is 18. Which of the following is an
+approximate surface area in square inches of the globe? And surface area, they give us
+the equation, they give it in terms of the radius. So if the diameter is 18,
+what's the radius? The radius is half
+of the diameter. So the radius is equal to 9. And we just plug
+that into here. So the surface area is equal
+to 4 pi times the radius squared, times 9 squared. That equals 4 times
+81 times pi. So it's 324 pi. And they actually multiplied
+it out. So let's see. Let's see, 324 pi. And if I were to guess this, I
+mean, look at all the choices. Pi is more than 3. So this value is going to be
+more than 3 times 324. So it's going to be around 1,000
+or a little bit more than 1,000. And the only one that's even
+close to that is D. But if you wanted to confirm
+that, you could multiply 324 times 3.14 and that is
+equal to 1,017.4. All right, next problem. Problem 34. I'll copy and paste 34 and
+35 at the same time. There you go. I put this there. All right, ready to do it. The rectangle shown below has
+a length of 20 meters and width of 10. So this is 10 and this is 20. I just picked that because this
+looks longer than that. That's a 10 I drew. I know it doesn't
+look like a 10. If the four triangles are
+removed from the rectangle as shown, what will be the area
+of the remaining figure? So what's the are before
+I remove them? It's 20 times 10. That's the area of the
+whole rectangle. So it's 200. And then how much area
+am I removing? So each of these triangles,
+what's its area? It's base times height
+times 1/2. That's the area of a triangle. Because if you just did base
+times height, you'd be figuring out the area of this
+little rectangle there. So the area of this is 4 times 4
+is 16 times 1/2, which is 8. This is going to be 8, going
+to be 8, going to be 8. So we're removing four
+8's from this area. So we're removing 32. So minus 32. And that's 168. So that's choice C. Problem 35. If RSTW is a rhombus, so rhombus
+tells us that all the sides are equal and
+they're parallel. What is the area of WXT. So this right here. OK, so this is something that
+you may or may not have learned about a rhombus
+already. But its diagonals actually
+intersect at a perpendicular line. And let me see what
+else we can see. This is 60 degrees, so
+this is 30 degrees. Let's see what we can
+get from this. This is 12. Then this is 12. OK, I see where they're
+going with this. So if this is 90 degrees,
+this is 90 degrees. This is a rhombus, so all
+the sides are the same. If this is 60, this is 90, this
+has to be 30 degrees. And then you could actually make
+a very strong argument that these are similar
+triangles. Whatever length this is,
+that's the same length, because this is a parallelogram
+and the diagonals bisect each other. This side is equal
+to that side. That side is equal
+to this side. So these are congruent
+triangles. So this is also going
+to be 60 degrees. This is going to be 30. But if you have a 60, let me do
+it in another color, if you have a 60, 60, 60 triangle,
+all of the angles are 60 degrees, you're dealing with
+an equilateral triangle. So that tells you that all
+the sides are the same. So if this side is 12, that side
+is 12, this side right here also has to be 12. If that whole side is 12,
+what's this length? We already know that in a
+parallelogram the diagonals bisect each other. So this length is 6. And this length is 6. Fair enough. And let's see, if each of these
+lengths are 6, can we figure out what this
+height is equal to? Because if we know the base and
+the height, we're ready to figure out the area
+of a triangle. So let's see if we can use
+the Pythagorean Theorem. If we called this x, we could
+say x squared plus 6 squared plus 36 is equal to 12 squared,
+is equal to 144. And we you could say that x
+squared is equal to, what's 144 minus 36, that's 108. Let's see, 108. x squared is equal to 108. x is equal to the square
+root of 108. And I can simplify that
+more because 9 goes into 108 12 times. Let me do that. So x is equal to the
+square root of 9 times 12, that's 108. So that's equal to the square
+root of 9 times the square root of 12. That's equal to 3 times
+the square root of 12. Square root of 12 is the same
+thing as the square root of 3 times the square root of 4. Square root of 4 is 2. So that's 2 times 3 is
+6 square root of 3. This is 36 times 3. We could have said this is equal
+to the square root of 36 times the square root of 3. All right, so 6 square
+roots of 3. That's this side. So what's the area of this
+triangle right there? It's 1/2 times this base times
+6 times 6 square roots of 3. So that's 1/2 times 6 is 3,
+times, 6 square roots of 3 is 18 square roots of 3. Now that's just this triangle. This triangle is congruent to
+this triangle, so it will have the same area. And you can make the same
+argument that all of these triangles are congruent. So the area of this entire
+rhombus is going to be 4 times this. Is that what they wanted? Oh no, they wanted of
+the area of WXD. That's what we just
+figured out. They didn't want the area
+of the whole rhombus. They want just the area of this
+triangle right there, which we just figured out, which
+is 18 square roots of 3. I'm trying to think if there's
+a simpler way of doing this. There might be some formula for
+the equation for the area of a rhombus that I've forgotten
+in my memory. But we were able
+to re-prove it. And that's always better, to
+come from basic principles. Anyway, I'll see you
+in the next video.

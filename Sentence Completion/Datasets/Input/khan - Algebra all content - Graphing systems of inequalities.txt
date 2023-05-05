@@ -1,0 +1,57 @@
+We're asked to determine the
+solution set of this system, and we actually have three
+inequalities right here. A good place to start is just to
+graph the solution sets for each of these inequalities and
+then see where they overlap. And that's the region of the
+x, y coordinate plane that will satisfy all of them. So let's first graph y is equal
+to 2x plus 1, and that includes this line, and then
+it's all the points greater than that as well. So the y-intercept
+right here is 1. If x is 0, y is 1, and
+the slope is 2. If we move forward in the
+x-direction 1, we move up 2. If we move forward 2, we'll
+move up 4, just like that. So this graph is going to look
+something like this. Let me graph a couple more
+points here just so that I make sure that I'm drawing
+it reasonably accurately. So it would look something
+like this. That's the graph of y is
+equal to 2x plus 1. Now, for y is greater than or
+equal, or if it's equal or greater than, so we have to put
+all the region above this. For any x, 2x plus 1 will be
+right on the line, but all the y's greater than that
+are also valid. So the solution set of that
+first equation is all of this area up here, all of the area
+above the line, including the line, because it's greater
+than or equal to. So that's the first inequality
+right there. Now let's do the second
+inequality. The second inequality is y
+is less than 2x minus 5. So if we were to graph 2x minus
+5, and something already might jump out at you
+that these two are parallel to each other. They have the same slope. So 2x minus 5, the y-intercept
+is negative 5. x is 0, y is negative 1, negative 2, negative
+3, negative 4, negative 5. Slope is 2 again. And this is only less than,
+strictly less than, so we're not going to actually
+include the line. The slope is 2, so it will
+look something like that. It has the exact same slope
+as this other line. So I could draw a bit of a
+dotted line here if you like, and we're not going to include
+the dotted line because we're strictly less than. So the solution set for this
+second inequality is going to be all of the area
+below the line. For any x, this is 2x minus 5,
+and we care about the y's that are less than that. So let me shade that in. So before we even get to this
+last inequality, in order for there to be something that
+satisfies both of these inequalities, it has to be in
+both of their solution sets. But as you can see, their
+solutions sets are completely non-overlapping. There's no point on the x, y
+plane that is in both of these solution sets. They're separated by this kind
+of no-man's land between these two parallel lines. So there is actually
+no solution set. It's actually the null set. There's the empty set. Maybe we could put an empty set
+like that, two brackets with nothing in it. There's no solution set
+or the solution set of the system is empty. We could do the x is
+greater than 1. This is x is equal to 1, so
+we put a dotted line there because we don't want
+include that. So it would be all
+of this stuff. But once again, there's nothing
+that satisfies all three of these. This area right here satisfies
+the bottom two. This area up here satisfies
+the last one and the first one. But there's nothing that
+satisfies both these top two. Empty set.

@@ -1,0 +1,48 @@
+Multiply and express as
+a simplified rational. State the domain. We'll start with the domain. The only numbers that will make
+this expression undefined are the ones that would make
+the denominator equal to 0, and those are the situation, or
+that situation would occur, when either a, b, x,
+or y is equal to 0. If any of those are equal to 0,
+then we have an undefined expression. We could say the domain is
+all real a's, b's, x, and y's, except 0. Or we could be specific: except
+a, b, x, and y can't equal to 0. Or you could write this: given
+that a, b, x, and y does not equal 0, that none of them
+can be equal to 0. These are just multiple ways
+of stating the same thing. With that stated, let's actually
+multiply and simplify this rational expression. So when we multiply, you just
+multiply the numerator and multiply the denominator, so
+you have 3x squared y times 14a squared b in
+the numerator. Then in the denominator, we have
+2ab times 18xy squared. Let's see where we can
+simplify this thing. We can divide the 14 by 2, and
+the 2 by 2, and we get 14 divided by 2 is 7, and
+2 divided by 2 is 1. We could divide the 3 by 3 and
+get 1, and divide the 18 by 3, and get 6. Every time we divided the
+numerator and the denominator by 2, now the numerator and the
+denominator by 3, so we're not changing the expression. Then we can divide a squared
+divided by a, so you're just left with an a in the numerator,
+and a divided by a is just 1. You have a b over a b. Those guys cancel
+each other out. You have an x squared divided by
+an x, so x squared divided by x is x, and x divided by x
+is just a 1, so this becomes an x over 1, or just an x. Finally, you have a y
+over a y squared. if. You divide the numerator
+by y, you get 1. If you divide the denominator by
+y, you just get a y, and so what are we left with? We're left with in
+the numerator, these 1's we can ignore. That doesn't really
+change the number. We have a 7 times a times x. That's what we have
+in the numerator. In the denominator,
+we just have a 6y. And we have to add the
+constraint that a, b, x, and y cannot equal 0. When you just look at this
+expression right here, you're like, hey, what's
+wrong with x? There isn't even any b here,
+so it's a little bit of a bizarre statement, but you say,
+hey, why can't x or a be equal to 0 over here? It doesn't make it undefined. But in order for these
+to really be the same expressions, they have to
+have the same domains. Or actually, if these were
+functions that equal them, in order for that f of x to be
+equal to this f of x right over here, you'd have to
+constrain the domain in a similar way. This is a fundamentally
+different expression if you allow x's and a's. In this one, you can't
+allow x's and a's. For them to be really the same,
+you have to put the same constraints on it.

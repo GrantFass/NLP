@@ -1,0 +1,30 @@
+Voiceover:What I want to do in this video is use all of our powers,
+all of our knowledge of trig functions and trig identities. In order to figure out, given all the information
+that we have here, in order to figure out the
+length of this yellow line, this point, this line or the segment that goes from here to here. I encourage you to pause the video and think about it
+before I work through it. I'm assuming you've had a go at it and in doing that you might have realized, okay this line that's one of the sides of this right triangle that
+I have right over here. We're given this alpha and beta but if we consider the combined angle alpha plus beta, then this side right over here, we can just take out our
+traditional trig functions. Our soh cah toa definition
+of the basic trig functions and we know that sine is
+opposite over hypotenuse. If we're considering alpha plus beta, this angle right over here, opposite over hypotenuse that's going to be this
+length over the hypotenuse which is one. Sine of alpha plus beta is going to be this
+length right over here. That seems interesting,
+so let me write that down. Sine of alpha plus beta is essentially what we're looking for. Sine of alpha plus beta is this length right over here. Sine of alpha plus beta it's equal to the opposite side, that over the hypotenuse. Well the hypotenuse is just
+going to be equal to one so it's equal to this side. Another way of raising
+the exact same problem that we first tried to tackle is how do we figure out the
+sine of alpha plus beta? If you're familiar with
+your trig identities something might be jumping out of you. Hey, we know a different
+way of expressing sine of alpha plus beta. We know that this thing is the same thing as the sine of alpha
+times the cosine of beta plus the other way around, the cosine of alpha
+times the sine of beta. Let me a draw a line here
+so we don't get confused. If we're trying to figure this out, and we know that this can
+be re-expressed this way it all boils down to can we figure out what sine of alpha is, cosine of beta, cosine of alpha, and sine of beta. Now when you look at this, you see that you actually
+can figure those things out. Let's do that. Sine of alpha, I'll write it over here. Sine of alpha is equal to ... This is alpha, sine is opposite over hypotenuse. It's 0.5 over one. This is equal to 0.5, so that is 0.5. Cosine of beta this is beta. Cosine is adjacent over hypotenuse. This is beta, the adjacent side is 0.6 over the hypotenuse of 1. It's 0.6. Cosine of alpha. Adjacent over hypotenuse, it's square root of
+three over two, over one. That's just square root of three over two. This is just square
+root of three, over two. Then finally sine of beta. Opposite over hypotenuse is 0.8. This is 0.8. Actually let me write that as, I'm going to write that as four-fifths just so that that's the same thing as 0.8. Just because I think it's going to make it a
+little bit easier for me to simplify right over here. What is all of these equal to? Well this is going to be equal to 0.5 times 0.6, this part right over here is .3, and square root of three
+over two, times four-fifths well let's just multiply them. Four divided by two is two. It's two square roots of three over five. This is equal to or so plus two square roots of three over five. This is essentially our answer, I feel a little uncomfortable having it in these two different formats where I have a fraction here
+and I have a decimal here so let me just write the whole thing as a rational expression. 0.3 is obviously the same
+thing as three-tenths. That's the same things as three over ten plus, now this if I want to write over ten this the same things as four
+square roots of three over ten and of course, if we add these two we are going to get three plus
+four square roots of three, all of that over ten and we are done.

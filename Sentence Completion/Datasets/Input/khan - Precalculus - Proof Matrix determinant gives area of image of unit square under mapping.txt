@@ -1,0 +1,41 @@
+- [Instructor] The goal of
+this video is to feel good about the connection
+that we've talked about between the absolute
+value of the determinant of a two by two matrix and the area of the
+parallelogram that's defined by the two column vectors of that matrix. So for example, I have this column vector right over here ac, so
+that's this blue vector. So this distance right over here, it goes a in the x direction. So this distance right over here is a, and then it goes c in the y direction. So this distance right
+over here is equal to c. And so this distance up
+here is also equal to a, and this is also equal to c. So we have this vector and then we have the bd vector, and bd vector, so in the x direction it goes a distance of b right over there. Or if we draw it over here,
+it goes a distance of b. And in the vertical direction, again it goes a distance of d. So this right over here is d and this distance right over here is d. And we can see that the
+parallelogram created or defined by those two vectors, it's
+area is right over there. Now let's see if we can
+connect that to the determinant or the absolute value of the
+determinant of this matrix. And we're just going to assume
+for the sake of simplicity that a, b, c and d are positive values, although we can in the
+future do this same thing where we had some other combination where some of them are not positive, but this will hopefully give you a clue of how we can prove it. Now, how can we figure out the
+area of this parallelogram? Well, one technique would be find the area of this larger rectangle right over here, and then from that, subtract out the parts that
+are not in the parallelogram. And so let's do that. So what's the area of
+this larger rectangle? Let's see the dimensions here are, this length from here to here is a, and then from here to here is b. So this is a plus b on this side. And on this side up here, this part is d and then this
+part is c right over here. So it's d plus c. So the area of the whole thing is going to be a plus b, times d plus c, which is equal to, we just do the distributive property a few times. It's going to be ad
+plus ac plus bd plus bc. Now, from that we're going
+to wanna subtract out all of these other parts that
+are not in the parallelogram. So let's do that. So you have this triangle right over here whose area would be ac over
+two, a times c over two, but you also have this one,
+which has the same area. So if we subtract both of them out we'd wanna subtract out a total of ac. Each of those are ac over two. So to count both of them
+let's subtract out an ac. And then of course we could
+do these two triangles. And the area of each of these
+triangles is bd over two, b times d over two, but add them together,
+their combined area is bd. So let's subtract that out, minus bd. And now, what is the area
+of this right over here? Well, that is b times
+c, so minus b times c, actually and that's also the
+area of this right over here. So we have another b times c, so minus 2bc. So let's see what's going on. So if we subtract these
+out, that takes out that, that takes out that, and
+if you take bc minus 2bc we're gonna be left
+with just a negative bc. So all of this is going to be equal to ad, what we have there. Bc minus 2bc is just
+gonna be a negativebc. Well, this is going to be the determinant of our matrix, a times d minus b times c. So this isn't a proof that
+for any a, b, c, or d, the absolute value of
+the determinant is equal to this area, but it
+shows you the case where you have a positive determinant and all of these values are positive. So hopefully that feels
+somewhat satisfying. And you can try, if you
+like to prove the cases if you don't have a positive determinant or if some combination
+of these are negative.

@@ -1,0 +1,143 @@
+Let's say there's an election
+coming up and I want to figure out if there's a meaningful
+difference between the proportion of men and the
+proportion of women that are going to vote for a candidate. So let's look at the population
+distributions here. So we have the men, some
+proportion are going to vote for the candidate. We'll call that P1. So this is the proportion that
+will vote for the candidate. And the rest of the men will
+not vote for the candidate. So 1 minus P1 will not vote
+for the candidate. And then for the women,
+you're going to see something similar. So this is the women
+right over here. And some proportion will
+vote for the candidate. We don't know if it's the same
+as P1, we don't know if it's same as the men, so
+we'll call it P2. And then the rest of
+the women will not vote for the candidate. 1 minus P2. So the not voting are zeroes,
+the ones that are voting are ones. And these are both Bernoulli
+distributions and we know, just because this'll be useful
+later on, that the means of this distribution are the same
+as the proportion that will vote for it. So the mean of the men, or the
+proportion of the men that will vote, so we'll call that
+mean one, is equal to P1. I should do everything
+in yellow. So the mean of this distribution
+is P1. The variance of this
+distribution, we'll call that variance one, is just these two
+proportions multiplied by each other. So it's P1 times 1 minus P1. And we saw this many many videos
+ago when we learned about Bernoulli distributions. And we're going to see
+the exact same thing with the women. The mean of this Bernoulli
+distribution is going to be P2. And then the variance of this
+Bernoulli distribution is going to be these two
+proportions multiplied. So P2 times 1 minus P2. Now, what I want to do, and
+I think I said this at the beginning of the video, is I
+want to figure out if there's a meaningful difference between
+the way that the men will vote and the
+women will vote. I want to figure out, let
+me write this, is this meaningful? So is there a meaningful
+difference here? And what we're going to do in
+this video is try to come up with a 95% confidence interval
+for this parameter. This difference of parameters
+is still a parameter. We don't know what the true
+difference of these two population parameters are. Or these two population
+proportions. But we're going to try to come
+up with a 95% confidence interval for that difference. And the way we do that, we go
+out and we find 1,000 men likely to vote. And 1,000 women likely
+to vote. So let's write this down. So we get 1,000 men. When we survey the 1,000 men,
+let's say 642 say that they will vote for the candidate. So they are ones. And then the remainder, 358,
+I'll just say the remainder. So the rest are zeros. That we do the same
+thing with women. We survey 1,000 women who
+are likely to vote. But we survey them randomly. And let's say 591 say
+that they will vote for the candidate. And the rest say that
+they will not vote for the candidate. So just here based on our sample
+proportions, or our sample means, it looks like
+there is a difference. But we still have to come up
+with our confidence interval. And let's just make sure we
+understand what we just did. So we could figure out a sample
+proportion over here for the men. Which is really just the sample
+mean of this sample right over here. We have 642 ones, the
+rest are zero. So we have 642 in
+the numerator. We have 1,000 samples. 642 divided by 1,000 is 0.642. So you could view this is a
+sample mean or as a sample proportion. If you do the same thing for
+the women, the sample proportion is going
+to be 0.591. Or you could even just view this
+as the sample mean of the sample of 1,000 women. Where the ones voting for it
+are one, the rest are zero. And just to visualize it
+properly, let me draw the sampling distribution for
+the sample proportions. We have a large sample size. And especially because the
+proportions that we're dealing with aren't close to one or
+zero, and we have a large sample size, the sampling
+distribution will be approximately normal. Let me write this. So it's going to have
+some mean over here. So the mean of the sampling
+distribution of the sample proportion. And we've seen in
+multiple times. It's going to be the same
+thing as the mean of the population. And the mean of the population
+is actually the true population proportion. So this is going to
+be equal to P1. This is something that we
+don't to know about. And then the variance of this,
+and we've seen this several times already, the variance of
+this distribution, I have to put a one here, we're dealing
+with the men. The variance of this
+distribution by the central limit theorem is going to
+be the variance of this distribution up here, which is
+P1 times 1 minus P1 over our sample size, over 1,000. And we can do the exact same
+thing for the women. So this is the sampling
+distribution. This is for P2 bar, or this
+sample mean over here. Let me put a one over here. Remember, this is
+all for the men. And then this over here
+is all for the women. Can't forget those
+twos over there. And so this distribution is
+going to have some mean. Let me draw it right
+over here. So mu sub P2 with
+a bar over it. So the mean of the sampling
+distribution for this sample proportion, for the women, which
+is going to be the same thing as the mean of the
+population, which we already saw is going to be
+equal to P2. And then the variance for this
+distribution, for this sampling and distribution over
+here, is going to be this variance over here divided
+by our sample size. So P2 times 1 minus P2. All of that over n. Now, our whole goal is to
+get a 95% confidence interval for that. And so what we're going to do is
+we're going to think about the sampling distribution, not
+for this, and not the sampling distribution for this. But we're going to think about
+the sampling distribution for the difference of this sample
+proportion and this sample proportion. We've seen it already. We're talking about proportions,
+but it's really the same exact ideas that we
+did when we just compared sample means generally. So let's look at that. Let's look at this
+distribution. And just to be clear, when we
+got this sample mean here, this sample proportion,
+we just sampled it. You could view it as taking
+a sample from this distribution over here. When we got this sample
+proportion, it was like taking a sample from this over here. We took 1,000 samples from this,
+when we took their mean. Where it's equivalent to taking
+a sample from the sampling distribution. Now, this distribution over
+here is going to be the distribution of all of the
+differences of the sampling proportions, or of the
+sample proportions. So it will look like this. It will have some mean value. I should do this in
+a different color. I'll do it in green. Yellow and blue make green. So I'll call this the sampling
+distribution of this statistic, of P1 minus P2. And so it has some
+mean over here. The sample of P1 minus the
+sample mean, or the sample proportion, of P2. And we know, from things that
+we've done in the last several videos, that this is going to
+be the exact same thing as this mean minus this mean. Which is the exact same
+thing as P1 minus P2. So this is going to be
+equal to P1 minus P2. And the variance of this
+distribution, P1 minus P2, just like this, is going to be
+the sum of the variances of these two distributions. So it's going to be this thing
+over here, I'll just copy and paste it, plus this variance
+over here. There's no radical sign, because
+we're not taking the standard deviation. We're focused on the
+variance right now. So plus this thing
+right over here. So let me copy and
+let me paste it. So that's going to
+be the variance. And if you want the standard
+deviation, you can literally just get rid of this. You're taking the square
+root of both sides. So you take the square root of
+the variance, you get the standard deviation, that's why
+I got rid of that to the second power. And you want to take a square
+root of the right-hand side just like that. Now, all I did right now was
+just to kind of conceptually set things up in our brain. What we now need to do
+is actually tackle the confidence interval. We actually need to come up with
+a 95% confidence interval for P1 minus P2. Or a 95% confidence interval for
+this mean right over here. And because I'm trying to make
+my best effort not to make videos too long, I'll do part
+two in the next video, where we actually solve the
+confidence interval.

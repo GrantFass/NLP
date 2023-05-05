@@ -1,0 +1,37 @@
+- [Voiceover] In the
+video where we introduced the alternating series test,
+we in fact used the series, we used the infinite
+series from n equals one to infinity of negative one, to the n plus one over n. We used this as our example to apply the alternating series test, and we proved that this thing
+right over here converges. So this series, which is one, minus 1/2, plus 1/3, minus 1/4, and it just keeps going on and on and on forever. We used the alternating
+series test in that video to prove that it converges. So this thing converges. So this converges by alternating series test. Alternating series test, and
+if you wanna review that, go watch the video on the
+alternating series test. Now let's think a little bit
+about what happens if we were to take the absolute value
+of each of these terms. So if we were to take the absolute value of each of these terms, so
+if you were to take the sum from n equals one to infinity
+of the absolute value of negative one to the n plus one over n, well what is this going to be equal to? Well, this numerator is either gonna be one or negative one, the
+absolute value of that is always gonna be one, so
+it's going to be that over. And n is always positive, we're
+going from one to infinity, so it's just going to be equal to the sum, it's going to be equal to
+the sum from n equals one to infinity of one over n. And this is just the
+famous harmonic series. And there's this video that we have, and you should look it up on Khan Academy if you don't believe
+me, on the famous proof that the harmonic series diverges. So the harmonic series is one plus 1/2, plus 1/3, this thing right over here, this thing right over here diverges. And so when you see a
+series that converges, but if you were to take the absolute value of each of its terms,
+and then that diverges, we say that this series
+converges conditionally. You can say it converges,
+but you could also say it converges conditionally. And the condition is,
+I guess you could say, that we're not taking the absolute value of each of the terms. And if something converges when you take the absolute value as well, then you say it converges absolutely. And so let's look at an example of that. If I were to take... This series, let's do a geometric series, that might be fun. Actually I'm using these colors too much, let me use another color. Let's say, let's take the sum from n equals one to infinity of negative 1/2 to the n plus one power. We know this is a geometric series where the absolute value
+of our common ratio is less than one, we
+know that this converges. And if we were to take the absolute value of each of these terms, so
+if you were to take the sum, Let me do that in a different color, just to mix things up a little bit. If you were to take the absolute value of each of these terms,
+so the absolute value of negative 1/2, to the n plus one power, this is going to be the
+same thing as the sum, from n equals one to infinity of 1/2 to the n plus one. And here once again, the common ratio, the absolute value of the
+common ratio is less than one, and we've studied this when we looked at geometric series. This also converges. So when we took the
+absolute value of the terms, it still converged. So for this one, we can
+say that this converges absolutely. So we've talked a lot already about convergence or divergence, and that's all been good. And what we're doing in this video is we're introducing a nuance
+or flavors of convergence. So you can converge, but it
+might be interesting to say well, would it still converge if we took the absolute value of the terms? If it won't, if you converge,
+but it doesn't converge when you take the absolute
+value of the terms, then you say it converges conditionally. If it converges, and
+it still converges when you take the absolute value of the terms, then we say it converges absolutely. Because even if you
+take the absolute value of the terms, it converges. Hopefully you find that interesting.

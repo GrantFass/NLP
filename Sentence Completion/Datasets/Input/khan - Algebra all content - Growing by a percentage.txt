@@ -1,0 +1,99 @@
+Let's do some more
+percentage problems. Let's say that I start
+this year in my stock portfolio with $95.00. And I say that my portfolio
+grows by, let's say, 15%. How much do I have now? OK. I think you might be able to
+figure this out on your own, but of course we'll do some
+example problems, just in case it's a little confusing. So I'm starting with $95.00,
+and I'll get rid of the dollar sign. We know we're working
+with dollars. 95 dollars, right? And I'm going to earn, or I'm
+going to grow just because I was an excellent stock
+investor, that 95 dollars is going to grow by 15%. So to that 95 dollars, I'm
+going to add another 15% of 95. So we know we write 15% as a
+decimal, as 0.15, so 95 plus 0.15 of 95, so this is
+times 95-- that dot is just a times sign. It's not a decimal, it's a
+times, it's a little higher than a decimal-- So 95 plus
+0.15 times 95 is what we have now, right? Because we started with 95
+dollars, and then we made another 15% times what
+we started with. Hopefully that make sense. Another way to say it, the 95
+dollars has grown by 15%. So let's just work this out. This is the same thing as 95
+plus-- what's 0.15 times 95? Let's see. So let me do this, hopefully
+I'll have enough space here. 95 times 0.15-- I don't
+want to run out of space. Actually, let me do it up here,
+I think I'm about to run out of space-- 95 times 0.15. 5 times 5 is 25, 9 times 5 is
+45 plus 2 is 47, 1 times 95 is 95, bring down the 5,
+12, carry the 1, 15. And how many decimals
+do we have? 1, 2. 15.25. Actually, is that right? I think I made a mistake here. See 5 times 5 is 25. 5 times 9 is 45, plus 2 is 47. And we bring the 0 here, it's
+95, 1 times 5, 1 times 9, then we add 5 plus 0 is 5,
+7 plus 5 is 12-- oh. See? I made a mistake. It's 14.25, not 15.25. So I'll ask you an
+interesting question? How did I know that
+15.25 was a mistake? Well, I did a reality check. I said, well, I know in my head
+that 15% of 100 is 15, so if 15% of 100 is 15, how can
+15% of 95 be more than 15? I think that might
+have made sense. The bottom line is 95
+is less than 100. So 15% of 95 had to be less
+than 15, so I knew my answer of 15.25 was wrong. And so it turns out that I
+actually made an addition error, and the answer is 14.25. So the answer is going to be 95
+plus 15% of 95, which is the same thing as 95 plus 14.25,
+well, that equals what? 109.25. Notice how easy I made
+this for you to read, especially this 2 here. 109.25. So if I start off with $95.00
+and my portfolio grows-- or the amount of money I have-- grows
+by 15%, I'll end up with $109.25. Let's do another problem. Let's say I start off with some
+amount of money, and after a year, let's says my portfolio
+grows 25%, and after growing 25%, I now have $100. How much did I originally have? Notice I'm not saying that
+the $100 is growing by 25%. I'm saying that I start with
+some amount of money, it grows by 25%, and I end up with
+$100 after it grew by 25%. To solve this one, we
+might have to break out a little bit of algebra. So let x equal what
+I start with. So just like the last problem,
+I start with x and it grows by 25%, so x plus 25% of x is
+equal to 100, and we know this 25% of x we can just rewrite as
+x plus 0.25 of x is equal to 100, and now actually we have a
+level-- actually this might be level 3 system, level 3 linear
+equation-- but the bottom line, we can just add the
+coefficients on the x. x is the same thing
+as 1x, right? So 1x plus 0.25x, well that's
+just the same thing as 1 plus 0.25, plus x-- we're just doing
+the distributive property in reverse-- equals 100. And what's 1 plus 0.25? That's easy, it's 1.25. So we say 1.25x
+is equal to 100. Not too hard. And after you do a lot of these
+problems, you're going to intuitively say, oh, if some
+number grows by 25%, and it becomes 100, that means that
+1.25 times that number is equal to 100. And if this doesn't make sense,
+sit and think about it a little bit, maybe rewatch the video,
+and hopefully it'll, over time, start to make a lot
+of sense to you. This type of math is
+very very useful. I actually work at a hedge
+fund, and I'm doing this type of math in my
+head day and night. So 1.25 times x is equal
+to 100, so x would equal 100 divided by 1.25. I just realized you
+probably don't know what a hedge fund is. I invest in stocks
+for a living. Anyway, back to the math. So x is equal to 100
+divided by 1.25. So let me make some space
+here, just because I used up too much space. Let me get rid of my
+little let x statement. Actually I think we know
+what x is and we know how we got to there. If you forgot how we got
+there, you can I guess rewatch the video. Let's see. Let me make the pen thin
+again, and go back to the orange color, OK. X equals 100 divided by 1.25,
+so we say 1.25 goes into 100.00-- I'm going to add a
+couple of 0's, I don't know how many I'm going to need,
+probably added too many-- if I move this decimal over two to
+the right, I need to move this one over two to the right. And I say how many times does
+100 go into 100-- how many times does 125 go into 100? None. How many times does
+it go into 1000? It goes into it eight times. I happen to know that in my
+head, but you could do trial and error and think about it. 8 times-- if you want to think
+about it, 8 times 100 is 800, and then 8 times 25 is
+200, so it becomes 1000. You could work out if you like,
+but I think I'm running out of time, so I'm going
+to do this fast. 8 times 125 is 1000. Remember this thing isn't here. 1000, so 1000 minus 1000 is 0,
+so you can bring down the 0. 125 goes into 0 zero times,
+and we just keep getting 0's. This is just a decimal
+division problem. So it turns out that if your
+portfolio grew by 25% and you ended up with $100.00
+you started with $80.00. And that makes sense, because
+25% is roughly 1/4, right? So if I started with $80.00 and
+I grow by 1/4, that means I grew by $20, because
+25% of 80 is 20. So if I start with 80
+and I grow by 20, that gets me to 100. Makes sense. So remember, all you have to
+say is, well, some number times 1.25-- because I'm growing
+it by 25%-- is equal to 100. Don't worry, if you're still
+confused, I'm going to add at least one more presentation
+on a couple of more examples like this.

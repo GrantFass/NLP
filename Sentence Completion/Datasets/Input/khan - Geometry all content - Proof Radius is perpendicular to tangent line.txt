@@ -1,0 +1,65 @@
+- [Voiceover] So what
+we have here is a circle with the center at Point O, and then we have a tangent
+line to the circle. Let me actually label this line. Let's call this Line L. And we see at Point A is the point that the tangent line
+intersects with the circle, and then we've drawn a radius from the center of the circle to Point A. Now what we want to do in this video is prove to ourselves that this radius and that this tangent line
+intersect at a right angle. We want to prove to ourselves that they intersect at a right angle. And the first step to doing that is we're going to feel good, we're going to prove to
+ourselves that Point A is the closest point on Line L to the center of our circle. So I want to prove, prove that Point A is closest, closest point on L to Point O. To Point O. And I encourage you to pause the video and see if you can prove that to yourself. Well, to think about
+that, just think about any other point on Line L. Pick any other arbitrary point on Line L. It could be this point right over here. It could be this point right over here. It could be this point right over here. And you immediately see that
+it sits outside of the circle. And if it's sitting outside of the circle, I'll pick this point here, just so it'll become a little
+bit clearer on our diagram, if it's sitting outside of the circle, in order to get from
+Point O to this point, I'm going to call this
+Point B right over here, you have to go the length of the radius, you have to go the length of the radius, and then you have to go some more. So this length, the length of Segment O B, is clearly going to be longer
+than the length of the radius, because you have to go to the radius to get to the circle itself and then you have to
+go a little bit further for any point that sits
+outside of the circle. So Point A is the only point, by definition this is a tangent line, it's the only point
+that sits on the circle. Every other point on Line L
+sits outside of the circle, so it's going to be further. So Point A, hopefully
+this makes you feel good, because you pick any other point, it's going to sit outside of the circle, so you have to go to the
+radius and then some. So hopefully this makes
+you feel good that Point A is the closest point on L
+to the center of the circle. Now, we're not done yet, we
+now have to convince ourselves that if we have a point and a line, that the segment connecting the point to the closest point on the
+line, to that original point, that, that's going to be
+perpendicular to the line. So let me give ourselves some space here. We want to prove, we want to prove that if we, that the segment, segment connecting, connecting a point off the line, off the line, and closest point on the line, closest point on the line, is perpendicular, is perpendicular to the line. So what we want to do,
+is we want to say, hey, if we have some line here, if we have some line here, L, and if you were to take
+a point off the line, so let's say, so you wanted
+a point off the line, so let's say that, that's
+this point right over here, Point O, and you want the
+segment connecting the point off the line to the
+closest point on the line. So the closest point on the line, so let's say that this is the
+closest point on the line, we want to feel good that
+this segment connecting them, so let me do this in a new color, that the segment connecting them is going to be perpendicular to the line, that it goes just straight down like that, that it's going to be perpendicular. And I'm gonna prove this by contradiction. I'm going to assume that
+it's not perpendicular. So assume, assume that the segment, segment connecting, connecting, this is kind of wordy, a point off line and closest point to the line, closest point to line, is not, is not perpendicular to the line. So how can I visualize that? Well, I could draw my
+line right over here. So that's Line L, and let's say I have my
+Point O right over here. Point O, and let's say the
+closest point on Line L to Point O, let's say that it's not, so let's say it's over here, that if I were to
+connect these two points, that it's not perpendicular to Line L. So this is the closest point, let's call this Point A, and let's say that the
+segment connecting these two is not perpendicular to the line. So let me get, so let's assume
+this is not perpendicular. So this angle, this angle, this angle right here, is
+not, is not 90 degrees. So if we assume that, the reason that this is going
+to be a proof by contradiction is I can show that if
+this is not 90 degrees, that I can always find a point
+that is going to be closer, another point on Line L
+that is going to be closer to Point O, which contradicts the fact that this was supposed
+to be the closest point, A was supposed to be the
+closest point on Line L to O. And how do I always find a closer point? Well, I construct a right triangle. I can construct a right triangle, just like this. I can construct a right
+triangle like that, and we see that this distance, let's call this distance
+right over here a, and we could call the
+base of this triangle b, let me do this in a different color. So a, b, that's the base
+of the right triangle, and the hypotenuse is
+the distance from O to A. We could call that c. We know from the Pythagorean Theorem that a squared plus b squared, plus b squared, let me do this, plus b squared, is going to be equal to c squared. Is going to be equal to c squared. And so b squared, if we have a non-degenerate
+triangle right over here, this is going to be some
+positive value over here, and so a is going to be less than c. So this gets us to the conclusion, because if this is some
+positive value here, and a and c are positive, everything are positive distances, then this tells us that
+a has to be less than c. That a non-hypotenuse
+side of a right triangle, of a non-degenerate right triangle, assuming it has some area, is going to be shorter
+than the hypotenuse. The hypotenuse is the longest side. So a is going to be less than c, which would tell us, if a is less than c, that we've found another point, let's call this point, I don't know, I've used a lot of letters here, let's call that Point D. D is going to be closer. D is closer. D is closer. So we've just set up a contradiction. We assumed A was the closest
+point on Line L to Point O, but we assumed the segment connecting them is not at a 90-degree angle. If it's not at a 90-degree angle, then we can drop a perpendicular
+and find a closer point, which is a contradiction to the fact that A was supposed to
+be the closer point. So this leads to a contradiction. Contradiction. Contradiction. Because you can actually
+find that this is not the closest point, you can
+always find a closer point, so therefore, the segment
+connecting a point off the line to the closest point to the
+line must be perpendicular. Must be perpendicular. So the segment connecting
+a point off the line, to a closest point on the line, that must be perpendicular to the line. Must be perpendicular to the line. And just like that, we hopefully
+feel good about the idea that if you have a radius, and the point at which it intersects a tangent line to the circle, that, that forms a 90-degree angle. The radius and the tangent line.

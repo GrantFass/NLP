@@ -1,0 +1,25 @@
+Voiceover:Artemis seeks knowledge of the width of Orion's belt, which is a pattern of stars
+in the Orion constellation. She has previously
+discovered the distances from her house to
+Alnitak, 736 lights years, and to Mintaka, 915 light years, which are the endpoints of Orion's belt. She knows the angle between these stars in the sky is three degrees. What is the width of Orion's belt? That is, what is the distance between Alnitak and Mintaka? And they want us to the
+answer in light years. So let's draw a little diagram to make sure we understand
+what's going on. Actually, even before we do that, I encourage you to pause this and try this on your own. Now let's make a diagram. Alright, so let's say
+that this is Artemis' house right over here. This is Artemis' house. I'll say that's A for Artemis' house. And then... Alright, let me say H... Let me say this is home. This is home right over here. And we have these 2 stars. So she's looking out into the night sky and she sees these stars, Alnitak, which is 736 light years away, and obviously I'm not going
+to draw this to scale. So this is Alnitak. And Mintaka. So let's say this is
+Mintaka right over here. Mintaka. And we know a few things. We know that this
+distance between her home and Alnitak is 736 light years. So this distance right over here. So that right over there. Everything we'll do is in light years. That's 736. And the distance between her house and Mintaka is 915 light years. So it would take light 915 years to get from her house to Mintaka, or from Mintaka to her house. So this is 915 light years. And what we wanna do is figure out the width of Orion's belt, which is the distance
+between Alnitak and Mintaka. So we need to figure out this distance right over here. And the one thing that they did give us is this angle. They did give us that
+angle right over there. They said that the angle between these stars in the sky is three degrees. So this is three degrees right over there. So how can we figure out the distance between Alnitak and Mintaka? Let's just say that this is equal to X. This is equal to X. How do we do that? Well if we have two sides and an angle between them, we could use the law of cosines to figure out the third side. So the law of cosines, so let's just apply it. So the law of cosines tells us that X squared is going to be equal to the sum of the squares
+of the other two sides. So it's going to be equal to 736 squared, plus 915 squared, minus two times 736, times 915, times the cosine of this angle. Times the cosine of three degrees. So once again, we're trying to find the length of the side opposite the three degrees. We know the other two sides, so the law of cosines, it essentially... Sorry, I just had to cough off camera because I had some peanuts
+and my throat was dry. Where was I? Oh, I was saying, if we know the angle and
+we know the two sides on either side of the angle, we can figure out the
+length of the side opposite by the law of cosines. Where it essentially starts off not too different than the Pythagorean theorem, but then we give an adjustment because this is not an
+actual right triangle. And the adjustment... So we have the 736
+squared, plus 915 squared, minus two times the
+product of these sides, times the cosine of this angle. Or another way we could
+say, think about it is, X, let me write that, X is to equal to the square root of all of this stuff. So, I can just copy and paste that. Copy and paste. X is going to be equal to
+the square root of that. And so let's get our
+calculator to calculate it. And let me verify that I'm in degree mode. Yes, I am indeed in degree mode. And so let's exit that. And so I wanna calculate
+the square root of 736 squared, plus 915 squared, minus two times 736, times 915, times cosine of three degrees. And we deserve a drum roll now. X is 100, if we round... Let's see, what did they want us to do? Round your answer to
+the nearest light years. So to the nearest light year is going to be 184 light years. So X is approximately
+equal to 184 light years. So it would take light 184 years to get from Mintaka to Alnitak. And so hopefully this actually shows you if you are going to do any astronomy, the law of cosines, law of sines, in fact all of trigonometry, becomes quite, quite handy.

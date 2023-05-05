@@ -1,0 +1,44 @@
+- [Voiceover] When you are working with standard reduction potentials, it's important to realize that voltage is an intensive property. And by the end of the
+video you'll understand what I mean by the word "intensive." We're gonna use this first half
+reaction here as an example. So this is the reduction of
+silver ion to silver metal, so we have Ag+ plus an
+electron gives us solid silver. The standard reduction potential is positive .80 volts
+for this half reaction. And we're gonna start by calculating the standard change in free energy. So from an earlier video, we
+know if we have the voltage, we can find the standard change
+in free energy Delta G zero. So for this half reaction
+to be equal to negative, remember that "n" is the
+number of moles of electrons. And here we have one mole of electrons. So we have one mole, so we
+plug that into our equation. Next, we have F which
+is Faraday's constant. And from an earlier video we know that's 96,500 coulombs per mole, so it's the charge of
+one mole of electrons. We need to multiply that by
+the voltage which was .80. Instead of writing
+"volts," I'm gonna write "joules per coulomb" here, so
+we can see our units cancel. So moles of electrons cancels out charge, coulombs cancels out. And we should get our
+answer in terms of joules. So this is equal to negative. And let's figure out what it is. This'd be 1 times 96,500 times .80, and it should be the negative of that. So -77,200 joules, which I'll just say is -77 kilojoules. So we get -77 kilojoules is
+the change in free energy that accompanies the formation
+of one mole of silver. What about if we wanted to
+form two moles of silver? So we need to multiply everything in our half reaction by 2, so we get 2Ag+. So two moles of silver ions, plus two moles of electrons should give us two moles of solid silver. What would be the standard
+change in free energy that accompanies the formation
+of two moles of solid silver? Let me change colors here. If this is the standard
+change in free energy for the formation of one
+mole of solid silver, then we should just be able to multiply that number by two, right? So -77 kilojoules times 2 gives us -154 kilojoules. So that's the standard
+change in free energy that accompanies the formation
+of two moles of silver. So, free energy is what's
+called an extensive property. So, it depends on how much
+you're dealing with here. So, we're dealing with
+two moles of electrons and the formation of two moles of silver. So, we have to change the standard change in free energy accordingly. What about the voltage? So, we have our standard
+change in free energy. Let's use this equation again
+to solve for the voltage. So we're gonna plug in -154 kilojoules in for our standard change in free energy, and we need to make that into joules, that's -154,000 joules. And that's equal to, let me
+change colors again here. This would be equal to negative, so we have the negative sign. And then "n" is number
+of moles of electrons. Well now we're saying
+two moles of electrons, so this'd be -2 here. And then multiply that
+by Faraday's constant. So we have Faraday's
+constant which is 96,500. And then we can solve for the voltage. So we can solve for E zero. So let's plug that in on our calculator. We have -154,000, right? And we need to divide that by -2. And then divide that
+by Faraday's constant. So 96,500 which gives us a voltage of .80. So if you round that we get a voltage of .80 volts. So it's the same voltage
+to form two moles of silver as it was to form one mole of silver. Let me highlight that, so I'm
+let me change colors here. So we had a voltage of .80 volts to form two moles of silver. That's the same voltage to
+form one mole of silver. So, voltage is an intensive
+property, it's the same. It doesn't matter how much
+silver you're forming, how many moles of electrons you're using, the voltage is the same. And it's important to remember that when you're doing your
+standard reduction potentials, because if you need to do
+something like we did up here, multiply a half reaction by 2, you don't multiply the voltage by 2. because voltage is an intensive property.

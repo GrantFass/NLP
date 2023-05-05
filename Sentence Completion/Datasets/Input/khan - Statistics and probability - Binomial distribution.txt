@@ -1,0 +1,101 @@
+- [Voiceover] Let's
+define a random variable x as being equal to the number of heads, I'll just write capital H for short, the number of heads from flipping coin, from flipping a fair coin, we're gonna assume it's a fair coin, from flipping coin five times. Five times. Like all random variables this
+is taking particular outcomes and converting them into numbers. And this random variable,
+it could take on the value x equals zero, one, two,
+three, four or five. And I what want to do is figure
+out what's the probability that this random variable
+takes on zero, can be one, can be two, can be three,
+can be four, can be five. To do that, first let's
+think about how many possible outcomes are there from
+flipping a fair coin five times. Let's think about this. Let's write possible outcomes. Possible outcomes from five flips. From five flips. These aren't the possible
+outcomes for the random variable, this is literally the
+number of possible outcomes from flipping a coin five times. For example, one possible outcome could be tails, heads, tails, heads, tails. Another possible outcome could be heads, heads, heads, tails, tails. That is one of the
+equally likely outcomes, that's another one of the
+equally likely outcomes. How many of these are there? For each flip you have two possibilities. Let's write this down. Let me... The first flip, the first flip
+there's two possibilities, times two for the second flip,
+times two for the third flip. Actually maybe we'll not
+use the time notation, you might get confused
+with the random variable. Two possibilities for the first flip, two possibilities for the second flip, two possibilities for the third flip, two possibilities for the fourth flip, and then two possibilities
+for the fifth flip, or two to the fifth equally
+likely possibilities from flipping a coin five times, which is, of course, equal to 32. This is going to be helpful because for each of the values that the
+random variable can take on, we just have to think about how many of these equally likely
+possibilities would result in the random variable
+taking on that value. Let's just delve into it to see what we're actually talking about. I'll do it in this
+light, let me do it in... I'll start in blue. Let's think about the probability that our random variable
+x is equal to one. Well actually, let me start with zero. The probability that our random
+variable x is equal to zero. That would mean that you got
+no heads out of the five flips. Well there's only one way, one out of the 32 equally likely possibilities,
+that you get no heads. That's the one where
+you just get five tails. So this is just going to be, this is going to be equal to one out of the 32 equally
+likely possibilities. Now, for this case, to think in terms of binomial coefficients, and
+combinatorics, and all of that, it's much easier to
+just reason through it, but just so we can think in
+terms it'll be more useful as we go into higher values
+for our random variable. This is all buildup for
+the binomial distribution, so you get a sense of
+where the name comes from. So let's write it in those terms. This one, this one, this one right over here, one way to think about that in
+combinatorics is that you had five flips and you're choosing
+zero of them to be heads. Five flips and you're choosing
+zero of them to be heads. Let's verify that five
+choose zero is indeed one. So five choose zero. Write it over here. Five choose zero is equal
+to five factorial over, over five minus zero factorial. Well actually over zero factorial times five minus zero factorial. Well zero factorial is one, by definition, so this is going to be five
+factorial, over five factorial, which is going to be equal to one. Once again I like reasoning through it instead of blindly applying a formula, but I just wanted to show you that these two ideas are consistent. Let's keep going. I'm going to do x equals one all the way up to x equals five. If you are inspired, and I
+encourage you to be inspired, try to fill out the whole thing, what's the probability that x equals one, two, three, four or five. So let's go to the
+probability that x equals two. Or sorry, that x equals one. The probability that x equals
+one is going to be equal to... Well how do you get one head? It could be, the first one could be head and then the rest of
+them are gonna be tails. The second one could be head and then the rest of
+them are gonna be tails. I could write them all
+out but you can see that there's five different
+places to have that one head. So five out of the 32
+equally likely outcomes involve one head. Let me write that down. This is going to be equal to five out of 32 equally likely outcomes. Which of course is the same
+thing, this is going to be the same thing as saying I got five flips, and I'm choosing one of them to be heads. So that over 32. You could verify that five factorial over one factorial times five minus-- Actually let me just do it just so that you don't have to take my word for it. So five choose one is
+equal to five factorial over one factorial, which is just one, times five minus four-- Sorry,
+five minus one factorial. Which is equal to five
+factorial over four factorial, which is just going to be equal to five. All right, we're making good progress. Now in purple let's think
+about the probability that our random variable x is equal to two. Well this is going to be equal to, and now I'll actually
+resort to the combinatorics. You have five flips and you're choosing two
+of them to be heads. Over 32 equally likely possibilities. This is the number of possibilities that result in two heads. Two of the five flips
+have chosen to be heads, I guess you can think of it
+that way, by the random gods, or whatever you want to say. This is the fraction of the 32
+equally likely possibilities, so this is the probability
+that x equals two. What's this going to be?
+I'll do it right over here. And actually no reason for me to have to keep switching colors. So five choose two is going
+to be equal to five factorial over two factorial times five minus two factorial. Five minus two factorial. So this is five factorial over two factorial times three factorial. And this is going to be equal to five times four times three times two, I could write times one but that doesn't really
+do anything for us. Then two factorial's just going to be two. Then the three factorial
+is three times two. I could write times one, but once again doesn't do anything for us. That cancels with that. Four divided by two is two. Five times two is 10. So this is equal to 10. This right over here is equal to 10/32. 10/32. And obviously we could
+simplify this fraction, but I like to leave it this way because we're now thinking
+everything is in terms of 32nds. There's a 1/32 chance x equals zero, 5/32 chance that x equals one and a 10/32 chance that x equals two. Let's keep on going. I'll go in orange. What is the probability that our random variable x is equal to three? Well this is going to be five, out of the five flips we're
+going to need to choose three of them to be heads to figure out which of the possibilities
+involve exactly three heads. And this is over 32 equally
+likely possibilities. And this is going to be equal to, five choose three is
+equal to five factorial over three factorial times
+five minus three factorial. Let me just write it down. Five minus three factorial, which is equal to five factorial over three factorial times two factorial. That's exactly what we had up here and we just swapped three and the two, so this also is going to be equal to 10. So this is also going
+to be equal to 10/32. All right, two more to go. And I think you're going to start seeing a little bit of a symmetry here. One, five, 10, 10, let's keep going. Let's keep going, and I
+haven't used white yet. Maybe I'll use white. The probability that our random
+variable x is equal to four. Well, out of our five
+flips we want to select four of them to be heads,
+or out of the five-- We're obviously not actively selecting. One way to think of it,
+we want to figure out the possibilities that
+involve out of the five flips, four of them are chosen to be heads, or four of them are heads. And this is over 32 equally
+likely possibilities. So five choose four is
+equal to five factorial over four factorial times
+five minus four factorial which is equal to, well that's just going
+to be five factorial, this is going to be one
+factorial right over here. That doesn't change the value, you just multiply one
+factorial times four factorial, so it's five factorial
+over four factorial, which is equal to five. So once again this is 5/32. And you could have reasoned through this because if you're saying
+you want five heads, that means you have one tail. There's five different places
+you could put that one tail. There are five
+possibilities with one tail. Five of the 32 equally likely. And then, and you could probably guess what we're gonna get for x equals five because having five heads means you have zero tails, and there's only gonna be
+one possibility out of the 32 with zero tails, where you have all heads. Let's write that down. The probability, the probability that our random
+variable x is equal to five. So we have all five heads. You could say this is five and we're choosing five
+of them to be heads. Out of the 32 equally
+likely possibilities. Well five choose five,
+that's going to be... Let me just write it here since I've done it for all of the other ones. Five choose five is five
+factorial over five factorial times five minus five factorial. Well this right over
+here is zero factorial, which is equal to one, so this whole thing simplifies to one. This is going to be one out of-- 1/32. So you see the symmetry. 1/32, 1/32. 5/32, 5/32; 10/32, 10/32. And that makes sense because
+the probability of getting five heads is the same as the
+probability of getting zero tails, and the probability of getting zero tails should be the same as the
+probability of getting zero heads. I'll leave you there for this video. In the next video we'll graphically
+represent this and we'll see the probability distribution
+for this random variable.

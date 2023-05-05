@@ -1,0 +1,101 @@
+- [Voiceover] Hey guys,
+so in the last video I was talking about how
+you can define a function whose graph is a plane, and moreover a plane that
+passes through a specified point and whose orientation
+you can somehow specify. And we ended up seeing how
+specifying that orientation comes down to certain partial
+derivative information. And first let me just kind of
+repeat what the conclusion was but I'll put it in more abstract terms since I did it in a very
+specific example last time. So basically if you want
+some kind of function which gives you a plane that passes through a certain point. Well first let's see
+what that point is right. Let's say the point was x
+nought, y nought, and z nought. So these are constant values and this is my way of
+abstractly describing a single point in space using x nought to represent a constant x value, y nought to represent constant
+y value, that kind of thing. So what it is, is it's gonna
+be some sort of other constant a multiplied by x minus x nought. So this white x here is the variable and then x nought is just a constant. Now let me go ahead and
+make that parentheses there. Then we add to that b multiplied by and then b is just some other constant just like a is some other constant multiplied by y minus y nought and then all of that you add z nought. And now if you were just
+presented this as it is it's kind of a lot right, there's five different constants going on. But really what this is saying is you want something where
+the partial derivative with respect to x is just some constant and you want to be able to
+specify what that constant is. And similarly, the partial derivative with respect to y is another constant. And you just want to ensure that this passes through this point
+x nought, y nought, z nought. And if you imagine plugging in
+x the variable equals x nought the constant this part goes to zero. Similarly plugging in y nought the constant makes this part go to zero. So this is a way of
+specifying that when you evaluate the function x
+nought y nought equals z nought, and that's what makes sure that the graph passes through that point. So with that said let's
+start thinking about how you can find the
+tangent plane to a graph. And first of all let's think
+about what that point is, how you specify such a point. Instead of specifying any
+three numbers in space, because you have to make sure the point is somewhere on the graph, you instead only specify two. You're basically gonna say
+what's the x coordinate and in this case let's say
+the x coordinate was one, and then the y coordinate which looks about like negative two. To make it easier I'm just
+gonna say it is negative two. Then the z coordinate is specified because this is a graph. Z coordinate is forced
+to be whatever the output of the function is at one negative two. So this is gonna be whatever
+the output of our function is at one negative two. And f here, f is going to be whatever function gives us this graph. So maybe I should write
+down the actual function that I'm using for this graph. In this case f which is
+a function of x and y is equal to three minus one third of x squared minus y squared. So this is the function that we're using and you evaluate it at that point and this will give you your
+point in three dimensional space that our linear function, that our tangent plane
+has to pass through. So we can start writing
+out our linear function. We can say okay so our linear function has a function of x and y. It's gotta make sure it goes through that one and that negative two, so this is gonna be some constant a that we'll fill in in a moment, multiplied by x minus that one, plus and then b also a constant
+we'll specify in a moment, times y minus that negative two, so it's minus a negative two and then the thing that we add to it is f of one negative two. Now let's just go ahead and evaluate that. Let's say we plug in one to negative two. So if we go up here and we plug
+in three minus one third of if x equals one, one third of one squared, so that's one third one squared, and then y is negative two. So that would be minus
+negative two squared. So that's three minus a third minus four so the whole thing is equal to three minus four is negative
+one minus another third is negative four thirds. So that's what we add
+to this entire thing. We add negative four thirds or maybe I should just kind of make clear the separation here. So this is our function but we
+don't know what a and b are. Those are things that we need to plug in. Now the whole idea of the tangent plane is that the partial
+derivative with respect to x should match that of
+the original function. So if we go over to the graph here and start thinking about
+partial derivative information. If we want the partial
+derivative with respect to x then you imagine moving purely
+in the x direction here. This intersects the graph
+along some kind of curve and what the partial
+derivative with respect to x at this point tells you, is
+the slope of the tangent line, in that direction of that point. So that's what the partial
+derivative with respect to x is telling you and what
+you want when you look at the tangent plane is
+that the tangent plane also has that same slope. If I lined things up here, you'd want it also to
+have that same slope. So you can specify over here and say a. You want a to be equal
+to the partial derivative of the function with respect to x evaluated at this one negative two. Evaluated at that special
+point, one negative two. And similarly b for pretty
+much the same reasons and I'll draw it out here
+so let's erase this line. So instead of intersecting
+it with that slice let's see what movement in
+the y direction looks like. So in this case it looks
+like a very steep slope right because in this case the
+tangent line in that direction is a pretty steep slope
+and now when we bring in the tangent plane it
+should intersect with that constant x value plane
+along that same slope. Made it kind of messy there but you can see the line formed by intersecting these two planes should be that desired tangent, and what that corresponds to in formulas is that this b which represents
+the partial derivative of l, l is the tangent plane function, that should be the same as if
+we took the partial derivative of f with respect to y at that point, at this point one negative two. And this is stuff that we can compute and that we can figure out. So let's start plugging that in. First let me just copy this function because we're gonna need it. Now let's go on down here. I'm just gonna, let's paste it down here in the bottom because
+that's what we'll need. So let's compute the
+partial derivative of f with respect to x. So we look down here, the
+only place where x shows up is in this negative one
+third of x squared context so the partial derivative
+of f with respect to x is gonna be just the
+derivative of this little guy which is negative, we bring down the two, negative two thirds of x. So when we go ahead and
+plug in x equals one to see what it looks like
+when we evaluate at this point that's just gonna be equal
+to negative two thirds. So that tells us that a is gonna have to be negative two thirds. Now for similar reasons, let's go ahead and compute the partial derivative with respect to y. We look down here, the
+only place that y shows up in the entire expression
+is this negative y squared. So the partial derivative
+of f with respect to y is equal to negative
+two y, negative two y. And now when we plug in
+y equals negative two what we get is negative two
+multiplied coincidentally by negative two, didn't
+have to be the case that those were the same, and
+that whole thing equals four. So the partial derivative
+of f with respect to y evaluated at this point one negative two is equal to four. So if we were to plug
+this information back up into our formula we would replace a with negative two thirds. It would say negative two thirds. And we would replace b with
+four, replace b with four. And that would give us the full formula, the full formula for the tangent plane. And this can be kind of
+a lot to look at at first because we have to specify the
+input point one negative two. And then we had to figure out where the function evaluates at that point. And then we had to figure out both of the partial derivatives with respect
+to x and with respect to y. But all in all, there's not actually a lot to remember from how
+you go about computing this. Looking at the graph actually makes things seem a lot more reasonable because each of those terms
+has an actual meaning. If we look at the one and negative two, that's just telling us the input, the kind of x and y
+coordindates of the input and of course we have to evaluate that because that tells us the z coordinate that will put us on the graph
+corresponding to that point and then to get a tangent plane you just need to specify the two bits of partial differential information and that will tell you how this graph needs to be oriented, and once you start thinking
+of things in that way, geometrically, even though
+there's a lot going on here, there's five different
+numbers you have to put in, each one of them feels like
+of course you need that number otherwise you couldn't
+specify a tangent plane. There's kind of a lot
+of information required to put it on the appropriate spot. So with that I will see you next video.

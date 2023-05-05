@@ -1,0 +1,164 @@
+In the last video I introduced
+you to the idea of the chain rule with partial derivatives. And we said, well, if I have a
+function, psi, Greek letter, psi, it's a function
+of x and y. And if I wanted to take the
+partial of this, with respect to-- no, I want to take the
+derivative, not the partial-- the derivative of this, with
+respect to x, this is equal to the partial of psi, with respect
+to x, plus the partial of psi, with respect
+to y, times dy, dx. And in the last video I didn't
+prove it to you, but I hopefully gave you a little bit
+of intuition that you can believe me. But maybe one day I'll prove
+it a little bit more rigorously, but you can find
+proofs on the web if you are interested, for the chain rule
+with partial derivatives. So let's put that aside and
+let's explore another property of partial derivatives, and then
+we're ready to get the intuition behind exact
+equations. Because you're going to find,
+it's fairly straightforward to solve exact equations, but the
+intuition is a little bit more-- well, I don't want to say
+it's difficult, because if you have the intuition,
+you have it. So what if I had, say, this
+function, psi, and I were to take the partial derivative of
+psi, with respect to x, first. I'll just write psi. I don't have to write
+x and y every time. And then I were to take the
+partial derivative with respect to y. So just as a notation, this you
+could write as, you could kind of view it as you're
+multiplying the operators, so it could be written like this. The partial del squared times
+psi, or del squared psi, over del y del, or curly d x. And that can also be written
+as-- and this is my preferred notation, because it doesn't
+have all this extra junk everywhere. You could just say, well, the
+partial, we took the partial, with respect to x, first. So
+this just means the partial of psi, with respect to x. And then we took the partial,
+with respect to y. So that's one situation
+to consider. What happens when we take the
+partial, with respect to x, and then y? So with respect to x, you hold
+y constant to get just the partial, with respect to x. Ignore the y there. And then you hold the x
+constant, and you take the partial, with respect to y. So what's the difference between
+that and if we were to switch the order? So what happens if we were to--
+I'll do it in a different color-- if we had psi, and we
+were to take the partial, with respect to y, first, and then
+we were to take the partial, with respect to x? So just the notation, just so
+you're comfortable with it, that would be-- so partial
+x, partial y. And this is the operator. And it might be a little
+confusing that here, between these two notations, even though
+they're the same thing, the order is mixed. That's just because it's
+just a different way of thinking about it. This says, OK, partial first,
+with respect to x, then y. This views it more as the
+operator, so we took the partial of x first, and then
+we took y, like you're multiplying the operators. But anyway, so this can also be
+written as the partial of y, with respect to x-- sorry,
+the partial of y, and then we took the partial of that
+with respect to x. Now, I'm going to tell you right
+now, that if each of the first partials are continuous--
+and most of the functions we've dealt with in
+a normal domain, as long as there aren't any
+discontinuities, or holes, or something strange in the
+function definition, they usually are continuous. And especially in a first-year
+calculus or differential course, we're probably going to
+be dealing with continuous functions in soon. our domain. If both of these functions are
+continuous, if both of the first partials are continuous,
+then these two are going to be equal to each other. So psi of xy is going to
+be equal to psi of yx. Now, we can use this knowledge,
+which is the chain rule using partial derivatives,
+and this knowledge to now solve a certain
+class of differential equations, first order
+differential equations, called exact equations. And what does an exact
+equation look like? An exact equation
+looks like this. The color picking's
+the hard part. So let's say this is my
+differential equation. I have some function
+of x and y. So I don't know, it could
+be x squared times cosine of y or something. I don't know, it could be
+any function of x and y. Plus some function of x and y,
+we'll call that n, times dy, dx is equal to 0. This is-- well, I don't know if
+it's an exact equation yet, but if you saw something of this
+form, your first impulse should be, oh-- well, actually,
+your very first impulse is, is this separable? And you should try to play
+around with the algebra a little bit to see if it's
+separable, because that's always the most straightforward
+way. If it's not separable, but you
+can still put it in this form, you say, hey, is it
+an exact equation? And what's an exact equation? Well, look immediately. This pattern right here
+looks an awful lot like this pattern. What if M was the partial of
+psi, with respect to x? What if psi, with respect
+to x, is equal to M? What if this was psi,
+with respect to x? And what if this was psi,
+with respect to y? So psi, with respect to
+y, is equal to N. What if? I'm just saying, we don't
+know for sure, right? If you just see this someplace
+randomly, you won't know for sure that this is the partial
+of, with respect to x of some function, and this is the
+partial, with respect to y of some function. But we're just saying,
+what if? If this were true, then we
+could rewrite this as the partial of psi, with respect to
+x, plus the partial of psi, with respect to y, times
+dy, dx, equal to 0. And this right here, the left
+side right there, that's the same thing as this, right? This is just the derivative of
+psi, with respect to x, using the partial derivative
+chain rule. So you could rewrite it. You could rewrite, this is just
+the derivative of psi, with respect to x, inside
+the function of x, y, is equal to 0. So if you see a differential
+equation, and it has this form, and you say, boy, I can't
+separate it, but maybe it's an exact equation. And frankly, if that was what
+was recently covered before the current exam, it probably
+is an exact equation. But if you see this form,
+you say, boy, maybe it's an exact equation. If it is an exact equation-- and
+I'll show you how to test it in a second using this
+information-- then this can be written as the derivative of
+some function, psi, where this is the partial of psi,
+with respect to x. This is the partial of psi,
+with respect to y. And then if you could write it
+like this, and you take the derivative of both sides--
+sorry, you take the antiderivative of both sides--
+and you would get psi of x, y is equal to c as a solution. So there are two things that we
+should be caring you about. Then you might be saying, OK,
+Sal, you've walked through psi's, and partials,
+and all this. One, how do I know that it's
+an exact equation? And then, if it is an exact
+equation, which tells us that there is some psi, then how
+do I solve for the psi? So the way to figure out is it
+an exact equation, is to use this information right here. We know that if psi and its
+derivatives are continuous over some domain, that when
+you take the partial, with respect to x and then y, that's
+the same thing as doing it in the other order. So we said, this is
+the partial, with respect to x, right? And this is the partial,
+with respect to y. So if this is an exact equation,
+if this is the exact equation, if we were take the
+partial of this, with respect to y, right? If we were to take the partial
+of M, with respect to y-- so the partial of psi, with respect
+to x, is equal to M. If we were to take the partial
+of those, with respect to y-- so we could just rewrite that as
+that-- then that should be equal to the partial of N,
+with respect to x, right? The partial of psi, with respect
+to y, is equal to N. So if we take the partial, with
+respect to x, of both of these, we know from this that
+these should be equal, if psi and its partials are continuous
+over that domain. So then this will
+also be equal. So that is actually the
+test to test if this is an exact equation. So let me rewrite all of that
+again and summarize it a little bit. So if you see something of the
+form, M of x, y plus N of x, y, times dy, dx is equal to 0. And then you take the partial
+derivative of M, with respect to y, and then you take the
+partial derivative of N, with respect to x, and they are equal
+to each other, then-- and it's actually if and only
+if, so it goes both ways-- this is an exact equation, an
+exact differential equation. This is an exact equation. And if it's an exact equation,
+that tells us that there exists a psi, such that the
+derivative of psi of x, y is equal to 0, or psi of x, y is
+equal to c, is a solution of this equation. And the partial derivative of
+psi, with respect to x, is equal to M. And the partial derivative of
+psi, with respect to y, is equal to N. And I'll show you in the next
+video how to actually use this information to solve for psi. So here are some things
+I want to point out. This is going to be the partial
+derivative of psi, with respect to x, but when we
+take the kind of exact test, we take it with respect to y,
+because we want to get that mixed derivative. Similarly, this is going to be
+the partial derivative of psi, with respect to y, but when we
+do the test, we take the partial of it with respect
+to x so we get that mixed derivative. This is with respect to y,
+and then with respect to x, so you get this. Anyway, I know that might be a
+little bit involved, but if you understood everything I did,
+I think you'll have the intuition behind why
+the methodology of exact equations works. I will see you in the next
+video, where we will actually solve some exact equations See

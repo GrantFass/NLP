@@ -1,0 +1,75 @@
+- [Voiceover] So I've got a rocket here. And this rocket is going
+to launch a projectile, maybe it's a rock of some kind, with the velocity of
+ten meters per second. And the direction of that velocity is going to be be 30 degrees, 30 degrees upwards from the horizontal. Or the angle between the
+direction of the launch and horizontal is 30 degrees. And what we want to
+figure out in this video is how far does the rock travel? We want to figure out how, how far does it travel? Does it travel? And to simplify this problem, what we're gonna do is we're gonna break down
+this velocity vector into its vertical and
+horizontal components. We're going to use a vertical component, so let me just draw it visually. So this velocity vector can be broken down into its vertical and its horizontal components. And its horizontal components. So we're gonna get some
+vertical component, some amount of velocity
+in the upwards direction, and we can figure, we can use that to figure out how long will this rock stay in the air. Because it doesn't matter what its horizontal component is. Its vertical component is gonna determine how quickly it decelerates due to gravity and then re-accelerated, and essentially how long it's going to be the air. And once we figure out
+how long it's in the air, we can multiply it by, we can multiply it by the horizontal component of the velocity, and that will tell us how far it travels. And, once again, the assumption that were making this videos is that air resistance is negligible. Obviously, if there was
+significant air resistance, this horizontal velocity
+would not stay constant while it's traveling through the air. But we're going to assume that it does, that this does not change, that it is negligible. We can assume that were
+doing this experiment on the moon if we wanted to have a, if we wanted to view it in purer terms. But let's solve the problem. So the first that we want to do is we wanna break down
+this velocity vector. We want to break down this velocity vector that has a magnitude of
+ten meters per second. And has an angle of 30
+degrees with the horizontal. We want to break it down it
+with x- and y-components, or its horizontal and vertical components. so that's its horizontal, let me draw a little bit better, that's its horizontal component, and that its vertical
+component looks like this. This is its vertical component. So let's do the vertical component first. So how do we figure out
+the vertical component given that we know the
+hypotenuse of this right triangle and we know this angle right over here. And the angle, and the side,
+this vertical component, or the length of that vertical component, or the magnitude of it, is opposite the angle. So we want to figure out the opposite. We have to hypotenuse, so once again we write down so-cah, so-ca-toh-ah. Sin is opposite over hypotenuse. So we know that the sin, the sin of 30 degrees, the sin of 30 degrees, is going to be equal to the magnitude of our vertical component. So this is the magnitude of velocity, I'll say the velocity in the y direction. That's the vertical direction, y is the upwards direction. Is equal to the magnitude of our velocity of the velocity in the y direction. Divided by the magnitude
+of the hypotenuse, or the magnitude of our original vector. Divided by ten meters per second. Ten meters per second. And then, to solve for this quantity right over here, we multiply both sides by 10. And you get 10, sin of 30. 10, sin of 30 degrees. 10 sin of 30 degrees is going to be equal to the magnitude of our, the magnitude of our vertical component. And so what is the sin of 30 degrees? And this, you might have memorized this from your basic trigonometry class. You can get the calculator
+out if you want, but sin of 30 degrees is
+pretty straightforward. It is 1/2. So sin of 30 degrees, use a calculator if you
+don't remember that, or you remember it now so sin of 30 degrees is 1/2. And so 10 times 1/2 is going to be five. So, and I forgot the units there, so it's five meters per second. Is equal to the magnitude, is equal to the magnitude
+of our vertical component. Let me get that in the right color. It's equal to the magnitude
+of our vertical component. So what does that do? What we're, this projectile, because
+vertical component is five meters per second, it will stay in the air
+the same amount of time as anything that has a vertical component of five meters per second. If you threw a rock or
+projectile straight up at a velocity five meters per second, that rocket projectile will stay up in the air as long as this one here because they have the
+same vertical component. So let's think about how
+long it will stay in the air. Since were dealing with a situation where we're starting in the ground and we're also finishing at the same elevation, and were assuming the air
+resistance is negligible, we can do a little bit
+of a simplification here. Although I'll do another version where we're doing the more complicated, but I guess the way that
+applies to more situations. We could say, we could say "well what is our "change in velocity here?" So if we think about just
+the vertical velocity, our initial velocity, let me write it this way. Our initial velocity, and we're talking, let me label all of this. So we're talking only in the vertical. Let me do all the vertical stuff that we wrote in blue. So vertical, were dealing
+with the vertical here. So our initial velocity,
+in the vertical direction, our initial velocity in
+the vertical direction is going to be five meters per second. Is going to be five meters per second. And we're going to use
+a convention, that up, that up is positive and
+that down is negative. And now what is going to
+be our final velocity? We're going to be going up and would be decelerated by gravity, We're gonna be stationary at some point. And then were to start
+accelerating back down. And, if we assume that air
+resistance is negligible, when we get back to ground level, we will have the same
+magnitude of velocity but will be going in
+the opposite direction. So our final velocity, remember, we're just talking about the vertical component right now. We haven't even thought
+about the horizontal. We're just trying to figure out how long does this thing stay in the air? So its final velocity is
+going to be negative five. Negative five meters per second. And this is initial velocity, the final velocity is going
+to be looking like that. Same magnitude, just in
+the opposite direction. So what's our change in velocity in the vertical direction? Change in velocity, in
+the vertical direction, or in the y-direction, is going to be our final velocity, negative
+five meters per second, minus our initial velocity, minus five meters per second, which is equal to negative 10 meters per second. So how do we use this information to figure out how long it's in the air? Well we know! We know that our vertical, our change our change in our, in
+our vertical velocity, is going to be the same thing or it's equal to our acceleration in the vertical direction times the change in time. Times the amount of time that passes by. What's our acceleration
+in the vertical direction? What's the acceleration due to gravity, or acceleration that gravity, that the force of gravity
+has an object in freefall? and so this, right here, is going to be negative 9.8 meters per second squared. So this quantity over here is negative 10 meters per second, we figured that out, that's gonna be the change in velocity. Negative 10 meters per second is going to be equal to negative 9.8, negative 9.8 meters per second squared times our change in time. So to figure out the total amount of time that we are the air, we just divide both sides by negative 9.8 meters per second squared. So we get, lets just do that, I wanna do that in the same color. So I do it in, that's not, well, that close enough. So we get negative 9.8 meters per second squared. Negative 9.8 meters per second squared. That cancels out, and I get my change in time. And I'll just get the calculator. I have a negative divided by a negative so that's a positive, which is good, because we want to go in positive time. We assume that the elapsed time is a positive one. And so what we get? If I get my calculator out, I get my calculator out. I have, this is the same thing as positive 10 divided by 9.8. 10, divided by 9.8. Gives me 1.02. I'll just round to two digits right over there. So that gives me 1.02 seconds So our change in time, so this right over here is 1.02. So our change in time, delta t, I'm using lowercase now but I can make this all lower case. Is equal to 1.02 1.02 seconds. Now how do we use this information to figure out how far this thing travels? Well if we assume that it retains its horizontal component of
+its velocity the whole time, we just assume we can this multiply that times our change in time and we'll get the total displacement in the horizontal direction. So to do that, we need to figure out this horizontal component, which we didn't do yet. So this is the component of our velocity in the x direction, or
+the horizontal direction. Once again, we break out a
+little bit of trigonometry. This side is adjacent to the angle, so the adjacent over hypotenuse
+is the cosine of the angle. Cosine of an angle is
+adjacent over hypotenuse. So we get cosine. Cosine of 30 degrees, I just want to make sure
+I color-code it right, cosine of 30 degrees is equal to the adjacent side. Is equal to the adjacent side, which is the magnitude of
+our horizontal component, is equal to the adjacent
+side over the hypotenuse. Over 10 meters per second. multiply both sides by
+10 meters per second, you get the magnitude
+of our adjacent side, color transitioning is difficult, the magnitude of our adjacent side is equal to 10 meters per second. Is equal to 10 meters per second. Times the cosine, times the cosine of 30 degrees. And you might not remember the cosine of 30 degrees, you can use a calculator for this. Or you can just, if you do remember it, you know that it's the square root of three over two. Square root of three over two. So to figure out the actual component, I'll stop to get a
+calculator out if I want, well I don't have to use it, do it just yet, because I have 10 times the square root of three over two. Which is going to be 10
+divided by two is five. So it's going to be five
+times the square root of three meters per second. So if I wanna figure out the entire horizontal displacement, so let's think about it this way, the horizontal displacement, that's what we get for it, we're trying to figure out, the horizontal displacement, a S for displacement, is going to be equal
+to the average velocity in the x direction, or
+the horizontal direction. And that's just going to be this five square root of three meters per second because it doesn't change. So it's gonna be five, I don't want to do that same color, is going to be the five square
+roots of 3 meters per second times the change in time, times how long it is in the air. And we figure that out! Its 1.02 seconds. Times 1.02 seconds. The seconds cancel out with seconds, and we'll get that answers in meters, and now we get our calculator
+out to figure it out. so we have five time the
+square root of three, times 1.02. It gives us 8.83 meters, just to round it. So this is going to be equal to, this is going to be equal to, this is going to be oh, sorry. this is going to be equal to 8.8, is that the number I got? 8.83, 8.83 meters. And we're done. And the next video, I'm gonna try to, I'll show you another way
+of solving for this delta t. To show you, really, that there's multiple ways to solve this. It's a little bit more complicated but it's also a little bit more powerful if we don't start and end
+at the same elevation.

@@ -1,0 +1,102 @@
+- [Voiceover] This time let's
+look at the titration curve for the titration of a weak
+base with a strong acid. So, let's say we're
+starting with 40 milliliters of a point one solution of ammonia. And to our ammonia, we're
+gonna add a strong acid. We're gonna add some HCl. In Part A, they want us
+to find the pH before we've added any acid. So, we have ammonia present. So, let's go ahead and
+write NH three right here. We have a solution of ammonia, so we write water here. Since ammonia is a base,
+ammonia's gonna take a proton from H two O. And if you add an H plus to NH three, you get NH four plus. So, we're gonna make some ammonium here. And if you take away NH plus from H two O, you get OH minus or hydroxide. Our initial concentration
+of ammonia point one molar, so right here we write initial
+concentration of ammonia. And that's point one molar. And this is a weak base
+equilibrium problem, so we're going to assume an
+initial concentration of zero for our products here. Next, we think about the change. So, we're going to lose a
+concentration of ammonia, so a certain concentration
+of ammonia is going to react, and we call that concentration X. And since that concentration of ammonia, NH three turns into NH four plus, whatever we lose for ammonia,
+we gain for ammonium. So, we write a plus X over here. So, we're going to gain a
+concentration of ammonium, and we would gain the same
+concentration of hydroxide. So, at equilibrium, our
+concentration of ammonia is gonna be point one minus X. For ammonium, it would be X. And for hydroxide, it would also be X. Next, let's write our
+equilibrium expression. Since this is a base, we would write Kb. And we have the concentration
+of products over reactants. So, for our products, we
+would have the concentration ammonium, so that's X
+times the concentration of hydroxide, which is also X over the concentration of ammonia, which is point one minus X. So make sure you've seen the video on weak base equilibrium before
+watching this one here. All right, next, we know
+that the Kb for ammonia... Let's say they gave it to us. And it's one point eight times 10 to the negative five. So, that's equal to X times X, which is X squared over point one minus X. So, here's where we assume
+that this concentration is really small compared to point one. Therefore, point one minus
+X is approximately the same as point one, and this just
+makes the math a lot easier. So, now we have to solve for X, so let's get a little bit more room here and take out the calculator. We have one point eight times 10 to the negative five. We need to multiply that by point one and then take the square root of that. So, we take the square root
+of our answer, and we get X is equal to point zero zero one three. So X is equal to point zero zero one three. Now if we go back up
+here, we can see that X represents the concentration
+of hydroxide ions at equilibrium. So, let me go ahead and write that here. This is equal to the
+concentration of hydroxide ions. That's point zero zero one three molar. If we have the concentration
+of hydroxide ions, we can find the pOH. Because the pOH is equal
+to the negative log of the concentration of hydroxide. So, the pOH is equal to the negative log of point zero zero one three. And let's get out the
+calculator and do that. Negative log of point zero zero one three is equal to two point eight nine. So, the pOH is equal to two point eight nine. And our question wanted us to find the pH. So remember pH plus the pOH is equal to 14. So, I could take the pOH
+and plug it into here and solve for the pH. The pH will be equal to 14 minus two point eight nine, which is equal to 11 point one one. So, we've found our pH, before we add any of our acid. It's eleven point one one. So on the titration curve,
+I can see down here. This would be zero point zero
+milliliters of our acid added. And that's where we are. And the pH should be eleven point one one. So, somewhere right about here. So, I'm saying that's a pH of 11 point one one. For part B of our question, what is the pH after the addition of
+20 milliliters of our point one molar solution of HCl? So the concentration of HCl is equal to point one molar. And we know molarity is moles over liters, so that's moles over liters. We're adding twenty milliliters. So, if you take twenty milliliters and move your decimal
+place one, two, three, that's point zero two liters. So, we're adding point
+zero two liters here. And so we solve for moles. Point one times point zero two is equal to zero point zero zero two. So, that's how many moles of HCl we are adding. So HCl, we can think about this as H plus and Cl minus. Or you can think about
+adding your proton to water. H plus and H two O give you H three O plus. So, you could consider this
+to be the number of moles of H three O plus that we're adding. Next, what's the concentration of ammonia that we started with? So, the concentration is point one molar. So, the concentration
+of ammonia is equal to zero point one molar. And we want to find moles of ammonia. What's the volume of ammonia? Well, 40 milliliters
+would be one, two, three, point zero four liters. So, we have point zero four liters here. And we solve for moles. So that's point one times point zero four. And point one times point
+zero four is equal to point zero zero four. So, that's how many moles of ammonia that we have. All right, next, let's
+think about what happens to the ammonia when we add the HCl. So, the acid that's
+present is going to react with the base that's present. So, let's go ahead and
+write what would happen. The ammonia, NH three is going to react with the H three O plus that is present. So, this reaction goes to completion here. And let's think about what would happen. This is a base, and this is an acid. So we're going to protonate NH three to form NH four plus. So, we add a proton onto NH three to form NH four plus. And we take a proton
+away from H three O plus, so we get H two O. So, we have H two O over here, all right. Next, let's look at what
+we're starting with. So, this is our neutralization reaction, so let me go ahead and write that. This is the neutralization... Reaction. We're adding point zero zero two moles of our acid here. Point zero zero two,
+let's put that right here. We're adding point zero
+zero two moles of acid. And we're starting with
+point zero zero four moles of our base. So, point zero zero
+four moles of our base. So, all of our acid's going to react. We're going to lose... We're going to lose all
+of the acid that we added. It all reacts, so we're
+left with nothing here. We're gonna lose the same
+concentration of our base. So, the acid is going to react
+with that much of our base. So, we're going to lose point
+zero zero two moles of base. So, we're left with point zero zero four minus point zero zero
+two, which is equal to point zero zero two. So, half of the base has
+reacted with the acid, and half of the base is left over. So, this is how many moles of ammonia we have left over after the acid has reacted. If we're losing this
+many moles of ammonia, since our ammonia turns into NH four plus, if we started with zero for NH four plus, that's how much of ammonium
+we are gaining here. So, we're gaining point zero zero two moles of NH four plus. And so we're going to end up with point zero zero two moles of ammonium, NH four plus. So, we have moles of ammonia, and we have moles of ammonium. And next we need to think
+about the concentration of ammonia and ammonium that's present. So, if we're thinking about concentration, we need to know volume. So, let's go back up
+to here, and let's see what the total volume is. Now, we start off with 40
+milliliters of our ammonia, and we've added 20
+milliliters of our acid. So, 40 milliliters is
+what we started with. We added 20 milliliters. So, our total volume is now 60 milliliters or point zero six liters. All right, so this is 60 milliliters. We move our decimal place one, two, three, and that's point zero six liters. So, now we have liters and we have moles, so let's find the concentration. So, let's start with the
+concentration of ammonia. So, the concentration of ammonia is equal to moles over liters. We have point zero zero
+two moles of ammonia, so point zero zero two moles of ammonia. We divide that by our volume, right. Our total volume is now 60 milliliters or point zero six liters. And so we can find our concentration. So, we can go ahead and do that here. Point zero zero two divided by point zero six is equal to point zero three three three. So we get, this is equal to point zero three three three. This is a concentration, so this is molar. Next we do the same thing for ammonium. So, what's the concentration
+of ammonium, here? Well, we had the same
+number of moles, right? That's point zero zero two moles of ammonium. And the volume's the same,
+point zero six liters. And so therefore, it's
+the same calculation. We get the same concentration
+of ammonium ions in solution, point zero
+three three three molar. So, now we have equal concentrations of a conjugate acid base pair. NH four plus and NH three is a conjugate acid base pair. So, we have a buffer solution. So, now we have a buffer solution. So, our goal is to find the pH, and since we have a buffer
+solution, the easiest way to do that is to use the
+Henderson-Hasselbalch equation. So we go ahead and write out the Henderson-Hasselbalch equation, which is the pH is equal to the pka plus the log of the
+concentration of A minus the conjugate base over HA. All right, so, let's think
+about what the pka is. How could we find the pka? Well, we know the Kb for ammonia. We know the Kb for ammonia. And we know that Ka times Kb is equal to one point zero times ten to the negative 14. So, if we plug in the Kb, one point eight times 10 to the negative five. This is equal to one point zero times ten to the negative 14. We can solve for the Ka. And to save time, I won't
+show this on the calculator. I'll just go ahead and
+write the Ka is equal to five point six times
+10 to the negative 10. So if you remember this
+from an earlier video, if you multiply, for a
+conjugate acid base pair, if you multiply Ka times Kb, you get this. And now we've just solved for the Ka is five point six times
+10 to the negative 10. This is for NH four plus. So, next we can find the pka, because the pka is the
+negative log of the Ka. So, the negative log of five point six times 10 to the negative 10. So, let's get out the
+calculator and do that. Negative log of five point six times 10 to the negative 10 gives us a pka of nine point two five. So, the pka is equal to pka is equal to nine point two five. So we plug that in to our
+Henderson-Hasselbalch equation. So, now we have the pH is equal to nine point two five plus the log of the concentration of A minus. A minus is your conjugate base. So, that's what we're talking
+about up here for ammonia. That's point zero three three three. So, this is equal to point
+zero three three three. And that's over the concentration of your acid, which is NH four plus, which is also equal to point
+zero three three three. So, that's equal to point
+zero three three three. All right, so this is on the
+right, all of this is equal to the log of one. And the log of one is equal to zero. All right, log of one is equal to zero, so therefore, your pH
+is equal to your pka, which is equal to nine point two five. So, the pH is equal to
+nine point two five, since all of this is equal to zero. So, now we can find our
+point on our titration curve. All right, we've added
+20 milliliters of base. Acid, I should say. Let's go back up here and
+look at our titration curve. We've added 20 milliliters of our acid, so right down here, 20 milliliters of our acid. Let's find this point
+on our titration curve. So, right there. And we calculated the pH
+should be nine point two five. So, if I go over here, the pH should be equal to nine point two five. So, we're still before
+the equivalence point.

@@ -1,0 +1,124 @@
+Welcome back. In the last video, I at the
+end of the video, like I always do in the attempt to
+confuse you, I told you that if I had two vectors-- And let
+me just make up some new ones, so I can draw them visually
+in a second or two. Let's call the first vector a. Let me do a different color. This toothpaste color is
+getting monotonous. Let me do something that
+looks relaxing. Let's call a first vector a and,
+I don't know, let's make it interesting, let me say it's
+minus 3 times the unit vector i plus 2 times
+the unit vector j. And then I have vector b. And that is equal to, 2i, so two
+times the unit vector i. Plus, 4 times the
+unit vector j. In the last video I said, well,
+the whole reason why this unit vector notation is
+even -- Well, one of the reasons, we'll see that there
+many reasons why it's useful. One of the really cool things
+about it is, before when we added vectors, we would put them
+head to tails, and then draw it visually, and then
+we had this new vector. And we really had no way
+of expressing it without drawing it. But when we write things as
+multiples of the unit vectors. We don't have to draw it. And it's actually very
+easy to add vectors. And how do we do it? We just add the x components,
+and we add the y components. So we said that these two
+vectors, a plus b, these little weird arrows on top,
+that's just saying that those are vectors. That's equals. So it's minus 3, plus 2i, and
+I'm going to arbitrarily switch colors, because it's
+getting monotonous. Plus 2 plus 4j. We just added the x
+components, or the multiples of i. And we added the y components,
+or just the multiples of j. Because i was the unit vector in
+the x direction, and j was the unit vector in
+the y direction. And we get, what's
+minus 3 plus 2? That's minus 1. We get minus 1i. That could just be minus i. But I'll write the 1 because
+we're just getting warmed up with unit vectors. So minus 1i plus 6j. And when I did that, you might
+say, well, Sal, I can't just take your word for it. Because you seem
+not someone who should be believed blindly. So I think that's a valid
+opinion to have. So I will show you that this works, by
+adding the vectors visually. So let's draw it. And I think this will give you
+a little better sense of unit vectors generally. Let me draw the axes. So that's my y-axis. Let me draw my x-axis. I have to make sure have enough
+space to draw the unit vectors that we've drawn,
+or to draw the vectors that we've drawn. Just to show that the axes go
+on forever, I have to draw that arrow. All right, so let's say
+this is 1, 2, 3. This is 1, 2, 3, 4. And I draw 1, 2, 3, 4, 5, 6. I think we should be able
+to now add them. I didn't have to waste all
+this space down here. So let's just first draw the
+vectors, minus 3i plus 2j. So minus 3i, just this right
+here, is going to be a vector that looks something
+like this. So it's just minus 3 times
+the x vector, so it'll go to the left. Because i is 1 in the
+positive direction. If we put a negative there,
+it flips it over. Let me use a different color. So this is minus 3i,
+and then plus 2j. So plus 2j looks like this. If we were to add those two
+vectors visually, we can put them head to tails. And the way we can do that, we
+can either shift this vector up like this, and
+draw it up here. Or we could shift this vector,
+and put its tail its vector's head. But either way, let's
+shift this one up. So if we shifted up like that. Remember, we're just doing the
+head to tails, visual addition method of vectors. So I just put this tail
+to this head. And what do we get? So vector a will look like this,
+and I'm going to do it in the same color as vector a
+because I have a feeling that this diagram might
+get complicated. Well, I wanted to use
+the line tool. OK, so this is vector a. That's what vector
+a looks like. And so we worked backwards. I gave you the x component
+and the y component. And then I added them together
+by doing the head to tails method, and so this is what
+vector a would look like. And, instead of drawing it, a
+very easy representation is exactly what we did up here,
+a unit vector notation. And what's vector b look like? So it's 2i-- I'm going to do a
+completely different color. It's 2i, so it's this vector. 2 times unit vector i. That's this. Plus 4j, 1, 2, 3, 4. So it looks like this. And let's take this one and
+shift it over to the left, so we can put its tail to the
+vector's head, so it would look like this. So vector b will look --
+I'll do it in red. And I'll use a line tool. Vector b looks like this. I just put its components head
+to tails, and that's how I got vector b. And if I were to add
+them visually. I would do it the same way that
+I added its components. I would put the tail of one
+vector to the head of the other, and see if you get
+the resulting vector. So you could do it either way. Let's shift this a vector. Let's shift it in
+this direction. Remember, vectors, we're
+just giving the magnitude of direction. We're not necessarily giving
+a starting point. So you can shift them. You just can't change their
+orientation or their magnitudes. And that's actually how you add
+them, you shift them, and put them head to tails. That's when you add
+them visually. Let's put that a
+vector up here. So if we have the a vector, it
+looks something like this. And I want it to
+work out right. So the a vector looks
+something like that. And remember, all I did was I
+took the same vector, and I just shifted it. So that it can start
+at the head. So its tail can start at the
+head of the b vector. I just shifted the a vector, so
+this is still the a vector. By moving the vector
+around, you haven't changed the vector. I would only change the vector,
+if I scaled it, if I made it bigger or smaller, if
+I changed its orientation. And so visually, this is b, this
+is a, so if I add a to b, the resulting vector, going head
+to tails-- i'll do it in this green color --would
+look like this. It would look like that. So here we took all this
+trouble, and I had to draw these straight lines
+to visually add these two vectors. This green vector is a plus b. Let's see if this green
+vector is the same thing that we got here. Let's see if it's the
+same thing as this. So we got negative 1 times
+i, so negative 1 is here. And then we have 6j. Let me do it in another color. 6j would look like this. 6j looks like that. You put them heads to tails. And it would be something
+like this. And that is the green vector. And actually, just so you know,
+I know it didn't line up perfectly, and that's because
+I'm not drawing neatly, but these two points should actually
+be here if I were to have drawn this better. But I know this is
+very confusing, I had all these colors. But the whole point of it is,
+I wanted to show that you could visually draws vectors,
+and then shift them around, and then put them
+heads to tails. And then get the resulting
+vector. That's one way to add vectors,
+there's still no way to analytically represent it. Or you could just write any
+vector as its x and y components, and then the sum of
+the vectors is just going to be the sum of the x's
+and the sum of the y's. And that's a much cleaner, and
+a much easier, and much less prone to error, way of adding
+or subtracting two vectors. So hopefully that
+was convincing. That a plus b really
+is this vector. If it wasn't, I'm sorry. And I hope I didn't
+confuse you more. But now that we have this out
+of the way, and hopefully you're convinced that unit
+vector notation is useful. We can move on and maybe try
+to do some of our old projectile motion problems
+using this notation. And maybe it'll let us
+to do a little bit of extra stuff with it. See you soon.

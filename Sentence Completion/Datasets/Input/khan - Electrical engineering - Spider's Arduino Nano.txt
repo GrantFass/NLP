@@ -1,0 +1,114 @@
+OK. So now what we're
+going to do is, we're going to
+modify our arduino nano to work with this bot. So the nano that we
+have has these header pins that stick out
+of the bottom of it, and you can see them here. And the header pins are
+great for connecting it to a prototyping
+border or bread board, but they don't provide
+a lot of ways for us to connect it to
+our particular bot. So we have these female
+header pin connectors and they've got a male
+end and a female end, so we're going to trim off
+just the right number of those using our nipper pliers. Once we have those
+trimmed off, we are going to connect the
+header pins from the arduino to the header pins on our
+female-male header pin connectors, and that will allow
+us to plug wires in and take them back out really easily. So it'll make it easier for
+us to change things out. Otherwise, we would have to
+solder directly to the arduino, and that could be a problem
+if, for some reason, we wanted to change
+something around. So we want to make sure that we
+count the exact number of pins that is sticking out
+of the arduino board, and we match the
+male-female header pin connector to the number of pins
+that are sticking out there. So we're going to
+take these pins and we're going to bend them
+90 degrees with our pliers. We're going to grab our
+pliers and we're just going to bend those
+pins 90 degrees. It's really important that
+we do we do this carefully and that we bend them
+completely out 90 degrees, so that they're sticking
+straight out of the side. So they were sticking
+straight down, so we're going to make sure
+that we bend them completely to stick straight out the side. And you'll probably have to
+bend them a couple of times to get them perfectly straight
+and get them to line up just right, but this is going
+to make it a lot easier for us to connect to those male-female
+header socket pins, which are sitting there on the table. OK. So we're bending all these
+out and what we can do is, once we've got those
+bent out-- it's important, also, that they're all sort
+of bent out at the same angle. You don't want them
+sticking in a whole bunch of different directions. You want them all
+reasonably the same. So when we push
+this down, we can tell that there's
+still a little bit that we can bend those to get
+them perfectly horizontal. They should be at
+the same plane-- they should be in the same plane
+as the actual arduino board. So perfectly
+horizontal, and that'll make it a lot easier to
+make our solder connections with our male-female
+socket pin connectors, or header pin connectors
+that are, again, sitting on the table there. So now that we've got
+all that bent out, we're going to take our
+alligator clips, or the helping hand clips, and we're going
+to hold our arduino in place. Now, if you're working
+with a partner, you can get them
+to take a pliers and hold the nano in place. Just be sure when you grab
+the nano that you only touch the very corners,
+the parts that you see the little holes on. You don't want to squeeze
+any of the components. You see a lot of little
+boxes on the back there-- those are components. And if you grab those with
+a alligator clip or pliers, you could break
+them off and that means that the chip won't work
+the way it's supposed to-- or, the board won't work the way
+it's supposed to, I should say. So once you have the
+piece, you should have the pins from the header
+pin-- the male-female header pin-- connecting to the
+pins from your arduino. They should be flush up against
+the pins from the arduino. So what I'm doing now is I'm
+just using some spare alligator clips to make sure that those
+two things are squeezed tightly against one another,
+and then I'm going to take my soldering iron
+and put a little bit of solder on it, and just knock that
+extra solder off again. We're just tinning the
+tip of the soldering iron. And then I'm going to
+put the soldering iron right on the joint
+between those two things, and just put enough
+solder on to make sure that there's good connection. You don't want to
+put too much solder, because if you bridge
+the joint between the two pins-- in other words,
+if you bridge across two different connections, it'll
+cause some problems for you. The chip won't work the
+way it's supposed to. So you want to put
+just enough solder to connect the two, but
+not a whole lot more. And you can see that
+smoke from the flux is moving out of
+the way rapidly, and that's because I've
+got a good air flow, so I definitely recommend
+making sure you've got, like, a fan going or something so
+you don't breathe the flux. And so once you've got a
+number of those connected you can take that final
+alligator clip off. And I just saw a pin there
+that needed a little bit more solder, and we'll
+do the rest there. So now, all of those pins are
+connected and what we've done is-- I'm just going
+back through and double checking any of the other pins. This is the second side,
+so I did the second side the exact same way
+as the first side. And so that means now that we
+can easily swap out the two. And so I'm trimming
+off the excess wires. There's some wire that
+sticks past the solder joint. So I'm going to trim that
+off using the nipper pliers. And when you do this, make sure
+you're wearing safety glasses. Because those extra
+little wires can fly off, and you want to make sure
+you're wearing safety glasses to do that. Now, we have to make sure
+that the parts that we just connected don't
+conduct electricity to some part of the board
+we don't want them to. So we're going to cover over
+the bottom of our arduino nano with electrical
+tape, and we want to make sure all of those
+connections we just made are completely covered. Otherwise, they could rub up
+against some part of the motor controller or another exposed
+metal piece and cause a short. And that might ruin
+our board and we don't want that to happen. So now we're ready to connect
+our arduino board to our motor controller.

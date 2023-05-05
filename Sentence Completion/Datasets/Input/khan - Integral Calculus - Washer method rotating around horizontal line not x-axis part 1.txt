@@ -1,0 +1,107 @@
+Now let's do a really
+interesting problem. So I have y equals x,
+and y is equal to x squared minus 2x
+right over here. And we're going to
+rotate the region in between these two functions. So that's this region
+right over here. And we're not going to rotate
+it just around the x-axis, we're going to rotate it around
+the horizontal line y equals 4. So we're going to
+rotate it around this. And if we do that, we'll get
+a shape that looks like this. I drew it ahead of time, just
+so I could draw it nicely. And as you can see, it looks
+like some type of a vase with a hole at the bottom. And so what we're going to do
+is attempt to do this using, I guess you'd call it
+the washer method which is a variant of the disk method. So let's construct a washer. So let's look at a given x. So let's say an x
+right over here. So let's say that we're
+at an x right over there. And what we're
+going to do is we're going to rotate this region. We're going to give
+it some depth, dx. So that is dx. We're going to rotate
+this around the line y is equal to 4. So if you were to visualize it
+over here, you have some depth. And when you rotate it
+around, the inner radius is going to look like the
+inner radius of our washer. It's going to look
+something like that. And then the outer
+radius of our washer is going to contour
+around x squared minus 2x. So it's going to
+look something-- my best attempt
+to draw it-- it's going to look
+something like that. And of course, our washer
+is going to have some depth. So let me draw the depth. So it's going to
+have some depth, dx. So this is my best attempt at
+drawing some of that the depth. So this is the
+depth of our washer. And then just to make the face
+of the washer a little bit clearer, let me do it
+in this green color. So the face of the
+washer is going to be all of this business. All of this business is going
+to be the face of our washer. So if we can figure
+out the volume of one of these washers for a
+given x, then we just have to sum up all of
+the washers for all of the x's in our interval. So let's see if we can
+set up the integral, and maybe in the
+next video we'll just forge ahead and actually
+evaluate the integral. So let's think about the
+volume of the washer. To think about the
+volume of the washer, we really just have to
+think about the area of the face of the washer. So area of "face"--
+put face in quotes-- is going to be equal to what? Well, it would be the
+area of the washer-- if it wasn't a washer,
+if it was just a coin-- and then subtract out
+the area of the part that you're cutting out. So the area of the
+washer if it didn't have a hole in the
+middle would just be pi times the
+outer radius squared. It would be pi times
+this radius squared, that we could call
+the outer radius. And since it's a washer,
+we need to subtract out the area of this inner circle. So minus pi times
+inner radius squared. So we really just
+have to figure out what the outer and inner radius,
+or radii I should say, are. So let's think about it. So our outer radius is
+going to be equal to what? Well, we can visualize
+it over here. This is our outer
+radius, which is also going to be equal to
+that right over there. So that's the distance
+between y equals 4 and the function that's
+defining our outside. So this is essentially,
+this height right over here, is going to be equal to 4
+minus x squared minus 2x. I'm just finding the distance
+or the height between these two functions. So the outer radius is
+going to be 4 minus this, minus x squared minus
+2x, which is just 4 minus x squared plus 2x. Now, what is the inner radius? What is that going to be? Well, that's just going to
+be this distance between y equals 4 and y equals x. So it's just going
+to be 4 minus x. So if we wanted to find
+the area of the face of one of these washers for a
+given x, it's going to be-- and we can factor
+out this pi-- it's going to be pi times the
+outer radius squared, which is all of this
+business squared. So it's going to be 4 minus
+x squared plus 2x squared minus pi times
+the inner radius-- although we factored
+out the pi-- so minus the inner radius squared. So minus 4 minus x squared. So this will give us
+the area of the surface or the face of one
+of these washers. If we want the volume of
+one of those watchers, we then just have to
+multiply times the depth, dx. And then if we want to actually
+find the volume of this entire figure, then we just have to
+sum up all of these washers for each of our x's. So let's do that. So we're going to sum
+up the washers for each of our x's and take the
+limit as they approach zero, but we have to make sure
+we got our interval right. So what are these-- we care
+about the entire region between the points
+where they intersect. So let's make sure
+we get our interval. So to figure out our
+interval, we just say when does y equal
+x intersect y equal x squared minus 2x? Let me do this in
+a different color. We just have to
+think about when does x equal x squared minus 2x. When are our two functions
+equal to each other? Which is equivalent
+to-- if we just subtract x from
+both sides, we get when does x squared
+minus 3x equal 0. We can factor out an x
+on the right hand side. So this is going to be when does
+x times x minus 3 equal zero. Well, if the product is equal
+to 0, at least one of these need to be equal to 0. So x could be equal to 0,
+or x minus 3 is equal to 0. So x is equal to 0
+or x is equal to 3. So this is x is 0, and
+this right over here is x is equal to 3. So that gives us our interval. We're going to go
+from x equals 0 to x equals 3 to get our volume. In the next video,
+we'll actually evaluate this integral.

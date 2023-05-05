@@ -1,0 +1,47 @@
+- This bar graph here tells us bubbles blown by each gum-chewer. We have four different gum-chewers, and they tell us how many
+bubbles each of them blew. What I wanna do is, I
+wanna figure out first the mean of the number of bubbles blown, and then also figure out
+how dispersed is the data, how much do these vary from the mean. I'm gonna do that by calculating the mean absolute deviation. Pause this video now. Try to calculate the mean of
+the number of bubbles blown. And then, after you do that, see if you can calculate the mean absolute deviation. Step one, let's figure out the mean. The mean is just going to be the sum of the number of bubbles blown divided by the number of datapoints. Manueala blew four bubbles. She blew four bubbles. Sophia blew five bubbles. Jada blew six bubbles. Tara blew one bubble. We have one, two, three, four datapoints. So let's divided by four. And so, this is going to be
+equal to four plus five is nine, plus six is 15, plus one is 16. So it's equal to 16 over four, which is 16 divided by
+four is equal to four. The mean number of bubbles blown is four. Lemme actually do this with
+a bold line right over here. This is the mean number of bubbles blown. Now what I wanna do is I wanna figure out the mean absolute deviation. Mean. MAD: Mean Absolute Deviation. What we wanna do is we wanna
+take the mean of how much do each of these datapoints
+deviate from the mean. I know I just used the word
+mean twice in a sentence, so it might be a little confusing, but as we work through it, hopefully, it'll make a little bit of sense. How much does Manueala's, the
+number of bubbles she blew, how much does that deviate from the mean? Well, Manueala actually blew four bubbles, and four is the mean. So her deviation, her absolute deviation
+from the mean is zero. Is zero. Actually, lemme just write this over here. Absolute deviation, that's AD, absolute deviation from the mean. Manueala didn't deviate
+at all from the mean. Now let's think about Sophia. Sophia deviates by one from the mean. We see that right there, she's one above. Now, we would say one whether
+it's one above or below, 'cause we're saying absolute deviation. Sophia deviates by one. Her absolute deviation is one. And then, we have Jada. How much does she deviate from the mean? We see it right over here. She deviates by two. She is two more than the mean. And then, how much does
+Tara deviate from the mean? She is at one, so that
+is three below the mean. That is three below the mean. Once again, this is two, this is three. She deviates. Her absolute deviation is three. And then we wanna take the
+mean of the absolute deviation. That's the M in MAD, in
+Mean Absolute Deviation. This is Manueala's absolute deviation, Sophia's absolute deviation,
+Jada's absolute deviation, Tara's absolute deviation. We want the mean of those, so we divide by the number of datapoints, and we get zero plus one,
+plus two, plus three, is six over four. Six over four, which is
+the same thing as 1 1/2. Or, lemme just write it
+in all the different ways. We could write it as three
+halves, or 1 1/2, or 1.5. Which gives us a measure of how much do these datapoints vary
+from the mean of four. I know what some of you are thinking. "Wait, I thought there was a formula "associated with the
+mean absolute deviation. "It seems really complex. "It has all of these absolute-value signs "and whatever else." That's all we did. When we write all those
+absolute-value signs, that's just a fancy way of
+looking at each datapoint, and thinking about how much
+does it deviate from the mean, whether it's above or below. That's what the absolute value does. It doesn't matter, if it's
+three below, we just say three. If it's two above, we just say two. We don't put a positive or negative on. Just so you're comfortable seeing how this is the exact same thing you
+would've done with the formula, let's do it that way, as well. So the mean absolute deviation
+is going to be equal to. Well, we'll start with Manueala. How many bubbles did she blow? She blew four. From that you subtract the mean of four, take the absolute value. That's her absolute deviation. Of course, this does evaluate
+to this zero, to zero here. Then you take the absolute value. Sophia blew five bubbles,
+and the mean is four. Then you do that for Jada. Jada blew six bubbles; the mean is four. And then you do it for Tara. Tara blew one bubble,
+and the mean is four. Then you divide it by the
+number of datapoints you have. Lemme make it very clear. This right over here,
+this four, is the mean. This four is the mean. You're taking each of the datapoints, and you're seeing how far
+it is away from the mean. You're taking the absolute
+value 'cause you just wanna figure out the absolute distance. Now you see, or maybe you see. Four minus four, this is. Different color. Four minus four, that is a zero. That is that zero right over there. Five minus four, absolute value of that? That's going to be. Lemme do this in a new color. This is just going to be one. This thing is the same
+thing as that over there. We were able to see
+that just by inspecting this graph, or this chart. And then, six minus four,
+absolute value of that, that's just going to be two. That two is that two right over here, which is the same thing as
+this two right over there. And then, finally, our one
+minus four, this negative three, but the absolute value of
+that is just positive three, which is this positive
+three right over there, which is this distance right over here. You divide it by four, you get 1.5 again. Hopefully you found this mean
+absolute deviation example as interesting as I did.

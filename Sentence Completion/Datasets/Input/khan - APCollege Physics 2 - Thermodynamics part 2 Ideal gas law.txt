@@ -1,0 +1,126 @@
+Welcome back. In the last video, I told you
+that pressure times volume is a constant. That if you increase the
+pressure-- or if you increase the volume, you're going to
+decrease the pressure. Hopefully, you got an
+intuitive sense why. Or likewise, if you squeezed the
+balloon, or the box, and there are no openings there,
+then the pressure within the box would increase. With that said, let's see if we
+can do a couple of fairly typical problems that
+you'll see. So let's say that I have
+a box, or a balloon, or something, and it has a volume,
+and so let me call this the initial volume. My initial volume is 50 cubic
+meters, and my initial pressure is 500 pascals. Just so you remember,
+what's a pascal? That's 500 newtons
+per meter cubed. I take that box, or balloon, or
+whatever, and I compress it down to 20 meters cubed. So I compress it, so I squeeze
+it-- that was the first example that I gave last time. It was the same container,
+and I squeeze it down to 20 meters cubed. What's going to be
+the new pressure? You should immediately have an
+intuition-- what happens when you squeeze a balloon? It becomes harder to do it. What's going to be
+the new pressure? It's definitely going to be
+higher-- when you decrease the volume, the pressure increases
+are inversely related. The pressure's going to go up,
+and let's see if we can calculate it. We know that P1 times v1 is
+equal to some constant, and since we have no aggregate
+change in energy-- I'm just telling you that the box is
+squeezed, I'm not telling you whether it did any work, or
+anything like that-- the same constant is going to be equal to
+the new pressure times the new volume, which is equal
+to P2 times V2. You could just have the general
+relationship: P1 times V1 is equal to P2 times V2,
+assuming that no work was done, and there was no exchange
+of energy from outside of the system. In most of these cases, when you
+see this on an exam, that is the case. The old pressure was 500 pascals
+times 50 meters cubed. One thing to keep in mind,
+because this equivalence is not equal, and we're not saying
+it has to equal some necessary absolute number--
+for example, we don't know exactly what this K is, although
+we could figure it out right now-- as long as
+you're using one unit for pressure on this side, and one
+unit for volume on this side, you just have to use
+the same units. We could have done this same
+exact problem the exact same way, if instead of meters cubed,
+they said liters, as long as we had liters here. You just have to make sure
+you're using the same units on both sides. In this case, we have 500
+pascals as the pressure, and the volume is 50 meters cubed. That's going to be equal to the
+new pressure, P2, times the new volume, 20
+meters cubed. Let's see what we can do: we can
+divide both sides by 10, so we can take the 10 out of
+there, and we could divide both sides by 2, so that
+becomes a 250. We we get 250 times 5 is equal
+to P2, and so P2 is equal to 1250 pascals, and if we kept
+with the units, you would have seen that. When I decreased the volume
+by roughly 60%, I have the pressure actually increased by
+2 1/2, so that gels with what we talked about before. Let's add another variable into
+this mix-- let's talk about temperature. Like pressure, volume, work, and
+a lot of concepts that we talk about in physics,
+temperature is something that you probably are at least
+reasonably familiar with. How do you view temperature? A high temperature means
+something is hot, and a low temperature means something is
+cold, and I think that also gives you intuition that a
+higher temperature object has more energy. The sun has more energy than an
+ice cube-- I think that's fair enough. I think you also have the sense
+that-- what would have more energy? A 100 degree cup of tea, or a
+100 degree barrel of tea. I want to make them equivalent
+in terms of what they're holding. I think you have a sense. Even though they're the same
+temperature, they're both pretty warm-- let's say this
+is 100 degrees Celsius, so they're both boiling-- that the
+barrel, because there's more of it, is going to
+have more energy. It's equally hot, and there's
+just more molecules there. That's what temperature is. Temperature, in general, is a
+measure roughly equal to some constant times the kinetic
+energy-- the average kinetic energy-- per molecule. So the average kinetic energy
+of the system divided by the total number of molecules we
+have. Another way we could talk about is, temperature is essentially energy per molecule. So something that has a lot of
+molecules, where N is the number of molecules. Another way we could view this
+is that the kinetic energy of the system is going to be
+equal to the number of molecules times the
+temperature. This is just a constant-- times
+1 over K, but we don't even know what this is, so we
+could say that's still a constant-- so the kinetic energy
+of the system is going to be equal to some constant
+times the number of particles times temperature. We don't know what this
+is, and we're going to figure this out later. This is another interesting
+concept. We said that pressure times
+volume is proportional to the kinetic energy of the system--
+the aggregate, if you take all of the molecules and combine
+their kinetic energies. These aren't the same K's-- I
+could put another constant here and call that K1. And we also know that the
+kinetic energy of the system is equal to some other constant
+times the number of molecules I have times
+the temperature. If you think about it, you could
+also say that this is proportional to this, and this
+is proportional to this. You could say that pressure
+times volume is proportional to the number-- and these are
+all different proportional constants, and we'll figure
+out this exact constant later-- so we could say that
+pressure times volume is proportional to molecules we
+have, times temperature. And we said that we can
+view temperature as energy per molecule. Another way we could say is
+that if this constant is constant, which is by
+definition, and the number of molecules is constant-- we
+have PV over temperature. Pressure times volume over
+temperature is going to be equal to something times the
+number of molecules, so we could say that's some other
+constant, like k4. This is another interesting
+thing to think about: we said pressure times volume is equal
+to pressure times volume, and now we added temperature
+into the mix. We could say P1 times V1
+over T1 is equal to P2 times V2 over T2. Does this make sense to you? What happens if I have another
+box, and I have my particles bouncing around like always. I have some volume, and some
+amount of pressure-- what happens when the temperature
+goes up? What am I saying? I'm saying that the average
+kinetic energy per molecule is going to go up, so they're going
+to bounce against the walls more. If they bounce against the walls
+more, the pressure's going to go up, assuming
+volume stays flat. Another way you could think
+about it-- let's say the temperature goes up, and the
+pressure stays flat. So what did I have to do? I just said if the temperature
+goes up, the average kinetic energy of each molecule--
+they'll bounce more. In order to make them bounce
+against the sides of the walls as often, I'd have to
+increase the volume. If you hold pressure constant,
+the only way you can do that is by increasing the volume
+while you increase the temperature. Let's keep this in mind, and we
+will use this to solve some pretty typical problems
+in the next video.

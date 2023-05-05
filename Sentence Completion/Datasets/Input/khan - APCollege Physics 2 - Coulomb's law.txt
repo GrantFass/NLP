@@ -1,0 +1,97 @@
+- [Voiceover] So we've already started to familiarize ourselves
+with the notion of charge. We've seen that if two
+things have the same charge, so they're either both positive, or they are both negative, then they are going to repel each other. So in either of these cases these things are going
+to repel each other. But if they have different charges, they are going to attract each other. So if I have a positive
+and I have a negative they are going to attract each other. This charge is a property of matter that we've started to observe. We've started to observe of
+how these different charges, this framework that we've created, how these things start to
+interact with each other. So these things are going to, these two things are going
+to attract each other. But the question is, what causes, how can we predict how strong the force of attraction or repulsion is going to be between charged particles? And this was a question
+people have noticed, I guess what you could
+call electrostatics, for a large swathe of
+recorded human history. But it wasn't until the 16 hundreds and especially the 17 hundreds, that people started to seriously view this as something that they could manipulate and even start to predict
+in a kind of serious, mathematical, scientific way. And it wasn't until
+1785, and there were many that came before Coulomb, but in 1785 Coulomb formally published what is known as Coulomb's law. And the purpose of Coulomb's law, Coulomb's law, is to predict what is
+going to be the force of the electrostatic force
+of attraction or repulsion between two forces. And so in Coulomb's law, what it states is is if I have two charges, so let me, let's say this
+charge right over here, and I'm gonna make it in white, because it could be positive or negative, but I'll just make it q
+one, it has some charge. And then I have in Coulombs. and then another charge
+q two right over here. Another charge, q two. And then I have the distance
+between them being r. So the distance between these two charges is going to be r. Coulomb's law states that the force, that the magnitude of the force, so it could be a repulsive force or it could be an attractive force, which would tell us the
+direction of the force between the two charges, but the magnitude of the force, which I'll just write it as F, the magnitude of the electrostatic force, I'll write this sub e here, this subscript e for electrostatic. Coulomb stated, well this is going to be, and he tested this, he didn't
+just kind of guess this. People actually were assuming
+that it had something to do with the products of the magnitude of the charges and that as the particles got further and further away the electrostatic force dissipated. But he was able to actually measure this and feel really good
+about stating this law. Saying that the magnitude
+of the electrostatic force is proportional, is proportional, to the product of the
+magnitudes of the charges. So I could write this
+as q one times q two, and I could take the
+absolute value of each, which is the same thing as just taking the absolute value of the product. Here's why I'm taking the
+absolute value of the product, well, if they're different charges, this will be a negative number, but we just want the overall
+magnitude of the force. So we could take, it's proportional to the absolute value of the
+product of the charges and it's inversely proportional to not just the distance between them, not just to r, but to the
+square of the distance. The square of the distance between them. And what's pretty neat about this is how close it mirrors
+Newton's law of gravitation. Newton's law of gravitation,
+we know that the force, due to gravity between two masses, remember mass is just
+another property of matter, that we sometimes feel is
+a little bit more tangible because it feels like we can
+kind of see weight and volume, but that's not quite the same, or we feel like we can feel or internalize things like weight and volume which are related to mass, but in some ways it is
+just another property, another property, especially
+as you get into more of a kind of fancy physics. Our everyday notion of even mass starts to become a lot more interesting. But Newton's law of gravitation says, look the magnitude of the force of gravity between two masses is going
+to be proportional to, by Newton's, by the gravitational concept, proportional to the
+product of the two masses. Actually, let me do it
+in those same colors so you can see the relationship. It's going to be proportional to the product of the two
+masses, m one m two. And it's going to be
+inversely proportional to the square of the distance. The square of the distance
+between two masses. Now these proportional
+personality constants are very different. Gravitational force, we kind of perceive this
+is as acting, being strong, it's a weaker force in close range. But we kind of imagine it
+as kind of what dictates what happens in the, amongst the stars and
+the planets and moons. While the electrostatic
+force at close range is a much stronger force. It can overcome the
+gravitational force very easily. But it's what we consider happening at either an atomic level
+or kind of at a scale that we are more familiar to operating at. But needless to say,
+it is very interesting to see how this parallel
+between these two things, it's kind of these
+patterns in the universe. But with that said, let's actually apply let's actually apply Coulomb's law, just to make sure we feel
+comfortable with the mathematics. So let's say that I have a charge here. Let's say that I have a charge here, and it has a positive
+charge of, I don't know, let's say it is positive five times 10 to the negative three Coulombs. So that's this one right over here. That's its charge. And let's say I have this
+other charge right over here and this has a negative charge. And it is going to be, it is going to be, let's
+say it's negative one... Negative one times 10 to the negative one Coulombs. And let's say that the
+distance between the two, let's that this distance right here is 0.5 meters. So given that, let's figure out what the what the electrostatic force between these two are going to be. And we can already predict that it's going to be an
+attractive force because they have different signs. And that was actually
+part of Coulomb's law. This is the magnitude of the force, if these have different
+signs, it's attractive, if they have the same sign then they are going to repel each other. And I know what you're saying, "Well in order to actually calculate it, "I need to know what K is." What is this electrostatic constant? What is this electrostatic
+constant going to actually be? And so you can measure that
+with a lot of precision, and we have kind of modern numbers on it, but the electrostatic constant, especially for the sake of this problem, I mean if we were to get
+really precise it's 8.987551, we could keep gone on and
+on times 10 to the ninth. But for the sake of our
+little example here, where we really only have one significant digit for each of these. Let's just get an approximation, it'll make the math a little bit easier, I won't have to get a calculator out, let's just say it's approximately nine times 10 to the ninth. Nine times 10 to the ninth. Nine times, actually let me
+make sure it says approximately, because I am approximating here, nine times 10 to the ninth. And what are the units going to be? Well in the numerator here, where I multiply Coulombs times Coulombs, I'm going to get Coulombs squared. This right over here is going to give me, that's gonna give me Coulombs squared. And this down over here is going to give me meters squared. This is going to give me meters squared. And what I want is to get rid of the Coulombs and the meters and end up with just the Newtons. And so the units here are actually, the units here are Newtons. Newton and then meters squared, and that cancels out
+with the meters squared in the denominator. Newton meter squared over Coulomb squared. Over, over Coulomb squared. Let me do that in white. Over, over Coulomb squared. So, these meter squared will cancel those. Those Coulomb squared in the denomin... over here will cancel with those, and you'll be just left with Newtons. But let's actually do that. Let's apply it to this example. I encourage you to pause the video and apply this information
+to Coulomb's law and figure out what
+the electrostatic force between these two
+particles is going to be. So I'm assuming you've had your go at it. So it is going to be, and this is really just applying the formula. It's going to be nine
+times 10 to the ninth, nine times 10 to the ninth, and I'll write the units here, Newtons meter squared
+over Coulomb squared. And then q one times q two,
+so this is going to be, let's see, this is going to be, actually let me just write
+it all out for this first this first time. So it's going to be times five times ten to the negative three Coulombs. Times, times negative one. Time ten to the negative one Coulombs and we're going to take
+the absolute value of this so that negative is going to go away. All of that over, all of that over and we're in kind of the
+home stretch right over here, 0.5 meters squared. 0.5 meters squared. And so, let's just do a
+little bit of the math here. So first of all, let's look at the units. So we have Coulomb squared here, then we're going to have
+Coulombs times Coulombs there that's Coulombs squared
+divided by Coulombs squared that's going to cancel with that and that. You have meters squared here, and actually let me just write it out, so the numerator, in the numerator, we are going to have so if we just say nine times five times, when we take the absolute value, it's just going to be one. So nine times five is going to be, nine times five times negative... five times negative one is negative five, but the absolute value there, so it's just going to be five times nine. So it's going to be 45 times 10 to the nine, minus three, minus one. So six five, so that's going to be 10 to the fifth, 10 to the fifth, the Coulombs
+already cancelled out, and we're going to have
+Newton meter squared over, over 0.25 meters squared. These cancel. And so we are left with, well if you divide by 0.25, that's the same thing as dividing by 1/4, which is the same thing
+as multiplying by four. So if you multiply this times four, 45 times four is 160 plus 20 is equal to 180 times 10 to the fifth Newtons. And if we wanted to write
+it in scientific notation, well we could divide this by, we could divide this by 100
+and then multiply this by 100 and so you could write this as 1.80 times one point... and actually I don't
+wanna make it look like I have more significant
+digits than I really have. 1.8 times 10 to the seventh, times 10 to the seventh units, I just divided this by 100
+and I multiplied this by 100. And we're done. This is the magnitude of
+the electrostatic force between those two particles. And it looks like it's fairly significant, and this is actually a good amount, and that's because this is
+actually a good amount of charge, a lot of charge. Especially at this
+distance right over here. And the next thing we have to think about, well if we want not just the magnitude, we also want the direction, well, they're different charges. So this is going to be
+an attractive force. This is going to be an
+attractive force on each of them acting at 1.8 times ten
+to the seventh Newtons. If they were the same charge,
+it would be a repulsive force, or they would repel each
+other with this force. But we're done.

@@ -1,0 +1,49 @@
+- [Voiceover] We've already looked at the conversion of cyclopropane to propene and shown that it's a
+first-order reaction. And we also found the rate constant at 500 degrees Celsius
+in an earlier video. And so the rate constant is 6.7 times 10 to the negative 4 one over seconds. And so in part a, if the
+initial concentration of cyclopropane is .05 molar,
+what is the concentration of cyclopropane after 30 minutes? Well, to solve for this concentration, we can use the integrated rate law that we found in an earlier video. Since this is a first-order reaction, the integrated rate
+law, or one form of it, is the natural log of
+the concentraion of A at any time t is equal to the negative kt. Where k is the rate constant plus the natural log of the
+initial concentration of A. And here cyclopropane,
+or C three H six, is A. So this is the natural
+log of the concentration of cyclopropane, C three H six. Is equal to k, is 6.7 times 10 to the negative four. So this would be negative times 6.7 times 10 to the negative four. And time. We need to find the time. And since we have k in seconds, we have 30 minutes here. We need to convert 30
+minutes into seconds. So 30, 30 minutes. There are 60 seconds in one minute. 60 seconds in one minute. So if we multiply those two, minutes cancels out, so 30 times 60 gives me 1800 seconds. So that's 1800 seconds,
+so I put that in here. So 1800 seconds plus the natural log, the natural
+log of the initial concentration of cyclopropane. The initial concentration is .05. So this is the natural log of .05. So starting to run out of space there. Alright, so, let's think about what we would do to solve for the concentration of cyclopropane. Well we have this natural log in here. So we could exponentiate both sides to get rid of our natural logs. So if we exponentiate both sides, that gets rid of our natural log here. And that would give us the concentration of cyclopropane after 1800 seconds. So let's do that math. Let's get out the calculator here. Let's do all that math on the right side. This was, let's see here, we have We have negative 6.7 times 10 to the negative four. I need to multiply that by 1800 seconds. And to that, we're going to
+add the natural log of .05. And then we need to take e to our answer. And e to our answer gives us .015 molar. And so that's our answer. Our answer, our
+concentration of cyclopropane is .015 molar. Now, you didn't have to use this form of the integrated rate law. You could have used a different form. The concentration as a function of time. So you could have written, the concentration of cyclopropane at a certain time is equal to the initial concentration of cyclopropane, the initial concentration
+e to the negative kt. So we saw this in the previous videos. So the concentration
+as a function of time. So we can plug in our values here, we're solving for the
+concentration of cyclopropane. The initial concentration was .05 So we plug in here .05. e to the negative k was 6.7, 6.7 times 10 to the negative four. And our time was 1800 seconds. So we could do the problem this way. Obviously we should get the same answer. Let's just go ahead and show that here. So we have negative 6.7 times 10 to the negative four times 1800, and then we would take e to our answer. And then we to multiply by
+the initial concentration of .05. And so obviously we get .015 molar again. So it doesn't matter
+how you do the problem, it doesn't matter which
+equation you start with, you're gonna get .015 molar for your concentration of cyclopropane. Alright, let's look at
+part b of this question. How long does it take
+for the concentration of cyclopropane to reach .01 molar? Alright, so to reach .01 molar, once again, it doesn't really matter which form you use,
+which equation you use. I'll just take the first
+equation that we discussed. Write the natural log of
+the concentration of A is equal to negative kt plus the natural log of the
+initial concentration of A. And let's plug in what we need here. So the concentration of cyclopropane to reach .01 molar, so that's
+our concentration here. That's our concentration at some time. So that would be the natural log of this would be .01 molar is equal to negative kt. So this is negative 6.7 times
+10 to the negative four. The time is what we don't know. How long does it take? So we're trying to find the time. And we know the initial concentration of cyclopropane, once
+again that .05 molar. So this is the natural log of .05 molar again. So to solve for time, this would be the natural log of .01 minus the natural log of .05 and then you have to divide that by negative 6.7 times
+10 to the negative four. So just some algebra here gets you your time. So we can do that on our calculator. We can take, let's make some room over, let's put it over here. So this would be the natural log of .01 and then we're gonna subtract
+the natural log of .05 and then divide that by negative 6.7 times 10 to the negative four. And then we get as our time 2,402. That's in seconds. So 2,402 seconds. Time is equal to 2,402 seconds. And we could leave it
+in seconds, or we could we could put that into minutes. So how many minutes is that? Well, 2,402 seconds, if we divide by a conversion factor. So it'd be 60, there are
+60 seconds in every minute. So seconds would cancel out. We get one over, one over minutes. So that gives us minutes, of course. And so we can do that really
+quickly on the calculator, or you could do that in your head. I'll go ahead and do
+that on the calculator just to show you. Let's take that and and
+let's divide it by 60. Obviously we're gonna
+get pretty close to 40. So once again, that's something that you could do in your head, but 40 minutes. So approximately 40 minutes
+is how long it would take to reach a final
+concentration of .01 molar. Alright, let's look at part c. So in part c they want
+us to find the half-life. Well, from the previous video,
+for a first order reaction, the half-life is equal to .693 divided by your rate constant k. So the rate constant for this reaction was 6.7 times 10 to the negative four. So the half-life is equal to .693 divided by 6.7 times 10 to the negative four. And this was one over seconds. So we can do that on our calculator to solve for the half-life. So we have .693, divide that by 6.7 times 10 to the negative four. And so we get 1,034. So t 1/2, which is the half-life, which is 1,034 and the
+units would be seconds. This would be one over one
+over seconds, or seconds. So 1,034 seconds. If you wanted to convert
+that into minutes, we could just divide that by 60 seconds. And that gives us 17, eh we'll just say approximately 17 minutes. So we'll round that to approximately 17 minutes is the half-life. And remember from the previous video, what the half-life refers to. So if we started with, remember, we started with a
+concentration of .05 molar. That was our initial concentration. A half-life is how long it takes for us to get half of our
+initial concentration. So how long does it take
+to get from .05 molar to half that, which is .0250 molar. That's the half life. It takes 17 minutes. It takes 17 minutes for our concentration of cyclopropane to go from .05 molar to .025 molar. And how long would it take for our concentration to reach .0125 molar? So this concentration is half of this, so therefore it would take another 17, it would take another 17 minutes. Again, watch the previous
+video for more on half-life.

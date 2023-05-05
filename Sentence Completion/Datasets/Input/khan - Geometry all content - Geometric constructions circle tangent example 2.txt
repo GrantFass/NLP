@@ -1,0 +1,43 @@
+- [Voiceover] Let's do another example of using a virtual compass
+and virtual straight edge to draw a tangent line to a circle. And now we're told to
+construct a line going through P tangent to the circle. And in this example, P
+doesn't sit on this circle, P is outside of the circle. So we wanna draw something like, and actually let me get
+my straight edge out. So my straight edge, and I
+have my controls up here, this is on the Kahn Academy exercise Constructing a Line Tangent to a Circle, so I have that up there. So let me add the straight edge. Once again, you could try to eyeball it. We're gonna go through P, going
+to be tangent to the circle, so hey yeah, maybe something like that. That looks pretty good,
+but like we've said in other geometric constructions videos, that's just eyeballing it, we don't know how precise that actually is. So what if we had a compass
+and a straight edge, how do we make something more precise? And actually in the process of doing it, we'll make really fun patterns. So how do we do that? Well, what I'm gonna do is, I'm gonna try to construct a circle that has the segment PC as a diameter. So let me draw that. So I wanna construct a circle that has segment PC as a diameter. And in order to do that, I need to figure out where the
+center of that circle is. And you'll see in a second
+why it's useful to have this circle that has PC as a diameter. So where is the center? It looks like it's roughly here, but how do we actually construct it? To do that, we're gonna have to figure out the midpoint of segment PC, or CP. And to do that, what I'm gonna do is construct two circles. I'll just make 'em a little bit larger. So one centered at C. I'll make it reasonably
+large, maybe that big. Then I'm gonna construct another circle of the same radius as that large one that I just constructed, so it's that same radius. But I'm now going to center it at P. Now why is this interesting? Why is what I just did interesting? Well where these two
+larger circles intersect are going to be equidistant to P and C. How do we know that? Well all the points on this
+circle are equidistant to C, all the points on this
+circle are equidistant to P, and these circles have the same radius. And at this point right over here, they are equidistant to both of them, because it sits on both circles. So this point is
+equidistant to both of them, and so is this point right over here. And so they both sit on the perpendicular bisector of this segment. Of the segment CP. So actually let me draw that. So if I draw a line that
+looks something like this, this right over here is
+a perpendicular bisector of line, of segment CP. Now what we really just care about is that it is bisecting it, 'cause we wanted to find the midpoint. And now that we have found
+the midpoint of our segment, we're ready to construct
+that circle I talked about. A circle centered at the midpoint, and it has CP as a diameter. So I got that far, but
+why did I go through all of this trouble to do that? Well now we're going to use the idea that if you have a triangle
+embedded in a circle where one side of the
+triangle is a diameter, then you're going to
+have a right triangle. Well what am I talking about? Let me actually just draw the triangle. So let me add a straight edge here. So I'm gonna draw a triangle, so it has one side as the diameter, so we're gonna embed it in this circle that I just constructed,
+this circle centered at this midpoint, this
+circle right over here. CP is clearly our diameter. And I'm gonna embed it
+in CP, but I'm gonna put it in this point right over here, 'cause this point sits on
+the circle centered at C. And I'm gonna draw another line. So this other line, let me put
+that there, and this there. So my claim is that this
+is a right triangle. How do I make this claim, and I've proved it in other videos, is it's embedded in a circle, it's embedded in this
+circle right over here that's highlighted in yellow. It has a diameter for one of its sides, and that side is actually its hypotenuse. So and we prove it in other videos. So this is a right triangle. Well why is this useful for proving, or why is this useful for
+constructing a tangent line to this circle over here? To circle centered at C? Well, this side right over
+here that I have in orange, that I'm highlighting right now, that's the radius of C. And if that forms the right angle with this line right over here, then this line right over
+here must be tangent. And to really make it look tangent, I'll elongate it a little
+bit just like that. And there you go. You feel good that this looks like it's truly intersecting at a right angle, and that this segment
+that I'm highlighting in orange right now, is truly tangent. So once again, a lot more trouble than just eyeballing it and trying to draw it and actually,
+a lot of you probably could have eyeballed this
+segment right over here. But if you're doing
+something on a larger scale, you wanna be more precise,
+it's useful to be able to do these constructions. And frankly, while you're
+in the process here, while you're dealing with the compass and the ruler or the straight edge, you get a new appreciation
+for what these tools can do, and you're also making some pretty fun patterns and designs. I almost feel like hanging
+this one up on my wall.

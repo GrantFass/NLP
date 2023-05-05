@@ -1,0 +1,113 @@
+Before I continue, I want to
+introduce you to what might be an unfamiliar concept, although
+if you've taken chemistry, you might know a
+little bit about it-- it's called a mole. This isn't the thing that grows
+on your face with the hair in it, or the animal that
+digs in your backyard, although those are also
+called moles. We're talking about the
+SI unit called a mole. A mole is just a number. It's like saying a mole of
+something means a certain number of something, just like
+a dozen-- it's like saying that a dozen eggs is 12 eggs. Just like that, a mole would
+be 6-- I always forget the exact number, but it's 6.023,
+or something of that nature. You could look it up--
+I think it's 6.023 times 10 to the twentieth. Let me look up the exact number,
+just because I think that 23 I'm misremembering. The mole is 6.022 times 10 to
+the 23 of something, so it's a very number of something. Normally, we don't deal in moles
+of eggs-- I don't think there has been a mole of eggs
+ever produced in the history of the universe. 10 to the 23 is a very, very,
+very large number. Where is it useful? A mole is useful for counting
+atoms, and so what is a mole of atoms or molecules? What's that many molecules? It's 6 followed by roughly 23
+0's of molecules-- a very, very big number. What's interesting about a mole
+is that when I have a mole of something, its mass--
+let's say its mass in grams. A mole of carbon: its mass in
+grams is going to be equal to-- so if I have this many
+carbon molecules, its mass in grams is x grams. It'll have a
+mass of x grams, where x is the atomic mass number of an
+atom of carbon, although if I was talking about a mole of a
+molecule, I would figure out the atomic mass of the
+entire molecule. What's an atomic mass number? Let me see if I can do a Web
+search on a periodic table. I'm showing you what I do here,
+and it's not fancy. Let me go to Google, and let's
+look up periodic table, and let's see if we can
+find a good one-- this one looks good. If we go to carbon, which is
+right here, we see that its atomic number is 6, and
+that's the number of protons that it has. The atomic mass number-- it's
+the mass of the entire atom. And just so you know-- we're
+delving into a little bit of chemistry here-- but most of
+the mass of an atom is the protons and the neutrons. The neutrons and the protons
+weigh roughly the same thing, and then the electrons are
+much, much, much smaller. If you factor in the mass of the
+protons and the neutrons, you pretty much have the
+mass of the particle. Just a little more chemistry
+here is that although on average most of the most of
+the atoms have roughly the same number of protons and
+neutrons-- some don't. Some, you could have a carbon
+atom that has seven neutrons, another one with five, another
+one with six, and those are actually all called isotopes,
+and I won't go into all of that-- they're just
+the same atom with different numbers of neutrons. In general, the atomic mass is
+equal to the mass of the protons and the neutrons, and
+they tend to be equal. So if the atomic number
+is 6, the atomic mass tends to be 12. So why is this useful? We can say if we have niobium--
+let's say I have a mole of niobium. If we look here on the periodic
+table, it has an atomic mass number of 41, and
+its average atomic mass-- if we were to average all of the
+isotopes based on the weighting of how they exist
+in nature-- it's 92.9, so roughly 93. It's actually a little bit more
+than double its atomic number, but let's say 93. If we had a mole of niobium--
+if we had 6.022 times 10 to the 23 of niobium, it would
+have a mass of 92 grams. That's pretty easy-- look
+at any element. Let's say chromium: we see its
+atomic mass number is roughly 52, and we see that there. If I have a mole of it-- if I
+have roughly 6 times 10 the 23 three of it, that much will
+have a mass of 52 grams. That's how we think
+about a mole. If I tell you I have a mole of
+something, I'm also telling you how many of that molecule
+I have, and I'm also telling you what the mass of that mole
+that quantity will be, assuming that you
+have a periodic table in front of you. With that said, and with that
+out of the way, let's make some more progress with
+our thermodynamics. We said in the last several
+videos that pressure times volume is somehow
+proportional-- let's call that K. And this is an arbitrary number,
+it's not some special constant-- to the total kinetic
+energy of a system. We also said that that is
+roughly proportional-- that's another constant-- times the
+number of molecules we have times the temperature, because
+temperature we viewed as kinetic energy per molecule. In general, we could also say
+that this is proportional to this, which is proportional to
+this, that pressure times volume is proportional. We'll use R, because you'll see
+where that's coming from in a second. It's proportional, it's equal
+to some constant times the number of molecules n. Here I just take the absolute
+numbers-- if I had five molecules, I'd put a five here,
+but now this n, I'm counting in moles. If this n is 1, that means that
+I have 6.022 times 10 to the 23 molecules. One mole equals 6.022 times 10
+to the 23, so I'm just saying that this is another way to
+write the number of molecules, and then that's times
+temperature. Then if we rearrange
+it-- PV equals nRT. We have a relationship, that
+if I know the pressure, the volume, and the number of
+molecules, I can figure out the temperature, or if I know
+the number of molecules, the temperature, and the pressure,
+I can figure out the volume, assuming I know what R is. I'm about to tell you
+what that is. R is called the universal gas
+constant, and it is R is 8.31 joules per mole-Kelvin. That kind of tells you what
+you need in this formula. This should end up being
+joules, so if you have pressure in pascals and volume
+in meters cubed, you'll end up with joules there. This should be in moles--
+this is 8.31 joules per mole-Kelvin. And then this, as we always
+said, should be in Kelvin. Honestly, if you just memorize
+two things in all of thermodynamics, you'll probably
+be able to do 95% of problems, but you actually
+should have the intuition of how they work. Just remember that PV over T
+is equal to a constant, or that if you change them, they
+relate to each other in that they all equal a constant, so
+P1 times V1 divided by T1 is equal to P2 times V2
+divided by T2. You also should just need to
+memorize PV is equal to nRT, where R is equal to 8.31
+joules per mole Kelvin. I know you might not have a
+lot of intuition of this formula yet, because I haven't
+used it, but I'm going to do that in the next video. These are literally the two
+most important things you should know in thermodynamics,
+and hopefully you have a little intuition at this point
+of what they mean. See you soon.

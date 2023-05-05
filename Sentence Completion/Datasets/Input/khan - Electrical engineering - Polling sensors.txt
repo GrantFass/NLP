@@ -1,0 +1,25 @@
+When configuring
+any sensor, it's important to understand how to
+poll them in real time, which means you grab their
+current reading and see what it is right
+inside the software. For example, I could
+grab any sensor, but I have the
+rotation sensor here. And now down in the
+settings, when I click on it and I make sure I select the
+correct port that the motor is plugged into, over on the left
+is the live reading window, and for every sensor
+you will have this. And in this case, it
+says rotation sensor, and there's a little box,
+which in real time as I move the motor, it updates with
+the current reading, which is the number of
+degrees of rotation. I position the
+motor in some state, and I can click Reset,
+which zeros the reading. And then I could rotate
+my motor a certain amount, and then I can check
+this window to see how many degrees it has rotated. And you can do this
+for any sensor-- your current light reading,
+sound reading, et cetera. And if you're not getting
+a reading in real time and you've double checked
+your port and connection, what I do is save everything,
+close the software, and reopen it, and sometimes
+that will fix the problem.

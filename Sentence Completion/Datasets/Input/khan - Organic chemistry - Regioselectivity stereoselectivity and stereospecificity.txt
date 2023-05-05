@@ -1,0 +1,52 @@
+- [Instructor] Sometimes,
+definitions can be confusing, and I wanted to go through the
+difference between the terms regioselectivity, stereoselectivity,
+and stereospecificity. And I'm going to use examples that we've talked about in earlier videos, so if you want to know the
+details of these reactions, go back and watch those earlier videos. We'll start with regioselectivity. So the reaction I've shown here is a regioselective reaction. This alcohol gets dehydrated
+to form two products, the alkene on the left and
+the alkene on the right. These two alkenes are regioisomers. So let me write this down here. So they are regioisomers. They're isomers of each other, but they differ in terms of the region or the location of the double bond. The isomer on the left
+has the double bond here, and the isomer on the right
+has the double bond here. This is a regioselective reaction. One regioisomer is favored over the other, and in this case, the
+tri-substituted alkene, the one on the left here,
+is the major product, whereas the di-substituted alkene, the one on the right,
+is the minor product. So that's regioselectivity. Let's compare that to stereoselectivity. So for this next example, this alcohol, it's another
+dehydration reaction, reacts with sulfuric acid
+to give us two alkenes. The mechanism for this reaction, first we protonated the OH to form water as a good leaving group so water left and that
+gave us a carbocation with a plus one formal
+charge on this carbon, this benzylic carbon. So we have a benzylic
+carbocation in our mechanism. Let me just go ahead
+and draw that in here. So here's our benzylic carbocation, so plus one formal charge
+on this carbon in magenta. And from this carbocation, we had a choice of which
+proton we wanted to take. There are two hydrogens on this carbon, and depending on which proton we took, we got one of these different products. So this would be the trans product, just let me write that down here, this is the trans product, and this would be the cis product. These are stereoisomers, so let me write that down. These two are stereoisomers. That's one term that you
+could use to describe them. And this reaction is stereoselective. One stereoisomer is
+favored over the other. In this case, the trans products, right, this is the most stable product, so this is the major product,
+this is favored over the cis. So, this would be the minor product. Now, let's look at stereospecificity. In a stereospecific reaction, the stereochemistry of the substrate determines the stereochemistry
+of the product. And the E2 reaction can be a good example of a stereospecific reaction. On the left, we have our substrate, and we have these two phenyl groups here. We have a bromine, but notice the stereochemistry
+at this carbon. You have a methyl group
+coming out at us in space and a hydrogen going away from us. When our strong base
+takes our beta proton, we end up with the E alkene, so there's stereochemistry in our product. We would have the two phenyl groups on opposite sides of the double bond. Look at this reaction now. We have the phenyl groups,
+we have our bromine. Those are all the same. The difference is the
+stereochemistry at this carbon. Now, we have a hydrogen coming out at us and a methyl group going away from us. Our strong base takes our proton, our beta proton in the mechanism, but this time we get the Z alkene. So the stereochemistry of
+the substrate determined the stereochemistry of the product. There's no choice
+because of the mechanism. You could also think about
+that going backwards. If you look at this product here, the Z alkene, because you know
+the product is a Z alkene, you know the stereochemistry
+at this carbon, it must have this
+particular stereochemistry. Same thing for the other reaction. We form only the E alkene, and because we form only the E alkene, we know the stereochemistry
+at this carbon. So the stereochemical information is kept in a stereospecific reaction. Finally, let's directly
+compare stereoselectivity with stereospecificity. We just said in a stereospecific reaction, the stereochemistry of the substrate determines the stereochemistry
+of the product, so the stereochemical
+information is preserved because of the mechanism. That's not the case in this
+stereoselective reaction. If we look at the
+stereochemistry of this OH here, at this carbon, the
+stereochemistry is not preserved in our products. This stereochemical information is lost when we formed our carbocation. For example, we could
+have started out with, let me go ahead and draw this in here, we could have started
+out with the OH on a dash and we would have ended
+up with the same products. So the stereochemical
+information in the substrate is not preserved. Let's think about that
+concept going backwards again. So for this E alkene, because this is an E alkene with the phenyl groups on opposite sides, we know the stereochemistry at this carbon in this stereospecific reaction. But if we look at the products here, if we look at this trans
+product and the cis product, that does not tell us the
+stereochemistry of our substrate. We do not know, we do not know
+what the stereochemistry is at this carbon. Is the OH on a dash or
+is the OH on a wedge? So this is not a stereospecific reaction. Instead, think about a
+stereoselective reaction as being selective for, in this case, the trans isomer, the more stable isomer.

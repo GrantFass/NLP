@@ -1,0 +1,171 @@
+SAL KHAN: I am very
+excited to have Vi Hart visiting the
+office over here. And we were just having a
+very mathematical conversation earlier today. And she mentioned something
+that is fascinating. VI HART: Yeah, I
+was just telling Sal about a cool thing
+called Benford's Law. SAL KHAN: Benford's Law. And what is Benford's law? VI HART: It's this
+weird phenomenon that you get when you're looking
+at numbers in the real world. So for example, we've
+got some graphs here. If you take the populations
+of all the countries and you, say all right, what
+is the first digit of the population
+of the country? Whether it's 1 million
+or 1,000 or 100,000, we'll say, OK,
+that starts with 1. So we'll count up all of the
+countries that start with 1. And I guess here
+we've got 27 of them. SAL KHAN: Yes, about 27. So literally anything
+that starts with a 1 here. So it could be a country
+that has a population of 1, a population of 17, or a
+population of 1 billion, 300 million, blah, blah, blah. They would all fall into
+this bucket right over here. VI HART: Right. And then if you
+start with 2, you fall in the second bucket,
+and so on and so forth. SAL KHAN: Better color. Oh yeah, go ahead. VI HART: Yeah,
+definitely better color. SAL KHAN: Better color. VI HART: Oh, that's great. SAL KHAN: Yeah, that's
+the blue, better contrast. VI HART: So the
+question is, all right, you'd think you'd have kind
+of random numbers here. SAL KHAN: Yes. For that first digit,
+it's kind of random. VI HART: Yeah. I mean, there's huge differences
+in populations of countries. Some have billions
+and some have-- I don't know what the
+smallest population is. SAL KHAN: Yes. It's, like, Montenegro
+or something like that. VI HART: Yeah. So-- SAL KHAN: Montenegro
+is not a country. What am I thinking? I'm thinking of-- what's the one
+that's on the French Riviera? Anyway, we can edit that out. [LAUGHTER] VI HART: I don't know. I would be interested
+to see for populations of states and everything. SAL KHAN: The Vatican is the
+smallest country, I believe. VI HART: Yeah, it is. Does that still count? I guess-- SAL KHAN: I think
+the Vatican counts. They have their own-- yes. VI HART: I don't know exactly
+what the requirements were to be. [INAUDIBLE]. SAL KHAN: But it would
+include the Vatican, which I think would be in,
+like, the thousands. VI HART: Yeah. And so why would this happen? Why would you see
+more 1's than 2's? Like, what is going on? SAL KHAN: Yeah. And it's not some small chance. I mean, we were talking
+also about the idea that it is more likely to
+have odd-numbered addresses than even-numbered. We were talking
+about that earlier. VI HART: Yeah, I just
+learned about that recently. And that makes sense. SAL KHAN: That makes sense,
+because every house will have a number 1 on it, or a 10. VI HART: Right, every street,
+if your street starts, you know, with house
+number 1, house number 2, house number 3, if you have
+an odd number of houses, then your street has more odd
+numbers than even numbers. SAL KHAN: Exactly. And if you have an even number,
+you have the same amount. VI HART: Right. SAL KHAN: Right. VI HART: But that's starting
+with 1, which is odd. Whereas here, populations
+don't start with 1. SAL KHAN: Exactly. And that phenomenon that
+we're talking about the street numbers, it's not an
+extreme phenomenon. It's like, 50 point
+some 0-- you have a slightly higher probability
+of having an odd-numbered house, or I guess a 1 house,
+than everything else. VI HART: Yeah, it's kind of
+exactly what you would expect. SAL KHAN: It's exactly
+what you'd expect. But here, it's a significantly
+higher probability, of a random
+country's population, that its first digit is a 1
+versus its first digit as an 8 or a 9. I mean, it seems a
+little bit strange. VI HART: Yeah. And this isn't
+just in countries. You see this if you're looking
+at a lot of financial stuff. Like, how much money
+does a company make. SAL KHAN: Yes. The 1's just show up as a first
+digit much more frequently. VI HART: Much more
+frequently, yeah. And here, we have
+another fancy graph, which is completely crazy. It's the first digit
+of physical constants. So what would be examples
+of some physical constants? SAL KHAN: I'm
+assuming that-- and we weren't able to figure out
+exactly what they applied here-- but I'm assuming it's
+things like the Gravitational constant, Planck's constant. And this seems kind
+of crazy to me, because it depends on the
+units that you're using, it depends on a
+whole bunch of things that you have to
+assume about it. But even when you use these
+kind of arbitrary physical constants, which I'm
+assuming they're doing here, the most significant digit
+in these physical constants is still much more
+likely to be 1. It almost exactly
+follows Benford's Law. And it kind of gives
+you goose pimples. VI HART: Yeah. So the challenge here
+is to-- oh, by the way, Benford is the guy
+with the glasses. SAL KHAN: Oh, yes. Yes, you might be wondering. These aren't-- yes. These are-- VI HART: They're
+not both Benford. SAL KHAN: These are not Benford
+pre-shave and post-shave. No. This right there is Benford. And obviously it was named
+after him, Benford's Law. But we put this gentleman,
+who didn't shave-- VI HART: Yeah, the cool guy
+with the beard is Simon Newcomb. SAL KHAN: Simon Newcomb. VI HART: Not Duke Nukem. SAL KHAN: Not Duke Nukem. And we put him here
+because he's actually the first person who
+stated Benford's Law. He obviously did not
+call it Benford's Law. VI HART: And he had
+the better beard. SAL KHAN: And he
+had, yes, the most-- he was overall a more
+imposing character. At least to me. This guy looks a little
+bit like Harry Truman. Maybe this is Harry. I don't know. Yeah, maybe I've got
+the wrong picture. Anyway, let's just-- VI HART: So the question, what
+is kind of a pure case of this? I mean, when you've
+this random data, you see some fluctuations. Like, in a country,
+right, there are more-- SAL KHAN: It's
+pretty close, though. It's pretty close to that curve. VI HART: Yeah, and our
+sample size is pretty low. I mean-- SAL KHAN: Right. VI HART: --when
+you've only got-- SAL KHAN: There's,
+like, 200 countries or something like that. VI HART: Yeah. SAL KHAN: It went
+up by, like, 50-- VI HART: It doesn't
+perfectly follow it. SAL KHAN: --after the Soviet
+Union fell and all that. But yeah, it's not a
+huge number of countries. And even physical
+constants, I don't know how many physical constants
+they randomly sampled over here, but it is shockingly
+close to Benford's law curve. But there's kind of a more
+pure way of studying it. VI HART: Right. So when we look at
+this other graph, this is kind of like
+the pure Benford's Law. SAL KHAN: Pure Benford's Law. So that's this curve
+that we're kind of fitting to that other,
+more rough data. And what's amazing
+here is that if we take kind of pure
+mathematical constructs, like the powers of 2, or-- VI HART: Or the
+Fibonacci series. You'd think that in
+the Fibonacci series, you're adding all this
+stuff up, and why-- SAL KHAN: And then you
+just take the first digit-- VI HART: Just the first digit. SAL KHAN: --and put
+them in these piles, it would actually exactly
+match Benford's Law. Like, no deviation. It is exactly-- VI HART: Right,
+mathematically [INAUDIBLE]. SAL KHAN: Mathematically. So let's just be clear,
+because this is fascinating. So if you were to take
+the powers of 2's, you get 1, 2, 4, 8, 16, 32, 64. I'm gonna go pretty
+high so you can start to see how
+we're doing this. 128, 256, 512. And you just keep
+going on and on forever with every power of 2. And you say, OK, how many
+of these start with a 1? And you would go
+and you would say, well, this starts with
+a 1, this starts with-- or the most
+significant digit is 1. That starts with a 1,
+that starts with a 1. And you would just find the
+percentage that start with a 1. And you would plot
+it on-- you would give the 1's that credit
+for that percentage. And then you'd say, OK, the
+ones that start with a 2. And you'd say, OK,
+that starts with a 2, and that starts with 2. But we want to
+keep going on this. And we could probably do
+this with a computer program or something, where we'd
+go really high powers of 2. And then you would
+say, what percentage of all of these powers
+of 2 start with a 2? You would, say, get this
+percentage right over here. The numbers that start with
+a 9, you would get this. And you would perfectly
+match Benford's Law. This seems magical. VI HART: It does
+seem pretty magical. SAL KHAN: And this isn't
+just for powers of 2. This is powers of any number. VI HART: Almost any number. There's special cases. SAL KHAN: I believe it
+might be every number. Oh, yes. No.
+VI HART: Well, powers of 1. SAL KHAN: 1 would
+not work, right. VI HART: And then there's,
+like, powers of 10. SAL KHAN: Powers of 10
+would not work as well, yes. But every other-- numbers that
+kind of mix it up a little bit. VI HART: Powers of 0. SAL KHAN: Yes. You are correct. Every number that would
+mix it up a little bit. VI HART: Yeah. It'd have to have a
+certain amount of mixing it up a little bit. SAL KHAN: Right, right. But every other, yes, they would
+exhibit Benford's distribution. And so we want to challenge
+you to think about why that is. And maybe you could even
+put your own explanations in our little message board,
+on either YouTube or our page, if you're curious. But we'll challenge you
+to think why that is. And then we'll offer at least a
+decent shot at an explanation. Maybe we'll have
+other explanations. VI HART: Yeah. SAL KHAN: So actually, we'll
+leave you there in this video. And the next video
+will explain why we think-- an intuitive
+reason why it works.

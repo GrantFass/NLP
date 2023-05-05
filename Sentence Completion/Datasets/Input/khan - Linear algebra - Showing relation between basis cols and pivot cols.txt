@@ -1,0 +1,121 @@
+In the last video we saw a
+method of figuring out what the basis for column space is. And we use these
+exact examples. Whereas this was matrix A, I
+just took it and I put it in reduced row echelon form. And I figured out which of these
+columns in my reduced row echelon form of A,
+are pivot columns. And it turned out to be the
+first one, the second one, and the fourth one. And then the method is, you say
+look, the corresponding columns in A-- so the first one,
+the second one, and the fourth one-- form my basis
+for my column space. And since they form the basis,
+and if you want to know the dimension of your basis of your
+column space, which is also called the rank,
+you just say, well there's three in there. So it has a rank of
+one, two, three. In this video I want to discuss
+a little bit about why this worked. Why were we able to just take
+the corresponding columns? Why did linear independence of
+these three guys, imply linear independence of these
+three guys? Why was the fact that I can
+represent these guys-- this guy right here as a linear
+combination of these three, or this guy as a linear combination
+of these three-- why does that imply that I can
+construct this guy as a linear combination of my
+basis vectors? So the first thing that wasn't
+too much of a stretch of the imagination in the last video,
+was the idea that these pivot vectors are linearly
+independent. So r1, r2, and r4. And everything I'm doing, I'm
+kind of applying to the special case just so that it's
+easier to understand. But it should be
+generalizable. In fact, it definitely
+is generalizable. That all of the pivot columns
+in reduced row echelon form are linearly independent. And that's because the very
+nature of reduced row echelon form, is that you are the only
+pivot column that has a 1 in that respective row. So the only way to construct
+it is with that vector. You can't construct it with
+the other pivot columns because they're all going
+to have 0 in that row. And when I say it's linearly
+independent, I'm just saying the set of pivot columns. So let me say this in general. The set of pivot columns for any
+reduced row echelon form matrix is linearly
+independent. And it's just a very
+straightforward argument. Because each column is
+going to have a 1 in a very unique place. All of the other pivot columns
+are going to have a 0 in that same place. And so you can't take any linear
+combinations to get to that 1 because 0 times anything,
+minus or plus 0 times anything, can never
+be equal to 1. So I think you can
+accept that. Now, that means that the
+solution to c1 times r1, plus c2 times r2, plus, let
+me say, c4 times r4. The solution to this equation,
+because these guys are linearly independent, we know
+that this only has one solution, and that's c1, c2,
+and c4 is equal to 0. That's the only solution
+to that. So another way we could say it
+is, if we write r times some vector x-- well I'll just write
+it times this particular x-- where I write it as
+c1, c2, 0, c4, and 0 is equal to 0. So this will be some special
+member of your null space. It's a particular solution
+to the equation. This is equal to one, two,
+three, four 0's because we have four rows here. Now, if we just expand
+this out. If we just multiply 1 times c1,
+plus 0 times c2, minus 1 times 0, plus 4 times 0, you'll
+get-- or actually a better way to explain it-- this
+multiplication right here can be written as-- and we've
+seen this multiple times-- c1 times r1, plus c2 times
+r2, plus 0 times r3. So we could just ignore that
+term, plus c4, c4 times r4, plus 0 times r5. That's r5 right there. All of that equal to 0. So the only solution to this,
+because we know that these three columns are linearly
+independent-- or the set of just those three columns, those
+three pivot columns are linearly independent-- the only
+solution here is all of these equal to 0. That's exactly what I
+said right up here. So the only solution here, where
+if these two are 0, is that these guys also all have
+to equal 0, if I already constrain these two. Now, the one thing that we've
+done over and over again, we know that the solution set of
+this equation, the solution set of Rx is equal to 0, is the
+same as the solution set of Ax is equal to 0. Now, how do we know that? Or what do I mean? Well the solution set of this
+is just the null space. The solution set is just
+the null space of r. It's all of x's that satisfy
+this equation. And we know that is equal to the
+null space of a, because r is just a in reduced
+row echelon form. So this is the null space of
+a, is all of the x's that satisfy this equation. Now, the only version of this
+that satisfied this equation was when c1, c2, and
+c4 are equal to 0. So that tells us that the only
+version of this, c1, c2, 0, c4, 0, that satisfies this
+equation, or this equation, is when c1, c2, and c4
+is equal to 0. Or another way of saying that
+it if this is vector a1, a2, a4 right here, if you multiply
+this out, you get c1-- let me do it over here, let me do it in
+blue-- you get c1 times a1 plus c2 times a2, and then 0
+times a3, plus c4 times a4 is equal to 0. Now these guys are going to be
+linearly independent, if and only if the only solution to
+this equation is they all equal to 0. Well we know that the only
+solution to this is that they all equal 0 because anything
+that's a solution to this is a solution to this. And the only solution to this
+was, if I go ahead and I constrain these two terms to
+being equal to 0, the only solution to this is all of
+these c's have to be 0. So likewise, if I constrain
+these to be 0, the only solution to this is that c1,
+c2, and c4 have to be 0. So those guys have to be 0,
+which imply that these three vectors, a1, a2, and a4, so that
+implies that the set a1, a2, and a4 are linearly
+independent. So we're halfway there. We've shown that because the
+pivot columns here are linearly independent. We can show and they have
+the same solution set. The null space of the reduced
+row echelon form is the same as the null space of our
+original matrix. We were able to show that the
+only solution to c1 times this plus c2 times this plus c4 times
+this is when all the constants are 0, which shows
+that these three vectors or a set of those three vectors
+are definitely linearly independent. Now, the next thing to prove
+that they are a basis, is to show that all of the other
+column vectors can be represented as multiples
+of these three guys. And I realize, just for the sake
+of clarity, or maybe not boring you too much, I'll do
+that in the next video. So in this one we saw that if
+the pivot columns are linearly independent, they always are. All pivot columns, by definition
+are linearly independent. Or the set of pivot columns
+are always linearly independent when you take away
+the non-pivot columns, then the corresponding columns in
+your original vector are also linearly independent. In the next one we'll show that
+these three guys also span your column space.

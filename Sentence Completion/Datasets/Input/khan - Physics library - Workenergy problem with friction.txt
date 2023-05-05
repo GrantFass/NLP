@@ -1,0 +1,139 @@
+Welcome back. Welcome back.
+Welcome back. I'll now do another conservation
+of energy problem, and this time I'll
+add another twist. So far, everything we've been doing,
+energy was conserved by the law of conservation. But that's because all of the
+forces that were acting in these systems were conservative
+forces. And now I'll introduce you to
+a problem that has a little bit of friction, and we'll see
+that some of that energy gets lost to friction. And we can think about
+it a little bit. Well where does that
+energy go? And I'm getting this problem
+from the University of Oregon's zebu.uoregon.edu. And they seem to have some nice
+physics problems, so I'll use theirs. And I just want to make
+sure they get credit. So let's see. They say a 90 kilogram
+bike and rider. So the bike and rider combined
+are 90 kilograms. So let's just say the mass is 90
+kilograms. Start at rest from the top of a 500 meter
+long hill. OK, so I think they mean
+that the hill is something like this. So if this is the hill, that
+the hypotenuse here is 500 hundred meters long. So the length of that,
+this is 500 meters. A 500 meter long hill with
+a 5 degree incline. So this is 5 degrees. And we can kind of just view
+it like a wedge, like we've done in other problems.
+There you go. That's pretty straight. OK. Assuming an average friction
+force of 60 newtons. OK, so they're not telling us
+the coefficient of friction and then we have to figure
+out the normal force and all of that. They're just telling us, what
+is the drag of friction? Or how much is actually friction
+acting against this rider's motion? We could think a little bit
+about where that friction is coming from. So the force of friction is
+equal to 60 newtons And of course, this is going to be
+going against his motion or her motion. And the question asks us, find
+the speed of the biker at the bottom of the hill. So the biker starts up
+here, stationary. That's the biker. My very artful rendition
+of the biker. And we need to figure out the
+velocity at the bottom. This to some degree is a
+potential energy problem. It's definitely a conservation
+of mechanical energy problem. So let's figure out what the
+energy of the system is when the rider starts off. So the rider starts off at
+the top of this hill. So definitely some
+potential energy. And is stationary, so there's
+no kinetic energy. So all of the energy is
+potential, and what is the potential energy? Well potential energy is equal
+to mass times the acceleration of gravity times
+height, right? Well that's equal to, if the
+mass is 90, the acceleration of gravity is 9.8 meters
+per second squared. And then what's the height? Well here we're going to have
+to break out a little trigonometry. We need to figure out this side
+of this triangle, if you consider this whole
+thing a triangle. Let's see. We want to figure out
+the opposite. We know the hypotenuse and
+we know this angle here. So the sine of this angle is
+equal to opposite over hypotenuse. So, SOH. Sine is opposite over
+hypotenuse. So we know that the height--
+so let me do a little work here-- we know that sine of
+5 degrees is equal to the height over 500. Or that the height is equal
+to 500 sine of 5 degrees. And I calculated the sine of
+5 degrees ahead of time. Let me make sure I
+still have it. That's cause I didn't have my
+calculator with me today. But you could do this
+on your own. So this is equal to 500,
+and the sine of 5 degrees is 0.087. So when you multiply these
+out, what do I get? I'm using the calculator
+on Google actually. 500 times sine. You get 43.6. So this is equal to 43.6. So the height of the hill
+is 43.6 meters. So going back to the potential
+energy, we have the mass times the acceleration of gravity
+times the height. Times 43.6. And this is equal to, and then
+I can use just my regular calculator since I don't
+have to figure out trig functions anymore. So 90-- so you can see the whole
+thing-- times 9.8 times 43.6 is equal to, let's
+see, roughly 38,455. So this is equal to 38,455
+joules or newton meters. And that's a lot of
+potential energy. So what happens? At the bottom of the hill--
+sorry, I have to readjust my chair-- at the bottom of the
+hill, all of this gets converted to, or maybe I should pose that as a question. Does all of it get converted
+to kinetic energy? Almost. We have a force
+of friction here. And friction, you can kind of
+view friction as something that eats up mechanical
+energy. These are also called
+nonconservative forces because when you have these forces
+at play, all of the force is not conserved. So a way to think about it is,
+is that the energy, let's just call it total energy. So let's say total energy
+initial, well let me just write initial energy is equal
+to the energy wasted in friction-- I should have written
+just letters-- from friction plus final energy. So we know what the initial
+energy is in this system. That's the potential energy
+of this bicyclist and this roughly 38 and 1/2 kilojoules
+or 38,500 joules, roughly. And now let's figure out the
+energy wasted from friction, and the energy wasted from
+friction is the negative work that friction does. And what does negative
+work mean? Well the bicyclist is moving 500
+meters in this direction. So distance is 500 meters. But friction isn't acting
+along the same direction as distance. The whole time, friction is
+acting against the distance. So when the force is going in
+the opposite direction as the distance, your work
+is negative. So another way of thinking of
+this problem is energy initial is equal to, or you could say
+the energy initial plus the negative work of friction,
+right? If we say that this is a
+negative quantity, then this is equal to the final energy. And here, I took the friction
+and put it on the other side because I said this is going to
+be a negative quantity in the system. And so you should always just
+make sure that if you have friction in the system, just as
+a reality check, that your final energy is less than
+your initial energy. Our initial energy is, let's
+just say 38.5 kilojoules. What is the negative work
+that friction is doing? Well it's 500 meters. And the entire 500 meters, it's
+always pushing back on the rider with a force
+of 60 newtons. So force times distance. So it's minus 60 newtons,
+cause it's going in the opposite direction of the
+motion, times 500. And this is going to equal
+the ending, oh, no. This is going to equal the
+final energy, right? And what is this? 60 times 500, that's 3,000. No, 30,000, right. So let's subtract 30,000
+from 38,500. So let's see. Minus 30. I didn't have to do that. I could have done
+that in my head. So that gives us 8,455 joules is
+equal to the final energy. And what is all the
+final energy? Well by this time, the rider's
+gotten back to, I guess we could call the sea level. So all of the energy
+is now going to be kinetic energy, right? What's the formula for
+kinetic energy? It's 1/2 mv squared. And we know what m is. The mass of the rider is 90. So we have this is 90. So if we divide both sides. So the 1/2 times 90. That's 45. So 8,455 divided by 45. So we get v squared
+is equal to 187.9. And let's take the square root
+of that and we get the velocity, 13.7. So if we take the square root of
+both sides of this, so the final velocity is 13.7. I know you can't read that. 13.7 meters per second. And this was a slightly more
+interesting problem because here we had the energy wasn't
+completely conserved. Some of the energy, you could
+say, was eaten by friction. And actually that energy
+just didn't disappear into a vacuum. It was actually generated
+into heat. And it makes sense. If you slid down a slide of
+sandpaper, your pants would feel very warm by the time you
+got to the bottom of that. But the friction of this, they
+weren't specific on where the friction came from, but it
+could have come from the gearing within the bike. It could have come
+from the wind. Maybe the bike actually
+skidded a little bit on the way down. I don't know. But hopefully you found that
+a little bit interesting. And now you can not only work
+with conservation of mechanical energy, but you can
+work problems where there's a little bit of friction
+involved as well. Anyway, I'll see you
+in the next video.

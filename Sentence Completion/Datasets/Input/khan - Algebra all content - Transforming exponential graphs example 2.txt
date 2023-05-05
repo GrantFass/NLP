@@ -1,0 +1,28 @@
+- [Voiceover] We're told the graph of y equals two to the x is shown below, so that's the graph. It's an exponential function. Which of the following is a graph of y is equal to negative one times two to the x plus three plus four? They give us four choices down here. Before we even look
+closely at those choices, let's just think about what this would look like if it was
+transformed into that. You might notice that what we have here, this y that we wanna find the graph of, is a transformation of this original one. How do we transform it? We've replaced x with x plus three. Then we multiplied that by negative one, and then we add four. Let's take it step by step. This is y equals two to the x. What I wanna do next is let's graph y is equal to two to the x plus three power. If you replace x with x plus three, you're going to shift the graph to the left by three. That might be a little
+bit counterintuitive, but when we actually
+think about some points, it'll hopefully make some sense here. For example, over in our original graph, when x is equal to zero, y is equal to one. How do we get y equal
+one for our new graph, for this thing right over here? To get y equals one
+here, the exponent here still has to be zero, so
+that's going to happen at x equals negative three. That's going to happen at
+x equals negative three. Y is equal to one. Notice, we shifted to the left by three. Likewise, in our original graph, when x is two, y is four. How do we get y equals four in this thing right over here? For y to be equal to
+four, this exponent here needs to be equal to two,
+and so for this exponent to be equal to two, 'cause
+two squared is four, for this exponent to be equal to two, x is going to be equal to negative one. When x is equal to negative one, y is equal to four. When x is equal to negative one, y is equal to four. Notice we shifted to the left by three. So this thing, which isn't our final graph that we're looking for, is gonna look something like, like that, which shifted,
+it's y equals two to the x, shifted to the left by three. Now let's figure out what the graph of, now let's multiply this
+expression times negative one. Notice we're slowly building up to our goal. Now let's figure out the graph of y is equal to negative one times two to the x plus three. Here, when y equals two
+to the x plus three, if we multiply that times negative one, whatever y we had, we're gonna have the negative of that. Instead of when x is
+equal to negative three having positive one, when
+x equals negative three, you're gonna have negative one. We multiplied by negative one. When x is equal to negative
+one, instead of having four, you're going to have negative four. Our graph is gonna be flipped over, it's flipped over the x axis. It's going to look something like this. This is not a perfect
+drawing, but it'll give us a sense of things, and we can look at which of these graphs match up to that. Then finally, we wanna
+add that four there. We wanna figure out the graph of y equals negative one times two to the x plus three plus four. We wanna take what we just had and shift it up by four. Instead of this being a
+negative one right over here, this is going to be a negative one plus four is three. Instead of this being a negative four, negative four plus four is zero. Instead of our horizontal asymptote being at y equals zero,
+our horizontal asymptote is going be at y equals four. It's gonna look like, let me draw, I can do a better job than that. Our horizontal asymptote is gonna be right over there, so our graph is going to look something like this. We just shifted that red graph up by four. Shifted it up by four. We have a horizontal
+asymptote at y equals four. Let's look at which of
+these choices match that. Choice A right over here
+has a horizontal asymptote at y equals four, but it is shifted on the horizontal
+direction inappropriately. In fact, it looks like it might have not been shifted to the left. We can rule this one out. Let's rule that one out. This one over here, this one approaches our
+asymptote as x increases, so that's not right. It should approach our asymptote as x decreases, so we ruled that one out. Choice C looks like what we just graphed. Horizontal asymptote at x equals four. When x equals negative
+three, y is equal to three. That's what we got. When x is equal to negative one, y is equal to zero. This looks right. You could even try those points out. We like choice C. D is clearly off.

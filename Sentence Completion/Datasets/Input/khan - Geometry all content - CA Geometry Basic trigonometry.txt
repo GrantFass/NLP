@@ -1,0 +1,118 @@
+We're on problem 61. It says the point minus 3,
+2 lies on a circle whose equation is x plus 3 squared
+plus y plus 1 squared is equal to r squared. Which of the following must be
+the radius of the circle? So the way to think about it
+is, is that this point satisfies this equation. Any point on the equation will
+satisfy both sides of this equality sign. So all we have to do is
+substitute the x and the y here and see what r squared
+has to be equal to. So let's do that. If we substitute the
+minus 3 in for x. You get minus 3, I just
+substituted for the x. Plus 3 squared plus,
+now y, y is 2. 2 plus 1 squared is equal
+to r squared. Minus 3 plus 3, that's just 0. 0 squared is 0. And then 2 plus 1 squared. So 3 squared is equal
+to r squared. You could say r squared is equal
+to 9 and then r is equal to 3 because you can't have
+a negative radius. We see immediately that
+r is equal to 3. So all you have to
+do is substitute the x and the y values. Because any point that satisfies
+this equality is on the circle, defined
+by this equation. They say this point is on the
+circle, so you just have to substitute them in and
+just solve for r. Problem 62. Looks like we're going to
+do some trigonometry. In the figure, below if sine
+of x is equal to 5 over 13 what are the cosine of x
+and the tangent of x? And I don't know if you've seen
+the basic trigonometry videos, you might want to. But a good mnemonic for
+memorizing sine, cosine and tangent is SOHCAHTOA. And that means SOH is sine is
+equal to to opposite over hypotenuse. Cosine is equal to adjacent
+over hypotenuse. And I'll tell you what these
+mean in a second. And tangent, you might have
+guessed, is equal to opposite over adjacent. So what does that mean? What is all of this mnemonic? So just you might want to
+remember SOHCAHTOA. Then you could break
+it down like that. So if I took the sine
+of this angle. That means the opposite side
+of this angle over the hypotenuse is equal to the
+sine of this angle. Let's call this the opposite. This is the hypotenuse. This is the adjacent side. Because it's adjacent
+to the angle. This one is opposite,
+hypotenuse, adjacent. So the sine of x is equal to,
+we know from our mnemonic SOHCAHTOA, opposite
+over hypotenuse. And they tell us that that
+is equal to 5/13. So opposite over hypotenuse
+is equal to 5/13. Now we know that that's just
+the ratio between the two. So we don't know. This could be 10, this
+could be 26. This could be 1 and this
+could be 13/5. Who knows. That actually doesn't matter. That's what's neat about
+trigonometry. It's all about the ratio. So let's just assume
+that this is 5. That the opposite
+is equal to 5. And the hypotenuse
+is equal to 13. Let me pick a different color. This is a little nauseating. All right. So if the opposite soon. is 5
+and the hypotenuse is 13, what would the adjacent
+be equal to? We could use the Pythagorean
+theorem. So we could say the
+adjacent squared. A squared plus the
+opposite squared. So plus 5 squared, plus 25. Is equal to 13 squared. 13 squared is 169. If you subtract 25 from both
+sides of this equation, you get a squared is equal to 144. A is equal to 12. We don't know that a is
+definitely equal to 12. But we know that the ratio
+of the opposite to adjacent is 5 to 12. Because we just assumed that
+the opposite is 5. Anyway, so they want to know
+what are cosine of x and tangent of x. So CAH. SOHCAHTOA. Cosine of x is equal to the
+adjacent over the hypotenuse. The adjacent is 12. Hypotenuse is 13. So it's equal to 12/13. That's the cosine of x. And the tangent of x is equal
+to opposite over adjacent. TOA, opposite over adjacent. So opposite is 4,
+adjacent is 12. Equal to 5/12. And let's see what
+choice that is. That's choice A, cosine
+of x is 12/13. Tangent of x is 5/12. Next question. Looks like they want us to learn
+a lot of trigonometry and geometry. Which is good. This is getting you warmed
+up for the trig. In the figure below, sine
+of A is equal to 0.7. So let's call this angle a. They say what is the
+length of AC? So we want to know that. Let's call that x. So SOHCAHTOA. SOH tells us that sine of some
+angle, let's call that theta, is equal to the opposite
+over the hypotenuse. So sine of A, in this example,
+is going to be equal to the opposite, 21, over the
+hypotenuse, over x. And they tell us that the sine
+of A is equal to 0.7. So now we can just solve this
+equation for x and we're done. Let's see. So if you multiply x times
+both sides, you get 21 is equal to 0.7x. And you divide both
+sides by 0.7. You get 21/0.7 is equal to x. 21 divided by 7 is 3. So 21 divided by 0.7 is 30. So x is equal to 30. And that's length AC. That's choice C. Next question. 64. Approximately how many feet
+tall is the street light? OK, so we can use some
+trigonometry here. So if we know this angle, and
+they give us the all of the trig ratios for that angle,
+we're trying to figure out the height. So if I write SOHCAHTOA, what
+are we trying to figure? So they gave us the adjacent. This is adjacent to the angle,
+it's right beside it. The height that we're
+trying to figure out, this is the opposite. So if we can have a trig you
+function that deals with the opposite and the adjacent. Well that's tangent. TOA. Tangent of any angle
+is equal to the opposite over the adjacnet. In this case, tangent of 40
+degrees is going to be equal to the opposite, the opposite is
+h, that's what we're trying to solve for, over
+the adjacent. The adjacent is 20 feet. OK, tangent of 40 degrees isn't
+something that most people have memorized, that's OK
+because they gave it to us. Tangent of 40 degrees is 0.84. So we get 0.84 is
+equal to h/20. So we can multiply both sides of
+that by 20 and we get h is equal to 20 times 0.84. And that is equal to 16.8. And that is choice C. Problem 65. Right triangle ABC is
+pictured below. Which equation gives the
+correct value for BC? So this is what they want
+us to figure out. This is BC right there. OK, let's read them. Let me write SOHCAHTOA, I
+actually do this a lot. OK, so they're saying that the
+sine of 32 degrees is equal to BC over 8.2. Is that right? Sine is opposite over
+hypotenuse. BC is definitely the opposite. 8.2 is not the hypotenuse,
+10.6 is the hypotenuse. So they're doing, this
+is the adjacent. So this is wrong. So this should be a tangent. Tangent of 32 is equal
+to BC over 8.2. This is the adjacent side,
+adjacent to 32 degrees. That's the opposite, and
+that's the hypotenuse. So that's not right. Choice B, cosine of 32. Cosine is adjacent
+over hypotenuse. So cosine of 32 should
+be 8.2/10.6. So this should be an 8.2 here. So this isn't right. OK, so the next one, tangent
+of 58 degrees. Where are they getting
+that 58? Well, they know that this is
+32, this is 90, so this is going to be 180 minus
+32 minus 90. Because the angles in a triangle
+add up to 180. So this angle right
+here is 58. And now if we use that angle,
+we have to relabel opposite and adjacent and all that. So from this angle's point
+of view, tangent is opposite over adjacent. So if we write the tangent of
+58 is equal to the opposite side, should be equal
+to 8.2 over its adjacent side, over BC. This is adjacent
+to this angle. It was opposite this
+angle, but BC is adjacent to this angle. So that's what they wrote. So choice C is correct. And we're done. I'll see you in the
+next video. Well we're not done with
+the whole thing. I'm done with this video. See

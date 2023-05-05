@@ -1,0 +1,27 @@
+- [Voiceover] So, we want to evaluate the definite integral from
+negative one to eight of 12 times the cube root of x dx. Let's see, this is going
+to be the same thing as the definite integral from negative one to eight of 12 times, the cube root is the same thing as saying
+x to the 1/3 power dx and so now, if we want to
+take the antiderivative of the stuff on the inside, we're just going to do
+essentially the power rule, it conduces the power rule of integrals or it's the reverse of the
+power rule for derivatives, where we increase this exponent by one and then we divide by
+that increased exponent. So, this is going to
+be equal to 12 times x to the 1/3 plus one. Let me do that in another color, so we can keep track of it. X to the 1/3 plus one and
+then we're going to divide by 1/3 plus one and so,
+what's 1/3 plus one, well, that's 4/3, 1/3
+plus 3/3, that's 4/3. So, I could write it this way. I could write this x to the 4/3 divided by 4/3 and this is going to be and I'm going to evaluate
+this at the bounds. So, I'm going to evaluate this at and I'll do this in different colors, I'm going to evaluate it at eight and I'm going to evaluate
+it at negative one and I'm going to subtract
+it and evaluate it at negative one from this
+expression evaluated at eight, and so what is this going to be equal to? Well, actually, let me
+simplify a little bit more. What is 12 divided by 4/3? So, 12, I'll do it right, well, I'll do it right over here, 12 over 4/3 is equal to 12 times 3/4, which will give you as 12/1 times 3/4, 12 divided by four is three, so this is going to be equal to nine, 3/4 of 12 is nine. So, this, we could rewrite this, we could write this as
+nine x to the 4/3 power. So, if we evaluate it at eight, this is going to be nine times eight to the 4/3 power and from that, we're going to subtract and
+evaluate it at negative one. So, this is going to be
+nine times negative one to the 4/3 power. So, what is eight to the 4/3 power? I'll do it over here. So, eight to the 4/3 is equal to eight to the 1/3 to the fourth power, these are just exponent properties here. Eight to the 1/3, the cube root of eight, or eight to the 1/3 power, that's two, 'cause two to the third power is eight and two to the fourth power, well two to the fourth
+power is equal to 16. So, eight to the 4/3 is 16
+and what's a negative one to the 4/3? Well, same idea, negative one to the 4/3 is equal to negative one, there's several way you could do it. You could say negative one to the fourth and the cube root of that, or the cube root of negative one and then raise that to the
+fourth power, either way. So, let's do it the first way. Negative one to the fourth and then take the cube root of that. Well, negative one to
+the fourth is just one and then one to the 1/3 power, well that's just going to be equal to one. So, what we have here in blue, that's just equal to one. So, we have nine times
+16 minus nine time one, well, that's just going
+to be nine times 15. We have 16/9 and then we're
+going take away a nine, so that's going to be nine times 15, so what is that? That is going to be equal to nine times 15 is 90 plus 45, which is equal to 135, 135 and we're done.

@@ -1,0 +1,157 @@
+Let's graph another rational
+function, because you really can't get enough
+practice here. So let's say we have y is equal
+to x over x squared minus x minus 6. So the first thing we might want
+to do is just factor this denominator so we can identify
+our vertical asymptotes, if there are any. So what two numbers when I
+take their product I get negative 6 and if I add them
+up I get negative 1? So they have to be of
+different signs. So one's going to be a plus and
+one-- let me write my x's a little bit neater than that--
+so one is going to be a positive and one is going
+to be a negative. A 2 and a 3 seem to be pretty
+close, because they're one apart, and I'm going to subtract
+the larger number because when I add them,
+I get a negative. So x minus 3 times x plus
+2 seems to work. That gets negative 6. Negative 3x plus 2x. negative 3 times x
+plus 2 times x is negative x, so that works. So this is equal to x over
+x plus 2 times x minus 3. And like we saw in the last
+video, since these expressions, since the x plus
+2 doesn't cancel out with anything in the numerator and
+the x minus 3 doesn't cancel out with anything in the
+numerator, we know that these can be used to find our
+vertical asymptotes. The vertical asymptotes are when
+either that term is equal to zero or when that term is
+equal to zero, because at those points, our equation
+is undefined. So this is equal to zero when x
+is equal to negative 2, and this is equal to zero when
+x is equal to positive 3. And you could try it out here. If x is equal to negative 2 or
+positive 3, you're going to get a zero in the denonminator, y will be undefined. So vertical asymptotes at x
+is equal to negative 2. So there's a vertical asymptote,
+a vertical asymptote right there. Another vertical asymptote
+is x is equal to 3. One, two, three. There is our other vertical
+asymptote. Now let's think about horizontal
+asymptotes, or if there are any. So what happens as x gets
+super-positive or super-negative? And as we said before, you
+just have to look at the highest degree term on the
+numerator and the highest degree term on the
+denominator. Now, notice the highest degree
+term on the denominator is x squared, while the highest
+degree term on the numerator is only an x. So when x gets really large,
+what's going to happen? You could imagine, this is going
+to be like a million over a million squared, which
+is still one over a million. These terms over here
+don't matter much. But this term right here is
+going to grow faster than everything. This is an x squared term. As x gets large, it's going
+to get way larger than everything, including this
+term on the top, so it's essentially going
+to go to zero. When the denominator just gets
+bigger, faster than the numerator as you're going
+to approach zero. So we have a horizontal
+asymptote at y is equal to 0. I could draw it as a dotted
+line over our x-axis. So that right there is the
+line, y is equal to 0. Once again, we identify that
+looking at the highest degree term there. The denominator has a
+higher-degree term, so it's going to grow faster
+than the numerator. You could try it out
+on your calculator. And that's true whether you
+go in the super-negative direction or the super-positive
+direction. This thing is going to overwhelm
+this thing up here, the denominator grows faster
+than the numerator, which essentially we're going
+to approach zero. You're going to get smaller
+and smaller fractions. Just remember, 1/10 and then--
+let me actually just-- as x gets larger and larger
+and larger, what's going to happen? Let me just show you
+on my calculator. Let's say x is equal to 10. 10 divided by 10 squared minus
+10, and normally you wouldn't have to do this. I just really want to show
+you the intuition. Whoops! I'm not trying to graph. Let me exit from here. So if we have 10 over 10 squared
+minus 10, once again, you normally wouldn't
+have to do this. I just want to show you,
+give you the intuition. Let me put some parentheses
+there. Let me put some parentheses
+over here. So let me insert the parentheses
+there and put a parentheses over here. You get a small number. What happens if x gets
+even larger? Let me make, instead of a 10,
+let me make it all 100. Let me make these tens into
+hundreds, into 100. Insert 100 there,
+what do we get? We get even a smaller number. And if you try x is equal to
+1,000, it's going to be be even smaller than that. That's because this term right
+here is growing faster than every single other term. That's why our horizontal
+asymptote is y is equal to 0. Now, the last thing we want to
+do, we've drawn all of our asymptotes, is just try
+out some points. So let's draw like a
+little table here. There's our table. When x is equal to
+0, what is y? x is 0, we have 0 over
+all of this. 0 minus 6, 0 over negative
+6 is just 0. When x is equal to-- I don't
+know, let's just try when x is equal to 1, what do we have? We have 1 over-- I'll
+write it here. 1 over 1 squared minus 1. Now that's just 0, so
+we have negative 6. When x is equal to negative
+1, what do we have? When x is equal to negative
+1, we have negative 1 over negative 1 squared, which
+is 1 minus negative 1. So that's plus 1-- right, minus
+negative 1-- minus 6. So what is this right here? This is negative 1, so this is
+going to be negative 1 over 2 minus 6 over negative 4. This is going to be equal to
+1/4, so we're going to get a positive value. So we have-- let me draw this--
+negative 1, we're at 1/4 right here. That's about right there. I'll do it in a darker color. We had the point 0, 0, and then
+at x is equal to 1, we had negative 1/6. So you could keep graphing more
+and more points, but it looks like as we approach this
+vertical asymptote from the right, we go to positive
+infinity. And that should make sense. Let's see, if we were to put
+in-- we're approaching negative 2 from the right. So if you were to put in
+negative 1.9999999, this term is going to be a very small
+positive number. This term's going to be
+a negative number. This term's going to
+be negative number. The negatives cancel out. You have a very small positive
+number in the denominator. 1 over that gives you a
+very positive number. Now, as we approach the other
+vertical asymptote from the left, we're going to
+go super-negative. My gut tells me that because
+when I tried x is equal to 1, I already went to a
+negative value. But you could imagine if
+you did 2.99999, right? Let me draw that a little
+bit better. You get the idea. If x is equal to 2.999, so we
+get really close to the asymptote, this is going to be
+positive, this is going to be negative, that's going to be
+positive, and this is going to be a small number. So you're going to have 1 over
+a very small negative number, which is a very, I guess,
+negative number. It's a negative of 1 over a very
+small number, so you're going to approach negative
+infinity. Now, let's try some point out
+here to see what happens. So what happens when
+x is equal to 4? When x is equal to 4, you have
+4 over 16 minus 4 minus 6. What is that? That's 16 minus 10. That is 6. So this is equal to 4/6,
+which is equal to 2/3. So the point 4, 2/3 is here,
+so one, two, three, four. 2/3, just like that. So that gives me the sense,
+look, I have to approach this horizontal asymptote as we go
+further and further out. We're going to probably
+approach positive infinity like this. Let me draw it a little
+neater than that. Like that. You get the idea. Then over here, we're going to
+get closer and closer to our horizontal asymptote as
+we approach infinity. This should be a
+smoother-looking curve right around there. I'm making a mess here. This should be a
+smoother-looking curve. You get the idea, I think. Now, let's see what happens when
+x is equal to negative 3. So when x is equal to negative
+3, we have negative 3 over negative 3 squared, which is 9
+minus negative 3, so that's plus 3 minus 6. So what is this equal to? This is equal to negative 3
+over-- this is 12 minus 6 over 6, right, which is equal to
+negative 1/2, So negative 3, negative 1/2. Negative 1/2 is right there. So we're going to approach
+this asymptote as we get really negative. And we're probably going to go
+straight down like that as we approach this vertical asymptote
+right there. And you could try more points
+if you don't believe me. But let us graph it just to
+verify it for ourselves. So our equation is x divided by
+x squared minus x minus 6. And let's graph it. And there you go. There you go. All right, looks pretty good. Our asymptote is zero,
+we go down. Vertical asymptote, bam! Go up there, then we go back
+down here, then we go just like that again. So once again, this looks just
+about exactly what we got. Obviously, the graphing
+calculator, it kind of a pitters out as you get close
+to these values and it does weird things, but it has
+the same general shape. We could actually close the
+range a little bit if we want, if we want to graph it. Let's make our x minimum
+value, let's make it 5. And let's take our x maximum
+value, let's make that 5 as well. We're kind of zooming
+in a little bit. So let's graph it now. Bam! bam! There you go! It's the same shape as we
+graphed right here. Hopefully, you found
+that satisfying.

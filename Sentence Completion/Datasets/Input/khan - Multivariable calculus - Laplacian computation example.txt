@@ -1,0 +1,31 @@
+- [Voiceover] In the last
+video, I started introducing the intuition for the Laplacian operator in the context of the
+function with this graph and with the gradient
+field pictured below it. And here, I'd like to go
+through the computation involved in that. So the function that I
+had there was defined, it's a two-variable function. And it's defined as f(x,y) is equal to three plus cos(x/2) multiplied by sin(y/2). And then the Laplacian which we define with this right side up triangle is an operator of f. And it's defined to be the divergence, so kind of this nabla dot times the gradient which
+is just nabla of f. So two different things going on. It's kind of like a second derivative. And the first thing we need to do is take the gradient of f. And the way we do that, we kind of imagine expanding this upside down triangle as a vector full of partial
+differential operators: partial partial x and partial partial y. And with a gradient,
+you just kind of imagine multiplying that by the function. So if you imagine multiplying that by the function, what it looks like is just a vector full
+of partial derivatives. So you're taking the partial of f with respect to x and the partial of f with respect to y. Those are the two different components of this vector-valued
+function that is the gradient. And in our specific example, when we take the partial derivative of f with respect to x what we get, is we look over here. Three just looks like a constant, so nothing happens. Cos(x) halves. The derivative of that with respect to x, we kind of take out that 1/2. So 1/2, and the derivative of cos is -sin. So that's -sin(x/2). And sin(y/2), well, y just
+looks like a constant. So sin(y/2) is just some other constant. So in our derivative, we just
+keep that constant in there, that sin(y/2). And then, for the second component, the partial derivative of f with respect to y. Three still looks like a constant cause it is a constant. Now, cos(x/2) looks like a constant because as far as y is concerned, x is a constant. So cos(x) is a constant. But then, the sin(y)
+has a derivative of cos. And we also take out that 1/2. So you take out that 1/2 when you take the derivative of the inside and then the derivative of the outside is cosine of whatever was in there. So in this case, y/2. And we're multiplying it
+by that original constant, cos(x/2). So, still we have our cos(x/2) since it was a constant times
+a certain variable thing, x/2. So that's the gradient. And then, the next step here is to take the divergence of that. So with the divergence,
+we're going to imagine taking that del operator
+and dot producting with this guy. So if I scroll down to
+give some room here, we're going to take that, that vector that's kind
+of the same vector, the partial partial x. And I say vector, but vector-ish thing, partial partial y. And now we're going to take the dot product with this entire guy. So I'll go ahead and just copy it over. Just kind of copy it over here. And let's see. So, I need a little bit
+more room to evaluate this. So here, when you imagine
+taking the dot product, you kind of multiply these
+top components together. So we're taking the partial derivative with respect to x of this whole guy. And when you do that, well you get, you still have that 1/2 and then the derivative of -sin(x/2). So that 1/2 gets pulled out when you're kind of taking the derivative of the inside. And the derivative of -sin is -cos. So -cos of that stuff on the inside, that x/2. And of course, we still
+multiply it by this. This looks like a constant, the sin(y/2). And we multiply by that, sin(y/2). And then we add that because it's kind of like a dot product. You add that to what it looks like when you multiply these
+next two components. So we're going to add. And you have that 1/2. And then cos(y/2), when
+we differentiate that you also pull out the 1/2. So again, you have that pulled-out 1/2. And the derivative of cos is -sin. So now we're taking -sin of, and then that stuff on the inside, y/2. And we continue multiplying
+by the constant. As far as y is concerned,
+cos(x/2) is a constant. So we multiply it by that, cos(x/2). And then that, so that is the divergence of that gradient field. So the divergence of the gradient of our original function
+gives us the Laplacian. And in fact, we could
+simplify this further because both of these terms kind of look identical. But the main point of this video is kind of how you go through that process where you imagine taking the gradient of your function and then
+the divergence of that. And that's what the Laplacian is. See you next video.

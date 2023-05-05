@@ -1,0 +1,61 @@
+We're asked to factor this
+expression by grouping. Now, they mention grouping,
+we're going to see what grouping is, but we're going
+to see very quickly that we have to do this thing called
+grouping because you can't just factor this expression. If you look at these, each of
+the terms, all but one of them is divisible by 5. So you can't just
+factor out a 5. Not all of them are divisible
+by either r or s. This is only divisible by r,
+that's only divisible by s, that's divisible by neither. So there is no common factor
+across all four of these terms. That's why we have to
+group them into groups where there are common factors, and
+then see if that simplifies the whole thing. And there is a little bit of an
+art to recognizing when you can factor by grouping, but
+they've set this problem up nicely for us. So if you look at these first
+two terms right here. You have a 5rs and a 25r. These two guys clearly have
+some common factors. They're both divisible by 5,
+they're both divisible by r. So if I just wanted to factor
+this one out, or if I wanted to rewrite it as a product
+of two expressions, how could I write it? Well, I could write it as a
+product of 5r times-- what's 5rs divided by 5r? Well, you still have
+an s left over, you just have an s there. Plus-- what's 25r
+divided by 5r? Well, 25 divided by 5 is 5, and
+r divided by r is just 1. So 25r over 5r is 5. So these first two terms can
+be factored into these two expressions. And then let's look at these
+second two terms. Well, they definitely have a common factor,
+you have a negative 3 or positive 3 common
+to both of these. Let's just go with
+the negative 3. And our goal is really to factor
+it into a negative 3 times, hopefully, something
+very similar to s plus 5. And you might already be seeing
+that it's going to factor into s plus it. 5. So let's factor out
+that negative 3. So these two terms you can
+rewrite as negative 3 times-- what's negative 3s divided
+by negative 3? Well, you're just going to
+have an s left over. And then what's negative 15
+divided by negative 3? Well, that's just positive 5. And just like that, we've
+grouped them and we're able to factor each of those groups, and
+then something interesting might pop out at you. And one, you can always verify
+that you factored this properly by distributing each
+of these expressions. Distributing the 5r times s
+plus 5, and the negative 3 times s plus 5, you'll
+get exactly this. But something maybe jumped
+at out you just now. You have 5r times s plus 5. Then you have negative
+3 times s plus 5. So now this expression, we
+have two terms instead of four, right, this is one term,
+this is another term. And they both have s plus 5 as a
+common factor, so we can now factor out s plus 5. So this whole thing can
+be rewritten as s plus 5 times 5r. Right? If you take 5r times s plus 5,
+and you factor out the s plus 5, you're just left
+with the 5r. And then similarly, if you take
+negative 3 times s plus 5, and you factor out the s plus
+5, or divide by s plus 5, you just have a negative
+3, just like that. And then we're done! We've factored this expression
+by grouping. It's s plus 5 times
+5r minus 3. And you can verify it by
+multiplying it out. If you distribute the s plus
+5 onto each of these terms, you'll get this expression
+up here, and then if you distribute the 5r over there
+you're going to get that expression. If you distribute the negative
+3, you're going to get that expression. So this does simplify to that,
+so we have factored

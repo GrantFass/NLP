@@ -1,0 +1,74 @@
+Voiceover: Consider the
+following, Alice and Bob have figured out how to transmit messages between their treehouses. At first, they used flames at night and shutters during the day. Then they used a wire, which
+they plucked in different ways. Eventually, they electrified
+this wire to send electrical pulses and were now at work on an experimental wireless method. The problem is, in order
+to pay for their equipment, they needed money. So, they decided to offer their
+service for a fee to others. And on the first day, Alice
+had three new customers who wanted to transmit messages to their friends over at Bob's treehouse. The first customer wanted to
+send a list of 10 coin flips, the second customer wanted
+to send a six-letter word, and the third customer
+wanted to send a poker hand. The question now is, how
+much should she charge? Well, the price of a
+message should depend on how long it takes Alice to transmit it. But how could she measure the length of different types of
+messages using a common unit? To find out, let's play a game. Imagine you were Bob now, and you know Alice wants
+to send you these messages, but all you can do is get the answer to yes or no questions you've arranged. Alice will answer by sending a sequence of zeros or ones, using some method of variation. Recall that all their
+methods of transmission involved the exchange of differences. So, a one could be
+represented by an open flame or an open shutter or an electrical pulse. No matter how they are manifested, we can simply call them binary digits, because a binary digit can have only one of two values, zero or one. So, let's say zero represents
+a no and one represents a yes. Your challenge now is to always ask the minimum number of questions in order to determine the exact message. First, let's consider the coin flips. For each symbol, the sender, Alice, can be thought of as selecting one of two different
+symbols, heads or tails. Now, how many questions do you need to ask to determine which she selected? One question such as, is
+it heads, will suffice. For 10 flips, what is the
+minimum number of questions? Well, 10 flips times one question per flip equals 10 questions or 10 binary digits to transmit this message. Next, let's consider the letters. For each symbol, the sender, Alice, can be thought of as selecting
+one of 26 different symbols. Let's start with the simplest
+message, which is one letter. How many questions are needed? Is it A? Is it B? Is it C? Is it D? And so on, but that is not the
+minimum number of questions. The best you could do is ask questions which eliminate half of the possibilities. For example, the middle of the
+alphabet is between M and N. So, we could first ask, is it less than N? If we receive a one, yes, we cut out half of the possibilities,
+which leaves 13 left, and since we can't split a letter in half, we divide the possible symbols into sets of six and seven and
+ask, is it less than G? We receive a one, which is yes, and now we are left with
+six possible letters, and we can split them in half
+and ask, is it less than D? We receive a zero, which is no, leaving us with three possible letters, and now we can pick a
+side and ask, is it D? We receive a zero, which is no, and finally we are left
+with two possibilities. We ask, is it E? We receive a no, and after five questions, we have correctly
+identified the symbol, F. Realize that we will never need to ask more than five questions,
+so the number of questions will be at least four and at
+most five, and in general, two to the power of number of questions equals the number of possible messages, which we previously defined
+as the message space. So, how can we calculate the exact average or expected number of questions, given a message space of 26? We ask the reverse question. Two to the power of something equals 26, and to answer these types of questions, we naturally use a logarithmic
+function, base two, because log base two of 26 is the exponent two needs to be raised to, to give us 26, which is approximately 4.7. So, on average,
+approximately 4.7 questions will be needed per letter at minimum, and since she wants to transmit
+a word with six letters, Bob can expect to ask, at
+minimum, 28.2 questions, which means Alice will need to send, at most, 29 binary digits. Finally, let's apply this formula to a new message, the poker hand. Well, for each symbol, the sender, Alice, can be thought of as selecting one of 52 different symbols, and in this case, the number of questions is the same as the number of times we
+need to split the deck and ask Alice which pile it is in, until we are left with one
+card, which we will find is usually six splits or
+questions and sometimes five. But we can save time and
+just use our equation. Log base two of 52 is approximately 5.7, since two to the power of
+5.7 is approximately 52. So, the minimum number of questions on average is 5.7 per card. A poker hand contains five cards. So, to transmit a poker hand requires 28.5 questions on average. We are done. We now have our unit. It's based on the minimum
+number of questions to define the message or the
+height of the decision tree, and since Alice transmits this
+information as binary digits, we can shorten this and
+call our unit the bit, instead of binary digit. So, we have 10 coin
+flips requires 10 bits, the six-letter word requires 28.2 bits, and the poker hand requires 28.5 bits. Alice then decides to
+charge one penny per bit and begins collecting her fees. Now, this idea emerged in the 1920's. It was one of the more abstract problems that communication engineers
+were thinking about. Ralph Hartley was a prolific
+electronics researcher who built on the ideas of Harry Nyquist, both of whom worked at Bell
+Labs after World War I, and in 1928, Hartley published
+an important paper titled, The Transmission of Information, and in it he defines the word information using the symbol H, as H equals
+N times the logarithm of S, where H is our information,
+N is the number of symbols, whether they're notes,
+letters, numbers, etc., and S is the number of
+different symbols available at each selection, and
+this can also be written as H equals the logarithm
+of S to the power of N, and Hartley writes,
+"What we have done then is to take as our practical
+measure of information the logarithm of the number
+of possible symbol sequences." So, information is the
+logarithm of the message space; however, realize that
+throughout this lesson we have been assuming that the
+symbol selection is random, convenient simplification;
+however, we know that in reality most communication, such as
+speech, isn't always random. It's a subtle mix of
+predictability and surprise. We do not roll dice when we write letters, and it is this predictability
+which can result in significant savings in
+the length of transmission, because when we can
+predict things in advance, we shouldn't need to ask
+as many yes or no questions to define it, but how
+could we formally model this subtle difference? This question brings us to
+the key insight in our story. Can you think of what it might be?

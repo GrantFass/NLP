@@ -1,0 +1,166 @@
+So we're going back to
+our little burger stand where we had our demand curve
+in terms of burgers per hour. And now, I want to
+think about something from the perspective
+of our burger stand. And think about,
+at any given point on this demand curve, how much
+revenue would we get per hour. And when I talk about revenue,
+for simplicity, let's just think that's really just
+how much total sales will I get in a given hour. So let me just write
+over here total revenue. Well, the total
+revenue is going to be how much I get per burger times
+the number of burgers I get. So the amount that I
+get per burger is price. So it's going to
+be equal to price. And then the total number
+of burgers in that hour is going to be the quantity. Pretty straightforward. If I sell 10 things
+at $5, I am going to get $50 of revenue,
+$50 of sales in that hour. Now, let's think about
+what the total revenue will look like at different
+points along this curve right over here. And actually, let me just
+make a table right over here. So I'll make one column
+price, one column quantity. And then let's make one
+column total revenue. So let's look at a
+couple scenarios here. Well, we could actually
+look at some of these points that we already have defined. At point A over
+here, price is 9. So I'll do it in
+point A's color. Prices is 9. Quantity is 2. $9 times
+2 burgers, $9 per burger times 2 burgers per hour. Your total revenue
+is going to be $18. And you can see it
+visually right over here. This height right
+over here is 9. And this width right
+over here is 2. And your total
+revenue is going to be the area of this rectangle. Because the height is the price. And the width is the quantity. So that total revenue is
+the area right over there. Now, let's go to point--
+let me do a couple of them just to really make
+it clear for us. Let's try to point
+B. So at point B when our price is 8 and our
+quantity is 4, 4 per hour. Our total revenue is
+going to be 8 times 4 which is $32 per hour. And once again, you
+can see that visually. The height here is 8. And the width here-- so the
+height of this rectangle is 8. And the width is 4. The total revenue is
+going to be the area. It's going to be the height
+times the width just like that. Now, let's go to a point that I
+haven't actually graphed here. Actually, let me
+just-- actually, I'll go through all the
+points just for fun. So now at point C, we have 5.50. 5.50 is a price. The quantity is 9. 9 times 5.50. 9 times 5 is $45. And you have another 4.50. So that is 49.50. So once again, it's going to
+be the area of this rectangle. Area of that rectangle
+right over there. So you might already be
+noticing something interesting. As we lower the price, at least
+in this part of our demand curve, as we lower the
+price, we are actually increasing not just
+the quantity were increasing the total revenue. Let's see if this
+keeps happening. So if we go to point D, I'll
+do it in that same color. We have 4.50. And we are selling 11 units. So 11 times 4.50. Let's see, this is going
+to be 44 plus 5.50. Once again, that is 49.50. So that this rectangle is
+going to have the same area as that pink one that we
+just did for scenario C. And I'll actually just
+do one more down here, just to see what happens. Because this is interesting. Now we lower the price. And it looks like things
+didn't change much. And now, let's go-- let's
+just do one more point actually for the sake of time. Point E. And I encourage
+you to try other ones. Try F on your own. Point E, my price
+is $2 per burger. My quantity is 16
+burgers per hour. I sell a total of 32 burgers. Now actually, let's
+just do the last one, F, just to feel a
+sense of completion. So $1 per burger. I sell 18 burgers per hour. My total revenue, when you
+multiply them, is $18 per hour. And once again, that's the
+area of this rectangle, this short and fat
+rectangle right over here. And E was the area--
+the total revenue in E was the area of that
+right over there. And you could graph
+these just to get a sense of how total
+revenue actually changes with respect
+to price or quantity. Lets plot the total revenue
+with respect to quantity. So let's try it out. So if you-- let me plot it out. So this is going to
+be total revenue. And this axis right over
+here is going to be quantity. And we're going to, once
+again, go from-- let's see. This is 0. This is 5. This is 10. This is 15. And this is 20 right over here. And then total revenue. Let's see, it gets as high--
+it gets pretty close to 50. So let's go. This is 10 20, 30, 40, and 50. So that's 50, 40,
+30, 20, and 10. So when our quantity is
+2, and our price is 9. Well, we don't have price on
+this axis right over here. But when our quantity is
+2, our total revenues 18. So it's going to be
+something like there. Then, when our quantity is
+4, our total revenue is 32. Right about there. Then, when our quantity is 9,
+our total revenue is almost 50. So right over there. And then, when
+it's 11, it's also at that same point
+right over there. And then, when we are quantity
+is 16, our total revenues 32. 16. So 32. Right there. And then finally, when
+our quantity is 18, our total revenue is 18. And what you see is
+that it's plotting out a curve that looks like this. And if you remember
+some of your algebra 2, this is a concave downwards
+parabola right over here. And you can see
+there was actually some point at which you could
+maximize your total revenue. And if you really tried
+all the points here, you would see that
+maximum point is if you tried this point
+right over here, right at price 5 and quantity 10. At price 5 and quantity 10, in
+that hour, you would sell $50. So this is the maximum
+point right over there $50. Now, the whole reason why
+I'm talk think about this. I could have talked about this
+independently of any discussion of elasticity just to see how
+total revenue relates to price and quantity at different
+points on the demand curve. But there is an
+interesting relationship. In that very first
+video, and we actually used this exact
+demand curve for it. When we explored
+elasticity, we saw that up here at this
+part of the curve-- let me do this in
+a different color. At this point of the curve in
+orange for any change-- when you do a change in your price
+since the prices are pretty high, that is a much
+lower percent change in price than the impact
+that you get on quantity. Because over here, although
+they look like they're close. Or I should say the absolute. For every 1 that down
+we move in price, we're moving 2 up quantity. But that 1 down in price is a
+very small percentage of price because our prices
+are high here. And it's a very large percentage
+of quantity right over here. So you get huge changes
+in percent quantity for very small changes in price
+in this part of the curve. So this part of the
+curve is elastic. Or you could say that its
+price elasticity for demand is greater than 1. You get larger changes
+in percent quantity for a given change
+in percent price. Now, these parts of the
+curve down here, we saw is the opposite's happening. You move 1 down, 1
+unit down in price, you move 2 units to
+the right in quantity. But over here, price
+is a much lower. So this is a much larger
+percentage change in price. And this is a much smaller
+percentage change in quantity. So you get large
+percentage changes in price for small percentage
+change in quantity. That means that here, you
+are relatively inelastic. And then right over here,
+right at this point, right in this region,
+right over here, we saw that we
+had unit-- we were unit elastic right over there. So there's an interesting
+relationship going on. While we were, so
+while we were elastic, this part right over
+here, when we lowered price in this region. While we were elastic,
+when we lowered price, we got increases in revenue. So let me write this down. And this is generally,
+too, there's a couple of boundary
+cases on the math that make it a little bit, you
+can't make it absolutely true. But while we are elastic, at
+the elastic points of our demand curve, a decrease in price. Price goes down. Total revenue was going up. You do a price cut on this
+part of the demand curve, you get more revenue. Then, when you are at unit
+elasticity, what was happening? At unit elasticity, you were
+right at this point right over here. Right at this point over here. And roughly, when
+you do a price cut-- and I'm going to say
+this is roughly true-- your total revenue
+stays constant. But just right at
+that point, right when you're going through
+that unit elasticity point. And then finally, when you are
+inelastic when a large percent changes in price result and
+not so large percent change is in quantity demanded, then
+a price change going down resulted in lower total revenue. Resulted in total
+revenue going down. And this should, hopefully,
+make a little bit of intuitive sense. Because over here, this
+point, if given percent change in price, you were
+getting a larger percent change in quantity. So the percent in
+price went down. Your percent in
+quantity grew even more. So you made up any
+decrease in height with a increase in width. So your area increased. Down here, your decrease
+in percent price wasn't made up for a
+decrease in quantity. So when you made your
+rectangles little bit shorter, you didn't, we weren't
+able to compensate by growing the width as much. And so you actually had a lower
+area, lower total revenue.

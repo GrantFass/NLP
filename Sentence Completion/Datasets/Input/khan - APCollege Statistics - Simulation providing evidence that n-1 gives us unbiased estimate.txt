@@ -1,0 +1,84 @@
+Here's a simulation created
+by Khan Academy user TETF. I can assume that's
+pronounced tet f. And what it allows
+us to do is give us an intuition as to why
+we divide by n minus 1 when we calculate
+our sample variance and why that gives us an
+unbiased estimate of population variance. So the way this starts
+off, and I encourage you to go try this
+out yourself, is that you can construct
+a distribution. It says build a population
+by clicking in the blue area. So here, we are actually
+creating a population. So every time I click, it
+increases the population size. And I'm just
+randomly doing this, and I encourage you to go
+onto this scratch pad-- it's on the Khan Academy
+Computer Science-- and try to do it yourself. So here I could
+stop at some point. So I've constructed
+a population. I can throw out some
+random points up here. So this is our
+population, and as you saw while I was doing
+that, it was calculating parameters for the population. It was calculating
+the population mean at 204.09 and
+also the population standard deviation, which is
+derived from the population variance. This is the square root of
+the population variance, and it's at 63.8. It was also pop plotting the
+population variance down here. You see it's 63.8, which
+is the standard deviation, and it's a little harder to
+see, but it says it's squared. These are these numbers squared. So essentially, 63.8 squared
+is the population variance. So that's interesting
+by itself, but it really doesn't tell us a
+lot so far about why we divide by n minus 1. And this is the
+interesting part. We can now start
+to take samples, and we can decide what
+sample size we want to do. I'll start with really small
+samples, so the smallest possible sample that
+makes any sense. So I'm going to start with
+a really small sample. And what they're going to do--
+what the simulation is going to do-- is every
+time I take a sample, it's going to
+calculate the variance. So the numerator is going to
+be the sum of each of my data points in my sample
+minus my sample mean, and I'm going to square it. And then it's going to
+divide it by n plus a, and it's going to vary a. It's going to divide it
+by anywhere between n plus negative 3, so n minus
+3, all the way to n plus a. And we're going to do it in
+many, many, many, many, times. We're going to essentially take
+the mean of those variances for any a and figure out which
+gives us the best estimate. So if I just generate
+one sample right over there, when we see kind
+of this curve, when we have high values of a, we
+are underestimating. When we have lower
+values of a, we are overestimating the
+population variance, but that was just
+for one sample, not really that meaningful. It's one sample of size two. Let's generate a
+bunch of samples and then average them
+over many of them. And you see when you look at
+many, many, many, many, many examples, something
+interesting is happening. When you look at the
+mean of those samples, when you average together
+those curves from all of those samples, you see
+that our best estimate is when a is pretty
+close to negative 1, is when this is n plus
+negative 1 or n minus 1. Anything less than
+negative 1-- if we did negative n minus
+1.05 or n minus 1.5-- we start overestimating
+the variance. Anything less than
+negative 1, so if we have n plus 0, if we divide
+by n or if we have n plus 0.05 or whatever it
+might be, we start underestimating the
+population variance. And you can do this for
+samples of different sizes. Let me try a sample size 6. And here you go once
+again, as I press-- I'm just keeping Generate
+Sample pressed down-- as we generate more and
+more and more samples-- and for all the a's we
+essentially take the average across those samples
+for the variance depending on how
+we calculate it-- you'll see that once again, our
+best estimate is pretty darn close to negative 1. And if you were to get this to
+millions of samples generated, you'll see that your
+best estimate is when a is negative 1 or when
+you're dividing by n minus 1. So once again, thanks
+TETF, tet f, for this. I think it's a really
+interesting way to think about why we
+divide by n minus 1.

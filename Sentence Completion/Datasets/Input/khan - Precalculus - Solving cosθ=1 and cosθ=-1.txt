@@ -1,0 +1,52 @@
+- [Instructor] In the graph
+below, for what values of theta does cosine of theta equal one, and for what values of theta does cosine of theta equal negative one? And they've very nicely graphed it for us, the horizontal axis is the theta axis, and the vertical axis is the y-axis, and so this is the graph of y
+is equal to cosine of theta. And it makes sense with
+a unit circle definition, and I'll just make sure that
+we're comfortable with that, because with our unit circle definition, so let me draw ourselves a unit circle, and I'm just going to
+draw it very roughly, just so that we get the general idea of what's going on here. When theta is equal to
+zero, we're at this point right over here on the unit circle. Well what's the
+x-coordinate of that point? Well it's one, and you see
+when theta's equal to zero, on this graph, cosine of
+theta is equal to one. When theta is equal to pi over two, we're at this point on the unit circle, and the x-coordinate is what? Well, the x-coordinate there is zero. And you see once again,
+when we're at pi over two, the x-coordinate is zero, so
+this is completely consistent with our unit circle definition. As we move in the rightward direction, we're moving counterclockwise
+around the unit circle, and as we move in the leftward direction, we're moving counter, sorry. If we move in the rightward direction, we're moving counterclockwise, and as we're moving in
+the leftward direction along the axis in the negative angles, we're moving in the
+clockwise, we're moving in the clockwise direction
+around our unit circle. So let's answer their question. For what values of theta does
+cosine of theta equal one? Well we can just read the
+graph right over here. It equals one, so cosine
+of theta equals one, cosine of theta equals one at, at theta is equal to, well,
+we see it right over here. Theta is equal to zero, theta is equal to, well we've gotta go all
+the way again to two pi, two pi, but then it just keeps going on and on, and it makes sense. Theta equaled, or sorry, cosine of theta, the x-coordinate on this
+unit circle equaled one right when we were at zero angle, and we had to go all the
+way around the circle to get back to that point, two pi radians. But then it'll be again when
+we get to four pi radians, and then six pi radians,
+so two pi, four pi, six pi, and I guess you could
+see the pattern here. We're gonna keep hitting
+cosine of theta equals one every two pi, so you could
+really kind of view this as every multiple of two pi. Two pi n, where n is an
+integer, n is integer... is an integer. And that applies also for negative values. If you're going the other way around, if we're going the other way around, we don't get back until
+we get to negative two pi. Notice we were at zero,
+and then the next time we're at one again is at negative two pi, and then negative four pi, and then over and over and over again. But this applies, if n
+is an integer, n can be a negative number, and so we get to all of the negative values of theta where cosine of
+theta is equal to one. Now let's think about when cosine of theta is equal to negative one. So cosine of theta is
+equal to negative one at theta is equal to,
+well we can just look at this graph right over here. Well when theta is equal to pi, when theta is equal to pi, and let's see, well, it kinda goes off this graph, but this graph would keep going like this, would keep going like this, and you'd see it would also be at three pi. And you can visualize it over here. Theta, cosine of theta
+is equal to negative one when we're at this point
+on the unit circle. So that happens when we get to pi radians, and then it won't happen again until we get to two pi, three
+pi radians, three pi radians. And it won't happen again
+until we go to two pi, until we add another two pi, until we make one entire revolution, so then that's going to
+be five, five pi radians. And you can keep going on and on and on, and that's also true in
+the negative direction, so if we take two pi away from this, so if we were here, and if
+we go all the way around back to negative pi, it
+should also be the case, and you actually see it
+right over here on the graph. So you could think about this as two pi, two pi n plus pi, or you could view it as two n plus one, or two n plus one times pi, where pi is, sorry, where n is an integer. Let me right that a little
+bit neater, n is integer. At every one of those points, cosine, or for every one of these
+thetas, cosine of theta is going to keep hitting negative
+one over and over again. And you see it, it goes
+it goes from one bottom, where you can kind of
+valley to the next valley, it takes two pi to get to the next valley, two pi to get to the next valley. And that was also the
+same thing for the peaks. It took two pi to go
+from the top of one hill to the top of the next,
+and then two pi again to the top of the hill after that.

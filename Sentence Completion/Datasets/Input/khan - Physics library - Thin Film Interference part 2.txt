@@ -1,0 +1,104 @@
+This wavelength, this
+just says wavelength, but there's going to
+be a certain wavelength in the air or this material one. I'll call it lambda A. It could be air. It could be anything out here
+that light can travel through. And then it's also going to have a certain wavelength in the oil. And the wavelength in this
+oil is going to be different. I'll call this wavelength B. It's going to be different
+from the wavelength in this first material if
+the speed is different. It could even have a different
+wavelength than the water, but we don't worry about the
+wave traveling down here. So let's not confuse ourselves. Some of the light will pass through here, but it's not necessarily
+going to get back to my I. So I'm not going to worry about this part. Which one do we use in this condition? Do we use the wavelength in the
+first medium, A, in the air? Or do we use the wavelength in the oil? Well, we use the wavelength in the oil. Most definitely, we use
+always this wavelength here. Both of these are always the
+wavelength in the thin film. So, the wavelength the
+light had in the thin film because that was the
+portion of the path where the light traveled an extra distance. So that's the part that will matter. We want to know how much further
+up, if this first light ray when it reflected was right here. We want to know where's this other one going to be at when it emerges. Because if it emerges
+also right at that point, say this wave cycle, say it also emerges exactly at that point here. Well, they'll be constructive. But if it emerges over here,
+that's only 180 degrees, that's 180 degrees out of phase. Then it would be destructive. We want to know how much
+this cycle got progressed by this wave traveling through here. So we need to know the wavelength in here. That's the wavelength
+that actually matters. The wavelength in the thin film. Often times you're not given the wavelength in the thin film. You're given the wavelength in the air, or whatever this material is. So if you know this
+wavelength, how do you get the wavelength in the
+oil, or the thin film? How do we find this wavelength? It's not too hard. The most straight forward
+conceptual way to think about it is that frequency doesn't change. The frequency in material
+A is going to equal the frequency of the light
+when it enters material B. Frequency is determined by the source. If it's the sun up here
+that emitted that light ray, or the laser, that's
+what's determining the frequency of this particular light ray. And that stays the same,
+whether it reflects whether it refracts,
+no matter what it does. The frequency stays the same. That's a useful thing to know. And it's useful in this case because... Well, how do we relate
+this to wavelengths? We know the speed of a wave equals wavelength times the frequency. And so if I wanted to
+solve this for frequency, I'd divide both sides
+by the wavelength and I get that this is equal to the speed of the wave over the wavelength. I can replace that over here. VA, so frequency and
+material A, is just speed of the light in A,
+because of this formula. Over, wavelength of the light in region A. You can think of A as air. It doesn't have to be
+air, but it could be. It was in this case. Frequency of the light
+in B, which is our oil, would be the speed of light in region B, divided by the wavelength in region B. Okay, so now we can just
+solve for wavelength in region B, and we get that wavelength in our thin film will equal... I multiply it both sides
+by wavelength in B, and then I multiply these
+out, and what you'll end up getting is velocity of
+the light, speed of the light in region B, divided by speed
+of the light in region A. That factor, times the
+wavelength of the light in A. So this is one way to determine. If you're given the
+speeds like I did here... Remember I gave you the speed
+of the light in the air. That you can look up because everyone knows you can look it up. It's online. And speed of the light in the oil, I just told you what that was. If you're given these
+speeds, take the ratio, speed of the light in oil divided by the speed of light in the air. Multiply by the wavelength
+in the air, this first medium and you'll get the wavelength in the second medium, which is the oil. This would be what you'd plug
+into these formulas up here. What if you're not... Sometimes you're not even given the speed. What if you're given
+the index of refraction? And you're like, "Ugh,
+index of refraction, shoot". Well if they gave you the
+N in region A, and instead gave you the N in region B, instead of giving you the speeds, remember index of refraction is defined to B. Speed of light in a vacuum divided by the speed of light in that material. So, NA, index of refraction
+of region A is just three times ten to the eighth,
+divided by the speed in A. And NB would be three times ten to the eight over the speed in B. How would this change? I could just solve this
+for VA if I wanted to. I'd get VA... I'm running out of room here, excuse me. Equals C over NA and VB would
+equal the speed of light in a vacuum divided by
+index of refraction in B. Now I'm actually just plug it into here. I'm going to plug in VB,
+which is this, for VB. I'm going to plug in VA,
+which is this, for VA. I'd get a new condition. What would that new condition be? That new condition would
+say that wavelength in B equals C over NB, is what I get. C over NB divided by C over NA from this condition, times lambda A. I can simplify that. The Cs cancel and then one
+over NB divided by one over NA, just gives me NA over NB
+times lambda in the air. So here's another one. Here's another condition. Another way to find it. This would also equal the wavelength in the oil, or the thin film. So if you're given the speeds, you can take the ratio of the speeds. You'd do the oil speed
+divided by the outside speed. Multiply by the wavelength in the air. But you're given the
+indexes of refraction, you'd take the outside index of refraction divided by the inside index
+of refraction times lambda A. You're thinking, "Oh my god, how am "I going to remember all this?" Here's how I remember it. I know if I go from air to oil,
+light's going to slow down. And if light slows down,
+frequency stays the same. So if light slows down,
+wavelength's got to go down. So I just look over here
+and I just make my ratio. If they give me Ns, I just make sure my ratio of Ns gives me a smaller number. A number less than one that I multiply by to get my lambda in the thin film. And if they gave me speeds,
+I just take my speeds. I take my ratio of my speeds so that I get a smaller lambda in the thin film. Just got to be careful. Make sure you're really slowing down. They might give you a
+problem where for some reason this wasn't air, some other material. It was going faster through the oil than it would be through here. Then you'd want to make this ratio more than one when you multiply. But, if in doubt you
+can always fall back on, the two frequencies are
+equal, and use that. And that's the three things you got to worry about for thin film. These are the conditions. Make sure you pay attention
+to whether there's a pi shift and make sure you always use
+wavelength in the thin film. So if we wanted to... This looks messy. I'm sorry about this. This looks horrible. We could turn this all into
+one super duper equation. Let's do that. Let's get... I can't even look at that anymore. Alright, let's do this. So we know for constructive
+we should have 2T equals integer, so M is
+zero, one, two, three, times the wavelength in
+the oil or the thin film. But, I don't want to
+solve for that every time. We already did it. Let's just write this. We know velocity in this region is A. The thin film region, we'll call B. Then we know that V in B divided
+by V in A times wavelength in region A, which is often times the air, this would give you constructive. Or, if you're unlucky and
+you got index of refraction then you could use
+index of refraction in A divided by index of refraction
+in B, times the wavelength in the A region, and that would be what you would need for constructive. We could do the same
+thing for destructive. 2 times T should be, 1/2
+integers, so we could do M plus a 1/2 times this
+same thing, wavelength in the thin film, which again
+is VB over VA times lambda A. Or, same thing, 1/2
+integers times wavelength. But if you had index of refraction you'd want to use NA over NB, lambda A. This would give you destructive. Only other thing to worry about is if there's a relative pi shift. You would flip flop these conditions. These 1/2 integers would
+give you constructive and the integers would
+give you destructive. If one wave, and only one
+wave, gets a pi shift. If one wave gets a pi shift
+then you swap these conditions. This still looks a
+little bit intimidating. I'm sorry. That looks intimidating. So sometimes it gets even better. If this region A is air... The index of refraction
+in air is just one. So that cleans things up a little bit. This just becomes one and
+this up here just becomes one. So you end up with M times
+one over NB times lambda A. Or in other words, M times lambda A over NB would give you constructive. And M plus a 1/2 times lambda A over NB would give you
+destructive for every M equals zero, one, two, three, and so on. Zero, can you really have zero? Yeah you could, kind of. If M equals zero, that would
+say the thickness is zero. Doesn't that mean you have no thin film? Well, sort of, but if this
+thickness is very small compared to the wavelength
+of the light, it's as if the thickness is zero and
+that will give you either constructive or destructive
+depending on the pi shift. And sometimes you can do that. Anti-reflective coating
+is often just a coating that's so thin, completely thin, compared to the wavelength of
+light, which just makes all the light reflect destructively. Because in that case you do get a pi shift and these integers give
+you destructive points. So that's thin film interference. Sometimes it confuses people. Hopefully, you do well with it. These are the ways you deal with it.

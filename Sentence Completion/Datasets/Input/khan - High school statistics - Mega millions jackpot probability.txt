@@ -1,0 +1,97 @@
+I've been asked to calculate
+the probability of winning the Mega Millions jackpot. So I thought that's what
+I would do this video on. So the first thing is to
+make sure we understand what does winning the
+jackpot actually mean. So there's going to
+be two bins of balls. One of them is going to have 56
+balls in it, so 56 in one bin. And then another bin is
+going to have 46 balls in it. So there are 46 balls in
+this bin right over here. And so what they're
+going to do is they're going to pick 5 balls
+from this bin right over here. And you have to get the exact
+numbers of those 5 balls. It can be in any order. So let me just draw them. So it's 1 ball-- I'll shade
+it so it looks like a ball-- 2 balls, 3 balls, 4
+balls, and 5 balls that they're going to pick. And you just have to get
+the numbers in any order. So this is from a bin of 56. And then you have to
+get the mega ball right. And then they're
+going to just pick one ball from there, which
+they call the mega ball. And obviously,
+this is just going to be picked-- this is
+going to be one of 46, so from a bin of 46. And so to figure out the
+probability of winning, it's essentially
+going to be one of all of the possibilities of numbers
+that you might be able to pick. So essentially, all
+of the combinations of the white balls times
+the 46 possibilities that you might get
+for the mega ball. So to think about
+the combinations for the white balls, there's a
+couple of ways you could do it. If you are used to thinking
+in combinatorics terms, it would essentially say, well,
+out of a set of 56 things, I am going to choose 5 of them. So this is literally, you could
+view this as 56, choose 5. Or if you want to think of
+it in more conceptual terms, the first ball I pick,
+there's 56 possibilities. Since we're not replacing the
+ball, the next ball I pick, there's going to be
+55 possibilities. The ball after that, there's
+going to be 54 possibilities. Ball after that, there's
+going to be 53 possibilities. And then the ball
+after that, there's going to be 52 possibilities,
+because I've already picked 4 balls out of that. Now, this number right over
+here, when you multiply it out, this is a number
+of permutations, if I cared about order. So if I got that
+exact combination. But to win this, you don't
+have to write them down in the same order. You just have to get those
+numbers in any order. And so what you
+want to do is you want to divide this
+by the number of ways that five things can
+actually be ordered. So what you want to do
+is divide this by the way that five things can be ordered. And if you're
+ordering five things, the first of the five things can
+take five different positions. Then the next one will have four
+positions left, and then the one after that will have
+three positions left. The one after that will
+have two positions. And then the fifth one will
+be completely determined because you've already
+placed the other four, so it's going to have
+only one position. So when we calculate this
+part right over here, this will tell us all
+of the combinations of just the white balls. And so let's calculate that. So just the white balls, we
+have 56 times 55 times 54 times 53 times 52. And we're going to divide that
+by 5 times 4 times 3 times 2. We don't have to multiply
+by 1, but I'll just do that, just to show
+what we're doing. And then that gives
+us about 3.8 million. So let me actually let
+me put that off screen. So let me write
+that number down. So this comes out to 3,819,816. So that's the number
+of possibilities here. So just your odds of picking
+just the white balls right are going to be one
+out of this, assuming you only have one entry. And then there's
+46 possibilities for the orange balls,
+so you're going to multiply that times 46. And so that's going
+to get you-- so when you multiply it times
+46-- bring the calculator back. So we're going to multiply
+our previous answer times 46. "Ans" just means
+my previous answer. I get a little
+under 176 million. Let me write that number down. So that gives us 175,711,536. So your odds of winning it,
+with one entry-- because this is the number of possibilities,
+and you are essentially, for $1, getting one of
+those possibilities. Your odds of winning is
+going to be 1 over this. And to put this in a
+little bit of context, I looked it up on
+the internet what your odds are of
+actually getting struck by lightning
+in your lifetime. And so your odds
+of getting struck by lightning in your
+lifetime are roughly 1 in 10,000-- chance
+of getting struck by lightning in your lifetime. And we can roughly say your odds
+of getting struck by lightning twice in your lifetime,
+or another way of saying it is the odds of
+you and your best friend both independently being struck
+by lightning when you're not around each other, is going
+to be 1 in 10,000 times 1 in 10,000. And so that will get you 1 in--
+and we're going to have now eight 0's-- 1, 2,
+3, 4, 5, 6, 7, 8. So that gives you
+1 in 100 million. So you're actually
+twice-- almost, this is very rough--
+you're roughly twice as likely to get struck by
+lightning twice in your life than to win the Mega jackpot.

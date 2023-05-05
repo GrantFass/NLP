@@ -1,0 +1,57 @@
+Voiceover: We've been given some interesting information here about the functions f, g, and h. For f, they tell us for given values of x what f of x is equal to and what f prime of x is equal to. Then they defined g of x for us in terms of this kind of
+absolute value expression. Then they define h of x for us, in terms of both f of x and g of x. What we're curious about
+is what is the derivative with respect to x, of h of
+x at x is equal to nine. I encourage you to pause this video and think about it on your own before I work through it. Let's think about it a little bit. Another way just to get
+familiar with the notation of writing this, the derivative of h of x with respect to x at x equals nine. This is equivalent to h,
+we need that blue color, it is equivalent to h prime and the prime signifies that
+we're taking the derivative. H prime of x, when x equals nine so h prime of nine is what this really is. Actually I'm going to do
+this in a different color. This is h prime of nine. Let's think about what that is. Let's take the derivative of both sides of this expression to figure out what the derivative
+with respect to x of h is. We get a derivative, I'll
+do that same white color. A derivative with respect to x of h of x is going to be equal to the
+derivative with respect to x of all of this business. I could actually just,
+well I'll just rewrite it. Three times f of x, plus two times g of x. Now this right over here, the derivative of the sum of two terms that's going to be the same thing as the sum of the derivatives
+of each of the terms. This is going to be the same thing as the derivative with respect to x of three times, I'll write
+that a little bit neater. Three times f of x, plus the
+derivative with respect to x of two times g of x. Now the derivative of a number or I guess you could say a
+scaling factor times a function. The derivative of a
+scalar times the function is the same thing as a scalar times the derivative of the function. What does that mean? Well that just means that this
+first term right over here that's going to be equivalent to three times the derivative
+with respect to x of f, of our f of x, plus this part over here
+is the same thing as two. Okay, make sure I don't
+run out of space here, plus two times the
+derivative with respect to x. The derivative with
+respect to x of g of x. Derivative of h with respect to x is equal to three times the derivative of f with respect to x, plus two times the derivative
+of g with respect to x. If we want to write it in this
+kind of prime notation here, we could rewrite it as
+h prime of x is equal to three times f prime of x, so this part right over here that is the same thing as f prime of x. It's three times f prime of x,
+plus two times g prime of x. Once you are more fluent
+with this property, the derivative of the sum of two things is the sum of the derivatives. The derivative of a scalar times something is the same thing as a
+scalar times the derivative of that something. You really could have
+gone straight from here to here, pretty quickly. Now why is this interesting, well now we can evaluate this function when x is equal to nine. H prime of nine is the same thing as three times f prime of nine, plus two times g prime of nine. Now what is f prime of nine? The derivative of our function f when x is equal to nine. Well they tell us, when
+x is equal to nine, f of nine is one but more importantly f
+prime of nine is three. This part right over here
+evaluates that part's three. What's g prime of nine? Let's look at this function
+a little bit more closely. There's a couple of ways
+we could think about it. Actually let's try to graph it, now I think that could be interesting. Just to visualize what's going on here. Let's say that's our y-axis and do this right over here is our x-axis. Now when does an absolute
+value function like this, when is this going to hit a minimum point? Well the absolute value of something is always going to be non-negative. It hits a minimum point when
+this thing is equal to zero. Well when is this thing equal to zero? When x equals one, this
+thing is equal to zero. We hit a minimum point
+when x is equal to one, and when x equals one, this term is zero absolute value of zero, zero. G of one is one. We have this point right over there. Now what happens after that? What happens for x greater than one? Actually let me write this down. G of x is equal to, and in general whenever
+you have an absolute value, a relatively simple absolute
+value function like this you could think of it,
+you could break it up into two function or you could think about this function over different intervals when the absolute value is non-negative and when the absolute value is negative. When the absolute value is non-negative that's when x is greater
+than or equal to zero. When the absolute value is non-negative, if you're taking the absolute
+value of a non-negative number that is just going to be itself. The absolute value of zero, zero. Absolute value of one is one. The absolute value of
+a hundred is a hundred. Then you could ignore the absolute value for x is greater than or equal to, not greater than or equal to zero, for x is greater than or equal to one. X is greater than or equal to one, this thing right over
+here is non-negative. It will just evaluate to x minus one. This is going to be x minus one plus one. Which is the same thing as just x, minus one plus one, they just cancel out. Now when this term right
+over here is negative and that's going to happen
+for x is less than one. Well then the absolute value is going to be the opposite of it. You give me the absolute
+value of a negative number that's going to be the opposite. Absolute value of negative
+eight is positive eight. It's going to be that the
+negative of x minus one is one minus x, plus one. Or we could say two minus x. For x is greater or equal to one, we would look at this expression, now what's the slope of that? Well the slope of that is one. We're going to have a
+curve that looks like or a line I guess we could
+say that looks like this. For all x is greater than or equal to one. The important thing, remember, we're going to think about
+the slope of the tangent line when we think about the derivative of g. Slope is equal to one. For x less than one or our slope now, if we look right over here our slope is negative one. It's going to look like this. It's going to look like that. For the pointing question, if we're thinking about g prime of nine so nine is some place out here, so what is g prime of nine? G prime of nine, let me make it clear, this graph right over here, this is the graph of g of x or we could say y, this is
+the graph y equals g of x. Y is equal to g of x. What is g prime of nine? Well that's the slope
+when x is equal to nine. The slope is going to be equal to one. G prime of nine is one. What does this evaluate to? This is going to be three times three, so this part right over here is nine plus two times one, plus
+two, which is equal to 11. The slope of the tangent line of h when x is equal to nine is 11.

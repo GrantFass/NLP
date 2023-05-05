@@ -1,0 +1,109 @@
+Let's say that we want to
+solve the inequality x squared plus 3x is greater than 10. We want to figure out
+all of the x's that would satisfy this inequality. I encourage you to
+pause this video now. And I'll give you a hint. Try to manipulate the
+way that you would have if this was a
+quadratic equation. But then as you
+get to the end, try to reason through it, because
+the reasoning might departure a little bit from
+what you are used to. So I'm assuming you've
+given a go at it. So the first thing
+that we might want to do, just to get
+into a form that we're more comfortable with, is
+subtract 10 from both sides. If we subtract 10
+from both sides, then on the left
+hand side, we're going to have x squared
+plus 3x minus 10 is still going to be greater than. If we add or subtract the
+same thing to both sides, it won't change the inequality. But it's now going
+to be greater than 0. 10 minus 10 is 0. Now, this gets us into a
+form that we're more used to seeing quadratic
+expressions in. If this was an equal
+sign right over here, we'd want to factor this thing. So let's just try to factor
+here too and see what happens. So we're going to factor it. We're going to
+think of two numbers whose product is negative 10
+and whose sum is positive 3. And we've had a lot of
+practice doing this. If you think about the factors
+of 10, it's 1, 2, 5, and 10. 2 and 5 seem tempting,
+because their difference is 3. So if you have positive
+5 and negative 2, that seems to work out. Positive 5 and negative 2. Their product is negative
+10, their sum is positive 3. We could rewrite
+this as x plus 5. Let me do that in
+that yellow color so you see where this
+5 is coming from. X plus 5 times x minus 2 is
+going to be greater than 0. Now, if this was
+an equality here, we would say well, how
+do we get this equals 0? If either of these
+things were equal to 0, then this entire expression
+would be equal to 0, because 0 times anything is 0. But we don't have
+an equality here. We have a greater than symbol. So let's think about how we
+could reason through this. And I'll do a little
+bit of an aside here. If I were to tell you
+that numbers a and b, and if I were take
+the product a times b, and if someone were to tell you
+that product is greater than 0, what do we know about a and b? Well, we know that they
+have to have the same sign. They're either both
+positive-- a positive times a positive is going
+to be a positive-- or they're both going to be
+negative-- a negative times a negative is a positive. It's going to be greater than 0. So we know the same thing here. Let me write it down. So we know either a is greater
+than 0 and b is greater than zero-- so either
+both of them are positive or both of them
+are negative-- or a is less than zero and
+b is less than zero. So we apply that
+same logic here. You could view
+this x plus 5 is a, you could view this x minus
+2 as our b of the product of two things. The product is greater than 0. That means that either both of
+these expressions are positive or they're both negative. So let's write that down. I'll write it this way. So either both of these
+expressions are positive. So either x plus 5 is
+greater than 0 and x minus 2 is greater than 0-- let
+me write it this way-- or they're both negative. x plus 5 is less than 0 and
+x minus 2 is less than 0. So now let's think about
+all of these inequalities independently. But let's maintain this logic
+here of the and and the or. So let's look at this. Either they're both positive,
+so if both of these expressions are positive, what
+do we know about x? Well, if you subtract 5 from
+both sides of this inequality, you get x is greater
+than negative 5. And if you add 2 to this
+inequality, both sides of that inequality, you're going
+to get x is greater than 2. So if x is greater than negative
+5 and x is greater than 2, what do we know about x? Well, any x that's
+greater than two is going to be greater
+than negative 5. So we could just simplify
+this right over here to say that x is greater than 2. So all of this, this
+is equivalent to saying x is greater than 2,
+because clearly anything that is greater than
+2 will satisfy that. And both of these
+things have to be true. For example, x
+equal negative 4, it would satisfy this
+inequality but not this one. And so the and would break down. And negative 4 does not
+satisfy both of these. In order to satisfy
+both of these, you essentially have
+to satisfy that one. So this expression
+simplified to that. Now what about this? What about this statement
+right over here? Well, x plus 5 less than 0,
+subtract 5 from both sides. That is, x is less
+than negative 5. And add 2 to both sides
+of that inequality, you get x is less than 2. Now if x is less than negative
+5 and x is less than two, what do we know about x? Well, that just means that x
+has to be less than negative 5. If it's less than
+negative 5, it's definitely going
+to be less than 2. And we got to remind ourselves
+that we have this or here. And that's essentially
+describing the solution set for this quadratic
+inequality here. x is going to be
+greater than 2 or x is going to be less
+than negative 5. And we could actually plot this
+solution set on a number line. So if this is our number line
+right over here, and let's say that this is 0. Let's say that's 1. 2 right over here. This is negative 1, negative
+2, negative 3, negative 4, negative 5. So x could be greater than 2,
+not greater than or equal to, so I'm going to put
+an open circle here. So it could be greater than 2. Or it could be less
+than negative 5, not less than or
+equal to, so I'm going to put an
+open circle here. And so it could
+be less than that. So x could be any number. It could be negative 6,
+negative 6 would satisfy this. You could verify that. Negative 6 squared is
+36 plus negative 18, which is going to be 18,
+which is greater than 10. Or you could have, say,
+a positive 3 would work. 3 squared is 9 plus
+another 9 is going to be 18, which once again,
+it is greater than 10.

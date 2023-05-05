@@ -1,0 +1,44 @@
+Voiceover: In the last video, we were able to figure out
+what vectors a plus b is when you view it from a
+component point of view, and so if we were to visualize that, that's vector a. Then let me paste vector b here. It's a little bit messy. That is vector b there. Actually, let me see if I can
+clean this up a little bit. Let me clean this up. I'll get the eraser tool. Let me clean this up a little bit so that we can see a little bit clearer. The vector that we care about, almost done cleaning, the vector, I'll get rid of this too just because we just want to visualize ... well, actually, I shouldn't
+get rid of that part. I'll delete this right over here. The vector that we care about, a plus b, that is this vector. That is this vector right over here. We could start at the tail
+of a, go to the head of a, and then place the tail of b there, and then where the head of a is, that's going to be the head of a plus b. That's this vector right over here. We can think of its horizontal
+and vertical components. Its vertical component is this vector, is this vector right over here, and that's that vector right over there. Its horizontal component is this vector, is this vector, which is
+this one right over there. What I want to do now is figure out what is the magnitude ... let's just call this vector c so I don't have to keep writing a plus b. I want to figure out what is
+the magnitude of vector c, and I want to figure out the angle. I want to figure out its direction. I want to figure out this angle. I want to figure out this
+angle right over there. Let's think about it. Let's think about it step by step. The magnitude is actually maybe this most straightforward one. Let me redraw vector c here. Actually, I'll use this
+space right over here. Vector c looks like this. Vector c looks like that, and it has its horizontal component. You have its horizontal component and you have its vertical component. The magnitude of it, we just know from the Pythagorean theorem, the square of the magnitude
+of the horizontal component plus the square of the magnitude
+of the vertical component, that's going to be equal to the square of the magnitude of the vector. Or another way of thinking about it, the magnitude of the vector
+is going to be equal to the square root of this business squared plus this business squared, and that's going to be ... actually, I'll just write
+it just so that we ... Well, it's getting messy, so let me just get the calculator out to get a reasonable approximation. Get the calculator out. It's going to be the square root. It's going to be a little
+bit of a hairy statement. It's going to be the square root of three times the square
+root of three over two, over two, so that's that, minus square root of two, minus the square root of two, so it's going to be that quantity. That's what we have in
+orange right over there. We're going to square that, plus three over two, three divided by two, plus the square root of two, plus the square root of two,
+so that quantity squared, and we're of course taking the
+square root of all of that. That's going to be equal to, we deserve a little
+bit of a drum roll now, 3.14 ... it felt like it might have
+been close to pi, but it's not. Pi would be 3.1415 and I can keep going, but it's 3.145. I'll just write this approximately 3.146. Let me write this. This is approximately 3.146
+is the magnitude here. That makes sense. We saw vector a right over here had a magnitude of 3, and as we can see, this one looks a little
+bit longer than that, even when we look at it visually. That actually is consistent
+with what we see here. Now let's think about the direction. Let's call this angle ... I don't want to do it in that dark color. Let's call this angle
+right over here theta. What do we know? We know that, well, we know what the length
+of the opposite side is, and we know what the length
+of the adjacent side is, and actually, now we know
+the length of the hypotenuse, but let's just say we didn't even know the length of the hypotenuse. If we know the opposite and the adjacent, you can use tangent. We know that the tangent of theta, tangent of theta, is going to be equal to the
+length of the opposite side over the length of the hypotenuse. That would be equal to this, so copy and paste. It's going to be equal to that over this, over this right over here, so copy and paste. All right. It's going to be equal to that. Let me draw a little line here. Or we could say that theta is equal to the inverse tangent, sometimes called the arc tangent, the inverse tangent of
+all of this business, of all of this. Let me just copy and paste, copy and paste right over there. Let's put that into our
+calculator and see what we get. Let's see. We're going to take the inverse tangent, and I've already verified
+that I'm in degree mode in this calculator, and we saw that over there, that it wasn't interpreting
+this correctly as 30 degrees, not 30 radians, so inverse tangent of. All right. Once again, three divided by
+two plus square root of two, plus the square root of two divided by, divided by this, which is three times the square root of three divided by two minus the square root of two, and the order of operations
+with a calculator will interpret this, it should be correct, and so close the parenthesis there. That closes that parenthesis, and then we have to close
+that parenthesis there, and we deserve another mini drum roll. We get 67 point ... Let's just say it's roughly 67.89 degrees. So theta, let me write this here. Theta is approximately 67.89 degrees. Did I get that right? Yup, 67.89 degrees, and that also looks about right. If you look at this angle right over here, if we eyeball it, it looks like a little
+bit more than 60 degrees. Just like that, we were able to figure out the magnitude of the
+sum and the direction. Now there's one thing that I think it's interesting to keep in mind. Notice that the magnitude, the magnitude of this vector is less than the sum of the magnitudes. The magnitude of vector a was three. The magnitude of vector b is two. And so three plus two
+would have been five, but this has a smaller magnitude. The only way that the magnitude of a sum is going to be the same as
+the sum of the magnitudes is if both of these vectors are going in the exact same direction, then they would be completely additive. But if they're going in even
+slightly different directions, then you're not going to
+have the magnitude of the sum being the same as the magnitude. It's always going to be
+less than the magnitude of or the sum of the magnitudes. In the next video, I'll talk about that in a little bit more depth.

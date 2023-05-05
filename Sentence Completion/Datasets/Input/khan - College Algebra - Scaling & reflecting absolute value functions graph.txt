@@ -1,0 +1,21 @@
+- [Instructor] Function
+G can be thought of as a stretched or compressed version of F of X is equal to
+the absolute value of X. What is the equation for G of X? So you can see F of X is equal to the absolute value of X here in blue, and then G of X, not only does it look
+stressed or compressed, but it also is flipped over the X axis. So like always, pause this video and see if you can up yourself with the equation for G of X. Alright, now let's work
+through this together. So there's a couple of
+ways we could do it. We could first try to flip F of X, and then try to stretch or compress it, or we could stretch or compress it first, and then try to flip it. Let's actually, let's flip it first, so let's say that we have a function that looks like this. It's just exactly what F of X is, but flipped over the X axis. So it's just flipped over the X axis, so all the values for any given X, whatever Y you used to get, you're not getting the negative of that. So this graph right over here, this would be the graph. I'll call this, Y is equal to the negative absolute value of X. Whatever the absolute value of X would have gotten you before, you're now going to get the negative of the opposite of it. So this is getting us
+closer to our definition of G of X. The key here is how do
+we appropriately stretch or squeeze this green function? So let's think about what's happening. On this green function, when X is equal to one, the function itself is
+equal to negative one, but we want it, if we want
+it to be the same as G, we want it to be equal to negative four. So it's actually four times the value. For a given X, at least for X equals one, G is giving me something
+four times the value that my green function is giving. That's not just true for positive Xs. It's also true for negative Xs. You can see it right over here. When X is equal to negative one, my green function gives me negative one, but G gives me negative four. So it's giving me four times the value. It's giving me four
+times the negative value, so it's going even more negative, so what you can see, to
+go from the green to G, you have to multiply this
+thing right over here by four. So that is what essentially
+stretches it down, stretches it down in
+the vertical direction. So we could say that G of X is equal to, it's not negative absolute value of X, negative four times the
+absolute value of X. And you could have done it the other way. You could have said,
+"Hey, let's first stretch "or compress F." And say, alright, before
+we even flip it over, if we were to unflip G, it would look like this. If we were to unflip G, it would look like this. If were to unflip G, so this thing right over here, this thing looks like four times F of X. We could write this as Y is equal to four times F of X, or you could say Y is equal to four times the absolute value of X, and then we have a negative sign. Whatever positive value
+you were getting before, you now get the opposite value, and that would flip it
+over and get you to G, which is exactly what we already got.

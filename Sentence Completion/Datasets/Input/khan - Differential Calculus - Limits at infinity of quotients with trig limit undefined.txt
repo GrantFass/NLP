@@ -1,0 +1,26 @@
+- [Voiceover] Let's see
+if we can figure out what the limit of x squared
+plus one over sine of x is as x approaches infinity. So, let's just think about what's going on in the numerator and then
+think about what's going on in the denominator. So, the numerator, we
+have x squared plus one. So, as x gets larger and larger and larger as it approaches infinity,
+well, we're just squaring it here so this
+numerator's gonna get even, approach infinity even faster. So, this thing is going to go to infinity as x approaches infinity. Now what's happening to
+the denominator here? Well, sine of x, we've seen this before. Sine of x and cosine of x are bounded, they oscillate. They oscillate between
+negative one and one, so negative one is gonna
+be less than or equal to sine of x which is going to
+be less than or equal to one. So, this denominator's going to oscillate. So, what does that tell us? Well, we might be tempted
+to say, well the numerator's unbound and goes to infinity
+and the denominator's just oscillating between
+these values here. So maybe the whole thing goes to infinity. But we have to be careful because one, the denominator's going between positive and negative values. So, the numerator's just going to get more and more and more positive being divided sometimes
+by a positive value, sometimes by a negative value. So, we're gonna jump between
+positive and negative. Positive and negative. And then you also have all
+these crazy asymptotes here. Every time sine of x becomes zero, well then, you're gonna
+have a vertical asymptote. This thing will not be defined. So you have all these vertical asymptotes. You're gonna oscillate
+between positive and negative just larger and larger values. So, this limit does not exist. So, it does not exist. Does not exist. And we can see that graphically. We described it in words, just inspecting this expression, but we can see it
+graphically if we actually looked at a graph of this, which I have right here. And you can see that as x goes
+towards positive infinity, as x goes to positive infinity, we, depending on which x we
+are, we're kind of going, we go, we get really large, then we had a vertical asymptote than
+we jump back down and go really negative, vertical asymptote, up, down, up, down, up, down, the oscillations just
+get more and more extreme and we keep having these
+vertical asymptotes on a periodic basis. So it's very clear that
+this limit does not exist.

@@ -1,0 +1,35 @@
+We now know how long the object
+is going to be in the air, so we're ready to
+figure out how far it's going to travel. So we can just go back to kind
+of the core formula in all of really kinematics, all of kind
+of projectile motion or mechanical physical problems,
+and that's distance is equal to rate times time. Now, we're talking about the
+horizontal distance. So our distance is going to be
+equal to-- what's our rate in the horizontal direction? We care about horizontal
+distance traveled, so our rate needs to be the horizontal
+component of the velocity, or the magnitude of the horizontal component of the velocity. And we figured that out
+in the first video. That is s cosine of theta. So let's write that
+down right here. So our rate is s cosine
+of theta. And how long will we
+be traveling at this horizontal speed? Well, we'll be going at
+that speed as long as we are in the air. So how long are we in the air? Well, we figured that out
+in the last video. We're going to be in the air
+this long-- 2 s sine of theta divided by g. So the time is going to be
+2 s sine of theta over g. So the total distance we're
+going to travel, pretty straightforward, rate
+times time. It's just the product
+of these two things. And we could put all of the
+constants out front, so it's a little bit clearer that it's
+a function of theta. So we can write that the
+distance traveled-- let me do that same green. The distance traveled as a
+function of theta is equal to-- I'll do that
+in this blue. This s times 2s divided by g
+is-- I'll do it in a neutral color actually. This s times 2s divided by g is
+2 times s squared over g. So 2s squared over g times
+cosine of theta times sine of theta. So now we have a general
+function. You give me an angle that I'm
+going to shoot something off at and you give me the magnitude
+of its velocity, and you give me the acceleration
+of gravity. I guess if we were on some
+other planet, who knows? And I will tell you
+exactly what the horizontal distance is.

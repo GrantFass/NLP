@@ -1,0 +1,58 @@
+- [Instructor] So I have
+these two molecules here, propane on the left and
+acetaldehyde here on the right. And we've already calculated
+their molar masses for you, and you see that they have
+very close molar masses. And so based on what
+you see in front of you, which of these, you think, would have a higher boiling point, a sample of pure propane or a sample of pure acetaldehyde? Pause this video, and think about that. All right, well, in previous videos, when we talked about boiling points and why they might be different, we talked about intermolecular forces. Because you could imagine, if
+you have a bunch of molecules, let's say, in a liquid state, the boiling point is going to be dependent on how much energy you
+need to put into the system in order for the intermolecular
+forces between the molecules to be overcome so that
+molecules could break free and enter into a gaseous state. And so when we're thinking about which might have a higher boiling point, we really just need to think about which one would have higher
+intermolecular forces. Now, in a previous video, we talked about London dispersion forces, which you can view as
+random dipoles forming in one molecule, and then
+that can induce dipoles in a neighboring molecule. And then the positive end,
+even temporarily positive end, of one could be attracted
+to the temporarily negative end of another and vice versa, and that whole phenomenon can domino. And we said that you're going to have more of those London dispersion forces the more polarizable your molecule is, which is related to how large
+of an electron cloud it has, which is related to its molar mass. And when we look at these two molecules, they have near identical molar masses. So you might expect them to have near identical boiling points, but it turns out that
+that is not the case. The boiling point of propane is negative 42.1 degrees Celsius, while the boiling point of acetaldehyde is 20.1 degrees Celsius. So what makes the difference? Why does acetaldehyde have
+such a higher boiling point? Why does it take more energy for the molecules in liquid acetaldehyde to be able to break free of each other to overcome their intermolecular forces? Well, the answer, you might
+imagine, is other things are at play on top of the
+London dispersion forces. And what we're going to
+talk about in this video is dipole-dipole forces. So you might already
+imagine where this is going. In the video on London dispersion forces, we talked about a temporary dipole inducing a dipole in
+a neighboring molecule and then them being
+attracted to each other. Now we're going to talk
+about permanent dipoles. So when you look at
+both of these molecules, which one would you think has
+a stronger permanent dipole? Or another way of thinking about it is which one has a larger dipole moment? Remember, molecular dipole
+moments are just the vector sum of all of the dipole moments
+of the individual bonds, and the dipole moments
+are all proportional to the differences in electronegativity. When we look at propane here on the left, carbon is a little bit more
+electronegative than hydrogen but not a lot more electronegative. So you will have these dipole
+moments on each of the bonds that might look something like this. So you would have these
+things that look like that. If that is looking unfamiliar to you, I encourage you to review
+the videos on dipole moments. But as you can see, there's a
+symmetry to propane as well. So if you were to take all of
+these arrows that I'm drawing, if you were to take all of these arrows that I'm drawing and net them together, you're not going to get much
+of a molecular dipole moment. You will get a little bit of one, but they, for the most part, cancel out. Now what about acetaldehyde? Well, acetaldehyde, there's
+a few giveaways here. One is it's an asymmetric molecule. So asymmetric molecules are good suspects for having a higher dipole moment. Another good indicator is
+you have some character here that's quite electronegative. In this case, oxygen is
+quite electronegative. And even more important, it's a good bit more
+electronegative than carbon. So right over here, this
+carbon-oxygen double bond, you're going to have a pretty
+significant dipole moment just on this double bond. It might look like that. And all of the other dipole moments for all of the other bonds aren't going to cancel this large one out. In fact, they might add to it a little bit because of the molecule's asymmetry. And so net-net, your whole molecule is going to have a pretty
+significant dipole moment. It'll look something like this, and I'm just going to approximate it. But we're going to point
+towards the more negative end, so it might look something like this, pointing towards the more negative end. And I'll put this little cross here at the more positive end. And so you would expect
+a partial negative charge at that end and a partial
+positive charge at this end. And so what's going to happen if it's next to another acetaldehyde? Well, the partially negative
+end of one acetaldehyde is going to be attracted to
+the partially positive end of another acetaldehyde. And so this is what
+people are talking about when they say dipole-dipole forces. We are talking about a permanent dipole being attracted to
+another permanent dipole. And so acetaldehyde is experiencing that on top of the London dispersion forces, which is why it has a
+higher boiling point. Now some of you might be wondering, hey, can a permanent dipole induce a dipole in a neighboring molecule and then those get
+attracted to each other? And the simple answer is
+yes, it makes a lot of sense. You can absolutely have a dipole and then induced dipole interaction. And we might cover that in a
+few examples in the future, but this can also occur. You can have a temporary dipole inducing a dipole in the neighbor, and then they get attracted to each other. And you could have a
+bit of a domino effect. You can have a permanent
+dipole interacting with another permanent dipole. They get attracted to each other. And you could have a permanent
+dipole inducing a dipole in a neighboring molecule.

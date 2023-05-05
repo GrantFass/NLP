@@ -1,0 +1,113 @@
+- So we have something
+interesting going on. I have this ring of conductor
+right here, this square ring, it has a resistance of two
+ohms, we see that it is two meters by two meters so the area of this ring would be four square meters and we see a magnetic field going through the surface defined by the
+ring and it's constant, it's a constant magnetic
+field of five teslas and it's going exactly perpendicularly to, perpendicularly to the
+surface of the ring. Now what we're going to happen, what we're going to see happen is
+over the next four seconds, and this is going to
+happen at a linear rate, it's going to happen at a constant rate, we're going to see the magnetic
+field over four seconds go from five teslas to 10
+teslas so it's going to double over those four
+seconds and by doing so we're going to have a change in flux. Let's think about what the change in flux is over this four seconds. So our initial flux, let
+me write it over here, so flux, let me use a different color and at any time if you are so inspired I encourage you to pause the video and figure out what our change in flux is. So our flux, flux initial is going to be, well it's the it's going to be the
+constant magnetic field, you could say the average magnetic field over the surface but since it's constant that's just going to be
+five teslas, so five teslas and it helps for, it
+helps us in this problem that the magnetic field
+vectors are exactly perpendicular to the
+surface, to the surface defined by the ring, if
+they weren't we would have to find the component
+that is perpendicular but we have that right
+over there so we have the five teslas, that's
+the average magnetic field or the average component
+of the magnetic field that is perpendicular to the surface, so five teslas times
+the area of the surface. So times, well two meters
+times two meters is four square meters so that
+is going to be equal to, that is equal to 20 tesla meter squared, tesla meter squared, fair enough. Now what's the final,
+what's the final flux? The final flux, flux final
+is going to be equal to, well now the average magnetic field or the average components
+of the magnetic field that are perpendicular in the way I've defined this magnetic field, the vectors are already perpendicular is 10 teslas, so 10 teslas. The area of our ring hasn't changed, it's still four square meters, so times four square meters, and so what is this going to be? So our final flux is going to be final flux is going to be 40, 40 tesla meters squared. So what is our, what
+is our change in flux? Let me write this over here,
+our change in flux, change in flux, which is going to be our final flux minus our initial flux is going to be 40 tesla meters squared minus
+20 tesla meters squared, which is just going to be
+20 tesla meters squared. So we figured out the change
+in flux, we actually know the change in time is
+going to be four seconds and actually using that
+we can now figure out what the voltage induced is going to be, the voltage induced, or
+the voltage that's going to now induce, induce a current. And if you were to look up
+Faraday's law on the internet, you were to look up for a
+formula for Faraday's law you would see something
+that looks like this, you would see voltage
+generated is equal to negative and, at least
+if you're not using the calculus version of it, negative
+N times our change in flux, change in, let me write
+change in flux not just flux, change in flux, delta flux over change in time. So one way to think about
+this, and to do this problem right we're assuming we have a constant or the rate of change
+is constant in our flux so you have your average
+rate of change of your flux and then you're going
+to multiply it times N. N is actually the number of
+loops you have, or you can think of it as the number
+of surfaces defined by it. In this exact example,
+in this exact example N is just going to be
+one, we just have one loop so that simplifies it right over there and then, so this is going
+to be, and you might say what is this negative
+because it's a bit of a strange thing because
+you know, how are we defining direction, you
+know what's in the-- and all of that and that's
+why I'm a little bit, I'm not a huge fan of this negative sign. This is, you know if you
+look it up in a textbook they'll often say, and
+you're not using calculus, they'll say, oh this
+reminder to use Lenz's law, they'll write literally Lenz's law and I would say if they
+want a reminder to use Lenz's law why don't they just remind you to use Lenz's law instead of putting a kind of bizarre negative sign there. And the negative sign
+actually does make sense if you were, if you were doing kind of the using the vectors here and taking the, and using a little bit of the, well, doing more sophisticated mathematics but this is just saying
+that the voltage induced is going to be in a direction so to induce a current whose, whose induced magnetic field will go in the direction, will counteract the change in flux, so that's just Lenz's law there. So the real key here, at
+least for this example is to find our change in
+flux over change in time or our average, our average
+rate of change in flux and what is this going to be? Well this is going to be
+20 tesla meters squared, 20 tesla meters squared,
+that was our change in flux right over there divided
+by our change in time, which is four seconds, over four seconds, which is going to be equal to, and I'll, I could throw that negative
+there if we want to, that negative 20 divided by four is five, five tesla meters squared or square meters per second and this actually
+turns out to be a volt, so we could say this
+is negative five volts, negative, negative five volts, negative five volts. So if you have a voltage of,
+well let's just say five volts, we can think about the negative later, if you have a voltage
+of five volts across a, across a circuit that has
+a resistance of two ohms what is the current, what
+is the current going to be? Well we just have to remind ourselves V is equal to I-R or voltage is equal to
+the current divided by the resistance, or voltage is equal to the current times the
+resistance or you could say that the current, the current is equal to the voltage divided by the resistance. So in this case the
+current, the current induced is going to be the voltage
+and I'm just going to focus on its absolute value now, we can think about its direction in a second. It's going to be its voltage, five volts divided by the resistance, so two ohms, two ohms, which is going to be equal to, this is going to be equal to 2.5, 2.5 amperes, 2.5 amperes. So we now know the
+magnitude of the current that's going to be induced while we have this change in flux, remember this is going to happen while, over the course of those four seconds, as
+we have this rate of change of flux, this average
+rate of change of flux, which we'll assume is the
+actual rate of change of flux, we're assuming that it's
+changing at a constant rate and so while it is changing we
+were just able to figure out that it would induce a
+current of 2.5 amperes. Now the next question
+we should ask ourselves and this is where this
+little negative comes in, is a reminder for us to
+use Lenz's law is, well which direction is that
+current going to go in? Is it going to go in, let
+me pick two orientations, is it going to go in a,
+is it going to go in a, in a clockwise direction,
+is it going to go that way over the course of this change in flux or is it going to go in a
+counterclockwise direction, is it going to go that way? And to think about that
+we just have to use the right hand rule, take our right hand, point our thumb in the direction of the proposed direction of the current and so if we went with
+this one, our right hand, our right hand would look like this, I'm literally taking
+my left hand out and-- I mean my right hand
+out and I'm drawing it and I'm looking at it to
+think about what would happen, so that's my right hand
+so if I use the right hand if the current went in this
+direction then it would induce a magnetic field that went, that went like this and
+so if the current went in this direction the
+magnetic field it induces inside the surface would only
+reinforce the change in flux so it would only add to
+the flux so, and it's going in the same direction
+as the change in flux, which would just keep us, you know as we talked about in the Lenz's law video, that would turn into just
+this source of energy that comes out of nowhere and defies the law of conservation of energy so this absolutely not, is not
+going to be the direction and so we know that the direction is going to be in a clockwise one. So the current, the 2.5 ampere current is going to flow, is
+going to flow like that, and we're done! By thinking about our change in flux and how long it's taking us,
+we were able to figure out not only the magnitude of
+the current, we were able to figure out the
+orientation of the direction that it's actually going to flow in.

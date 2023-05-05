@@ -1,0 +1,156 @@
+Let's say that I'm a pension
+fund, and I have money to lend to other people. And I want to lend it to other
+people, because that way I can get interest on it instead of
+it just kind of sitting and doing nothing. And if I lend it to someone
+other than the government, I'll get better interest. So
+let's say that there's-- so let me draw me, I'm
+the pension fund. Maybe I'll drawn
+me in magenta. So that's me, pension fund. And let's say that there's
+some corporation, let's say it's GM. They make cars. I think you've heard of them. Some corporation, GM. Let's just call it
+Corporation A. They need to borrow money, maybe
+to buy a factory or to do something else, we're not
+going to get involved in what they need the money for. And I'd like to lend
+them the money. But there's an issue here. I am a pension fund. I manage the retirement fund
+for the teachers of California, or for the
+auto workers of Michigan, or whatever. And part of my charter says
+that I can only invest in very, very, very safe
+instruments. So I'm not allowed to go gamble
+people's money, because this is people's retirement. So I can't do very fancy
+things with it. I can only invest in things
+that are rated AAA, or let's say AA. I'm just kind of making
+this up on the fly. So AAA would be like
+the highest rated securities, right? These are things that have a
+very low chance of default. But Corporation A is only rated,
+I don't know, let's say it's rated BB. And actually, this is a good
+time to think about well who is doing all these ratings. And you might think, oh, it
+surely is a government entity, because only the government
+would be objective enough give all of these corporations
+frankly objective ratings. But unfortunately, it's not. They're private entities,
+that are actually paid to rate things. And I think I touched on it in
+the video on collateralized debt obligations. But their incentives are
+a little bit strange. Let's say I have Moody's. Moody's is one of the ratings
+agencies, and they rate Corporation A as BB. So they've said, these guys,
+they're pretty good, but they're not the U.S. government
+or something. There's a chance that they can
+go under, for whatever reasons, or they're sensitive
+to the economy as a whole. And I say, man, I would love
+to lend these guys money. I would love to lend
+these guys the $1 billion that they need. And these guys are willing to
+pay me 8% interest. But I can't do it, me as
+a pension fund, I cannot lend them money. Because I'm only allowed
+to lend money to A or above types of bonds. Or I can only buy A or above
+type of instruments. So what do I do? This guy needs money. I have money to give him, but
+his corporate credit rating, that was given by Moody's, just
+isn't high enough for me to lend him the money. And this is where credit
+default swaps come in. In an ideal world, I would give
+Corporation A, I would give them $1 billion. And then maybe they would
+annually give me, let me make up a number, 10% per year. And then this might have a term
+for 10 years, and then after 10 years, they'll pay me
+the $1 billon back and then I'll be happy. But as I said multiple times,
+I can't do it, because they are BB rated. And my charter says I can only
+invest in A rated bonds. So I go to another entity. And let's call this
+entity AIG. And these entities are
+essentially insurance companies on debt. And I'm calling this
+one AIG because AIG actually did do this. But it could be anything. A lot of banks did this,
+a lot of insurance companies did this. There are some companies that
+just specialize in writing collateralized-- sorry, in
+writing credit default swaps. What does AIG do for me? Well first of all, it's
+important to note that Moody's has given AIG, I don't know,
+let's give it a AA rating. I don't know what their
+actual rating was. They said, you know what, they
+are almost risk-free. They're almost like the
+U.S. government. Moody's has looked at their
+books, or supposedly, or hopefully has looked at their
+books, and says, oh you know, if you loan them money,
+they're good for it. So they have a very,
+very high rating. Although, once again, you have
+to worry about the incentive. Because who paid Moody's to
+give them that rating? And whenever you're getting
+paid to give a rating, you have to wonder about what your
+incentives are, in terms of how you rate things. But anyway that's a discussion
+for another video. But what AIG says is, you
+know what pension fund? I know you want to lend
+Corporation A money, and Corporation A wants to borrow
+money from you, but you have this problem because
+they're BB rated. So what we're going to
+do is we're going to insure this bond. We're going to insure this loan
+that you're giving to Corporate B. What we want in return for that
+is an insurance premium. We want you to pay us
+a little bit of this interest every year. If you pay us a little bit of
+this interest every year, we will insure this payment. So you get 10% a year, and
+you give us 1% a year. So you give us 1% a year. And this is also 1%-- just
+to learn a little bit of financial jargon-- this is also
+someone would say 100 basis points. One basis point is
+1/100th of 1%. So 1% of the same thing
+as 100 basis points. 2% is the same thing as
+200 basis points. So you pay me 100 basis points
+of the 10% per year, and in exchange, I will give you
+insurance on A's debt. And in fact, it might have not
+even been structured this way. It might have been structured
+so that Corporation A right here, before even issuing the
+bonds, they include this insurance with the bond. So instead of giving 10%, they
+cut out 1% to insure it. And then these essentially
+become AA bonds. And why is that? Well, they're BB, but you're
+being insured by someone who is AA. So all of the sudden, these
+bonds, because they're being insured by this entity that
+is AA, which Moody's has determined is AA, these bonds
+are now good enough for my pension fund to hold. Because I said, you know what
+even if corporation A goes under, I have this AA
+guy insuring it. And so I'm fine. So this is the equivalent
+of holding AA bonds. And what's my effective
+interest rate? I'm getting 9% per
+year, right? I'm getting 10% per year from
+Corporation B, and then I have to pay 1% to AIG. And if Corporation B goes under
+tomorrow, AIG is going to give me my $1 billion back. And you might say, Sal,
+this sounds like a pretty good situation. And this is where it starts
+to get a little bit shady. Because AIG, they're not just
+insuring my debt or my loan that I gave to corporation A. And think about it, AIG didn't
+have to do anything. AIG didn't have to put
+up any collateral. AIG didn't say, you know what,
+out of all of our assets, here is $1 billion that we're going
+to set aside, just in case Corporation A doesn't pay. Right? You would think that if you
+wanted to be guaranteed that this money was going to come to
+you, this AIG corporation would have to set
+aside the money. But they didn't have
+to do that. They just have to say, hey,
+Moody's has said we're AA, we're good for debt. We're good for insurance. So you just pay us 1% a year
+and trust us, or trust Moody's, that we really are
+good for the money. They never had to set
+aside the money. You're just going on a leap
+of faith that, if and when Corporation A defaults,
+AIG is going to be good for the money. Now this is where it
+gets interesting. Let me erase Moody's from the
+screen-- actually, maybe I'll go down here. AIG didn't just insure
+my debt. Let's say that there is
+Corporation C's debt. Let's say that they're B-- I
+don't know, all these ratings have different terminology. They're B+ rated. Right? And let's say there's $10
+billion of debt that they borrow from some other party. And in return, they give 11%. And this is Pension Fund B. And this pension fund had
+the same problem. They can only buy A-rated
+or above bonds. AIG also insures their
+debt that they gave to Corporation C. Maybe they'll pay them--
+Corporation C is maybe a little bit riskier, so out of
+the 11% I have to pay maybe 150 basis points. Or 1 and 1/2%, that's the
+same thing as 1%. And in exchange, they
+insure C's debt. Now something very interesting
+can happen here. AIG all of the sudden
+has an excellent business model, right? Because they were able to get
+this AA rating from Moody's, they can just keep insuring
+other people's debt, and they don't have to put any
+money aside, right? They don't have to give their
+assets to anyone else. And they just get these
+income streams, right? From my pension fund
+they're getting 1% per year of $1 billion. From this pension fund, they're
+getting 1 and 1/2%, 150 basis points, per year. And they can do this, frankly,
+as much as they want. They could do this
+a thousand times. And as long as Moody's doesn't
+get suspicious. As long as Moody's doesn't
+start saying, hey, wait a second, AIG, you only have $100
+billion in assets, but you have insured $1 trillion
+of other people's debt. Something shady going on, I'm
+going to lower your rating. As long as that doesn't happen,
+this AIG corporation can just keep insuring
+more and more debt. And frankly, as long as none
+of that debt goes bad, they just get this excellent income
+stream, and their CEO will get excellent bonuses. I think you start to see where
+you're having a single point of failure and a house of cards,
+and I'll continue that in the next video.

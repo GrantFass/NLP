@@ -1,0 +1,63 @@
+Because this will
+allow us to distribute the power to
+different locations. So we can take our
+positive and our negative and connect them here,
+and then anything else that needs a five-volt
+operational power can pull it from this. Because when you connect a
+positive here and a negative here, it powers all
+these little points, all these little connections. And then the difference
+on this board, of course-- and we went over
+this in our breadboard talk-- but the difference
+on this board is that when you put the
+power in one of these, it powers the row. And it only powers this row. It doesn't power this row. Here these strips of
+these little clips. And so they conduct the
+power all the way across. So we're going to trim
+down our power strip, which is part of the breadboard. We're going to cut it,
+I think right here, so that we can fit in
+front of the arduino and connect it to
+the surface here. Now, as you cut
+through it, you're going to want to hold
+it on the bottom, because there's metal
+clips on the inside. And as you're pushing down with
+a hacksaw, they'll pop out. And you want to make sure you
+can cut straight through those. So now we're ready to
+just file this off, clean up the edges a little
+bit here, and we're just using a standard file for that. So now we have our piece. It's got three sections in it. And that's going to
+distribute our power. Let's see how it fits. Well, space is at
+a premium here. Now that we've turned down
+our piece of our breadboard, we're going to take
+the double-stick tape off the back of it
+and stick it down. And we've double-checked
+that our arduino will fit over top of it OK. So let's go ahead and
+put this in place. And we still want to make
+sure that we have enough space before we press it in all the
+way to both mount our arduino and also to-- you want to scoot
+that out just a little bit. Oof. All right. So we've got our power
+distribution here, and this is for 5 volts. And so we're going to take
+our 5-volt power from here. And we're going to need to
+be careful how we route this. I think we're going
+to go underneath all these other wires
+here, so that we can get the power over
+to where we want it. All right. All right. So we got two cut. And now I'm going to just
+take the wire stripper here, and we'll take off a
+little less than a 1/4 of an inch of insulation. OK. There we go. And so we'll run our
+wire into its place where it goes to
+provide the power. And we can use our screwdriver
+to push it down into place. There we go. And we'll do the same
+with our positive wire. It looks about right. So yeah, that's pretty good. Are we still clear? It looks like we are. OK. So now we can run
+connections like this, which is for our camera,
+over to the power here. And the camera will
+have power ready, so when we send the
+command to turn it on, there'll be power
+that the camera can pull from like it would
+from its batteries. And again, we have a lot
+more wire than we need, which is a little bit
+unfortunate but that's OK. Always better to have too
+much wire than too little. All right. OK. And this is the positive
+wire for the battery. And I think what
+we're going to do for this is we'll try to
+snake it underneath everything just to get it out of the way. It looks like it might
+be the most efficient way to get it back there. So it's a bit like
+threading a needle, but-- OK. So now we have power run to
+our camera, which is 5 volts. And that power can be accessed
+when we turn our camera on.

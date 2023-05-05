@@ -1,0 +1,35 @@
+- [Instructor] All right, let's see if we can find the indefinite integral of one over five x squared
+minus 30x plus 65 dx. Pause this video and see
+if you can figure it out. All right, so this is going
+to be an interesting one. And it'll be a little bit hairy, but we're gonna work through it together. So, immediately you might try multiple integration techniques
+and be hitting some walls. And what we're going to
+do here is actually try to complete the square in this
+denominator right over here. And then by completing the
+square, we're gonna get it in the form that it looks
+like the derivative of arctan. And if that's a big
+hint to you, once again pause the video and try to move forward. All right, now let's do this together. So I'm just gonna try to
+simplify this denominator so that my coefficient on
+my x squared term is a one. And so I could just factor a
+five out of the denominator. If I did that, then this
+integral will become 1/5 times the integral of one over, so I've factored a five
+out of the denominator so it is x squared minus six x plus 13 dx. And then as I mentioned I'm gonna complete the square down here. So let me rewrite it,
+so this is equal to 1/5 times the integral of one over, and so x squared minus six x is clearly not a perfect square the way it's written. Let me write this plus 13 out here. Now what could I add and then I'm gonna to have to subtract if I don't want to change the value of the denominator. In order to make, In order to make this part right over
+here a perfect square. Well we've done this before, you take half of your coefficient here, which is negative three
+and you square that. So you want to add a nine here. But if you add a nine then you have to subtract a nine as well. And so this part is going to be x minus three squared and then this part right over here is going to be equal to a positive four and we of course don't want to forget our dx out here. And so let me write it in this form. So this is going to be equal to 1/5 times the integral of one over, get myself some space,
+x minus three squared plus four, which we could also
+write as plus two squared. Actually let me do it that
+way, plus two squared dx. Now many of y'all might already say hey this looks a lot like arc tangent, but I'm gonna to try to
+simplify it even more so it becomes very clear that it looks like arc tangent
+is going to be involved. I'm actually gonna do some u substitution in order to do it. So the first thing I'm going to do is let's factor a four out
+of the denominator here. So if we do that, then this is going to become 1/5 times 1/4 which is going to be 1/20 times the integral of one over x minus three squared over two squared. And this is going to be a plus one, and of course we have our dx. And then we could write this as, and I'm trying to just do every step here. A lot of these you might have been able to do in your head. One over, and I'll just write this as, x minus three over two squared plus one. Plus one and then dx. And now the u substitution
+is pretty clear. I'm just going to make the substitution that u is equal to x minus three over two. Or we could even say that's u is equal to one half x minus three halves, that's just x minus three over two. And du is going to be
+equal to one half dx. And so what I can do here is, actually let me start to re-engineer
+this integral a little bit so that we see a one half here. So if I make this a one half and then I multiply the outside by two. So I divide by two multiply by two. It's one way to think about it. This becomes 1/10 and so
+doing my u substitution I get 1/10, that's the 1/10
+there times the integral of. Well I have one half dx right over here which is the same thing as du. So I can put the du
+either in the numerator or I could put it out here. And then I have one over, this is u squared, u squared plus one. Now you might immediately recognize, what's the derivative of arctan of u? Well that would be one
+over u squared plus one. So this is going to be equal to 1/10 times the arc tangent of u, and of course we can't forget our big constant C because we're taking
+an indefinite integral. And now we just want to do
+the reverse substitution. We know that u is equal to
+this business right over here. So we deserve a little bit of a drum roll. This is going to be equal to 1/10 times the arc tangent of u. Well u is just x minus three over two, which could also be written like this. So arctan of x minus three
+over two and then plus C. And we are done.

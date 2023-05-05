@@ -1,0 +1,54 @@
+- [ Voiceover] Which
+of the following graphs can represent the hyperbola, y squared over nine minus x squared
+over four is equal to one. And we have our four choices here. Choices A and C open up to the top and the bottom or up and down. Choices B and D, you could see D here, open to the left and the right. And you can see within the ones that open up to the left, to the right or the up, down ones, they
+have different vertices. So I encourage you to pause the video and see if you can figure out, which of the following graphs represent the equation of a hyperbola, or the graphs of this equation right over here. Alright, so there's a bunch
+of ways to think about it. One thing you might say, well, what's the center of this hyperbola? And since in our equation, we just have a simple y squared or a simple x squared we know that the center is
+going to be at zero, zero. If the center was anywhere else, if the center was at the point h comma k, then this equation
+would be y squared minus the y-coordinate of the center. Sorry, not y-squared,
+it would be y minus k, so y minus the y-coordinate of
+the center squared over nine minus x minus the x-coordinate of the center squared
+over four is equal to one. And in this case, well,
+this is just a case, where k and h, or h and
+k, are both equal to zero. So we just get, you could view this as y minus zero squared
+and x minus zero squared. So the center in this case
+is going to be at zero, zero. And you see that for all of them. Now the next question you might ask, well, is this going to
+be opening up and down, or is it going to be
+opening left and right? And the key thing to realize is that you just need to look at whichever term, and when it's written in
+standard form like this, when you have y minus k
+squared over something squared minus x minus h squared over something squared is equal to one. Or it could be the other way around. The x-term might be positive and then the y-term would be negative, if we're dealing with the hyperbola. So the key is to just look at
+whichever term is positive. That will tell you which
+direction the hyperbola opens in. Since the y-term here is
+the one that is positive, it tells us that this hyperbola is going to open up and down. Now you could just memorize that but I, that's never too satisfying. I always want to know why does that work. And the key thing to
+realize is, if the y-term is positive than you can set
+the other term equal to zero. And the way you would set the other term equal to zero in this case is by making your x equal to the
+x-coordinate of your center and that's zero, so if
+x is, if you, x is equal to the x squared of your center and this term becomes
+zero, you can actually solve this equation. You can solve y squared
+over nine equals one. So if x is equal to zero, so x is equal to the x-coordinate of its center, then this term goes away and you would get y squared over nine is equal to one. Or y squared is equal to nine. Or y is equal to plus or minus three. So you know that the coordinates, the x-coordinate of the
+center, plus or minus three. That they're on the
+hyperbola, that they're, and so you know that it's going to open upwards and downwards so you go to the center, the
+x-coordinate of the center plus three and minus three
+are on the hyperbola. Notice over here. Plus three and minus three
+are not on this hyperbola. In fact, if plus three and minus three were on this hyperbola, you wouldn't be able to open up to
+the right and the left. And so that's why,
+whichever term is positive, that is the direction that
+you open up or down with, or if, so if the x-term was
+positive we would be opening to the left and the right,
+for the exact same reason. And you can see, if we did
+it the other way around, if we had the y equaling the
+y-coordinate of the center, so this term, if the
+y-term was zeroed out, you would end up with negative x squared over four is equal to one. Which is the same thing
+as x squared over four is equal to negative
+one, which is equal to x squared is equal to negative four. I just multiplied both
+sides by negative one there. And then I multiplied both sides by four and this has no solution. And so that's why we
+know that we're not going to intercept the, we're not
+going to intercept the line. We're never going to
+have a situation where y is equal to the
+y-coordinate of the center. So that's, so y is never
+going to be equal to zero. In this case, in cases B and D, y, there are points where y equals zero. So the thing to realize is whichever term is positive, that, and
+whatever variable that is, so if it's the y-variable,
+that's the direction we're going to open up in. And when I figured out what the actual vertices are, we
+saw that the point zero, plus or minus three are on the graph, so A looks like a really good candidate. If we look at the other
+choice, it opens up and down. It doesn't have zero, plus
+or minus three on the graph. It has zero, plus or minus two. So we can feel pretty good
+that, about, choice A.

@@ -1,0 +1,39 @@
+- [Instructor] I'm pretty sure I just tore my calf muscle this morning while sprinting with my son. But the math must not stop, (chuckles) so I'm here to help us think about what we could
+call influential points when we're thinking about regressions. And to help us here, I have this tool from BFW Publishing. I encourage you to go here
+and use this tool yourself. But what it allows us to
+do is to draw some points. So just like that, let
+me draw some points. And then fit a least-squares line. So that's the least-squares
+line right over there. And you can not only see the line, we can see our correlation coefficient. It's pretty good, 0.8156. It's pretty close to one. So we have a pretty good
+fit right over here. But we're gonna think about our points that might influence, or it
+might be overly influential, we could say, to different
+aspects of this regression line. So one type of influential
+point is known as an outlier. And a good way of identifying an outlier is it's a very bad fit to the line, or it has a very large residual. And so if I put a point right
+over here, that is an outlier. So what happens when we
+have an outlier like that? So before we had a correlation
+coefficient of 0.8 something, you put one outlier like that out of, it's now one out of 16 points, it dramatically lowered
+our correlation coefficient because we have a really large
+residual right over here. So an outlier like this
+has been very influential on the correlation coefficient. It didn't impact the slope of
+the line a tremendous amount. It did a little bit. Actually, when I put it
+there, it didn't impact the slope much at all. And it does impact the
+Y-intercept a little bit. Actually, when I put it out here, it doesn't impact the
+Y-intercept much at all. If I put it a little bit more to the left, it impacts it a little bit. But these outliers that are at least close to the mean X value, these seem to be most relevant in terms of impacting, or most influential in terms of the correlation coefficient. Now, what about an outlier that's further away from the mean X value? And something, a point whose X value is further away from the mean X value is considered a high leverage point. And the way you could think about that is if you imagine this as being some type of a seesaw somehow pivoted on the mean X value, well, if you put a point out here, it looks like it's pivoting down. It's like someone's sitting
+at this end of the seesaw. And so that's where I think
+the term leverage comes from. And you can see what I put an outlier, if I put a high leverage outlier out here that does many things. It definitely drops the
+correlation coefficient. It changes the slope and
+it changes the Y-intercept. So it does a lot of things. So it's highly influential for everything I just talked about. And if I have a high leverage point that's maybe a little
+bit less of an outlier, something like this, based on the points that I happen to have, it didn't hurt the
+correlation coefficient. In fact, in that example,
+it's actually improved it a little bit, but it did
+change the Y intercept a bit, and it did change the slope a bit. Although, obviously, not as dramatic as when you do something like that. And that kills the correlation
+coefficient as well. Let's see what happens if
+we do things over here. So if I have a high
+leverage outlier over here, you see the same thing. A high leverage outliers
+seems to influence everything. If it is a high leverage point that is less of an outlier. Actually, once again, it improved the correlation coefficient. You could say that it's still influential on the correlation
+coefficient in this case, it's improving it, but
+it's less influential in terms of the slope and the Y-intercept, although it is making a difference there. So I encourage you to play with this. Think about different points. How far they are away
+from the mean X value, how large of a residual they have, are they an outlier? And how influential they
+are to the various aspects of a least-squares line,
+the slope, the Y-intercept, or the correlation coefficient. When we're talking about
+correlation coefficient, also known as the R value, which is of course the
+square root of R squared.

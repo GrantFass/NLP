@@ -1,0 +1,35 @@
+- [Voiceover] So in this
+video we're goint to talk about Euler's formula. And one of the things I
+want to start out with is why do we want to talk about this rather odd looking formula? What's the big deal about this? And there is a big deal. And the big deal is e. We love e. And I'll underline that twice. Now the reason is, because when we take a derivative of e D DT of e to the x equals e to the x. And D DT of e to the ax so where a is anything equals ae to the ax. And so the property is that
+when you take a derivative of the function, the
+same function comes out. Or, if you take a
+derivative of the function a scaled version of the
+same function comes out. And we love this, because why? Because when we do differential equations e to the x is the solution. Almost every time. Whenever we did a circuit e to the x was the answer. If you recall from when we were solving circuit simple circuits
+with differential equations that we always said something like well we're gonna guess that V of T is some constant times e to the st. That was a proposed solution. This turned out to work every time. So there's something else we love, too. And that is sinusoids. Or, sines and cosines. Okay. We love these. And that gets two lines. Now why do we love these? Is because they happen in nature. If you whistle the air pressure looks like a sine wave. If you ring a bell the bell moves in a sine wave. In any kind of music if you look at the notes in music the sound they make the pressure waves look like sine waves. And circuits make sine waves, remember? We analyzed this circuit in great detail it was the LC circuit. We looked at the natural response of this and that was a sine wave. Okay. So, electric circuits make sine waves. All these things make sine waves. They occur in nature. And we want to be able to analyze things that happen when
+sine waves are present. So, we have two things we love and we want to relate these two things. And these are going to be related through that. Euler's Formula. That's how we connect
+these two separate ideas. Let me, let's go do that. So Euler's Formula says that e to the jx equals cosine X plus j times sine x. Sal has a really nice
+video where he actually proves that this is true. And he does it by taking the MacLaurin series expansions of e, and cosine, and sine and showing that this expression is true by comparing those series expansions. And I'm not going to repeat that here we're just going to state that as fact. And now we're going to look at
+this equation a little bit more. So, this is the expression
+that relates exponentials that we love, to sines
+and cosines that we love. And part of the price of
+doing that is we introduce complex numbers into our world. Here's two complex numbers. Okay. This is where complex numbers come into electrical engineering. So we have to mention the other form of this formula which is e to the, I put a minus sign in here, e to the minus jx. And that equals cosine X minus J sine X. So these two expressions together are Euler's Formula, or Euler's Formulas. And we're gonna exploit this by taking we'll be able to take
+the cosines and sines that we find in nature we're going to be able to fashion
+them into exponentials. And these exponentials then go into our differential equations
+and give us solutions. And we're going to come back
+and pull out the cosines and sines. That's the rhythm of how
+we're going to use this equation to help us solve circuits. One small point I want to share, notice that in both these
+equations the sine comes first? And the sine is over here on the imaginary side. So the cosine is the real side. This is the reason that we
+have a preference in the future we're going to have a preference if we're talking about
+our real world signals in terms of the cosine function. It's because in this Euler's Formula the cosine comes first, in both cases. So what I want to do now is take a second and I want to see if we had our signal expressed
+in these exponentials how do we recover the
+cosine and the sine term? How do we flip these equations around so we can solve for the
+cosine and the sine? It's a simple bit of algebra here. It's good to see. All right, so if I want to
+isolate the cosine term. If I want to isolate the cosine term let me get rid of these guys here. So now to isolate the cosine term what I'm going to do is add
+these two equations together and that plus and minus
+are going to cancel out this second term here. That's what I'm going for. So, if I add I'll get e to the jx plus e to the minus jx equals, cosine doubles, two cosine X. And the two sine terms cancel out. All right? So then I could write I'll write it over here. I can write, cosine of X equals e to the plus jx plus e to the minus jx over two. All right? So that's the expression that's the expression
+for cosine in terms of complex exponentials. Okay, let's go back and
+see if we can get sine. So what I'm gonna do with sine is I'm going subtract. And that gives me what that'll do is that'll
+get the cosine terms to fall away. And then I get e to the jx subtracting, right? Minus e to the minus jx equals cosine terms, they subtract out. And I get two times j times sine X. All right, and that means I can write sine X equals e to the plus jx minus e to the minus jx over two j. And it's really easy that j term is down there. That's easy to forget sometimes. So I put a square around these guys 'cause that's important. So there's the two expressions. That's the two expressions for if you have complex
+exponentials and you want to extract the cosine, this is how you do it. And if you want to extract the sine this is how you do it. Okay? And you can either you can put these in your head or probably easier for me, if you just remember Euler's Formula, this is
+a pretty straightforward quick derivation. So the other thing we put a square around is this guy here. So we have Euler's Formula. And basically the cosine
+and sine extracted from Euler's Formula.

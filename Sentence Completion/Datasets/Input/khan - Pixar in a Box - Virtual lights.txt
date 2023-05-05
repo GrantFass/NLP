@@ -1,0 +1,10 @@
+- Now that you've gotten a feel for lighting in the real world, it's time to get your hands
+on some virtual lights. In the next exercise,
+we have a lighting tool which will allow you to experiment with lighting an orange
+in a virtual environment. You'll be able to change
+the position, intensity, size and color of a virtual light. The first two sliders allow
+you to adjust the horizontal and vertical position
+of the light, like this. The next slider allows you to adjust the intensity of the light. Below that we have light size. Notice the effect it has on the lit areas as well as the shadow. As we increase the size of the light, the edges of the shadow blur and the light softens on the surfaces. Finally, we can adjust
+the color of the light from deep red to deep blue. If you don't want any color,
+simply set this to white. In this next exercise, you can experiment with these different
+parameters in order to answer a few challenge questions we have for you. Have fun!

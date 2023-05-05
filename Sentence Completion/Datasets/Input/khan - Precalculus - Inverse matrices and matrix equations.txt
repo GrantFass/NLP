@@ -1,0 +1,98 @@
+- [Instructor] In a previous
+video, we talked about how you can represent
+a system of equations as essentially a matrix equation. So for example, here I have two equations with two unknowns x, y,
+well let's just assume that we know what a,
+b, p, c, d, and q are, and you can represent
+this type of system as a matrix vector equation like
+this, where the coefficients on the x's are this first column, coefficients on the y's
+are the second column. And then we see our unknown variables, what we would want to solve
+for maybe, as this vector here, so you could do that as the
+unknown two-dimensional vector. And then we know when
+we either think about it as a transformation on this unknown vector we get this known vector,
+we get the vector pq, or you can think about it
+as matrix multiplication. When you multiply this
+vector by this matrix you get this pq vector. And in other videos we also talked about this idea of inverses. So for example, if we call
+this right over here, matrix A, you can imagine that, or what
+we're seeing here is matrix A, times the vector xy, I'll just write it like that, is equal to the vector pq. I'll just stick to one color
+for convenience right now. And we talked about this idea
+that if you have an inverse of a matrix times the matrix it's going to give you
+the identity matrix. So one idea for trying to quote solve, this matrix vector equation
+is what if we multiplied both sides on the left
+by the inverse of A? So if I had A inverse here and if I multiplied by A
+inverse here, what would happen? Well, assuming A inverse exists, and that's actually going to
+be the focus of this video, if A inverse exists,
+then this right over here is just going to become
+the identity matrix. So that's just the matrix
+that if I try to transform anything or if I multiply
+anything by it it's just gonna give us that thing that we had before, in the two by two scenario,
+the identity matrix, it looks like that. And then on the right-hand
+side, we'll be multiplying a two by two matrix times the vector pq. And so on the left-hand side, essentially the identity matrix times xy is just going to give us xy,
+and on the right hand side we would know what that equals to. So that would essentially
+solve this system when it is represented that way. But this gives us a clue about
+thinking when is it solvable? Because when it's solvable,
+you're going to have a situation where you
+do have an inverse here. And when it's not
+solvable, you're gonna have a situation where there
+is no inverse here, where this matrix A does
+not have an inverse. So when we go back to what we've
+learned in previous algebra classes about solving
+systems of equations, we know there's two scenarios where we get either no solutions or an
+infinite number of solutions. Let me draw a little coordinate axis here. We know that the lines
+have different slopes. So one line looks like this and then the other line, it
+could look like anything. As long as it has a different slope, they are going to intersect
+at exactly one point. Two lines with different
+slopes are gonna intersect in exactly one point. The situation which you
+have no solutions is if they are the same slope. So parallel lines like
+this would not intersect. Another weird situation that
+you get when you solve systems is that they have the same
+slope, but they're the same line. So that would be something like this. There would not be a unique
+xy, there would actually be an infinite xy's that
+would satisfy the equation. So those are both situations
+where we're not finding a nice, clean, unique
+solution to our system. And if we think about the
+matrix world, where we're not going to find an inverse of
+A that when we multiply it times pq it gives us
+a nice clean solution, in either of those scenarios where the two equations
+have the same slope. Now let's think about what do we know about abcd when we have the same slope? So if we were to try to
+put this top equation into slope intercept form,
+what would that look like? Well, let's see we can
+subtract ax from both sides. So you could have something like this, by is equal to p minus ax. I just subtract ax from both sides. And then if you divide both sides by b, you get y is equal to p
+over b minus a over bx. And so you can see in this first equation our slope is negative a over b. Now what about the second equation? Well, by the same logic,
+if you do the same thing, you subtract cx from both
+sides and then divide by d, you're going to get y is equal to q over d minus c over dx. And so we see the slope
+here is negative c over d. So these strange scenarios, not strange, but these scenarios where
+you don't get a nice clean unique solution are the
+ones where these slopes are equivalent to each other. So we're talking about
+the scenario in which negative a over b is equal
+to negative c over d. Now, to make a little bit
+of sense of that, let's say we multiply both sides of
+this equation by negative bd to get rid of these things
+out of the denominator. So let me do that. And I'm multiplying by a negative to get rid of the negatives, negative bd. So on the left-hand side,
+the b cancels with the b, negative times a negative is a positive, we're gonna get ad, and
+on the right-hand side, negatives cancel out, d goes
+away, and then you have cb. Or another way to think about it is, ad minus cb is going to be equal to zero. When ad minus cb is equal to zero, this system of equations does
+not have a unique solution. Now, things, bells might be
+ringing in your head right now, because ad, so that's a times d minus c times b, minus c times b, that's the determinant
+of this matrix A here. So this is going to be
+true only in a situation, if and only if, the
+determinant of our matrix A is equal to zero. So just like that, we
+have a pretty neat clue about when you're not going
+to see a nice neat solution to a systems of equations represented as a matrix vector equation like this. You're not gonna have a nice, clean unique solution when the determinant of your matrix A is equal to zero. And since you're not going to
+have a nice clean solution, you must not be able
+to find an inverse here because if you had an inverse,
+you could just multiply it. So this is a situation where
+this is only going to be true, and I haven't proven it rigorously, but hopefully it gives you a
+little bit of a justification. This is a situation where
+A inverse doesn't exist. So there's a lot that's interesting here. In a previous video, we
+thought about a matrix A and we thought about
+it as a transformation and how its determinant tells
+us how we are scaling areas. But if its determinant is
+zero, that means you're taking things that have
+two dimensional area and you're scaling them
+down to having zero area. It'd be very hard to go
+the other way around, which is what A inverse
+transformation matrix would do. Here, we're getting the same
+result, not viewing matrix A as a transformation, but
+viewing it as a representation of a system of linear equations like this. But once again, we got the same idea that the determinant
+of A is equal to zero. You're not going to get a
+nice clean solution here. And so the inverse does not exist.

@@ -1,0 +1,46 @@
+- [Voiceover] So this is an example from the Khan Academy exercise,
+graphing solutions to two variable linear equations. And they tell us to complete the table so each row represents a solution of the following equation. And they give us the equation, and then they want us to figure out, what does y equal when x is equal to negative five? And what does x equal when y is equal to eight. And to figure this out, I've actually copied and pasted this part of the problem onto my scratchpad, so let me get that out. And so this is the exact same problem, there's a couple of ways that we could try to tackle it. One way, is you could try
+to simplify this more, get all your xs on one side and all your ys on the other side. Or we could just literally substitute when x equals negative five, what must y equal? Actually, let me do it
+the second way, first. So if we take this equation, and we substitute x with negative five, what do we get? We get negative three times, well, we're gonna say x is negative five, times negative five, plus seven y is equal to five times, x is once again, it's gonna be negative five, x is negative five, five times negative five, plus two y. See, negative three times negative five is positive 15, plus seven y, is equal to negative 25 plus two y. And now, to solve for y, let's see, I could subtract
+two y from both sides, so that I get rid of the
+two y here on the right. So let me subtract two y, subtract two y from both sides. And then if I want all my
+constants on the right hand side, I can subtract 15 from both sides. So let me subtract 15 from both sides. And I'm going to be left with
+15 minus 15, that's zero, that's the whole point of subtracting 15 from both sides, so I
+get rid of this 15 here. Seven y minus two y. Seven of something minus
+two of that same something is gonna be five of that something. It's gonna be equal to five y, is equal to negative 25 minus 15. Well, that's gonna be negative 40. And then two y minus two y,
+well, that's just gonna be zero. That was the whole point of subtracting two y from both sides. So you have five times y
+is equal to negative 40. Or, if we divide both sides by five, we divide both sides by five, we would get y is equal to negative eight. So when x is equal to negative five, y is equal to negative eight. Y is equal to negative eight. And actually we can fill that in. So this y is going to be
+equal to negative eight. And now we gotta figure this out. What does x equal when
+y is positive eight? Well, we can go back
+to our scratchpad here. And I'll take the same equation, but let's make y equal to positive eight. So you have negative three x plus seven, now y is going to be eight, y is eight, seven times eight is
+equal to five times x, plus two times, once again, y is eight, two times eight. So we get negative three x plus 56, that's 56, is equal to five x plus 16. Now, if we wanna get all of our constants on one side, and of all of our x
+terms on the other side, well, what could we do? Let's see, we could add
+three x to both sides. That would get rid of
+all the xs on this side, and put 'em all on this side. So we're gonna add three x to both sides. And, let's see, if we want to get all the
+constants on the left hand side, we'd wanna get rid of the 16, so we could subtract 16
+from the right hand side, if we do it from the right, we're gonna have to do
+it from the left as well. And we're gonna be left
+with, these cancel out, 56 minus 16 is positive 40. And then, let's see, 16 minus 16 is zero. Five x plus three x is equal to eight x. We get eight x is equal to 40. We could divide both sides by eight, and we get, five is equal to x. So this right over here is going to be equal to five. So let's go back, let's go back, now. So when y is positive eight, x is positive five. Now they ask us, "Use your two solutions "to graph the equation." So let's see if we can do, oh, whoops, let me, let
+me use my mouse now. So to graph the equations. So when x is negative
+five, y is negative eight. So the point negative
+five comma negative eight. So that's right over there. So let me move my browser
+up so you can see that. Negative five, when x is negative five, y is negative eight. And when x is positive five, and we see that up here, when x is positive five,
+y is positive eight. When x is positive five,
+y is positive eight. And we're done. We can check our answer, if we like. We got it right. Now, I said there was
+two ways to tackle it, I kind of just did it, I guess
+you could say, the naive way. I just substituted negative five directly into this and solved for y. And then I substituted
+y equals positive eight directly into this, and then solved for x. Another way that I could have done it, that actually probably would have been, or, it would for sure, would have been the easier way to do it, is ahead of time to try to
+simplify this expression. So what I could have done,
+right from the get-go, is said, "Hey, let's put
+all my xs on one side, "and all my ys on the other side." So this is negative three x plus seven y is equal to five x plus two y. Now let's say I wanna
+get all my ys on the left and all my xs on the right. So I don't want this
+negative three x on the left, so I'd wanna add three x. Adding three x would cancel this out, but I can't just do it
+on the left hand side, I have to do it on the
+right hand side as well. And then, if I wanna get rid
+of this two y on the right, I could subtract two y from the right, but, of course, I'd also
+wanna do it from the left. And then what am I left with? So negative three x plus three x is zero, seven y minus two y is five y. And then I have five x plus three x is eight x. Two y minus two y is zero. And then if I wanted
+to, I could solve for y, I could divide both sides by five and I'd get y is equal to 8/5 x. So, this right over here represents the same exact equation as this over here, it's just written in a different way. All of the xy pairs that satisfy this, would satisfy this, and vice versa. And this is much easier. Because if x is now negative five, if x is negative five, y would be 8/5 times negative five, well, that's going to be negative eight. And when y is equal to eight, well, you actually could
+even do this up here, you could say five times
+eight is equal to eight x, and then you could see, well five times eight the same
+thing as eight times five, so x would be equal to five. So I think this would actually have been a simpler way to do it. You see it all, I was able
+to do the entire problem in this little white space here, instead of having to do all of this, slightly, slightly hairier, algebra.

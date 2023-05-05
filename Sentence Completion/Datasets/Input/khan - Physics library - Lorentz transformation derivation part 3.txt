@@ -1,0 +1,61 @@
+- [Voiceover] We've
+made some good progress in our derivation of parts of
+the Lorentz transformation. We've been able to
+express x prime in terms of our Lorentz factor and x and v and t. And we've been able to
+switch things around and represent x in terms
+of the Lorentz factor and x prime and v and t prime. And we were able to solve
+for the Lorentz factor. Now, the final missing
+piece in order for us to have the full transformation
+is to express t prime in terms of x and t. So, how can do we do that? Well, the way I'm going to
+tackle it is I'm just going to take this equation right over here, let me underline it. I'm just gonna take that
+equation right over there and solve for t prime. And the parts that have an x prime in it, I'm gonna substitute with this. So let's do that, let's
+solve this for t prime. The first thing that I wanna do is I wanna divide both sides of this equation by the Lorentz factor or by gamma. So if I do that, I'm going to get, I'm gonna move it over to the
+left so I have more space,. It's going to be x over gamma, x over gamma is equal to x prime. x prime plus v times t prime. t prime, let me do it
+in that same blue color. Now everything I'm gonna do here is pretty straightforward algebra, but it's gonna get a little hairy, so that's why I wanna take some caution with the colors and progress slowly. Now, since I wanna solve for t prime, let me subtract x prime from both sides. So the left-hand side is
+going to be x over gamma. I think that looks like a v too much. x over gamma minus x prime. Minus x prime is equal to v times t prime. v times t prime. And now, to solve for t prime, let's just divide both sides by v. And so, we are going to get x, let me do that white color. We're gonna get x over, well, now it's going to be gamma v. So, gamma v, v's in that orange color. Gamma v minus x prime over v is going to be equal to, is equal to t prime. So now we'll do what I said before. We've solved for t prime
+in terms of now gamma v, x, and x prime, but now
+we can take that x prime and replace it with gamma
+and all of this business right over here, so let's do that. If we take this and substitute it in for x prime, actually, let me swap sides too, we are going to get t prime is equal to x over gamma. Let me do the gamma in that red color. Over gamma times v minus this stuff. So we're gonna have gamma times, it's a little bit tedious,
+but we'll power through it. x minus vt . And if at any point you get inspired, I encourage you to run with it. So we just replaced x prime
+with this stuff over here and then we're gonna
+have all of that over v. So, all of that over v. And now what we can do, let's see. Let's factor out a
+gamma out of everything. So we will get t prime is equal to gamma times, and we're gonna have, it's
+gonna get pretty hairy now. Gamma times x over gamma squared. x over gamma squared, you
+factor out a gamma here, or another way to think
+about gamma times x over gamma squared is
+gonna be x over gamma. We still have that v over there. v and then minus. Minus. And actually, let me just
+distribute the minus sign, the negative sign. So, minus x over v. Minus x over v. x over v. Looking forward to this
+getting a little bit simpler. And then a negative times
+a negative is a positive, so it's gonna be plus vt divided by v. Well, that's just going to be plus t. Plus t. So, simplify it a little bit. Plus t. We're making some progress here. And so that is going to be
+equal to, actually, let me just, so I don't have to keep
+rewriting everything, let me just focus on this
+part right over here, try to simplify it and
+actually, even better, let me just focus on that
+part right over there. That part, we can factor out an x. If we factor out an x, it is going to be equal to x times one over gamma squared, v. So let me write that down. One over gamma squared, v. Get the colors right. Gamma squared, v. Gamma squared, v, and then minus one over v. W have the minus one over v. One over v. Now, if we want to
+subtract these two things, and let me put the close parentheses. If we wanna subtract these
+two things, it's nice to have a common denominator, so
+let's multiply the numerator and denominator here by gamma squared. This is gamma squared, gamma squared. And so, now I'm going to focus on this part right over here and hopefully this will simplify nicely. This is the same thing as one minus gamma squared, over gamma squared v. Over gamma, I picked a different color. Over gam, (chuckles) I'm having
+trouble switching colors. Over gamma squared, v. Now what does this simplify to? Well, it seems like it
+will be useful to have a different way of writing, well, let's just think
+about what gamma squared is. Gamma is this business right
+over here, which we could, if we were to square it, gamma squared. Gamma, that looks like a v again. Gamma squared is going
+to be equal to one over one minus v squared over c squared. I just squared the numerator,
+one squared is one. Take the square of the square root, you're just gonna get that. And if I wanted to
+simplify it a little bit, I could multiply the numerator
+and denominator by c squared. And so then that's going to be equal to c squared over, you
+multiply the denominator by c squared, you're gonna get c squared minus v squared. So how does that help us? Well, this business. One, we can write as c squared minus v squared over c squared minus v squared. So, let's do that. c squared minus v squared over c squared minus v squared. I just did that so it
+has the same denominator as gamma squared. And then, we're going to
+subtract gamma squared. So we're going to subtract, we're going to subtract c squared over c squared minus v squared. And it looks like this is
+going to simplify nicely. Well, let me just do one step at a time. And we're gonna have all of that over, gamma squared is once again c squared over c squared minus v squared. And we're gonna multiply that times v. Times, the v in that same color, all of that times v. Now, let's see, up here in the numerator, I have c squared minus v
+squared minus c squared. So, what's going to happen is this, and we have the same denominator, so this and that are going to cancel. And so this whole expression
+is going to simplify to negative v, and let me do
+it in that same v color. Negative v squared over c squared minus v squared. c squared minus v squared. And we're dividing by this and that's the same thing as
+multiplying by the reciprocal, so let's multiply b the reciprocal. So, times c squared minus v squared over c squared times v. And we are now in the home stretch. c squared times v. And we could do some simplification now. That's going to cancel with that. And then, v squared divided by v, you're just gonna be left
+with a v right over there. So, all of this crazy business has simplified to a negative v, and I'll just write it
+in that orange color. It has all simplified to negative v over c squared. So all of this has simplified to
+negative v over c squared and so we're in the home stretch. This expression, t prime, it's going to be equal to gamma times, let's write this t first. So, t . And then this expression has simplified to negative v over c squared times x. So we can write this as minus v over c squared times x. And we're done. We have just completed our
+Lorentz transformation. We started with this, that
+we've been able to show in the last few videos, and
+we did a little bit of hairy, carefully, did a little
+bit of hairy algebra to get this result: t
+prime is equal to gamma times t minus v over c squared times x.

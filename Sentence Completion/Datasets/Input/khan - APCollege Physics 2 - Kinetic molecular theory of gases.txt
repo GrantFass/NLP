@@ -1,0 +1,107 @@
+- [Instructor] So I wanna
+talk to you a little more about the kinetic-molecular
+theory of gases. What this basically says is that the macroscopic
+properties of a gas, like the pressure or the
+volume or the temperature are just a result of the
+microscopic properties of the gas molecules, like the position and the
+speeds of these molecules. So v down here is speed. V up here is volume. The idea is this gas is made of molecules. They're flying around
+in certain directions. They have certain speeds and if you knew those speeds and you knew the distribution of speeds and the positions in here, you could figure out these
+macroscopic properties. What I wanna basically do in this video is try to figure out
+what is the relationship if we know the microscopic properties, how could we predict the
+macroscopic properties, like if I knew the speed
+of all these molecules, how could I figure out what pressure would be
+in there or vice versa, if I knew the temperature of the gas, could I say what the average speeds are of these molecules in this gas. That's what we're gonna do, but first, we have to
+make a few assumptions. One assumption is that these
+molecules don't really interact and if they do interact, it would only be because of the collision and if there is a collision
+between these molecules, we have to assume it's elastic and kinetic energy will be conserved, the momentum will be conserved. Similarly, if one of these molecules strikes the wall of the container and has a collision there,
+that should also be elastic. There should be no kinetic energy lost. So then let's get to it. Let me just clean that up, get rid of that and start over up here. I need to figure out how to
+relate a microscopic quantity to a macroscopic quantity. Let's just start with speed. Let's say you got a particle in here, a molecule moving this
+way with some speed. I'll call it v x since I'm
+drawing it in the x direction and it collides with this wall, well, that's gonna impart
+a force on this wall and if you get a lot of
+these doing that in here, you'll get a pressure on this wall, but it's gonna be an elastic collision, so this particle is gonna bounce backwards with the same velocity and let's try to figure out
+what force that would exert 'cause if I can figure
+out the force on the wall, I can figure out the pressure 'cause pressure's just force per area. So Force, yeah, it equals m a, but it also equals delta P, the change in momentum
+over the change in time. So this is an alternate way
+to write Newton's Second Law. What would be the change in momentum? So I'm gonna try to find
+the force on this wall, the change in momentum, momentum is m v, and if the mass doesn't change, then change in momentum is just m delta v where the V here is speed. So mass times, sorry, excuse me, velocity. Mass times change in velocity. So what would be the change in velocity for this collision right here, struck the wall and bounced
+back with the same speed? Some people wanna say
+zero 'cause it comes in with the same speed that it goes out with, but V is velocity and so,
+the change in velocity is actually two times V because it came in with V
+and left with negative V. So technically, the change
+would be negative two V, but I'm gonna ignore negatives 'cause I just want the size
+of this force on this wall. So m times two times v x over delta t but I don't want delta t in here. I want an equation of state
+that just has pressure and volume and speeds and stuff like that. So how can I get rid of delta t? Well I know the distance in here, let's just call the side lengths here L. So see we have a box
+of L by L by L to cube. Well, the time it takes
+between collisions, so there's an impulse here and delta v right when
+this collision takes place and then this particle
+travels over here to the left, bounces off at this wall then comes back over to
+here, again, hits it. How long is it between those impacts? Well, the time it would take
+to travel to the left and back, I know speed is distance per time, so the time, the delta t, is just gonna be the distance per speed and the distance is not just L 'cause it's gonna travel
+to this wall and then back. I wanna know the force
+on this wall over here. I need to figure out how long is it between collisions with this wall, so it's gonna be two times L over the velocity in the x direction. That's where I can substitute in over here and I get that F is gonna be m times two v x over delta t now is two L over v x but since I'm dividing
+by v x on the bottom, I moved that up top and look, I've already got one here, so I'm just gonna square it. I can cancel off the twos and I get that the force on
+the wall by this particle is mass times its velocity in the x direction squared divided by L. I should say this particle doesn't have to just be
+going in the x direction. It might have some total velocity this way where the x component
+is just a part of it, but it I just took the x
+component of the particle speed, whatever particle it is
+that had some velocity, the x component, I'd get
+the force contribution to the pressure on this wall over here. So this is the force
+on this wall over here by one particle, but
+I wanna know the force from all the particles 'cause I wanna get the total pressure, so how could I do that? Well, if I want the total
+force, I just need to add up the contributions from all the particles. So let's say there were other particles, well they're gonna have the same mass m. I'm assuming they got
+the same gas throughout. All molecules have the same mass and the L will be the
+same for all of them. So, the only difference in contribution will be that some may have a certain component of
+velocity in the x direction. I'll call this v x one squared plus there may be some other particle that has a different component, two, and there may be some particle that has a different component, three. You just have to add all these up. So I have x v two, the two references particle two squared plus v x three, the x
+component of particle three's, velocity squared plus, I'd keep going to N many times. I'd keep adding this up until I got what V x N, the nth
+particle, total amount, if there's N particles in there, squared, but this is looking like an average. In fact, if I just divide both sides by N, the total number of particles, look at what I'd get. I get the Force over N equals m divided by L times, this whole thing divided by
+N is just the average value. The average value of what? The average value of V x squared and it's the average value of V x squared, so I'm gonna put a bar
+over the top of this. This is telling you that
+it's the average value of V x squared. It's not the square of
+the average values of V x. That's different. If I took the averages of all the Vx's, V x one plus V x two plus
+V x three divided by N and then square it, I'd
+get a different result, so that's important to note. First, you square them all, take the average, and that's what you're doing here. You're taking the average of the squares, not the square of the average. Okay, so moving on, we get the F equals N times m over L, the average value of V x squared, but what do we wanna do with this? I promised you a relationship
+between speeds and pressure, so let's turn this into pressure. Let's figure out what's the
+pressure on this area here, so I have to turn this into a pressure. That's not too hard. Pressure is just force per area, so I just divide this by
+the area of this wall. So if I divide the left side by area, I've gotta divide the right
+hand side by area as well. What does that leave me with? On the left hand side, I
+get pressure, that's good, a macroscopic variable, equals N times m times V x squared averaged over all the gas molecules divided by A times L, but A, what's A? A is just L squared. So I get L squared times L on the bottom. That's just L cubed and look at what's gonna happen. L cubed, that's just volume. That's the volume of this cube and so I get N, the number of molecules times m, the mass of one of the molecules times the average value
+of the x component squred over all the gas molecule divided by V, that's the volume. We're getting close. This is looking like the Ideal Gas Law, so this is really good. Let me just take this result, actually, and just put it in a new window so we can get a clean result. And look at what I get. I get that the pressure times the volume, if I multiply both sides by V, pressure times volume equals the number of gas molecules times m times the average squared x velocity in the gas. So this is pretty cool. If I went out and measured
+the pressure of a gas and the volume of the gas, I could try to figure out now what this average squared x components of velocity are for the gas. That's a microscopic quantity. We got a relationship now, but, I mean, I don't just care, like I'm not trying to just single out x. There's y and there's
+other directions in here. Why would we want an
+equation with just the x? Usually, you just want a formula. It'd be better if this just told us the total average squared velocity. Let's do that. If this is in the x direction, I had velocity in the x, but these particles also have
+velocity in the y direction, and so the total, we know that total V total would be V x squared plus V y squared, and there's also one more. We live in three dimensions, there we go, V in the z direction, so this is the Pythagorean
+theorem in three dimensions. It works in three, just
+as well as it does in two, but this equation works
+also if I average them all. If I took all the averages of the x squared components of velocity and I took the average of all the V y squared
+components of velocity, so if I take these all and I average 'em, well this equation's still true, oops, this should have been
+squared, oh my goodness. This V total here should have
+been squared right there. We take the average. Now, I'm gonna make a claim. I'm gonna claim that the particles in here are flying around randomly. There's no direction that's singled out. There's no preferred direction. They have just as much velocity on average in every direction as any other direction. So, really, V in the x direction squared averaged over all the gas molecules has to be equal to V in
+the y direction squared 'cause why would it be any different? Why would y be preferred than x? I mean, on average. If you had a lot of gas molecules, these have got to basically
+statistically be, even V z, has got to be equal the
+average of those squares. These have gotta be equal. So, I may as well write this down here as three times one of them. So, three times V x squared average because I already have that one up here. And now I can, this is a way I can get V total in here. I want V total, not just one direction. So, I get V x squared averaged over all the gas molecules equals, I'm just gonna divide
+both sides by three here and I get V total squared averaged over all the gas molecules divided by three. This is cool. Now I can substitute this into there and I'll get a relationship that says that P times V, P times V equals the total number of gas molecules times the mass one gas molecule times the average of the
+total squared velocities divided by three and I'm gonna rearrange
+this just a little bit more. I'm gonna say that let's
+multiply both sides by three. I'll get that three times P V equals N times m times the average of V total squared for all the gas molecules and I'm gonna do one more thing. I'm gonna multiply both sides by 1/2. You might think that's random but I'm doing this for a reason. Check this out. Now, look at what we got over here. This whole term right there, 1/2 m V squared, this should look familiar. This is just the average kinetic energy of one of the gas molecules. This is awesome. This says, if I knew the
+pressure and the volume, then I've got a way to figure out what's the average kinetic energy of one of these gas molecules. This give me a direct relationship between the kinetic
+energy of a gas molecule or the average kinetic energy and what the macroscopic
+pressure and volume are. It's so important that
+I'm gonna write it again. What we found was that the 3/2 times the pressure times the volume equals N times the average kinetic
+energy of a gas molecule. What can we do with this? We can do a few more things. P times V, I know what P times V is. Remember, the Ideal Gas Law, P V equals capital N k T, so I can substitute in N k T over here and I'll get that 3/2 times capital N k T equals capital N, average kinetic energy. Well, these Ns cancel and I get a direct formula that the average kinetic energy in a gas, the average kinetic energy
+of one single gas molecule equals 3/2 k B T. This is nice. It tells me that directly,
+if I know the temperature, I can directly figure out
+the average kinetic energy of one of these gas molecules no matter what kind of gas I have as along as it's an ideal
+gas, that's pretty cool. Something else that's useful is this is the average kinetic
+energy of one gas molecule. This is N all of the gas molecules,
+the total number of them. So this whole thing right here is the total energy, the
+total thermal energy, of that gas if it's monatomic, if the gas molecule isn't diatomic, if it's a single, simple monatomic gas, all it's got is kinetic energy. That's the only energy you can have, and so, 3/2 P V is the total energy of the gas or you can write it as 3/2 N k T would be the total internal energy or you wanna do 3/2 little n, R T equals the total internal energy. These are really useful to know but they're only true for
+a monatomic ideal gas, a monatomic gas where the
+molecules that make up the gas are composed of only a single atom like helium or neon or
+any of the noble gases. If you have a monatomic ideal gas, these formulas give you
+a direct relationship between the macroscopic quantities and the total internal energy of that gas. These are particularly useful and it's useful to note that
+by total internal energy for a monatomic ideal gas, that's just a fancy word for
+the total kinetic energy. See, people used to think
+these were different energies. Remember that people thought
+maybe there's thermal energy, something new, something different. Nope, Boltzmann told us, "That's just kinetic energy
+in there for the most part," and for a monatomic ideal gas, it's only kinetic energy in there. So, U total is just another word for the total kinetic energy, but when we talk about thermal systems, you'll often hear it referred to as the total internal energy of the gas.

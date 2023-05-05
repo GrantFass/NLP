@@ -1,0 +1,143 @@
+- Here's something confusing. If I showed you two lenses that had two different focal lengths. One had a little focal length,
+one had a big focal length, and asked you which one
+of these is more powerful. Which lens has the higher power? You might confused about what power means, but if you had to pick,
+I think a lot of people would probably pick this lens down here because we automatically think
+bigger means more powerful, so a bigger focal length
+means that it's more powerful. But that doesn't really
+make a lot of sense, because let me show you
+what happens if we send in parallel light rays into these lenses. Well, what do they do
+with these light rays? We know what they do. They send light rays to the focal point because that's what convex lenses do. So it'll look something like this. So this light ray gets sent
+there, that gets sent there, this one through here and
+this one through here. That's what happens with that lens. What happens down here? This lens isn't going to
+bend the light as much. If your focal length is
+farther away, look at, it's bending the light, yes, but the light has not been impacted. It's original trajectory
+has not been as influenced as the other lens up here with
+the smaller focal lengths. So it turns out, lenses that
+have a small focal length will actually have more a greater impact on the trajectory of the light than lenses do with a larger focal length. Imagine putting this focal length all the way out at infinity, well then it really wouldn't
+affect the light at all. The light would just
+continue straight through because the amount it's
+bending is hardly anything. So this is a little weird,
+but small focal length means a powerful lens. So rather than talk about focal length, optometrists and
+ophthalmologists often talk about lens power, so the lens
+power is just defined to be - this isn't power like jules per second - this is lens powers defined to
+be one over the focal length and so if you're using SI
+units, we'd have one over meters and that's given a special name. That's called diopters. So a one over a meter is called a diopter and this is what optometrists
+and ophthalmologists use to measure lens power in,
+it's represented with a D. This makes a little more sense because if your diopter
+measurement is large, that means powerful lens. And if your diopter measurement is small, that means not as powerful of a lens. And so in other words, if
+this focal length up here was 10 centimeters, well I'd
+have to convert it to meters, so 10 centimeters is .1
+meters, and then to get the power, the power
+for this lens would be one over the focal length in meters, so I'd have one over .1 meters, and that would mean this
+is a 10 diopter lens. That's supposed to be a D, 10 diopter. And down here, if this one
+was more like 50 centimeters, I'd say that the power is one over f, I've got to convert to
+meters, so one over .5 meters, and I'd get two diopter,
+or two one over meters, so a diopter has units of one over meters, or meters to the negative one. Now I'm kind of lying a little bit. Spherical lenses don't
+actually send their light rays exactly through the focal point. Not all of them if you're
+sending parallel light rays like this through the
+whole face of the lens. Some of them are going
+to miss a little bit and it's called spherical aberration, so another thing that
+you'd be interested in if you're trying to craft precise lenses for a specific purpose is the
+idea of spherical aberration. Let me show you what that's all about. So let me hide these. So what's supposed to
+happen, parallel light rays are supposed to get sent
+exactly through the focal point, boom, right there. What actually happens is,
+parallel light rays get sent - the ones on top get bent a little bit more and they might focus around this point, and the ones closer into
+the center of the lens get sent over here, and so
+this spherical convex lens kind of focuses all the light to a point, but it creates a little
+bit of a blur here, so this is called spherical aberration and this is an inherit
+problem with spherical lenses. The light that gets sent
+through the top gets bent a little bit more than the
+light that gets sent more toward the middle, and so
+you've got this problem. This is a problem if you have
+a highly precise situation that you need to create an image for. It might get a little bit blurry because of spherical aberration. So you might wonder, why does this spherical aberration happen? It has to do with the fact that, you know how we're always
+calling these thin lenses, you might wonder, why are
+we always calling them thin? Why do they got to be thin? It's because if they're thin,
+all these angles involved for these normal lines
+are going to be small. And if the angles are
+small, that's a good thing because in physics,
+physicists love this one. Here's a trick we like playing. Sine theta for small angles
+is approxoimately just theta so there's all kinds
+of approximations here that you can use if the lenses are thin, and you get that they all go basically through the focal point,
+but there's a difference between basically going
+through the focal point and exactly going through the focal point. The farther you get up here, the larger this angle is going to be, the more deviation you're going to get. It's just a problem inherit
+to this spherical lens. The problem is, it's easy
+to mix spherical lenses. I mean, it's easy to make a
+perfectly spherical shape. If you wanted to make
+one that did send them exactly through the center,
+it would be harder to do. You'd have to pick a different shape because spheres just
+don't cut it in that case. Spherical aberration's not even
+the only type of aberration. There's other kinds of aberration. One of them is chromatic aberration, and as the name suggests,
+this has to do with color and remember, dispersion
+with lenses or any material, dispersion says that some
+colors bend more than others. So some colors experience a
+higher index of refraction red turns out experiences a
+smaller index of refraction, so these red rays would
+get sent that get bent a little bit less than yellow. So they might meet up there. And blue rays, blue gets
+bent more higher frequency, light gets bent more. So you'd get these colors separating. So this is another problem
+with spherical lenses or any type of lens, is you might get some sort
+of chromatic aberration. So these are things to look out for if you're trying to create a
+precise optical instrument. One of the most precise
+optical instruments is the human eye, and in the human eye, you have a lot of parts. Up front you've got the cornea. This acts like the main lens. This is the front lens here. This does most of the
+bending of the light, but you've also got this inner lens that's just called the lens. And this inner lens is more adjustable. This can sort of make fine adjustments to what you're looking
+at depending on how close something is to your eye, this can adjust, and these ciliary muscles
+are muscles that can exert a force on this lens and
+can change the shape of it. This is bendable. This inner lens is bendable, and depending on what
+distance away the object is, these ciliary muscles can
+change the shape of this lens to make sure that the image is
+formed right on your retina. This back wall acts as
+the screen of your eyes, and this is where you
+want the image to form. If you form a nice clean
+precise image on your retina, the optical nerve can take
+that information to your brain and you get a nice clean image of whatever it is you're looking for. Maybe it's a tree. Now the weird thing is,
+so here's your tree. Maybe you see this, but
+here's the weird thing. You've got this cornea and
+this inner lens are both convex and if you're going to see a real image that's actually projected
+on a screen here, this is actually going to
+be an upside down image. Your tree image that forms
+actually on your retina is an upside down real image. So your optical nerve sends
+that information to your brain. Somewhere in your brain it
+flips it over and then you get a clean image of a tree
+that's right side up. So, if you were looking
+at a far away tree - let's say the tree was really far away and these light rays were
+coming in basically parallel you'd want to make sure
+your cornea and inner lens were able to focus these light rays from some point on the tree,
+straight into the retina, and you form a nice clean
+image at the retina. So that's good. Let's say you were able
+to do that just fine and you get a clean image of this tree, what if you got a little bit closer? Maybe you get a little bit
+closer, and now the image isn't so clean, so you got this tree here. You're looking at a particular part of it. Maybe you're looking at
+this part right here. You're a little closer. This part comes in here. We're looking at light rays out of here. It's not going to get bent as much. Your ciliary muscles are
+going to have to adjust, but maybe they can't cut
+it and this forms an image back here, but that's bad. That's bad because if you form
+an image behind your retina, that's going to be blurry. You're not going to see
+the nice clean image here. You're going to get this
+weird blurred out image, so your ciliary muscles are
+going to try to compensate, but maybe they can't, so this
+person might need glasses. This person, if they were able to see the far away tree just fine, but things up close were
+hard for them to focus on, we'd call this person farsighted. So farsighted people can see
+far away stuff just fine. But when it's too close,
+they can't focus on it, so what do we do? We add
+another lens in here. We're going to add a
+lens that tricks our eye. See, our eye, this farsighted person was good at seeing stuff far away. So I'm going to try and
+take this tree, this object. I'm going to try and make
+an image of it farther away. So how do I do that? I'm going to prescribe
+this person a convex lens because the convex lens
+will create a virtual image of the tree at some farther away point. We trick our eye. Now it can focus a little better. We can take this image and
+bring it up to our retina, get a nice clean image of the tree. So that's for a farsighted person. For a nearsighted person, let
+me get another image in here. Nearsighted people can
+see stuff near just fine and it's the far stuff that
+they have trouble with. So for a nearsighted person,
+focusing on this tree up here that's no problem, they can
+focus on this just fine. They get a nice clean image
+of the tree right at the spot where it's supposed to
+be at, at the retina. You get a nice clean image, but if you move the tree further away, they'd have trouble. So we need to take this tree. I'm going to take it right here. So I'm going to take this tree and I'm going to move it farther away. Now the eye has trouble seeing it. And so, now the eye is
+going to form an image. Maybe the eye forms the image up here. That's not good. We need to bring this
+back over to this way, so we'll have to prescribe a lens. This person was able to see
+near stuff just fine, so again, we're going to have to trick our eye. We take this object. We need a lens that makes our
+eye think that this object's closer than it is, and
+we'll prescribe this person a diverging lens, or concave lens. This lens is going to make
+a virtual image of this tree that's a little bit closer
+than the actual object was so now our light that comes into our eye, once it gets to our eye, I'm neglecting a lot of
+bending going on here. We can actually get this light
+to focus right on our retina, which is what we wanted it to do and we get a nice clean image. So, depending on whether your
+nearsighted or farsighted, you'd prescribe someone either. So nearsighted get diverging lenses. Farsighted people get converging lenses, and that's one way you can trick the eye and make it so you can
+see a nice clear image.

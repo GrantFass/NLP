@@ -1,0 +1,28 @@
+Voiceover:Say you're out
+flying kites with a friend and right at this moment you're 40 meters away from your friend and you know that the length of the kite's string is 30 meters, and you measure the angle between the kite and the ground where you're standing and you see that it's a 40 degree angle. What you're curious about is whether you can use your
+powers of trigonometry to figure out the angle between the string and the ground. I encourage you to pause the video now and figure out if you can do that using just the information that you have. Whenever I see, I guess,
+a non right triangle where I'm trying to
+figure out some lengths of sides or some lengths of angles, I immediately think
+maybe the Law of Cosine might be useful or the Law
+of Sines might be useful. So, let's think about which one could be useful in this case. Law of Cosines, and I'll
+just rewrite them here. The Law of Cosine is c squared is equal to a squared plus b squared minus 2ab cosine of theta. So what it's doing is it's relating 3 sides of a triangle. So a, b, c to an angle. So, for example, if I do 2 sides and the angle in between them, I can figure out the third side. Or if I know all 3 sides, then I can figure out this angle. But that's not the situation that we have over here. We're trying to figure
+out this question mark and we don't know 3 of the sides. We're trying to figure out an angle but we don't know 3 of the sides. The Law of Cosine just doesn't seem, at least in an obvious way, that it's going to help me. I could also try to find this angle. Once again, we don't know all 3 sides to be able to solve for the angle. So maybe Law of Sines could be useful. So the Law of Sines, the Law of Sines. Let's say that this is, the measure of this angle is a, the measure of this angle is lower case b, the measure of this angle is lower case c, length of this side is capital C, length of this side is capital A, length of this side is capital B. The Law of Sine tells us the ratio between the sine
+of each of these angles and the length of the opposite side is constant. So sine of lower case a over capital A is the same as lower
+case b over capital B, which is going to be the same as lower case c over capital C. Let's see if we can leverage that somehow right over here. We know this angle and the opposite side so we can write that ratio. Sine of 40 degrees over 30. Let's see. Can we say
+that that's going to be equal to the sine of this angle over that? Well it would be, but we
+don't know either of these so that doesn't seem like
+it's going to help us. But, we do know this side. Maybe we could use the Law of Cosines to figure out this angle, because if we know 2 angles of a triangle, then we can figure out the third angle. So let's do that. Let's say that this angle
+right over here is theta. We know this distance right
+over here is 40 meters, so we can say that the
+sine of theta over 40, this ratio is going to be the same as the sine of 40 over 30. Now we can just solve for theta. Multiplying both sides times 40, you're going to get, let's see. 40 divided by 30 is 4/3. 4/3 sine of 40 degrees is
+equal to sine of theta, is equal to sine of theta. Now to solve for theta,
+we just need to take the inverse sine of both sides. So inverse sine of 4 over
+3 sine of 40 degrees. Put some parentheses here, is equal to theta. That will give us that angle here and we can use that information
+and this information to figure out the angle
+that we really care about. So, let's get a calculator out and see if we can calculate it. Let me just verify, I am in degree mode. Very important. All right, now I'm going
+to take the inverse sine of 4/3 times sine of 40 degrees, and that gets me, and I deserve a little bit of a drum roll, 58, well if we round to the nearest, let's just maintain our precision here. So 58.99 degrees roughly. This is approximately
+equal to 58.99 degrees. So, if that is 58.99 degrees, what is this one? It's going to 180 minus
+this angle's measure minus that angle's measure. Let's calculate that. It's going to 180
+degrees minus this angle, so minus 40, minus the angle that we just figured out. Actually I can get all of our precision by just typing in second answer. So that just says our previous answer so I get all that precision there and so I get 81.01 degrees. So, if I want to round to the nearest, let's say I want to round
+to nearest hundredth of a degree, then I'd say 81.01 degrees. So this, this right over here, is approximately 81.01
+degrees and we're done.

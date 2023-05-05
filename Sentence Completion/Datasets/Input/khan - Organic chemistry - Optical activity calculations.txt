@@ -1,0 +1,58 @@
+- [Narrator] Let's do some calculations using optical activity. So for our first problem,
+let's say we have .300 grams of natural cholesterol. So here's the dot structure
+for natural cholesterol, it's an optically active compound, and we dissolve our cholesterol in 15.0 milliliters of chloroform. And we put that solution
+in a 10.0 centimeter polarimeter tube, the observed
+rotation at 20 degrees C, using the D line of sodium, it turns out to be negative .630 degrees. And our goal is to calculate the specific rotation of cholesterol. We saw how to do this in the last video. The specific rotation is equal
+to the observed rotation, divided by the concentration
+times the path length. So let's plug in some numbers, here. The specific rotation is equal
+to the observed rotation, which is negative .630
+degrees, so we put that in. Negative .630 degrees. We divide by the concentration,
+which is in grams per mL. So that's .300 grams, divided by 15.0 mLs. So .300 grams divided by 15.0 mLs. We multiply that by the path length, and the path length needs
+to be in decimeters. So we have a 10.0 centimeter tube, 10.0 centimeters is 1 decimeter, so that makes our math easy, here. So this would be 1.00 decimeter. All right, let's do the math. So let's get out the calculator, and let's solve for the specific rotation. That would be negative .630 divided by, we have .300 divided by 15.0. And then we multiply that by one. I don't really need to do that, but I'll go ahead and do it anyway. So that's multiplied by 1.00, here. And we get negative 31.5. So that is our specific rotation. So let's write that down, here. So we have our specific
+rotation at 20 degrees C, so we put a 20 here, using
+the D line of sodium, so we put a D here, and this is equal to negative 31.5. Now, sometimes you see
+this with a degrees sign, so sometimes you'll see
+it written like that, but I'm going to take that
+out, because normally, we don't have any units
+for our specific rotation. So it just depends on what
+book you're looking in. For our next problem, problem two, let's talk about percent
+enantiomeric excess, or optical purity. This is where you take the
+percentage of one enantiomer, and from that you subtract the percentage of the other enantiomer. So for part A, let's calculate the percent enantiomeric excess for
+a solution that contains a single enantiomer. So if we have only one enantiomer, this is like the first
+problem that we did, with natural cholesterol. That means you have
+100% of this enantiomer, and obviously 0% of the other one. So the percent enantiomeric excess would just be 100 minus zero, or 100%. So we have 100% optical purity, so this is an optically pure solution. For part B, let's do this
+for a solution that contains equal amounts of both enantiomers. So when that happens, it's
+called a racemic mixture. So if we have equal amounts of both, that must mean we have
+50% of one enantiomer, and 50% of the other. So the percent enantiomeric excess would be equal to 50 minus 50, which of course is equal to zero. So this has an optical purity of 0%, and a racemic mixture
+is not optically active. You get a net rotation of zero if you have equal amounts
+of both enantiomers. For part C, we have a
+solution that contains 75% of one enantiomer,
+and 25% of the other. So the percent enantiomeric
+excess is equal to, this would be 75% minus 25%, which of course is equal to 50%. So we have 50% excess of this enantiomer, and we have a 50% optically pure solution. For our last problem, we have a mixture of natural cholesterol and its enantiomer. And our mixture has a specific
+rotation of negative 27. Our goal is to calculate the
+percent enantiomeric excess of this mixture, and we can do that using this equation up here. So the percentage enantiomeric excess is equal to the observed
+specific rotation, divided by the specific
+rotation of the pure enantiomer. And to get a percentage,
+we multiply it by 100. So the percent enantiomeric
+excess is equal to the observed specific rotation, which is negative 27, so
+we write that in here. So negative 27. We divide that by the specific rotation of the pure enantiomer. And for natural cholesterol, we saw what the specific rotation of the pure enantiomer
+was in the first problem. We got negative 31.5. So I'll write in here, negative 31.5. And we multiply it by 100. So that gives us our
+percent enantiomeric excess. So let's get out the calculator, here. We don't need to worry
+about negative signs, so we can just take 27
+and divide that by 31.5, and multiply it by 100, and we get 85.7. And let's round that to 86%. So our percent enantiomeric excess is 86%. So we're done with our calculation, here. Our next question is, what
+percentage of the mixture is natural cholesterol? Well, 86%, this was our
+enantiomeric excess. So if we think about this as being 86% of natural cholesterol, so let me write this down, here. 86% of natural cholesterol. And the remaining 14%
+must be a racemic mixture. So if the remaining 14%
+is a racemic mixture, that means half of it
+is natural cholesterol, and half of it is the enantiomer. So that means that 7% is
+our natural cholesterol, and 7% is the enantiomer. So seven plus seven is,
+of course, equal to 14. So what's the total percentage
+of natural cholesterol in our mixture? That would be 86 plus seven,
+which of course is 93%. So that's our answer. So 93% of our mixture
+is natural cholesterol. This can get a little
+bit confusing sometimes, so you can check this answer
+to make sure it's correct. You know that the total
+of natural cholesterol and its enantiomer should be 100%, so if natural cholesterol is 93%, and its enantiomer is 7%, obviously 93% plus 7% is 100%. Also, we know from the previous problem that the percentage enantiomeric excess is equal to the percent of one enantiomer minus the percent of the other enantiomer. So we can say that the
+percent enantiomeric excess is equal to 93% minus 7%. And 93 minus 7 is 86%, which is what we got in
+our calculation down here. So that's just a nice
+little check to make sure you did the problem correctly.
