@@ -7,6 +7,9 @@ train.csv
 train.jsons
 *.pkl
 Input/
+.tar.gz
+.zip
+Downloads/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
