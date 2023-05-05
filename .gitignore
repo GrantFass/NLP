@@ -6,6 +6,7 @@ test.jsons
 train.csv
 train.jsons
 *.pkl
+Input/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

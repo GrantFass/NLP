@@ -1,5 +1,0 @@
-- To see how to put the diagrams together, let's go back to the example where we had just two kinds of parts, heads and bodies. Suppose I pick, umm,
-this head and this body. Or, I can pick this body, or this one, let's finish off all the possibilities. Notice that the bottom of the diagram has six combinations as before. And the diagram, hopefully, makes it clear that we have two choices of
-heads and for each of those, we have three choices of bodies. Or, two times three combinations. Use the next interactive to figure out what the diagram would look
-like if there were a different number of heads and a
-different number of bodies. (squeak, boing, squeak, squeak, squeak)

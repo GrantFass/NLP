@@ -1,8 +1,0 @@
-- Great work! You've probably discovered
-that changing the base scale changes the arm scale and head scale. This is because the
-scales affect each other. When you're working with
-controls like a scale deformer that affects a whole
-model or a bunch of parts, it's best to get the overall scale right before the individual parts. We call this working from rough to fine. We now have all the concepts we need to model and rig our lamp. Go ahead and add scales to your lamp to make it appear younger and older, and rotate to all the joints
-so you can pose the lamp, and a translate and a rotate to the base, so you can move the lamp around. And after the exercise,
-we have a bonus step, which will allow you to try animating the fully-rigged lamp. You should definitely check
-out the animation lesson before trying that one. (twinkling)

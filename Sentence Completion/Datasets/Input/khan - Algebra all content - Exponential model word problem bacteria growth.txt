@@ -1,6 +1,0 @@
-- The bacteria in a Petri dish culture are self-duplicating at a rapid pace. The relationship between
-the elapsed time T, in minutes, and the number
-of bacteria, B of T, in the Petri dish is modeled
-by the following function. And we see it's an exponential model here. How many bacteria will make up the culture after 120 minutes? So, really they just want to say, well what is B of 120 going to be? And so it's going to be 10 times two to the 120 divided by 12th power. So, this is going to be
-equal to 10 times two to the, 120 divided by 12 is, 10th power. So this is going to be equal to 10 times, two to the 10th power is 1,024. If you want to verify that, you can say, well two to
-the 5th is equal to 32, and so two to the 10th is going to be two to the 5th times two to the 5th. And 32 times 32 is... Let's see, 64. Zero. So, Let's see we're gonna have... Sorry, three times 32 is 96. Let's see you have a four and 12, 1024. So this is gonna be 1024. 10 times that is going to be equal to one zero two four zero. So, 10,200... 10,240 bacteria, and we're done.
